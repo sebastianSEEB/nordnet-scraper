@@ -1,0 +1,114 @@
+# Maritime aksjer på Nordnet - verifiserte slugs
+# Kilde: Nordnets egen "Ship O'hoi!"-liste (17 stk, sist endret 19.2.2026)
+# + supplert med bekreftede navn fra tidligere økt (Frontline, Hafnia, BW LPG,
+#   Capital Tankers, CMB.Tech) som ikke sto på Nordnets egen liste.
+# Ekskludert: Geospace Technologies (seismikkutstyr, Nasdaq-notert, ikke reell
+# shippingaksje - stod feilaktig på Nordnets liste).
+
+# --- Tank: råolje ---
+frontline-fro-xosl
+okeanis-eco-tankers-oet-xosl
+
+# --- Tank: produkt/kjemikalier ---
+hafnia-hafni-xosl
+stolt-nielsen-sni-xosl
+
+# --- Gass (LPG/LNG) ---
+bw-lpg-bwlpg-xosl
+alng-xoas
+klaveness-combination-carriers-kcc-xosl
+
+# --- Tørrbulk ---
+2020-bulkers-2020-xosl
+himalaya-shipping-hshp-xosl
+jinhui-shipping-transportation-jin-xosl
+
+# --- Container ---
+mpc-container-ships-mpcc-xosl
+
+# --- Bilfrakt / RoRo ---
+hoegh-autoliners-hauto-xosl
+wallenius-wilhelmsen-wawi-xosl
+wilh0-wilhelmsen-holding-ser0-wwi-xosl
+wilh0-wilhelmsen-holding-ser0-wwib-xosl
+
+# --- Offshore / spesialisert ---
+solstad-offshore-soff-xosl
+havila-shipping-havi-xosl
+ads-maritime-holding-ads-merk
+western-bulk-chartering-west-merk
+cmb0tech-nv-cmbto-xosl
+capital-tankers-corp-capt-merk
+hoegh-autoliners-hauto-xosl
+blue-nord-bnor-xosl
+nordic-semiconductor-nod-xosl
+wallenius-wilhelmsen-wawi-xosl
+norwegian-air-shuttle-nas-xosl
+bw-lpg-bwlpg-xosl
+link-mobility-group-holding-link-xosl
+vend-marketplaces-vend-xosl
+zaptec-zap-xosl
+kitron-kit-xosl
+panoro-energy-pen-xosl
+tomra-systems-tom-xosl
+dof-group-dofg-xosl
+hafnia-hafni-xosl
+okeanis-eco-tankers-oet-xosl
+capital-tankers-corp-capt-merk
+mpc-container-ships-mpcc-xosl
+protector-forsikring-prot-xosl
+leroy-seafood-group-lsg-xosl
+norbit-norbt-xosl
+scatec-scatc-xosl
+cmb0tech-nv-cmbto-xosl
+elkem-elk-xosl
+himalaya-shipping-hshp-xosl
+odfjell-drilling-odl-xosl
+constellation-oil-services-holding-cosh-xosl
+aker-solutions-akso-xosl
+b2-impact-b2i-xosl
+bakkafrost-bakka-xosl
+norconsult-norco-xosl
+paratus-energy-services-plsv-xosl
+napatech-napa-xosl
+cadeler-cadlr-xosl
+sed-energy-holdings-enh-xosl
+europris-epr-xosl
+sparebank-1-ostlandet-spol-xosl
+austevoll-seafood-auss-xosl
+sparebank-1-smn-ming-xosl
+bouvet-bouv-xosl
+veidekke-vei-xosl
+elopak-elo-xosl
+moreld-morld-xosl
+grieg-seafood-gsf-xosl
+stolt-nielsen-sni-xosl
+solstad-offshore-soff-xosl
+pexip-holding-pexip-xosl
+medistim-medi-xosl
+# Fikset fra watchlist_mediumcap_failed.txt (riktig slug funnet manuelt)
+dno-xosl
+autostore-auto-xosl
+sal-mar-salm-xosl
+kongsberg-maritime-kmar-xosl
+tgs-xosl
+end-r-endur-xosl
+hexagon-composites-hex-xosl
+okea-xosl
+sats-xosl
+norske-skog-nskog-xosl
+sparebank-1-nord-norge-nong-xosl
+sparebanken-norge-sbnor-xosl
+bw-energy-limited-bwe-xosl
+atea-xosl
+kid-xosl
+akastor-akast-xosl
+borregaard-brg-xosl
+software-one-holding-ag-swon-xosl
+# NB: Wilh. Wilhelmsen Holding A var IKKE tapt - den ligger allerede i
+# watchlist_maritime.txt som wilh0-wilhelmsen-holding-ser0-wwi-xosl
+
+# Small-cap / volatile tillegg
+hunter-group-hunt-xoas
+nykode-therapeutics-nykd-xosl
+circio-holding-crna-xosl

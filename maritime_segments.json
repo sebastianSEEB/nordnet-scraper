@@ -1,0 +1,55 @@
+{
+  "_comment": "Segmentgrupper for maritime aksjer. Brukes til å resonnere om read-across: en nyhet som treffer én aksje i et segment kan ha relevans for de andre i samme segment (delt rateeksponering, samme frakt-etterspørsel-drivere), men sjelden for aksjer i andre segmenter.",
+
+  "tank_raaolje": {
+    "beskrivelse": "Råoljetankere (VLCC/Suezmax/Aframax). Drives av globalt oljeforbruk, OPEC+-produksjon, sanksjoner, geopolitiske flaskehalser (Hormuz, Rødehavet).",
+    "aksjer": ["frontline-fro-xosl", "okeanis-eco-tankers-oet-xosl"]
+  },
+  "tank_produkt_kjemikalier": {
+    "beskrivelse": "Produkt- og kjemikalietankere (LR2/MR, parcel tankers). Drives av raffineringsmarginer og kjemisk industri-etterspørsel.",
+    "aksjer": ["hafnia-hafni-xosl", "stolt-nielsen-sni-xosl"]
+  },
+  "gass": {
+    "beskrivelse": "LPG/LNG-frakt. Drives av globale energipriser og gasseksport (spesielt USA/Midtøsten).",
+    "aksjer": ["bw-lpg-bwlpg-xosl", "alng-xoas", "klaveness-combination-carriers-kcc-xosl"]
+  },
+  "toerrbulk": {
+    "beskrivelse": "Tørrbulk (Newcastlemax/Capesize/Panamax). Drives av kull-, jernmalm- og kornhandel, spesielt Kina-etterspørsel. Følg Baltic Dry Index.",
+    "aksjer": ["2020-bulkers-2020-xosl", "himalaya-shipping-hshp-xosl", "jinhui-shipping-transportation-jin-xosl"]
+  },
+  "container": {
+    "beskrivelse": "Containerfrakt. Drives av global handel og handelspolitikk/tariffer.",
+    "aksjer": ["mpc-container-ships-mpcc-xosl"]
+  },
+  "bilfrakt_roro": {
+    "beskrivelse": "Bil- og rullende last (RoRo). Drives av global bilproduksjon/-eksport, spesielt kinesiske bileksportvolumer. MERK: WWI/WWIB er morselskap/storaksjonær i Wallenius Wilhelmsen - svært tett korrelert, nesten samme underliggende eksponering.",
+    "aksjer": [
+      "hoegh-autoliners-hauto-xosl",
+      "wallenius-wilhelmsen-wawi-xosl",
+      "wilh0-wilhelmsen-holding-ser0-wwi-xosl",
+      "wilh0-wilhelmsen-holding-ser0-wwib-xosl"
+    ]
+  },
+  "offshore_spesialisert": {
+    "beskrivelse": "Offshore support/spesialiserte fartøy. Drives av oljeserviceinvesteringer og offshore-aktivitet, mindre korrelert med de andre segmentene.",
+    "aksjer": [
+      "solstad-offshore-soff-xosl",
+      "havila-shipping-havi-xosl",
+      "ads-maritime-holding-ads-merk",
+      "western-bulk-chartering-west-merk",
+      "cmb0tech-nv-cmbto-xosl",
+      "capital-tankers-corp-capt-merk"
+    ]
+  },
+
+  "kryssegment_hendelser": {
+    "_comment": "Hendelser som typisk påvirker FLERE segmenter samtidig, ikke bare ett selskap.",
+    "eksempler": [
+      "Stenging/uro i Hormuz-stredet: rammer råoljetank mest direkte (høyere rater pga. omveier), men også LNG/LPG siden mye gass fraktes samme vei.",
+      "Uro i Rødehavet/Suez: rammer container og tank som normalt bruker Suez - lengre seilas = midlertidig kapasitetsknapphet = høyere rater for alle som seiler om Kapp det Gode Håp.",
+      "Kinesisk bileksport-vekst: direkte positivt for hele bilfrakt/RoRo-segmentet samtidig (HAUTO, WAWI, WWI, WWIB beveger seg ofte sammen på slike nyheter).",
+      "OPEC+ produksjonskutt/økning: påvirker råoljetankere og indirekte produkttankere.",
+      "Kinesisk stål-/kullimport: påvirker hele tørrbulk-segmentet samtidig."
+    ]
+  }
+}
