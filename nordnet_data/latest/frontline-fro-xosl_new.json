@@ -1,9 +1,36 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-08-26T16:00:34.594274+00:00",
+  "scraped_at": "2026-08-26T16:54:47.140974+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4eb0ed63949158e8",
+      "author": "Aframaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
+      "posted_relative": "for 24 min siden · Endret",
+      "text": "USA følger Oslo i dag, la oss hope på litt kjøpspress i morra. Algos jobber litt annerledes den siste tiden, det bratte fallet eller oppturen rundt 15.30 har blitt annerledes merker jeg. Nå er det mer to trapper opp en trappe ned eller omvendt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 244,
+      "has_link": false
+    },
+    {
+      "key": "ec370b065a019bc7",
+      "author": "Aframaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
+      "posted_relative": "for 47 min siden",
+      "text": "Sikkert fordi jeg investerte i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

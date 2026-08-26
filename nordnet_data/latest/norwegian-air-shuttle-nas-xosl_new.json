@@ -1,9 +1,25 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-08-26T16:02:06.119777+00:00",
+  "scraped_at": "2026-08-26T16:56:16.231468+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "213c3cae949c39bc",
+      "author": "Oldmanbam",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oldmanbam",
+      "posted_relative": "for 17 min siden",
+      "text": "· Har vi faen meg hatt lenge nok. Kan snart åpne en isbod med all den isen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }
