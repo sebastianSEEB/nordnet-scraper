@@ -1,9 +1,23 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-08-26T22:09:19.566549+00:00",
+  "scraped_at": "2026-08-26T23:21:28.988626+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "28dd45eacb898ac2",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": "for 1 t siden",
+      "text": "NVDA opp 4,5% i etterhandelen. Ser hvertfall ut til at vi unngår noen ny apokalypse for semiconductors",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    }
+  ]
 }
