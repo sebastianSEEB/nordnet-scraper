@@ -1,9 +1,39 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-08-26T19:03:43.316647+00:00",
+  "scraped_at": "2026-08-26T22:09:11.962755+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "208a243708c4f6a1",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 12 t siden",
+      "text": "· Snart nede i -6 kroner ja, det var da voldsomt. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "0ed4cc3833454dca",
+      "author": "baker brun",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baker-brun",
+      "posted_relative": "for 1 t siden",
+      "text": "Alt av shipping er ned i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

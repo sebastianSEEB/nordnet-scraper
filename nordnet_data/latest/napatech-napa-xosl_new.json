@@ -1,9 +1,39 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-08-26T19:05:15.486711+00:00",
+  "scraped_at": "2026-08-26T22:10:45.172447+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "aba472381c25e82a",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 1 t siden",
+      "text": "De økte idag ser jeg. Poenget? Nei det kan man lure på hver gang en ANAlytiker kommer med sine spådommer. … man kan uansett aldri stole på de. De prøver å fortelle at vi burde kjøpe nå, men hvis det er riktig eller hvis de vil dumpe ut aksjer til oss finner man som regel ut med tiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 285,
+      "has_link": false
+    },
+    {
+      "key": "aa6af3e018643276",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": "for 9 t siden",
+      "text": "ABG Sundal Collier øker kursmålet til 87 (85) 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        5
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

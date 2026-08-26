@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-08-26T19:02:59.946613+00:00",
+  "scraped_at": "2026-08-26T22:08:39.006013+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3df76c58df3772ed",
+      "author": "sanoj1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sanoj1",
+      "posted_relative": "for 2 t siden",
+      "text": "Wawi utbetaler 2 ganger i året.  Andre betaler som regel for hvert kvartal.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-08-26T19:04:05.697267+00:00",
+  "scraped_at": "2026-08-26T22:09:31.030797+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2dc9a9dc6a863b5b",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 2 t siden",
+      "text": "Synlig short i Vend er ned fra 3,12% til 1,81%. PDT Partners (tidligere 0,81 %) og Capital Fund Management (0,50 %) ikke lenger offentlig registrert over terskelen. Det blir en spennende fortsettelse!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 200,
+      "has_link": false
+    }
+  ]
 }
