@@ -3,14 +3,13 @@ name: Nordnet Forum Scraper
 on:
   schedule:
     # Tidspunkt er UTC. Oslo er UTC+2 om sommeren (som nå), UTC+1 om vinteren -
-    # bytt til '*/15 5-19 * * 1-5' rundt slutten av oktober når klokka stilles.
+    # bytt til '*/30 5-18 * * 1-5' rundt slutten av oktober.
     #
-    # Hvert 15. minutt, hverdager 06:00-22:00 CEST - bred margin før åpning,
-    # gjennom hele handelsdagen, og inn i kvelden hvor mye forumaktivitet skjer.
-    - cron: '*/15 4-19 * * 1-5'
-    # Hver time i helgen - fanger opp helgenyheter uten å overdrive frekvensen
-    # når børsen uansett ikke er åpen.
-    - cron: '0 6-20 * * 0,6'
+    # Hvert 30. minutt, hverdager ca. 06:00-21:00 CEST - dekker god margin
+    # før åpning og gjennom hele handelsdagen. Hver kjøring sender KUN det
+    # som er nytt siden forrige (køen tømmes etter hver vellykkede rapport),
+    # så kostnaden holder seg lav selv med denne frekvensen.
+    - cron: '*/30 4-19 * * 1-5'
   workflow_dispatch: {}  # gjør at du også kan trigge en kjøring manuelt fra GitHub-fanen "Actions"
 
 jobs:
@@ -29,6 +28,11 @@ jobs:
       - name: Kjør scraperen
         run: python nordnet_forum_scraper.py --from-file watchlist_full.txt --data-dir nordnet_data
 
+      - name: Analyser samlet kø, rapporter, varsle, tøm køen
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python analyze_and_report.py
+
       - name: Commit og push oppdatert data
         run: |
           git config user.name "github-actions[bot]"
@@ -36,8 +40,3 @@ jobs:
           git add nordnet_data
           git diff --staged --quiet || git commit -m "Auto-oppdatering av forumdata $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
-
-      - name: Sjekk om noe er verdt å varsle om
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python check_and_notify.py
