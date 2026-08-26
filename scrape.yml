@@ -1,0 +1,38 @@
+name: Nordnet Forum Scraper
+
+on:
+  schedule:
+    # Tidspunkt er UTC. Oslo er UTC+2 om sommeren (som nå), UTC+1 om vinteren -
+    # bytt til '*/15 5-19 * * 1-5' rundt slutten av oktober når klokka stilles.
+    #
+    # Hvert 15. minutt, hverdager 06:00-22:00 CEST - bred margin før åpning,
+    # gjennom hele handelsdagen, og inn i kvelden hvor mye forumaktivitet skjer.
+    - cron: '*/15 4-19 * * 1-5'
+    # Hver time i helgen - fanger opp helgenyheter uten å overdrive frekvensen
+    # når børsen uansett ikke er åpen.
+    - cron: '0 6-20 * * 0,6'
+  workflow_dispatch: {}  # gjør at du også kan trigge en kjøring manuelt fra GitHub-fanen "Actions"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer avhengigheter
+        run: pip install requests beautifulsoup4
+
+      - name: Kjør scraperen
+        run: python nordnet_forum_scraper.py --from-file watchlist_full.txt --data-dir nordnet_data
+
+      - name: Commit og push oppdatert data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nordnet_data
+          git diff --staged --quiet || git commit -m "Auto-oppdatering av forumdata $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
