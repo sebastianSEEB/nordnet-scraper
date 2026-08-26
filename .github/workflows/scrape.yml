@@ -38,4 +38,6 @@ jobs:
           git push
 
       - name: Sjekk om noe er verdt å varsle om
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python check_and_notify.py
