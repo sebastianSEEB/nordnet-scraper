@@ -1,27 +1,54 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-08-26T16:56:35.929707+00:00",
+  "scraped_at": "2026-08-26T19:04:18.427357+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "289cb2743c1cee9f",
+      "key": "a5da2e16e8712b01",
       "author": "PenPenPen",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/penpenpen",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden · Endret Dagen etter Q2-presentasjonen (på selskapets hjemmeside) økes expected lifting scedule formidabelt: https://mb.cision.com/Public/399/4386251/9ddfd16e8772fc7c.pdf For Q3 med pluss 0,2–0,3 millioner fat og i Q4 med hele 0,9–1,1 millioner fat (i forhold til Q2-presentasjonen). Ser man på midtpunktene er samlet lifting scedule for Q3 og Q4 på 𝟮,𝟳𝟬 mill. fat ved Q2-framleggingen og dagen etterpå 𝟯,𝟴𝟱 mill. fat.   Ja, børsmelding etterlyses!",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Dagen etter Q2-presentasjonen (på selskapets hjemmeside) økes expected lifting scedule formidabelt: https://mb.cision.com/Public/399/4386251/9ddfd16e8772fc7c.pdf For Q3 med pluss 0,2–0,3 millioner fat og i Q4 med hele 0,9–1,1 millioner fat ekstra (i forhold til Q2-presentasjonen). Ser man på midtpunktene er samlet expected lifting scedule for Q3 og Q4 på ca 𝟮,𝟳𝟬 mill. fat ved Q2-framleggingen og dagen etterpå er tallet på ca 𝟯,𝟴𝟱 mill. fat.   Ja, børsmelding etterlyses!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        6,
+        3
       ],
       "links": [
         "https://mb.cision.com/Public/399/4386251/9ddfd16e8772fc7c.pdf"
       ],
-      "char_count": 476,
+      "char_count": 474,
       "has_link": true
+    },
+    {
+      "key": "ec0cdbf27b8884f0",
+      "author": "pnor2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pnor2",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Elfenben kysten er ikke med i de middel 3.85 så skal vel legges til 0.6 mil extra for 2h  q3-4",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "56d6b5034c37e395",
+      "author": "@Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": null,
+      "text": "hva mener du mer at selskapet er i spill ? :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
     }
   ]
 }

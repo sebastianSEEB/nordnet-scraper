@@ -1,9 +1,39 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-08-26T16:58:21.680453+00:00",
+  "scraped_at": "2026-08-26T19:06:03.054701+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d59ca59fc5b8d84a",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "👏👏 Ingen hvemsomhelst, Snorre Øverland går under betegnelsen «Norges råeste trader». Har sin bakgrunn som aksjemegler, men det er etter at han begynte som investor rundt 2010 butikken virkelig skøyt fart. Gjennom investeringsselskapet Trapesa har han tjent seg styrtrik på aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 280,
+      "has_link": false
+    },
+    {
+      "key": "3d20a7a8ac3e94bb",
+      "author": "Marbella1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marbella1",
+      "posted_relative": "for 3 t siden",
+      "text": "Snorre Øverland har kjøpt 100K aksjer til i Moreld Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }
