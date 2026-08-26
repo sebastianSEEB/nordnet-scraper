@@ -36,3 +36,6 @@ jobs:
           git add nordnet_data
           git diff --staged --quiet || git commit -m "Auto-oppdatering av forumdata $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
+
+      - name: Sjekk om noe er verdt å varsle om
+        run: python check_and_notify.py
