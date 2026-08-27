@@ -76,7 +76,13 @@ forumaktivitet, ikke en kjøps- eller salgsanbefaling.\""""
         timeout=120,
     )
     resp.raise_for_status()
-    text = resp.json()["content"][0]["text"].strip()
+    data = resp.json()
+    # Ikke anta at content[0] alltid er ren tekst - nyere modeller kan legge
+    # en "thinking"-blokk først. Plukk ut og slå sammen alle text-blokker.
+    text_parts = [block["text"] for block in data.get("content", []) if block.get("type") == "text"]
+    if not text_parts:
+        raise ValueError(f"Fant ingen text-blokk i Claude-svaret: {json.dumps(data)[:500]}")
+    text = "".join(text_parts).strip()
     text = re.sub(r"^```(json)?|```$", "", text.strip()).strip()
     return json.loads(text)
 
