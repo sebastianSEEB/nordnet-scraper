@@ -45,7 +45,7 @@ enkeltbrukeres magefølelse. Bruk segment-taggingen til å vurdere om noe er
 relevant på tvers av flere aksjer i samme segment, selv om den aksjen ikke
 har egne nye innlegg denne runden.
 
-Marker noe som "urgent" KUN hvis det er ekstremt viktig: bekreftet
+Marker et funn som "urgent" KUN hvis det er ekstremt viktig: bekreftet
 konsoliderings-/oppkjøpsbekreftelse, en stor konkret kontrakt, flere
 analytikere som oppgraderer samme dag, eller uvanlig stort innsidekjøp fra
 ledelsen. Vanlig positiv sentiment eller enkeltstående kursmål-justeringer
@@ -55,8 +55,20 @@ Svar KUN med gyldig JSON på dette eksakte formatet, ingenting annet:
 {{
   "report_markdown": "hele rapporten som lesbar markdown, med klassifisering per aksje og et eget avsnitt om kryssegment-funn",
   "urgent": true/false,
-  "urgent_summary": "kort resymé på maks 3 setninger hvis urgent er true, ellers tom streng"
+  "alerts": [
+    {{
+      "company": "Selskapsnavn (TICKER)",
+      "headline": "Kort overskrift på hovedsaken, maks 8 ord",
+      "signal_strength": "Sterkt signal" eller "Signal" eller "Svakt signal",
+      "reasoning": "1-2 setninger som begrunner vurderingen, med konkrete fakta (hvem, hva, tall)"
+    }}
+  ]
 }}
+
+"alerts" skal være TOM LISTE hvis urgent er false. Hvis flere selskaper
+kvalifiserer, sorter listen med det VIKTIGSTE funnet først. "signal_strength"
+beskriver styrken på selve signalet i markedet/forumet (f.eks. hvor mange
+analytikere, hvor stort innsidekjøp) - IKKE en kjøpsanbefaling fra deg.
 
 Avslutt report_markdown med: "Dette er en signalrapport basert på
 forumaktivitet, ikke en kjøps- eller salgsanbefaling.\""""
@@ -92,13 +104,30 @@ forumaktivitet, ikke en kjøps- eller salgsanbefaling.\""""
     return json.loads(text)
 
 
-def send_ntfy(summary: str) -> None:
+STRENGTH_ORDER = {"Sterkt signal": 0, "Signal": 1, "Svakt signal": 2}
+STRENGTH_ICON = {"Sterkt signal": "🔴", "Signal": "🟡", "Svakt signal": "⚪"}
+
+
+def format_alert_body(alerts: list) -> str:
+    ordered = sorted(alerts, key=lambda a: STRENGTH_ORDER.get(a.get("signal_strength"), 1))
+    blocks = []
+    for a in ordered:
+        icon = STRENGTH_ICON.get(a.get("signal_strength"), "🟡")
+        blocks.append(
+            f"{icon} {a.get('signal_strength', 'Signal')} — {a.get('company', '?')}\n"
+            f"{a.get('headline', '')}\n"
+            f"{a.get('reasoning', '')}"
+        )
+    return "\n──────────\n".join(blocks)
+
+
+def send_ntfy(body: str, title: str) -> None:
     result = subprocess.run(
         [
             "curl", "-s", "-o", "/dev/null", "-w", "%{http_code}",
-            "-H", "Title: Nordnet: viktig funn",
+            "-H", f"Title: {title}",
             "-H", "Priority: high",
-            "-d", summary,
+            "-d", body,
             f"https://ntfy.sh/{NTFY_TOPIC}",
         ],
         capture_output=True, text=True,
@@ -143,9 +172,12 @@ def main():
         f.write(f"# Nordnet-rapport ({timestamp})\n\n{result['report_markdown']}\n")
     print(f"Rapport skrevet til {REPORT_PATH}")
 
-    if result.get("urgent"):
-        print(f"Flagget som viktig: {result['urgent_summary']}")
-        send_ntfy(result["urgent_summary"])
+    if result.get("urgent") and result.get("alerts"):
+        n = len(result["alerts"])
+        title = "Nordnet: viktig funn" if n == 1 else f"Nordnet: {n} viktige funn"
+        body = format_alert_body(result["alerts"])
+        print(f"Flagget {n} funn som viktig:\n{body}")
+        send_ntfy(body, title)
     else:
         print("Ingenting ekstremt viktig denne runden.")
 
