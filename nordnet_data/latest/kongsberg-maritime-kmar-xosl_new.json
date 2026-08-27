@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-08-27T09:39:49.281979+00:00",
+  "scraped_at": "2026-08-27T10:48:08.936800+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "147e0d71b73b9a9f",
+      "author": "ro-te",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
+      "posted_relative": "for 17 min siden",
+      "text": "Hvis KM fortsetter trenden med å stige siste del av dagen, så ser det jo ut som pluss dag. Heller ingen grunn til noe annet 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

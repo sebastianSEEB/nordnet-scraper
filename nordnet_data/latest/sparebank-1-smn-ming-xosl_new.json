@@ -1,9 +1,38 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-08-27T09:39:07.421652+00:00",
+  "scraped_at": "2026-08-27T10:47:27.316811+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "402b222b71274e1e",
+      "author": "Fruen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fruen",
+      "posted_relative": "for 17 min siden",
+      "text": "Hvor godt tipset er får du svar på om et halvt år!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "8f23377978a93892",
+      "author": "Filiperkul123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/filiperkul123",
+      "posted_relative": "for 24 min siden",
+      "text": "Tipper 15 kr utbytte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

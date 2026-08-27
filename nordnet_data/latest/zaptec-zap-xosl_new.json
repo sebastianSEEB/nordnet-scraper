@@ -1,9 +1,25 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-08-27T09:37:31.347778+00:00",
+  "scraped_at": "2026-08-27T10:45:52.169058+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5a7dab68fd4eef4e",
+      "author": "dapb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dapb",
+      "posted_relative": "for 31 min siden",
+      "text": "· Man kan godt undre seg litt over presset som nesten daglig er på Zaptec-aksjen under, tilsynelatende, høy omsetning (ca 75-100% mer enn \"normalt\"). Da skulle man tro at antallet depoter med Zaptec-aksjer ville falle, men det er ikke tilfellet, tvert imot så stiger antallet nye aksjonærer pent. (I Nordnet - bildet er sannsynligvis det samme andre steder). Derfor undrer det meg at aksjen faktisk faller. Spesielt i sluttaksjonen hvor Zaptec noen ganger faller med mer enn 1%. Det er her mistanken om urent trav kommer inn. Cidadel har en pen shortposisjon i Zaptec og jeg kunne godt tenke meg å se om de mange, relativt store handlene, faktisk skjer mellom 2 kunder eller om Cidadel krysser aksjene med seg selv for å få markert kursen ned. Derved økes ikke deres short, men kursen er banket ned. Nå, men lykke til med deres Zaptec-aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 842,
+      "has_link": false
+    }
+  ]
 }
