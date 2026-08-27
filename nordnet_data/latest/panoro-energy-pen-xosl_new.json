@@ -1,65 +1,37 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-08-27T08:12:13.955306+00:00",
+  "scraped_at": "2026-08-27T09:37:38.913414+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "11b80d8ea8bc659d",
-      "author": "matsnil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
-      "posted_relative": "for 34 min siden",
-      "text": "· Jeg tror ikke markedet har så mye innflytelse på papirprisen. Noen få hender med ubegrensede økonomiske ressurser (gjett selv) er desperate etter å holde prisen nede. De har dessuten makt over pressen. De får hjelp av algoritmer som er styrt av \"headlines\" og markedets \"reaksjoner\". De som tror på høyere oljepris avventer i kulissene. Samtidig er det bare støy. Det som styrer prisen på sikt er reserver og tilgang til olje og gass. For hver dag kommer vi nærmere et punkt der det ikke går an å skjule mangelen.",
+      "key": "bf361de1c35c5f93",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 33 min siden",
+      "text": "Clarksons estimerer en PE på 2,5 og FCF-yield på 36% i 2027 gitt brent 75$. https://x.com/OriginalBraila/status/2092889797773623454 Begge utkjøpene har virkning fra 01.01.25 så det samme burde da gjelde for 2026 (og utbytter betalt i 2027). Q1-løftene lå omtrent der, mens miniløft i Q2 passerte 100. Juliløftet vet vi ikke, men må vel ha ligget godt over 75$, så da gjenstår Q4 (som utgjør drøye halvparten av årets løft). Nå er det vel FCFE Panoro bruker og ikke FCF, og så er det (inntil) 50%, men en betydlig opptrapping fra årets utbytter blir det uansett.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/OriginalBraila/status/2092889797773623454"
       ],
-      "links": [],
-      "char_count": 515,
-      "has_link": false
+      "char_count": 561,
+      "has_link": true
     },
     {
-      "key": "7fb09fe44bc86956",
-      "author": "justern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/justern",
-      "posted_relative": "for 11 min siden · Endret",
-      "text": "3kr/år i 2027, 4kr/år i 2028 som base. Er mange parameter her da som vi ikke har kontroll på. dnb opererer med fcf på $100m ca og clarkson 140 i 2027. Det er stor forskjell. Om de havner der clarkson mener åpner det for 4.5-5kr/år i 2028, altså basert på 27 resultater.",
+      "key": "e3c947f19bb9fe4d",
+      "author": "omeo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omeo",
+      "posted_relative": "for 1 min siden · Endret",
+      "text": "Godt å se dippen er over.  Nermer den seg 40 tallet før ex dag  tro....",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 269,
-      "has_link": false
-    },
-    {
-      "key": "b901df956c0ba7a6",
-      "author": "Divinesia",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/divinesia",
-      "posted_relative": "for 1 t siden",
-      "text": "· Clarksons Platou Securities hever kursmålet for Panoro Energy til 58 norske kroner (55), gjentar kjøp Ok, jeg tar den. For en fin institusjon Clarksons er.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        13
-      ],
-      "links": [],
-      "char_count": 157,
-      "has_link": false
-    },
-    {
-      "key": "fd0c5494bef63b2c",
-      "author": "Himalaya734",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
-      "posted_relative": "for 2 t siden",
-      "text": "Elendig jobb av IR i dette selskapet… helt tragisk",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 50,
+      "char_count": 71,
       "has_link": false
     }
   ]

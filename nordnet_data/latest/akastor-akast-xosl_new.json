@@ -1,38 +1,24 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-08-27T08:15:11.499610+00:00",
+  "scraped_at": "2026-08-27T09:40:35.325219+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "3f27b6140834e16b",
+      "key": "ae68abc2992d8ac5",
       "author": "Jadevadeja",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
-      "posted_relative": "for 1 døgn siden",
-      "text": "4 anbefalinger på kjøp, men ett snitt på rett over 21kr, det gir en oppside på ca 62% fra dagens kurs. Tar de alle feil?",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Citibank, N.A. som har lempet ut 760 000 aksjer de siste dagene",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9,
-        3
+        1
       ],
       "links": [],
-      "char_count": 120,
-      "has_link": false
-    },
-    {
-      "key": "632ff0c6e3d885c2",
-      "author": "Jadevadeja",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden Citibank, N.A. som har lempet ut 760 000 aksjer de sistedagene",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 90,
+      "char_count": 63,
       "has_link": false
     }
   ]

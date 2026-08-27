@@ -1,22 +1,56 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-08-27T08:11:44.705222+00:00",
+  "scraped_at": "2026-08-27T09:37:07.786972+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "629b92d8cbaeef4d",
-      "author": "McapVenture",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
-      "posted_relative": "for 2 t siden",
-      "text": "Var nok pga FFA gikk ned en del igår.",
+      "key": "1504d414b8ed7157",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": null,
+      "text": "23. aug. Saudi-Arabisk olje fra Yanbu har tatt turen nordover for å unngå Houtiene. https://gcaptain.com/saudis-shuttle-oil-north-on-tankers-to-evade-houthis/ Sinokor, Dynacom og DHT har visst vært i skytteltrafikk i følge artikkelen, men jeg tror vi må føye til Capital Tankers på den lista med Aframax Alimedon og/eller LR2 Androklos",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://gcaptain.com/saudis-shuttle-oil-north-on-tankers-to-evade-houthis/"
+      ],
+      "char_count": 335,
+      "has_link": true
+    },
+    {
+      "key": "b2d90a4e691536f5",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 20 min siden",
+      "text": "Flåteoppdatering mini Suez Archigos har nå ankret opp utenfor Fujairah Afra Alimedon har losset i Sokhna og seilt til åpningen av Suezkanalen (om hun skal gjennom gjenstår å se) Afra Andreios, som lastet i Syria 24.08, har nå seilt gjennom Suezkanalen og skal gjennom Houtiland på sin ferd til Singapore ETA 14.09 Afra Ameinon skal seile tom (...) til Rotterdam ETA 31.08.  Suez Archelaos har nå fortøyd i Nemrut (hun har kazakstansk olje) LR2 Athinagoras surrer; lastet omsider i Ulsan og seiler sørover, men oppgir fortsatt Ulsan som destinasjon (ETA 02.09) Suez Aristodimos har nå bunkret opp i Singapore og flagger Fujairah ETA 08.09",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 37,
+      "char_count": 637,
+      "has_link": false
+    },
+    {
+      "key": "1e19e619eb122a0a",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": null,
+      "text": "23. aug. Flåteoppdatering (miniversjon da det ikke har skjedd så mye) Suez Archigos (tom) har passert India sin sydspiss og har retning mot Oman/Hormuz Afra Andreios (tom) er nå fortøyd i Syria Afra Areios (tom) har nå omsider fortøyd i Fujairah (hun ankom 02.08 - uvisst om hun har hatt demurrage eller ventet på oppdrag) LR2 Athinagoras  har nå fortøyd i Ulsan",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 362,
       "has_link": false
     }
   ]

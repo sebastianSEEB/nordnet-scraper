@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-08-27T08:10:45.239225+00:00",
+  "scraped_at": "2026-08-27T09:36:09.918661+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "523c691d7cc4f7d9",
+      "author": "Aksjoman007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjoman007",
+      "posted_relative": "for 7 min siden",
+      "text": "Aksjen passerer snart 4 kroner...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }
