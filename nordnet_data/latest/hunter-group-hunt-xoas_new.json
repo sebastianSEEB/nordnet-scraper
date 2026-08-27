@@ -1,9 +1,116 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-08-27T00:48:04.341477+00:00",
+  "scraped_at": "2026-08-27T08:15:25.360754+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
+  "posts": [
+    {
+      "key": "984f5c0d7f8b8553",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 59 min siden",
+      "text": "$ 666.000. pr dag! Hunter VLCC-er tjener 666 000 dollar per dag ettersom prisene når rekordhøye nivåer https://www.tradewindsnews.com/tankers/hunter-vlccs-earning-666-000-per-day-as-rates-hit-record-highs/2-1-2034823",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.tradewindsnews.com/tankers/hunter-vlccs-earning-666-000-per-day-as-rates-hit-record-highs/2-1-2034823"
+      ],
+      "char_count": 216,
+      "has_link": true
+    },
+    {
+      "key": "9b83a5510f84aa5b",
+      "author": "shippinganalytiker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "posted_relative": "for 41 min siden · Endret",
+      "text": "Utbytte på 1.5kr var litt mindre enn hva jeg forventet. Det betyr bare at utbytte for kommende kvartaler blir høyere. FFA korrigerte kraftig ned i går. I dag starter vi litt opp. FFA utledet verdi ved full betaling er i skrivende stund  14.45. Noen fler detaljer fra Q2 rapporten Resultatmessig var det noe overraskende bokført et tap på 11.4 millioner knyttet til urealisterte endring i verdien av TC porteføljen. Dette ser ut til å skyldes at de har endret verdesettelsesprosess fra M2M basis TD3C FFA til M2M basis 6 og 12 månders TC nivåer as of 30.6. Disse lå på 128,500 og 121,000 i slutten Juni. Dette er nivåer som er langt under TD3C FFA kurven. Dette har ingen cashflow effekt og er en ren regnskapsteknisk avsetning. Fra Q2 rapporten:  The fair value of the TC contracts is calculated as the net present value of the 6 and 12 months TC market rates, less  fixed rates adjusted for 1 % commission. The value of USD 24.9 is considered Management’s best estimate as of 30 June  2026. Fra Q1 rapporten The fair value of the back-to-back time charterparties is based on the present value of the expected floating index  linked spot rate less the present value of the fixed rated for the remaining period of the two contracts, refer also to note  8 subsequent events. The value of USD 36.3 is considered Management’s best estimate as of 31 March 2026. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        3
+      ],
+      "links": [],
+      "char_count": 1376,
+      "has_link": false
+    },
+    {
+      "key": "abefc02aba8f3fc9",
+      "author": "001390",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/001390",
+      "posted_relative": "for 12 min siden · Endret",
+      "text": "Her er jo saken enkel; alle penger kommer før eller senere så betyr jo egentlig ingenting så lenge man ikke trenger penger her og nå.  - og hvis så er tilfelle så bør man ikke være tungt eksponert i den mest volatile aksjen på Oslo Børs",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 236,
+      "has_link": false
+    },
+    {
+      "key": "a97fa0dc83cffe73",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "I går Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina            619,44       640.902",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "d01815d3e213767d",
+      "author": "mapaal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mapaal",
+      "posted_relative": "for 47 min siden",
+      "text": "Utbytte er godt Vi ser neste kvartal utbytte på kr. 2",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "f1d774dcc2ea9b15",
+      "author": "trubaduren64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trubaduren64",
+      "posted_relative": "for 57 min siden",
+      "text": "Når blir exdag klar? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "bbcba571021c9c0e",
+      "author": "trubaduren64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trubaduren64",
+      "posted_relative": "for 20 min siden",
+      "text": "Ok.  Takk.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }

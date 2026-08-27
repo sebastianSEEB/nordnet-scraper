@@ -1,9 +1,23 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-08-27T00:44:47.217535+00:00",
+  "scraped_at": "2026-08-27T08:11:59.385499+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3efd0d31912e446c",
+      "author": "TanteVibeke",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tantevibeke",
+      "posted_relative": "for 12 min siden",
+      "text": "Reisen mot 30 nært forestående (?)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

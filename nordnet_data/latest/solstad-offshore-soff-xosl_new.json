@@ -1,9 +1,25 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-08-27T00:44:06.572135+00:00",
+  "scraped_at": "2026-08-27T08:11:26.097042+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a7eebc6bbe6e8688",
+      "author": "Kaisovski",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaisovski",
+      "posted_relative": null,
+      "text": "23. aug. Snart 10% utbytte i kvartalet for deg 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,55 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-08-27T00:45:25.114076+00:00",
+  "scraped_at": "2026-08-27T08:12:37.906348+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6a5dec4a551c734b",
+      "author": "tommy00",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tommy00",
+      "posted_relative": "for 14 min siden",
+      "text": "sparer 50 mill i året på fornyede lån: https://www.finansavisen.no/energi/2026/08/26/8375808/scatrec-refinansierte-radyrt-lan-sparer-50-millioner-i-aret",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/08/26/8375808/scatrec-refinansierte-radyrt-lan-sparer-50-millioner-i-aret"
+      ],
+      "char_count": 152,
+      "has_link": true
+    },
+    {
+      "key": "142e2eb0d2d126ea",
+      "author": "Lynx_80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lynx_80",
+      "posted_relative": "for 35 min siden",
+      "text": "Ser ut som fornybar sektoren endte litt opp i går i USA. Er det vanligvis toneangivende for denne? (Fersk i fornybar markedet)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "c279df6ef5cb6a3f",
+      "author": "Saagaardetop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saagaardetop",
+      "posted_relative": "for 14 min siden · Endret",
+      "text": "· Vestas er virkelig et rally for øyeblikket og også i dag 😊 Så \"grønt\" lever. Vær tålmodig her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    }
+  ]
 }

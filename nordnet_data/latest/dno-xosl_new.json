@@ -1,9 +1,51 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-08-27T00:46:55.990207+00:00",
+  "scraped_at": "2026-08-27T08:14:10.436436+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "0c19b8bf601c26cd",
+      "author": "Rockly",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rockly",
+      "posted_relative": "for 1 t siden",
+      "text": "Fylt på litt på posten min her, men det la seg som en egen post i oversikten min her på Nordnet. Noen som vet hvorfor den ikke legger seg inn i den opprinnelige?🤔🤷🏼‍♂️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 167,
+      "has_link": false
+    },
+    {
+      "key": "382e7346ade2dd5f",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 57 min siden",
+      "text": "Er møkka lei dette Bijan Cirkuset i Dno aksjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "b197061c6f4551e3",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 1 t siden",
+      "text": "Kjøpt på en annen konto kanskje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

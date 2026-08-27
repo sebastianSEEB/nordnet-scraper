@@ -1,9 +1,23 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-08-27T00:44:32.215027+00:00",
+  "scraped_at": "2026-08-27T08:11:44.705222+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "629b92d8cbaeef4d",
+      "author": "McapVenture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
+      "posted_relative": "for 2 t siden",
+      "text": "Var nok pga FFA gikk ned en del igår.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-08-27T00:45:09.816997+00:00",
+  "scraped_at": "2026-08-27T08:12:21.631459+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "caf4cd59c30dd56d",
+      "author": "@Gnusmas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnusmas",
+      "posted_relative": null,
+      "text": "ikke? Signalet det vil sende om de velger og beholde eller selge unna vil selvfølgelig få en betydning.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

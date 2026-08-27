@@ -1,9 +1,25 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-08-27T00:43:02.529328+00:00",
+  "scraped_at": "2026-08-27T08:10:21.324350+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "515a3e57f6ede6c2",
+      "author": "Vannhode",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vannhode",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Fearnley øker kursmålet fra 427 til 449, gjentar kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

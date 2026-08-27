@@ -1,9 +1,38 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-08-27T00:44:58.634574+00:00",
+  "scraped_at": "2026-08-27T08:12:10.311911+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6705577ae543e95f",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 17 min siden · Endret",
+      "text": "Jeg synes folk som ikke vil tjene penger må skynde seg å selle, Hvis de vil tjene penger så ikke legg aksjer ut for salg. Da vil aksje prisen stige fort.  Info til de som ikke forstår seg på aksjer,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 198,
+      "has_link": false
+    },
+    {
+      "key": "23ff7d80157abfad",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 7 min siden",
+      "text": "· Jeg tror vi vil se stigende kurs nå når sommeren er på hell. Det samme som for et år siden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    }
+  ]
 }
