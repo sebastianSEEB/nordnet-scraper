@@ -1,9 +1,25 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-08-27T17:54:55.876409+00:00",
+  "scraped_at": "2026-08-27T20:52:44.568770+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "05b8808c141a014f",
+      "author": "Il Capitano 33",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/il-capitano-33",
+      "posted_relative": "for 2 t siden",
+      "text": "Enda en aktør på banen😔🫣",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }
