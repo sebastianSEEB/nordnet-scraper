@@ -70,18 +70,23 @@ forumaktivitet, ikke en kjøps- eller salgsanbefaling.\""""
         },
         json={
             "model": MODEL,
-            "max_tokens": 4000,
+            "max_tokens": 8000,
+            "thinking": {"type": "disabled"},  # ren klassifisering - trenger ikke tenke-modus
             "messages": [{"role": "user", "content": prompt}],
         },
         timeout=120,
     )
     resp.raise_for_status()
     data = resp.json()
-    # Ikke anta at content[0] alltid er ren tekst - nyere modeller kan legge
-    # en "thinking"-blokk først. Plukk ut og slå sammen alle text-blokker.
+    # Ikke anta at content[0] alltid er ren tekst - modellen kan legge en
+    # "thinking"-blokk først. Plukk ut og slå sammen alle text-blokker.
     text_parts = [block["text"] for block in data.get("content", []) if block.get("type") == "text"]
     if not text_parts:
-        raise ValueError(f"Fant ingen text-blokk i Claude-svaret: {json.dumps(data)[:500]}")
+        stop_reason = data.get("stop_reason", "ukjent")
+        raise ValueError(
+            f"Fant ingen text-blokk i Claude-svaret (stop_reason={stop_reason}). "
+            f"Rått svar: {json.dumps(data)[:500]}"
+        )
     text = "".join(text_parts).strip()
     text = re.sub(r"^```(json)?|```$", "", text.strip()).strip()
     return json.loads(text)
