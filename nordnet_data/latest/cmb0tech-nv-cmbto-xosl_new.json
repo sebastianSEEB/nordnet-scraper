@@ -1,9 +1,41 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-08-27T10:45:25.663080+00:00",
+  "scraped_at": "2026-08-27T17:54:32.189774+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "12119aee7d8a522a",
+      "author": "Vivio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vivio",
+      "posted_relative": "for 3 t siden",
+      "text": "Nå er selve presentasjonen ute. Etter å ha gått gjennom den synes jeg faktisk presentasjonen var mer positiv enn dagens kursreaksjon tilsier. https://www.investing.com/news/transcripts/earnings-call-transcript-cmbtech-beats-q2-2026-estimates-on-strong-shipping-93CH-4879435",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.investing.com/news/transcripts/earnings-call-transcript-cmbtech-beats-q2-2026-estimates-on-strong-shipping-93CH-4879435"
+      ],
+      "char_count": 273,
+      "has_link": true
+    },
+    {
+      "key": "45311e0406f5338f",
+      "author": "Vivio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vivio",
+      "posted_relative": "for 6 t siden",
+      "text": "EBITDA på 552,8 mill. ser fantastisk ut, men inkluderer rundt 127,4 mill. i gevinst fra skipsalg. Underliggende EBITDA blir dermed: 553m - 127m = ca. 425m. USD Men her synes jeg markedet eventuelt er litt for negativt, fordi tilsvarende regnestykke for Q1 faktisk ser betydelig svakere ut. Q1 EBITDA var 558,3 mill., men inneholdt rundt 267,4 mill. i salgsgevinster. Dermed: Q1 underliggende = 291m Q2 underliggende = 425m Det er omtrent 46 % forbedring kvartal mot kvartal. Det synes jeg er et veldig sterkt kjøpssignal. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 541,
+      "has_link": false
+    }
+  ]
 }

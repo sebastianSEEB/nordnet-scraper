@@ -1,9 +1,38 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-08-27T10:45:55.870005+00:00",
+  "scraped_at": "2026-08-27T17:55:03.481989+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b59f75f28164dac0",
+      "author": "Modelman1968",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/modelman1968",
+      "posted_relative": "for 6 t siden",
+      "text": "· Er han det da? Virkelig??? 🙄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "8cdd9d3c4275fff7",
+      "author": "heheyhey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heheyhey",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "· kjøpe for 90kr?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

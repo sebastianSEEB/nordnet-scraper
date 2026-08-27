@@ -1,24 +1,69 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-08-27T10:48:08.936800+00:00",
+  "scraped_at": "2026-08-27T17:57:08.998848+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "147e0d71b73b9a9f",
-      "author": "ro-te",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
-      "posted_relative": "for 17 min siden",
-      "text": "Hvis KM fortsetter trenden med å stige siste del av dagen, så ser det jo ut som pluss dag. Heller ingen grunn til noe annet 👍",
+      "key": "09a6fb9390157056",
+      "author": "Edorf75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/edorf75",
+      "posted_relative": "for 5 t siden",
+      "text": "· https://www.defencenordic.com/article/view/1242006/denmark_picks_kongsberg_and_saab_for_ninefigure_underwater_drone_deals?fbclid=IwZnRzaAT7Em5wZG9mAWZkaWQWUNSPwZ0GiC4HB2kjGb2ENJPcX8_CemV4dG4DYWVtAjExAHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR4yz_N8jhm0WLwDiwbfUQE4v3R7S6nlbdTp-RfuuYwNCL_56mLZhwNp6c0hRA_aem_qy5MkiSeCBZdKLLJ1RRfUw Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        1,
+        4
+      ],
+      "links": [
+        "https://www.defencenordic.com/article/view/1242006/denmark_picks_kongsberg_and_saab_for_ninefigure_underwater_drone_deals?fbclid=IwZnRzaAT7Em5wZG9mAWZkaWQWUNSPwZ0GiC4HB2kjGb2ENJPcX8_CemV4dG4DYWVtAjExAHNydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR4yz_N8jhm0WLwDiwbfUQE4v3R7S6nlbdTp-RfuuYwNCL_56mLZhwNp6c0hRA_aem_qy5MkiSeCBZdKLLJ1RRfUw"
+      ],
+      "char_count": 342,
+      "has_link": true
+    },
+    {
+      "key": "13e4ebbdd2e72ef1",
+      "author": "ro-te",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
+      "posted_relative": "for 7 t siden",
+      "text": "Hvis KM fortsetter trenden med å stige siste del av dagen, så ser det jo ut som pluss dag. Heller ingen grunn til noe annet 👍 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        2
       ],
       "links": [],
-      "char_count": 125,
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "a2cf3ab47b3e38a6",
+      "author": "Gulljæger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gulljger",
+      "posted_relative": "for 4 t siden",
+      "text": "Bunnet ut 10.juli, stigende trend siden! Hold så blir dette kanon 🙌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "5b3592644e93a0bd",
+      "author": "jatm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jatm",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Er ikke dette KOG og ikke KMAR?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
       "has_link": false
     }
   ]

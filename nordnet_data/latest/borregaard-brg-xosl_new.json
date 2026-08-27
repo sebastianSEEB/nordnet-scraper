@@ -1,9 +1,39 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-08-27T10:49:01.024275+00:00",
+  "scraped_at": "2026-08-27T17:58:08.899415+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "51fc6ba5861115a6",
+      "author": "KriWin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kriwin",
+      "posted_relative": null,
+      "text": "11. aug. Veldig spennende utbytte aksje denne, er det noen langsiktige eiere her som kan si noe om hva som påvirker denne aksjen mest? Hvor stor er andeleninntekt fordelt på utvinnet kjemikalie og driver de med noe annet man fort kan overs? Forstår at de bryter ned tømmer til kjemiske stoffer og fiber, men har de noe patent på prosessen, eller er bare fabrikken så fancy og kompleks at det er vanskelig å replikkere?  Gjerne del info og syn, ble i allfall kjøp ifra meg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        6
+      ],
+      "links": [],
+      "char_count": 471,
+      "has_link": false
+    },
+    {
+      "key": "7c8c77f1b95b8612",
+      "author": "Redeemer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/redeemer",
+      "posted_relative": "for 6 t siden",
+      "text": "Tror nedsiden er begrenset da det er lite konkurranse i biopolymer (lignosulfonat) segmentet. Dette er produkter som erstatter oljebaserte produkter og selskapet er verdensledende på teknologi og teknologiutvikling i dette segmentet. På fiber siden er det i hovedsak kun en stor amerikansk konkurrent (RYAM) og det virker som det er tilbudssiden som er begrensningen for å vokse videre her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 390,
+      "has_link": false
+    }
+  ]
 }

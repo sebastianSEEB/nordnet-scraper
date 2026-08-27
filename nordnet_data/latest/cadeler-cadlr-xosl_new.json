@@ -1,9 +1,38 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-08-27T10:47:08.543293+00:00",
+  "scraped_at": "2026-08-27T17:56:08.267391+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "35ea6335a0943bd1",
+      "author": "Tenkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tenkern",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.renews.biz/offshore-wind/official-probe-launched-into-tyne-jack-up-incident/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.renews.biz/offshore-wind/official-probe-launched-into-tyne-jack-up-incident/"
+      ],
+      "char_count": 90,
+      "has_link": true
+    },
+    {
+      "key": "5a29a839a224a347",
+      "author": "JR1001",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jr1001",
+      "posted_relative": "for 4 t siden",
+      "text": "· Det er merkelig, noen i gruppen som vet hvorfor? På mine andre aksjer stemmer salgsoppgjøret, her inne, alltid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    }
+  ]
 }

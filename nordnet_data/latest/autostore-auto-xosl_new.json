@@ -1,22 +1,24 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-08-27T10:48:01.549284+00:00",
+  "scraped_at": "2026-08-27T17:57:00.391781+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 9,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "7cb4abba9f340142",
-      "author": "Amleth",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amleth",
-      "posted_relative": null,
-      "text": "23. aug. · Er det fortsatt en god tid å kjøpe?",
-      "reply_count": 3,
+      "key": "7f8dead8d282ce92",
+      "author": "Egil Nordnes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egil-nordnes",
+      "posted_relative": "for 3 t siden",
+      "text": "Fin slutt på dagen, straks på 17 igjen nå",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        11
+      ],
       "links": [],
-      "char_count": 46,
+      "char_count": 41,
       "has_link": false
     }
   ]

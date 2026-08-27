@@ -1,9 +1,38 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-08-27T10:47:57.722050+00:00",
+  "scraped_at": "2026-08-27T17:56:56.693468+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3ed349517ce3e21b",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 4 t siden",
+      "text": "Ta en titt på verdsettelsen og akssjekurs. Dårlige ifo som generelt kommer ut. (Helt spessiell situasjon for selskapet med aksjonærer  er oppi )",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "2fc1832cf791926a",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 10 t siden",
+      "text": "Er møkka lei dette Bijan Cirkuset i Dno aksjen Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }
