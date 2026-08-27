@@ -3,13 +3,15 @@ name: Nordnet Forum Scraper
 on:
   schedule:
     # Tidspunkt er UTC. Oslo er UTC+2 om sommeren (som nå), UTC+1 om vinteren -
-    # bytt til '*/30 5-18 * * 1-5' rundt slutten av oktober.
+    # bytt tallene i "Bestem om vi skal analysere"-steget under tilsvarende
+    # rundt slutten av oktober (trekk fra 1 time i stedet for 2).
     #
-    # Hvert 30. minutt, hverdager ca. 06:00-21:00 CEST - dekker god margin
-    # før åpning og gjennom hele handelsdagen. Hver kjøring sender KUN det
-    # som er nytt siden forrige (køen tømmes etter hver vellykkede rapport),
-    # så kostnaden holder seg lav selv med denne frekvensen.
-    - cron: '*/30 4-19 * * 1-5'
+    # Kjører hver hele time, alle dager - scraper alltid, men analyserer
+    # (kostnad) kun i vinduet definert i steget under.
+    - cron: '0 * * * *'
+    # Ekstra kjøring 15 min før åpning (08:45 CEST = 06:45 UTC), som ikke
+    # faller på en hel time.
+    - cron: '45 6 * * 1-5'
   workflow_dispatch: {}  # gjør at du også kan trigge en kjøring manuelt fra GitHub-fanen "Actions"
 
 jobs:
@@ -28,7 +30,27 @@ jobs:
       - name: Kjør scraperen
         run: python nordnet_forum_scraper.py --from-file watchlist_full.txt --data-dir nordnet_data
 
+      - name: Bestem om vi skal analysere denne runden
+        id: decide
+        run: |
+          HOUR=$(date -u +%-H)
+          MINUTE=$(date -u +%-M)
+          DOW=$(date -u +%u)  # 1=mandag ... 7=søndag
+          SHOULD_ANALYZE=false
+          if [ "$DOW" -ge 1 ] && [ "$DOW" -le 5 ]; then
+            # Pre-market: 06:45-06:49 UTC (08:45 CEST, 15 min før åpning)
+            if [ "$HOUR" -eq 6 ] && [ "$MINUTE" -ge 45 ]; then
+              SHOULD_ANALYZE=true
+            # Handelstid: 07:00-14:00 UTC (09:00-16:00 CEST)
+            elif [ "$HOUR" -ge 7 ] && [ "$HOUR" -le 14 ]; then
+              SHOULD_ANALYZE=true
+            fi
+          fi
+          echo "should_analyze=$SHOULD_ANALYZE" >> "$GITHUB_OUTPUT"
+          echo "UTC-tid: ${HOUR}:${MINUTE}, ukedag: $DOW, analyser denne runden: $SHOULD_ANALYZE"
+
       - name: Analyser samlet kø, rapporter, varsle, tøm køen
+        if: steps.decide.outputs.should_analyze == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python analyze_and_report.py
