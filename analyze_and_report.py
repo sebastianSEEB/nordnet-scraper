@@ -27,6 +27,27 @@ SEGMENTS_PATH = "maritime_segments.json"
 REPORT_PATH = "nordnet_data/latest/report.md"
 MODEL = "claude-sonnet-5"  # full nyansert klassifisering på tvers av mange aksjer
 
+# Billig grovfilter - portvakt FØR vi bruker et API-kall i det hele tatt.
+# Trivielle kommentarer (ingen lenke, kort, ingen nøkkelord) trigger ikke
+# noe Claude-kall - køen får bare vokse litt til noe substansielt dukker opp.
+KEYWORDS = [
+    "kursmål", "oppgraderer", "oppgradering", "nedgraderer", "nedgradering",
+    "innsidekjøp", "innsidesalg", "primærinsidetransaksjon",
+    "oppkjøp", "kontrakt", "utbytte", "guiding",
+    "fusjon", "konsolidering", "kjøpsanbefaling",
+]
+KEYWORD_RE = re.compile("|".join(KEYWORDS), re.IGNORECASE)
+
+
+def passes_prefilter(post: dict) -> bool:
+    if post.get("has_link"):
+        return True
+    if post.get("char_count", 0) > 400:
+        return True
+    if KEYWORD_RE.search(post.get("text", "")):
+        return True
+    return False
+
 
 def call_claude(pending: dict, segments: dict) -> dict:
     prompt = f"""Du analyserer nye innlegg fra Nordnets aksjeforum siden forrige sjekk.
@@ -146,6 +167,13 @@ def main():
     pending = {slug: posts for slug, posts in pending.items() if posts}
     if not pending:
         print("Køen er tom - ingen API-kall nødvendig.")
+        return
+
+    has_candidate = any(passes_prefilter(p) for posts in pending.values() for p in posts)
+    if not has_candidate:
+        total = sum(len(v) for v in pending.values())
+        print(f"{total} nye innlegg i køen, men ingen passerte grovfilteret - "
+              f"hopper over Claude-kallet for å spare kostnad. Køen forblir uendret.")
         return
 
     segments = {}
