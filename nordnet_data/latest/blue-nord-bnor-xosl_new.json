@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-08-27T20:52:28.163180+00:00",
+  "scraped_at": "2026-08-28T05:02:02.291295+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cb2f40075372b8f3",
+      "author": "JungleJims",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junglejims",
+      "posted_relative": "for 22 min siden",
+      "text": "Enig. Og skulle det en dag oppstå en ubalanse som kunne friste til kjøp, vil jo markedet rebalansere seg frem mot oppgjørsdagen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    }
+  ]
 }
