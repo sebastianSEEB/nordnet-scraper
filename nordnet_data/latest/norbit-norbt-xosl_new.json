@@ -1,9 +1,39 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-08-28T05:02:47.800973+00:00",
+  "scraped_at": "2026-08-28T17:53:17.530635+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4ed3887712555d1f",
+      "author": "Tuna fish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tuna-fish",
+      "posted_relative": "for 3 t siden",
+      "text": "· Merkelig aksje. Alle tech-aksjene våkner til liv, men denne fortsetter å falle. NORBIT oppfører seg definitivt annerledes enn resten av tech-sektoren.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    },
+    {
+      "key": "5e096b949afe387f",
+      "author": "milia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/milia",
+      "posted_relative": "for 1 t siden",
+      "text": "Tar gjerne 'billig handling' da 💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

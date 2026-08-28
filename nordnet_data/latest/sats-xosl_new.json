@@ -1,9 +1,26 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-08-28T05:04:52.671844+00:00",
+  "scraped_at": "2026-08-28T17:55:24.216663+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "04139e89db5c552d",
+      "author": "Michi13",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michi13",
+      "posted_relative": null,
+      "text": "24. aug. Andre gang SATS betaler utbytte i år. Hvem selger denne aksjen nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }

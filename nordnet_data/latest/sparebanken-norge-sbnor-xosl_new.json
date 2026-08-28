@@ -1,9 +1,41 @@
 {
   "slug": "sparebanken-norge-sbnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-norge-sbnor-xosl",
-  "scraped_at": "2026-08-28T05:05:04.134471+00:00",
+  "scraped_at": "2026-08-28T17:55:36.066230+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2808a7b2b5c75ef5",
+      "author": "SætreFondet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/strefondet",
+      "posted_relative": null,
+      "text": "24. aug. 🎉🇳🇴 Oslo (Infront TDN Direkt): Pareto Securities oppgraderer anbefalingene på Sparebanken Norge og SpareBank 1 Østfold Akershus til kjøp fra hold, og gjentar holdanbefalingene på de øvrige sparebankene i sin dekning.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        16,
+        1
+      ],
+      "links": [],
+      "char_count": 225,
+      "has_link": false
+    },
+    {
+      "key": "83a808f4abe8ab92",
+      "author": "Turskatroolari",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turskatroolari",
+      "posted_relative": null,
+      "text": "24. aug. · Ingen overraskelser her! 🥂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

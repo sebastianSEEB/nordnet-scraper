@@ -1,9 +1,56 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-08-28T05:04:24.955375+00:00",
+  "scraped_at": "2026-08-28T17:54:56.901847+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "952eb9a1702e2fd1",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 11 t siden",
+      "text": "Snart på tide med en liten Amazon-nyhet her nå 👍 da fyrer raketten igjen 🚀💰💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "7bffc356c0a75027",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 9 t siden",
+      "text": "Det kommer, må bare ha litt tolmodighet her så blir det 🚀💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "71e551964eb64148",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 8 t siden",
+      "text": "· !",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        33
+      ],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

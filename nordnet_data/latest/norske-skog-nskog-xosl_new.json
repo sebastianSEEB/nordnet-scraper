@@ -1,9 +1,53 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-08-28T05:04:56.396712+00:00",
+  "scraped_at": "2026-08-28T17:55:28.086899+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a897708c29293dcb",
+      "author": "birder72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
+      "posted_relative": "for 6 t siden",
+      "text": "Det virker å være noen som kjøper seg opp med volum og tar pause et par dager for å la kursen falle tilbake på lite volum.  Det vi vet er at midlene for salg av tomt på Saugbrugs snart kommer inn. I tillegg så skal det avklares datalagring senter.  Kursmålene er jo godt over dagens kurs, så «alle» kan se oppsiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 315,
+      "has_link": false
+    },
+    {
+      "key": "13bdc6967b165833",
+      "author": "cardiff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cardiff",
+      "posted_relative": "for 3 t siden",
+      "text": "Bra innspurt på uka. Ser vi et nytt forsøk på kurs 50 over helgen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "57e1b81bd157eeb4",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 2 t siden",
+      "text": "Meget sannsynlig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

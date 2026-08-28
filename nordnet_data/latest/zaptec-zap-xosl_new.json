@@ -1,9 +1,84 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-08-28T05:02:21.870983+00:00",
+  "scraped_at": "2026-08-28T17:52:50.787453+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "23f6617850b022d3",
+      "author": "B-tech",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b-tech",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er verdt å ha i bakhodet, at innside kjøpene gjort de siste ukene på litt over 260.000 aksjer er gjort i og rundt dagens kursområde (49,3-51,2), og dette er av folk som er tettest på de som styrer bedriften. Langsiktige briller, tålmodighet og forhåpentligvis ett bra Q3 å se frem mot. Alt ligger til rette for Zaptec fremover, med eller uten Citadel på slep.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 363,
+      "has_link": false
+    },
+    {
+      "key": "6e6c547ff57f19b6",
+      "author": "Magic0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magic0",
+      "posted_relative": "for 1 t siden",
+      "text": "Ett lite tips til dere som klager over citadel🫣, prøv å tenke utenfor boksen! If you can’t beat them, JOIN them !",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "971e176ed6978877",
+      "author": "Megli",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/megli",
+      "posted_relative": "for 7 t siden",
+      "text": "Spennende med tall for nybilsalg i august neste uke:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "00b088049bbe1d5a",
+      "author": "dapb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dapb",
+      "posted_relative": "for 3 t siden",
+      "text": "· Så ble shortposisjonen økt med 50 000 stk.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    },
+    {
+      "key": "5850a2f7b819b8e6",
+      "author": "StoreHenrik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storehenrik",
+      "posted_relative": "for 6 t siden",
+      "text": "Når kommer det?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

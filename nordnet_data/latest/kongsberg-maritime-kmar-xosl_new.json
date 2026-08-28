@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-08-28T05:04:32.213308+00:00",
+  "scraped_at": "2026-08-28T17:55:04.915372+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b987da00b278ce3c",
+      "author": "PimpFunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
+      "posted_relative": "for 3 t siden",
+      "text": "Den beste av oss alle 🙂‍↕️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "2b873726973017b9",
+      "author": "X3RSOT",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/x3rsot",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvil i fred kongen vår❤️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14,
+        1
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

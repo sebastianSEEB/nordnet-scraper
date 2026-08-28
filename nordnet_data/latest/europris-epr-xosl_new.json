@@ -1,9 +1,25 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-08-28T05:03:40.515312+00:00",
+  "scraped_at": "2026-08-28T17:54:09.693588+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3860ad2e7cf224ab",
+      "author": "DiggingNorway",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/diggingnorway",
+      "posted_relative": "for 10 t siden",
+      "text": "First's Thomas Nilsen intervjuer CEO https://youtu.be/Re2yKXN2lkw?is=k-p0xME7I9jXKZIT",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://youtu.be/Re2yKXN2lkw?is=k-p0xME7I9jXKZIT"
+      ],
+      "char_count": 85,
+      "has_link": true
+    }
+  ]
 }

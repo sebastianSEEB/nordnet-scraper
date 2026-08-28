@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-08-28T05:03:51.525522+00:00",
+  "scraped_at": "2026-08-28T17:54:21.632245+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bc8bcfe3b0b87175",
+      "author": "Filiperkul123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/filiperkul123",
+      "posted_relative": null,
+      "text": "24. aug. Kjøhhh",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-08-28T05:02:55.172127+00:00",
+  "scraped_at": "2026-08-28T17:53:25.109552+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a7847fde7a8d781c",
+      "author": "Tech 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech-20",
+      "posted_relative": null,
+      "text": "24. aug. De er innløst > har en verdi. Litt slik fra hofta ser det heller ut som en policy endring eller blanke ut gammel fest for en ny frisk start med nye incentivordninger .Ny styreleder > ny policy og/eller clean sheets for nye ordninger…..dvs helt greit.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 259,
+      "has_link": false
+    },
+    {
+      "key": "5f4f38d1c4f92b81",
+      "author": "Herman Hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herman-hansen",
+      "posted_relative": "for 8 t siden",
+      "text": "MH kjøper lissom jevnt også",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,84 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-08-28T05:05:18.874190+00:00",
+  "scraped_at": "2026-08-28T17:55:51.249885+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "28bd2822bc1b3159",
+      "author": "91anoch87an",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/91anoch87an",
+      "posted_relative": null,
+      "text": "24. aug. · Kjøper nok enda flere, når utbytte kommer. Slik bygger man en utbytte-maskin.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "91e5789e1abba5e6",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": null,
+      "text": "24. aug. Arctic øker kursmål fra 18 til 19 kroner og Nordea øker fra 22 til 24",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        1
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "5fbd9b68418eeb1c",
+      "author": "mapaal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mapaal",
+      "posted_relative": "for 6 t siden",
+      "text": "Kjøpt en liten post på 860 og formode den skal betydelig opp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "939656a8a2dd8d2f",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 10 t siden",
+      "text": "NORDNET LIVSFORSIKRING AS har kjøpt ytterligere ca 100 000",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "ed21db4a690b15b9",
+      "author": "91anoch87an",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/91anoch87an",
+      "posted_relative": "for 7 t siden",
+      "text": "· Da snur vi opp igjen, hyggelig aksje denne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

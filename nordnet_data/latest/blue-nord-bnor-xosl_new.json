@@ -1,22 +1,65 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-08-28T05:02:02.291295+00:00",
+  "scraped_at": "2026-08-28T17:52:30.817233+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "cb2f40075372b8f3",
-      "author": "JungleJims",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junglejims",
-      "posted_relative": "for 22 min siden",
-      "text": "Enig. Og skulle det en dag oppstå en ubalanse som kunne friste til kjøp, vil jo markedet rebalansere seg frem mot oppgjørsdagen.",
+      "key": "834b41ab51a8c4b5",
+      "author": "jThorsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jthorsen",
+      "posted_relative": "for 59 min siden",
+      "text": "Ser dere for dere å sitte med bnor fram til dere får det i vår energi eller selger dere ut før de blir slått sammen? Hva tenker dere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "b87e0275b6e08926",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": "for 6 t siden",
+      "text": "Er det noen som har en dato for når Vår Energi har tenkt å gjøre opp for seg?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "d765704a481908b1",
+      "author": "Osakekartturi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osakekartturi",
+      "posted_relative": "for 42 min siden",
+      "text": "· Jeg selv har tenkt å beholde og kanskje kjøpe mer også.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 128,
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "7bcdca57912e7e20",
+      "author": "Travellingman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/travellingman",
+      "posted_relative": "for 4 t siden",
+      "text": "Nei",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
       "has_link": false
     }
   ]

@@ -1,9 +1,68 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-08-28T05:01:25.596922+00:00",
+  "scraped_at": "2026-08-28T17:51:49.737225+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "c4943facb0d8056e",
+      "author": "Donrup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donrup",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· Jeg synes det er fint at det er bestilt nye identiske skip, men er det terminalbegrensninger som gjør at skipene ikke blir større? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    },
+    {
+      "key": "550dbf6d0fa84a2f",
+      "author": "Jagdpanther79",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jagdpanther79",
+      "posted_relative": "for 5 t siden",
+      "text": "· Eller så tar man bare nyheten som den er og gynger med aksjen år inn år ut og det meste er unødvendig støy med viten om at de tjener penger likevel.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "d46cfde7b15c4fa2",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": "for 7 t siden",
+      "text": "Et annet poeng er at større båter skaper utfordringer på enkelte ruter spesielt med kanal gjennomfart der bredde og dybde er viktig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "869b2cf937ef5727",
+      "author": "GESU_1974",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gesu_1974",
+      "posted_relative": "for 23 t siden",
+      "text": "Litt usikkert hva grunnen er til at de ikke nevnte kjøp av nye skip i rapporten eller presentasjonen. Tanker rundt dette?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    }
+  ]
 }
