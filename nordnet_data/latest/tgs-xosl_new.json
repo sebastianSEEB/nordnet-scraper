@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-08-28T17:55:08.868199+00:00",
+  "scraped_at": "2026-08-28T19:03:46.513940+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e66f6027577909d5",
+      "author": "Rod_issi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rod_issi",
+      "posted_relative": null,
+      "text": "24. aug. Stemmer ikke det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }
