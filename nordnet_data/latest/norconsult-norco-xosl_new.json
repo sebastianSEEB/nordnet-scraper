@@ -1,9 +1,39 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-08-28T19:02:30.534817+00:00",
+  "scraped_at": "2026-08-29T01:19:47.869467+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ffda33315644ff17",
+      "author": "Venn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
+      "posted_relative": null,
+      "text": "20. aug. · Endret Jeg anser rapporten som nøytral til svakt positiv, det er mye bra, men også en del dårlig. Helt kort: så viser de til sterk vekst, uendret drift, men det er i hovedsak kalenderen som trisker til marginen«forbedring». Slik som markedet har behandlet denne i det siste så tenker jeg vi skal være fornøyde om vi ikke er røde i dag. Mine vurderinger av Q-rapporten i stikkordsform under: Positivt: -\tGod ordrebok på 7,8mrd -\tEPS opp 0.43 vs 0.37 (Q2) -\tRenewable har god utvikling med kalenderjustert margin på ~16% -\tNoe forbedret faktureringsgrad. -\tOvertegnet aksjeprogram, de ansatte er positive og har trua -\tAas-Jakobsen er ferdig integrert. Jeg antar det betyr at de er innlemmet i alle systemer og ferdig med bryllupsnatten -\tMetier ferdig integrert og bidrar positivt (14m ebita) Negativt: -\tFTE faller sekvensielt og man må fortsette med uorganisk vekst for å ikke krympe. -\t15% lavere H1 EPS sammenlignet med i fjor. Dette kombinert med noe lavt cash er lite lovende med tanke på utbytte. Har riktig nok økt kredittrammen til 800M, så det er kanskje ikke et problem, spørs på H2. -\tSverige har elendig utvikling, med 1500 ansatte -\tIngen generell marginforbedring om man hensyntar kalendereffekter -\tERP-system (noen som vet hvilket?). Hele 2025 brukte de 18M og nå 57M på et halvår? Når tenker de det er ferdig implementert? -\tAas-J koster koster fortsatt og har et indirekte negativt bidrag på -8M Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 1444,
+      "has_link": false
+    },
+    {
+      "key": "139a293098ddb450",
+      "author": "Velgetbrukernavn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/velgetbrukernavn",
+      "posted_relative": "for 4 t siden",
+      "text": "SAP skal inn, nåværende system har nådd sin levetid og støtte fra leverandør kuttes i nær fremtid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ]
 }

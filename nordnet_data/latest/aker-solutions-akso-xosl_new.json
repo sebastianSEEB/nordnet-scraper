@@ -1,9 +1,23 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-08-28T19:02:19.413741+00:00",
+  "scraped_at": "2026-08-29T01:19:35.815183+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "788718244f5d46fd",
+      "author": "gunner_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gunner_1",
+      "posted_relative": "for 3 t siden",
+      "text": "Veldig bra skrevet, og gode vurderinger rundt kursfall tross gode resultater. Typisk AKSO med røde dager etter positive nyheter…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    }
+  ]
 }

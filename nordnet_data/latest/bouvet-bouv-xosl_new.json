@@ -1,9 +1,39 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-08-28T19:03:05.457341+00:00",
+  "scraped_at": "2026-08-29T01:20:21.728624+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cc6f7029fd81084b",
+      "author": "obfisher",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/obfisher",
+      "posted_relative": "for 52 min siden",
+      "text": "Å kanskje noe short som dekker inn. Svingninger er normalt og ikke alltid så forutsigbart. Bedre tall enn fryktet, stadig flere ansatte og oppretting av nye lokasjoner på strategiske steder og ikke minst at de vinner viktige kontrakter hjelper. Det fundamentale vinner til slutt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 279,
+      "has_link": false
+    },
+    {
+      "key": "2413e4f1ffdfff99",
+      "author": "ydkd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ydkd",
+      "posted_relative": "for 11 t siden",
+      "text": "Noe nytt? Gikk ned hele tiden uten grunn og nå det samme andre vei..... Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

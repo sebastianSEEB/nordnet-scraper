@@ -1,9 +1,38 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-08-28T19:02:49.633500+00:00",
+  "scraped_at": "2026-08-29T01:20:06.572419+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c39df2294aaf165c",
+      "author": "Raputin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raputin",
+      "posted_relative": null,
+      "text": "24. aug. Har Europris gått bort fra to årlige utbytter , eller var 2025 bare et dårlig år ?  Jeg ser at før 2020 , så betalte selskapet kun et årlig utbytte, men betalte to ganger årlig ut 2024. Men i 2025 kom det kun en utbytte utbetaling , og de har hat en så langt i år. Er det noen som har plukket opp om utbytte frekvensen er blitt endret ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 345,
+      "has_link": false
+    },
+    {
+      "key": "f4fa4df7c0a83da2",
+      "author": "nico1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nico1234",
+      "posted_relative": null,
+      "text": "24. aug. Europris har alltid betalt årlig utbytte på Q4",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }
