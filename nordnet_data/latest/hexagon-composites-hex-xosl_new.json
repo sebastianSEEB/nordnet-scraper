@@ -1,25 +1,70 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-08-29T08:28:24.246948+00:00",
+  "scraped_at": "2026-08-29T14:08:29.505834+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "a96b1c690ff107b0",
-      "author": "Will678",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/will678",
+      "key": "53c70ee322021500",
+      "author": "krabbePyse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krabbepyse",
       "posted_relative": null,
-      "text": "25. aug. 14.5 i dag??🤩",
+      "text": "25. aug. GSA reduserte shorten sin nok en gang i går. Kjøpte tilbake 314.361 aksjer. Ny synlig short 3.319.966 aksjer (0,99%). https://ssr.finanstilsynet.no/Home/Details/NO0003067902",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7,
-        6
+        28
+      ],
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/NO0003067902"
+      ],
+      "char_count": 182,
+      "has_link": true
+    },
+    {
+      "key": "e43e8e5ec3e504cd",
+      "author": "Mester Erik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mester-erik",
+      "posted_relative": null,
+      "text": "25. aug. Shorten synker ytterligere ... GSA CAPITAL PARTNERS LLP. \t3 319 966\t  0,99%\t24.08.2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "f300a01ce70dd407",
+      "author": "krabbePyse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krabbepyse",
+      "posted_relative": null,
+      "text": "25. aug. Synes kursen holder seg godt mtp den lave omsetninga de siste to ukene 😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
       "links": [],
-      "char_count": 22,
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "3a27d2cfdb1949a5",
+      "author": "tomlys50",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tomlys50",
+      "posted_relative": null,
+      "text": "25. aug. Deiligt å se den bygge styrke💪💪💪",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

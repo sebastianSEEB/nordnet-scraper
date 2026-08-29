@@ -1,9 +1,40 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-08-29T08:27:35.837617+00:00",
+  "scraped_at": "2026-08-29T14:07:39.737021+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "224df148bfdbb593",
+      "author": "mikis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikis",
+      "posted_relative": null,
+      "text": "25. aug. Sokkeldirektoratet velger Bouvet til utviklingen av Faktavarehus 2.0 https://kommunikasjon.ntb.no/presserom/17847871/bouvet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        29
+      ],
+      "links": [
+        "https://kommunikasjon.ntb.no/presserom/17847871/bouvet"
+      ],
+      "char_count": 132,
+      "has_link": true
+    },
+    {
+      "key": "4ddb6b728c7a0411",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 5 t siden",
+      "text": "Den bør jo kunne legge seg på rundt 55kr, som også er konsesus. Så kommer det nok et solid utbytte til våren 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }

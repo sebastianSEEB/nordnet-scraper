@@ -1,9 +1,38 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-08-29T08:28:09.586774+00:00",
+  "scraped_at": "2026-08-29T14:08:14.380208+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d70954e45fcee008",
+      "author": "Frøken Freddy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/frken-freddy",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Gikk in på 314 og lurer litt på når det er lurt å ta profitt. Noen som har tanker om videre utvikling i selskapet? Hilsen fersk investor😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "1288657b92b48371",
+      "author": "GIDARN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gidarn",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg gikk også inn dagen etter «Vedum skatten». Lurer på hvorfor jeg skal sitte med denne aksjen lengre. Utbytte er ikke all verdens",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-08-29T08:25:49.685559+00:00",
+  "scraped_at": "2026-08-29T14:05:48.826897+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9be86fde96ad8f48",
+      "author": "kal--el",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
+      "posted_relative": "for 16 min siden",
+      "text": "https://www.finansavisen.no/energi/2026/08/29/8376469/analysesjef-i-clarksons-det-er-ikke-mangel-pa-raolje",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/08/29/8376469/analysesjef-i-clarksons-det-er-ikke-mangel-pa-raolje"
+      ],
+      "char_count": 106,
+      "has_link": true
+    }
+  ]
 }

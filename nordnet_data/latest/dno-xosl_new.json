@@ -1,9 +1,56 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-08-29T08:28:02.345078+00:00",
+  "scraped_at": "2026-08-29T14:08:06.828065+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "96ce4f9129c71f75",
+      "author": "Langhårsdachs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langharsdachs",
+      "posted_relative": "for 37 min siden · Endret",
+      "text": "Minister of Natural Resources in the Kurdistan Region of Iraq: All oil fields have resumed production except for the \"Sarsank\" field. https://x.com/asharqnewsbrk/status/2093640528285851815?s=46&t=sBH3fk4MUyabYATnXYqNmw Vi får håpe dette er riktig for dette betyr mye for DNO.  Det blir fort penger av 37$ X 55.000 (+++) fat pr. dag…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/asharqnewsbrk/status/2093640528285851815?s=46&t=sBH3fk4MUyabYATnXYqNmw"
+      ],
+      "char_count": 332,
+      "has_link": true
+    },
+    {
+      "key": "ed7ad64718fc8f2b",
+      "author": "Nkamok",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nkamok",
+      "posted_relative": "for 4 t siden",
+      "text": "· Utbyttebeløpet som utbetales 1. sep, skal bare investeres tilbake i nye DNO-aksjer igjen, så blir man stille og rolig mer velstående, selv om aksjekursen er litt volatil 😎 50 øre i utbytte er innenfor skiven nå 🙏🤩",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "bc2fa2c8c1284d29",
+      "author": "Capt Willy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capt-willy",
+      "posted_relative": "for 1 døgn siden",
+      "text": "DNO blir bra fremover.  bare å lene seg tilbake å nyte det som kommer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        13
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-08-29T08:27:32.074621+00:00",
+  "scraped_at": "2026-08-29T14:07:35.908049+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f75a7726584e7cdd",
+      "author": "JannB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jannb",
+      "posted_relative": null,
+      "text": "25. aug. Samtidig lurer ei Ai boble i bakgrunnen. Fundamentet er muligens sterkt, men verdensøkonomien er on edge for tiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }
