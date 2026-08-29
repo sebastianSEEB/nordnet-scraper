@@ -1,28 +1,9 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-08-29T14:04:35.550217+00:00",
+  "scraped_at": "2026-08-29T18:00:26.137136+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
-  "posts": [
-    {
-      "key": "d897adad20ad390d",
-      "author": "Nextbay",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
-      "posted_relative": null,
-      "text": "25. aug. Begge båtene er nå engasjert. https://x.com/henriksen_46966/status/2092248835489743239?s=61",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6,
-        2
-      ],
-      "links": [
-        "https://x.com/henriksen_46966/status/2092248835489743239?s=61"
-      ],
-      "char_count": 100,
-      "has_link": true
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
