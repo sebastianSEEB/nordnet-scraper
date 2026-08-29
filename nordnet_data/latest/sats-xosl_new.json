@@ -1,9 +1,25 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-08-29T01:21:22.225628+00:00",
+  "scraped_at": "2026-08-29T08:28:31.494303+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ede0ebcb70c5e51b",
+      "author": "Larrert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larrert",
+      "posted_relative": null,
+      "text": "25. aug. Sitter trygt å godt i denne 🏋️‍♂️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

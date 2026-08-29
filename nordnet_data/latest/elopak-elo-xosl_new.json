@@ -1,9 +1,54 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-08-29T01:20:29.257914+00:00",
+  "scraped_at": "2026-08-29T08:27:43.281290+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b87762a859e99776",
+      "author": "Upsidedown1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upsidedown1",
+      "posted_relative": null,
+      "text": "25. aug. · Endret Alfred Berg reduserte i Elopak torsdag i forrige uke. DNB tok mot mye av det på to kontoer.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "ab926ad15d7ec70c",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": null,
+      "text": "25. aug. 1. VPF SPAREBANK 1 NORGE VERDI +691 466",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "bd5bf36e3a50ffd3",
+      "author": "Upsidedown1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upsidedown1",
+      "posted_relative": null,
+      "text": "25. aug. Ellers finner jeg denne traderen",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

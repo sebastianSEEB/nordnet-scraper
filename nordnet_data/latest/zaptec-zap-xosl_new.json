@@ -1,9 +1,25 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-08-29T01:18:48.352632+00:00",
+  "scraped_at": "2026-08-29T08:26:00.792364+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e15eff1278a6e801",
+      "author": "Jan Andersen.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-andersen-1",
+      "posted_relative": "for 1 min siden",
+      "text": "I Nederland falt bilsalget I juli men salg av elbiler peker rett vei. Det ble solgt ca 13000 elbiler (8949 i juli 2025). Dette er nesten halvparten av nye biler (47%). Salg av hybrider utgjorde 44%. https://nltimes.nl/2026/08/01/new-car-sales-drop-july-almost-half-fully-electric",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://nltimes.nl/2026/08/01/new-car-sales-drop-july-almost-half-fully-electric"
+      ],
+      "char_count": 279,
+      "has_link": true
+    }
+  ]
 }

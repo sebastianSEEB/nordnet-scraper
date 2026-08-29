@@ -1,65 +1,36 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-08-29T01:17:03.538170+00:00",
+  "scraped_at": "2026-08-29T08:24:22.265930+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "962cc15b24423fab",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "· https://x.com/TankerTrackers/status/2053970852262138009 https://x.com/MorseReport/status/2093384909461365040",
+      "key": "c36189677e8e1e8f",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 1 t siden",
+      "text": "Tror lenkene er to forskjellige saker. Etter litt krangling med Gemini så virker det som at Morse Report (som snakker om Jazirat Musandam) viser til dette området (sørvest for øya); https://www.google.com/maps/place/26%C2%B022'16.0%22N+56%C2%B031'42.2%22E/@26.3711,56.5105043,6242m/data=!3m1!1e3!4m4!3m3!8m2!3d26.3711!4d56.5284?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [
-        "https://x.com/MorseReport/status/2093384909461365040",
-        "https://x.com/TankerTrackers/status/2053970852262138009"
+        "https://www.google.com/maps/place/26%C2%B022'16.0%22N+56%C2%B031'42.2%22E/@26.3711,56.5105043,6242m/data=!3m1!1e3!4m4!3m3!8m2!3d26.3711!4d56.5284?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D"
       ],
-      "char_count": 110,
+      "char_count": 379,
       "has_link": true
     },
     {
-      "key": "3fc5584860c20f36",
-      "author": "Vannhode",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vannhode",
-      "posted_relative": "for 4 t siden",
-      "text": "Close på ca 414 i USA. Ser stadig høyere bunner i chartet, så trenden oppover er enda inntakt. God helg!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 104,
-      "has_link": false
-    },
-    {
-      "key": "aae7154c44e29152",
-      "author": "opptimisten4",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/opptimisten4",
-      "posted_relative": "for 5 t siden",
-      "text": "· 🥳",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 3,
-      "has_link": false
-    },
-    {
-      "key": "6a8c5aa50e5359eb",
-      "author": "Rabidus224",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabidus224",
+      "key": "0f3281079566e491",
+      "author": "Duppen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/duppen",
       "posted_relative": "for 2 t siden",
       "text": "·",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        1
       ],
       "links": [],
       "char_count": 1,
