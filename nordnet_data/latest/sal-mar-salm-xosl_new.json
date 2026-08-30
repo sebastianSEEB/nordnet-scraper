@@ -1,9 +1,26 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-08-30T12:28:47.382215+00:00",
+  "scraped_at": "2026-08-30T17:07:34.095497+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c2b4d793f0e2012b",
+      "author": "AKF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akf",
+      "posted_relative": null,
+      "text": "26. aug. For en stigning! Hvor høyt opp skal den mon tro?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

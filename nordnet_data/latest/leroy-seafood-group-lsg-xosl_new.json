@@ -1,9 +1,74 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-08-30T12:26:56.470479+00:00",
+  "scraped_at": "2026-08-30T17:05:39.608865+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "c3d9d5c60f64cef2",
+      "author": "kalleskanin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalleskanin",
+      "posted_relative": null,
+      "text": "26. aug. https://www.intrafish.no/marked/satser-i-nytt-land-jeg-elsker-det/2-1-2031156",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [
+        "https://www.intrafish.no/marked/satser-i-nytt-land-jeg-elsker-det/2-1-2031156"
+      ],
+      "char_count": 86,
+      "has_link": true
+    },
+    {
+      "key": "cc196c87733068a5",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": null,
+      "text": "26. aug. · Endret · hvis vi sammenligner epler med epler, har LSG potensial til å øke med +20% for å justere seg til hva MOWI og SALM er priset til i markedet ... sammenligner PB, PS, PE, EBTI, inntekter, gjeld, avkastning. alt i alt er LSG undervurdert. og markedet ser ut til å merke dette også... det er derfor vi ser enormt volum sammenlignet med gjennomsnittlige dager. (LSG handles med 300% økning i daglig volum, men vi ser ikke dette økningsnivået i MOWI eller SALM) ... bare en observasjon og selvfølgelig er jeg partisk, så jeg kan ta feil ...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13
+      ],
+      "links": [],
+      "char_count": 553,
+      "has_link": false
+    },
+    {
+      "key": "5dc8449668bd2522",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": null,
+      "text": "26. aug. Tipper at større aktører som Ferd er ute og plukker litt mer aksjer også denne uka. Vi får se etter hvert",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "e6a5da85d077d614",
+      "author": "PerSjuspring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/persjuspring",
+      "posted_relative": null,
+      "text": "26. aug. Ett nærmest umettelig marked hvis man får fotfeste.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    }
+  ]
 }

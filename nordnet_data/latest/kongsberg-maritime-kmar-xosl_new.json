@@ -1,9 +1,43 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-08-30T12:28:51.169351+00:00",
+  "scraped_at": "2026-08-30T17:07:41.009663+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "719c297dff9b6977",
+      "author": "Holteri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holteri",
+      "posted_relative": null,
+      "text": "26. aug. De jobber på.. https://www.marinelink.com/news/kongsberg-maritime-expands-tunnel-542452",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        22,
+        1
+      ],
+      "links": [
+        "https://www.marinelink.com/news/kongsberg-maritime-expands-tunnel-542452"
+      ],
+      "char_count": 96,
+      "has_link": true
+    },
+    {
+      "key": "40a124a96c7253a3",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": null,
+      "text": "26. aug. Snakket med de på ONS! Genialt konsept, som de har utviklet i 20 år. Fikk beskjed at det hadde vært dårlig med salg på de tidligere, men at det nå tok seg mer opp. Sparer ca 20% motstand med å ha slike :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 213,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-08-30T12:28:54.915085+00:00",
+  "scraped_at": "2026-08-30T17:07:45.642076+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "11165837695f0373",
+      "author": "Rambo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rambo2",
+      "posted_relative": null,
+      "text": "26. aug. Motsatt i dag dessverre 😢",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

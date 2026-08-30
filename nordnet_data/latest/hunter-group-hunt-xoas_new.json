@@ -1,35 +1,24 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-08-30T12:29:48.197588+00:00",
+  "scraped_at": "2026-08-30T17:08:47.340854+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "c88487d8e7fb503a",
-      "author": "Bra Ver",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bra-ver",
-      "posted_relative": "for 2 t siden",
-      "text": "Sist det var et børsskall, så syns jeg å huske det stod igjen 18 mill Nok på konto!:-)",
-      "reply_count": null,
+      "key": "0c383349350e74f3",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 3 t siden",
+      "text": "Tipper nopetter har rett, og at trådstarter kommer inn igjen i løpet av uka som starter 😊",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 86,
-      "has_link": false
-    },
-    {
-      "key": "d9d03e00fd550d19",
-      "author": "Knekkis",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knekkis",
-      "posted_relative": "for 4 t siden · Endret",
-      "text": "Q1 skal være 28. mai, Ex 30 juni og utbetaling 7. juli. Beklager så meget.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 74,
+      "char_count": 89,
       "has_link": false
     }
   ]

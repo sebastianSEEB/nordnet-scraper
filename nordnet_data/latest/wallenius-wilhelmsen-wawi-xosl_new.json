@@ -1,24 +1,56 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-08-30T12:25:40.744189+00:00",
+  "scraped_at": "2026-08-30T17:04:20.191716+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "fd190d99fc8131f2",
-      "author": "opptimisten4",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/opptimisten4",
+      "key": "be27831b782ee915",
+      "author": "Gandal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gandal",
       "posted_relative": null,
-      "text": "26. aug. Handle mer wawi idag 👍🏻",
+      "text": "26. aug. Jeg tenker at potensialet fremdeles er bra her om man ikke forventer at markedet for kinesiske elbiler skal kollapse. For meg virker eksportveksten  bare å være i sin spede begynnelse, og prisingen av selskapet er fremdeles moderat.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8
+        2
       ],
       "links": [],
-      "char_count": 32,
+      "char_count": 241,
+      "has_link": false
+    },
+    {
+      "key": "5925155344510377",
+      "author": "DivInv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/divinv",
+      "posted_relative": null,
+      "text": "26. aug. · Drøyt 5,7 NOK i utbytte? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "986a5f809119cc7c",
+      "author": "GabW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
+      "posted_relative": null,
+      "text": "26. aug. Hva tenker folk om inngangen nå og fremtiden?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 54,
       "has_link": false
     }
   ]

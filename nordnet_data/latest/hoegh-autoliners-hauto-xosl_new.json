@@ -1,38 +1,27 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-08-30T12:25:37.097576+00:00",
+  "scraped_at": "2026-08-30T17:04:15.387815+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "1a6e5c99d20b3e56",
-      "author": "Miga-invest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "key": "ed2e508088568c90",
+      "author": "Marlyg98",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marlyg98",
       "posted_relative": null,
-      "text": "26. aug. Da ser vi at fasit ble 8,5 mill nye aksjer som ble tegnet til full markedspris kr 167.  Dette representerer ca 4,5% utvanning.",
+      "text": "26. aug. · https://e24.no/boers-og-finans/i/QJ31GJ/investtech-analyse-kjoep-disse-tre-aksjene Q2-fallet på 12 % var stygt, men teknisk har aksjen fremdeles ikke brutt den stigende trenden, og støtten rundt 138 kr holder. Investtech peker også på historisk sterk utvikling måneden etter rapport. \" De siste 5 årene har Höegh Autoliners i snitt steget over 8 prosent i løpet av måneden etter resultatrapportering.\" Kan absolutt se for meg en rekyl opp på kort sikt så lenge 138-nivået holder",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
-      "links": [],
-      "char_count": 135,
-      "has_link": false
-    },
-    {
-      "key": "2f043b56bb362886",
-      "author": "DuggurdINV",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/duggurdinv",
-      "posted_relative": null,
-      "text": "26. aug. Kjøper tilbake på 80-90 kr",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 35,
-      "has_link": false
+      "links": [
+        "https://e24.no/boers-og-finans/i/QJ31GJ/investtech-analyse-kjoep-disse-tre-aksjene"
+      ],
+      "char_count": 489,
+      "has_link": true
     }
   ]
 }
