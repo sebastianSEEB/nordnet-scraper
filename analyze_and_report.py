@@ -122,7 +122,10 @@ forumaktivitet, ikke en kjøps- eller salgsanbefaling.\""""
         )
     text = "".join(text_parts).strip()
     text = re.sub(r"^```(json)?|```$", "", text.strip()).strip()
-    return json.loads(text)
+    # strict=False tolererer bokstavelige linjeskift inni JSON-strenger, som
+    # er en vanlig (ufarlig) ting Claude gjør når den skriver markdown-tekst
+    # som en JSON-verdi, i stedet for å bruke escapet \n konsekvent.
+    return json.loads(text, strict=False)
 
 
 STRENGTH_ORDER = {"Sterkt signal": 0, "Signal": 1, "Svakt signal": 2}
