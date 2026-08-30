@@ -1,9 +1,70 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-08-30T06:06:15.108470+00:00",
+  "scraped_at": "2026-08-30T12:27:42.701730+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "90fe6b836ae9c659",
+      "author": "NorthbyNorthwest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
+      "posted_relative": null,
+      "text": "26. aug. · Den som selger her er nok ikke klar over at CEO fra d-Matrix forleden i et intervju har uttalt at de går fra å selge 1-2 megawatt i 2026 (som nok noenlunde tilsvarer de 3000 stykk Napa, inntil videre, har fått produksjonsordre på) til 30-50 megawatt i 2027. Så kan man jo selv \"do the math\". I tillegg har det hele tiden vært forventningen at den Tier 1 OEM, som det også ble spurt om i går, skulle begynne å øke i størrelse i 2027, om enn litt forsinket ser det ut til.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        5
+      ],
+      "links": [],
+      "char_count": 481,
+      "has_link": false
+    },
+    {
+      "key": "54ca992db262ff25",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": null,
+      "text": "26. aug. Det er vel snakk om noen innløsning av Warrants også her, vet ikke om det er årsaken til nedgangen i det siste?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "51cdb48e61ac1452",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": null,
+      "text": "26. aug. ABG Sundal Collier øker kursmålet til 87 (85) 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        6
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "1f8c35266419eb43",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": null,
+      "text": "26. aug. 0,44% utvanning. Bare nevner det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-08-30T06:06:19.219107+00:00",
+  "scraped_at": "2026-08-30T12:27:46.600948+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bd6c475d780dec31",
+      "author": "cab4me",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cab4me",
+      "posted_relative": null,
+      "text": "26. aug. Cadeler fikk en fin opptur i statene etter stegning på OB igår, skal nok bli en god dag på OB.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

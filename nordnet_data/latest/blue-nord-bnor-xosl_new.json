@@ -1,9 +1,39 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-08-30T06:04:47.362864+00:00",
+  "scraped_at": "2026-08-30T12:26:14.601866+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ddfb2666845820c7",
+      "author": "sparertilyacht",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sparertilyacht",
+      "posted_relative": null,
+      "text": "26. aug. Om Bluenordkursen faller under verdien av 9 Vår-aksjer(+76kr) før konverteringen, kan det lastes opp masse Blue-aksjer og utnytte prisforskjellen slik at 1 Blue aksje gir mere verdi enn den er verdt når det konverteres? Gratispenger?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        15
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    },
+    {
+      "key": "c3d2783603ee1cd8",
+      "author": "Moviestrar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moviestrar",
+      "posted_relative": "for 4 t siden",
+      "text": "Får jo håpe at utbyttene i Vår kanskje vil øke litt fremover når fusjonen er i boks. Hva tenker dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }

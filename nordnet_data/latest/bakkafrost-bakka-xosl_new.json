@@ -1,9 +1,23 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-08-30T06:06:02.481309+00:00",
+  "scraped_at": "2026-08-30T12:27:31.214765+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9cd963365dafed60",
+      "author": "born1956",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/born1956",
+      "posted_relative": null,
+      "text": "26. aug. · 515-520",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

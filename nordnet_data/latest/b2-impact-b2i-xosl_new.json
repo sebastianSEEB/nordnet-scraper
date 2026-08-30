@@ -1,9 +1,39 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-08-30T06:05:55.968261+00:00",
+  "scraped_at": "2026-08-30T12:27:27.459090+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f739e506f22efc0c",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": null,
+      "text": "26. aug. Har gjort det, men var litt misvisende siden når det bare kom et utbytte ifjor. Hadde det stått svart på hvit så hadde eg ikke spurt.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    },
+    {
+      "key": "4e1d62ff3dd2242c",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": null,
+      "text": "26. aug. Betaler denne fler utbytter i år? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

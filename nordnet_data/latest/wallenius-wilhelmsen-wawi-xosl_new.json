@@ -1,9 +1,25 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-08-30T06:04:09.401460+00:00",
+  "scraped_at": "2026-08-30T12:25:40.744189+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fd190d99fc8131f2",
+      "author": "opptimisten4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/opptimisten4",
+      "posted_relative": null,
+      "text": "26. aug. Handle mer wawi idag 👍🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-08-30T06:07:14.471462+00:00",
+  "scraped_at": "2026-08-30T12:28:40.052221+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a3278c12279adc04",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 4 t siden",
+      "text": "Ja, hvis dette stemmer er det veldig positivt for DNO. 55.000 fat/dag × $37 er over $2 mill. i bruttoverdi per dag, og det er før eventuell økning i produksjonen.  Om eksport og betaling også normaliseres, kan Kurdistan fort bli en betydelig kontant maskin. Om DNO samtidig får kjøpt Genel, får de jo kontroll over de resterende 25 % av Tawke.  Med Nordsjøen på toppen blir det interessant å se hvor lenge markedet kan holde DNO på 17–18 kroner. Kursen blir en gedigen vits i forhold til det selskapet leverer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 510,
+      "has_link": false
+    },
+    {
+      "key": "57b58d7e269f9fff",
+      "author": "Mattias Karlsson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mattias-karlsson",
+      "posted_relative": "for 2 t siden",
+      "text": "· Og husk: DNO har også Kurdistan i tillegg til dette. 😂 +155% NCS-produksjon på ett år, men likevel bare ~17% aksjekursvekst. Aker BP: −8% produksjon, men ~38% aksjekursvekst. Mer nedside i morgen? 😅 Norsk markedslogikk på sitt beste. 🇳🇴",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 238,
+      "has_link": false
+    }
+  ]
 }

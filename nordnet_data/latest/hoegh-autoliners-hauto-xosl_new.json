@@ -1,9 +1,38 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-08-30T06:04:05.745290+00:00",
+  "scraped_at": "2026-08-30T12:25:37.097576+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1a6e5c99d20b3e56",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": null,
+      "text": "26. aug. Da ser vi at fasit ble 8,5 mill nye aksjer som ble tegnet til full markedspris kr 167.  Dette representerer ca 4,5% utvanning.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 135,
+      "has_link": false
+    },
+    {
+      "key": "2f043b56bb362886",
+      "author": "DuggurdINV",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/duggurdinv",
+      "posted_relative": null,
+      "text": "26. aug. Kjøper tilbake på 80-90 kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

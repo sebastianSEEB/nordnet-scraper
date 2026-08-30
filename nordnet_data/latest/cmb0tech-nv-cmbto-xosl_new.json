@@ -1,9 +1,25 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-08-30T06:04:39.445708+00:00",
+  "scraped_at": "2026-08-30T12:26:07.313595+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "35ece2700934f5c2",
+      "author": "Ole Gull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ole-gull",
+      "posted_relative": "for 25 min siden",
+      "text": "https://www.finansavisen.no/shipping/2026/08/30/8376478/brennhett-marked-spar-ny-opptur-for-cmb.tech God lesing!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/08/30/8376478/brennhett-marked-spar-ny-opptur-for-cmb.tech"
+      ],
+      "char_count": 112,
+      "has_link": true
+    }
+  ]
 }

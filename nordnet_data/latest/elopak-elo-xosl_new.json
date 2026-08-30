@@ -1,9 +1,26 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-08-30T06:06:53.012620+00:00",
+  "scraped_at": "2026-08-30T12:28:18.396648+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ecac14359ca05803",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": null,
+      "text": "26. aug. Store blokk kjøp nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

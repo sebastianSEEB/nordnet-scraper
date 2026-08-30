@@ -1,9 +1,56 @@
 {
   "slug": "software-one-holding-ag-swon-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/software-one-holding-ag-swon-xosl",
-  "scraped_at": "2026-08-30T06:08:20.464446+00:00",
+  "scraped_at": "2026-08-30T12:29:44.452095+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1920687d2d214464",
+      "author": "CER24",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cer24",
+      "posted_relative": null,
+      "text": "26. aug. SWON er den glemte aksjene på Oslo børs, dette vil bare fortsette.  Et slikt stort system vil evne å hente ut større kostnadssynergier og det vil vi se i tallene i de kommende kvartalene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        1
+      ],
+      "links": [],
+      "char_count": 196,
+      "has_link": false
+    },
+    {
+      "key": "f1f85e07e8aca5c7",
+      "author": "AllanL",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allanl",
+      "posted_relative": null,
+      "text": "26. aug. · Veldig gode resultater....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "4089081f05ed76d8",
+      "author": "Gilgamesh2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gilgamesh2",
+      "posted_relative": null,
+      "text": "26. aug. Rått 🎉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

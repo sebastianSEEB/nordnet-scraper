@@ -1,9 +1,26 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-08-30T06:05:33.613041+00:00",
+  "scraped_at": "2026-08-30T12:27:00.157521+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f1679137a64ce648",
+      "author": "CapitalLogic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capitallogic",
+      "posted_relative": null,
+      "text": "26. aug. Stordalen har økt posisjonen i NORBIT med 30.000 aksjer, verdt rundt 5,12M kr. Fortsetter innsiderne å kjøpe mens kursen er nede, kan det være et signal om at bunnen nærmer seg 👀",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        6
+      ],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    }
+  ]
 }
