@@ -1,9 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-08-30T00:40:13.320889+00:00",
+  "scraped_at": "2026-08-30T00:55:04.961115+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3e43b95140055307",
+      "author": "Magic0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magic0",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Ett lite tips til dere som klager over citadel🫣, prøv å tenke utenfor boksen! If you can’t beat them, JOIN them ! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "68b55f53dada9fc3",
+      "author": "ek4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ek4",
+      "posted_relative": "for 8 min siden",
+      "text": "· Hva gjør Citadel?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }
