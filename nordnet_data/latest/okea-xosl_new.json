@@ -1,9 +1,26 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-08-30T00:57:40.518664+00:00",
+  "scraped_at": "2026-08-30T06:07:43.259604+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9e67940171892954",
+      "author": "Hylland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hylland",
+      "posted_relative": null,
+      "text": "26. aug. Fra gårsdagens Økonominyhetene(podcast finansavisen)",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }
