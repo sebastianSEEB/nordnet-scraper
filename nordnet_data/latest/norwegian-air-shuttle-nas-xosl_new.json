@@ -1,9 +1,23 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-08-31T12:51:08.145206+00:00",
+  "scraped_at": "2026-08-31T14:25:19.159319+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1a78f9db0b255eb7",
+      "author": "Hugoil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hugoil",
+      "posted_relative": "for 9 min siden · Endret",
+      "text": "· ...samme prosedyre..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

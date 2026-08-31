@@ -1,50 +1,52 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-08-31T12:49:39.366758+00:00",
+  "scraped_at": "2026-08-31T14:23:59.014128+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "7ec118aa024dd22f",
-      "author": "powertrack",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/powertrack",
-      "posted_relative": "for 3 t siden",
-      "text": "noen som vet dato for kommende utbytte?",
+      "key": "6bdbff72da87171c",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 9 min siden",
+      "text": "Har du brukt en språkmodell nå, for dette er skivebom! Utbyttet er $0,5003 Ex (Oslo) 07.09 Bet ca 23.09 https://newsweb.oslobors.no/message/681108",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://newsweb.oslobors.no/message/681108"
+      ],
+      "char_count": 146,
+      "has_link": true
+    },
+    {
+      "key": "eb3cd78661857e79",
+      "author": "joye",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joye",
+      "posted_relative": "for 24 min siden",
+      "text": "Ex-utbytte 2 sept  Utbetaling 14 sept Utbytte USD 0,2877 per aksje Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 39,
+      "char_count": 86,
       "has_link": false
     },
     {
-      "key": "ea0fd571a24bf31e",
-      "author": "Applespace",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/applespace",
-      "posted_relative": "for 3 t siden",
-      "text": "· Va 0,5 dollar",
+      "key": "5f127441414e9a04",
+      "author": "joye",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joye",
+      "posted_relative": "for 32 min siden",
+      "text": "14. september 0,2877 Usd",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 15,
-      "has_link": false
-    },
-    {
-      "key": "a6f7bcc78ab6c25a",
-      "author": "bladerunner63",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bladerunner63",
-      "posted_relative": "for 2 t siden",
-      "text": "· 23.september",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 14,
+      "char_count": 24,
       "has_link": false
     }
   ]

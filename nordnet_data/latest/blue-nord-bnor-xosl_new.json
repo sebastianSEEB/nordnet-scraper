@@ -1,24 +1,37 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-08-31T12:50:59.015537+00:00",
+  "scraped_at": "2026-08-31T14:25:11.528124+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "07f1c77bddfec169",
-      "author": "Pähkä",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pahka-2",
-      "posted_relative": "for 2 t siden",
-      "text": "· Som BN-aksjonær vil du motta kontant kompensasjon hvis du eier aksjer før dens endelige fusjonsregistreringsdato. Den datoen er et sted rundt årsskiftet / sent 2026. Den spesifikke ex-datoen og registreringsdatoen for fusjonsavregningen vil bli formelt kunngjort av selskapene nærmere den endelige fullføringsdatoen. Så, følg med!",
+      "key": "f128f07f6328a0fa",
+      "author": "Jpeace",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jpeace",
+      "posted_relative": "for 1 t siden",
+      "text": "Nå er prisen på BlueNord låst til utviklingen i kursen til Vår Energi. Om jeg ikke tar feil så har Vår Energi i prosent veldig lite gass i forhold til olje, sammenlignet med BlueNord som i prosent av produksjonen har mye gass. Gassprisene ligger an til å kunne gå i taket, spesielt EU ligger dårlig an. Hypotesen min er at BlurNord aksjonærer går glipp av betydelig oppgang sa Vår Energi ikke nødvendigvis vil respondere ved å gå opp like mye på gassprisene frem til oppgjøret på oppkjøpet kommer. Blir spennende å se👍",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 332,
+      "char_count": 518,
+      "has_link": false
+    },
+    {
+      "key": "e6836811be48db5b",
+      "author": "potluck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/potluck",
+      "posted_relative": "for 48 min siden",
+      "text": "Du får omregnet Vår utbytter i tillegg til sluttvederlaget dersom det endelige oppgjøreret gjøres etter kommende utbytter i Vår Energi. Det slår litt uheldig ut, siden man går glipp av utbytter tilsvarende kontantdelen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 219,
       "has_link": false
     }
   ]

@@ -1,9 +1,53 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-08-31T12:51:23.057308+00:00",
+  "scraped_at": "2026-08-31T14:25:38.100646+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "eb47ace3ec48c238",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 36 min siden",
+      "text": "Investorene priser europeisk forsvarsindustri som om opprustningen er midlertidig. Pareto-analytiker Fabian Jørgensen mener Europa står foran en 20 år lang vekstsyklus – og spår kraftig resultatvekst for Kongsberg Gruppen. Hvem har tett samarbeid ,Kitron",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 254,
+      "has_link": false
+    },
+    {
+      "key": "7d88bdd256ff6fd4",
+      "author": "Bendik0875",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bendik0875",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvordan går den ned når den kommer i FA og mener at det går så bra? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "af5081db45aca2f5",
+      "author": "jonasroe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jonasroe",
+      "posted_relative": "for 28 min siden",
+      "text": "Fordi det allerede er priset inn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }
