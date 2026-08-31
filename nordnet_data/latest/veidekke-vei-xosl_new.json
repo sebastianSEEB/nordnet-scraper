@@ -1,9 +1,23 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-08-31T07:54:47.885102+00:00",
+  "scraped_at": "2026-08-31T12:52:55.336057+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "eb428aa46de0d717",
+      "author": "Flytsonen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flytsonen",
+      "posted_relative": null,
+      "text": "27. aug. Eller er det opsjoner som blir utløst av ledende ansatte?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,24 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-08-31T07:54:14.024044+00:00",
+  "scraped_at": "2026-08-31T12:52:24.860660+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "b7533ddf8ad2d93e",
-      "author": "Fame",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fame",
-      "posted_relative": "for 7 min siden",
-      "text": "Er ikke så dypt. Oppdaterte tall fra selskapet som skal inn i modellen. Modellen spytter ut et nytt kursmål.",
+      "key": "fb537ba7ba9dd320",
+      "author": "Viewbird",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viewbird",
+      "posted_relative": null,
+      "text": "27. aug. Er det noen her som har en god/kort måte å forklare forholdet mellom antall Ai-kort (fra napa) og et datacenter. Skjønner at det hundre variabler, men ball-park forklart hvor mange kort et lite/medium/stort datacenter typisk kan ha.  Eks. ordrene de har fått på 1000/2000 av de nye ai-kortene, er det da nok til å fylle et helt datacenter (stort/lite) etc.  Lettere å koke ting ned for å bedre forstå :)",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        5
+      ],
       "links": [],
-      "char_count": 108,
+      "char_count": 412,
       "has_link": false
     }
   ]

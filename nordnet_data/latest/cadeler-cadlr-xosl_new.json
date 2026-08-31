@@ -1,9 +1,39 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-08-31T07:54:20.684224+00:00",
+  "scraped_at": "2026-08-31T12:52:28.665488+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5075cfae22da1beb",
+      "author": "tjampman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tjampman",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Jeg tror ikke de selger direkte ut i markedet. De første par prosentene de solgte ga ikke negativ kurs... Så jeg tror det er noe annet som gir utslag i dag. Jeg synes dog 3% fall er mye på en slik vanlig mandag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 213,
+      "has_link": false
+    },
+    {
+      "key": "aed3379a80a66a29",
+      "author": "A320",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a320",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Er nok Lexcor Master Funds som kjøres denne på salg nu iom at de skal ut med resten av beholdningen, en god anledning til å gå inn i Cadeler eller adde på med litt til 🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    }
+  ]
 }

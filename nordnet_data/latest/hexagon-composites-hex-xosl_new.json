@@ -1,9 +1,56 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-08-31T07:55:33.521387+00:00",
+  "scraped_at": "2026-08-31T12:53:42.063937+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b7b2b83b23aa8deb",
+      "author": "wisting",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wisting",
+      "posted_relative": null,
+      "text": "27. aug. 6 av 6 analytikere sier kjøp med høye kursmål. Likevel veldig laber interesse for aksjen. Hva skyldes det?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        11
+      ],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    },
+    {
+      "key": "32b6872e193b86b4",
+      "author": "tomlys50",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tomlys50",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hvor langt ned skal vi? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "f5abd29245236663",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 2 t siden",
+      "text": "Her kan vi fort få noen greie dager:)",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

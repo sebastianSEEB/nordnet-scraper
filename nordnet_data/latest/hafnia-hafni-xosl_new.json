@@ -1,39 +1,50 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-08-31T07:51:29.114506+00:00",
+  "scraped_at": "2026-08-31T12:49:39.366758+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "edc21dba46f1f8f1",
-      "author": "Bent Burg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bent-burg",
-      "posted_relative": "for 28 min siden",
-      "text": "· nei, men ser jo bra ut.. https://www.euroinvestor.dk/nyheder/nye-tal-fra-hafnia-udbytte-paa-vej-til-aktionaererne",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.euroinvestor.dk/nyheder/nye-tal-fra-hafnia-udbytte-paa-vej-til-aktionaererne"
-      ],
-      "char_count": 115,
-      "has_link": true
-    },
-    {
-      "key": "a5d34d4cf9d4facd",
-      "author": "Fatihsultan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fatihsultan",
+      "key": "7ec118aa024dd22f",
+      "author": "powertrack",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/powertrack",
       "posted_relative": "for 3 t siden",
-      "text": "· Noen som kan se i utbytteoversikten med Hafnia det kommende? :)",
+      "text": "noen som vet dato for kommende utbytte?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        1
       ],
       "links": [],
-      "char_count": 65,
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "ea0fd571a24bf31e",
+      "author": "Applespace",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/applespace",
+      "posted_relative": "for 3 t siden",
+      "text": "· Va 0,5 dollar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    },
+    {
+      "key": "a6f7bcc78ab6c25a",
+      "author": "bladerunner63",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bladerunner63",
+      "posted_relative": "for 2 t siden",
+      "text": "· 23.september",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
       "has_link": false
     }
   ]

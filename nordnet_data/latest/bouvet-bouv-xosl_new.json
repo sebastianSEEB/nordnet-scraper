@@ -1,9 +1,23 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-08-31T07:54:44.050231+00:00",
+  "scraped_at": "2026-08-31T12:52:51.572943+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "05ae40e1334f3339",
+      "author": "Gråbein 44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
+      "posted_relative": "for 3 t siden",
+      "text": "· Er det kun jeg som undrer meg over hvorfor analysefirmaer her på Nordnet legger inn sine analyser anonymt? 🤑🥸",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    }
+  ]
 }

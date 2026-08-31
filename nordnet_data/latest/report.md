@@ -1,47 +1,90 @@
-# Nordnet-rapport (2026-08-31T07:57:14.540990+00:00)
+# Nordnet-rapport (2026-08-31T12:55:26.083797+00:00)
 
-# Analyse av nye forumsinnlegg
+# Shipping- og aksjeforum-rapport
 
-## Maritime aksjer
+## Tank (råolje)
 
-### Frontline (FRO) — Positivt signal
-Flere meglerhus justerer kursmål samme dag: Nordea senker til 375, mens Clarkson (450), SEB (465) og DNB (430) øker. Blandet, men flertallet av meglerhusene er positive og kursmålene ligger godt over dagens nivå. Aksjen er opp 102% hittil i år ifølge Clarksons kommentar, som fortsatt anbefaler å holde. Ikke urgent siden det er «vanlig» analytikeraktivitet, ikke samstemt oppgradering.
+### Frontline (FRO)
+**Klassifisering: Ingenting nevneverdig**
+Innleggene handler hovedsakelig om flåtealdersprofil (henvisning til OET/CMB Q2-rapporter), utbyttedato i kalenderen og generell diskusjon om kapasitetsutvidelse i tankmarkedet. Ingen konkrete nyheter om rater, kontrakter eller analytikerbevegelser for FRO spesifikt.
 
-### Okeanis Eco Tankers (OET) — Blandet/nøytralt
-Flåteoppdateringer viser fortsatt aktivitet i Suez-korridoren og mulig STS-overføringer. En bruker nevner at 10 år gamle VLCC-er nå koster mer enn nybygg (ny analytiker Oliver Dunvold hos ABG Sundal Collier har overtatt shipping-dekningen) — indikerer stramt annenhåndsmarked for råoljetankere, som er positivt for verdivurderinger i segmentet. Ingen konkrete kontrakter eller rateendringer bekreftet.
+### Okeanis Eco Tankers (OET)
+**Klassifisering: Ingenting nevneverdig**
+Historisk sammenligning med shippingoppturen under 1. verdenskrig (spekulativt innlegg) og en kort kommentar. Ingen konkrete selskapsspesifikke nyheter.
 
-### Hafnia (HAFNI) — Positivt signal
-Lenke til euroinvestor.dk antyder «udbytte på vej til aktionærerne» basert på nye tall. Positivt for utbyttecase, men ingen konkrete tall gjengitt i innlegget selv.
+### Capital Tankers (CAPT)
+**Klassifisering: Positivt signal**
+E24-artikkel siteres: alle fem analytikere som følger Capital Tankers har kjøpsanbefaling (ifølge Bloomberg). Fearnley Securities har selskapet som et av sine toppvalg for august og venter sterke Q3-bookingtall samt inntjeningsvekst kvartal-for-kvartal. Aksjen handles med 20% rabatt mot Fearnleys NAV-vurdering. Dette er et flertallssignal fra flere analytikere samtidig, men ikke en oppgradering samme dag - kvalifiserer ikke som urgent.
 
-### Capital Tankers (CAPT) — Ingenting nevneverdig
-Rutinemessig flåteoppdatering (ks1977) om skipsbevegelser i Suez/Bab el-Mandeb-området. Ingen ratedata eller kontraktsnyheter.
+**Kryssegment-relevans (tank_raaolje)**: Positiv analytikersentiment på Capital Tankers og sterke VLGC-rater (se BW LPG under) understøtter generelt positivt bilde for tankmarkedet, som kan smitte over på FRO og OET via read-across på rater/sentiment.
 
-### CMB.Tech (CMBTO) — Positivt signal
-Finansavisen-artikkel (Kristoffer Barth Skeie, Arctic Securities): tørrbulkrater opp 22% siste måned, Capesize opp 16% siste uke til $46.600/dag. CMB.Tech trukket frem som ett av to toppvalg i tørrbulk sammen med Star Bulk. Kursmål oppjustert fra $21,7 til $23,9. Selskapet booker store gevinster fra tankskipssalg ($127,5m i Q3, $131,2m i Q4 bokført), ventet utbytteyield 11,7%. Dette er relevant read-across til hele tørrbulk-segmentet (2020 Bulkers, Himalaya Shipping, Jinhui) siden ratene generelt trekkes frem som drivere.
+## Tank (produkt/kjemikalier)
 
-### MPC Container Ships (MPCC) — Positivt signal
-Bruker (lizgard) peker på at MPCC har 99% utleiedekning ut 2026 og 85% i 2027 til høye rater, og at Rødehavet-uroen holder ratene oppe. Kritikk av DNB Carnegies modellportefølje for å undervurdere selskapet. Ingen konkret ny hendelse, men understøtter positivt sentiment rundt kontraktsdekning.
+### Hafnia (HAFNI)
+**Klassifisering: Ingenting nevneverdig**
+Kun spørsmål/svar om utbyttedato (23. september). Ingen substansielle nyheter.
 
-### Wallenius Wilhelmsen (WAWI) — Ingenting nevneverdig
-Kun diskusjon om utbyttefrekvens, ingen ny informasjon av markedsrelevans.
+### Stolt-Nielsen (SNI)
+Ingen nye innlegg denne runden.
 
-## Kryssegment-funn
-**Tørrbulk-segmentet (2020 Bulkers, Himalaya Shipping, Jinhui, CMB.Tech):** Finansavisen-artikkelen om CMB.Tech er svært relevant for hele segmentet — Capesize-rater opp 16% siste uke og 22% siste måned, drevet av økt kullfrakt (som erstatning for gass pga. Hormuz-stenging) og bauksitt fra Guinea. Arctic Securities' analytiker peker på Star Bulk og CMB.Tech som toppvalg, men den underliggende ratetrenden er positiv for hele segmentet.
+## Gass (LPG/LNG)
 
-**Tank/geopolitikk (Frontline, OET, Hafnia, Capital Tankers, MPCC):** Panoro Energy-tråden nevner en Finansavisen-sak om at USA angrep Iran for første gang på en måned (31.08). Dette er en kryssegment-hendelse som typisk øker krigsrisikopremier og kan påvirke rater i Hormuz-nære ruter — relevant for råoljetank (FRO, OET) og indirekte for gass (Hormuz-transitt nevnt eksplisitt i CMB.Tech-artikkelen). Ingen direkte markedsreaksjon dokumentert i innleggene ennå.
+### BW LPG (BWLPG)
+**Klassifisering: Blandet**
+Omfattende analytikeroppdatering fra flere meglerhus samtidig (DNB Carnegie, Clarksons, SEB, Arctic Securities, ABG Sundal Collier): de fleste justerer kursmål marginalt NED, men beholder anbefalinger (mest Hold, Clarksons har Kjøp). Underliggende budskap er positivt for markedet: "VLGC-markedet holder seg på høye nivåer" pga. forstyrrelser i Midtøsten og økte amerikanske eksporter, med mulig gjentakelse av 2023-oppgangen pga. Panama-transittrisiko. Meglerhusene mener imidlertid aksjen er fullt priset i forhold til NAV. Ingen enkelt stor oppgradering - flere småjusteringer nedover på kursmål samme dag, men fortsatt sterkt underliggende marked.
 
-**Rødehavet/Suez-uro:** Nevnes både i MPCC-tråden og indirekte i OET/Capital Tankers flåteoppdateringer (skip som seiler via Bab el-Mandeb/Suez), konsistent med fortsatt forhøyet risikopremie og lengre seilingsruter som støtter rater på tvers av tank- og containersegmentet.
+**Kryssegment-relevans (gass)**: Sterke VLGC-rater pga. Midtøsten-forstyrrelser og amerikansk eksport er direkte relevant for ALNG og KCC også, selv om disse ikke har egne substansielle nyheter denne runden.
 
-## Andre selskaper (kort)
+### Klaveness Combination Carriers (KCC)
+**Klassifisering: Positivt signal**
+Kort kommentar om at tørrbulk-ratene stiger kraftig. Relevant både for KCC (kombinasjonsskip) og for hele tørrbulk-segmentet (se nedenfor).
 
-- **Lerøy Seafood (LSG) — Positivt signal:** Innsidekjøp rapportert: konsernsjef +12%, finansdirektør +25%, driftsdirektør +45% i porteføljen, samt Ferd øker. Moderat/stort innsidekjøp fra flere lederpersoner samtidig, men beskrevet som «gammelt nytt» av en annen bruker — usikker aktualitet.
-- **Grieg Seafood (GSF) — Blandet:** Ekstern investor har gått inn med implisitt verdsettelse >5 mrd kr (mot dagens ~3,5 mrd kr), tolket positivt av enkelte, men kritisert av andre som et generasjonsskifte-salg som svekker tillit til styret/ledelsen på minoritetsaksjonærers bekostning.
-- **Bakkafrost (BAKKA) — Negativt signal:** Q2: operasjonell EBIT 273m DKK (svakere enn ventet 409m DKK ifølge Bloomberg), Skottland-virksomheten hadde -139m DKK EBIT pga. biologiske utfordringer og lavere slaktevolum. Positivt i Færøyene (+411m DKK, volumer opp 67%). Pareto venter nedjustering av 2026-estimater.
-- **Kongsberg Maritime (KMAR) — Positivt signal:** ABG Sundal Collier oppjusterer kursmål til 63 (fra 60) og gjentar kjøp, til tross for svak Q2-rapport. Begrunner med rabatt mot nordiske og sykliske sammenlignbare selskaper.
-- **Moreld (MORLD) — Positivt signal:** SEB Markets-analytiker Erik Aspen Fosså trekker frem Moreld som toppvalg i oljeservice, med fri kontantstrøm-yield 17-19% i 2027-2028 og forventning om dobling av utbytteyield til 16%. Peker på Ocean Installer (80% av EBITDA) og potensielle kontrakter (Venus-prosjekt med TotalEnergies, Bacalhau med Equinor).
-- **DNO — Blandet:** Kurdistans oljeproduksjon gjenopprettet til 220-230 000 fat/dag. Brukere spekulerer i kjøpsmønster og prispress nedover trass i stigende oljepris før utbytte.
-- **Panoro Energy (PEN) — Ingenting bekreftet ennå:** Lenke om at USA angrep Iran for første gang på en måned (31.08) — potensielt geopolitisk relevant, men ingen markedsreaksjon dokumentert i selve innlegget.
-- **AutoStore (AUTO) — Positivt signal:** Nye kundeavtaler nevnt: Dustin utvider bruk til nytt anlegg i Nijmegen (repeat business), og Border States (USA) har fått sitt AutoStore-anlegg i Fargo operativt, med planer om flere anlegg.
-- **Circio Holding (CRNA) — Ingenting nevneverdig:** Ren spekulasjon/sentiment rundt kommende rapport, ingen konkret informasjon.
+## Tørrbulk
+
+### 2020 Bulkers
+**Klassifisering: Ingenting nevneverdig**
+Spekulative brukerkommentarer om timing og verdivurdering, ingen konkrete nyheter.
+
+### Himalaya Shipping (HSHP)
+**Klassifisering: Positivt signal**
+Baltic Capesize Index (BCI) opp 950 til 43.098, MTD 39.644, YTD 31.439, med 2026 FFA på 43.000. Stigende Capesize-rater er direkte positivt for HSHP.
+
+### Jinhui Shipping (JIN)
+**Klassifisering: Blandet**
+Q1-rapport gjennomgått i detalj: solid drift (99% flåteutnyttelse, driftskostnader under 6000 USD/dag, økende rater inn i Q3/Q4, stigende skipsverdier), men også et tap på ca. USD 10 mill. på en eiendomsinvestering i Shanghai som er skrevet ned til null, samt USD 3,5 mill tap på verdipapirer. Ordrebok utvidet til 12 nybygg mot 2030, gjeldsgrad lav på 7%. Blandet bilde: sterk kjernedrift og flåteutvidelse, men reelle tap utenfor kjernevirksomhet.
+
+**Kryssegment-relevans (tørrbulk)**: Stigende Baltic-rater (HSHP) og kommentar om at "tørrbulkratene stiger kraftig" (KCC-tråd) er positivt read-across for hele segmentet, inkludert 2020 Bulkers.
+
+## Container
+
+### MPC Container Ships (MPCC)
+**Klassifisering: Ingenting nevneverdig**
+Diskusjon om kontraktsdekning (85% dekket til 2027, TCE ca. 25.122 USD) - dette er eksisterende kjent informasjon fra presentasjon, ikke ny nyhet i seg selv, men bekrefter stabil inntjeningsprofil.
+
+## Bilfrakt/RoRo
+
+### Höegh Autoliners (HAUTO)
+**Klassifisering: Ingenting nevneverdig**
+Folketrygdfondet har lånt ut 270.000 aksjer (nå netto 4,97% eierandel) - dette er en rutinemessig utlånsaktivitet, ikke et signal om nedsalg fra fondets side.
+
+### Wallenius Wilhelmsen (WAWI)
+**Klassifisering: Positivt signal**
+Økt ordrereserve på ca. 1,5 mrd. kr rapportert i kvartalsrapport. To nybygg sluttet på 5-års tidscertepartier med en større asiatisk bilprodusent, med opsjon på ytterligere 5 år - fast periode øker total ordrereserve med ca. USD 150 mill. Konkret, positiv kontraktsnyhet.
+
+**Kryssegment-relevans (bilfrakt_roro)**: Nybygg-kontrakter og lange tidscertepartier hos WAWI er positivt for hele segmentet inkl. HAUTO, WWI og WWIB, som deler samme eksponering mot bileksport.
+
+## Offshore/spesialisert
+
+### CMB.TECH (CMBTO)
+**Klassifisering: Ingenting nevneverdig**
+Kort kommentar om kursoppgang, ingen substans.
+
+### Capital Tankers (CAPT) - se over under tank_raaolje-klassifisering, men ligger i offshore_spesialisert-segmentet i metadata. Vurdert der.
+
+## Oppsummering kryssegment-funn
+- **Gass-segmentet**: Sterke VLGC-rater pga. Midtøsten-uro og amerikansk eksport (BW LPG-tråd) er relevant for hele gass-segmentet (ALNG, KCC).
+- **Tørrbulk-segmentet**: Stigende Baltic Capesize Index og generelle rateoppgang-kommentarer er positivt for hele segmentet (2020 Bulkers, Himalaya, Jinhui).
+- **Tank-segmentet**: Bred analytikerdekning med kjøpsanbefalinger på Capital Tankers samt fortsatt sterkt VLGC/tankmarked understøtter generelt positivt sentiment for råoljetank (FRO, OET) og produkttank (Hafnia, Stolt-Nielsen), selv uten direkte nyheter for disse tickerne denne runden.
+- **Bilfrakt/RoRo**: Ny langsiktig kontrakt hos Wallenius Wilhelmsen (tidscerteparti med asiatisk bilprodusent) er positivt signal for hele segmentet gitt tett korrelasjon mellom WAWI, HAUTO, WWI og WWIB.
 
 Dette er en signalrapport basert på forumaktivitet, ikke en kjøps- eller salgsanbefaling.

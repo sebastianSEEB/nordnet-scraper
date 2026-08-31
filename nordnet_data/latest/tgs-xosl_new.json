@@ -1,9 +1,41 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-08-31T07:55:25.959048+00:00",
+  "scraped_at": "2026-08-31T12:53:34.508332+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4156843dec3c3243",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": "for 4 t siden",
+      "text": "I Børsintervjuet i Finansavisen i dag har analytiker Erik Aspen Fosså i SB1 Markets en meget god analyse på olje-/offshoresektoren. Han har stor tro på Moreld, mens TGS får en klar salgsanbefaling. Årsaken er at det er få tegn til en holdningsendring hos oljeselskapene, og SB1 Markets er derfor redde for at markedet overvurderer hvor mye og hvor fort leteaktiviteten kan snu, forklarer Fosså. – Derfor bør man selge TGS, der våre anslag for kontant-ebitda i 2027–2028 er 10–15 prosent lavere enn konsensus og fri kontantstrøm-yield bare er rundt syv prosent på våre estimater. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 598,
+      "has_link": false
+    },
+    {
+      "key": "dba4de2173ae4c83",
+      "author": "Fplkongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fplkongen",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Hva analytikere mener er ikke så intressant, de er en gjeng BI kloner som snur kappa etter AI vinden. Børsen i dag gir oss et mye bedre svar på veien videre 😅🍾",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    }
+  ]
 }
