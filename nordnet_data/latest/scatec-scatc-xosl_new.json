@@ -1,9 +1,39 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-08-31T01:13:16.005103+00:00",
+  "scraped_at": "2026-08-31T07:53:38.491448+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8a0882540a5e6208",
+      "author": "Lynx_80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lynx_80",
+      "posted_relative": null,
+      "text": "27. aug. Ser ut som fornybar sektoren endte litt opp i går i USA. Er det vanligvis toneangivende for denne? (Fersk i fornybar markedet) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "7e0137ba3d4ebc48",
+      "author": "isastr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isastr",
+      "posted_relative": "for 11 min siden",
+      "text": "Da var jeg tilbake i grønn energi etter en periode i fossil :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

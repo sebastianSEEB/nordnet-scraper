@@ -1,9 +1,42 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-08-31T01:12:48.560877+00:00",
+  "scraped_at": "2026-08-31T07:53:09.733814+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8e153b04016d099a",
+      "author": "Valderama64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/valderama64",
+      "posted_relative": "for 16 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/08/30/8376678/sondagens-aksjetips-oslo-bors-og-aker-i-all-time-high-hva-na Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/08/30/8376678/sondagens-aksjetips-oslo-bors-og-aker-i-all-time-high-hva-na"
+      ],
+      "char_count": 134,
+      "has_link": true
+    },
+    {
+      "key": "cc27aad055d38720",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 1 t siden",
+      "text": "At Kitron bryter motstandsnivåer og volumbalansen viser at kjøperne er i overtall: Kitron steg 0,27 prosent og sluttet på 92,75 kroner fredag. For uken ble det en oppgang på 8,6 prosent og aksjen brøt den tekniske motstanden på 99,65- og 91,0-nivået. 50-dagers vektet glidende gjennomsnitt ble også brutt igjen. Aksjen er opp 27,6 prosent siden nyttår og opp 63,4 prosent det siste året. Kursen er imidlertid fremdeles ned 18,9 prosent fra all-time high på 114,30 kroner den 29. mai 2026. On Balance Volum har beveget seg sidelengs de siste ti dagene, noe som indikerer en balanse mellom kjøps- og salgspress. De siste fem dagene har On Balance Volum steget, noe som indikerer at kjøpspresset har tatt over helt kortsiktig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 723,
+      "has_link": false
+    }
+  ]
 }

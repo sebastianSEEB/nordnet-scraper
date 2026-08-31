@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-08-31T01:12:23.728242+00:00",
+  "scraped_at": "2026-08-31T07:52:45.327334+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "772abeb92ca25890",
+      "author": "Gammel rotte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gammel-rotte",
+      "posted_relative": "for 45 min siden",
+      "text": "· Er det noen som har et bud på når det kontante vederlaget utbetales?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "dc4d1aadbbe6af84",
+      "author": "Newbie101",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/newbie101",
+      "posted_relative": "for 48 min siden",
+      "text": "Solgte å kjøpte Panoro.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

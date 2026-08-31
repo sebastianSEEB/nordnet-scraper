@@ -1,9 +1,23 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-08-31T01:11:17.495711+00:00",
+  "scraped_at": "2026-08-31T07:51:38.722757+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9a9c59c63f7c3bb3",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 1 t siden",
+      "text": "· Avanza lanserer Avanza Sigma, en digital og algoritme-styrt diskresjonær aksjeforvaltning for Private Banking- og Pro-kunder. flott, enda mere bootkjør...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    }
+  ]
 }

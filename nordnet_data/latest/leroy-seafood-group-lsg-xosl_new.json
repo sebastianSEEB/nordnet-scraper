@@ -1,9 +1,38 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-08-31T01:13:07.994748+00:00",
+  "scraped_at": "2026-08-31T07:53:30.703171+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "becbb772bea17c27",
+      "author": "Harpokrates",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harpokrates",
+      "posted_relative": "for 20 min siden",
+      "text": "Innsidekjøp i Lerøy! Konsernsjefen øker porteføljen med 12 %, finasdirektøren legger til 25 %, en driftsdirektør øker med 45 % og Ferd plukker litt til. Sterk kursøkning i det siste, men her må det være mer å gå på!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "872827fb2f7ffda9",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 10 min siden",
+      "text": "Dette er gammelt nytt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

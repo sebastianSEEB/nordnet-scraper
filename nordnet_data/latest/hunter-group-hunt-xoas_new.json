@@ -1,9 +1,109 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-08-31T01:16:12.441813+00:00",
+  "scraped_at": "2026-08-31T07:56:22.626418+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 7,
+  "posts": [
+    {
+      "key": "382e591af054371e",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 37 min siden",
+      "text": "Fredagens rater. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina            631,67       656.168",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    },
+    {
+      "key": "934a34bccdd517a8",
+      "author": "H.S.T",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hst-1",
+      "posted_relative": "for 16 min siden",
+      "text": "Bra økning. Hva er dine meninger om at ratene kan gå helt opp til 700? Er det umulig?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "2a959d29ff0bbe3d",
+      "author": "VBP",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vbp",
+      "posted_relative": "for 37 min siden",
+      "text": "Har kjøpt mer før daytrader presser pris opp. Hurra!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "bf838df551c5dc40",
+      "author": "SchultzeN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/schultzen",
+      "posted_relative": "for 40 min siden",
+      "text": "· Et godt utbytte vi kan se frem til snart😍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "f1653745078c0330",
+      "author": "H.S.T",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hst-1",
+      "posted_relative": "for 32 min siden",
+      "text": "Hva er dine prediksjoner før lunsj idag?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "11268829d202aa8e",
+      "author": "Imsatonthis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/imsatonthis",
+      "posted_relative": "for 8 min siden",
+      "text": "Kanskje geos er mer interessant?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "603df0eaded05e03",
+      "author": "moneymatter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moneymatter",
+      "posted_relative": "for 33 min siden",
+      "text": "· Når er Q2 eks-datoer?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

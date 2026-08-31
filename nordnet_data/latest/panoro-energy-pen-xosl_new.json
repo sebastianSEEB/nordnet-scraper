@@ -1,9 +1,25 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-08-31T01:12:52.226161+00:00",
+  "scraped_at": "2026-08-31T07:53:13.631140+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "75edb57e18632c8b",
+      "author": "mariusvell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusvell",
+      "posted_relative": "for 5 min siden",
+      "text": "https://www.finansavisen.no/samfunn/2026/08/31/8376761/usa-angrep-iran-for-forste-gang-pa-en-maned",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/samfunn/2026/08/31/8376761/usa-angrep-iran-for-forste-gang-pa-en-maned"
+      ],
+      "char_count": 98,
+      "has_link": true
+    }
+  ]
 }

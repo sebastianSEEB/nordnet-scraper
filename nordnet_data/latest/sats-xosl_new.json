@@ -1,9 +1,39 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-08-31T01:15:28.013391+00:00",
+  "scraped_at": "2026-08-31T07:55:41.609597+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "122e3117763945c8",
+      "author": "Michi13",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michi13",
+      "posted_relative": null,
+      "text": "24. aug. Andre gang SATS betaler utbytte i år. Hvem selger denne aksjen nå? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "785c62031369e638",
+      "author": "ykyk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ykyk",
+      "posted_relative": "for 31 min siden",
+      "text": "Klager ikke som de sender ned kursen til 42 og 41 altså, blir bare penere å se på om 2-3 år",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

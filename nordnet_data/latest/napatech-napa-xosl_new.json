@@ -1,9 +1,23 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-08-31T01:13:52.136730+00:00",
+  "scraped_at": "2026-08-31T07:54:14.024044+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b7533ddf8ad2d93e",
+      "author": "Fame",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fame",
+      "posted_relative": "for 7 min siden",
+      "text": "Er ikke så dypt. Oppdaterte tall fra selskapet som skal inn i modellen. Modellen spytter ut et nytt kursmål.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    }
+  ]
 }
