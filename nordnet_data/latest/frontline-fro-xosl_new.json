@@ -1,39 +1,25 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-08-31T14:23:49.804018+00:00",
+  "scraped_at": "2026-08-31T15:38:26.125911+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "a492673b420d2f9d",
-      "author": "Aframaks",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
-      "posted_relative": "for 18 min siden · Endret",
-      "text": "yep, kunne falt litt til, nå blei det bare en trade for meg i dag ser det ut som",
+      "key": "6a65c59ccdd5de88",
+      "author": "Korona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
+      "posted_relative": "for 24 min siden",
+      "text": "· https://www.tradewindsnews.com/tankers/tanker-stocks-fall-after-new-us-strikes-on-iran/2-1-2036655?utm_source=chatgpt.com",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 80,
-      "has_link": false
-    },
-    {
-      "key": "7220981dfad5defc",
-      "author": "Josr",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josr",
-      "posted_relative": "for 48 min siden",
-      "text": "Typisk NYSE-åpning..................",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
+      "links": [
+        "https://www.tradewindsnews.com/tankers/tanker-stocks-fall-after-new-us-strikes-on-iran/2-1-2036655?utm_source=chatgpt.com"
       ],
-      "links": [],
-      "char_count": 36,
-      "has_link": false
+      "char_count": 123,
+      "has_link": true
     }
   ]
 }

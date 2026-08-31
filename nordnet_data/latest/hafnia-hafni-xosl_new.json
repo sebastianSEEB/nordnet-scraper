@@ -1,52 +1,65 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-08-31T14:23:59.014128+00:00",
+  "scraped_at": "2026-08-31T15:38:35.834105+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "6bdbff72da87171c",
-      "author": "ks1977",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-      "posted_relative": "for 9 min siden",
-      "text": "Har du brukt en språkmodell nå, for dette er skivebom! Utbyttet er $0,5003 Ex (Oslo) 07.09 Bet ca 23.09 https://newsweb.oslobors.no/message/681108",
+      "key": "f90a3d2284d009d3",
+      "author": "O skorpio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/o-skorpio",
+      "posted_relative": "for 51 min siden",
+      "text": "Andre datoer tall hos meg: Ex 3/9, utbet 22/9, utbytte 2,6764 nok. Jeg mener også at utbytte ble 0,5 $, her er det noe som ikke stemmer. Tror nok ks1977 har mer riktige tall/datoer.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://newsweb.oslobors.no/message/681108"
-      ],
-      "char_count": 146,
-      "has_link": true
+      "links": [],
+      "char_count": 181,
+      "has_link": false
     },
     {
-      "key": "eb3cd78661857e79",
-      "author": "joye",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joye",
-      "posted_relative": "for 24 min siden",
-      "text": "Ex-utbytte 2 sept  Utbetaling 14 sept Utbytte USD 0,2877 per aksje Vis 1 kommentar til",
+      "key": "83fc972d1f57f76c",
+      "author": "powertrack",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/powertrack",
+      "posted_relative": "for 6 t siden",
+      "text": "noen som vet dato for kommende utbytte? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 86,
+      "char_count": 59,
       "has_link": false
     },
     {
-      "key": "5f127441414e9a04",
+      "key": "e755f492decfbde6",
       "author": "joye",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joye",
-      "posted_relative": "for 32 min siden",
-      "text": "14. september 0,2877 Usd",
+      "posted_relative": "for 53 min siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "c0855550a87942d9",
+      "author": "Bobnrd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bobnrd",
+      "posted_relative": "for 5 min siden",
+      "text": "Og xdag? 3 september?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 24,
+      "char_count": 21,
       "has_link": false
     }
   ]

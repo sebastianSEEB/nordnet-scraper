@@ -1,9 +1,67 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-08-31T14:27:17.145903+00:00",
+  "scraped_at": "2026-08-31T15:41:46.869653+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "21d47cfd9f031cf5",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 36 min siden",
+      "text": "Volumet har vært der en stund men off market. Det nye idag er at det skjer i sluttauksjon på åpen børs med med et skikkelig hopp i kurs.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    },
+    {
+      "key": "756f9816da6b3f9c",
+      "author": "kristianme",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kristianme",
+      "posted_relative": "for 1 t siden",
+      "text": "Merkelig bevegelse på slutten.. 4% plutselig? Finner ingen nyheter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "0b0be9898ce11931",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 58 min siden",
+      "text": "Kommer an på hva som ligger i kortene ;)",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "e880a811f5066277",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 49 min siden",
+      "text": "Voldsomt til volum da, noen har våknet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

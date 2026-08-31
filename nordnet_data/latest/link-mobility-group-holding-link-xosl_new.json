@@ -1,9 +1,38 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-08-31T14:25:26.550881+00:00",
+  "scraped_at": "2026-08-31T15:39:59.384858+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "165efad15aad18fc",
+      "author": "Bravado",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bravado",
+      "posted_relative": "for 2 t siden",
+      "text": "· Verste aksjekjøpet jeg har gjort, enda verre enn Novo Nordisk💀💀 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "e52eedb36b8f0c1d",
+      "author": "Oligarken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oligarken",
+      "posted_relative": "for 2 t siden",
+      "text": "Da har du ikke handlet så mye, vel?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }
