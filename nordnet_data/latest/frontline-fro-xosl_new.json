@@ -1,25 +1,82 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-08-31T15:38:26.125911+00:00",
+  "scraped_at": "2026-08-31T20:28:58.565026+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "6a65c59ccdd5de88",
-      "author": "Korona",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
-      "posted_relative": "for 24 min siden",
-      "text": "· https://www.tradewindsnews.com/tankers/tanker-stocks-fall-after-new-us-strikes-on-iran/2-1-2036655?utm_source=chatgpt.com",
+      "key": "7537f223d1e6091c",
+      "author": "ArveSynden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arvesynden",
+      "posted_relative": "for 2 t siden",
+      "text": "To av VLCC'ene- Front Neiden & Front Prince - må ha gått inn Rødehavet & sneket seg gjennom Suez-Kanalen (ikke fullastet) med AIS-transponder av. Neiden var 8/8 sør-vest av India med kurs for ca Rødehavet. Så var der ingen nye posisjoner oppgitt før den lastet i Sidi Kerir, Egypt 28/8. Å gå rundt Sør-Afrika tar lengre tid. Prince passerte 8/8 nord for Maldivene med kurs for ca Rødehavet. Neste posisjon (MarineTraffic): i Sidi Kerir, Egypt 26/8. Har nå oppgitt destinasjon Texas. Trolig har båtene underveis lastet i Yanbu, Saudi (Rødehavet), for så å benytte seg av Sumed-rørledningen i Ain Sokhna, Egypt (Rødehavet) til å sende hele eller deler av lasten gjennom den, og så laste igjen i andre enden av Sumed-rørledningen: i Sidi Kerir, Egypt (ved Alexandria på Middelhavs-siden).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 785,
+      "has_link": false
+    },
+    {
+      "key": "d1ff505db58877df",
+      "author": "jeg_elsker_potet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jeg_elsker_potet",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva blir neste utbytte? Og er det slik at handelen for aksjer må være utført senest på ex-dagen for å få utbytte for aktuell kvartal, eller holder med med at ordre er lagt inn? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 196,
+      "has_link": false
+    },
+    {
+      "key": "61605d33de90f66d",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 3 t siden",
+      "text": "Det går opp og ned i verden. Over tid går aksjer mer opp enn ned. Det har vært trenden i fro en stund også.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://www.tradewindsnews.com/tankers/tanker-stocks-fall-after-new-us-strikes-on-iran/2-1-2036655?utm_source=chatgpt.com"
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "20923a9cebedac6e",
+      "author": "Josr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josr",
+      "posted_relative": "for 6 t siden",
+      "text": "Typisk NYSE-åpning.................. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
       ],
-      "char_count": 123,
-      "has_link": true
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "5a18616dc195baf0",
+      "author": "Aframaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
+      "posted_relative": "for 3 t siden",
+      "text": "\"eller holder med med at ordre er lagt inn\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
     }
   ]
 }

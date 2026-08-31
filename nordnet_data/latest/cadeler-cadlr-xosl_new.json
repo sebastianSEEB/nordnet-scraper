@@ -1,23 +1,27 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-08-31T15:41:16.076478+00:00",
+  "scraped_at": "2026-08-31T20:31:56.994519+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "879e65825188dfce",
-      "author": "Heltan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltan",
-      "posted_relative": "for 1 t siden",
-      "text": "Det var iallefall en del som benyttet seg av tilbudet  i dag.",
+      "key": "d314c5f34ad1cbbd",
+      "author": "Tenkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tenkern",
+      "posted_relative": null,
+      "text": "27. aug. · https://www.renews.biz/offshore-wind/official-probe-launched-into-tyne-jack-up-incident/",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 61,
-      "has_link": false
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://www.renews.biz/offshore-wind/official-probe-launched-into-tyne-jack-up-incident/"
+      ],
+      "char_count": 99,
+      "has_link": true
     }
   ]
 }

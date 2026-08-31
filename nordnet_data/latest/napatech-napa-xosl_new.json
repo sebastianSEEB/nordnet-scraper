@@ -1,9 +1,27 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-08-31T15:41:12.310619+00:00",
+  "scraped_at": "2026-08-31T20:31:53.158968+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7e2cb9a990405402",
+      "author": "thomasska",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thomasska",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.dn.no/bors/dn-investor/aksjer/investeringer/doblingskandidater-pa-oslo-bors-kan-doble-seg-eller-ga-tregangeren/2-1-2034246",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.dn.no/bors/dn-investor/aksjer/investeringer/doblingskandidater-pa-oslo-bors-kan-doble-seg-eller-ga-tregangeren/2-1-2034246"
+      ],
+      "char_count": 134,
+      "has_link": true
+    }
+  ]
 }

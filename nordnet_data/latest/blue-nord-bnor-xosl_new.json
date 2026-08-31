@@ -1,22 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-08-31T15:39:47.949063+00:00",
+  "scraped_at": "2026-08-31T20:30:28.841292+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ff702ba04f15deb7",
-      "author": "Gjøkur",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gjkur",
-      "posted_relative": "for 39 min siden",
-      "text": "Ikke så sikkert på det. VAR har 35% gas og som regel bedre hedging en BNOR, (45% gas).",
-      "reply_count": null,
+      "key": "471c18d57d5720a4",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 3 t siden",
+      "text": "Uansett hvordan gassprisene burde påvirke kursen i de to selskapene framover vil kursen på BlueNord bli mer og mer 1:1 knyttet til kursutviklingen på Vår Energi. Det betyr at vi vanskelig får «røyket ut» hvorvidt BlueNord holdes nede som følge av kursutviklingen i Vår Energi. Vi som eier BlueNord må bare forholde oss til dette avhengighetsforholdet som dessverre er blitt etablert lenge før konverteringen mellom de to aksjene skal skje. Skulle det om ikke lenge etablere seg et gap til fordel for BlueNord vil jeg vurdere salg før den ev trekkes ned jo nærmere konverteringsdatoen nærmer seg.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 86,
+      "char_count": 595,
+      "has_link": false
+    },
+    {
+      "key": "a550cf06ebd62651",
+      "author": "Jpeace",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jpeace",
+      "posted_relative": "for 7 t siden",
+      "text": "Nå er prisen på BlueNord låst til utviklingen i kursen til Vår Energi. Om jeg ikke tar feil så har Vår Energi i prosent veldig lite gass i forhold til olje, sammenlignet med BlueNord som i prosent av produksjonen har mye gass. Gassprisene ligger an til å kunne gå i taket, spesielt EU ligger dårlig an. Hypotesen min er at BlurNord aksjonærer går glipp av betydelig oppgang sa Vår Energi ikke nødvendigvis vil respondere ved å gå opp like mye på gassprisene frem til oppgjøret på oppkjøpet kommer. Blir spennende å se👍 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [],
+      "char_count": 538,
       "has_link": false
     }
   ]

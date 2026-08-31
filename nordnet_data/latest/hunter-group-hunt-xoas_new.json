@@ -1,9 +1,38 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-08-31T15:43:19.623701+00:00",
+  "scraped_at": "2026-08-31T20:34:02.704136+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "26075640e95acac8",
+      "author": "AuroraEdge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/auroraedge",
+      "posted_relative": "for 44 min siden",
+      "text": "Over 3 mill. aksjer omsatt i Hunter i dag, samtidig som tilbakefallet er ganske kontrollert. Ser ut som mye gevinstsikring rundt 12-nivået blir absorbert. Holder kursen seg her og kjøpsinteressen fortsetter, synes jeg det begynner å se interessant ut før neste forsøk opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 272,
+      "has_link": false
+    },
+    {
+      "key": "c2a640c3a56a9bc3",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 2 t siden",
+      "text": "Det blir nok et eller annet som de vet at de kommer til å tjene penger på.  Jeg overlater den jobben til Astrup og Steen. Har full tillit til de.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 145,
+      "has_link": false
+    }
+  ]
 }
