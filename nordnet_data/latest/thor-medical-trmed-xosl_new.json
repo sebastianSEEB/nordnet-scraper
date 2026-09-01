@@ -1,9 +1,36 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-01T21:53:00.354520+00:00",
+  "scraped_at": "2026-09-01T23:47:06.674172+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fa4d092e4b86da71",
+      "author": "RV78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rv78",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Så har det også vist seg så langt at Arctic har truffet bedre enn DNB…..  Så får vi håpe det fortsetter slik.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "744f311ae088525c",
+      "author": "NoFaceNoCase",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nofacenocase",
+      "posted_relative": "for 1 t siden",
+      "text": "Eller røykt? 420?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }
