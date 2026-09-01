@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-01T10:44:40.820497+00:00",
+  "scraped_at": "2026-09-01T12:01:08.844600+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9c2823fd5eeffcdb",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er slik at det verken blir bestemt eller utbetalt mer utbytte fra BlueNord. Ev utbytter fra Vår Energi som måtte bli utbetalt til eiere av Vår Energi før fusjonen vil også bli utbetalt til oss som eier BlueNord gjennom en økning av det avtalte kontantvederlaget.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 266,
+      "has_link": false
+    },
+    {
+      "key": "d448b6f15c31f15c",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": null,
+      "text": "28. aug. Er det noen som har en dato for når Vår Energi har tenkt å gjøre opp for seg? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-01T10:46:49.486804+00:00",
+  "scraped_at": "2026-09-01T12:03:12.288726+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "261a3fb2576410eb",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "28. aug. Ikke en eneste blokk off market så langt idag. Kan vi håpe på at den eller de som har distribuert disse blokkene nå har tømt seg eller har de bare tatt en pause ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 171,
+      "has_link": false
+    },
+    {
+      "key": "d57d95ae16d5a790",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 5 min siden · Endret",
+      "text": "Enig med de som sier at aksjen vil skinne når oljepris ikke lenger er i kategori høy (post Hormuz).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    }
+  ]
 }
