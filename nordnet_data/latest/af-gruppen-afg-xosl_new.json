@@ -1,9 +1,26 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-09-01T15:23:40.793006+00:00",
+  "scraped_at": "2026-09-01T19:04:16.886202+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1964ae8a2863b67b",
+      "author": "D1HP30",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/d1hp30",
+      "posted_relative": null,
+      "text": "28. aug. Toget kjører nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

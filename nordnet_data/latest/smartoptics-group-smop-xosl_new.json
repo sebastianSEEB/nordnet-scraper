@@ -1,9 +1,39 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-09-01T15:24:30.668979+00:00",
+  "scraped_at": "2026-09-01T19:05:11.244777+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8c212d7319ced955",
+      "author": "flukten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flukten",
+      "posted_relative": "for 9 t siden · Endret",
+      "text": "Teknisk på bunn nå. Har snudd før fra disse nivåer. 2 direktører med innside kjøp på ca 46kr + noen \"hus\" har kursmål over 60kr. Hva tenker ekspertisen? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 172,
+      "has_link": false
+    },
+    {
+      "key": "24ac100990686f94",
+      "author": "GSol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gsol",
+      "posted_relative": "for 1 t siden",
+      "text": "Vet ikke, plukka litt på 44 nivået i går. Vært stille etter Q2,  Q3 29. oktober blir neste store test.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    }
+  ]
 }

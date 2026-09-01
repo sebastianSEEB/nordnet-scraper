@@ -1,9 +1,58 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-01T15:17:36.475286+00:00",
+  "scraped_at": "2026-09-01T18:58:26.667964+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "21ac6542df828b89",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 2 t siden",
+      "text": "799 ulike skip var involvert i STS-transfer av russisk olje i Q2 https://www.tradewindsnews.com/tankers/ukraine-study-800-tankers-involved-in-russian-oil-transfers-as-zones-shift-after-sanctions/2-1-2037380 Antar at det da er snakk om både råolje og oljeprodukter, hvis ikke så må vi få opp farta på sanksjonering - for det er \"bare\" 604 sanksjonerte råoljetankere, ref side 12 i Q2-rapporten til FRO https://ml-eu.globenewswire.com/Resource/Download/76bb17f5-615d-4707-80da-00f52be2bc3a",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://ml-eu.globenewswire.com/Resource/Download/76bb17f5-615d-4707-80da-00f52be2bc3a",
+        "https://www.tradewindsnews.com/tankers/ukraine-study-800-tankers-involved-in-russian-oil-transfers-as-zones-shift-after-sanctions/2-1-2037380"
+      ],
+      "char_count": 487,
+      "has_link": true
+    },
+    {
+      "key": "9fe1fdc7d5e1cebe",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "OKEANIS, best i klassen, i klassen for de flinke. Okeanis gruser konkurrentene Okeanis Eco Tankers har vært en av årets store vinnere på Oslo Børs. Det greske rederiet sier ja takk til laster, som andre rederier velger å holde seg langt unna. https://www.finansavisen.no/shipping/2026/09/01/8377133/okeanis-gruser-konkurrentene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/09/01/8377133/okeanis-gruser-konkurrentene"
+      ],
+      "char_count": 327,
+      "has_link": true
+    },
+    {
+      "key": "a7abebb9f53f3a20",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 2 t siden",
+      "text": "Begge transporterte olje fra Saudi-Arabia og ble truffet med få minutters mellomrom. https://gcaptain.com/two-tankers-carrying-saudi-oil-attacked-in-strait-of-hormuz/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://gcaptain.com/two-tankers-carrying-saudi-oil-attacked-in-strait-of-hormuz/"
+      ],
+      "char_count": 166,
+      "has_link": true
+    }
+  ]
 }

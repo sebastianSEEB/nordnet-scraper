@@ -1,28 +1,25 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-01T15:20:37.032349+00:00",
+  "scraped_at": "2026-09-01T19:01:26.754458+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "da03d2dd80db8ef5",
-      "author": "jiffy_park25",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jiffy_park25",
+      "key": "03ac9713ee661f37",
+      "author": "Dobnit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dobnit",
       "posted_relative": null,
-      "text": "28. aug. https://www.finansavisen.no/finans/2026/08/28/8376431/slo-borsen-igjen-na-kjoper-vi-oljeservice Noen som har tilgang og vet hvilke selskap det gjelder?",
-      "reply_count": null,
+      "text": "28. aug. · Soiltech",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        1
+        4
       ],
-      "links": [
-        "https://www.finansavisen.no/finans/2026/08/28/8376431/slo-borsen-igjen-na-kjoper-vi-oljeservice"
-      ],
-      "char_count": 160,
-      "has_link": true
+      "links": [],
+      "char_count": 19,
+      "has_link": false
     }
   ]
 }

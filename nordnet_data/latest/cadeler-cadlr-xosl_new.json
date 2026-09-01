@@ -1,9 +1,39 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-09-01T15:20:33.222522+00:00",
+  "scraped_at": "2026-09-01T19:01:21.745917+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f7622353870359e9",
+      "author": "Nordvoll",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordvoll",
+      "posted_relative": null,
+      "text": "28. aug. Vil vi miste muligheten til å kjøpe Cadeler via ASK (i Norge) om morselskapet ender opp med å flytte til UK?  Vil det ha noen andre konsekvenser? 🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        6
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "5881bc8510670552",
+      "author": "Nordvoll",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordvoll",
+      "posted_relative": "for 1 t siden",
+      "text": "Sjekket ut litt ang ASK og skatt på utbytte i dette scenarioet. Ser ut som man da må betale løpende skatt på eventuelle utbytter 😑",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    }
+  ]
 }

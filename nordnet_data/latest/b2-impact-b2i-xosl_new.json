@@ -1,9 +1,23 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-01T15:20:11.489395+00:00",
+  "scraped_at": "2026-09-01T19:01:01.324781+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b983885112a405bf",
+      "author": "Nflanders",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nflanders",
+      "posted_relative": "for 2 t siden",
+      "text": "Det som faktisk ble uttalt var at man har et mål om minst 30% EPS-vekst i perioden 2025-2028. Det er ikke det samme som 10% kursstigning/år. De ligger forøvrig foran skjema og har økt investeringene. Fortsetter det i samme takt som i Q2 vil fasiten være nærmere 60% opp på EPS i 2028 vs 2025. Det gjenstår dog å se.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 315,
+      "has_link": false
+    }
+  ]
 }

@@ -1,25 +1,27 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-01T15:19:02.922413+00:00",
+  "scraped_at": "2026-09-01T18:59:54.304032+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 9,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "46804275adbde2f1",
-      "author": "Beginnerslucky",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "key": "0f3863bc27a17315",
+      "author": "Aksjeladden22",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeladden22",
       "posted_relative": "for 2 t siden",
-      "text": "Påvirker nok at SOXX er ned en del i dag og da.",
+      "text": "Nordic Semiconductor har annonsert at deres nRF93M1 smartmodemmodulserie offisielt har startet masseproduksjon og prøvetaking. Den multiregionale varianten nRF93M1-LABA har mottatt Global Certification Forum (GCF)-sertifisering og er nå i volumproduksjon, mens den globale båndvarianten nRF93M1-LACA samtidig har startet prøvetaking, med masseproduksjon forventet innen utgangen av 2026. De to produktene er fullt pin- og programvarekompatible, slik at utviklere kan distribuere Cat 1 bis-tilkoblede enheter i globale markeder uten å måtte redesigne maskinvaren. Produktet støtter enhver vertsmikrokontroller via UART- eller USB-tilkobling og kan sikkert kobles til nRF Cloud i løpet av minutter, med den overordnede løsningen som er i samsvar med EUs Cyber ​​Resilience Act. nRF93M1 er rettet mot flåtestyring, sporing av eiendeler, medisinsk overvåking, smart energi og andre applikasjoner. Utviklingssett er nå tilgjengelige gjennom globale distribusjonspartnere, med volumleveranser av den multiregionale varianten som skal starte i september 2026. Les mer på: https://finance.biggo.com/news/57639713-df16-49fd-a9ad-b44eb58ab6b1 Publisert for en uke siden",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        14
       ],
-      "links": [],
-      "char_count": 47,
-      "has_link": false
+      "links": [
+        "https://finance.biggo.com/news/57639713-df16-49fd-a9ad-b44eb58ab6b1"
+      ],
+      "char_count": 1159,
+      "has_link": true
     }
   ]
 }
