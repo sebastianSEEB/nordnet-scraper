@@ -1,9 +1,38 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-01T11:59:46.290565+00:00",
+  "scraped_at": "2026-09-01T12:49:24.778667+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "544c0262c1de3454",
+      "author": "Josr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josr",
+      "posted_relative": "for 34 min siden · Endret",
+      "text": "Finansavisen i dag:  \"Frontline-aksjen har doblet seg hittil i år, men Clarksons mener det er fortsatt er for tidlig å trekke seg ut. Kursmålet heves til 450 kroner\".  Et gjennombrudd for fred i Midtøsten behøver heller ikke å avslutte oppturen. Det kan ifølge Clarksons gjenopprette oljevolumer, og samtidig øke behovet for å bygge opp igjen kommersielle og strategiske oljelagre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 381,
+      "has_link": false
+    },
+    {
+      "key": "77624060a77c6d88",
+      "author": "lhco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lhco",
+      "posted_relative": "for 13 min siden",
+      "text": "· Tankskip VLCC: opp ~5% Suezmax: ned ~1%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-01T11:59:54.680604+00:00",
+  "scraped_at": "2026-09-01T12:49:34.098227+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bb911f82f243435a",
+      "author": "WKP",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wkp",
+      "posted_relative": null,
+      "text": "28. aug. · Kjøper du?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

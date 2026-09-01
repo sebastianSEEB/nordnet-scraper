@@ -1,9 +1,27 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-01T12:03:55.518934+00:00",
+  "scraped_at": "2026-09-01T12:53:45.781473+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ff56c8be3b58659d",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 47 min siden",
+      "text": "Hex i toppen her https://www.dn.no/bors/dn-investor/aksjer/investeringer/doblingskandidater-pa-oslo-bors-kan-doble-seg-eller-ga-tregangeren/2-1-2034246",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        16
+      ],
+      "links": [
+        "https://www.dn.no/bors/dn-investor/aksjer/investeringer/doblingskandidater-pa-oslo-bors-kan-doble-seg-eller-ga-tregangeren/2-1-2034246"
+      ],
+      "char_count": 151,
+      "has_link": true
+    }
+  ]
 }
