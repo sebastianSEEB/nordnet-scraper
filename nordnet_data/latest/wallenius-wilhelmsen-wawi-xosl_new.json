@@ -1,9 +1,25 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-01T00:54:26.217170+00:00",
+  "scraped_at": "2026-09-01T05:51:46.408348+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e2817c9534bad70a",
+      "author": "Bing Bing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bing-bing",
+      "posted_relative": null,
+      "text": "28. aug. Oppgangen kan godt vente litt til utbyttet er reinvestert😇",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

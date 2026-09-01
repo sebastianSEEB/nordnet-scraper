@@ -1,9 +1,23 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-01T00:58:34.824712+00:00",
+  "scraped_at": "2026-09-01T05:56:00.208020+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8e070cc01f4ef3c1",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 27 min siden",
+      "text": "Gårsdagens rater, for oss. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina            631,67       656.168",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    }
+  ]
 }
