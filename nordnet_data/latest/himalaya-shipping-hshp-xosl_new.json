@@ -1,55 +1,65 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-09-01T07:34:02.082159+00:00",
+  "scraped_at": "2026-09-01T10:43:51.234107+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "25f8404827f19861",
+      "key": "538b4f5d898fa06d",
+      "author": "Axelrod1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
+      "posted_relative": null,
+      "text": "28. aug. · Ser man på FFA for sep, ser det ut til at vi går mot en rekordmåned for de spot-handlede fartøyene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "9c376f46fce921c3",
       "author": "The Gunners",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-gunners",
-      "posted_relative": "for 9 min siden",
-      "text": "Er utbytte kommet på konto hos noen?",
+      "posted_relative": "for 3 t siden",
+      "text": "Er utbytte kommet på konto hos noen? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        4
       ],
       "links": [],
-      "char_count": 36,
+      "char_count": 56,
       "has_link": false
     },
     {
-      "key": "271684df0187cf37",
+      "key": "52d5f7aab19ea0e0",
+      "author": "thong",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thong",
+      "posted_relative": null,
+      "text": "28. aug. Står utbet dato 27",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    },
+    {
+      "key": "650d359e74ce1f04",
       "author": "paavo p",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paavo-p",
-      "posted_relative": null,
-      "text": "28. aug. · Hvor drøyer utbyttet?",
+      "posted_relative": "for 2 t siden",
+      "text": "· I går",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3,
-        8
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 32,
-      "has_link": false
-    },
-    {
-      "key": "e090d6085c0955a4",
-      "author": "Slammy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/slammy",
-      "posted_relative": "for 6 min siden",
-      "text": "· Var på konto i går",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 20,
+      "char_count": 7,
       "has_link": false
     }
   ]

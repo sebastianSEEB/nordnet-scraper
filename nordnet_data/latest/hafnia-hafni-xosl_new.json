@@ -1,9 +1,25 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-01T07:33:37.721610+00:00",
+  "scraped_at": "2026-09-01T10:43:25.818552+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b81da4bba47da617",
+      "author": "osake",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osake",
+      "posted_relative": "for 2 t siden",
+      "text": "Noen som aldri leser Newsweb?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

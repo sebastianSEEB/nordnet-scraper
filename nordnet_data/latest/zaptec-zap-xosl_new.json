@@ -1,44 +1,96 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-01T07:35:12.291066+00:00",
+  "scraped_at": "2026-09-01T10:45:00.263954+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "6ddad1222039d6f3",
-      "author": "Jan Andersen.",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-andersen-1",
-      "posted_relative": "for 17 min siden",
-      "text": "I Sverige forsterker elbilene sin posisjon. I august ble det registrert 10.069 nye elbiler. Tilsvarende ble det registrert 6.766 i august 2025. En økning på 49%. https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2026/tudelad-fordonsmarknad-i-augusti-elbilarna-fortsatter-oka_1",
+      "key": "d0b5da18634b7770",
+      "author": "Acharyavision",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acharyavision",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hver prisøkning ved pumpen gjør overgangen til elbiler mer attraktiv. Med drivstoff som nærmer seg 30 kroner per liter, begynner elbiler å gi mer mening enn noensinne. De kan manipulere og holde prisene nede i dag, men ikke for alltid. Å holde er gull. https://www.thelocal.no/20260901/today-in-norway-a-roundup-of-the-latest-news-on-tuesday-251",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        2
       ],
       "links": [
-        "https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2026/tudelad-fordonsmarknad-i-augusti-elbilarna-fortsatter-oka_1"
+        "https://www.thelocal.no/20260901/today-in-norway-a-roundup-of-the-latest-news-on-tuesday-251"
       ],
-      "char_count": 308,
+      "char_count": 347,
       "has_link": true
     },
     {
-      "key": "06726fc16f1bb57c",
-      "author": "Jan Andersen.",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-andersen-1",
-      "posted_relative": "for 23 min siden",
-      "text": "I Danmark settes det nye rekorder. Det ble registrert 13.887 nye elbiler. Tilsvarende var det 8.990 nye elbiler I august 2025. En økning på 49% https://mobility.dk/nyheder/rekordmange-vaelger-elbilen-nu-maa-politikerne-ikke-goere-den-dyrere/",
+      "key": "f6b98597340c8a81",
+      "author": "ekspokongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekspokongen",
+      "posted_relative": "for 1 t siden",
+      "text": "Med datene fra Danmark og Sverige, pluss innsidekjøp, så må vel dette bare bety at vi skal nærmere 55/60kr mot q3? Det er vel realistisk og moderat? Tanker? Der ingen skjær i sjøen. Hvis du gjør, gjerne fyll meg inn",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        3
       ],
-      "links": [
-        "https://mobility.dk/nyheder/rekordmange-vaelger-elbilen-nu-maa-politikerne-ikke-goere-den-dyrere/"
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "d2467b97b6dcc98d",
+      "author": "Teehuh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/teehuh",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden · Dette krever mye nerver. Det er sannsynligvis også mulig at det ikke blir store bevegelser herfra.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "2ce43bbc5036b77e",
+      "author": "Teehuh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/teehuh",
+      "posted_relative": "for 51 min siden",
+      "text": "· Nettopp! Helt riktig at vi går tilbake under 50! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
-      "char_count": 241,
-      "has_link": true
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "bab127e6d39c68d7",
+      "author": "ekspokongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekspokongen",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvor stor markedsandel rapportere vi sist i Sverige?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "12f8769d8135b4ef",
+      "author": "Aktierforsjov",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aktierforsjov",
+      "posted_relative": "for 1 t siden",
+      "text": "· Opp med 3 og ned i minus. Fup og svindel",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
     }
   ]
 }

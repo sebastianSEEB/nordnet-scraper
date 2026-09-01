@@ -1,22 +1,40 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-01T07:38:24.106104+00:00",
+  "scraped_at": "2026-09-01T10:48:19.398894+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "be8c9d3c7aee41cc",
-      "author": "MarkusEmla",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/markusemla",
-      "posted_relative": "for 24 min siden",
-      "text": "Det var ingen rate publisering i går grunnet bank holiday i UK. Den du henviser til er fra fredag.",
+      "key": "2bb10b6a5c5611d8",
+      "author": "Steffenzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffenzen",
+      "posted_relative": "for 2 t siden",
+      "text": "Er skrevet flere ganger tidligere: Det spesifikke svaret er at ex-datoen ikke er fastsatt ennå, fordi dagens melding fra styret i Hunter Group kun er et utbytteforslag. Styret foreslår et utbytte på 1,50 kroner per aksje, men dette må først formelt godkjennes av en ekstraordinær generalforsamling (EGM). Slik fungerer prosessen videre for at du skal få med deg ex-dagen:Innkalling til EGM: Selskapet vil om kort tid sende ut en egen innkalling til den ekstraordinære generalforsamlingen. Datoene offentliggjøres: I denne innkallingen eller i den endelige protokollen vil Hunter Group spesifisere nøyaktig hva som blir siste dag inklusive rett, ex-dato, og utbetalingsdato.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 98,
+      "char_count": 673,
+      "has_link": false
+    },
+    {
+      "key": "dccce420b7c441aa",
+      "author": "Guldberget",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/guldberget",
+      "posted_relative": "for 2 t siden",
+      "text": "Dette må være det mest introverte selskap på Oslo børs. Lite informasjon, hva skjer, EGM. Det er foreslått utbytte, med hvor lenge skal man vente før vi får x-dato.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 164,
       "has_link": false
     }
   ]

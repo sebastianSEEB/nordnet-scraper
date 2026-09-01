@@ -1,37 +1,79 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-09-01T07:34:09.919386+00:00",
+  "scraped_at": "2026-09-01T10:43:59.059184+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "521534e94fc8a01b",
-      "author": "Feskenn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/feskenn",
-      "posted_relative": "for 11 min siden",
-      "text": "Selvfølgelig ikke, på sikt så vil denne eksplodere med høye utbytter når de har betalt nesten hele gjelden sin",
-      "reply_count": 2,
+      "key": "ab297fa48c950e86",
+      "author": "vadz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vadz",
+      "posted_relative": "for 54 min siden",
+      "text": "Sorry.. er litt sen inn i MPC.. noen som har en Sitrap siden dere sier store guttene selger seg ut?",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 110,
+      "char_count": 99,
       "has_link": false
     },
     {
-      "key": "8ed3ecc05c09fe24",
+      "key": "62041b010a59a142",
       "author": "HrBrunner",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hrbrunner",
-      "posted_relative": "for 30 min siden",
-      "text": "Er tiden inne for å ta gevinst her og bevege seg over til andre jaktmarkeder? Vis 1 kommentar til",
+      "posted_relative": "for 3 t siden",
+      "text": "Er tiden inne for å ta gevinst her og bevege seg over til andre jaktmarkeder?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        1,
+        6
       ],
       "links": [],
-      "char_count": 97,
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "f6a8dab72e5dd076",
+      "author": "@Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": null,
+      "text": "MPCC er ikke ansvarlig for drivstoffkostnader",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "0738d62bf69e3eb4",
+      "author": "sg90",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sg90",
+      "posted_relative": "for 1 t siden",
+      "text": "· 31 kr snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    },
+    {
+      "key": "e1448abdec765aad",
+      "author": "Ouzou",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ouzou",
+      "posted_relative": "for 1 t siden",
+      "text": "·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-01T07:35:47.514321+00:00",
+  "scraped_at": "2026-09-01T10:45:34.935181+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c79a7422fd5b1f62",
+      "author": "Herman Hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herman-hansen",
+      "posted_relative": null,
+      "text": "28. aug. MH kjøper lissom jevnt også",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

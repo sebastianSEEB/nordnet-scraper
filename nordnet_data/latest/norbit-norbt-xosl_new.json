@@ -1,9 +1,52 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-01T07:35:39.878620+00:00",
+  "scraped_at": "2026-09-01T10:45:27.173094+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1788d4fc9b856617",
+      "author": "Kaloev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaloev",
+      "posted_relative": "for 36 min siden",
+      "text": "Noen som har fulgt med på Handelsbanken i aksjonærlistene og ser om de fortsetter å selge ned? I og med de akk såvidt gikk under 5% med sist flaggmelding så har de fortsatt mye og mulig de fortsetter å redusere litt. Det legger press.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 234,
+      "has_link": false
+    },
+    {
+      "key": "5a529368bde82485",
+      "author": "DonAleks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donaleks",
+      "posted_relative": "for 1 t siden",
+      "text": "Litt ørkenvandring på denne nå. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "2284b05007825665",
+      "author": "kalleskanin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalleskanin",
+      "posted_relative": "for 46 min siden",
+      "text": "Ja, må vel snu snart denne",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

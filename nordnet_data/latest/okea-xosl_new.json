@@ -1,9 +1,39 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-01T07:37:42.115812+00:00",
+  "scraped_at": "2026-09-01T10:47:36.781618+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3c09b735490b40fa",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": null,
+      "text": "27. aug. Hvorfor OKEA er en naturlig kjøper nå som Lime Petroleum Holding har startet prosessen med å selge de norske virksomhetene.  Lime eier blant annet: * 33,84 % av Brage, der OKEA er operatør * 25 % av Yme * andeler i Bestla/Brasse-relaterte ressurser * Lime produserte rundt 10.188 boepd netto i juni 2026.  Det interessante er særlig Brage. OKEA eier allerede 35,2 % og er operatør. Et kjøp av Lime ville derfor gitt OKEA kontroll over omtrent 69 % av Brage. Det ville vært en ekstremt sterk industriell logikk: samme operatør, samme infrastruktur, og betydelig mer produksjon per OKEA-krone. I tillegg ville OKEA fått 25 % av Yme tilbake. Litt ironisk, siden OKEA solgte sin 15 %-andel i Yme til Lime i 2024 for USD 15,65 millioner.  Men det er én stor hake OKEA er neppe alene om å være interessert. Det har allerede kommet markedsspekulasjoner om både OKEA og DNO som potensielle kjøpere. Et kjøp av Lime ville også vært svært attraktivt for DNO, selv om OKEA etter min vurdering har den sterkeste industrielle synergien gjennom Brage-operatørskapet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 1061,
+      "has_link": false
+    },
+    {
+      "key": "3baea3a60c715a79",
+      "author": "arctic_fulmar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arctic_fulmar",
+      "posted_relative": "for 6 min siden",
+      "text": "DNO er nå i gang med å kjøpe opp Capricorn til ekvivalent av 80% sin cashbeholdning (60% cash til Capricorn tatt i betrakt). Så det spørs litt. DNO har opp til 1mrd usd i kortfristige finansieringsmidler gjennom offtake/RCFs og skyhøy  FCF. Så de kunne klare begge samtidig. Vi får se! I alle fall ingen borte hos DNO som snakker om det enda, som jeg mener var dpennende.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 371,
+      "has_link": false
+    }
+  ]
 }
