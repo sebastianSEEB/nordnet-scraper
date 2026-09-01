@@ -1,9 +1,54 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-09-01T12:52:18.944524+00:00",
+  "scraped_at": "2026-09-01T15:20:25.321727+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "56307aac7deff18f",
+      "author": "MikkeB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikkeb",
+      "posted_relative": null,
+      "text": "28. aug. · Endret Man får se neste uke, men spørs om ikke markedet mener det må komme en avklaring på Petrobras-anbud før kursen kan få seg et  skikkelig løft og også forbli på 50-tallet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "c7ae43b85811b551",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 41 min siden",
+      "text": "· Noen som kan forklare meg hva dagens pm  Betyr for meg som aksjonær ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "7e73350a56b38827",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 2 t siden",
+      "text": "I morgen er siste mulighet til å sikre seg nytt heftig utbytte 💪.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

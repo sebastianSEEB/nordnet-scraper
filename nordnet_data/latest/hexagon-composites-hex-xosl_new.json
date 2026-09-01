@@ -1,27 +1,71 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-01T12:53:45.781473+00:00",
+  "scraped_at": "2026-09-01T15:21:54.989957+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "ff56c8be3b58659d",
-      "author": "Himalaya734",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "key": "dd6067209a8248f1",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
       "posted_relative": "for 47 min siden",
-      "text": "Hex i toppen her https://www.dn.no/bors/dn-investor/aksjer/investeringer/doblingskandidater-pa-oslo-bors-kan-doble-seg-eller-ga-tregangeren/2-1-2034246",
+      "text": "Amerikansk gasskraftkapasitet under utvikling har økt fra 252 til 378 GW på seks måneder. Hele 189 GW er planlagt direkte for datasentre. Planlagt kapasitet basert på mindre gassmotorer har mer enn doblet seg, og motorbasert kapasitet knyttet til datasentre har mer enn tredoblet seg til 45 GW. Bakgrunnen er lange nettkøer og leveringstider på store gassturbiner. Utbyggere velger derfor modulære gassmotorer som kan installeres raskere. https://globalenergymonitor.org/research/us-gas-power-proposals-tied-data-centers-nearly-double-six-months?utm_source=chatgpt.com",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        16
+        2
       ],
       "links": [
-        "https://www.dn.no/bors/dn-investor/aksjer/investeringer/doblingskandidater-pa-oslo-bors-kan-doble-seg-eller-ga-tregangeren/2-1-2034246"
+        "https://globalenergymonitor.org/research/us-gas-power-proposals-tied-data-centers-nearly-double-six-months?utm_source=chatgpt.com"
       ],
-      "char_count": 151,
+      "char_count": 568,
       "has_link": true
+    },
+    {
+      "key": "4f38612908adeeb0",
+      "author": "krabbePyse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krabbepyse",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Fin dobbeltbunn 20 august og i dag. Kjøpssignal, så fremt kursen holder seg. Straks høyere omsetning også på gode dager, som i dag 🥳",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        4
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "422b1cc898522b7c",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 1 t siden",
+      "text": "All in, selger ikke før om 2 år:)  sees i karibien",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "792fd8850892aefb",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 1 t siden",
+      "text": "0,3 % av hele selskapet det:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
     }
   ]
 }

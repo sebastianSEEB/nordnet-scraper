@@ -1,9 +1,40 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-01T12:51:49.446630+00:00",
+  "scraped_at": "2026-09-01T15:19:55.853863+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "06ed5a2b54674393",
+      "author": "oddafan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oddafan",
+      "posted_relative": "for 57 min siden",
+      "text": "· https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=OJ:C_202604547",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://eur-lex.europa.eu/legal-content/SV/TXT/PDF/?uri=OJ:C_202604547"
+      ],
+      "char_count": 72,
+      "has_link": true
+    },
+    {
+      "key": "252483bfa50a8a78",
+      "author": "Karmakoma",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karmakoma",
+      "posted_relative": "for 2 t siden",
+      "text": "Snodig bevegelser her nå.. noe nytt man har gått glipp av?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

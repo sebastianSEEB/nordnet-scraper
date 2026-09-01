@@ -1,9 +1,40 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-09-01T12:50:05.014449+00:00",
+  "scraped_at": "2026-09-01T15:18:14.362644+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c166a6e2c2af5e98",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 2 t siden",
+      "text": "· NewConTex i grønt https://www.vhbs.de/index.php?id=28&L=1",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.vhbs.de/index.php?id=28&L=1"
+      ],
+      "char_count": 59,
+      "has_link": true
+    },
+    {
+      "key": "a85a0170529bbb4c",
+      "author": "iceteam",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iceteam",
+      "posted_relative": "for 1 t siden",
+      "text": "Fantastisk. De som følger Dnbs kursmål er vel snart ferdigsolgt ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

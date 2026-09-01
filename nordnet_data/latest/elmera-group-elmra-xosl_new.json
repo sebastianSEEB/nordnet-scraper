@@ -1,130 +1,24 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-01T12:55:57.845656+00:00",
-  "first_run": true,
+  "scraped_at": "2026-09-01T15:24:11.449270+00:00",
+  "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "52d72cc8ac00926f",
-      "author": "Rototiller",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rototiller",
-      "posted_relative": "for 20 t siden",
-      "text": "Hvorfor er tilbudet om oppkjøp kunn tilgjengelig for følgende kontotyper på Nordnet: IKZ og IPA ??? https://www.nordnet.no/corporateactions/group/151432 har noen med andre kontotyper forsøkt Pareto's løsning? https://paretosec.com/updates/transactions Er det rett på en flekk at de med ASK eller andre kontotyper skal benytte en annen kontofører for å godta tilbudet?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://paretosec.com/updates/transactions",
-        "https://www.nordnet.no/corporateactions/group/151432"
-      ],
-      "char_count": 367,
-      "has_link": true
-    },
-    {
-      "key": "cc0b1cd80eb67fe6",
-      "author": "grenssaks",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grenssaks",
-      "posted_relative": null,
-      "text": "25. aug. Denne linken fører til Pareto Securities hvor man kan akseptere tilbudet om man ønsker. https://paretosec.com/updates/transactions",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6
-      ],
-      "links": [
-        "https://paretosec.com/updates/transactions"
-      ],
-      "char_count": 139,
-      "has_link": true
-    },
-    {
-      "key": "51393df221aa833d",
-      "author": "Anno67",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anno67",
-      "posted_relative": null,
-      "text": "24. aug. Jeg får ikke solgt aksjene mine. Vet noen hva jeg gjør feil?  Når jeg går inn på selskapshedelser for å selge, får jeg beskjed om: \"Du har ingen gyldige kontoer som kan svare på denne henvendelsen\"  Jeg har aksjene på ASK konto om det har noe å si?",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 257,
-      "has_link": false
-    },
-    {
-      "key": "cb618d906075b9df",
-      "author": "sk0yern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sk0yern",
-      "posted_relative": null,
-      "text": "21. aug. Hvis budet nå er godkjent, hvorfor er ikke kursen tilnærmet 47? Eneste risikoen man har nå, er vel at flertallet stemmer nei, noe som ikke virker spesielt sannsynlig?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 175,
-      "has_link": false
-    },
-    {
-      "key": "80bf517984e8d8ff",
-      "author": "Alamo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo",
-      "posted_relative": null,
-      "text": "24. aug. Kjøpe denne? Ved 90% aksept får man ca. 3% på ca. 1,5 måneder. Hvis man ikke godtar så kan man få ytterlige % hvis budet høynes?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 137,
-      "has_link": false
-    },
-    {
-      "key": "f3aa0f80047cec2d",
-      "author": "Skogskatt",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skogskatt",
-      "posted_relative": null,
-      "text": "28. aug. Er det noen her på forumet som har fremgangsmåte for hvordan akseptere oppkjøps tilbudet i  Elmera ? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 129,
-      "has_link": false
-    },
-    {
-      "key": "c725d28abc181ab4",
-      "author": "Sykkelpoteten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sykkelpoteten",
-      "posted_relative": null,
-      "text": "22. aug. Det var vel ikke betinget av at et visst antall aksjonærer sier ja det budet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 86,
-      "has_link": false
-    },
-    {
-      "key": "5b585b76b32619bb",
+      "key": "a9dce6c7cc8a9500",
       "author": "Grebap",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grebap",
-      "posted_relative": "for 3 døgn siden",
-      "text": "logg in på paretosec.com/transactions",
+      "posted_relative": null,
+      "text": "28. aug. logg in på paretosec.com/transactions",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 37,
+      "char_count": 46,
       "has_link": false
     }
   ]

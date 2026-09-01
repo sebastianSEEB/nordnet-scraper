@@ -1,9 +1,43 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-01T12:51:18.216875+00:00",
+  "scraped_at": "2026-09-01T15:19:22.597613+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9f39d1a82a960715",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/tdn/2026/09/01/06593437/kitron-investerer-i-ny-fabrikk-i-horsens",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/09/01/06593437/kitron-investerer-i-ny-fabrikk-i-horsens"
+      ],
+      "char_count": 92,
+      "has_link": true
+    },
+    {
+      "key": "3a3f3e8025eb1142",
+      "author": "Skurken1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skurken1",
+      "posted_relative": "for 1 t siden",
+      "text": "Har såpass trua på denne at jeg totalt har mer enn 80% av min kapital investert i selskapet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

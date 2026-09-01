@@ -1,9 +1,26 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-01T12:53:57.413050+00:00",
+  "scraped_at": "2026-09-01T15:22:08.729432+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "96b33e227c1414e9",
+      "author": "cardiff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cardiff",
+      "posted_relative": null,
+      "text": "28. aug. Bra innspurt på uka. Ser vi et nytt forsøk på kurs 50 over helgen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }

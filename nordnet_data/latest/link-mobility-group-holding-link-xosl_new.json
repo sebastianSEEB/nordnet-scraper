@@ -1,9 +1,23 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-01T12:51:00.572658+00:00",
+  "scraped_at": "2026-09-01T15:19:11.105822+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "383dc64f78cf5097",
+      "author": "steppa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steppa",
+      "posted_relative": "for 1 t siden",
+      "text": "Er det noen som har tanker om hvor mange kvartaler som må leveres på før shorterne kaster kortene?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ]
 }
