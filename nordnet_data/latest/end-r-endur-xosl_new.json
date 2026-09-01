@@ -1,9 +1,43 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-01T05:55:09.989006+00:00",
+  "scraped_at": "2026-09-01T07:37:34.640850+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b39ba0ec6e7e184b",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": "for 26 min siden",
+      "text": "Pareto tar Endur inn i sin modellportefølje: «Også Endúr får plass etter å ha utviklet seg rundt 10 prosent svakere enn sammenlignbare selskaper i august. Pareto mener markedet har blitt for bekymret for selskapets vekstutsikter for 2027. Meglerhuset peker blant annet på en sterk anbudspipeline og muligheten for nye prosjekter innen datasenterindustrien. Aksjen prises til rundt ni ganger estimert EV/ebita for 2027, samtidig som Pareto anslår en fri kontantstrømavkastning på 12 prosent.» https://www.finansavisen.no/finans/2026/09/01/8377011/pareto-gjor-to-bytter-tar-inn-riggaksje",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/01/8377011/pareto-gjor-to-bytter-tar-inn-riggaksje"
+      ],
+      "char_count": 585,
+      "has_link": true
+    },
+    {
+      "key": "2af2ac60048cfe78",
+      "author": "enurweb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enurweb",
+      "posted_relative": "for 21 min siden",
+      "text": "· Flott! Endur er solid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

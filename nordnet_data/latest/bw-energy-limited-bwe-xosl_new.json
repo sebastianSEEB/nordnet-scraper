@@ -1,9 +1,23 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-09-01T05:55:37.048067+00:00",
+  "scraped_at": "2026-09-01T07:38:01.193334+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "408dce7481d79f34",
+      "author": "CryptoAIGen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cryptoaigen",
+      "posted_relative": "for 1 t siden",
+      "text": "Siste dag i måneden er en aktiv termin dag tror jeg. Så kan være så enkelt som rullering/forlengelse",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-01T05:55:14.168737+00:00",
+  "scraped_at": "2026-09-01T07:37:38.446312+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "602e63848795ff08",
+      "author": "Littdepressiv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littdepressiv",
+      "posted_relative": "for 1 t siden",
+      "text": "· 31. juli: 10,92 - 31. august: 13,42. Mao jeg forstår ikke spørsmålet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "d610c74997a35595",
+      "author": "tomlys50",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tomlys50",
+      "posted_relative": "for 22 t siden",
+      "text": "· Hvor langt ned skal vi?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

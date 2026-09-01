@@ -1,9 +1,44 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-01T05:52:40.570654+00:00",
+  "scraped_at": "2026-09-01T07:35:12.291066+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6ddad1222039d6f3",
+      "author": "Jan Andersen.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-andersen-1",
+      "posted_relative": "for 17 min siden",
+      "text": "I Sverige forsterker elbilene sin posisjon. I august ble det registrert 10.069 nye elbiler. Tilsvarende ble det registrert 6.766 i august 2025. En økning på 49%. https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2026/tudelad-fordonsmarknad-i-augusti-elbilarna-fortsatter-oka_1",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2026/tudelad-fordonsmarknad-i-augusti-elbilarna-fortsatter-oka_1"
+      ],
+      "char_count": 308,
+      "has_link": true
+    },
+    {
+      "key": "06726fc16f1bb57c",
+      "author": "Jan Andersen.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-andersen-1",
+      "posted_relative": "for 23 min siden",
+      "text": "I Danmark settes det nye rekorder. Det ble registrert 13.887 nye elbiler. Tilsvarende var det 8.990 nye elbiler I august 2025. En økning på 49% https://mobility.dk/nyheder/rekordmange-vaelger-elbilen-nu-maa-politikerne-ikke-goere-den-dyrere/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://mobility.dk/nyheder/rekordmange-vaelger-elbilen-nu-maa-politikerne-ikke-goere-den-dyrere/"
+      ],
+      "char_count": 241,
+      "has_link": true
+    }
+  ]
 }

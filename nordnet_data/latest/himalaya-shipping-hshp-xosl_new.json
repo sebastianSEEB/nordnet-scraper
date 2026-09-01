@@ -1,9 +1,56 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-09-01T05:51:30.636075+00:00",
+  "scraped_at": "2026-09-01T07:34:02.082159+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "25f8404827f19861",
+      "author": "The Gunners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-gunners",
+      "posted_relative": "for 9 min siden",
+      "text": "Er utbytte kommet på konto hos noen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "271684df0187cf37",
+      "author": "paavo p",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paavo-p",
+      "posted_relative": null,
+      "text": "28. aug. · Hvor drøyer utbyttet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        8
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "e090d6085c0955a4",
+      "author": "Slammy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/slammy",
+      "posted_relative": "for 6 min siden",
+      "text": "· Var på konto i går",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

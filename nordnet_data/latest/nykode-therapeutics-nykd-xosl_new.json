@@ -1,9 +1,39 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-01T05:56:03.974906+00:00",
+  "scraped_at": "2026-09-01T07:38:28.940572+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "10b3dc1513600817",
+      "author": "TapperExtra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tapperextra",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "DNB Bank ASA har kjøpt seg kraftig opp (21,4394% opp i Nykode), og eier nå 17,89% (største aksjonær). Hvorfor? Hva banken vet som vi småaksjonærene ikke vet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 157,
+      "has_link": false
+    },
+    {
+      "key": "0a123a707ccb276e",
+      "author": "Oilbum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oilbum",
+      "posted_relative": "for 38 min siden",
+      "text": "Snakker du med meglerne i DNB så er anbefalingen allerede klar, den sier KJØP",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

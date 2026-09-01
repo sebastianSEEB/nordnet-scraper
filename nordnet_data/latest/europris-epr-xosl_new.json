@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-09-01T05:54:07.732578+00:00",
+  "scraped_at": "2026-09-01T07:36:29.555809+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6cce334273e46a6a",
+      "author": "V70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/v70",
+      "posted_relative": "for 8 min siden",
+      "text": "Dette er et spill på Sverige satsningen og at ikke sinnsyke fraktrater pga høye oljepriser ødelegger marginene. Det er det siste jeg frykter mest på kort sikt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    }
+  ]
 }

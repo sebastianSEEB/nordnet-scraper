@@ -1,9 +1,23 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-01T05:52:29.197198+00:00",
+  "scraped_at": "2026-09-01T07:35:00.852091+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ab0efff62c1f11b2",
+      "author": "Destroyer3000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/destroyer3000",
+      "posted_relative": "for 29 min siden",
+      "text": "· Demp bruker. Det er det...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-01T05:52:13.776383+00:00",
+  "scraped_at": "2026-09-01T07:34:44.695526+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5aa5dec51a2290f4",
+      "author": "BjarteKv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjartekv",
+      "posted_relative": "for 27 min siden",
+      "text": "Ikke helt enige disse ekspertene, men kursmålene ligger uansett langt over dagens kurs... Fearnley Securities downgraded CMB.TECH NV to hold from buy, setting a target price of 17.23 EUR per share. SB1 Markets raised its target price for CMB.TECH NV to 220 NOK from 200 NOK, reiterating its buy recommendation. Pareto Securities retained CMB.TECH NV in its monthly model portfolio for September.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 395,
+      "has_link": false
+    },
+    {
+      "key": "31e9fa136277f11d",
+      "author": "ColdViking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coldviking",
+      "posted_relative": "for 21 min siden",
+      "text": "Finner ingen utbyttedato for CMB",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

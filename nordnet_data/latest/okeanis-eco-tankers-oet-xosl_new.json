@@ -1,9 +1,38 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-01T05:51:01.661086+00:00",
+  "scraped_at": "2026-09-01T07:33:33.039548+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1028f1dacbe450aa",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 40 min siden",
+      "text": "Finner litt motstridende informasjon, men en kilde påstår at det er et skip fra Sinokor som er rammet (stemmer det så er det litt større risiko for våre damer, mens hvis det er tankere eid av ulike gulfstater så er det kanskje litt mindre risiko for oss) https://www.seatrade-maritime.com/security/tanker-struck-three-times-in-strait-of-hormuz",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.seatrade-maritime.com/security/tanker-struck-three-times-in-strait-of-hormuz"
+      ],
+      "char_count": 343,
+      "has_link": true
+    },
+    {
+      "key": "4a2eb764ada3a632",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "Rater fra i går. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina            631,67       656.168",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-01T05:52:48.641169+00:00",
+  "scraped_at": "2026-09-01T07:35:19.814537+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cb1eb403d108ac76",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 25 min siden",
+      "text": "Ikke så viktig når en ser 35 \"imorgen\", eller skal det selges på 32?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "ba58214c99c55443",
+      "author": "Hhy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hhy",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser me 32 i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

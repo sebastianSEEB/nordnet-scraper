@@ -1,9 +1,23 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-09-01T05:54:38.223968+00:00",
+  "scraped_at": "2026-09-01T07:36:59.932182+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d253f4d8d62bd4f0",
+      "author": "toyboyz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toyboyz",
+      "posted_relative": "for 21 min siden",
+      "text": "Det skuffende er jo at salg nå virker veldig usannsynlig. Og ledelsen har ikke en spesielt god track record på å skape verdier gjennom oppkjøp for å si det pent",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    }
+  ]
 }

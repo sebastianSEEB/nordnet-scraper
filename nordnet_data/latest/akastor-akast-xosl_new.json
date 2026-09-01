@@ -1,9 +1,25 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-01T05:55:48.802131+00:00",
+  "scraped_at": "2026-09-01T07:38:12.815102+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "268de1176a812dd7",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": null,
+      "text": "28. aug. NORDNET LIVSFORSIKRING AS har kjøpt ytterligere ca 100 000",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }
