@@ -1,9 +1,25 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-08-31T21:15:41.822563+00:00",
+  "scraped_at": "2026-09-01T00:57:21.207168+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "51a9c42d6dd8850e",
+      "author": "kribbo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kribbo",
+      "posted_relative": "for 3 t siden",
+      "text": "Min modell viser annet, men enig i at det finnes mange bra selskaper.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }
