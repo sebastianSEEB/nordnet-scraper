@@ -1,43 +1,27 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-01T19:00:13.796354+00:00",
+  "scraped_at": "2026-09-01T21:37:27.018310+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "80050a583aa35e45",
-      "author": "Sasha15",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
-      "posted_relative": "for 4 t siden",
-      "text": "https://www.finansavisen.no/tdn/2026/09/01/06593437/kitron-investerer-i-ny-fabrikk-i-horsens Vis 1 kommentar til",
+      "key": "dd5adaac87b69425",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 52 min siden",
+      "text": "Hør Finansavisens Økonominyhetene! Analytiker er imponert etter å ha sett den nye fabrikken. Kommer med kjøpsanbefaling: https://tv.finansavisen.no/nb/watch/8327",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9,
         2
       ],
       "links": [
-        "https://www.finansavisen.no/tdn/2026/09/01/06593437/kitron-investerer-i-ny-fabrikk-i-horsens"
+        "https://tv.finansavisen.no/nb/watch/8327"
       ],
-      "char_count": 112,
+      "char_count": 161,
       "has_link": true
-    },
-    {
-      "key": "6b5c3446ac607b04",
-      "author": "Jaff92",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
-      "posted_relative": "for 1 t siden",
-      "text": "Solid! Her er det om å gjøre å være tålmodig!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 45,
-      "has_link": false
     }
   ]
 }

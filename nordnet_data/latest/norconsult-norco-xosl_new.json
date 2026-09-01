@@ -1,9 +1,23 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-09-01T19:01:09.142649+00:00",
+  "scraped_at": "2026-09-01T21:38:20.094444+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0f9fba94b3f52c23",
+      "author": "Velgetbrukernavn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/velgetbrukernavn",
+      "posted_relative": null,
+      "text": "28. aug. SAP skal inn, nåværende system har nådd sin levetid og støtte fra leverandør kuttes i nær fremtid.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    }
+  ]
 }

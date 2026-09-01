@@ -1,9 +1,27 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-01T19:00:09.966530+00:00",
+  "scraped_at": "2026-09-01T21:37:23.249905+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "21dcb4280881a474",
+      "author": "B-tech",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b-tech",
+      "posted_relative": "for 16 min siden",
+      "text": "I Frankrike fortsetter elbilene den kraftige veksten. I august ble det registrert 36.159 nye elbiler, mot rundt 17.000 i august 2025. Det tilsvarer en økning på hele 113 %. Elbilene sto samtidig for 38 % av nybilmarkedet, opp fra 35 % i juli. https://pfa-auto.fr/2026/09/01/marche-automobile-francais-aout-2026/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://pfa-auto.fr/2026/09/01/marche-automobile-francais-aout-2026/"
+      ],
+      "char_count": 311,
+      "has_link": true
+    }
+  ]
 }
