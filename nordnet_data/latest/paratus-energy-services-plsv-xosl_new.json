@@ -1,9 +1,40 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-09-02T11:45:00.298845+00:00",
+  "scraped_at": "2026-09-02T15:36:28.853273+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8155fb254cb75a01",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· Noen som kan forklare meg hva dagens pm  Betyr for meg som aksjonær ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "c68db97020dfa6c1",
+      "author": "Oxion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
+      "posted_relative": "for 2 t siden",
+      "text": "Dette obligasjonslånet har en kupong rente på 9,5% Så blir en enorm besparelse....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }

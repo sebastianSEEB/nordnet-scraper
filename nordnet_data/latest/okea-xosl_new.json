@@ -1,38 +1,9 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-02T11:46:26.037221+00:00",
+  "scraped_at": "2026-09-02T15:37:54.828591+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "c03c83460e29698e",
-      "author": "JB83",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jb83",
-      "posted_relative": "for 57 min siden",
-      "text": "Er det noe poeng å spamme så jævlig?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 36,
-      "has_link": false
-    },
-    {
-      "key": "1705437dec89138d",
-      "author": "B87",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
-      "posted_relative": "for 1 t siden",
-      "text": "· 💵💵💲🛢️",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 7,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

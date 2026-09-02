@@ -1,9 +1,38 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-02T11:42:17.895324+00:00",
+  "scraped_at": "2026-09-02T15:33:45.122399+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f3db1642a1f87488",
+      "author": "Stuss",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stuss",
+      "posted_relative": "for 2 t siden",
+      "text": "Kan jo være lurt å kjøpe nå, for å få med utbytte på ca. 4,65 nkr. Siste handelsdag med utbytte fredag 04.sept",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "873e5e7f764c56a5",
+      "author": "lokumsaage",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lokumsaage",
+      "posted_relative": "for 3 t siden",
+      "text": "· Er denne aksjen verdt å kjøpe nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

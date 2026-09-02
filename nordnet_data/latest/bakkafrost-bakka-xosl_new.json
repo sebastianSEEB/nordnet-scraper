@@ -1,9 +1,78 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-09-02T11:44:52.823041+00:00",
+  "scraped_at": "2026-09-02T15:36:20.880725+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "5ec0fc3b5423f606",
+      "author": "Tompalompabörshaj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tompalompaborshaj",
+      "posted_relative": "for 2 t siden",
+      "text": "· jeg vil si at det er en strålende mulighet til å komme inn, Færøyene går som toget, jeg tror at Skottland snart er på banen, og de selv regner med at Skottland skal gå pluss minus null til Q4.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    },
+    {
+      "key": "0936ee8ab4334197",
+      "author": "Reacher",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reacher",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Fascinerende når analytikere og presse sier at Bakkafrost bommer på forventningene. Det er vel analytikerne som bommer på resultatet Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    },
+    {
+      "key": "4040ce299e1fd37b",
+      "author": "Tpbraut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tpbraut",
+      "posted_relative": "for 1 t siden",
+      "text": "En p/e på 35 både Bakkafrost og Salmar er dyre, om de skal få en fair pris som resten av bransjen så skal de langt ned i kurs!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "ddce6a4013ced207",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 2 t siden",
+      "text": "· I uke 35 i 2026 var eksportprisen for fersk laks 71,87 kr/kg, en nedgang på 2,2 prosent sammenlignet med uken før.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "563546f65a67229a",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 1 t siden",
+      "text": "4 prosent ned er ikke det lit drøyt selv for Bakkafrost ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

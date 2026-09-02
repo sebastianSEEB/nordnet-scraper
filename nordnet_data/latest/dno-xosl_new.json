@@ -1,9 +1,39 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-02T11:45:59.630947+00:00",
+  "scraped_at": "2026-09-02T15:37:27.239245+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e847cc2b6dd458e6",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 2 t siden",
+      "text": "Regner med short ble satt på topp 18,66 kr og 370K aksjer dag tidlig Noen som våger og har orden i \"sysakene\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "5dc765511d28811d",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 1 t siden",
+      "text": "· Man skulle vel tro at det burde finnes bedre shortsalgsaksjer enn DNO.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }

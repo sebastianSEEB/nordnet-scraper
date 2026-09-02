@@ -1,9 +1,25 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-02T11:42:08.941693+00:00",
+  "scraped_at": "2026-09-02T15:33:35.212817+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "874b1cd5bf2904c8",
+      "author": "lhco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lhco",
+      "posted_relative": "for 2 t siden",
+      "text": "· Tankskip VLCC:  opp ~2% Suezmax:  opp ~7%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

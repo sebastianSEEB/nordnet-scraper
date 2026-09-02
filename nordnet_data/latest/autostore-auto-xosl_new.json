@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-02T11:46:03.449401+00:00",
+  "scraped_at": "2026-09-02T15:37:31.254115+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dc9332f311bf05f9",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": null,
+      "text": "29. aug. Er dette noe nytt på gang?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }
