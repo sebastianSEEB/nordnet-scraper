@@ -1,9 +1,40 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-02T06:39:11.795820+00:00",
+  "scraped_at": "2026-09-02T10:40:57.912663+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "aa2ad2bcabcedf11",
+      "author": "mikis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikis",
+      "posted_relative": "for 3 t siden",
+      "text": "Hausta har troen på Bouvet og øker: Aksje Navn                                              Endring   Ny beholdning Prosent BOUV   HAUSTA INVESTOR AS            38.000    430.000    0,4",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 185,
+      "has_link": false
+    },
+    {
+      "key": "2e0e55bdf133450d",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": null,
+      "text": "29. aug. Den bør jo kunne legge seg på rundt 55kr, som også er konsesus. Så kommer det nok et solid utbytte til våren 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    }
+  ]
 }

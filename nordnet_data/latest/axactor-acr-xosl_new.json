@@ -1,22 +1,40 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-02T06:42:32.891931+00:00",
+  "scraped_at": "2026-09-02T10:44:21.924296+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "fa6347d724d7fa37",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 4 t siden",
-      "text": "Selskapet prises helt feil. Så får resultatet fremover peke ut rettning.",
+      "key": "d8b23f704d9a9433",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
+      "posted_relative": "for 22 t siden",
+      "text": "Jeg tipper vi ser godt over 6 tallet før uka er omme. Trist for de som ble shaket ut. 😂 Kanskje 10 kroner før jul? Hypen er i gang :) :) :) Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3,
+        2
+      ],
       "links": [],
-      "char_count": 72,
+      "char_count": 159,
+      "has_link": false
+    },
+    {
+      "key": "ff82c082b1c62333",
+      "author": "Gutti",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gutti",
+      "posted_relative": "for 3 t siden",
+      "text": "Borea nordisk utbytte øker posisjonen med 500k.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
       "has_link": false
     }
   ]

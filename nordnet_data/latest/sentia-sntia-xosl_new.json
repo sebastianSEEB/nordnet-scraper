@@ -1,54 +1,55 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-09-02T06:41:50.736230+00:00",
+  "scraped_at": "2026-09-02T10:43:42.871148+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "ecf9ea6095284c30",
-      "author": "Snakzz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
-      "posted_relative": "for 51 min siden",
-      "text": "https://www.finansavisen.no/tdn/2026/09/02/06593518/sentia-hent-signert-kontrakt-med-nscale-for-datasenterutvidelse",
-      "reply_count": null,
+      "key": "8b34b6e741ed50f0",
+      "author": "Gussern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gussern",
+      "posted_relative": "for 3 t siden",
+      "text": "Enig i mye av det du skriver, men det er en ting som blir litt rart når denne \"bransjen\" vurderes pr kvartal.  Byggebransjen jobber i lengre intervaller mht kontraktsinngåelser en de bransjene som selger \"produkter\".  Med dette mener jeg at en periodisering på kun 3mnd er alt for kort til å legge voldsomt stor vekt på en \"nedgang\" i ordrereserve.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
-        2
-      ],
-      "links": [
-        "https://www.finansavisen.no/tdn/2026/09/02/06593518/sentia-hent-signert-kontrakt-med-nscale-for-datasenterutvidelse"
-      ],
-      "char_count": 115,
-      "has_link": true
-    },
-    {
-      "key": "355046fed2d44e85",
-      "author": "Verdens sterkeste bjørn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verdens-sterkeste-bjrn",
-      "posted_relative": "for 22 t siden",
-      "text": "Pareto tar ut Sentia fra månedsporteføljen. Er det noen som kjøper mer i dag? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 97,
+      "char_count": 348,
       "has_link": false
     },
     {
-      "key": "1cdc7156cb3ec6c0",
-      "author": "Snakzz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
-      "posted_relative": "for 51 min siden",
-      "text": "Flott kontrakt i dag",
+      "key": "15f4a9a9085b093b",
+      "author": "Theboyplunger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/theboyplunger",
+      "posted_relative": "for 3 t siden",
+      "text": "Dumme pareto. Arctic derimot, de beholder den i sin portefølje. Det lønte seg i dag",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 20,
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "ab6b07b548064947",
+      "author": "Shaqz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shaqz",
+      "posted_relative": "for 5 min siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 21,
       "has_link": false
     }
   ]

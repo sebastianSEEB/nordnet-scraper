@@ -1,20 +1,22 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-02T06:37:41.187479+00:00",
+  "scraped_at": "2026-09-02T10:39:27.561976+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "968d2ef410218742",
+      "key": "3f5282dbecaa9d19",
       "author": "Yamarin64dc",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
-      "posted_relative": "for 2 min siden · Endret",
-      "text": "Enig. Og det mener tydeligvis også Aasulv Tveitreid. Det har gått meg hus forbi at han har 12-20. juli kjøpt seg opp igjen i Kitron. 600.000 aksjer https://www.finansavisen.no/bjellesauer?investors=Aasulv+Tveitereid&tickers=KIT",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Enig. Og det mener tydeligvis også Aasulv Tveitreid. Det har gått meg hus forbi at han har 17-20. juli kjøpt seg opp igjen i Kitron. 600.000 aksjer https://www.finansavisen.no/bjellesauer?investors=Aasulv+Tveitereid&tickers=KIT",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [
         "https://www.finansavisen.no/bjellesauer?investors=Aasulv+Tveitereid&tickers=KIT"
       ],
@@ -22,22 +24,19 @@
       "has_link": true
     },
     {
-      "key": "6656abc245d9a3ca",
-      "author": "Yamarin64dc",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
-      "posted_relative": "for 9 t siden",
-      "text": "Hør Finansavisens Økonominyhetene! Analytiker er imponert etter å ha sett den nye fabrikken. Kommer med kjøpsanbefaling: https://tv.finansavisen.no/nb/watch/8327 Vis 1 kommentar til",
+      "key": "e410686e64cfdc24",
+      "author": "D1HP30",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/d1hp30",
+      "posted_relative": "for 1 t siden",
+      "text": "Martine Kverne snakker om organisk vekst på 50-60% i år samt at Kitron også skal jobbe med utvikling av datasentre. Mange mener at fremtidig oppgang er allerede priset inn, jeg mener Kitron fortsatt er billig. Gevinstene og produksjonen er enda ikke satt i gang for fullt, når anleggene er ferdigstilt vil det bli bonanza",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7,
-        2
+        8
       ],
-      "links": [
-        "https://tv.finansavisen.no/nb/watch/8327"
-      ],
-      "char_count": 181,
-      "has_link": true
+      "links": [],
+      "char_count": 321,
+      "has_link": false
     }
   ]
 }

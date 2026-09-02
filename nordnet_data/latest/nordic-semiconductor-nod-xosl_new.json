@@ -1,9 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-02T06:37:22.733757+00:00",
+  "scraped_at": "2026-09-02T10:39:08.745835+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "65dc8a4ee66c426e",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 1 t siden",
+      "text": "Endelig litt bevegelse i riktig retning 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "6da3f463576099da",
+      "author": "Enghaug",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enghaug",
+      "posted_relative": "for 3 t siden",
+      "text": "SB1 tar inn denne🤝",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

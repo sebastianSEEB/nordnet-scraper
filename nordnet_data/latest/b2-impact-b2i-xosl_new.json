@@ -1,9 +1,25 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-02T06:38:27.501246+00:00",
+  "scraped_at": "2026-09-02T10:40:16.351583+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "230e1f5c931d3fe7",
+      "author": "Sjøbakken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjbakken",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.dn.no/marked/jon-harald-nordbrekken/har-tjent-en-milliard-pa-en-aksje/2-1-2032946",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/marked/jon-harald-nordbrekken/har-tjent-en-milliard-pa-en-aksje/2-1-2032946"
+      ],
+      "char_count": 93,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,66 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-02T06:37:48.619008+00:00",
+  "scraped_at": "2026-09-02T10:39:35.113099+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "9acbac301af22322",
+      "author": "Geddy1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/geddy1234",
+      "posted_relative": "for 3 t siden",
+      "text": "Tipper 106 kan være et nivå hvor det snur opp...det var her jeg hadde planlagt å kjøpe meg inn igjen. Men FOMO tok meg og jeg kjøpte tidligere på 108 i stedet",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    },
+    {
+      "key": "9efef49e30cef893",
+      "author": "MORTEN R",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morten-r",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva tror dere bunnen er når vi falt gjennom 107 ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "dc33a902ac9d87aa",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": "for 1 t siden",
+      "text": "10 april sto den i 126 kr. Når er vi tilbake der? tippekonkurranse:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "ec72b7858da40956",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 1 t siden",
+      "text": "Har lastet opp Tomra aksjer de siste dagene :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

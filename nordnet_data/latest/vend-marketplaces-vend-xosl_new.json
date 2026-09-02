@@ -1,9 +1,40 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-02T06:37:33.741014+00:00",
+  "scraped_at": "2026-09-02T10:39:20.101701+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "98ccd204864d4406",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 2 t siden",
+      "text": "Arctic beholder Vend i porteføljen. https://www.finansavisen.no/finans/2026/09/01/8377165/arctic-kaster-ut-tre-selskaper-satser-pa-comeback-i-taperaksje?internal_source=mest_lest&utm_source=chatgpt.com",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/01/8377165/arctic-kaster-ut-tre-selskaper-satser-pa-comeback-i-taperaksje?internal_source=mest_lest&utm_source=chatgpt.com"
+      ],
+      "char_count": 201,
+      "has_link": true
+    },
+    {
+      "key": "78ed6a929aea0d24",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 3 t siden",
+      "text": "Oslo (Infront TDN Direkt): SB1 Markets nedjusterer kursmålet på Vend til 360 kroner fra 380 kroner og gjentar kjøpsanbefalingen, ifølge en oppdatering onsdag. Den var fin den :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    }
+  ]
 }

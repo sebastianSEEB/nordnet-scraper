@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-02T06:41:32.244452+00:00",
+  "scraped_at": "2026-09-02T10:43:23.493931+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "71e5121258256d3d",
+      "author": "BuyAndPray",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buyandpray",
+      "posted_relative": null,
+      "text": "29. aug. De som eier denne aksjen, noen som kan forklare meg kort hvorfor denne er så bra, og skal holdes fremover i tid?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    }
+  ]
 }

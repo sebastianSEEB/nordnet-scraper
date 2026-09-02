@@ -1,9 +1,54 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-02T06:37:18.576070+00:00",
+  "scraped_at": "2026-09-02T10:39:04.886994+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6c32dbcc2c101f9f",
+      "author": "limu",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/limu",
+      "posted_relative": "for 1 t siden",
+      "text": "· Men sto det vel et sted at hvis vi ikke rekker å få utbyttet fra vår, så skal et ekstra kontantutbytte skje i tillegg til det som er meddelt? Men det utbyttet er ikke størrelsesbestemt.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "dc2f37ae7a249dab",
+      "author": "Auri sacra fames",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/auri-sacra-fames",
+      "posted_relative": null,
+      "text": "29. aug. · Kommer utbyttet i bnor til å reduseres til vår energi-nivåer? Det burde rimeligvis reduseres, eller hva tror dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "47f4920213a3d799",
+      "author": "terragady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terragady",
+      "posted_relative": "for 3 t siden",
+      "text": "· Fin morgenspike :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }
