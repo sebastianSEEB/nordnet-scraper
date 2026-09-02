@@ -1,9 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-01T23:40:59.904164+00:00",
+  "scraped_at": "2026-09-02T01:53:47.471200+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f7e91005683edb7a",
+      "author": "ruuno88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuno88",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://youtube.com/shorts/azqb0FieNGE?is=Dcvy8t6RKGdKXeFU",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://youtube.com/shorts/azqb0FieNGE?is=Dcvy8t6RKGdKXeFU"
+      ],
+      "char_count": 60,
+      "has_link": true
+    },
+    {
+      "key": "c0063b47a9199a58",
+      "author": "ruuno88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuno88",
+      "posted_relative": "for 46 min siden",
+      "text": "Litt for kaotisk for meg akuratt nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

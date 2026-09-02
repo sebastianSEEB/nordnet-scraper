@@ -1,9 +1,23 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-01T23:44:36.798962+00:00",
+  "scraped_at": "2026-09-02T01:57:17.655414+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "81fa9639e0b5b8cb",
+      "author": "pweer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pweer",
+      "posted_relative": "for 54 min siden",
+      "text": "godt driv i moderna i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }
