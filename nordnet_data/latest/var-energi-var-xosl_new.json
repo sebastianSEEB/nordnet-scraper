@@ -1,9 +1,52 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-02T01:57:50.086117+00:00",
+  "scraped_at": "2026-09-02T06:41:20.689185+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "556ec7f7ea9fa13c",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Råoljeeksport i august 2026 vs den umiddelbare førkrigsgrunnlinjen for januar & februar 2026. - Iran: -100% - Irak (Basra og via Baniyas, Syria): -36% - Kuwait: -36% - Qatar: -48% - Saudi-Arabia (begge kyster): -48% - UAE (begge kyster): -0.02% Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 266,
+      "has_link": false
+    },
+    {
+      "key": "5ff8fee830827e2a",
+      "author": "Vincent70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vincent70",
+      "posted_relative": "for 4 min siden · Endret",
+      "text": "Gitt at Vår Energi nå i praksis eier gassen fra BlueNord, er det tydelig at markedet ennå ikke helt har priset inn oppsiden. Q4 kommer til å bli mindblowing for aksjonærene i Vår. Aksjen er fremdeles på billigsalg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 214,
+      "has_link": false
+    },
+    {
+      "key": "9aabcf02c99a8ddb",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 4 min siden",
+      "text": "· Disse opplysningene kom fra TankersTrackers, så det er mulig de bare har oversikt over Hormuz/Babar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }

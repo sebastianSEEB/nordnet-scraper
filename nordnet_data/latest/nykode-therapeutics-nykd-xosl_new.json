@@ -1,22 +1,40 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-02T01:57:17.655414+00:00",
+  "scraped_at": "2026-09-02T06:40:50.585331+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "81fa9639e0b5b8cb",
-      "author": "pweer",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pweer",
-      "posted_relative": "for 54 min siden",
-      "text": "godt driv i moderna i dag",
+      "key": "9fe4b9cb1c6b98ad",
+      "author": "Myr79",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myr79",
+      "posted_relative": "for 2 t siden",
+      "text": "Bjellesauer: Kjøp 28.08 Arne Fredly 6,1mill aksjer Arne Blystad 2,25mill aksjer Kjetil Skorstad 1,5mill aksjer Edvin Austbø 1,25mill aksjer",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        4,
+        5
+      ],
       "links": [],
-      "char_count": 25,
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "724793b1799c38ea",
+      "author": "Aksjoman007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjoman007",
+      "posted_relative": "for 26 min siden · Endret",
+      "text": "Bjellene kjøper og småsparerne selger. Småinvestorene var best. De dumpet, Kursen sank og fikk rett. Småsparere 1-bjeller 0.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 124,
       "has_link": false
     }
   ]

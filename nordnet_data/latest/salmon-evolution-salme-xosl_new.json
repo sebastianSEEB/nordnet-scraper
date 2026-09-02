@@ -1,9 +1,23 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-02T01:59:52.346962+00:00",
+  "scraped_at": "2026-09-02T06:43:24.924752+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d05f489283a7de01",
+      "author": "bulldahl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulldahl",
+      "posted_relative": "for 20 min siden",
+      "text": "Lakseprisen litt ned sist uke 👇",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

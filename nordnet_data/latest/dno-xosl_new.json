@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-02T01:56:04.420280+00:00",
+  "scraped_at": "2026-09-02T06:39:38.170592+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dcf8b13b4698624d",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 8 min siden",
+      "text": "Hadde heller håpet at DNO hadde brukt midlene på kjøp i Nordsjøen fremfor Egypt. Tror likevel dette primært er gjort for å hindre Genels kjøp av Capricorn, og på den måten kanskje gjøre prosessen med oppkjøp av Genel enklere? Det er i alle fall en tanke jeg har, siden Genel tross alt har bud på Capricorn.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 306,
+      "has_link": false
+    }
+  ]
 }

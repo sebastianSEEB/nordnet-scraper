@@ -1,9 +1,81 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-02T01:57:13.373757+00:00",
+  "scraped_at": "2026-09-02T06:40:46.763409+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "9114133245fcb89f",
+      "author": "shippinganalytiker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "posted_relative": "for 16 t siden",
+      "text": "FFA er opp 5-6% i dag. FFA utledet verdi ved full betaling er 15.01 Verdi i Mercuria caset er 11.58 i min modell.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        48,
+        3
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "c44f03f4a3103463",
+      "author": "Bra Ver",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bra-ver",
+      "posted_relative": "for 15 min siden",
+      "text": "X-dato er 29. september  står det på på min maskin!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "31217d28bc15f178",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 1 t siden",
+      "text": "· Utbytte 1,5 Nok, X-dato 28. september.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "32ea53a2112196dc",
+      "author": "trubaduren64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trubaduren64",
+      "posted_relative": "for 23 min siden",
+      "text": "Venter spent på å bikke 13.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    },
+    {
+      "key": "53a8f07d08593e50",
+      "author": "Terrybob 76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terrybob-76",
+      "posted_relative": "for 5 min siden",
+      "text": "Takk for oppdateringen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-02T01:53:55.220951+00:00",
+  "scraped_at": "2026-09-02T06:37:30.040477+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f3df0b1e81e4de47",
+      "author": "noyy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noyy",
+      "posted_relative": "for 1 t siden",
+      "text": "Har noen trua på at denne går opp de neste månedene?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

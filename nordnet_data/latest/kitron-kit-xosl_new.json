@@ -1,9 +1,43 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-02T01:54:06.363230+00:00",
+  "scraped_at": "2026-09-02T06:37:41.187479+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "968d2ef410218742",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 2 min siden · Endret",
+      "text": "Enig. Og det mener tydeligvis også Aasulv Tveitreid. Det har gått meg hus forbi at han har 12-20. juli kjøpt seg opp igjen i Kitron. 600.000 aksjer https://www.finansavisen.no/bjellesauer?investors=Aasulv+Tveitereid&tickers=KIT",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/bjellesauer?investors=Aasulv+Tveitereid&tickers=KIT"
+      ],
+      "char_count": 227,
+      "has_link": true
+    },
+    {
+      "key": "6656abc245d9a3ca",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 9 t siden",
+      "text": "Hør Finansavisens Økonominyhetene! Analytiker er imponert etter å ha sett den nye fabrikken. Kommer med kjøpsanbefaling: https://tv.finansavisen.no/nb/watch/8327 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [
+        "https://tv.finansavisen.no/nb/watch/8327"
+      ],
+      "char_count": 181,
+      "has_link": true
+    }
+  ]
 }
