@@ -1,37 +1,65 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-02T15:33:45.122399+00:00",
+  "scraped_at": "2026-09-02T19:04:05.898666+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "f3db1642a1f87488",
-      "author": "Stuss",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stuss",
-      "posted_relative": "for 2 t siden",
-      "text": "Kan jo være lurt å kjøpe nå, for å få med utbytte på ca. 4,65 nkr. Siste handelsdag med utbytte fredag 04.sept",
+      "key": "5e15a0751465e390",
+      "author": "Bobnrd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bobnrd",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvorfor kan ikke denne aksjen kjøpes på en vanlig ASK konto?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 110,
+      "char_count": 60,
       "has_link": false
     },
     {
-      "key": "873e5e7f764c56a5",
-      "author": "lokumsaage",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lokumsaage",
-      "posted_relative": "for 3 t siden",
-      "text": "· Er denne aksjen verdt å kjøpe nå?",
+      "key": "408e8b09db8db090",
+      "author": "Phaph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phaph",
+      "posted_relative": "for 1 t siden",
+      "text": "· Når kan jeg tidligst selge for fortsatt å få utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "77e70e00541bc084",
+      "author": "Cheesy85",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheesy85",
+      "posted_relative": "for 58 min siden",
+      "text": "· Fordi de ikke er hjemmehørende i EU/EØS.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 35,
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "970f1d219de78da7",
+      "author": "Cheesy85",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheesy85",
+      "posted_relative": "for 5 min siden",
+      "text": "På eller etter EX-dato.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
       "has_link": false
     }
   ]

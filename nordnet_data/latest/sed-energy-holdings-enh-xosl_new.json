@@ -1,24 +1,52 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-02T15:36:40.726658+00:00",
+  "scraped_at": "2026-09-02T19:07:02.239373+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "08c9eb9f125b65e2",
-      "author": "Bearto",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bearto",
+      "key": "6d6f339cc136f694",
+      "author": "borgeide",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borgeide",
       "posted_relative": "for 1 t siden",
-      "text": "SED holder på utbytte til straks før neste rapport, ikke like vanlig som at betale straks etter rapport, men jeg ser det som god håndtering av kassafløde sedt fra firman sitt  ståsted",
+      "text": "SED holder på utbyttet fordi det klassifiseres som tilbakebetaling av innskutt kapital. Dette fører til at utbetalingen må godkjennes på EGF, og deretter må man vente 6uker for at eventuelle kreditorer skal få mulighet til å fremme eventuelle krav. Etter disse 6 ukene har det som regel gått 7-10 dager til utbetaling.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 183,
+      "char_count": 318,
+      "has_link": false
+    },
+    {
+      "key": "9f24057f7af715c7",
+      "author": "Gisco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gisco",
+      "posted_relative": "for 3 t siden",
+      "text": "Billig P/E messig er den ikke. Men det er forventninger som styrer aksjemarkedet. De har svært lav gjeld, det bidrar nok til den høye verdsettelsen.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 148,
+      "has_link": false
+    },
+    {
+      "key": "ded0c2b7adb309cd",
+      "author": "Geir Rune L",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/geir-rune-l",
+      "posted_relative": "for 1 t siden",
+      "text": "Arrowstreet dekket inn ca 170k av short i går. Kun 6 mill igjen😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 64,
       "has_link": false
     }
   ]

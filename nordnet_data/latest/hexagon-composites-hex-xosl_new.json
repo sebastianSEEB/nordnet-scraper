@@ -1,9 +1,23 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-02T15:37:50.946369+00:00",
+  "scraped_at": "2026-09-02T19:08:12.148786+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3872a1069c8334e8",
+      "author": "Bantex28",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bantex28",
+      "posted_relative": "for 3 min siden",
+      "text": "Mye aktivitet på Tradegate i kveld.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

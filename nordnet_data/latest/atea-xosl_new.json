@@ -1,9 +1,23 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-09-02T15:38:18.001474+00:00",
+  "scraped_at": "2026-09-02T19:08:41.172465+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6e93e33b21896da7",
+      "author": "Pius",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pius",
+      "posted_relative": "for 1 t siden",
+      "text": "Morsomste er jo at de justerer opp kursmålet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }
