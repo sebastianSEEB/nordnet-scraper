@@ -1,9 +1,82 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-02T19:24:03.864361+00:00",
+  "scraped_at": "2026-09-02T22:07:08.660738+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "3a8ea9453d19d12d",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser han var oppe i 424,44 ikveld over dammen. Tviler på om OBX klarer å matche d imorgen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    },
+    {
+      "key": "e4c19fa68f1e8496",
+      "author": "lhco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lhco",
+      "posted_relative": "for 9 t siden",
+      "text": "· Tankskip VLCC:  opp ~2% Suezmax:  opp ~7% Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        2
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "b057603dbfb1901c",
+      "author": "Vannhode",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vannhode",
+      "posted_relative": "for 1 t siden",
+      "text": "Pen avslutning over dammen på rundt 423 👍🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "8554dbda2d55620a",
+      "author": "kholst001",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kholst001",
+      "posted_relative": "for 28 min siden",
+      "text": "Satser på en ny god dag i morgen 👌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "15e8078669b66747",
+      "author": "BenRedicFyFazan26",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
+      "posted_relative": "for 26 min siden",
+      "text": "Nærmer seg utbytte og nå..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-02T19:26:13.392980+00:00",
+  "scraped_at": "2026-09-02T22:09:19.508364+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e7e1ef8fbd9bb99e",
+      "author": "chrizcringle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrizcringle",
+      "posted_relative": "for 2 t siden",
+      "text": "Ut fra chartet tipper jeg stengingen i dag på 159,80 ble bunnpunktet på Norbit. Dersom dette ikke er tilfellet kan det bli stygt i neste uke - krysser fingrene!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    }
+  ]
 }

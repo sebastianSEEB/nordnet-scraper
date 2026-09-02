@@ -1,9 +1,38 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-02T19:26:02.048938+00:00",
+  "scraped_at": "2026-09-02T22:09:07.566713+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0f38447fb9481ff3",
+      "author": "Sistemann inn..",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
+      "posted_relative": "for 1 t siden",
+      "text": "DOF ser kjempebra ut fremover. Det eneste jeg personlig er bekymret for er et større krakk/korreksjon. Som selv ikke solide selskaper er immune mot. Såkalt «kunstig intelligens» er helt klart den største risikofaktoren i den globale økonomien i dag. Og jeg sliter med å se at dette kan gå bra.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 293,
+      "has_link": false
+    },
+    {
+      "key": "4eaa74e6781c4f26",
+      "author": "D1HP30",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/d1hp30",
+      "posted_relative": "for 1 t siden",
+      "text": "Kjempe bra analyse, tusen takk",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

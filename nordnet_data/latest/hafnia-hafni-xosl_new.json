@@ -1,9 +1,51 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-02T19:24:12.562524+00:00",
+  "scraped_at": "2026-09-02T22:07:18.949619+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "806115055ef8867f",
+      "author": "Paals",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paals",
+      "posted_relative": "for 2 t siden",
+      "text": "Ex. dato er 7. september. USD 0,5003 Normalt for denne er da at den kan kjøpes min kr 10  under toppnotering før utbyttet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "36ec7ad9df54445f",
+      "author": "Bobnrd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bobnrd",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvorfor kan ikke denne aksjen kjøpes på en vanlig ASK konto? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "b7cb0008d2f208b5",
+      "author": "Bobnrd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bobnrd",
+      "posted_relative": "for 2 t siden",
+      "text": "· Singapore?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }
