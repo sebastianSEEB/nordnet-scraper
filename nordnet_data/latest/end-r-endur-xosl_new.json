@@ -1,9 +1,27 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-02T10:41:45.021657+00:00",
+  "scraped_at": "2026-09-02T11:46:18.566576+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "62a40b347f78df14",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Analysesjef Petter Kongslie i SB1 Markets beholder Endur i sin modellportefølje. Han har kursmål på 150kr, og den siste analysen hadde den små-deilige tittelen: «A Norwegian infrastructure compounder at half the price vs. Swedish peers» https://www.finansavisen.no/finans/2026/09/02/8377291/kaster-seg-pa-bjellesaufavoritt-tar-inn-to-nye-aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/02/8377291/kaster-seg-pa-bjellesaufavoritt-tar-inn-to-nye-aksjer"
+      ],
+      "char_count": 344,
+      "has_link": true
+    }
+  ]
 }

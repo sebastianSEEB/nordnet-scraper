@@ -1,9 +1,23 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-09-02T10:42:18.889051+00:00",
+  "scraped_at": "2026-09-02T11:46:55.445019+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b05e44d6bef3d283",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 26 min siden",
+      "text": "Vi hadde en slags \"washout\" i går på 118,- / kjøpere er tilbake idag. Inngang rundt 120,- må være greit? Kjøpt 3K.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-09-02T10:44:18.255542+00:00",
+  "scraped_at": "2026-09-02T11:48:54.764009+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "afc247eea193b22f",
+      "author": "Finansfranz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/finansfranz",
+      "posted_relative": "for 44 min siden",
+      "text": "https://www.finansavisen.no/teknologi/2026/09/02/8377369/pwc-spar-tidenes-boom-innen-datasentre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/09/02/8377369/pwc-spar-tidenes-boom-innen-datasentre"
+      ],
+      "char_count": 95,
+      "has_link": true
+    },
+    {
+      "key": "c50f3c296c4409e6",
+      "author": "Julian77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/julian77",
+      "posted_relative": "for 31 min siden",
+      "text": "​Hvorfor dette er en sterk driver for Smartoptics: ​Høyere båndbreddebehov: Datasenter-boomen krever overgang til raskere optiske løsninger (som 400G og 800G). Dette er et marked hvor Smartoptics har posisjonert seg sterkt med sine open line-systemer og transceivere. ​Kostnadseffektivitet: Gigantiske datasenterinvesteringer øker presset på å holde driftsutgiftene nede. Smartoptics har spesialisert seg på fleksible, uavhengige (open networking) og mer kostnadseffektive alternativer enn de store, proprietære gigantene som Ciena og Cisco. ​AI-bølgen: Mye av datasenterveksten drives av kunstig intelligens, noe som krever ekstremt lav forsinkelse (latency) og massive datamengder mellom servere — akkurat det Smartoptics sine optiske produkter leverer. ​Nyheter som dette bekrefter et sterkt, langvarig sekulært medvind-marked for selskaper som leverer \"veiene\" og \"kablene\" i den digitale infrastrukturen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 909,
+      "has_link": false
+    }
+  ]
 }
