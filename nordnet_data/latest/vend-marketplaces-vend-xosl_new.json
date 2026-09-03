@@ -1,9 +1,25 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-03T00:51:36.733572+00:00",
+  "scraped_at": "2026-09-03T05:20:40.519011+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ac17611c33260a40",
+      "author": "Leo95",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leo95",
+      "posted_relative": "for 40 min siden",
+      "text": "32,4 % flere annonser i år enn i fjor! https://www.finansavisen.no/bolig/2026/09/03/8377573/rekordmange-bruktboliger-til-salgs-i-oslo",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/bolig/2026/09/03/8377573/rekordmange-bruktboliger-til-salgs-i-oslo"
+      ],
+      "char_count": 133,
+      "has_link": true
+    }
+  ]
 }

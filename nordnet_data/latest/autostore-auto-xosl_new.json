@@ -1,9 +1,38 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-03T00:53:55.896967+00:00",
+  "scraped_at": "2026-09-03T05:22:49.390562+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b78dd3c2c25ce27c",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 34 min siden",
+      "text": "Fra i går ish: Swisslog opplyser at de har sikret nye prosjekter i Saudi-Arabia og sitt første AutoStore-prosjekt i Oman, for en offentlig institusjon i Muscat. Swisslog oppgir også at de siste 12 månedene har vunnet fler-millionersprosjekter innen lagerautomasjon i Saudi-Arabia, UAE, Kuwait og Oman.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 301,
+      "has_link": false
+    },
+    {
+      "key": "4e6254508a356591",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 4 min siden",
+      "text": "Det selges Autostore systemer som aldri før over hele verden 💵 Det går så det suser 💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }
