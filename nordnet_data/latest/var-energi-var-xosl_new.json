@@ -1,84 +1,38 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-03T14:53:05.464672+00:00",
+  "scraped_at": "2026-09-03T18:18:08.275515+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 5,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "e9f2aa82dedcac2e",
-      "author": "ShippingFond",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond",
-      "posted_relative": "for 3 t siden",
-      "text": "· Vår Energi ASA: Notification of trade by primary insider Sandnes, Norway, 3 September 2026: Deputy employee representative to the Board, Aina Eltervåg in Vår Energi has bought 440 shares in the company at a price of NOK 50.00 per share. Following the transaction, Aina Eltervåg holds a total of 7 050 shares in Vår Energi ASA. Details of the trades are included in the attached notification of trading. This information is subject to the disclosure requirements pursuant to MAR article 19 and Section 5-12 the Norwegian Securities Trading Act. Contact Investor relations Ida Marie Fjellheim, VP Investor relations +47 905 09 291 ida.fjellheim@varenergi.no About Vår Energi Vår Energi is a leading independent upstream oil and gas company on the Norwegian continental shelf (NCS). To learn more, please visit varenergi.no. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        3
-      ],
-      "links": [],
-      "char_count": 843,
-      "has_link": false
-    },
-    {
-      "key": "570d0c660e28fa82",
-      "author": "Tunis97",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tunis97",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Har lagt merke til dette selv. Leste at Brent-prisen fryser fordi kursen de viser bygger på en futures-indeks fra en ekstern leverandør og ikke nødvendigvis en kontinuerlig live-feed av selve Brent-markedet. ICE tilbyr både real-time, snapshots og forsinkede datastrømmer, og hvilken feed Nordnet viser avhenger av dataavtalen de betaler for. Det gjør at Nordnet-kursen kan oppdatere rykkvis, henge etter eller se mer ustabil ut en kursen på andre finanssider. I tillegg rulleres futureskontraktene i indeksen, så kursen kan avvike fra den vanlige Brent spot-prisen som mange nyhetssider viser. Spot-prisen på Brent hos Nordnet (så vel som gull, sølv og andre aktiva) er så ustabil at jeg ikke anser den som pålitelig. Jeg kan anbefale Trading economics for å tracke priser, der får du også TTF natural gas som er relevant for VAR :-)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 834,
-      "has_link": false
-    },
-    {
-      "key": "9567d3a3efefa132",
+      "key": "e667a052dab6b64c",
       "author": "Jojo314",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jojo314",
-      "posted_relative": "for 2 t siden",
-      "text": "· Lurer på hvorfor Brent-oljen fryser innimellom her på Nordnet? Nå er det 17 min siden den oppdaterte prisen. På andre plattformer er prisen over 97 dollar nå.",
+      "posted_relative": "for 6 t siden",
+      "text": "· Lurer på hvorfor Brent-oljen fryser innimellom her på Nordnet? Nå er det 17 min siden den oppdaterte prisen. På andre plattformer er prisen over 97 dollar nå. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2,
-        1
+        2
       ],
       "links": [],
-      "char_count": 160,
+      "char_count": 180,
       "has_link": false
     },
     {
-      "key": "52d398bf3c5d080b",
-      "author": "tesk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "key": "b2ae68ab02eb2629",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
       "posted_relative": "for 2 t siden",
-      "text": "Olja i 97 og gass over 73, nå lagger alle oljeselskap",
+      "text": "· Jeg sjekker olje på Investing.com, og det virker ikke å være live her på Nordnet.",
       "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6
-      ],
-      "links": [],
-      "char_count": 53,
-      "has_link": false
-    },
-    {
-      "key": "3016bb40b1fb3517",
-      "author": "Profittus Kristus",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/profittus-kristus",
-      "posted_relative": "for 2 t siden",
-      "text": "Det er så smått at det ikke verdt å bry seg om 🤭",
-      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 48,
+      "char_count": 83,
       "has_link": false
     }
   ]

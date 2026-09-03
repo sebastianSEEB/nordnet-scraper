@@ -1,35 +1,24 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-03T14:48:55.223257+00:00",
+  "scraped_at": "2026-09-03T18:14:04.548422+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "0d7c78697dd3a35f",
-      "author": "Mensch",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mensch",
-      "posted_relative": "for 22 min siden",
-      "text": "· Deprimerende kursutvikling i dag. Er det skuffelse over den sløve premien til Bluenords aksjonærer i fusjonsavtalen med Energi som gjør at kursen ikke følger Vårs krone for krone? Er vi for mange som står i kø ved utgangen?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 225,
-      "has_link": false
-    },
-    {
-      "key": "4d8577789d6a5e38",
-      "author": "Mensch",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mensch",
+      "key": "83b40e60dd86db53",
+      "author": "Gjøkur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gjkur",
       "posted_relative": "for 2 t siden",
-      "text": "· Bluenord ser ikke ut til å følge Vår Energis kurs, men henger marginalt med 4-6 NOK. Det er kjedelig.",
+      "text": "Nå er VAR på billigsalg (1.84%) om man kjøper \"via\" BNOR. Om man antar korrigering for Q3 utbytte er merger spread hele 4.21%",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 103,
+      "char_count": 125,
       "has_link": false
     }
   ]

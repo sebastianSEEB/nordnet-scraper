@@ -1,40 +1,9 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-03T14:47:50.156010+00:00",
+  "scraped_at": "2026-09-03T18:12:56.184136+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "ee339e870010b5e9",
-      "author": "ALLVIS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
-      "posted_relative": "for 3 t siden",
-      "text": "https://www.nordnet.no/market/news/7d009136-925d-49f8-8599-ef351e773cf0",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://www.nordnet.no/market/news/7d009136-925d-49f8-8599-ef351e773cf0"
-      ],
-      "char_count": 71,
-      "has_link": true
-    },
-    {
-      "key": "5eacc3b8b6417630",
-      "author": "ALLVIS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
-      "posted_relative": "for 1 t siden",
-      "text": "Sjekk ordredybde, nå er algoritmene i gang igjen med å presse pris..",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 68,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

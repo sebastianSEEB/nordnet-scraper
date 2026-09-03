@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-09-03T14:47:54.048576+00:00",
+  "scraped_at": "2026-09-03T18:13:00.369407+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "91f721468e91c2cc",
+      "author": "House shark",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/house-shark",
+      "posted_relative": "for 19 min siden",
+      "text": "WilForce er nå i Dampier, ifølge AIS-data oppdatert mindre enn én time siden.  * VesselFinder viser også at WilForce ankom Dampier 3. september kl. 11:47 UTC og ligger ved anker.  * Det finnes en offisiell melding fra Pilbara Ports om vedlikeholdsarbeid i Dampier, men den gjelder Dampier Cargo Wharf 21.–25. september.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 319,
+      "has_link": false
+    }
+  ]
 }

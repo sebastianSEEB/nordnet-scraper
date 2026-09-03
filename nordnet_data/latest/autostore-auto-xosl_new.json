@@ -1,9 +1,41 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-03T14:51:24.622809+00:00",
+  "scraped_at": "2026-09-03T18:16:23.679846+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f02d482313fd013e",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 45 min siden",
+      "text": "· https://logistra.de/news/autostore-mit-und-61-500-behaeltern-23-roboter-uebernehmen-kleinteilelogistik-bei-pietsch-510752.html",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://logistra.de/news/autostore-mit-und-61-500-behaeltern-23-roboter-uebernehmen-kleinteilelogistik-bei-pietsch-510752.html"
+      ],
+      "char_count": 128,
+      "has_link": true
+    },
+    {
+      "key": "d69f0c8893239a19",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 47 min siden · Endret",
+      "text": "Pietsch-gruppen har i dag omtalt en ny AutoStore-installasjon ved sentrallageret i Ahaus, Tyskland: 61 500 bins og 23 roboter på ca. 1 700 m².",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    }
+  ]
 }

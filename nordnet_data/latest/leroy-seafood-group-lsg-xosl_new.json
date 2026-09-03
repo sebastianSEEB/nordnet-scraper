@@ -1,9 +1,23 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-03T14:49:41.116708+00:00",
+  "scraped_at": "2026-09-03T18:14:45.459511+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "228331b09d7d3b39",
+      "author": "kalleskanin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalleskanin",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvorfor får denne så smell i dag da",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-03T14:50:53.188507+00:00",
+  "scraped_at": "2026-09-03T18:15:53.843930+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c578f3d1004dbb8f",
+      "author": "Woice",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/woice",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.dn.no/bors/varner/bouvet/har-tjent-grovt-na-massedumper-de-aksjer/2-1-2033922?utm_source=dn.no&utm_medium=push",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/bors/varner/bouvet/har-tjent-grovt-na-massedumper-de-aksjer/2-1-2033922?utm_source=dn.no&utm_medium=push"
+      ],
+      "char_count": 122,
+      "has_link": true
+    },
+    {
+      "key": "aa59e7219fb8d5ac",
+      "author": "Nabogutten83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nabogutten83",
+      "posted_relative": "for 56 min siden",
+      "text": "Varner-gruppen selger seg ut av Bouvet etter holdt aksjer siden 2012. Noe i emning i negtiv forstand?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }
