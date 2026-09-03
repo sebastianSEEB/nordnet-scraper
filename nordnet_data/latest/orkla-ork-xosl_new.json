@@ -1,40 +1,51 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-03T10:25:25.888371+00:00",
+  "scraped_at": "2026-09-03T11:47:47.981234+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "03ac10b3401867c7",
-      "author": "Outo Sijoittaja",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/outo-sijoittaja",
-      "posted_relative": "for 3 t siden",
-      "text": "· Leste gjennom Jotuns Q2 rapport. Ang. \"Operating profit: Excluding negative currency translation effects, the underlying growth was 21%.\" Hvis den andre halvdelen av året skulle være mye ulønnsommere på grunn av kostnader, er det likevel litt vanskelig å tro at årsresultatet skulle være spesielt dårlig med tanke på stigende konjunktur, eller hva tror dere? Orkla får kanskje ikke like mye penger ut av Jotun som i fjor høst, men noe i alle fall?",
+      "key": "b73f5375e85a5573",
+      "author": "Mayfire",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mayfire",
+      "posted_relative": "for 48 min siden",
+      "text": "· Selger Orkla. Ser ingen styrke i det hele tatt til tross for en lengre negativ periode. Markedet virker ikke å ville kjøpe selskapet nå, og jeg lar andre spillere jage det. Øker sannsynligvis eksisterende beholdninger fremfor å jage nye.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
+        3,
         1
       ],
       "links": [],
-      "char_count": 449,
+      "char_count": 239,
       "has_link": false
     },
     {
-      "key": "46c372bfcc6d33cc",
+      "key": "806fbe1c22bbb7d4",
       "author": "Miga-invest",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
-      "posted_relative": "for 23 min siden",
-      "text": "Angående hva jotun leverer til høsten så tror jeg du har rett i det.  Ganske likt første halvår (3,3%) men nedgang i q2 etter krigen startet. Men jeg tror mange her inne overdriver betydningen til jotun når årsoppgjøret kommer.  De eier jo ikke hele jotun bare ca 43%.",
+      "posted_relative": "for 1 t siden",
+      "text": "Orkla ligger og vipper litt i det tekniske.  Det er ikke bra at de etablerer seg under 94 - 95,  Vi får håpe det snur.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 268,
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "0102128e9ae57009",
+      "author": "Locamexicana",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/locamexicana",
+      "posted_relative": "for 44 min siden",
+      "text": "Dritt bare",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
       "has_link": false
     }
   ]
