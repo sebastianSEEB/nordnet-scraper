@@ -1,9 +1,38 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-03T05:23:14.314183+00:00",
+  "scraped_at": "2026-09-03T10:24:00.604595+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "14760ad1e345a979",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": "for 2 t siden",
+      "text": "Dessverre så eskalerer dette igjen.. USA gjennomførte nye luftangrep mot Iran onsdag, blant annet mot radar-, luftforsvars- og missilrelaterte mål langs Irans sørkyst/Hormuz-området.  * Iran svarte i natt/tidlig torsdag med missiler og droner mot amerikanske og allierte mål i regionen. Det ble blant annet meldt om angrep mot amerikanske baser i Kuwait, samt angrep/interceptions i Bahrain og andre Gulf-land.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 410,
+      "has_link": false
+    },
+    {
+      "key": "dda08a71a7a61617",
+      "author": "lumpo capital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lumpo-capital",
+      "posted_relative": "for 1 t siden",
+      "text": "· Morgan Stanley hever sine prisprognoser for europeisk naturgass (TTF) til 88 euro per MWh i fjerde kvartal og 83 euro i første kvartal neste år. Dette er rundt 20 prosent over futuresmarkedet. Hvis dette scenariet utspiller seg og oljeprisene holder seg på fwd curve, er NAV i okea nærmere 60, og du har fortsatt kortsiktig letepotensial fra Alpehumle og Arkenstone i 2027.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 375,
+      "has_link": false
+    }
+  ]
 }

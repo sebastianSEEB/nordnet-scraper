@@ -1,9 +1,23 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-03T05:24:08.219849+00:00",
+  "scraped_at": "2026-09-03T10:24:56.109313+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d18e2d52e78b4fc3",
+      "author": "MissFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missfox",
+      "posted_relative": "for 2 t siden",
+      "text": "· Målkurs 330 skal det selvsagt stå. Gikk litt fort der 🥳🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

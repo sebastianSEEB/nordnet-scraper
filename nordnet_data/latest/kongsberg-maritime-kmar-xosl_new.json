@@ -1,9 +1,71 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-03T05:22:59.407132+00:00",
+  "scraped_at": "2026-09-03T10:23:45.408227+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "bb103f65f383aa1e",
+      "author": "fastbroker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fastbroker",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://www.kongsbergmaritime.com/news-and-events/news-archive/2026/wintegrate-launched-to-accelerate-wind-powered-shipping/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [
+        "https://www.kongsbergmaritime.com/news-and-events/news-archive/2026/wintegrate-launched-to-accelerate-wind-powered-shipping/"
+      ],
+      "char_count": 126,
+      "has_link": true
+    },
+    {
+      "key": "d9016cc7330727fe",
+      "author": "fastbroker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fastbroker",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.finansavisen.no/tdn/2026/09/03/06593942/kongsberg-maritime-skal-levere-teknologi-til-2-cadeler-nybygg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/09/03/06593942/kongsberg-maritime-skal-levere-teknologi-til-2-cadeler-nybygg"
+      ],
+      "char_count": 113,
+      "has_link": true
+    },
+    {
+      "key": "dff0e658e9690dd8",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 28 min siden",
+      "text": "Selskapet har hatt en litt vaklende start på egne ben når det gjelder kursutviklingen,  men har en følelse av at ' testperioden ' snart er over og at dette vil bli en god plassering.  Ihvertfall skjer og meldes det mye interessant nå av både kontrakter og nyvinninger....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 271,
+      "has_link": false
+    },
+    {
+      "key": "1c3e901b46c346ad",
+      "author": "Maya22",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maya22",
+      "posted_relative": "for 3 t siden",
+      "text": "Skal ikke denne gå noe videre opp? Treg aksje!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

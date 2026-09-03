@@ -1,9 +1,41 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-03T05:20:22.001209+00:00",
+  "scraped_at": "2026-09-03T10:21:06.143881+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ce904678ea30e24b",
+      "author": "StockEmHigh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stockemhigh",
+      "posted_relative": "for 42 min siden · Endret",
+      "text": "Til de som tror det vil bli utbetalt utbytte fra Bluenord i Q3, dette er fra børsmeldingen 21.07: \"BlueNord's second quarter dividend, announced on 9 July 2026, will be paid to BlueNord shareholders of record in accordance with the announced terms. No further dividends will be declared by BlueNord prior to completion of the transaction.\" https://newsweb.oslobors.no/message/678466",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/678466"
+      ],
+      "char_count": 382,
+      "has_link": true
+    },
+    {
+      "key": "650af7d4a639a52d",
+      "author": "tintinsoldat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tintinsoldat",
+      "posted_relative": "for 24 min siden",
+      "text": "· Vår Energi har sagt at de akter å utbetale USD 350 millioner i Q3-utbytte til aksjonærene i det kombinerte selskapet. Hvis transaksjonen først lukker etter record date for det Q3-utbyttet, justeres den kontante delen av vederlaget til BlueNord-aksjonærene, slik at de kompenseres for verdien av Q3-utbyttet (og eventuelle ytterligere utdelinger før closing).",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 360,
+      "has_link": false
+    }
+  ]
 }

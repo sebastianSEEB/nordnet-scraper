@@ -1,9 +1,51 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-03T05:19:07.935036+00:00",
+  "scraped_at": "2026-09-03T10:19:52.755555+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e9f369da69c19bc3",
+      "author": "Paals",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paals",
+      "posted_relative": "for 14 t siden",
+      "text": "Ex. dato er 7. september. USD 0,5003 Normalt for denne er da at den kan kjøpes min kr 10  under toppnotering før utbyttet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    },
+    {
+      "key": "996c20971a6fd1a1",
+      "author": "JOLI66",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joli66",
+      "posted_relative": "for 2 t siden",
+      "text": "Har dere regnet på R/R for en slik trade og vurdert om markedet faktisk nå posisjonerer seg for en sterk vintersesong i Q4/Q1?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "453110b3792adc4d",
+      "author": "SHIPking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shipking",
+      "posted_relative": "for 45 min siden",
+      "text": "· Kan kjøpes på en dansk ASK-konto.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-03T05:24:40.738162+00:00",
+  "scraped_at": "2026-09-03T10:25:25.888371+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "03ac10b3401867c7",
+      "author": "Outo Sijoittaja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/outo-sijoittaja",
+      "posted_relative": "for 3 t siden",
+      "text": "· Leste gjennom Jotuns Q2 rapport. Ang. \"Operating profit: Excluding negative currency translation effects, the underlying growth was 21%.\" Hvis den andre halvdelen av året skulle være mye ulønnsommere på grunn av kostnader, er det likevel litt vanskelig å tro at årsresultatet skulle være spesielt dårlig med tanke på stigende konjunktur, eller hva tror dere? Orkla får kanskje ikke like mye penger ut av Jotun som i fjor høst, men noe i alle fall?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 449,
+      "has_link": false
+    },
+    {
+      "key": "46c372bfcc6d33cc",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": "for 23 min siden",
+      "text": "Angående hva jotun leverer til høsten så tror jeg du har rett i det.  Ganske likt første halvår (3,3%) men nedgang i q2 etter krigen startet. Men jeg tror mange her inne overdriver betydningen til jotun når årsoppgjøret kommer.  De eier jo ikke hele jotun bare ca 43%.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 268,
+      "has_link": false
+    }
+  ]
 }

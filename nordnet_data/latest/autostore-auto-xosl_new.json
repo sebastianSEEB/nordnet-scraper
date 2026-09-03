@@ -1,37 +1,55 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-03T05:22:49.390562+00:00",
+  "scraped_at": "2026-09-03T10:23:35.287309+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "b78dd3c2c25ce27c",
-      "author": "mingus77",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
-      "posted_relative": "for 34 min siden",
-      "text": "Fra i går ish: Swisslog opplyser at de har sikret nye prosjekter i Saudi-Arabia og sitt første AutoStore-prosjekt i Oman, for en offentlig institusjon i Muscat. Swisslog oppgir også at de siste 12 månedene har vunnet fler-millionersprosjekter innen lagerautomasjon i Saudi-Arabia, UAE, Kuwait og Oman.",
+      "key": "f77cf27d67757938",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.swisslog.com/nb-no/about-swisslog/newsroom/news/2026/09/nowaste-logistics-first-autostore-autocase-installation",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        5
+      ],
+      "links": [
+        "https://www.swisslog.com/nb-no/about-swisslog/newsroom/news/2026/09/nowaste-logistics-first-autostore-autocase-installation"
+      ],
+      "char_count": 123,
+      "has_link": true
+    },
+    {
+      "key": "419646a47d7d2b9b",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 5 t siden",
+      "text": "Det selges Autostore systemer som aldri før over hele verden 💵 Det går så det suser 💰 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        17,
+        2
       ],
       "links": [],
-      "char_count": 301,
+      "char_count": 105,
       "has_link": false
     },
     {
-      "key": "4e6254508a356591",
-      "author": "Luring4",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
-      "posted_relative": "for 4 min siden",
-      "text": "Det selges Autostore systemer som aldri før over hele verden 💵 Det går så det suser 💰",
+      "key": "7b850b9ff7a25aad",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 12 min siden",
+      "text": "Men først ska vi lengre ned.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 85,
+      "char_count": 28,
       "has_link": false
     }
   ]

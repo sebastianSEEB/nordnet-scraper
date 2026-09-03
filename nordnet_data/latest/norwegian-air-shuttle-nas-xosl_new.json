@@ -1,9 +1,51 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-03T05:20:29.501417+00:00",
+  "scraped_at": "2026-09-03T10:21:13.510986+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ec71b12f876e6510",
+      "author": "aksjen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjen",
+      "posted_relative": "for 15 min siden",
+      "text": "Får håpe du ikke betalte for mye for \"drittaksjen\" !!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "8f7b8d104cc882e2",
+      "author": "Farzad",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/farzad",
+      "posted_relative": "for 20 min siden",
+      "text": "For en dritt aksje Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "f1b3162a31196583",
+      "author": "Oldmanbam",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oldmanbam",
+      "posted_relative": "for 3 t siden",
+      "text": "· Håper du har rett.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

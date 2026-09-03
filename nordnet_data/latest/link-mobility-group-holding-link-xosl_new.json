@@ -1,9 +1,38 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-03T05:20:35.560586+00:00",
+  "scraped_at": "2026-09-03T10:21:17.349080+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cb10b8881dd45571",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 2 t siden",
+      "text": "Ser ut som short har solgt i overkant mye de siste dagene og kommet noe bakpå. \"Lykke til\" Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "ebcd078926cc3ea9",
+      "author": "artige",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/artige",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva mener du med det?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

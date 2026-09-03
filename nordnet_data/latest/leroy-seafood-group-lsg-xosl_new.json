@@ -1,9 +1,40 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-03T05:21:06.606945+00:00",
+  "scraped_at": "2026-09-03T10:21:49.125071+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e8ee35316faf8bef",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 2 t siden",
+      "text": "https://ilaks.no/rekordvolum-sendte-lakseeksporten-til-nye-hoyder-i-august/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://ilaks.no/rekordvolum-sendte-lakseeksporten-til-nye-hoyder-i-august/"
+      ],
+      "char_count": 75,
+      "has_link": true
+    },
+    {
+      "key": "f7c32c8e9680518f",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 2 t siden",
+      "text": "Vi skal opp ut over høsten. Både priser( nå og historisk) volum og lav dødelighet tilsier det. Og analytikeres forsøk på å snakke kursen ned( egne interesser)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    }
+  ]
 }

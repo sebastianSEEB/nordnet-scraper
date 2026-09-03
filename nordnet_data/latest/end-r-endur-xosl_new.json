@@ -1,9 +1,25 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-03T05:23:06.772336+00:00",
+  "scraped_at": "2026-09-03T10:23:53.149569+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cb7dc8385e8953e9",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": "for 3 t siden",
+      "text": "Etter min vurdering er dette hovedpunktet i analysen: \"Valuing Endur in line with Swedish compounder peers yield NOK230 per share (+100% upside).\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    }
+  ]
 }
