@@ -1,40 +1,39 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-03T11:42:19.205504+00:00",
+  "scraped_at": "2026-09-03T14:47:50.156010+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "5c060dc23d70c237",
+      "key": "ee339e870010b5e9",
       "author": "ALLVIS",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
-      "posted_relative": "for 1 t siden",
-      "text": "(Oppdatert artikkel) Oslo (Infront TDN Direkt): SB1 Markets oppgraderer anbefalingen på BW LPG til kjøp fra nøytral og oppjusterer kursmålet til 250 kroner pr aksje fra 200 kroner, ifølge en oppdatering torsdag. <<Vi ser en attraktiv eksponering mot VLGC-markedet inn mot fjerde kvartal 2026 og 2027, støttet av en gunstig arbitrasje mellom USA og Asia samt potensiell oppside fra El Niño. Spotratene for VLGC på ruten mellom den amerikanske Gulfkysten og Asia holder seg på svært høye nivåer som følge av begrenset skipstilgang. Økt amerikansk eksport over lengre distanser binder samtidig opp mer skipskapasitet, støttet av gunstige arbitrasjeforhold>>, skriver meglerhuset. BW LPG handles til 0,90 ganger NAV ett år frem i tid, ifølge meglerhuset.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        3
-      ],
-      "links": [],
-      "char_count": 750,
-      "has_link": false
-    },
-    {
-      "key": "9d81f224b7f0a1f9",
-      "author": "Millinea",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/millinea",
-      "posted_relative": "for 27 min siden",
-      "text": "Kjøpt mer igår 🤷🏻‍♂️",
+      "posted_relative": "for 3 t siden",
+      "text": "https://www.nordnet.no/market/news/7d009136-925d-49f8-8599-ef351e773cf0",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
+      "links": [
+        "https://www.nordnet.no/market/news/7d009136-925d-49f8-8599-ef351e773cf0"
+      ],
+      "char_count": 71,
+      "has_link": true
+    },
+    {
+      "key": "5eacc3b8b6417630",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 1 t siden",
+      "text": "Sjekk ordredybde, nå er algoritmene i gang igjen med å presse pris..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 20,
+      "char_count": 68,
       "has_link": false
     }
   ]

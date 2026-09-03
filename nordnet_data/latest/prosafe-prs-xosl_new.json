@@ -1,9 +1,25 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-03T11:49:50.422100+00:00",
+  "scraped_at": "2026-09-03T14:55:20.757570+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5591b1c182ea779c",
+      "author": "Junior63",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junior63",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen litt store poster som går av gårde i dag ! Samme i går en stor post på lavere kurs enn den jevne på dagen. (Dropp i kursen) Samme i dag ! ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    }
+  ]
 }

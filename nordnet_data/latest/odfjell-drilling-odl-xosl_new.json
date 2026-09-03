@@ -1,9 +1,54 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-09-03T11:44:32.029660+00:00",
+  "scraped_at": "2026-09-03T14:49:56.579635+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a9fbdaeb1f107cdd",
+      "author": "Gisco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gisco",
+      "posted_relative": "for 1 t siden",
+      "text": "Mye av fordelen med ODL er at det er få rigger i verden av dem de har. Det tar veldig lang tid og koster enormt å bygge. For oss aksjonærer tror jeg det beste er at det forblir slik.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 182,
+      "has_link": false
+    },
+    {
+      "key": "ba18a159e39f2a7e",
+      "author": "Magne03",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magne03",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva tenker folk om ODL nå? P/E 10, 9 % yield, 96 % riggutnyttelse og stor backlog. Kan den være spennende inn mot 2027, eller er det noe jeg overser? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    },
+    {
+      "key": "f3da7ac19a9ef3ee",
+      "author": "Offentlif profilnavn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/offentlif-profilnavn",
+      "posted_relative": "for 36 min siden",
+      "text": "De spruter penger fremover, kunne faktisk vært spennende med en rigg til om de valgte å investere. Vi ser 13-18% direktavkastning neste årene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    }
+  ]
 }

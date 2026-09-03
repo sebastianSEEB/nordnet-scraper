@@ -1,22 +1,40 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-03T11:43:17.123221+00:00",
+  "scraped_at": "2026-09-03T14:48:47.544645+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "5201058ba0a769d3",
-      "author": "Kimkimkim",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim",
-      "posted_relative": "for 11 min siden",
-      "text": "Sjeldent man får så mye informasjon presentert så ryddig og oversiktelig",
+      "key": "35bc9ec8177ed4b5",
+      "author": "Fred1906",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fred1906",
+      "posted_relative": "for 6 t siden",
+      "text": "· https://x.com/CMB_TECH/status/2095407645431624045 Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://x.com/CMB_TECH/status/2095407645431624045"
+      ],
+      "char_count": 71,
+      "has_link": true
+    },
+    {
+      "key": "33103e50af703fc7",
+      "author": "Toni O",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toni-o",
+      "posted_relative": "for 2 t siden",
+      "text": "Når skal man ta gevinst?  Eller er ikke det noe å tenke på i år? Opp 3700%, men jeg har ikke så stor posisjon da",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 72,
+      "char_count": 112,
       "has_link": false
     }
   ]

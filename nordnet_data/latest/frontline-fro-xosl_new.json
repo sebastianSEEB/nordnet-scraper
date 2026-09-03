@@ -1,51 +1,27 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-03T11:42:02.600751+00:00",
+  "scraped_at": "2026-09-03T14:47:33.343348+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "f5d986a2779347c4",
-      "author": "Beginnerslucky",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
-      "posted_relative": "for 20 min siden · Endret",
-      "text": "Uavhengig av makro og alt annet som påvirker tanksektoren, pleier det å være noen klare mønster frem mot utbyttene? At kursen drives opp eller ned? Mulig alt annet rundt uansett overstyrer slike mønstre. Er Frontline fremdeles en lang hold, selv etter utbyttene? Tanker?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 270,
-      "has_link": false
-    },
-    {
-      "key": "7e303c585a0efbed",
-      "author": "AlpineBike",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alpinebike",
-      "posted_relative": "for 14 min siden",
-      "text": "noen som vet X dag og utbytte dag for Q2 ? Finner det ikke under utbytte",
+      "key": "a85e19a690b2ecdf",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 58 min siden",
+      "text": "Det enkleste og beste er å sjekke newsweb (husk forskjellig ex dato for Oslo og NYSE) https://newsweb.oslobors.no/search?category=&issuer=6117&fromDate=&toDate=&market=&messageTitle=",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [],
-      "char_count": 72,
-      "has_link": false
-    },
-    {
-      "key": "7b7fe57264aa7c25",
-      "author": "Mons25",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mons25",
-      "posted_relative": "for 6 min siden",
-      "text": "· X-dag 17. september. Utbetaling rundt 28. september.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 54,
-      "has_link": false
+      "links": [
+        "https://newsweb.oslobors.no/search?category=&issuer=6117&fromDate=&toDate=&market=&messageTitle="
+      ],
+      "char_count": 182,
+      "has_link": true
     }
   ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-03T11:48:26.387034+00:00",
+  "scraped_at": "2026-09-03T14:53:54.686318+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f871662bb3075bf9",
+      "author": "grenssaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grenssaks",
+      "posted_relative": "for 13 min siden",
+      "text": "https://paretosec.com/updates/transactions og logg inn med Bankid",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://paretosec.com/updates/transactions"
+      ],
+      "char_count": 65,
+      "has_link": true
+    },
+    {
+      "key": "b9d007c4be18a2d8",
+      "author": "Kopperud",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kopperud",
+      "posted_relative": "for 50 min siden · Endret",
+      "text": "Hvordan skal de i hele tatt få 90% oppslutning så lenge 60% av oss ikke greier å selge aksjene eller gi bekreftelse på hva vi vil gjøre 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    }
+  ]
 }

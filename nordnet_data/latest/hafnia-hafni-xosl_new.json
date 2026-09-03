@@ -1,35 +1,50 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-03T11:42:10.976008+00:00",
+  "scraped_at": "2026-09-03T14:47:42.581270+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "13c7133e55266c03",
-      "author": "Bobnrd",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bobnrd",
-      "posted_relative": "for 5 min siden",
-      "text": "Exdagen er i morgen, her kunne man gjort et varp hvis det ikke var for dumme regler.",
+      "key": "d33f9083a225556b",
+      "author": "Phaph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phaph",
+      "posted_relative": "for 21 t siden",
+      "text": "· Når kan jeg tidligst selge for fortsatt å få utbytte? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 84,
+      "char_count": 75,
       "has_link": false
     },
     {
-      "key": "12013af3fe5448fa",
-      "author": "kharid",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kharid",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "På tide å trø inn her? Faller etter xdate.",
+      "key": "fd3d92a47bcc495e",
+      "author": "Hfrank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hfrank",
+      "posted_relative": "for 1 min siden",
+      "text": "· så vent kharid ..................",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 42,
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "55748fa85d79d0c5",
+      "author": "Andreas_81",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andreas_81",
+      "posted_relative": "for 1 t siden",
+      "text": "Mandag!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
       "has_link": false
     }
   ]
