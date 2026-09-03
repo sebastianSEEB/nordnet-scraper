@@ -1,22 +1,53 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-03T18:14:11.922831+00:00",
+  "scraped_at": "2026-09-03T21:31:13.157643+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "d8b398ae58685d00",
-      "author": "Bjorn7",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjorn7",
-      "posted_relative": "for 12 min siden",
-      "text": "Aksjen det var stor tro på for ett år siden. Som faller og faller. Godt flyene holder seg i lufta da😆",
+      "key": "4fcc204e394588aa",
+      "author": "Analytikeren77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/analytikeren77",
+      "posted_relative": "for 1 t siden",
+      "text": "Sommeren 2027 https://www.dagbladet.no/nyheter/kan-bli-den-kraftigste-noensinne/85106852",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.dagbladet.no/nyheter/kan-bli-den-kraftigste-noensinne/85106852"
+      ],
+      "char_count": 88,
+      "has_link": true
+    },
+    {
+      "key": "8874139e190139ee",
+      "author": "Bjorn7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjorn7",
+      "posted_relative": "for 3 t siden",
+      "text": "Aksjen det var stor tro på for ett år siden. Som faller og faller. Godt flyene holder seg i lufta da😆 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
       "links": [],
-      "char_count": 101,
+      "char_count": 121,
+      "has_link": false
+    },
+    {
+      "key": "3eee73c0ca56a6d4",
+      "author": "EOB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eob",
+      "posted_relative": "for 1 t siden",
+      "text": "· Du mente Beartapp12 antar jeg... da må det være et bearmarket innlegg..... 🤣😅😂",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
       "has_link": false
     }
   ]

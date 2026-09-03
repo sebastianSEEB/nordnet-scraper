@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-03T18:16:19.948067+00:00",
+  "scraped_at": "2026-09-03T21:33:27.967747+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8127c337948efe11",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": "for 28 min siden",
+      "text": "Legg ut lenken på short posisjon så kan vi andre tolke det , ellers så blir det bare svada fra deg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ]
 }

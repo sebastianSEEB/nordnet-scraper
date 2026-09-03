@@ -1,9 +1,25 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-03T18:14:56.930593+00:00",
+  "scraped_at": "2026-09-03T21:31:59.605734+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d5300c7274049150",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 2 t siden",
+      "text": "Investtech har Elk som dagens case i morgen onsdag steg kursen ytterligere og gikk til alle tiders rekordnivå. Den tidligere motstanden ved 34 kroner ble brutt på økende volum, og et nytt kjøpssignal ble utløst. Investtech score på 97 poeng rangeres Elkem 4. september helt oppe i toppen på Oslo Børs.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 301,
+      "has_link": false
+    }
+  ]
 }

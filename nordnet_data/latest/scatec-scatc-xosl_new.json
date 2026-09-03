@@ -1,9 +1,27 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-03T18:14:53.120325+00:00",
+  "scraped_at": "2026-09-03T21:31:55.796345+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "95726cbbb87e3750",
+      "author": "tommy00",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tommy00",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.tu.no/artikler/norges-ukjente-sol-gigant-apner-giga-prosjekt-i-egypt/576458",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.tu.no/artikler/norges-ukjente-sol-gigant-apner-giga-prosjekt-i-egypt/576458"
+      ],
+      "char_count": 87,
+      "has_link": true
+    }
+  ]
 }

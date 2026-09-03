@@ -1,9 +1,56 @@
 {
   "slug": "klaveness-combination-carriers-kcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/klaveness-combination-carriers-kcc-xosl",
-  "scraped_at": "2026-09-03T18:13:04.235949+00:00",
+  "scraped_at": "2026-09-03T21:30:05.322175+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "100514fbf1cfd629",
+      "author": "Reder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reder",
+      "posted_relative": "for 2 t siden",
+      "text": "Blir overasket om ikke vi får en pen oppgang i morgen; https://www.finansavisen.no/shipping/2026/09/03/8377797/kjopte-klaveness-aksjer-under-storsalg-produktmarkedet-har-noen-veldig-gode-ar-foran-seg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/09/03/8377797/kjopte-klaveness-aksjer-under-storsalg-produktmarkedet-har-noen-veldig-gode-ar-foran-seg"
+      ],
+      "char_count": 199,
+      "has_link": true
+    },
+    {
+      "key": "731310bb20d5fbeb",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 2 t siden",
+      "text": "Men man vil jo alltid lure på hvorfor han selger når han egentlig bare kunne øket utbyttene hvis han trenger penger…?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    },
+    {
+      "key": "feb6d21621d4ced4",
+      "author": "Blackfrog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blackfrog",
+      "posted_relative": "for 2 t siden",
+      "text": "Han gutten der har skjønt det han, smarting.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }
