@@ -1,9 +1,23 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-09-02T22:12:58.743688+00:00",
+  "scraped_at": "2026-09-03T00:56:03.640967+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d8a8d9f69c979733",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": null,
+      "text": "30. aug. AF ja….kanskje du kan tjene penger som aksjonær, som leverandør eller underentreprenør vil du tape penger.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    }
+  ]
 }
