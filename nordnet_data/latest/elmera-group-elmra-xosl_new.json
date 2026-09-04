@@ -1,23 +1,26 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-04T15:29:30.683449+00:00",
+  "scraped_at": "2026-09-04T18:47:10.720411+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "4d674b9d0d7f33d3",
-      "author": "grenssaks",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grenssaks",
-      "posted_relative": "for 3 t siden",
-      "text": "Kanskje de må jobbe litt for å nå 90%, selv har jeg akseptert.",
-      "reply_count": 1,
+      "key": "a7d88107b563b6ac",
+      "author": "Rototiller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rototiller",
+      "posted_relative": null,
+      "text": "31. aug. Hvorfor er tilbudet om oppkjøp kunn tilgjengelig for følgende kontotyper på Nordnet: IKZ og IPA ??? https://www.nordnet.no/corporateactions/group/151432 har noen med andre kontotyper forsøkt Pareto's løsning? https://paretosec.com/updates/transactions Er det rett på en flekk at de med ASK eller andre kontotyper skal benytte en annen kontofører for å godta tilbudet?",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 62,
-      "has_link": false
+      "links": [
+        "https://paretosec.com/updates/transactions",
+        "https://www.nordnet.no/corporateactions/group/151432"
+      ],
+      "char_count": 376,
+      "has_link": true
     }
   ]
 }

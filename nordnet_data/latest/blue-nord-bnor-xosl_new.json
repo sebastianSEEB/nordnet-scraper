@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-04T15:24:20.224633+00:00",
+  "scraped_at": "2026-09-04T18:42:15.033562+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a4485977642730ff",
+      "author": "Leif K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leif-k",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen som vil ta seg bryet med å forklare forskjellen på tilbakeføring av kapital og utbytte? Og hva som er tilfellet her med BNOR",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    }
+  ]
 }

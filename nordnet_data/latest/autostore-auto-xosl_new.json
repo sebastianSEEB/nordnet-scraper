@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-04T15:26:45.728405+00:00",
+  "scraped_at": "2026-09-04T18:44:40.790338+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8d3f009936532679",
+      "author": "Det kan alltid bli verre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/det-kan-alltid-bli-verre",
+      "posted_relative": "for 2 t siden",
+      "text": "Kan det tenkes at AutoStore i større grad tilbyr storkunder også å drifte lageret/holde lageret? Selvfølgelig for en pris. Litt på samme vis som selskaper tilbyr data lagring.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 175,
+      "has_link": false
+    }
+  ]
 }

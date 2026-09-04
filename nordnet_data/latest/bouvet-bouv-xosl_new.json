@@ -1,9 +1,55 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-04T15:26:14.790759+00:00",
+  "scraped_at": "2026-09-04T18:44:10.220314+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e7b227e98bc79bc6",
+      "author": "ruuno88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuno88",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://youtube.com/shorts/kI8OdZYqAzs?is=4wpOkxh2IPDOIAFM",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://youtube.com/shorts/kI8OdZYqAzs?is=4wpOkxh2IPDOIAFM"
+      ],
+      "char_count": 60,
+      "has_link": true
+    },
+    {
+      "key": "61e356b69e38ec37",
+      "author": "Rogdogg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rogdogg",
+      "posted_relative": "for 1 t siden",
+      "text": "Fra Landkreditt utbytte august oppdatering: Aller mest gledelig i rapportsesongen var dog de veldig gode tallene fra Bouvet. Markedet har i lang tid fryktet hvordan AI vil slå på IT-konsulentene og kursene har stupt. Da er det godt å høre ledelsen kommunisere om bedre markeder, økt oppdragspågang og flere ansatte for andre kvartal på rad. Samtidig leverer selskapet på viktige finansielle parametre, ikke minst lover driftsmarginen på 12,5% i kvartalet godt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 460,
+      "has_link": false
+    },
+    {
+      "key": "3180003ed85b2f47",
+      "author": "ruuno88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuno88",
+      "posted_relative": "for 2 t siden",
+      "text": "Her eg også en lekse som er litt viktig. Ikke vis dine pensjon før det gjordt, og ver forsiktig nå, spessielt nå når Ai tar over mer og mer. Så hvor mange sekunder å kjenne igjen ett ansikt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 190,
+      "has_link": false
+    }
+  ]
 }

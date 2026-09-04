@@ -1,51 +1,41 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-04T15:22:57.592456+00:00",
+  "scraped_at": "2026-09-04T18:40:52.040397+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "246d092a09cfb7ef",
-      "author": "Kjell100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
-      "posted_relative": "for 5 t siden",
-      "text": "1 måned til høysesongen begynner! For nå er det lavsesong! Ifølge Pareto Securities ventes også aframaxratene å få positive ringvirkninger, og meglerhuset understreker at selv om 2026 er et svært unormalt år, er markedet fortsatt rundt en måned unna høysesongen. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
-      "links": [],
-      "char_count": 282,
-      "has_link": false
-    },
-    {
-      "key": "eabf28cbec4ce843",
-      "author": "Leffe junior",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leffe-junior",
-      "posted_relative": "for 2 t siden",
-      "text": "· Nope - men dette innlegget er informativt for bl.a. Torm, Hafnia og Scorpio eiere. Og for øvrig enig med Pareto og deg Kjel100:-)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 131,
-      "has_link": false
-    },
-    {
-      "key": "2a66af89fb7e3e96",
+      "key": "6f1f841c78e38a14",
       "author": "ks1977",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
       "posted_relative": "for 3 t siden",
-      "text": "I følge feeden på siden her er kursmålet 90 NOK - kanskje noen har hørt på Axel Styrman? :)",
+      "text": "Jeg liker å gnåle om EEXI/CII med ujevne mellomrom, men må ikke glemme snakket om karbonavgift (EU har jo allerede sin ETS).  Det alene kan nok ikke dytte de gamle damene ut av et sterkt marked, men det vil øke gapet mellom de og ECO (og kanskje også gjøre ting mer ineffektivt pga kompleksiteten???) - og kommer vi inn i et svekket marked så kan det være noe som gir kroken på døra for damene (kanskje det også kan være det som dytter noen av damene over kanten i et sterkt marked når EEXI/CII begynner å bite?). Vi får se senere i høst, men p.t så er det muligheter https://gcaptain.com/imo-net-zero-framework-holds-ground-after-latest-round-of-climate-talks/",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://gcaptain.com/imo-net-zero-framework-holds-ground-after-latest-round-of-climate-talks/"
+      ],
+      "char_count": 661,
+      "has_link": true
+    },
+    {
+      "key": "da6bb68ff265475a",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 1 t siden",
+      "text": "Flåteoppdatering mini Dørgende kjedelige på VLCC-fronten (siden firerbanden fortsatt kjører uten AIS), men Nissos Rhenia har nå passert sydspissen av India - neste oppdatering er Fujairah og/eller AIS-\"problemer\"? Folegandros (15,6m) lå til sjøss utenfor Gythio, men er nå fullastet og avreise er oppgitt til Pachi 09.08 - så STS? Destinasjon Port Said ETA 06.09 Kimolos (9,0m) ser ut til å være på STS-transfer i middelhavet i hele august, sist utenfor Port Said/Israel 27.08. Fortsatt utenfor Port Said/Israel 29.08 (AIS på). Ditto 02.09. Seilt opp til Piraeus 04.09 Nissos Piperi (9,4m)  STSet og seilte tom fra Port Said 31.08. Ankom Algeciras 04.09 - bunkring? Nissos Sifnos (7,0m), den \"droneutsatte\",  losset (STS) i Lakonikos-bukta. Ankret opp utenfor Tuzla (nær Istanbul) - reparasjon eller Svartehavet? (dybgang redusert 02.09) Fortøyd 04.09 Nissos Sikinos (15,6m) synes også å ha hatt STS i middelhavet i første halvdel av august. Pr 21.08 var hun i Svartehavet og flagget \"CHEVRON-DST.CPC TERM\", lastet 24.08. Ankom Cartagena (ankret) 03.09 Poliegos (9,3m) lastet i Sohar 09.08. Fortøyd i Singapore 27.08. Delvis losset 29.08 og er nå bare ankret opp utenfor Singapore (samme status 31.08). Fortøyd igjen 01.09 og losset 03.09. Destinasjon Fujairah (?) ETA 15.09",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 91,
+      "char_count": 1274,
       "has_link": false
     }
   ]
