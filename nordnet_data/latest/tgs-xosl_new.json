@@ -1,9 +1,26 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-09-04T06:46:50.720225+00:00",
+  "scraped_at": "2026-09-04T11:47:12.094477+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "999784516a970fa9",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": null,
+      "text": "31. aug. I Børsintervjuet i Finansavisen i dag har analytiker Erik Aspen Fosså i SB1 Markets en meget god analyse på olje-/offshoresektoren. Han har stor tro på Moreld, mens TGS får en klar salgsanbefaling. Årsaken er at det er få tegn til en holdningsendring hos oljeselskapene, og SB1 Markets er derfor redde for at markedet overvurderer hvor mye og hvor fort leteaktiviteten kan snu, forklarer Fosså. – Derfor bør man selge TGS, der våre anslag for kontant-ebitda i 2027–2028 er 10–15 prosent lavere enn konsensus og fri kontantstrøm-yield bare er rundt syv prosent på våre estimater.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        4
+      ],
+      "links": [],
+      "char_count": 587,
+      "has_link": false
+    }
+  ]
 }

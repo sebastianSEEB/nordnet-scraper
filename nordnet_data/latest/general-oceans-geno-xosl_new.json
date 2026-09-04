@@ -1,9 +1,39 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-04T06:49:34.595474+00:00",
+  "scraped_at": "2026-09-04T11:50:03.871899+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "40deb1ce7aef1843",
+      "author": "Gellenen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gellenen",
+      "posted_relative": null,
+      "text": "31. aug. Kursen svinger og preges av lav omsetning,vær tolmodig,så ordner dette seg!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "af74620185baf8ac",
+      "author": "Aksjoman007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjoman007",
+      "posted_relative": "for 3 t siden",
+      "text": "Kjedelig utvikling",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

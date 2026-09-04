@@ -1,9 +1,41 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-09-04T06:45:24.566782+00:00",
+  "scraped_at": "2026-09-04T11:45:52.368043+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6907166db94552b1",
+      "author": "Tompalompabörshaj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tompalompaborshaj",
+      "posted_relative": "for 3 t siden",
+      "text": "· Ser man på Q2, så ser det ifølge meg lovende ut på ett års sikt, så en god mulighet til å gå inn hvis man har en langsiktig sparing.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "915ae8c7bdd362b6",
+      "author": "Olavl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olavl",
+      "posted_relative": null,
+      "text": "31. aug. kjøpsmulighet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

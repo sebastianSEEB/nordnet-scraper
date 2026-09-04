@@ -1,22 +1,37 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-04T06:46:09.206223+00:00",
+  "scraped_at": "2026-09-04T11:46:29.868235+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "f10e78c213118d29",
-      "author": "Jeykey",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jeykey",
-      "posted_relative": "for 17 min siden",
-      "text": "Vil ikke si det er positivt, men samtidig så har Varner vært en veldig passiv eier, som (så vidt jeg vet) ikke har vært en del av styret heller.",
+      "key": "258c07b14d68d44d",
+      "author": "Gråbein 44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
+      "posted_relative": null,
+      "text": "31. aug. · Er det kun jeg som undrer meg over hvorfor analysefirmaer her på Nordnet legger inn sine analyser anonymt? 🤑🥸",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "f8af2f574294f8a0",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 2 t siden",
+      "text": "Noen som har sjekket siste status på nedsalget? Hvir mye har de igjen?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 144,
+      "char_count": 70,
       "has_link": false
     }
   ]

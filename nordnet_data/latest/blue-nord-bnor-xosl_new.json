@@ -1,9 +1,54 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-04T06:44:06.960428+00:00",
+  "scraped_at": "2026-09-04T11:44:38.510934+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "101bdbf037cd6647",
+      "author": "Slazir",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/slazir",
+      "posted_relative": "for 4 t siden",
+      "text": "Goldman Sachs har økt eksponeringen sin i BlueNord betydelig. Den samlede rapporterte posisjonen har gått fra 6,15 % til 7,70 % av stemmerettighetene. Aksjeeksponeringen har økt fra 2,57 % til 3,56 %, samtidig som eksponeringen gjennom finansielle instrumenter har økt fra 3,58 % til 4,15 %.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        19,
+        1
+      ],
+      "links": [],
+      "char_count": 291,
+      "has_link": false
+    },
+    {
+      "key": "9d13f6ea55fc0fab",
+      "author": "Revisorsrambo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revisorsrambo",
+      "posted_relative": "for 4 t siden",
+      "text": "· Gapet mot VÅR vil lukkes jo nærmere transaksjonsdatoen vi kommer. Bedre å eie BNOR enn VÅR fordi den handles med rabatt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "217fb5f460b36e2b",
+      "author": "LSAS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lsas",
+      "posted_relative": "for 5 min siden",
+      "text": "Da vil jeg anta at Goldman Sachs syns dealen er ok",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

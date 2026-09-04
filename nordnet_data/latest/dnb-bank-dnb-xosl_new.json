@@ -1,9 +1,39 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-04T06:47:55.520068+00:00",
+  "scraped_at": "2026-09-04T11:48:20.849688+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0b8e0476bcc0022e",
+      "author": "MissFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missfox",
+      "posted_relative": "for 2 døgn siden",
+      "text": "· Kjøpte meg inn i dag 🥳 en liten post basert på blant annet dette: Banken ser støtte fra forbedret makroøkonomi, høyere renter, sterkere volumer og bredere marginer. Sveriges BNP forventes å vokse rundt 2 prosent 2026-2027, omtrent dobbelt så raskt som euroområdet. Danske Bank antas samtidig å tilby en totalavkastning på 9-10 prosent. Kursmål 130 kr, som jeg tror vil bli passert fremover. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 412,
+      "has_link": false
+    },
+    {
+      "key": "2c7c101da00d30c2",
+      "author": "nimrooz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nimrooz",
+      "posted_relative": "for 4 t siden",
+      "text": "· Sverige har valg rett rundt hjørnet, og hvis regjeringen skifter, tipper jeg at veksten ikke vil skje. Så jeg ville ikke plassere pengene mine i noe som er avhengig av svensk vekst akkurat nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    }
+  ]
 }

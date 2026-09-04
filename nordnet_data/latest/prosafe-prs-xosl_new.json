@@ -1,9 +1,25 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-04T06:50:23.011867+00:00",
+  "scraped_at": "2026-09-04T11:50:56.676153+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f0b63dc123cf927b",
+      "author": "Botn Bruk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/botn-bruk",
+      "posted_relative": "for 4 t siden",
+      "text": "Forholdsvis beskjedent nedsalg fra tidligere kreditorer tirsdag, men de reduserte likevel med ca. 300 000 aksjer samlet, der hoveddelen var at største restkonto reduserte med 204000 aksjer til 5,66 mill. aksjer.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 211,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-04T06:43:59.224578+00:00",
+  "scraped_at": "2026-09-04T11:44:31.129404+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fca16b5d884ec354",
+      "author": "Olsen71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olsen71",
+      "posted_relative": "for 1 t siden",
+      "text": "Tror ikke den er fastsatt ennå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "57157e8b33a38917",
+      "author": "Henrik1971",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henrik1971",
+      "posted_relative": "for 2 t siden",
+      "text": "· Når er x-dagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

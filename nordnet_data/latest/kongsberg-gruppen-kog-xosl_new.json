@@ -1,9 +1,71 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-04T06:47:59.315935+00:00",
+  "scraped_at": "2026-09-04T11:48:24.652737+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "6bdef155a476db3e",
+      "author": "Telletrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/telletrade",
+      "posted_relative": "for 4 t siden",
+      "text": "Ikke uenig det, men er ikke mye minus det skal være før det begynner :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "356300f28580b227",
+      "author": "Persan 66",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/persan-66",
+      "posted_relative": "for 48 min siden",
+      "text": "Er glad jeg har gav kurs på 197 håper vi ser 500 i år",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "dd2c446723b7b6da",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 4 t siden",
+      "text": "Spent på kommentarfeltet i dag 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        8
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "fdd977b055d90f2e",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 2 t siden",
+      "text": "Tørker opp på salgssiden…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,51 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-04T06:47:01.865197+00:00",
+  "scraped_at": "2026-09-04T11:47:23.109578+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a0bc42fc5bb7fad6",
+      "author": "Tottentotti",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tottentotti",
+      "posted_relative": "for 3 t siden",
+      "text": "Hei. Noen som kan forklare hvorfor denne aksjen ikke vipper over 40 kr. Straks den er nær der-går den alltid ned......Virker som en veldig solid aksje- så når bryter den igjennom 40 kr grensa?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 192,
+      "has_link": false
+    },
+    {
+      "key": "39fb24fd2ebd1c87",
+      "author": "Grider",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grider",
+      "posted_relative": "for 1 t siden",
+      "text": "Hedging i dette tilfelle er at Okea har «låst» noe av produksjonen til en fast pris",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "a3d5992b1ad6e3e0",
+      "author": "fjell3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjell3",
+      "posted_relative": "for 37 min siden",
+      "text": "Ken selger i dag???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

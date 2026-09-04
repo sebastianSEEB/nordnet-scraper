@@ -1,9 +1,25 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-09-04T06:48:14.805674+00:00",
+  "scraped_at": "2026-09-04T11:48:39.740159+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ce52ef6851304c94",
+      "author": "1Jonathan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/1jonathan",
+      "posted_relative": null,
+      "text": "31. aug. Jaja, fin og trygg aksje dette",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

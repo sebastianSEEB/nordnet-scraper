@@ -1,9 +1,65 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-04T06:46:39.760170+00:00",
+  "scraped_at": "2026-09-04T11:46:59.812414+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "f5a4d81946348f51",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 3 t siden",
+      "text": "Interessant signal fra Amazon: Amazon søker nå Manager – Site Deployment, OneMHS, med ansvar for utrulling, installasjon, integrasjon og commissioning på flere lokasjoner.Det interessante er at Amazon eksplisitt skriver «5 people per IBIS/AutoStore site» i bemanningsplanen. Det er verdt å merke seg ordet «per». Amazon bygger altså en deployment-organisasjon hvor AutoStore inngår som en konkret løsning på site-nivå. Ser stadig mer som en løsning Amazon forbereder seg på å kunne rulle ut i skala.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14,
+        6
+      ],
+      "links": [],
+      "char_count": 499,
+      "has_link": false
+    },
+    {
+      "key": "5d68fc88925bba3a",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 5 t siden",
+      "text": "Løsningen gjør det mulig å lagre og hente hele kartonger direkte i gridet – ikke bare varer i plastkasser. Dette kan utvide AutoStores marked betydelig og øke verdien per installasjon. Foreløpig er det en pilot, men en viktig produktmilepæl dersom løsningen viser seg robust og skalerbar.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 288,
+      "has_link": false
+    },
+    {
+      "key": "2fdad6b3a60ee931",
+      "author": "BM1985",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bm1985",
+      "posted_relative": "for 2 t siden",
+      "text": "Den ligger ute på LinkedIn som publisert i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "fed42eadb086c543",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 1 t siden",
+      "text": "· Amazone 💵💵💵🚀🚀🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

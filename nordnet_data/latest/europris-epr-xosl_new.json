@@ -1,9 +1,36 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-09-04T06:45:51.052610+00:00",
+  "scraped_at": "2026-09-04T11:46:14.797341+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b244eee447f1ebfd",
+      "author": "Sjakkspiller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjakkspiller",
+      "posted_relative": null,
+      "text": "31. aug. I 21/22 hadde de ordinært utbytte+ekstraordinært, derfor står det bokført som to utbytter på samme dato. Men det er i utgangspunktet ett utbytte i året fra Europris",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 173,
+      "has_link": false
+    },
+    {
+      "key": "a27a87d5a490800f",
+      "author": "Kleo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
+      "posted_relative": "for 4 t siden",
+      "text": "SEB nedjusterer kursmålet på Europris til 104 kroner (113),  gjentar kjøpsanbefaling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

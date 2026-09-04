@@ -1,9 +1,39 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-04T06:45:58.587142+00:00",
+  "scraped_at": "2026-09-04T11:46:22.391808+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "995154e35375e789",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 15 t siden",
+      "text": "Norne er et useriøst Meglerhus eid av noen banker.. holder til på Vestlandet og burde vite sakene sine bedre en dette her. Austevoll er en fergetur unna. Men sånn går det når man ik får oppmerksomhet da må man komme med noe oppgulp og her er vi. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 265,
+      "has_link": false
+    },
+    {
+      "key": "09ea379a0635b6bb",
+      "author": "Funkemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funkemannen",
+      "posted_relative": "for 4 t siden",
+      "text": "Er det en av mine aksjer jeg slapper av med så er det denne. Økte heller litt i går, får betalt til jul og kanskje påske.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    }
+  ]
 }

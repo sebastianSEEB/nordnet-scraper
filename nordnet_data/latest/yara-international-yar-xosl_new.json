@@ -1,9 +1,53 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-09-04T06:48:22.274755+00:00",
+  "scraped_at": "2026-09-04T11:48:47.239343+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b0e9a0df331a93c9",
+      "author": "IsoMaha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isomaha",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hele sektoren er fruktbar grunn for investorer https://finance.yahoo.com/m/ade3ed86-f98b-31ae-b255-1d6c7760e993/this-sector-is-fertile-ground.html",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://finance.yahoo.com/m/ade3ed86-f98b-31ae-b255-1d6c7760e993/this-sector-is-fertile-ground.html"
+      ],
+      "char_count": 148,
+      "has_link": true
+    },
+    {
+      "key": "2190044b73d1e5f6",
+      "author": "Harmony",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harmony",
+      "posted_relative": "for 4 t siden",
+      "text": "· Ytterligere en bank som totalt neglisjerer at 40% av verdensproduksjonen er under trussel, kan bare ikke finne ut hvordan man kan sette salg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    },
+    {
+      "key": "12acd5ac4b31a4c0",
+      "author": "Jagger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jagger",
+      "posted_relative": "for 2 t siden",
+      "text": "Det som er mer overraskende, er hvor mange som hører på analytikere det er bare støy 😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    }
+  ]
 }

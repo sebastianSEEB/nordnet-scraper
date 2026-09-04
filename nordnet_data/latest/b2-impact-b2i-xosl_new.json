@@ -1,22 +1,40 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-04T06:45:20.855450+00:00",
+  "scraped_at": "2026-09-04T11:45:48.474007+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c1a40aba7973ae87",
-      "author": "hanenog4høner",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanenog4hner",
-      "posted_relative": "for 24 min siden",
-      "text": "Flotte utbytter",
+      "key": "a1295cde04e6f693",
+      "author": "Nabogutten83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nabogutten83",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Kjøpte litt her i dag. Blir artig å følge den på veien videre :) Hva tenker dere som har hatt den en stund? Fornøyd med utbetalingen? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        4,
+        2
+      ],
       "links": [],
-      "char_count": 15,
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "b2b37332b69cfbf3",
+      "author": "FraByenTilSkogen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/frabyentilskogen",
+      "posted_relative": "for 2 t siden",
+      "text": "Veldig fornøyd så langt!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 24,
       "has_link": false
     }
   ]

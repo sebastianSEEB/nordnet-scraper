@@ -1,24 +1,50 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-04T06:49:26.717030+00:00",
+  "scraped_at": "2026-09-04T11:49:56.345636+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "cd4c7dd565950f4f",
-      "author": "Erinor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erinor",
-      "posted_relative": "for 2 t siden",
-      "text": "Tvenge øker med 1.2 mill aksjer 👌🏻",
+      "key": "c3354480b390719c",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 26 min siden",
+      "text": "Hvem selger så billig? Computere,? Nettkunder?. Disse profesjonelle får jo unike muligheter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "f116712e55b3ee7b",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": null,
+      "text": "31. aug. Den nye kongen av innkreving. De begynner snart med buy backs og utbytte",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        10
       ],
       "links": [],
-      "char_count": 34,
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "5030cfd9a5ab38d6",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": "for 2 t siden",
+      "text": "Alle kan ta feil",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
       "has_link": false
     }
   ]

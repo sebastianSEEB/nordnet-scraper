@@ -1,9 +1,54 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-04T06:44:10.722225+00:00",
+  "scraped_at": "2026-09-04T11:44:42.156119+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "d28cb5de51b14304",
+      "author": "RoKri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rokri",
+      "posted_relative": "for 3 t siden",
+      "text": "Ser ikke ut som den vil etablere seg over 168, hadde vært et positivt brudd.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "28466d50a6d1636e",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 4 t siden",
+      "text": "Har vi nok volum til å bryte gjennom? 🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "8c2e62c623de30d8",
+      "author": "Ivar_gjerd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ivar_gjerd",
+      "posted_relative": "for 4 t siden",
+      "text": "Seriøst?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

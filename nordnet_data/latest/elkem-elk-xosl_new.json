@@ -1,9 +1,23 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-04T06:45:06.016986+00:00",
+  "scraped_at": "2026-09-04T11:45:32.282524+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "31a481a68cb4895b",
+      "author": "Funkemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funkemannen",
+      "posted_relative": "for 1 t siden",
+      "text": "Solgte meg ut i går, forventet nedgang, men den gang ei. Selvsagt glad på andre sine vegne. Hadde investech en ny motstand vi kan følge med på ?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    }
+  ]
 }

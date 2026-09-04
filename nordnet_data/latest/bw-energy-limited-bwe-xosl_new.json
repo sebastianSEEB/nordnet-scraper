@@ -1,9 +1,25 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-09-04T06:47:21.037738+00:00",
+  "scraped_at": "2026-09-04T11:47:42.090243+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7ca12edcfbb750e7",
+      "author": "cab4me",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cab4me",
+      "posted_relative": null,
+      "text": "31. aug. Gikk 195k med aksjer utenom børs på 56.00",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

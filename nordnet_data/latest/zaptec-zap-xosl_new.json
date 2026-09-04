@@ -1,9 +1,99 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-04T06:44:26.924670+00:00",
+  "scraped_at": "2026-09-04T11:44:56.965205+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "f971e29f84182d7d",
+      "author": "DT11",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dt11",
+      "posted_relative": "for 8 min siden",
+      "text": "· Frankrike. Salget av elbiler i august 2026 Frankrike er opp med 113% sammenlignet med året før. 36154 elbiler kom på veiene i Frankrike i august 2026 😎👍 https://www.aaa-data.fr/actualites/communique-de-presse-du-1er-septembre-2026/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.aaa-data.fr/actualites/communique-de-presse-du-1er-septembre-2026/"
+      ],
+      "char_count": 233,
+      "has_link": true
+    },
+    {
+      "key": "967144fa35d994e7",
+      "author": "DT11",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dt11",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden UK stiger 27,7% til 28063 rene elbiler - august 2026 https://www.smmt.co.uk/evs-lift-august-new-car-market-but-september-is-key-test/?utm_source=chatgpt.com",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.smmt.co.uk/evs-lift-august-new-car-market-but-september-is-key-test/?utm_source=chatgpt.com"
+      ],
+      "char_count": 184,
+      "has_link": true
+    },
+    {
+      "key": "a8e3c9ff2eaf90f3",
+      "author": "ekspokongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekspokongen",
+      "posted_relative": "for 17 t siden",
+      "text": "Zaptec konkurrerer vel sterkt mot Teslas og deres infrastruktur? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "4bc5b8a48e81d45e",
+      "author": "Jyde",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jyde",
+      "posted_relative": "for 3 t siden",
+      "text": "· Tesla er overveiende hurtigladere, slett ikke samme segment.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "f98a5ded0d98001a",
+      "author": "Fattiglusa5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusa5",
+      "posted_relative": "for 4 t siden",
+      "text": "Har denne aksjen en form for alleri for å ligge over 50 kr?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "f64a06f6ef4dfaba",
+      "author": "Avva",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avva",
+      "posted_relative": "for 1 t siden",
+      "text": "· Kilde eller kun din påstand?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

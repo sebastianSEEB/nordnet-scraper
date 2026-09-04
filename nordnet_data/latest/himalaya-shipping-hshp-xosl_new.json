@@ -1,9 +1,38 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-09-04T06:43:13.061251+00:00",
+  "scraped_at": "2026-09-04T11:43:48.122964+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fde434ba536cf5ce",
+      "author": "bulldahl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulldahl",
+      "posted_relative": "for 1 t siden",
+      "text": "· HimalayaShip  4 Sept🚀 BCI 54,791 +3,493👀👀 MTD 49,401 YTD 31,937 2026 FFA 47,000 $HSHP",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "a78d5fa670491ded",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 1 t siden",
+      "text": "· For en uke 💪",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }
