@@ -1,9 +1,23 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-03T23:41:49.719545+00:00",
+  "scraped_at": "2026-09-04T01:54:42.609949+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "efb732cda5aa6fbf",
+      "author": "termin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/termin",
+      "posted_relative": "for 10 min siden",
+      "text": "· Han kuttet rundt 10% av sitt innehav.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }
