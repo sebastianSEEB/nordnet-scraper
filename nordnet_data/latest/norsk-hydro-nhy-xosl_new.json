@@ -1,9 +1,26 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-09-04T01:58:13.012999+00:00",
+  "scraped_at": "2026-09-04T06:48:11.058516+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a70ab5366c0d55db",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": null,
+      "text": "31. aug. · Endret https://e24.no/internasjonal-oekonomi/i/43X6Xa/ny-toppsjefgruppe-vil-redde-europa https://e24.no/internasjonal-oekonomi/i/pBV8W1/eu-truer-med-kina-grep-maa-snart-vise-handling",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/internasjonal-oekonomi/i/43X6Xa/ny-toppsjefgruppe-vil-redde-europa",
+        "https://e24.no/internasjonal-oekonomi/i/pBV8W1/eu-truer-med-kina-grep-maa-snart-vise-handling"
+      ],
+      "char_count": 193,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-04T01:58:28.380513+00:00",
+  "scraped_at": "2026-09-04T06:48:25.992247+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2422af1955a373dd",
+      "author": "Valtra-G135",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/valtra-g135",
+      "posted_relative": "for 34 min siden",
+      "text": "Bare å kjøpe nå eller ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-04T01:58:09.399000+00:00",
+  "scraped_at": "2026-09-04T06:48:07.341967+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2d02dd05863ddd60",
+      "author": "-Mordi-",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mordi-1",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Kjekt å se at denne endelig er på vei oppover",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

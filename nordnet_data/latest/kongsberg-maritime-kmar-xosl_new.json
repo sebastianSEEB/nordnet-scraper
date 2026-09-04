@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-04T01:56:49.615329+00:00",
+  "scraped_at": "2026-09-04T06:46:47.034430+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "39c4e7b940bb7d5e",
+      "author": "rakafant123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rakafant123",
+      "posted_relative": "for 18 t siden",
+      "text": "· Nytt kursmål sp1markets. 75 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "040505ed650c7b6a",
+      "author": "Errons",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/errons",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvor er denne analysen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

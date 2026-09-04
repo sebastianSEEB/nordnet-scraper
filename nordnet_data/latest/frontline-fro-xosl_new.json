@@ -1,9 +1,39 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-04T01:52:45.804671+00:00",
+  "scraped_at": "2026-09-04T06:42:41.918674+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b30e7c448eafb4ea",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 12 t siden",
+      "text": "· Front Alta (2022 - Modern Scrubber) On Subs (Estimated Voyage CII: C 🟡) Petrobras Frontline $FRO (TCE: RV USD 226K @ 86 days / Actual USD 211K @ 92 days) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        3
+      ],
+      "links": [],
+      "char_count": 175,
+      "has_link": false
+    },
+    {
+      "key": "d019ec92e9561130",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 10 min siden",
+      "text": "Ser ut som at Petrobas ikke har fått med seg at september historisk sett er den verste måneden i lavsesongen :o",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    }
+  ]
 }

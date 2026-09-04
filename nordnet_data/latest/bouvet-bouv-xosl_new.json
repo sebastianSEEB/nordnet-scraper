@@ -1,9 +1,23 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-04T01:56:09.252326+00:00",
+  "scraped_at": "2026-09-04T06:46:09.206223+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f10e78c213118d29",
+      "author": "Jeykey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jeykey",
+      "posted_relative": "for 17 min siden",
+      "text": "Vil ikke si det er positivt, men samtidig så har Varner vært en veldig passiv eier, som (så vidt jeg vet) ikke har vært en del av styret heller.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    }
+  ]
 }

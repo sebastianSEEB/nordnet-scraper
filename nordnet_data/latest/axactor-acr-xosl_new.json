@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-04T01:59:28.306565+00:00",
+  "scraped_at": "2026-09-04T06:49:26.717030+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cd4c7dd565950f4f",
+      "author": "Erinor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erinor",
+      "posted_relative": "for 2 t siden",
+      "text": "Tvenge øker med 1.2 mill aksjer 👌🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

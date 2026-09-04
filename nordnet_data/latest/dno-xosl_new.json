@@ -1,9 +1,25 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-04T01:56:38.642182+00:00",
+  "scraped_at": "2026-09-04T06:46:35.966718+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "04a877da05af2a7a",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 1 t siden",
+      "text": "Samtidig ser jeg at du så og si har solgt deg ut  fantastisk. Så vet ikke hva du forsøker påvirke med slike ensidige innlegg for å svartmale mest mulig .  Pinocchio13 Pinocchio13 25. aug. logo-DNO Solgte en andel  DNO til 17,8 NOK Redusert posisjon med 50–100 %",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 261,
+      "has_link": false
+    }
+  ]
 }

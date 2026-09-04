@@ -1,9 +1,25 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-04T01:58:20.932228+00:00",
+  "scraped_at": "2026-09-04T06:48:18.516763+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ab5d21d7720a648e",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 6 min siden",
+      "text": "· https://www.investing.com/commodities/real-time-futures",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.investing.com/commodities/real-time-futures"
+      ],
+      "char_count": 57,
+      "has_link": true
+    }
+  ]
 }
