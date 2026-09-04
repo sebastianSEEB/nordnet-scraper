@@ -1,35 +1,50 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-09-04T11:46:14.797341+00:00",
+  "scraped_at": "2026-09-04T15:25:59.285279+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "b244eee447f1ebfd",
-      "author": "Sjakkspiller",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjakkspiller",
+      "key": "9a78ff27135739ff",
+      "author": "sjohansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjohansen",
       "posted_relative": null,
-      "text": "31. aug. I 21/22 hadde de ordinært utbytte+ekstraordinært, derfor står det bokført som to utbytter på samme dato. Men det er i utgangspunktet ett utbytte i året fra Europris",
+      "text": "19. aug. · Endret De norske merkevarene som eies av Eurorpis, selges med samme norske emballasje i ÖoB, ser jeg av de svenske kamapanjeavisene. Hvordan reagerer svenske forbrukere på det? De løper en risiko, sånn jeg ser det, ved å ikke tilpasse produktnavn/merking til svenske forbrukere. Hvis forbrukerne ikke forstår produktkonseptet eller navnet, gir ikke salget et uttrykk for produktets popularitet eller potensiale, tvert imot. Resultatene fra egne merkevarer vil snarere vise konsekvensen av mangelfull kommunikasjon.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 173,
+      "char_count": 525,
       "has_link": false
     },
     {
-      "key": "a27a87d5a490800f",
-      "author": "Kleo2",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
-      "posted_relative": "for 4 t siden",
-      "text": "SEB nedjusterer kursmålet på Europris til 104 kroner (113),  gjentar kjøpsanbefaling.",
+      "key": "1d0da9bd13a0fcf8",
+      "author": "QuidScio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quidscio",
+      "posted_relative": "for 2 t siden",
+      "text": "· Spurte en investeringsbank-konkurrents LLM Europris +0,06 %, har historisk sett hatt en policy om å betale ut et ordinært utbytte per år, ofte supplert med et ekstrautbytte når kontantstrømmen og balansen har tillatt det. Det er altså snarere ekstrautbyttene som har variert, enn at man har gått bort fra en modell med to faste utbyttetidspunkter.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 85,
+      "char_count": 349,
+      "has_link": false
+    },
+    {
+      "key": "6afe636be1aa383f",
+      "author": "QuidScio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quidscio",
+      "posted_relative": "for 2 t siden",
+      "text": "· ÖoB anses ikke som et merke av høy kvalitet, så jeg antar at lavere priser eller bedre kvalitet vil bli omfavnet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 114,
       "has_link": false
     }
   ]

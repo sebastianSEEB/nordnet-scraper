@@ -1,9 +1,41 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-09-04T11:49:16.844509+00:00",
+  "scraped_at": "2026-09-04T15:29:15.787674+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "66e01cde0366ba4a",
+      "author": "TrondS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tronds",
+      "posted_relative": null,
+      "text": "31. aug. Hva skjedde med utbytte for denne aksjen? Ser at også det historiske utbytte er borte. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    },
+    {
+      "key": "5d1ddcb33521a76a",
+      "author": "Janne 58",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/janne-58",
+      "posted_relative": null,
+      "text": "31. aug. · regn med omtrent 6,3–6,5 % direkteavkastning i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

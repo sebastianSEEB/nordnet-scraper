@@ -1,26 +1,44 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-04T11:47:03.479194+00:00",
+  "scraped_at": "2026-09-04T15:26:49.366785+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b62c50d3c731e5c8",
+      "key": "b22568f1c6a11178",
       "author": "Kalle1234",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": null,
-      "text": "31. aug. Innside kjøp  av styremedlem nå.  Det liker vi😊💪",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.intrafish.no/okonomi/lakseprisen-uendret-veldig-sterkt-gitt-de-enorme-volumene/2-1-2039450",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        11,
-        4
+        1
       ],
-      "links": [],
-      "char_count": 57,
-      "has_link": false
+      "links": [
+        "https://www.intrafish.no/okonomi/lakseprisen-uendret-veldig-sterkt-gitt-de-enorme-volumene/2-1-2039450"
+      ],
+      "char_count": 102,
+      "has_link": true
+    },
+    {
+      "key": "e5a9741cd0270715",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 2 t siden",
+      "text": "https://ilaks.no/lakseprisen-gar-sidelengs-i-marked-preget-av-historisk-hoye-salgsvolumer/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://ilaks.no/lakseprisen-gar-sidelengs-i-marked-preget-av-historisk-hoye-salgsvolumer/"
+      ],
+      "char_count": 90,
+      "has_link": true
     }
   ]
 }

@@ -1,97 +1,82 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-04T11:48:07.051998+00:00",
+  "scraped_at": "2026-09-04T15:27:58.851649+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 6,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "858998765ce54579",
-      "author": "Kjell100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "Dagens høye ratenivå vil vedvare gjennom 2027. Synd vi ikke har lengre kontrakter. TANK: ARCTIC SECURITIES TYDELIG MER POSITIV TIL SEKTOREN, LØFTER RATEESTIMATER https://www.nordnet.no/market/news",
+      "key": "bad09fd90aaa07c0",
+      "author": "AddsUp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/addsup",
+      "posted_relative": "for 2 t siden",
+      "text": "Kort og enkelt, kan lett bli:kort og forenklet. Går Du inn i en aksje som har steget 1200% på 12 måneder uten å gidde å lese Deg opp på alt som ligger åpent tilgjengelig, så ..............",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9
+        2
       ],
-      "links": [
-        "https://www.nordnet.no/market/news"
-      ],
-      "char_count": 196,
-      "has_link": true
+      "links": [],
+      "char_count": 188,
+      "has_link": false
     },
     {
-      "key": "7a7b310e74f5334c",
-      "author": "001390",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/001390",
-      "posted_relative": "for 2 t siden",
-      "text": "Det morsomme er at volumet er alt for lavt til å sperre og måten det gjøres på er komisk. Satt på siden, ventet til 13,06 og kjøpte en stor bolk som allerede har gitt en fin dagslønn. Takk til vedkommende for å gi bort penger",
+      "key": "bd34f9a52c88e3a1",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 3 t siden",
+      "text": "dette var nok en de store aktørene det ble omsatt 300k aksjer i et kjøp/salg ca 4 mill NKR",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 225,
+      "char_count": 90,
       "has_link": false
     },
     {
-      "key": "132b602f75caf57d",
-      "author": "001390",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/001390",
-      "posted_relative": "for 3 t siden",
-      "text": "Vedkommende som har salg inne på 150’ aksjer prøver enten å legge en sperre eller er usedvanlig lite smart i tilnærmingen. Nå har vedkommende jaget kursen fra 13.32 til 13.10",
+      "key": "ce7c48c62d6018c6",
+      "author": "opp og frem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/opp-og-frem",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva holder hunter group på med, beskriv kort og enkelt. Takk",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        1
+        7
       ],
       "links": [],
-      "char_count": 174,
+      "char_count": 60,
       "has_link": false
     },
     {
-      "key": "8de336e9b269d6ee",
-      "author": "MegaPenixInvestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/megapenixinvestor",
-      "posted_relative": "for 1 t siden",
-      "text": "Stemmer. Tenker at den trenden bør være indikativt for at mye juridisk usikkerhet er borte nå.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 94,
-      "has_link": false
-    },
-    {
-      "key": "162acf530a9fff5b",
-      "author": "nopetter",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 4 t siden",
-      "text": "Kommentaren er slettet.",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 23,
-      "has_link": false
-    },
-    {
-      "key": "8be0efc1759969f7",
+      "key": "f611395764c4346f",
       "author": "nokar",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
-      "posted_relative": "for 3 t siden",
-      "text": "Stiger jevnt ratene",
+      "posted_relative": "for 6 t siden",
+      "text": "Stiger jevnt ratene Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7,
-        1
+        11,
+        4
       ],
       "links": [],
-      "char_count": 19,
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "91c8486e586dc96a",
+      "author": "Axelrod1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
+      "posted_relative": "for 2 t siden",
+      "text": "· Har vi en oppdatering?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
       "has_link": false
     }
   ]

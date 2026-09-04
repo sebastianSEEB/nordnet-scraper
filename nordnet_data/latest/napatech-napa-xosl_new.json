@@ -1,101 +1,51 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-04T11:46:03.509990+00:00",
+  "scraped_at": "2026-09-04T15:25:48.063065+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 6,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "57549bd8729e4bea",
-      "author": "NorthbyNorthwest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
-      "posted_relative": "for 1 t siden",
-      "text": "· https://gimletlabs.ai/blog/announcing-series-b Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        3
-      ],
-      "links": [
-        "https://gimletlabs.ai/blog/announcing-series-b"
-      ],
-      "char_count": 68,
-      "has_link": true
-    },
-    {
-      "key": "199166228375eeb3",
+      "key": "a20a914f97a80d23",
       "author": "dreliten",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dreliten",
-      "posted_relative": "for 4 t siden",
-      "text": "En større, aggressiv selger har trykket ned kursen de siste dagene.  Bare å vente til dette er ferdig og så gå inn, ganske enkelt å se aktiviteten i ordreboken for den som følger litt med.",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "De to salgspostene der på 75k pluss er eneste grunn til at vi ikke er på 43 tallet i dag utfra det som skjer i USA akkurat nå. Man legger ikke en slik sperre om man vil ha mest mulig for sine aksjer.",
       "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 188,
-      "has_link": false
-    },
-    {
-      "key": "e246ef0d381a546f",
-      "author": "Trade500",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trade500",
-      "posted_relative": "for 2 t siden",
-      "text": "42 845 aksjer på kjøp på 41,20 kl 10:08 deaktivert Vi får se om posten på 41.50 blir spist opp 🤞",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [],
-      "char_count": 96,
-      "has_link": false
-    },
-    {
-      "key": "4a9a92d999e14fae",
-      "author": "cilledm",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cilledm",
-      "posted_relative": "for 2 t siden",
-      "text": "Innlegget er slettet. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 41,
-      "has_link": false
-    },
-    {
-      "key": "e550d55c7378b3eb",
-      "author": "Allrounder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
-      "posted_relative": "for 4 t siden",
-      "text": "Fordi selskapet er børsnotert i Norge?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 38,
-      "has_link": false
-    },
-    {
-      "key": "1df6cf28fca9bd47",
-      "author": "Sapper71",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sapper71",
-      "posted_relative": "for 10 min siden",
-      "text": "Ren spekulasjon",
-      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 15,
+      "char_count": 199,
+      "has_link": false
+    },
+    {
+      "key": "c9777e38c7132a5b",
+      "author": "Trade500",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trade500",
+      "posted_relative": "for 7 t siden",
+      "text": "42 845 aksjer på kjøp på 41,20 kl 10:08 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "bddfd68aeff02f6c",
+      "author": "RichardGere",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/richardgere",
+      "posted_relative": "for 54 min siden",
+      "text": "Noen som kjenner til årsaken til handelsstopp?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
       "has_link": false
     }
   ]
