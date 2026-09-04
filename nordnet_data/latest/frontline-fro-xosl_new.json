@@ -1,9 +1,40 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-04T21:08:32.828278+00:00",
+  "scraped_at": "2026-09-04T23:32:14.394211+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "567a33c9a04649e9",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 2 t siden",
+      "text": "https://x.com/DryBulkETF/status/2095893033078198595 VLCC solgt for  200 mill.. Fake news ? Time vill shåv.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://x.com/DryBulkETF/status/2095893033078198595"
+      ],
+      "char_count": 106,
+      "has_link": true
+    },
+    {
+      "key": "b0ff01e6b933e281",
+      "author": "Jack Morten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jack-morten",
+      "posted_relative": "for 26 min siden",
+      "text": "Når det kommer til utbytter, ja... Men shipping er som kjent  ekstremt syklisk, så hvor lenge en bør sitte 'long' er vanskelig å vurdere, og  bør tas i forhold til verdenssituasjonen og ratenivåene... Bruton er min favoritt i disse dager. Økende månedlig utbytte og oppkjøps kandidat, plus at Trøim vet hva han driver med og har hatt suksess med både 2020 og Himalaya",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 367,
+      "has_link": false
+    }
+  ]
 }
