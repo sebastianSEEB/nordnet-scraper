@@ -1,9 +1,25 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-05T14:10:20.805572+00:00",
+  "scraped_at": "2026-09-05T17:00:07.606687+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7407de1f8da36d4e",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 1 t siden",
+      "text": "Blir dette begynnelsen på slutten for Irans skyggeflåte? «Det amerikanske militæret har angrepet tre iranske oljetankere som svar på at Iran skal ha avfyrt raketter mot amerikanske krigsskip.» https://www.finansavisen.no/samfunn/2026/09/05/8378268/usa-har-angrepet-tre-iranske-oljetankere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/samfunn/2026/09/05/8378268/usa-har-angrepet-tre-iranske-oljetankere"
+      ],
+      "char_count": 288,
+      "has_link": true
+    }
+  ]
 }
