@@ -1,9 +1,66 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-05T06:34:04.716312+00:00",
+  "scraped_at": "2026-09-05T11:06:15.638501+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "a0fb8356360d7752",
+      "author": "spurtus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurtus",
+      "posted_relative": "for 2 t siden",
+      "text": "Kushner og Witkoff skal prøve å forhandle en fredsavtale, men fred blir det nok ikke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "4f3e985cff56f1d7",
+      "author": "Fersking-1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fersking-1",
+      "posted_relative": "for 50 min siden",
+      "text": "Har dere trua på at aksjen kommer til å bryte 350kr ila høsten?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "568ce8760f2ade1b",
+      "author": "johannes39",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johannes39",
+      "posted_relative": "for 17 t siden",
+      "text": "Oppgang eller nedgang neste uke? Tanker? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "a13aba8c771bb8cc",
+      "author": "JohanSolheim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johansolheim",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden · Egentlig ikke...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

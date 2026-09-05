@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-05T06:36:57.699209+00:00",
+  "scraped_at": "2026-09-05T11:08:59.146892+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a9a5365a18144abd",
+      "author": "Tigergutt1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tigergutt1",
+      "posted_relative": null,
+      "text": "1. sep. så lenge selger lar seg presse og selger, vil kursen falle. Det er ikke noe logikk at kursen er ned 10% fra topp etter Q2. Når tallene bekreftet videre positivt innhold....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        6
+      ],
+      "links": [],
+      "char_count": 180,
+      "has_link": false
+    },
+    {
+      "key": "7aa7ae3a405e93bf",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 1 t siden",
+      "text": "Dersom verdien på aksjen skal gå opp så må inntjeningen til selskapet økes. Er det noe som skjer nå? Hvis ikke rusler kursen ned.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    }
+  ]
 }

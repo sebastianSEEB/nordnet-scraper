@@ -1,24 +1,84 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-09-05T06:33:56.968377+00:00",
+  "scraped_at": "2026-09-05T11:06:07.895865+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "20e470e03a4761ce",
-      "author": "Johns1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johns1",
-      "posted_relative": "for 2 t siden",
-      "text": "· 🤣",
+      "key": "e3ee299e55503fd8",
+      "author": "Modernity",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/modernity",
+      "posted_relative": "for 24 min siden",
+      "text": "C4DNA + circVec blir enda mer interessant når arkitekturen forstås riktig. C4DNA er ikke selve leveringssystemet. Det er DNA-payloaden. Det åpner for en modulær modell: Delivery/LNP → C4DNA → circVec → intracellulært circRNA → CAR/protein Med andre ord: beste tilgjengelige deliveryteknologi kan i prinsippet kombineres med C4DNAs non-virale DNA-format og circVecs langvarige ekspresjon. En enkel analogi: Delivery/LNP = budbilen C4DNA = pakken/oppskriftsboken circVec = måten oppskriften er designet på circRNA = den stabile arbeidskopien CAR/protein = sluttproduktet cellen skal lage Det viktige er at Circio ikke nødvendigvis låses til én bestemt «budbil». Hvis circVec fungerer som plattform, kan den kobles mot flere ulike deliveryteknologier etter hvert som feltet utvikler seg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 784,
+      "has_link": false
+    },
+    {
+      "key": "7342afef5ec317fd",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "De kan var utlån. Nordnet låner ut aksjer fra Ikz kontoer viss folk ikke sperrer for de. Viss de er lånt ut så får du betalt en gang i kvartalet, ulempen er ofte shortere som låner. Kan også var reelle salg",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
-        8
+        5
       ],
       "links": [],
-      "char_count": 3,
+      "char_count": 206,
+      "has_link": false
+    },
+    {
+      "key": "ff5e92a7373a2389",
+      "author": "johns1ogco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johns1ogco",
+      "posted_relative": "for 4 t siden",
+      "text": "Største selger på siste liste, er Nordnet Livsforsikring. Nordnet Livsforsikring er en samlekonto for alle som har aksjene sine på ikz konto. #Skvettene småsparere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 163,
+      "has_link": false
+    },
+    {
+      "key": "299a2c131b3bd454",
+      "author": "Johns1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johns1",
+      "posted_relative": "for 6 t siden",
+      "text": "· 🤣 Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        17,
+        2
+      ],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    },
+    {
+      "key": "7b0445b5a81fea49",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hahahhaa",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
       "has_link": false
     }
   ]

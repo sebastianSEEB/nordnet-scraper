@@ -1,9 +1,25 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-05T06:30:39.887870+00:00",
+  "scraped_at": "2026-09-05T11:02:57.118011+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6a7eb419a3fc6099",
+      "author": "mestned",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mestned",
+      "posted_relative": "for 3 t siden",
+      "text": "Ønsker til julenissen? https://www.finansavisen.no/energi/2026/09/04/8378232/oljeprisen-kan-falle-til-40-dollar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/04/8378232/oljeprisen-kan-falle-til-40-dollar"
+      ],
+      "char_count": 111,
+      "has_link": true
+    }
+  ]
 }

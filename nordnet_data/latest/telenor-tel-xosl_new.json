@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-05T06:34:12.817346+00:00",
+  "scraped_at": "2026-09-05T11:06:23.241842+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "008b3cc7ba551860",
+      "author": "torstein v",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torstein-v",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Markedet er urolig med stigende lange renter, geopolitisk uro og usikkerhet rundt inflasjon og vekst. Telenor står likevel godt: Faller rentene, kan lavere avsetningskrav løfte verdsettelsen. Stiger rentene så blir Telenors stabile kontantstrøm, høye utbytteyield og tilbakekjøp desto mer attraktivt relativt til markedet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 322,
+      "has_link": false
+    }
+  ]
 }
