@@ -1,64 +1,22 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-05T17:04:59.582355+00:00",
+  "scraped_at": "2026-09-05T18:57:27.419736+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "10c86a7e9e74d9db",
-      "author": "Christianms",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/christianms",
+      "key": "a9105849abeab6b8",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
       "posted_relative": "for 1 t siden",
-      "text": "Du referer til kommentaren på kommentaren inn under innlegget \"Stiger jevnt ratene\"? Ja, jeg missa den. Totalt uholdbart å ikke få med seg det 😂",
-      "reply_count": null,
+      "text": "De får 704 000 usd nå per dag fratrukket 52k usd til eierne pluss andre driftsutgifter. Da kan du selv grovt regne ut inntektsstrømmen",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 144,
-      "has_link": false
-    },
-    {
-      "key": "b682f3ddaebc1e5a",
-      "author": "Christianms",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/christianms",
-      "posted_relative": "for 1 døgn siden",
-      "text": "Noen som har en ny utregning på verdi av aksjen etter de siste økningen av rater og FFA? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
-      "links": [],
-      "char_count": 108,
-      "has_link": false
-    },
-    {
-      "key": "538aec25373d61ff",
-      "author": "aksjeinvestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeinvestor",
-      "posted_relative": "for 1 t siden",
-      "text": "Hva synes dere medaksjonærer,er det bare å selge når siste kontrakten utgår?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 76,
-      "has_link": false
-    },
-    {
-      "key": "bf624982bdf4e381",
-      "author": "Snake24",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snake24",
-      "posted_relative": "for 29 min siden",
-      "text": "Ingen krigshisser men tipper det blir en fin Hunter dag på mandag 🤞",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 67,
+      "char_count": 134,
       "has_link": false
     }
   ]
