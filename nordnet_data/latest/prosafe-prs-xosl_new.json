@@ -1,9 +1,39 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-05T11:08:51.000990+00:00",
+  "scraped_at": "2026-09-05T11:55:48.631437+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "10456d0767e87c6f",
+      "author": "Ikke peilling",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ikke-peilling",
+      "posted_relative": null,
+      "text": "1. sep. Min gode venn Gemini – som hevder å være skarpere enn de fleste analytikere i Norge – hvisket meg i øret at tirsdag 15. september kl. 07:30 smeller det med en ny børsmelding om kontrakt. Vi får se! Det bør nok tas med en solid klype salt, eventuelt på linje med en kjøpsanbefaling fra Baretap12. Begge deler har vel omtrent samme treffsikkerhet. 😉🚢 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        6
+      ],
+      "links": [],
+      "char_count": 376,
+      "has_link": false
+    },
+    {
+      "key": "726566989869ca15",
+      "author": "GullBull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullbull",
+      "posted_relative": null,
+      "text": "1. sep. Ba du Gemini grunngi denne?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }
