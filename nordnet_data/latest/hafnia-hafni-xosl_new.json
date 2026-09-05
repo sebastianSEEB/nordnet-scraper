@@ -1,9 +1,28 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-05T01:53:43.263328+00:00",
+  "scraped_at": "2026-09-05T06:28:53.957135+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a6c11fde9181bf5b",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 3 min siden",
+      "text": "Forsøkt meg på et lite dypdykk ifht raffineringskapasitet, men dette er ikke noe jeg kan videre mye om... Konklusjonen (?) først; Figure 2: World Refinery throughput https://www.energypolicy.columbia.edu/publications/beyond-crude-iran-war-reveals-refined-products-as-an-energy-security-blind-spot/ Denne har svingt mellom 81Mbpd og 85Mbpd siden juli 2023 før den \"kollapset\" under utbruddet av krigen, men ikke verre enn 77Mbpd (i mars) og har siden tatt seg opp og endte juli med 81Mbpd. Dette er langt mindre dramatisk enn hva jeg fryktet tatt i betraktning raffineriene i Midtøsten som er innesperret, Ukraina sine \"sanksjoner\" mot russiske raffineri, samt Kina sin eksportbrems OPEC sine månedsrapporter (får ikke direktelenke til augustrapporten) https://www.opec.org/monthly-oil-market-report.html Table 6-1 (side 68) viser at USA i juli er på 97% utnyttelse av raffineriene, EU+UK+Norge på 90% og India på 103%. Mange som kjører på full utnyttelse. Det store unntaket som faktisk monner er Kina med 75% og dermed 4Mbpd ledig teoretisk kapasitet (Japan, Sør-Korea, Italia, Frankrike og UK har også en del prosenter å gå på, men utgjør ikke fryktelig mye samlet; 1-2Mbpd ledig teoretisk kanskje?) Så, China to the rescue? Kina har jo økt eksporten sin igjen https://www.reuters.com/business/energy/china-maintains-stable-refined-fuel-exports-under-relaxed-controls-sources-say-2026-09-02/ men det utgjør ikke så veldig mye; 0,8-1,2Mbpd i 2025 hvilket falt til 0,4Mbpd i april https://public.axsmarine.com/blog/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like Har ikke klart å finne noe mer konkret om Midtøsten (ut over at de er nevnt i OPEC table 6-2 hvor vi gikk fra 8Mbpd i 2025 til 6,4Mbpd i Q2/26. Syntes det hørtes \"høyt\" ut, men vi hadde jo MoU og mulig at det også er noen oljeprodukttankere som gutser på gjennom Hormuzstredet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://public.axsmarine.com/blog/why-chinas-crude-collapse-isnt-the-demand-story-it-looks-like",
+        "https://www.energypolicy.columbia.edu/publications/beyond-crude-iran-war-reveals-refined-products-as-an-energy-security-blind-spot/",
+        "https://www.opec.org/monthly-oil-market-report.html",
+        "https://www.reuters.com/business/energy/china-maintains-stable-refined-fuel-exports-under-relaxed-controls-sources-say-2026-09-02/"
+      ],
+      "char_count": 1854,
+      "has_link": true
+    }
+  ]
 }

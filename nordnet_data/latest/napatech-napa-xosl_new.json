@@ -1,9 +1,43 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-05T01:56:32.743238+00:00",
+  "scraped_at": "2026-09-05T06:31:42.443646+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "900dfe8513baba0e",
+      "author": "Giskaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://www.linkedin.com/company/d-matrix?trk=blended-typeahead",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.linkedin.com/company/d-matrix?trk=blended-typeahead"
+      ],
+      "char_count": 65,
+      "has_link": true
+    },
+    {
+      "key": "6d19472c317c90d6",
+      "author": "NorthbyNorthwest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
+      "posted_relative": "for 19 t siden",
+      "text": "· https://gimletlabs.ai/blog/announcing-series-b",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [
+        "https://gimletlabs.ai/blog/announcing-series-b"
+      ],
+      "char_count": 48,
+      "has_link": true
+    }
+  ]
 }
