@@ -1,9 +1,23 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-09-05T11:52:39.043892+00:00",
+  "scraped_at": "2026-09-05T14:14:52.160558+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c385e183f752f7b7",
+      "author": "Rototiller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rototiller",
+      "posted_relative": null,
+      "text": "1. sep. · Endret En liten dipp å tjene noen prosenter på intraday?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

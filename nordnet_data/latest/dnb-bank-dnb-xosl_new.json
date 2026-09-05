@@ -1,9 +1,26 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-05T11:53:09.930826+00:00",
+  "scraped_at": "2026-09-05T14:15:25.325603+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7f1b87b38cb1930d",
+      "author": "EandL",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eandl",
+      "posted_relative": null,
+      "text": "1. sep. 340-350 før nyttår? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        4
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

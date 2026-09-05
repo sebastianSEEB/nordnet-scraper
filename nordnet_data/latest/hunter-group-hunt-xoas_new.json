@@ -1,9 +1,25 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-05T11:52:58.712211+00:00",
+  "scraped_at": "2026-09-05T14:15:14.142840+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "35e530e0e8ec033b",
+      "author": "yousif 1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yousif-1",
+      "posted_relative": "for 8 min siden",
+      "text": "· 🔴USAs sentralkommando: 📌Angrep rettet mot tre iranske råoljetankskip 📌Angrepene kom etter at Den islamske revolusjonsgarden (IRGC) avfyrte ballistiske missiler mot to amerikanske krigsskip 📌Et hangarskip og en missilbevæpnet jager klarte å unngå flere iranske angrep 📌Vi gjorde to IRGC-råoljetankskip permanent uskadelige utenfor Khargøya og nær Jask 📌Amerikanske styrker ødela også fullstendig et tomt råoljetankskip i Omanbukta",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 431,
+      "has_link": false
+    }
+  ]
 }

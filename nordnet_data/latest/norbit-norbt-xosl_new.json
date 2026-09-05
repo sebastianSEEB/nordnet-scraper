@@ -1,22 +1,37 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-05T11:49:59.517088+00:00",
+  "scraped_at": "2026-09-05T14:12:27.496548+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "0586e69ed2f519de",
-      "author": "knirkmqsqueak",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knirkmqsqueak",
-      "posted_relative": "for 3 min siden",
-      "text": "· Oseaner. Konnektivitet. PIR.",
+      "key": "f46acafab8713c54",
+      "author": "Fiskebuljong",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskebuljong",
+      "posted_relative": "for 2 t siden",
+      "text": "Sjekk DNs artikkel om hva sønnen til Stordalen investerer i, gjennom Strawberry Ink.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 30,
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "96b75b3175498b8d",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 5 t siden",
+      "text": "Gi meg 3 grunner for å satse på Norbit fremover ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 69,
       "has_link": false
     }
   ]
