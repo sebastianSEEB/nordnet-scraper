@@ -1,9 +1,23 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-09-06T13:20:37.565545+00:00",
+  "scraped_at": "2026-09-06T16:36:52.812860+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "94bb0f9ce00f1ca0",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 48 min siden",
+      "text": "Av alt jeg har lest til nå, så blir det nok en posisjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }
