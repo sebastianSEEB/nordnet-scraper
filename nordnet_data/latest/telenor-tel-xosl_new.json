@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-06T05:21:43.497177+00:00",
+  "scraped_at": "2026-09-06T09:57:22.307329+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "716aafcf414315d3",
+      "author": "Divinesia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/divinesia",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "· Uheldig ulempe er gamle Norges utbytteskattpolitikk.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

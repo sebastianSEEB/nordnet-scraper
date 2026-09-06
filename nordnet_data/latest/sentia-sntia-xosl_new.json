@@ -1,9 +1,57 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-09-06T05:22:24.362902+00:00",
+  "scraped_at": "2026-09-06T09:58:04.344633+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c205fa2f3c4dc4e1",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": null,
+      "text": "2. sep. https://www.finansavisen.no/tdn/2026/09/02/06593518/sentia-hent-signert-kontrakt-med-nscale-for-datasenterutvidelse",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/09/02/06593518/sentia-hent-signert-kontrakt-med-nscale-for-datasenterutvidelse"
+      ],
+      "char_count": 123,
+      "has_link": true
+    },
+    {
+      "key": "01d62a1b1cf8ba25",
+      "author": "Gussern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gussern",
+      "posted_relative": null,
+      "text": "2. sep. Enig i mye av det du skriver, men det er en ting som blir litt rart når denne \"bransjen\" vurderes pr kvartal.  Byggebransjen jobber i lengre intervaller mht kontraktsinngåelser en de bransjene som selger \"produkter\".  Med dette mener jeg at en periodisering på kun 3mnd er alt for kort til å legge voldsomt stor vekt på en \"nedgang\" i ordrereserve.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 356,
+      "has_link": false
+    },
+    {
+      "key": "dd4215d0646f8f5e",
+      "author": "Theboyplunger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/theboyplunger",
+      "posted_relative": null,
+      "text": "2. sep. Dumme pareto. Arctic derimot, de beholder den i sin portefølje. Det lønte seg i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

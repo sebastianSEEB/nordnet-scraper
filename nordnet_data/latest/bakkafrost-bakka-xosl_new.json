@@ -1,9 +1,23 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-09-06T05:19:08.970871+00:00",
+  "scraped_at": "2026-09-06T09:54:43.643971+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4e60d24de7b59ca4",
+      "author": "Buster_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buster_1",
+      "posted_relative": null,
+      "text": "2. sep. Noen ville ut.... Kjøp aldri på fine artikler....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

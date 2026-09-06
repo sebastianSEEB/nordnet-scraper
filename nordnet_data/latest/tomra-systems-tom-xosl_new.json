@@ -1,9 +1,42 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-06T05:18:22.492584+00:00",
+  "scraped_at": "2026-09-06T09:54:00.644912+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "03f54cbfc9d53a02",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": null,
+      "text": "2. sep. 10 april sto den i 126 kr. Når er vi tilbake der? tippekonkurranse:) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "6cd38e926a1b3650",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": null,
+      "text": "2. sep. Har lastet opp Tomra aksjer de siste dagene :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

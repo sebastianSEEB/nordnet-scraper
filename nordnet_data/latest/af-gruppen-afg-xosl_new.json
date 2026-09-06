@@ -1,9 +1,25 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-09-06T05:22:09.205880+00:00",
+  "scraped_at": "2026-09-06T09:57:49.323479+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d3cbe6eaad18b83a",
+      "author": "TracTore",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tractore",
+      "posted_relative": null,
+      "text": "2. sep. Hvorfor reposte noe som står i nyhetsfeeden ved siden av??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

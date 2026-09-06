@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-06T05:21:36.170254+00:00",
+  "scraped_at": "2026-09-06T09:57:14.893686+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "61656e0197bd2410",
+      "author": "JFA123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jfa123",
+      "posted_relative": "for 20 min siden",
+      "text": "Det er godt mulig at det skjer fordi markedspsykolig er ofte styrt av frykt og panikk. Men jeg kan ikke fatte at de får til å avslutte krigen nå, de har prøvd så mange ganger og det ender bare med det samme, og Russland fortsetter krigen. Mitt inntrykk er at krigen egentlig var på vei til å eskalere mer, og så brått er det snakk om fred igjen, kompliserte greier..",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 366,
+      "has_link": false
+    },
+    {
+      "key": "7797c5a3b14569ff",
+      "author": "Hakon74",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hakon74",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Blir det knallrødt på mandag eller tirsdag etter fredsforhandlingene i Moskva og Kiev",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }
