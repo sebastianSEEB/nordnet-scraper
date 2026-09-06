@@ -1,9 +1,39 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-06T16:35:22.785438+00:00",
+  "scraped_at": "2026-09-06T18:46:02.907378+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cf3f2a2f9993aa97",
+      "author": "Fisker94",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Pengemaskin 🤑 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        2
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    },
+    {
+      "key": "b0e98bc75e4cd2fc",
+      "author": "Conemy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/conemy",
+      "posted_relative": "for 35 min siden",
+      "text": "· Ronny...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }

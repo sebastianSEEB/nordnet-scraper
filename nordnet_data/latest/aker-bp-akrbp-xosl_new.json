@@ -1,22 +1,25 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-06T16:38:34.966249+00:00",
+  "scraped_at": "2026-09-06T18:49:30.996276+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "dd671e52c001337f",
-      "author": "ndnd",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ndnd",
+      "key": "d03e075684a90f55",
+      "author": "Arnfinn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arnfinn",
       "posted_relative": null,
-      "text": "2. sep. Hvorfor skal man selge noe har det blitt noe bedre mellom USA og Iran ?",
-      "reply_count": 3,
+      "text": "2. sep. Ser vi aksjekurs på 400,- snart? Vis 1 kommentar til",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        2
+      ],
       "links": [],
-      "char_count": 79,
+      "char_count": 60,
       "has_link": false
     }
   ]
