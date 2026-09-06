@@ -1,9 +1,28 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-09-06T09:58:38.113502+00:00",
+  "scraped_at": "2026-09-06T13:23:48.377466+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "40c164edbd5182c9",
+      "author": "Finansfranz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/finansfranz",
+      "posted_relative": null,
+      "text": "2. sep. https://www.finansavisen.no/teknologi/2026/09/02/8377369/pwc-spar-tidenes-boom-innen-datasentre Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/09/02/8377369/pwc-spar-tidenes-boom-innen-datasentre"
+      ],
+      "char_count": 123,
+      "has_link": true
+    }
+  ]
 }

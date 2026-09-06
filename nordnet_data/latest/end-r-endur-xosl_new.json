@@ -1,9 +1,59 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-06T09:56:08.271468+00:00",
+  "scraped_at": "2026-09-06T13:21:14.044380+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "814dfd5a8a4431aa",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": null,
+      "text": "2. sep. · Endret Analysesjef Petter Kongslie i SB1 Markets beholder Endur i sin modellportefølje. Han har kursmål på 150kr, og den siste analysen hadde den små-deilige tittelen: «A Norwegian infrastructure compounder at half the price vs. Swedish peers» https://www.finansavisen.no/finans/2026/09/02/8377291/kaster-seg-pa-bjellesaufavoritt-tar-inn-to-nye-aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/02/8377291/kaster-seg-pa-bjellesaufavoritt-tar-inn-to-nye-aksjer"
+      ],
+      "char_count": 361,
+      "has_link": true
+    },
+    {
+      "key": "957e16935f2eb184",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": null,
+      "text": "2. sep. · Endret SB1 Markets opprettholder i dag sitt kursmål på 150kr!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "bae9a0942e73e85b",
+      "author": "espen_aa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espen_aa",
+      "posted_relative": null,
+      "text": "2. sep. Mange motstridende analyser, men vi liker denne best 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

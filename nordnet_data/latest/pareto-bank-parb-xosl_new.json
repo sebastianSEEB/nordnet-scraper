@@ -1,9 +1,26 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-06T09:58:30.864742+00:00",
+  "scraped_at": "2026-09-06T13:23:40.071275+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9cad399d580d0a91",
+      "author": "MaxRaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxraven",
+      "posted_relative": null,
+      "text": "2. sep. Snart 54 kr og kjøp, men synes nedturen gikk vel raskt. Hadde sett for meg at jeg ble å kjøpe i nov/des..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    }
+  ]
 }

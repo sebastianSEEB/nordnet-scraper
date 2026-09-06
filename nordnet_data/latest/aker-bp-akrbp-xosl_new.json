@@ -1,9 +1,25 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-06T09:57:18.641266+00:00",
+  "scraped_at": "2026-09-06T13:22:23.118074+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8f8f1b5d7f2ca2a8",
+      "author": "Ask.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-2",
+      "posted_relative": null,
+      "text": "2. sep. for sent å kjøpe nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

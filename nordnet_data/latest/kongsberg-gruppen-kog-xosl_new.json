@@ -1,37 +1,84 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-06T09:57:14.893686+00:00",
+  "scraped_at": "2026-09-06T13:22:19.118387+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "61656e0197bd2410",
-      "author": "JFA123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jfa123",
-      "posted_relative": "for 20 min siden",
-      "text": "Det er godt mulig at det skjer fordi markedspsykolig er ofte styrt av frykt og panikk. Men jeg kan ikke fatte at de får til å avslutte krigen nå, de har prøvd så mange ganger og det ender bare med det samme, og Russland fortsetter krigen. Mitt inntrykk er at krigen egentlig var på vei til å eskalere mer, og så brått er det snakk om fred igjen, kompliserte greier..",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 366,
-      "has_link": false
-    },
-    {
-      "key": "7797c5a3b14569ff",
-      "author": "Hakon74",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hakon74",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Blir det knallrødt på mandag eller tirsdag etter fredsforhandlingene i Moskva og Kiev",
+      "key": "dad5f7f092516ef5",
+      "author": "Max Rothweiler",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/max-rothweiler",
+      "posted_relative": "for 2 t siden",
+      "text": "· Putin fortalte utsendingene at Russland ville oppnå sine mål, og at konfliktens ”grunnleggende årsaker” måtte løses. Moskva er ”overbevist” om at det kan oppnå sine militære mål om å innta resten av Øst-Ukraina. https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        3
+      ],
+      "links": [
+        "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war"
+      ],
+      "char_count": 328,
+      "has_link": true
+    },
+    {
+      "key": "8fe871b5292d6fff",
+      "author": "L00nie",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/l00nie",
+      "posted_relative": "for 3 t siden",
+      "text": "Så lenge de leverer lønnsomhet og fortsetter denne kursen som er planlagt så skal denne over 400. De tjener alt for mye penger og øker produksjon.  Blir som med subsea 7, ingen trodde på videre kursutvikling på 250 kr, men til tross så ligger den nå 1 år senere på 329. Fordi de tjener for mye penger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
       "links": [],
-      "char_count": 85,
+      "char_count": 301,
+      "has_link": false
+    },
+    {
+      "key": "38b274a1da68a921",
+      "author": "JFA123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jfa123",
+      "posted_relative": "for 2 min siden",
+      "text": "Kan nesten ikke fatte at krigen skal bli avsluttet på en diplomatisk måte, selv om det helt klart er det beste alternativet. At Putin skal få drive å trenere denne krigen ved å snakke om fred, som han ikke er interessert i, vil jeg aldri forstå.. men det er en komplisert verden der ute,..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 289,
+      "has_link": false
+    },
+    {
+      "key": "1f2042a2a40b1693",
+      "author": "Helgenen1963",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/helgenen1963",
+      "posted_relative": "for 2 t siden",
+      "text": "Denne krigen har jo egentlig ingenting med den europeiske kommende opprustning å gjøre, og Putin er det jo ingen i hele verden som stoler på …🤷🏼‍♂️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 147,
+      "has_link": false
+    },
+    {
+      "key": "613c1f6c16c4c976",
+      "author": "Hakon74",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hakon74",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Blir det knallrødt på mandag eller tirsdag etter fredsforhandlingene i Moskva og Kiev Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 105,
       "has_link": false
     }
   ]
