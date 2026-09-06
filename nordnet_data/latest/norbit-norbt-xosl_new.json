@@ -1,9 +1,38 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-06T20:58:32.197012+00:00",
+  "scraped_at": "2026-09-06T22:37:53.360401+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a4dc2f1269c6307e",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 53 min siden",
+      "text": "Slå deg sammen med shorterene, de er av samme oppfatning. Hører de gjør det fantastisk om dagen 🤩🥳",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "4dc7ffb31311c250",
+      "author": "Bravo666",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bravo666",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Blir vel en ny rød uke, men jeg vet ikke, da jeg  kun er en profesjonell amatør",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }
