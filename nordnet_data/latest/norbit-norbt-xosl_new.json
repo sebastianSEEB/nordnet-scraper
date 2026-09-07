@@ -1,9 +1,40 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-07T20:18:08.596370+00:00",
+  "scraped_at": "2026-09-07T23:10:56.837873+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "820625f8eb0bb03b",
+      "author": "slowincrease",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/slowincrease",
+      "posted_relative": "for 1 t siden",
+      "text": "I morgen?? Who cares.. morgendagen betyr ingenting. Jeg regner med å dra inn 150-250.000 på denne i løpet av 3-9 måneder.  Du skriver mye rart her inne ser jeg.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    },
+    {
+      "key": "b74acb5aad9f78e4",
+      "author": "Bravo666",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bravo666",
+      "posted_relative": "for 1 t siden",
+      "text": "NY nedtur i morgon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }
