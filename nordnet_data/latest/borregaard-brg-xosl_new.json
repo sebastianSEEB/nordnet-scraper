@@ -1,9 +1,64 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-07T05:30:24.012096+00:00",
+  "scraped_at": "2026-09-07T11:03:36.764488+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "80b6919af22b6c18",
+      "author": "jmhaland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jmhaland",
+      "posted_relative": "for 3 min siden",
+      "text": "Det skyldes i hovedsak nedskrivningen av investeringen i Alginor. Borregaard skrev ned investeringen med 337 mill. i Q2, noe som er ført som en finansiell kostnad. I tillegg hadde de 30 mill. i kostnader knyttet til grunnsikring i Sarpsborg. Den underliggende driften var derimot ganske stabil – EBITDA var 515 mill. mot 522 mill. året før. Justert for Alginor-nedskrivningen og grunnsikringen var EPS 2,35 kr.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 410,
+      "has_link": false
+    },
+    {
+      "key": "30ba8d2af2d11068",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 56 min siden",
+      "text": "I Q2/26 så hadde Borregaard et tap før skatt på 45 mill. mot 326 mill. i pluss ift samme fjorårsperiode - forklaring på dette ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "47a043ddd8c65bbf",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen som kan beskrive markedet(ene) for de produkter Borregaard leverer til ? Opp/ned/sidelengs for tiden ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "50d978479200958a",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Har dere noen gode grunner for å satse på denne aksjen ? Vennligst forklar !",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    }
+  ]
 }

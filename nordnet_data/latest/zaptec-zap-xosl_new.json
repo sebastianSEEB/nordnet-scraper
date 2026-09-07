@@ -1,9 +1,114 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-07T05:27:20.511118+00:00",
+  "scraped_at": "2026-09-07T11:00:31.286239+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 7,
+  "posts": [
+    {
+      "key": "1ef0a69c213996ea",
+      "author": "Trekkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trekkern",
+      "posted_relative": "for 5 t siden",
+      "text": "https://www.finansavisen.no/tdn/2026/09/07/06594514/zaptec-abg-oppjusterer-kursmal-til-70-65-gjentar-kjop prøv å hold oss igjen nå du!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        19,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/09/07/06594514/zaptec-abg-oppjusterer-kursmal-til-70-65-gjentar-kjop"
+      ],
+      "char_count": 134,
+      "has_link": true
+    },
+    {
+      "key": "0c0874b27c7dce7e",
+      "author": "Trekkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trekkern",
+      "posted_relative": "for 4 t siden",
+      "text": "ABG anbefaler å kjøpe aksjen før rapporteringen for tredje kvartal, ettersom meglerhuset forventer nok et resultat som overgår forventingene, til tross for sesongvariasjoner om sommeren og leveringsbegrensninger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 212,
+      "has_link": false
+    },
+    {
+      "key": "e118a9f472b2e30c",
+      "author": "Aladin01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aladin01",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "· Deilig med et nytt kursmål på 70.... Det viser et kurspotensial på 35% :) Ikke så rart at Ingelin Drøpping kjøpte 5000 aksjer d. 3.9. :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        19,
+        3
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "06a6df36122f5b41",
+      "author": "Jyde",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jyde",
+      "posted_relative": "for 3 t siden",
+      "text": "· Med dagens nye kursmål, så er det spennende hvor mye Citadel shorter, eller smetter unna…!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        4
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "ebea85175c3b6181",
+      "author": "nr1703",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nr1703",
+      "posted_relative": "for 3 t siden",
+      "text": "· Det går ikke lenge før den bryter gjennom 60 NOK :-)",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "764f5b1b7d1a700a",
+      "author": "Santa01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/santa01",
+      "posted_relative": "for 4 min siden",
+      "text": "neste sommer ser vi 100 her:-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "a139612e5f8437e5",
+      "author": "Sebastian LF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sebastian-lf",
+      "posted_relative": "for 3 t siden",
+      "text": "Fikk visst svaret mitt 🤠",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

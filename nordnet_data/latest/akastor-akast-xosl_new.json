@@ -1,9 +1,38 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-07T05:30:20.147058+00:00",
+  "scraped_at": "2026-09-07T11:03:33.008972+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1dee98ce5ac3c055",
+      "author": "Lynx_80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lynx_80",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Er ikke denne egentlig svært lavt priset for tiden med tanke på resultatene som ble lagt fram?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "00852a5800ee8d20",
+      "author": "Kurtebill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurtebill",
+      "posted_relative": "for 3 t siden",
+      "text": "· jo",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

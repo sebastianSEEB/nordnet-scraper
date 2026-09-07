@@ -1,9 +1,28 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-07T05:27:01.717409+00:00",
+  "scraped_at": "2026-09-07T11:00:11.897459+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f7f8ecd9e483ad67",
+      "author": "StockEmHigh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stockemhigh",
+      "posted_relative": null,
+      "text": "3. sep. · Endret Til de som tror det vil bli utbetalt utbytte fra Bluenord i Q3, dette er fra børsmeldingen 21.07: \"BlueNord's second quarter dividend, announced on 9 July 2026, will be paid to BlueNord shareholders of record in accordance with the announced terms. No further dividends will be declared by BlueNord prior to completion of the transaction.\" https://newsweb.oslobors.no/message/678466",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        9
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/678466"
+      ],
+      "char_count": 399,
+      "has_link": true
+    }
+  ]
 }

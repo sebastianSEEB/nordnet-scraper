@@ -1,9 +1,42 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-07T05:28:43.631194+00:00",
+  "scraped_at": "2026-09-07T11:01:59.806630+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b818268a8d17ce8f",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": null,
+      "text": "3. sep. Og der kom gode nyheter for det viktige makrell fisket også  :) https://www.sildelaget.no/no/alle-nyheter/makrellen-rocker-i-norskehavet/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.sildelaget.no/no/alle-nyheter/makrellen-rocker-i-norskehavet/"
+      ],
+      "char_count": 145,
+      "has_link": true
+    },
+    {
+      "key": "3fd06b33e8383348",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": null,
+      "text": "3. sep. https://ilaks.no/rekordvolum-sendte-lakseeksporten-til-nye-hoyder-i-august/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://ilaks.no/rekordvolum-sendte-lakseeksporten-til-nye-hoyder-i-august/"
+      ],
+      "char_count": 83,
+      "has_link": true
+    }
+  ]
 }

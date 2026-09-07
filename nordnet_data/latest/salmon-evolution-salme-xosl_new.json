@@ -1,9 +1,51 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-07T05:33:13.385853+00:00",
+  "scraped_at": "2026-09-07T11:06:25.443911+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e2bf402dd136d888",
+      "author": "sigurdjg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sigurdjg",
+      "posted_relative": "for 1 t siden",
+      "text": "Følger selv denne med en bitteliten lyttepost, som kun representerer gevinst fra litt trading i aksjen i fjor sommer, men skyter ikke inn midler som monner før jeg ser tegn til sentimentskifte. Har tro på prosjektet på lang sikt, men har ikke noe behov for å være ordentlig inne ennå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 284,
+      "has_link": false
+    },
+    {
+      "key": "ca8e82e8d9b3ac9b",
+      "author": "Vihaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
+      "posted_relative": "for 1 t siden",
+      "text": "· For en drittaksje dette er.. Jeg investerte i dette selskapet tilbake i 2023, nesten -55% ned.. Noen tanker om dette selskapets fremtid..??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "782024cde938b6fd",
+      "author": "BjarteKv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjartekv",
+      "posted_relative": "for 1 t siden",
+      "text": "· 4.15",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

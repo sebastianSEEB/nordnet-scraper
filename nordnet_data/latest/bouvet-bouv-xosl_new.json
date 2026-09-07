@@ -1,9 +1,23 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-07T05:28:51.088420+00:00",
+  "scraped_at": "2026-09-07T11:02:07.378092+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ef568fe40b642648",
+      "author": "SANBAN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sanban",
+      "posted_relative": null,
+      "text": "3. sep. ser ut som dette går ned igjen etter å ha nådd 50. Det holdt ikke 50kr-nivået.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    }
+  ]
 }

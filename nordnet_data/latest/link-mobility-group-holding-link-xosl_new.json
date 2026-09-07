@@ -1,9 +1,38 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-07T05:27:12.999767+00:00",
+  "scraped_at": "2026-09-07T11:00:23.568787+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "29e7f23bda9c3086",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "3. sep. Siste endringer i shortregistrene var forrige fredag.  Ingen endringer i nettoshort >0,5% inneværende uke. Men 0,5% er 1,4 mill aksjer og så mye aksjer kan lage mye kvalme uten at det blir synlig hos Finanstilsynet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 223,
+      "has_link": false
+    },
+    {
+      "key": "f4475f97dd3578bf",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": null,
+      "text": "3. sep. Ser ut som short har solgt i overkant mye de siste dagene og kommet noe bakpå. \"Lykke til\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ]
 }

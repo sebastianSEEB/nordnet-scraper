@@ -1,9 +1,57 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-07T05:29:44.406977+00:00",
+  "scraped_at": "2026-09-07T11:02:58.533365+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "9ed15d474a72f901",
+      "author": "Hallvardkf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hallvardkf",
+      "posted_relative": "for 14 t siden",
+      "text": "· https://www.sustainabletruckvan.com/cummins-iaa-2026-product-presentation-preview/ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        4
+      ],
+      "links": [
+        "https://www.sustainabletruckvan.com/cummins-iaa-2026-product-presentation-preview/"
+      ],
+      "char_count": 104,
+      "has_link": true
+    },
+    {
+      "key": "7adddee4ebd89ee2",
+      "author": "Denerikkelangmendenertynn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/denerikkelangmendenertynn",
+      "posted_relative": null,
+      "text": "3. sep. Faen for en ørkenvandring denne aksjen har havnet i om dagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "12d310c1380dcac3",
+      "author": "Bantex28",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bantex28",
+      "posted_relative": "for 4 t siden",
+      "text": "Det står vel i forbindelse med X10 og hydrogen i artikkelen",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }

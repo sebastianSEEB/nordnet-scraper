@@ -1,9 +1,23 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-09-07T05:29:13.587575+00:00",
+  "scraped_at": "2026-09-07T11:02:30.936761+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b28a6d77741cf653",
+      "author": "Komfan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/komfan",
+      "posted_relative": "for 24 min siden",
+      "text": "Har satt min nylige startet IPS sparing i denne aksjen. Denne tikker av på alle Berkshire sine punkter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

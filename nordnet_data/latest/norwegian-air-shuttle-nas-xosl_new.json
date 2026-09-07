@@ -1,9 +1,23 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-07T05:27:09.255317+00:00",
+  "scraped_at": "2026-09-07T11:00:19.675858+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e622533a1a3a0f8f",
+      "author": "Ben16",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ben16",
+      "posted_relative": "for 59 min siden",
+      "text": "Ja så feil kan man ta, og det er jo ikke helt overraskende desverre;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

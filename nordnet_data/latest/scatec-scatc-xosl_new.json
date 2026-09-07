@@ -1,9 +1,25 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-07T05:27:50.995325+00:00",
+  "scraped_at": "2026-09-07T11:01:06.515041+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "36aca77bb2417295",
+      "author": "tommy00",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tommy00",
+      "posted_relative": "for 2 t siden",
+      "text": "kjøperne har endelig våknet og forstår at scatec ville vært det nest største strømselskapet i Norge om anleggene hadde ligget her, bare forbigått av statkraft, og dette er bare begynnelsen. Heldigvis ligger solparkene steder der solen skinner mye, og ikke i Bergen:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [],
+      "char_count": 266,
+      "has_link": false
+    }
+  ]
 }
