@@ -1,9 +1,27 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-09-07T00:33:16.795941+00:00",
+  "scraped_at": "2026-09-07T05:30:38.983006+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a0a6d4f549b13226",
+      "author": "Almanack",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/almanack",
+      "posted_relative": "for 21 min siden",
+      "text": "Har satt opp en AI-agent som følger circRNA-nyheter internasjonalt, og denne fra Korea dukket opp nå. Pressemeldingen er datert i dag. Oppsummering fra AI-agenten: «Rznomics har publisert nye data som viser at de har klart å gjøre produksjonen av sirkulært RNA mye mer effektiv. De rapporterer opptil rundt 7x bedre sirkularisering, og viser også at metoden fungerer bedre på veldig store RNA-konstruksjoner, som normalt er vanskeligere å lage. Det interessante er at de selv trekker frem at teknologien kan brukes videre blant annet innen CAR-T. For Circio er dette ikke direkte validering av circVec — teknologiene er forskjellige. Rznomics lager circRNA utenfor cellen, mens Circio får cellen til å produsere circRNA selv fra en DNA-vektor. Men jeg synes likevel det er relevant sektornytt, fordi det viser at circRNA-feltet fortsetter å modnes teknisk, også for større og mer kompliserte konstruksjoner, og at CAR-T stadig trekkes frem som et viktig anvendelsesområde.» Pressemelding: https://sg.finance.yahoo.com/news/rznomics-reports-major-advances-high-043600829.html",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://sg.finance.yahoo.com/news/rznomics-reports-major-advances-high-043600829.html"
+      ],
+      "char_count": 1074,
+      "has_link": true
+    }
+  ]
 }
