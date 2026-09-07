@@ -1,9 +1,25 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-09-07T11:01:33.277704+00:00",
+  "scraped_at": "2026-09-07T13:03:09.717467+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b1cfd6a6bf0012b4",
+      "author": "Jabbidabbadoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jabbidabbadoo",
+      "posted_relative": "for 1 t siden",
+      "text": "Multiconsult og Rejlers slår seg sammen. https://e24.no/boers-og-finans/i/8p7111/multiconsult-vil-slaa-seg-sammen-med-svenske-rejlers Multi stiger 3% på nyheten. Negativt for Norco?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/8p7111/multiconsult-vil-slaa-seg-sammen-med-svenske-rejlers"
+      ],
+      "char_count": 181,
+      "has_link": true
+    }
+  ]
 }

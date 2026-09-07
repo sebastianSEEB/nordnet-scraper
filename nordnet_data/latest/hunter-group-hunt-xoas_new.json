@@ -1,119 +1,26 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-07T11:03:44.489445+00:00",
+  "scraped_at": "2026-09-07T13:05:27.741417+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "7d317388ff03e0f2",
-      "author": "Kjell100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
-      "posted_relative": "for 4 t siden",
-      "text": "Tidenes shippingopptur. (Sammenlign med 1.verdenskrig, jobbetiden) https://www.finansavisen.no/shipping/2026/09/06/8378125/600-prosent-avkastning-i-shipping-pa-fem-ar",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        11
-      ],
-      "links": [
-        "https://www.finansavisen.no/shipping/2026/09/06/8378125/600-prosent-avkastning-i-shipping-pa-fem-ar"
-      ],
-      "char_count": 166,
-      "has_link": true
-    },
-    {
-      "key": "fcb14b58ce91338c",
+      "key": "573b005008c9edaf",
       "author": "nopetter",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 47 min siden",
-      "text": "Egentlig en merkelig avgjørelse der Mercuria mener at de ekstreme markedssvingningene og situasjonen i området gjør at indeksen ikke lenger reflekterer det underliggende markedet på en rettferdig måte, De nekter å utbetale fulle rater fordi markedet har gått bananas 🤔",
+      "posted_relative": "for 10 min siden · Endret",
+      "text": "Mercuria har gått til voldgiftssak mot Baltic Exchange i april 2026 så saken mot Hunter Group er bare en liten del av saken Commodity trader Mercuria Energy Group filed a lawsuit in London’s High Court against the Baltic Exchange in April 2026 over alleged distortions in the key TD3C oil shipping benchmark. https://www.bairdmaritime.com/shipping/baltic-exchange-blames-mercuria-lawsuit-for-muddying-shipping-markets https://www.bloomberg.com/news/articles/2026-04-30/mercuria-sues-baltic-exchange-over-hormuz-hit-shipping-benchmark",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
+      "engagement_numbers": [],
+      "links": [
+        "https://www.bairdmaritime.com/shipping/baltic-exchange-blames-mercuria-lawsuit-for-muddying-shipping-markets",
+        "https://www.bloomberg.com/news/articles/2026-04-30/mercuria-sues-baltic-exchange-over-hormuz-hit-shipping-benchmark"
       ],
-      "links": [],
-      "char_count": 268,
-      "has_link": false
-    },
-    {
-      "key": "e7f3bb5a26a95453",
-      "author": "Kjell100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
-      "posted_relative": "for 4 t siden",
-      "text": "\"Våre\" rater, fredag. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina            677,78       704.025",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        8
-      ],
-      "links": [],
-      "char_count": 122,
-      "has_link": false
-    },
-    {
-      "key": "e91e516e24f0f27a",
-      "author": "shippinganalytiker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
-      "posted_relative": "for 1 t siden",
-      "text": "TD3C FFA opp ~2% i dag. FFA utledet verdi ved full betaling er 16.09 FFA utledet verdi i Mercuria caset er 12.50.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        33,
-        1
-      ],
-      "links": [],
-      "char_count": 113,
-      "has_link": false
-    },
-    {
-      "key": "1b4a51b82c12d5a2",
-      "author": "nokar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
-      "posted_relative": "for 13 min siden",
-      "text": "Skulle undre meg om vi ikke ser det ja",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 38,
-      "has_link": false
-    },
-    {
-      "key": "e9f467bbb88bcf20",
-      "author": "nokar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
-      "posted_relative": "for 3 t siden",
-      "text": "Å der fyker den opp igjen 😍",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        15
-      ],
-      "links": [],
-      "char_count": 27,
-      "has_link": false
-    },
-    {
-      "key": "fe3ea8cda0c85a83",
-      "author": "blacktime",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacktime",
-      "posted_relative": "for 32 min siden",
-      "text": "Ser vi 15 denne uken?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 21,
-      "has_link": false
+      "char_count": 533,
+      "has_link": true
     }
   ]
 }

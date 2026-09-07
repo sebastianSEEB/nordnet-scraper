@@ -1,28 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-07T11:00:11.897459+00:00",
+  "scraped_at": "2026-09-07T13:01:37.739870+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "f7f8ecd9e483ad67",
-      "author": "StockEmHigh",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stockemhigh",
+      "key": "d39a1b33ef71e04d",
+      "author": "Mensch",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mensch",
       "posted_relative": null,
-      "text": "3. sep. · Endret Til de som tror det vil bli utbetalt utbytte fra Bluenord i Q3, dette er fra børsmeldingen 21.07: \"BlueNord's second quarter dividend, announced on 9 July 2026, will be paid to BlueNord shareholders of record in accordance with the announced terms. No further dividends will be declared by BlueNord prior to completion of the transaction.\" https://newsweb.oslobors.no/message/678466",
+      "text": "3. sep. · Bluenord ser ikke ut til å følge Vår Energis kurs, men henger marginalt med 4-6 NOK. Det er kjedelig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "f9803d9d4a28947f",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": null,
+      "text": "3. sep. · Kom igjen, vi skal opp til 570",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        9
+        1
       ],
-      "links": [
-        "https://newsweb.oslobors.no/message/678466"
-      ],
-      "char_count": 399,
-      "has_link": true
+      "links": [],
+      "char_count": 40,
+      "has_link": false
     }
   ]
 }

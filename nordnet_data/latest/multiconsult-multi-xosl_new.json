@@ -1,37 +1,37 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-09-07T11:05:35.398998+00:00",
+  "scraped_at": "2026-09-07T13:07:16.587773+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
+  "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "61d2ad2e48517764",
-      "author": "ABC Invest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/abc-invest",
-      "posted_relative": "for 3 t siden",
-      "text": "Ja, kildeskatt er noe dritt og å få disse pengene tilbake er seig materie. Dette er vel mer en overtakelse på sikt.",
+      "key": "f86e9ffb7f45c419",
+      "author": "TheFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thefox",
+      "posted_relative": "for 1 t siden",
+      "text": "Er det bestemt hvilken børs/børser det nye selskapet skal være notert på?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "ff8f9fe5c0484797",
+      "author": "AndreasMork",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andreasmork",
+      "posted_relative": "for 16 min siden",
+      "text": "· begge",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 115,
-      "has_link": false
-    },
-    {
-      "key": "aa7356b8f9357c46",
-      "author": "Tiur1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiur1",
-      "posted_relative": "for 4 t siden",
-      "text": "Noen med tanker om fusjonen med Rejlers?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 40,
+      "char_count": 7,
       "has_link": false
     }
   ]
