@@ -1,9 +1,36 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-07T16:23:47.728829+00:00",
+  "scraped_at": "2026-09-07T20:22:49.301926+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "08a2ab9c243ba51b",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Da bør man, hvis man har cash,kjøpe mere som waren buffet ville gjort. Han elsker hvis et selskap han har kjøpt til en god pris blir enda billigere. Da utnytter han dette til sin fordell",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 186,
+      "has_link": false
+    },
+    {
+      "key": "8a94d738cd954bc8",
+      "author": "trani",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trani",
+      "posted_relative": "for 3 t siden",
+      "text": "· Har vi is i magen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

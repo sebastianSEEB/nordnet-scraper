@@ -1,9 +1,36 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-09-07T16:17:18.787059+00:00",
+  "scraped_at": "2026-09-07T20:16:17.845558+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ae6dd6ba42ff36a5",
+      "author": "House shark",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/house-shark",
+      "posted_relative": "for 1 t siden",
+      "text": "Er det bare meg som synes alng er svært spennende om dagen. Vi har fått på plass en tradingdesk med 11 personer. Wilforce har fått seg en last og wilpride går av kontrakt nå medio september. Vi går inn i vintersesongen med lave gasslagre. Lng markedet er i ferd med å absorbere all nybygg. Skal ikke stramme seg til veldig før vi får noen gode spott rater. For ikke å snakke om 27 og 28 når det virkelig strammer seg til. Ikke usannsynlig med en skikkelig reprising av selskapet med trading avd som en stor joker. Vinteren kommer om vi liker det eller ikke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 557,
+      "has_link": false
+    },
+    {
+      "key": "bddcd3a09521a5e2",
+      "author": "House shark",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/house-shark",
+      "posted_relative": null,
+      "text": "3. sep. WilForce er nå i Dampier, ifølge AIS-data oppdatert mindre enn én time siden.  * VesselFinder viser også at WilForce ankom Dampier 3. september kl. 11:47 UTC og ligger ved anker.  * Det finnes en offisiell melding fra Pilbara Ports om vedlikeholdsarbeid i Dampier, men den gjelder Dampier Cargo Wharf 21.–25. september.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 327,
+      "has_link": false
+    }
+  ]
 }

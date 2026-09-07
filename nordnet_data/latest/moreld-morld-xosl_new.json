@@ -1,9 +1,38 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-07T16:20:26.435501+00:00",
+  "scraped_at": "2026-09-07T20:19:28.695807+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4c8f92fb3720cfc0",
+      "author": "SpanskOliven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "posted_relative": "for 2 t siden",
+      "text": "Må være reaksjon på tildeling aksjer til ansatte @23.10 NOK. 18% av ansatte som kjøpte aksjer er ikke så mange",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "c50a56045098a280",
+      "author": "SpanskOliven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjedde i dag? Korreksjon?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }
