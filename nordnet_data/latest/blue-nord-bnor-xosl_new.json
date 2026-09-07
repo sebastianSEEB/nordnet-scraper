@@ -1,37 +1,25 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-07T13:01:37.739870+00:00",
+  "scraped_at": "2026-09-07T16:18:25.566392+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "d39a1b33ef71e04d",
+      "key": "03bd19ad9c347b04",
       "author": "Mensch",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mensch",
       "posted_relative": null,
-      "text": "3. sep. · Bluenord ser ikke ut til å følge Vår Energis kurs, men henger marginalt med 4-6 NOK. Det er kjedelig.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 111,
-      "has_link": false
-    },
-    {
-      "key": "f9803d9d4a28947f",
-      "author": "lasse1635",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
-      "posted_relative": null,
-      "text": "3. sep. · Kom igjen, vi skal opp til 570",
+      "text": "3. sep. · Deprimerende kursutvikling i dag. Er det skuffelse over den sløve premien til Bluenords aksjonærer i fusjonsavtalen med Energi som gjør at kursen ikke følger Vårs krone for krone? Er vi for mange som står i kø ved utgangen?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        1,
+        7
       ],
       "links": [],
-      "char_count": 40,
+      "char_count": 233,
       "has_link": false
     }
   ]

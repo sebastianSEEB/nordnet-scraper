@@ -1,9 +1,23 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-09-07T13:02:23.751489+00:00",
+  "scraped_at": "2026-09-07T16:19:03.091547+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9120fbe533a236e3",
+      "author": "SatoshiNakamoto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/satoshinakamoto",
+      "posted_relative": "for 53 min siden",
+      "text": "Hva har jeg sagt 442 438",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

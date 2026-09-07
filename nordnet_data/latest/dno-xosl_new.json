@@ -1,9 +1,56 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-07T13:04:13.973574+00:00",
+  "scraped_at": "2026-09-07T16:20:47.242910+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c622a9ac6718abe7",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 2 t siden",
+      "text": "Er en kamp om hver ettøring. De må bare manipulere til de blir skeive i trynet. Selger ikke en aksje på disse tulle nivåer Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    },
+    {
+      "key": "0593e55d10174c00",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 2 t siden",
+      "text": "Helt enig med tospann. har benyttet anledningen i dag og fylt på ennå mere i dag på disse røverkurser !!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "bb2b72b646960006",
+      "author": "Kjell Makrell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell-makrell",
+      "posted_relative": "for 1 t siden",
+      "text": "Dno skal tette gapet oppover på 20.8 om kort tid",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

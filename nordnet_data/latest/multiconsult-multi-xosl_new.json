@@ -1,37 +1,35 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-09-07T13:07:16.587773+00:00",
+  "scraped_at": "2026-09-07T16:23:51.442273+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "f86e9ffb7f45c419",
-      "author": "TheFox",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thefox",
-      "posted_relative": "for 1 t siden",
-      "text": "Er det bestemt hvilken børs/børser det nye selskapet skal være notert på?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 73,
-      "has_link": false
-    },
-    {
-      "key": "ff8f9fe5c0484797",
-      "author": "AndreasMork",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andreasmork",
-      "posted_relative": "for 16 min siden",
-      "text": "· begge",
+      "key": "51eddcfdc652eee4",
+      "author": "HightowerH20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hightowerh20",
+      "posted_relative": "for 43 min siden",
+      "text": "Dette gjorde Multi da de kjøpte Hjellnes Consult under samme navn for å fjerne en konkurrent. Rejlers gjør det samme her og ønsker å fjerne Multi fra kartet. Trodde Norco skulle en vakker dag kjøpe hele Multi, men dessverre kom Rejlers først. Å gjøre noe sånt etter flere svake kvartaler på rad viser hvor desperat ledelse Multi har. Svært skuffende for norsk rådgiver bransje.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 7,
+      "char_count": 377,
+      "has_link": false
+    },
+    {
+      "key": "abb5e3edfeaa620b",
+      "author": "AksjeBelge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjebelge",
+      "posted_relative": "for 2 t siden",
+      "text": "Men om selskapet blir svensk så blir det kildeskatt på utbytte, irriterende.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
       "has_link": false
     }
   ]

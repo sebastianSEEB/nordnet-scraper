@@ -1,9 +1,55 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-07T13:04:41.025166+00:00",
+  "scraped_at": "2026-09-07T16:21:10.864173+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2e9e589659238b7b",
+      "author": "Jo4more",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jo4more",
+      "posted_relative": null,
+      "text": "3. sep. Det svaret er det kun du som sitter på - etter at du har lest deg skikkelig opp på caset. Men mange synes det er et godt tidspunkt (etter å ha lest seg opp og fulgt med på caset en stund.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 195,
+      "has_link": false
+    },
+    {
+      "key": "dffb32c153ee604d",
+      "author": "Senor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/senor",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvorfor går det nedover igjen - ser ikke noe som skulle tilsi dette?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "cf63b8f18d91d77f",
+      "author": "Lukaseik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lukaseik",
+      "posted_relative": null,
+      "text": "3. sep. Lurt og kjøpe nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

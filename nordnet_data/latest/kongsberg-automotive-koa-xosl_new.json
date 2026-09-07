@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-07T13:08:19.380032+00:00",
+  "scraped_at": "2026-09-07T16:24:56.606633+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9b499049cf12c175",
+      "author": "Sheriff1978",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sheriff1978",
+      "posted_relative": "for 39 min siden",
+      "text": "Tror til og med bladet =Oslo slår KOA i omsetning snart! 🤯",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "akva-group-akva-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akva-group-akva-xosl",
-  "scraped_at": "2026-09-07T13:06:50.169870+00:00",
+  "scraped_at": "2026-09-07T16:23:29.035080+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f1fe2b98cc782e59",
+      "author": "kmj12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmj12",
+      "posted_relative": null,
+      "text": "3. sep. Hvorfor så stort hopp opp nå? Ikke at jeg klager :D Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }
