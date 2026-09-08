@@ -1,9 +1,51 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-08T07:02:57.345741+00:00",
+  "scraped_at": "2026-09-08T11:45:29.060737+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "50bfdd5ad70792c4",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 54 min siden",
+      "text": "Jeg har fylt på og sitter rolig, så får dere andre krangle i vei 🤣😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "eb79bc8470a5e893",
+      "author": "Bravo666",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bravo666",
+      "posted_relative": "for 4 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "08a613a867452860",
+      "author": "Telletrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/telletrade",
+      "posted_relative": "for 3 t siden",
+      "text": "· Trist da hehe! :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

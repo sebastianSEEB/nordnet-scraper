@@ -1,9 +1,39 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-08T07:02:20.478148+00:00",
+  "scraped_at": "2026-09-08T11:44:54.936811+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "170c1d1cf96564ff",
+      "author": "Sistemann inn..",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
+      "posted_relative": "for 3 t siden",
+      "text": "Her er det bare å være tålmodig. Slik de største norske investorene er. For tiden er det mye trading i aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "d1ae3ce4b1ae5b24",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": null,
+      "text": "4. sep. Vurderer sterkt å forlate linkaksjen for godt. Slitsomt å sitte i er vel fasit.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        9
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-09-08T07:00:46.410813+00:00",
+  "scraped_at": "2026-09-08T11:43:35.511995+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7b587aa86a73ac7a",
+      "author": "mening",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mening",
+      "posted_relative": null,
+      "text": "4. sep. Lav omsetning får man når selgerne ikke er villige til å selge for den prisen kjøperne tilbyr. Eller kjøperne ikke er villige til å betale den prisen selgerne forlanger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    },
+    {
+      "key": "c2c57131b5ac1e37",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": null,
+      "text": "4. sep. Lit av en omsetning her i dag nesten ingen bevegelse heller her ? noen som har en forklaring ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    }
+  ]
 }

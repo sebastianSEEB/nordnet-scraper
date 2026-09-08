@@ -1,9 +1,25 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-08T07:00:53.663080+00:00",
+  "scraped_at": "2026-09-08T11:43:39.206981+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3fa6c97767a577e3",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.nordnet.no/market/news/616cf7a6-8410-4be1-b4a8-6519e9776124",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.nordnet.no/market/news/616cf7a6-8410-4be1-b4a8-6519e9776124"
+      ],
+      "char_count": 71,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,51 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-08T07:04:33.665614+00:00",
+  "scraped_at": "2026-09-08T11:47:04.952950+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f2e720be6e57c2c0",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 1 t siden",
+      "text": "· Virker å være det samme hver dag, aksjen stiger for så å sakte falle ned mot der den startet, dagens stigning maks en tidel eller to",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "da9667fa8cf5eb2e",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 3 t siden",
+      "text": "Skulle sågar BP legge inn bud på DNO sin KRG olje. hva snakkes det da om ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "1a1503be9af99b81",
+      "author": "Kjell Makrell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell-makrell",
+      "posted_relative": "for 3 t siden",
+      "text": "Slipper taket snart. Dno er så sykt undervurdert. Nå må man få betalt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

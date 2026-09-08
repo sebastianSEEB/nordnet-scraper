@@ -1,9 +1,42 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-08T07:05:39.476876+00:00",
+  "scraped_at": "2026-09-08T11:48:04.389088+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c01723caa6a00b05",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 6 min siden",
+      "text": "Akofs Offshore-refinansierer lån og benytter kjøpsopsjon: https://osvnyheter.no/osv-nyheter-uke-37-7-13-september-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://osvnyheter.no/osv-nyheter-uke-37-7-13-september-2026"
+      ],
+      "char_count": 118,
+      "has_link": true
+    },
+    {
+      "key": "9887ac5521dddf28",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 16 min siden",
+      "text": "Oppfordrer folk til å regne på hva det betyr for aksjekursen i AKASTOR. Oslo (Infront TDN Direkt): Akastor ASAs (OSE: AKAST) 66,7 % eide datterselskap AKOFS Offshore AS (AKOFS Offshore) har i dag inngått en revolverende kredittfasilitetsavtale på 300 millioner USD («Låneavtalen») med DNB Bank ASA og Sparebank 1 Sør-Norge ASA. Låneavtalen har en løpetid på 4 år og er uten regressrett for aksjonærene. I tillegg til å refinansiere de eksisterende låneavtalene for «AKOFS Seafarer» og «AKOFS Santos», vil låneavtalen også gi AKOFS Offshore finansiering som er nødvendig for å utøve kjøpsopsjonen på «Aker Wayfarer» som for tiden er leid fra Ocean Yield ASA. AKOFS Offshore har derfor i dag gitt en formell melding om at de utøver kjøpsopsjonen ved utløpet av leieperioden, som vil tre i kraft i 3. kvartal 2027 mot en betaling på 57,7 millioner USD. Aker Wayfarer opererer for tiden under kontrakt med Petróleo Brasileiro S.A. (Petrobras) i Brasil og ble tildelt en ny fireårskontrakt i første kvartal 2026, med forventet oppstart i tredje kvartal 2027.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 1053,
+      "has_link": false
+    }
+  ]
 }

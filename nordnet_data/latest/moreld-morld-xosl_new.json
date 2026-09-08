@@ -1,9 +1,38 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-08T07:04:18.607099+00:00",
+  "scraped_at": "2026-09-08T11:46:50.043636+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bb5616e973c64882",
+      "author": "tre010",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tre010",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er vel mange ansatte i Moreld Apply, som har avstått, pga nedbemanning og usikre tider.  Aksjen har steget mye i det siste, så dette er vel bare e en pust i bakken, uavhengig av ansatt programmet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 200,
+      "has_link": false
+    },
+    {
+      "key": "bf76f14a3f1ad987",
+      "author": "pennyinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennyinvest",
+      "posted_relative": null,
+      "text": "4. sep. · Det blir bra😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

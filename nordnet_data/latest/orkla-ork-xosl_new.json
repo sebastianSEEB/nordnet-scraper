@@ -1,9 +1,54 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-08T07:06:31.266616+00:00",
+  "scraped_at": "2026-09-08T11:48:58.454247+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "49010ff2698493ed",
+      "author": "S4LM14K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/s4lm14k",
+      "posted_relative": "for 2 t siden",
+      "text": "De nye KI-illustrerte Stabburet-etikettene ser fryktelige ut, jeg sendte en klage til Orkla foods, og håper flere gjør det samme. KI-bestemor ser billig og creepy ut, og det ødelegger for merkevaren og så mye annet. Dessuten: Hva f... var vitsen med å endre merkevaren fra Nora?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 278,
+      "has_link": false
+    },
+    {
+      "key": "5df70d009d331ee5",
+      "author": "Vollen Invest as",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vollen-invest-as",
+      "posted_relative": "for 1 t siden",
+      "text": "Tipper det skal vise seg at dagens nivåer kan være en god inngang. Viktig at Orkla klarer lempe økte kostnader på forbrukerbe for da å opprettholde inntjeningen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    },
+    {
+      "key": "665df7e7d8ed10c2",
+      "author": "spoderman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spoderman",
+      "posted_relative": "for 1 t siden",
+      "text": "AI-slop implementert for å presse ut siste øre av avkastning. Boomerne tror at de er fryktelig smarte med teknologisk nyvinning.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    }
+  ]
 }

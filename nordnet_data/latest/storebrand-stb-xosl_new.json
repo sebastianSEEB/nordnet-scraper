@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-08T07:06:35.167774+00:00",
+  "scraped_at": "2026-09-08T11:49:02.146777+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1430225df5fabd39",
+      "author": "NoobieGains",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noobiegains",
+      "posted_relative": "for 1 t siden",
+      "text": "Økende utbytter og forsikring kommer ikke til å være mindre relevant i fremtiden, det er sikkert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

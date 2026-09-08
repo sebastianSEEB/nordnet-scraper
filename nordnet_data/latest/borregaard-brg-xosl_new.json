@@ -1,9 +1,23 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-08T07:05:43.141543+00:00",
+  "scraped_at": "2026-09-08T11:48:08.883664+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1182fd5f818b00f0",
+      "author": "Rentesrente",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rentesrente",
+      "posted_relative": "for 4 t siden",
+      "text": "Styrket krone slår negativt ut for Borregaard.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

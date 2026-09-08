@@ -1,9 +1,67 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-08T07:03:04.695709+00:00",
+  "scraped_at": "2026-09-08T11:45:36.648505+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "099e283b63e4d89c",
+      "author": "Beyond-21",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
+      "posted_relative": "for 1 t siden",
+      "text": "Fra FA: Bjellesauene laster opp: Kan sitte på datasenterjoker Spetalen, Halvorsen, Mohn og Haudemann-Andersen har alle dukket opp på eiersiden i industrikonsernet. Nå peker både forvalter Atle Hauge og Danske Bank på en mulig joker på Island.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    },
+    {
+      "key": "8f171e938d88ae4a",
+      "author": "Funkemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funkemannen",
+      "posted_relative": null,
+      "text": "4. sep. Solgte meg ut i går, forventet nedgang, men den gang ei. Selvsagt glad på andre sine vegne. Hadde investech en ny motstand vi kan følge med på ?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    },
+    {
+      "key": "4b986e90841bcafd",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 t siden",
+      "text": "Tidligere ble det sagt kursmål 36-38, nå i ca. 37. Skjønner at det er litt halleljula-stemning, men nær toppen nå tenker jeg ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "6f25414c71275183",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva er det som driver kursen opp de siste par dager ? SB1M-analysen ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        8
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

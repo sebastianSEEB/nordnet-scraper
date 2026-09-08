@@ -1,9 +1,38 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-08T07:02:01.202586+00:00",
+  "scraped_at": "2026-09-08T11:44:36.057727+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1774a38331cf065f",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 t siden",
+      "text": "· CMBTO eller FRO Bli medlem av Nordnet Social for å gi din stemme Logg inn CMBTO FRO 3 stemmer • 2 dager 22 timer igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "f03d057d3cc7c99f",
+      "author": "Henrik1971",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henrik1971",
+      "posted_relative": null,
+      "text": "4. sep. · Når er x-dagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

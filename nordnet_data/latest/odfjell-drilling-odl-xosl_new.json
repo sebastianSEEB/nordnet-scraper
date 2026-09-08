@@ -1,9 +1,39 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-09-08T07:03:09.283909+00:00",
+  "scraped_at": "2026-09-08T11:45:40.407878+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0e4984cfe9722f52",
+      "author": "same-jacki",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/same-jacki",
+      "posted_relative": null,
+      "text": "4. sep. Bomma litt. Har kjøpt en liter doktorsprit i tilfelle",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "7ae6ff9917cef84e",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": null,
+      "text": "4. sep. Når kjøper Odl siste Nol riggen 2026 eller 2027?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        9
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

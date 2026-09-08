@@ -1,9 +1,67 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-08T07:06:09.152307+00:00",
+  "scraped_at": "2026-09-08T11:48:35.066449+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "5b013a686475f3e5",
+      "author": "tanaids",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tanaids",
+      "posted_relative": "for 4 t siden",
+      "text": "· Noen som vet når utbyttet kommer? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "c0a8363a9401658f",
+      "author": "ndnd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ndnd",
+      "posted_relative": "for 3 t siden",
+      "text": "· Mmm snart 400 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "1d713140eaa85772",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 1 t siden",
+      "text": "🔮 sier ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
+      "has_link": false
+    },
+    {
+      "key": "5b877caf41147d11",
+      "author": "Eltarri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eltarri",
+      "posted_relative": "for 2 t siden",
+      "text": "· 2027? 😄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
+      "has_link": false
+    }
+  ]
 }

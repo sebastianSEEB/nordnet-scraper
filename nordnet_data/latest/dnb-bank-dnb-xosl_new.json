@@ -1,9 +1,25 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-08T07:06:01.710370+00:00",
+  "scraped_at": "2026-09-08T11:48:27.678865+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "328ed3f6d3e0ca66",
+      "author": "nimrooz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nimrooz",
+      "posted_relative": null,
+      "text": "4. sep. · Sverige har valg rett rundt hjørnet, og hvis regjeringen skifter, tipper jeg at veksten ikke vil skje. Så jeg ville ikke plassere pengene mine i noe som er avhengig av svensk vekst akkurat nå.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 202,
+      "has_link": false
+    }
+  ]
 }

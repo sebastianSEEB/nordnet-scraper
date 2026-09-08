@@ -1,9 +1,80 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-08T07:05:09.858268+00:00",
+  "scraped_at": "2026-09-08T11:47:32.308672+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "a9ff8f5c7eac363b",
+      "author": "JB83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jb83",
+      "posted_relative": "for 3 t siden",
+      "text": "Sidesteget på Alpehumle er ferdig. Ingen melding om hva de har funnet. Boringen varte 15 dager, 2807MD, 22M dypere enn planlagt.  Boringen var dypere og raskere enn planlagt. Mulig å tolke dette begge veier - men noen resultater kan vi forvente snart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 251,
+      "has_link": false
+    },
+    {
+      "key": "a2c0853974ea4e30",
+      "author": "Tottentotti",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tottentotti",
+      "posted_relative": null,
+      "text": "4. sep. Hei. Noen som kan forklare hvorfor denne aksjen ikke vipper over 40 kr. Straks den er nær der-går den alltid ned......Virker som en veldig solid aksje- så når bryter den igjennom 40 kr grensa?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 200,
+      "has_link": false
+    },
+    {
+      "key": "a07d42e48f2a5262",
+      "author": "Dolfi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dolfi",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "vet du om riggen er der fortsatt eller dratt?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "919c408dd1e57e70",
+      "author": "Charging-Bull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/charging-bull-2",
+      "posted_relative": "for 1 t siden",
+      "text": "Gassen er vel ikke hedget nå?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "d64d2a015ecf3916",
+      "author": "fjell3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjell3",
+      "posted_relative": null,
+      "text": "4. sep. Ken selger i dag???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

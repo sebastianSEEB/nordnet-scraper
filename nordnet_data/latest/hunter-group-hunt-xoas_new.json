@@ -1,9 +1,81 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-08T07:05:50.505629+00:00",
+  "scraped_at": "2026-09-08T11:48:16.385873+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "4c6a51003625219a",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Nå er summen på ca 550 mill NKR økt fra 411 mill de kommer ikke til å betale før en rettskraftig dom kommer. Også kan de sikkert anke hvis de taper, hvis dem ikke inngår et forlik. Ser ikke at dette har noen løsning før saken med Baltic Exchange er løst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 253,
+      "has_link": false
+    },
+    {
+      "key": "850ca1689fd8ce79",
+      "author": "måneferd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maneferd",
+      "posted_relative": "for 3 t siden",
+      "text": "Kan ikke noe om aksjer, men fikk en rolig 90% avkastning på et par måneder her. Henter matpakken og ser meg ikke tilbake. Mums!😇",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        5
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "9a8555b7a94ffd7b",
+      "author": "shippinganalytiker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "posted_relative": "for 4 t siden",
+      "text": "Faktisk Mercuria betaling i August = 190kpd. Høyeste til nå. Scrubber Premium i August var på 34.6kpd. Høyeste til nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        28,
+        3
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "328c2cbb84ebd67c",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": "for 1 t siden",
+      "text": "Kan nok fint hende han har fylt på litt igjen i dag på 13.80-13.90 ☺️ får se det i kveld",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "42c9f73fde694dc7",
+      "author": "aksjeinvestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeinvestor",
+      "posted_relative": "for 4 min siden · Endret",
+      "text": "Det var ment som en kommentar til HST som kommenterte på Vihaa sitt innlegg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    }
+  ]
 }
