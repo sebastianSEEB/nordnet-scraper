@@ -1,9 +1,25 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-08T01:57:56.783229+00:00",
+  "scraped_at": "2026-09-08T06:49:50.478081+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "93735aefb048c171",
+      "author": "PlusMere2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/plusmere2",
+      "posted_relative": "for 1 t siden",
+      "text": "· Fin produksjon. Bare ergerlig at det ikke er Vår's egne penger. Lenger.... Her kan man gjerne felle en tåre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }

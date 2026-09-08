@@ -1,9 +1,23 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-09-08T02:04:04.788075+00:00",
+  "scraped_at": "2026-09-08T06:56:20.987713+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4f54b2087f2c63e5",
+      "author": "stratix",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
+      "posted_relative": "for 32 min siden",
+      "text": "Håper ikke noen i Reach blir tatt ut i streik, det vil påvirke kvartalet negativt.  Saken skal vel opp til megling og om det ikke nytter så risikerer vi streik om vel 14 dagers tid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    }
+  ]
 }

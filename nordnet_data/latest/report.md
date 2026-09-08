@@ -1,93 +1,77 @@
-# Nordnet-rapport (2026-09-07T11:07:39.514545+00:00)
+# Nordnet-rapport (2026-09-08T06:57:33.618110+00:00)
 
-# Aksjeforum-analyse — Nordnet Social
+# Shipping-/aksjeforum-analyse
 
-## Maritime segmenter (tank, gass, tørrbulk, container, RoRo, offshore)
+## TANK RÅOLJE
 
-### Tank råolje (FRO, OET)
-**Klassifisering: Positivt signal (sterkt for OET, geopolitisk drevet)**
-- **Okeanis Eco Tankers (OET)**: Rater på over $800.000/dag rapportert for skyttel-trafikk gjennom Hormuzstredet, og over $350.000/dag for Bab el-Mandeb-seilinger. Iran har erklært Hormuzstredet «fullstendig stengt» for normal trafikk og opprettet en ny sperresone; kun 7-8 skip passerer nå mot over 100 tidligere. AIS-data viser at OET-skip (Nissos Kea) gjennomfører transitter. Diskusjon om at OET tar på seg betydelig risiko (mannskap, flåtekonsentrasjon) for disse ratene, mens Frontline unngår Hormuz.
-- Generell shipping-sektor: Finansavisen-artikkel om «600 % avkastning i shipping på fem år» delt på flere aksjer (OET, MPCC, Hunter Group).
-- Bredere markedskommentar (ALLVIS/Arctic Securities): VLCC-rater fra Mexicogolfen til Kina opp 5,9 % til ~$196.200/dag, suezmax-rater opp 16,4 % til ~$94.200/dag — sterkt momentum i råoljetank generelt.
+### Frontline (FRO) — Positivt signal
+Sterk nyhetsflyt: Arctic Securities og Pareto Securities melder om VLCC-rater over 200.000 USD/dag fra Mexicogolfen for Q4-slutninger. Clarksons spår at "tankfesten" fortsetter inn i 2027 med strukturell kapasitetsknapphet. En bruker peker på at 7 VLCC-er med lav TC-rate (76.900 USD/dag) blir ledige fra jan/vår 2027, noe som gir oppside dersom markedet holder seg over dette nivået. Utbytte på 2,61 USD bekreftet, ex-dato 18. sep 2026. Motvekt: enkelte meldinger om at Iran/Oman nærmer seg en avtale om sikker passasje i Hormuz, samt Bessent-uttalelser om mulig oljepris på 40 USD ved fred med Iran, presset kursen ned intradag.
 
-### Tank produkt/kjemikalier (HAFNIA, STOLT)
-**Klassifisering: Ingenting nevneverdig (kun administrativt)**
-- Hafnia: Diskusjon om utbytte på $0,5003/aksje, utbetaling 23. september. Forvirring om doble ex-datoer forklart som teknisk/notering-relatert (USA vs Oslo), ikke reelt dobbelt utbytte.
+### Okeanis Eco Tankers (OET) — Positivt signal
+Samme segment-dynamikk som FRO: Suezmax/VLCC-rater ekstremt høye, med rapporterte skytteltrafikk-rater over 800.000 USD/dag gjennom Hormuz og 350.000+ USD/dag gjennom Bab-el-Mandeb. China Merchants Energy spår fortsatt sterkere VLCC-inntekter i Q4. Flåtesporing viser fortsatt aktiv skytteltrafikk (Nissos-skip). AIS-data viser 12 "compliant" passeringer gjennom Hormuz 6. sep uten mørke passeringer — indikerer noe normalisering av trafikk, som kan dempe ratepress på sikt.
 
-### Gass (BW LPG, KCC, alng)
-**Klassifisering: Positivt signal (sterkt)**
-- **BW LPG**: Oppgradert til KJØP av SpareBank 1 Markets (fra nøytral), kursmål hevet fra NOK 200 til NOK 250. VLGC-rater fra Mexicogulfen ~$161.600/dag drevet av arbitrasje og Panama-kanal-restriksjoner (30 av 110 augustavganger tvunget via Kapp det gode håp). Aksjen opp 2,9 % til 233,40 kr. Europeiske gasspriser til høyeste nivå siden 2022 (74,99 EUR/MWh) etter ny eskalering USA/Iran i helgen.
-- **Klaveness Combination Carriers (KCC)**: Hovedeier har solgt ned fra 51 %-posisjon — tolkes av forumet som positivt for likviditet, ingen negative signaler fremkommer.
-- alng: Nyhet om overskudd på skip gir tapsbringende rater i Atlanteren og Asia (Fearnleys ukesrapport) — svakt negativt for LNG-segmentet spesifikt, kontrasterer med sterk LPG.
+### Hunter Group (HUNT) — Blandet
+Høye WS-rater (AG/Kina 699,44 / TCE ~727.649 USD) nevnt som positivt for eksponering. Samtidig pågår rykter om nærmere Iran/Oman Hormuz-avtale som kan redusere risikopremie. Også nevnt: Mercuria har saksøkt Baltic Exchange (april 2026) angående TD3C-referanserate, og har visstnok også et søksmål mot Hunter Group — usikker konkret betydning, men verdt å følge.
 
-### Tørrbulk (2020 Bulkers, Himalaya, Jinhui)
-**Klassifisering: Blandet**
-- **Himalaya Shipping**: FFA svekket seg etter stengt Oslo Børs (sept ned 1.200, okt ned 1.000). Én bruker shorter aksjen. Samtidig Kina-cape rate opp $1.566 til $57.810/dag samme dag — motstridende signaler kort- vs mellomlangsiktig.
-- **Jinhui**: Gode rater generelt, men selskapet har låst mye kapasitet på lavere rater enn spot for resten av året — begrenser oppside på kort sikt.
+## TANK PRODUKT/KJEMIKALIER
 
-### Container (MPCC)
-**Klassifisering: Ingenting nevneverdig**
-- Diskusjon om kontraktsdekning 2027/2028 og risiko for ratefall når logistikkflaskehalser løses; ingen konkrete nye tall.
+### Hafnia (HAFNI) — Ingenting nevneverdig
+Kun praktiske spørsmål om utbytte-/kalenderfeil hos Nordnet, ingen substansielle nyheter.
 
-### Bilfrakt/RoRo (HAUTO, WAWI, WWI/WWIB)
-**Klassifisering: Ingenting nevneverdig**
-- Kun spørsmål om GPS-oppdatering kostnad hos HAUTO, ingen substans.
+### Stolt-Nielsen (SNI) — Ingen nye innlegg denne runden.
 
-### Offshore spesialisert (CMB.TECH, Western Bulk, Capital Tankers)
-**Klassifisering: Ingenting nevneverdig**
-- Ingen substansielle nyheter, kun lenker/kommentarer uten kontekst.
+## GASS
 
----
+### Klaveness Combination Carriers (KCC) — Positivt signal
+Finansavisen-artikkel: tørke i Panamakanalen kan gi ratehopp for KCC pga. kapasitetsknapphet i shipping generelt. Tidligere storsalg av aksjer omtalt som ikke fundamentalt negativt («produktmarkedet har noen veldig gode år foran seg» — Finansavisen 3. sep). Diskusjon om kombinasjonsskipenes fordel (frakt begge veier, høyere utnyttelse) styrker den langsiktige investeringstesen.
 
-## Andre selskaper med relevante innlegg
+### BW LPG (BWLPG) — Positivt signal
+Financial Times (gjengitt 7. sep): Panamakanalen kan kutte daglige passeringer til 27 (fra 32) pga. vannmangel, verste scenario siden 1997. Auksjonspriser for transitt har økt fra snitt 253.180 USD (jan/feb) til 1,25 mill USD. BW LPG-CEO Kristian Sørensen bekrefter at flere skip nå tar omveier via Sør-Afrika/Sør-Amerika — direkte positivt for rater i LPG-segmentet.
 
-### AutoStore (AUTO) — Positivt signal
-Barclays oppgraderer fra nøytral til overvekt, kursmål hevet fra 18,20 til 20,50 kr. Ny ordre fra StrongPoint til norske Lindas Dekor (6.000 kasser, 6 roboter) — liten ordre isolert, men bekrefter fortsatt momentum blant mindre nettbutikk-kunder.
+### ALNG (unotert ticker/xoas) — Positivt signal
+Bruker beskriver ny tradingdesk (11 personer), Wilforce/Wilpride kontraktsutløp medio september, lave gasslagre inn i vintersesongen, og LNG-markedet i ferd med å absorbere nybygg-kapasitet — potensial for reprising, spesielt 2027/2028. Ikke bekreftet analytikerdekning, kun brukeranalyse.
 
-### Circio Holding (CRNA) — Positivt signal (spekulativt)
-Spekulasjon om opptak i OSEBX hovedindeks denne uken, med henvisning til DNB Carnegie-analyse fra slutten av august som nevner Circio som en av to mest sannsynlige nykommere. Også sektornyhet fra sørkoreansk Rznomics om forbedret circRNA-produksjonseffektivitet (7x bedre sirkularisering) — ikke direkte validering av Circios teknologi, men positivt for sektorsentiment.
+**Kryssegment-notat gass/tørrbulk:** Panamakanal-vannmangelen nevnt både under KCC, CMB.TECH og BW LPG er en tydelig kryssegment-hendelse som trolig også påvirker Himalaya Shipping, 2020 Bulkers og Jinhui (tørrbulk) samt containerfrakt (MPCC) via lengre seilingsdistanser og kapasitetsknapphet.
 
-### Vår Energi (VAR) — Blandet
-Diskusjon om at norske raffinerier (kun Mongstad/Equinor, 20 % dekning) gir Vår en ulempe vs. selskaper med egen raffineringskapasitet, spesielt gitt gunstig skatteregime for raffinering (22 % vs 78 % på utvinning). Høy gassandel nevnt som delvis oppveiende faktor.
+## TØRRBULK
 
-### Panoro Energy (PEN) / OKEA / DNO / Aker BP — Positivt (oljepris-drevet)
-Brent opp ~7 % på en uke drevet av Hormuz-eskalering; Panoro ned kun 1,5 % samme periode. Morgan Stanley hever TTF-gassprisprognoser til 88 EUR/MWh Q4 og 83 EUR Q1 2027 (~20 % over futures) — positivt for OKEA (NAV nærmere 60 kr i dette scenariet). DNO-diskusjon om Kurdistan-eksport og potensial til 24 kr. Aker BP inkludert i Paretos anbefalte modellportefølje for september; oljepris nær 97-100 dollar nevnt som støttende.
+### Himalaya Shipping (HSHP) — Positivt signal
+Rekordhøyt månedsutbytte: 0,25 USD (opp fra 0,22 USD forrige måned). Ex-dag 17.9, på konto 30.9. Positivt for utbytteinvestorer og indikerer sterk kontantstrøm i tørrbulk-segmentet nå.
 
-### Zaptec (ZAP) — Positivt signal
-ABG Sundal Collier oppjusterer kursmål fra tidligere nivå til 70/65 kr, gjentar kjøpsanbefaling, forventer resultat over forventning for Q3. Innsidekjøp nevnt: styremedlem Ingelin Drøpping kjøpte 5.000 aksjer 3.9.
+### CMB.TECH (CMBTO) — Positivt signal
+SB1 Markets har CMB.TECH som favoritt i sin septemberportefølje (bjellesau-liste), tatt inn forrige måned. Meglerhuset trekker frem tørrbulk-utsikter og «betydelig rabatt til verdijustert egenkapital» — «en aksje å eie inn mot Q4 og 2027». Samme Panamakanal-artikkel som for KCC nevnes også her, relevant for tørrbulk-eksponeringen i selskapet.
 
-### Kongsberg Maritime (del av KOG) — Positivt signal
-Oppkjøp av isbryter-teknologi (Arktis-fokus), andre oppkjøp på kort tid innen fremdrift/propeller-segmentet (etter Berg Propulsion AB i juni).
+### 2020 Bulkers / Jinhui Shipping — Ingen nye innlegg denne runden, men kryssegment-relevant pga. tørrbulk-sentiment (Himalaya-utbytte, CMB.TECH-anbefaling, Panamakanal-tørke) er trolig positivt bakteppe også for disse.
 
-### Kongsberg Gruppen (KOG) — Positivt signal
-Zelenskyj planlegger Norges-besøk for å diskutere antiballistiske våpen/luftvern, med Kongsberg nevnt som mulig leverandør i Europa-finansiert opprustning.
+## CONTAINER
 
-### Tomra Systems (TOM) — Negativt/Blandet
-Frankrike trekker tilbake planer om nasjonal pantsystem for plastflasker etter politisk press — Pareto anslo Frankrike-bidrag til 6-7 kr/aksje for Tomra ved 50 % markedsandel. Aksjen falt kraftig (omtalt som 63 % fall fra topp til 2000-nivå). Forumet diskuterer om dette er overreaksjon siden Frankrike ikke har forlatt pant permanent, bare skjøvet ansvar til regionalt nivå.
+### MPC Container Ships (MPCC) — Ingenting nevneverdig
+Et langt brukerinnlegg gransker eierstruktur/related-party-transaksjoner (Nara/Nuria 2024) og finner ingen tegn til utnyttelse av minoritetsaksjonærer («ikke Castor 2.0»). Ingen konkrete nye katalysatorer.
 
-### Envipco (ENVIP) — Blandet
-Samme Frankrike-nyhet som Tomra, men Pareto anslår høyere verdi for Envipco (16-17 kr/aksje ved 30 % markedsandel, kursmål over 90 kr inkl. Frankrike). Analytiker (Jørgensen) mener markedsreaksjonen er overdrevet politisk «wording». Samtidig bekymring om cash burn og mulig emisjonsbehov innen 6 måneder.
+## BILFRAKT/RORO
 
-### Grieg Seafood (GSF) — Positivt signal (svakt)
-COO/innsider (Elzbieta Eide-Olsen Wingaard) har kjøpt aksjer, ifølge børsmelding.
+### Wilh. Wilhelmsen Holding (WWI/WWIB) — Positivt signal
+DN/Finansavisen-referert analyse (Robert Næss, Sissener/lignende forvalter) verdsetter WWI-aksjen basert på sum-of-parts: ~40% eierandel i Wallenius Wilhelmsen verdt >600 kr/aksje, Hyundai Glovis-posten ~270 kr, øvrige noterte investeringer (bl.a. Reach Subsea) ~27 kr, egen maritim service ~300 kr — totalt rundt 1.200 kr vs. dagens lavere kurs. Næss omtaler WWI som sin største enkeltposisjon og mener den er klart underpriset.
 
-### Borregaard (BRG) — Blandet
-Q2-tap forklart av nedskrivning på 337 mill. i Alginor-investering + 30 mill. i grunnsikringskostnader; underliggende EBITDA stabil (515 mill. vs 522 mill. året før), justert EPS 2,35 kr.
+### Höegh Autoliners (HAUTO) / Wallenius Wilhelmsen (WAWI) — Ingen nye innlegg denne runden, men WWI-analysen over er direkte kryssegment-relevant siden WWI eier ~40% av WAWI (tett korrelert eksponering per segmentmetadata).
 
-### Moreld (MORLD) — Positivt signal
-Hevet kursmål og forventning om utbyttedobling; spekulasjon om stor kontrakt i Afrika som kunne gi kraftig resultatvekst og nytt skip (Finansavisen).
+## OFFSHORE/SPESIALISERT
 
-### Kitron (KIT) — Positivt (brukerdrevet, lite konkret nyhet)
-Generell optimisme om sterke resultater og utvidet produksjon, ingen konkrete nye tall utover brukervurdering.
+### Solstad Offshore (SOFF) / Solstad Maritime (SOMA) — Ingenting nevneverdig
+Remota (fjernstyrt fartøysoperatør) har fullført sitt første helt fjernstyrte oppdrag ifølge OSV Nyheter — teknologisk milepæl, men ingen finansielle detaljer oppgitt.
 
-### Nykode Therapeutics (NYKD) — Positivt signal (spekulativt)
-Liste over kjente norske investorer (Arne Fredly, Arne Blystad m.fl.) som har økt/tatt nye posisjoner, ifølge bruker — ikke bekreftet via offisiell kilde i dette utdraget.
+### Reach Subsea (REACH) — Negativt signal (svakt)
+Mulig streikerisiko nevnt (megling pågår, streik kan komme om ca. 14 dager) som kan påvirke kommende kvartal negativt dersom det materialiserer seg.
 
----
+### DOF Group (DOFG) — Blandet
+Tidligere innsidesalg (~10% av innehav kuttet) nevnt fra uken før. Danske Bank nevner DOF som ett av åtte topp-anbefalte aksjer (7-8 sep).
 
-## Kryssegment-observasjoner
-- **Hormuz-eskalering er hovedtema tvers over hele tank/gass-segmentet**: Bekreftet iransk sperresone, USA-angrep på iranske tankskip, og iransk missilbeskytning av amerikanske skip i helgen. Dette driver samtidig opp: råoljetank-rater (OET), gasspriser i Europa (BW LPG-relatert), og oljepris (Brent opp mot 97-100 dollar) — med positive ringvirkninger for Panoro, OKEA, DNO, Aker BP og Vår Energi.
-- **Panamakanal-restriksjoner** driver samtidig opp rater i BW LPG (VLGC) og indirekte containerfrakt via lengre seilaser om Kapp det gode håp — bekrefter kryssegment-mønsteret fra metadata.
-- Ellers ingen tørrbulk- eller RoRo-hendelser som treffer hele segmentet samtidig denne runden.
+### Capital Tankers Corp (CAPT) — Ingenting nevneverdig
+Kun subjektiv brukerkommentar uten substans.
+
+## ØVRIGE KRYSSEGMENT-FUNN
+
+- **Hormuz-stredet:** Situasjonen er i rask bevegelse — rapporter om ekstreme skytteltrafikk-rater (800.000+ USD/dag) sameksisterer med rykter/meldinger om at Iran og Oman er «i sluttfasen» av forhandlinger om en sikker seilingskorridor (Bloomberg/CBS-referert). Dette er en joker som kan snu sentimentet raskt i råoljetank (FRO, OET, HUNT) og indirekte gass (ALNG, BWLPG).
+- **Panamakanalen:** Bekreftet fra Financial Times (7. sep) at daglige passeringer kan kuttes til 27 (fra planlagt 32) pga. historisk vannmangel — nevnt eksplisitt som positivt for BW LPG (LPG), KCC (kombinasjonsskip/tørrbulk) og CMB.TECH (tørrbulk). Dette er en tydelig kryssegment-driver som sannsynligvis også påvirker øvrige tørrbulk- og gasselskaper (Himalaya, 2020 Bulkers, Jinhui, ALNG) positivt via lengre seilingsdistanser og høyere rater.
 
 Dette er en signalrapport basert på forumaktivitet, ikke en kjøps- eller salgsanbefaling.

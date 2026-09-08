@@ -1,9 +1,41 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-09-08T01:58:34.339124+00:00",
+  "scraped_at": "2026-09-08T06:50:30.994151+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2d88c9d76ef2e715",
+      "author": "Shesai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shesai",
+      "posted_relative": "for 30 min siden",
+      "text": "Ser at AAT har begynt å kjøpe igjen på dette nivået. Det er hvertfall positivt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "d575c4ee37124c5e",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": "for 23 t siden",
+      "text": "Må nok ned til 450 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

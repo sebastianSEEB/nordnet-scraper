@@ -1,9 +1,25 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-09-08T02:02:05.063534+00:00",
+  "scraped_at": "2026-09-08T06:54:15.248029+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "279e190bad27f5c9",
+      "author": "IsoMaha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isomaha",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden · https://www.marketscreener.com/news/yara-international-opens-a-new-site-ce785bdbd18bff23",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.marketscreener.com/news/yara-international-opens-a-new-site-ce785bdbd18bff23"
+      ],
+      "char_count": 118,
+      "has_link": true
+    }
+  ]
 }

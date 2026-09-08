@@ -1,9 +1,25 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-08T01:58:19.204259+00:00",
+  "scraped_at": "2026-09-08T06:50:15.727407+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1c82fde765f85bcf",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Donald vil ha både Grønland og Island, sist han truet Grønland på nyåret steig kursen. Finansavisa: https://www.finansavisen.no/makro/2026/09/07/8378611/trump-har-tegnet-nytt-usa-kart-vil-ha-island-ogsa",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/makro/2026/09/07/8378611/trump-har-tegnet-nytt-usa-kart-vil-ha-island-ogsa"
+      ],
+      "char_count": 202,
+      "has_link": true
+    }
+  ]
 }

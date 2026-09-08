@@ -1,9 +1,27 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-08T02:01:49.805220+00:00",
+  "scraped_at": "2026-09-08T06:53:54.309071+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ea0df0272ff0d654",
+      "author": "littlecaeser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littlecaeser",
+      "posted_relative": "for 30 min siden",
+      "text": "https://www.finansavisen.no/tele/2026/09/08/8378640/telenor-med-gigantavtale-et-sentralt-grep Denne setter nok litt flammer under kursen. Sitter med opplevelsen at det vil komme noe flere nyheter nå framover mot Q3. Har selv snittet meg godt å løpende nedover fra Mars.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/tele/2026/09/08/8378640/telenor-med-gigantavtale-et-sentralt-grep"
+      ],
+      "char_count": 269,
+      "has_link": true
+    }
+  ]
 }

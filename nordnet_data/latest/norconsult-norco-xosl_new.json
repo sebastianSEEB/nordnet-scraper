@@ -1,9 +1,41 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-09-08T01:59:11.498895+00:00",
+  "scraped_at": "2026-09-08T06:51:11.892457+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a4d1aaf198ded057",
+      "author": "Jabbidabbadoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jabbidabbadoo",
+      "posted_relative": "for 18 t siden",
+      "text": "Multiconsult og Rejlers slår seg sammen. https://e24.no/boers-og-finans/i/8p7111/multiconsult-vil-slaa-seg-sammen-med-svenske-rejlers Multi stiger 3% på nyheten. Negativt for Norco? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/8p7111/multiconsult-vil-slaa-seg-sammen-med-svenske-rejlers"
+      ],
+      "char_count": 201,
+      "has_link": true
+    },
+    {
+      "key": "a1ac3062b5cba140",
+      "author": "Hagmor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hagmor",
+      "posted_relative": "for 3 min siden",
+      "text": "Tror ikke det vil påvirket Norconsult så mye. Men de utfyller hverandre kanskje i hvert sitt land. Men ulempen her er kildeskatt på 15 % på utbytter. Som i praksis betyr ekstra skatt for de med ASK konto.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    }
+  ]
 }

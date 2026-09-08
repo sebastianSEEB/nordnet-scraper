@@ -1,23 +1,25 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-08T02:01:41.135423+00:00",
+  "scraped_at": "2026-09-08T06:53:46.729687+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 6,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "562a13cf95b935eb",
-      "author": "bpettera",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bpettera",
-      "posted_relative": "for 1 t siden",
-      "text": "Fredsavtale, ok men det blir ikke å skje med Russland. Selv om det skulle bli fred må Europa ruste opp og bruke milliarder på forsvar.3",
+      "key": "20304c25d61c9a78",
+      "author": "LDA",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lda",
+      "posted_relative": "for 13 min siden",
+      "text": "https://www.finansavisen.no/finans/2026/09/08/8378474/danske-banks-toppvalg-analysesjefen-anbefaler-atte-aksjer",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 135,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/08/8378474/danske-banks-toppvalg-analysesjefen-anbefaler-atte-aksjer"
+      ],
+      "char_count": 111,
+      "has_link": true
     }
   ]
 }
