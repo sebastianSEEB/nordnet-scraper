@@ -1,9 +1,57 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-08T11:56:39.197873+00:00",
+  "scraped_at": "2026-09-08T15:40:36.218406+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "cc3c08ad593227d8",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": null,
+      "text": "4. sep. https://www.intrafish.no/okonomi/lakseprisen-uendret-veldig-sterkt-gitt-de-enorme-volumene/2-1-2039450",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.intrafish.no/okonomi/lakseprisen-uendret-veldig-sterkt-gitt-de-enorme-volumene/2-1-2039450"
+      ],
+      "char_count": 110,
+      "has_link": true
+    },
+    {
+      "key": "1fdfe3df1a5eb98b",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": null,
+      "text": "4. sep. https://ilaks.no/lakseprisen-gar-sidelengs-i-marked-preget-av-historisk-hoye-salgsvolumer/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://ilaks.no/lakseprisen-gar-sidelengs-i-marked-preget-av-historisk-hoye-salgsvolumer/"
+      ],
+      "char_count": 98,
+      "has_link": true
+    },
+    {
+      "key": "98b2c8aedacfbdf4",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Frøken Freddy: ca. midten av desember er vanligvis alltid høye laksepriser. Ca 1. juli pluss/minus 1 uke er alltid motsatt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    }
+  ]
 }

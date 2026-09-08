@@ -1,9 +1,38 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-08T11:55:35.584068+00:00",
+  "scraped_at": "2026-09-08T15:39:33.705816+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6771802c72f32200",
+      "author": "dreliten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dreliten",
+      "posted_relative": null,
+      "text": "4. sep. · Endret De to salgspostene der på 75k pluss er eneste grunn til at vi ikke er på 43 tallet i dag utfra det som skjer i USA akkurat nå. Man legger ikke en slik sperre om man vil ha mest mulig for sine aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 216,
+      "has_link": false
+    },
+    {
+      "key": "837137646a3bc8c9",
+      "author": "RichardGere",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/richardgere",
+      "posted_relative": null,
+      "text": "4. sep. Noen som kjenner til årsaken til handelsstopp?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

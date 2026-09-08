@@ -1,9 +1,54 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-08T11:58:35.297940+00:00",
+  "scraped_at": "2026-09-08T15:42:23.593226+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8fca312c3c65711c",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 21 t siden",
+      "text": "Teknisk ser det skummelt ut for ORK. Brutt halslinje i en HS formasjon ved kr 96 . dersom denne tar ut sitt potensiale kan den gå ned til 70 kr...  På den andre siden er den oversolgt og kommer den over 96 igjen og avblåse hele signalet Time will show... Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 274,
+      "has_link": false
+    },
+    {
+      "key": "489a1013863c50a8",
+      "author": "BlakeMaxwell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blakemaxwell",
+      "posted_relative": "for 59 min siden",
+      "text": "· Har nettopp kjøpt aksjer i Orkla for første gang. Gleder meg til å se hva fremtiden bringer 🍺🤑",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "df2f63f0d9977554",
+      "author": "All Time High",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/all-time-high",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden · 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-08T11:59:17.228938+00:00",
+  "scraped_at": "2026-09-08T15:43:01.636677+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f6450dd6accb2bdd",
+      "author": "Kaa31",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaa31",
+      "posted_relative": "for 2 t siden",
+      "text": "Fikk en tlf i dag. Hva skjer om jeg sier nei? Dette er min første og beste aksje. Så litt emosjonelt🙈 positive og negative sider m å selge.?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "503f114abd707849",
+      "author": "Bjoornar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjoornar",
+      "posted_relative": "for 3 min siden",
+      "text": "Blitt nedringt idag av Pareto idag. Antar det er ett push for signatur. Avventer. Samme situasjon som deg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-08T11:58:16.154618+00:00",
+  "scraped_at": "2026-09-08T15:42:03.929165+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "633bf3b5ad059c2f",
+      "author": "rocketman84",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rocketman84",
+      "posted_relative": "for 17 min siden",
+      "text": "Lykke til med det 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    },
+    {
+      "key": "9fa6550d5078e0a7",
+      "author": "Mortey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortey",
+      "posted_relative": "for 3 t siden",
+      "text": "solgt :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

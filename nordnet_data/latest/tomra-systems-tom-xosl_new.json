@@ -1,9 +1,36 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-08T11:54:41.776294+00:00",
+  "scraped_at": "2026-09-08T15:38:36.735922+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fdcad84a1ad17bd4",
+      "author": "Amenemhat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amenemhat",
+      "posted_relative": "for 1 t siden",
+      "text": "Mange av de franske kommunene er nok fortsatt positive og klare til å rulle",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "c467177b28592dc1",
+      "author": "MORTEN R",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morten-r",
+      "posted_relative": "for 3 t siden",
+      "text": "Helt riktig , franskmenn kan være litt trege ...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

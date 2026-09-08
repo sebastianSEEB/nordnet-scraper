@@ -1,9 +1,38 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-09-08T11:55:08.750727+00:00",
+  "scraped_at": "2026-09-08T15:39:05.798585+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4e0eab3d0d4729f8",
+      "author": "Assmn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/assmn",
+      "posted_relative": "for 52 min siden",
+      "text": "God aktivitet gjennom hele dagen og avslutter med stor omsetning og ender på dagens høyeste kurs. Lover godt for de neste dagene, månedene og årene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 148,
+      "has_link": false
+    },
+    {
+      "key": "8e25606bae6b8632",
+      "author": "palyful",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/palyful",
+      "posted_relative": "for 1 t siden",
+      "text": "Tikker oppover. Tipper tilbake på 105  innen 1.des hvis olja holder seg over 80",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }

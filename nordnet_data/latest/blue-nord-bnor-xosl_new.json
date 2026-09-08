@@ -1,9 +1,53 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-08T11:54:11.405928+00:00",
+  "scraped_at": "2026-09-08T15:38:06.480108+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5e069a226a57f7c6",
+      "author": "Quebrada",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quebrada",
+      "posted_relative": "for 3 t siden",
+      "text": "Ny rekord på Tyra-feltet Bluenord produserte i snitt 44.300 fat oljeekvivalenter per dag i august, viser foreløpige tall.  Mesteparten av produksjonen kommer fra Tyra-feltet på dansk sokkel i Nordsjøen hvor produksjonen var på 27.400 fat per dag. Fra feltene Dan, Gorm og Halfdan ble det produserte 16.900 fat per dag.  Tyra-feltet satte ny produksjonsrekord med en daglig produksjonsrate på 29.900 fat per dag 17. august.  Bluenord blir snart en del av Vår Energi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 465,
+      "has_link": false
+    },
+    {
+      "key": "c1cf18a4490802bd",
+      "author": "KjekkenKjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
+      "posted_relative": "for 1 t siden",
+      "text": "BlueNord har offentliggjort sine foreløpige produksjonstall for august, som viser stabil drift ved den viktige Tyra-huben, sammen med forventede midlertidige nedganger i basisaktivaene. Basisaktivaene gjennomgikk planlagt vedlikehold og utskifting av utstyr, men produksjonen var tilbake på normale nivåer ved månedsslutt. Resultatene er i tråd med kvartalsguidingen, noe som utløste en positiv markedsreaksjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 411,
+      "has_link": false
+    },
+    {
+      "key": "1819cf64dd68f34e",
+      "author": "Vihaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
+      "posted_relative": "for 7 t siden",
+      "text": "· Vil vi snart se en ny all time high..??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-08T11:55:01.197405+00:00",
+  "scraped_at": "2026-09-08T15:38:57.810318+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "479863044534f8c1",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er vel noen som hevder at sol blir den som bidrar til mest energi framover, så kan jo bli bra på sikt..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "4c9ec2f38707b0e6",
+      "author": "VicAnt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vicant",
+      "posted_relative": null,
+      "text": "4. sep. God inntjening og vekst burde være i skuddet ihvertfall slik Scatec har.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ]
 }

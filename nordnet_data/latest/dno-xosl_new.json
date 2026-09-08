@@ -1,9 +1,36 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-08T11:56:31.583675+00:00",
+  "scraped_at": "2026-09-08T15:40:28.613754+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "69e12c53850346c7",
+      "author": "Kahlim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kahlim",
+      "posted_relative": "for 32 min siden",
+      "text": "Det optimale nå er om de kunne fått Lime pottisen som er på tvangssalg for en ok pris. Tror analytikere setter mer pris på et slikt kjøp en Egypt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "54a7604816b5eef2",
+      "author": "Lemmy4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lemmy4",
+      "posted_relative": "for 26 min siden",
+      "text": "Hvorfor skulle BP være interessert i å kjøpe i KRG? Det passer vel slettes ikke med BPs strategier?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    }
+  ]
 }

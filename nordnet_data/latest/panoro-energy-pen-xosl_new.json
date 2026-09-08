@@ -1,9 +1,51 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-08T11:54:38.008194+00:00",
+  "scraped_at": "2026-09-08T15:38:32.985868+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c224196e77bba26e",
+      "author": "heltsjef",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltsjef",
+      "posted_relative": "for 7 t siden",
+      "text": "Ser panoro har kommet på short siden.  Nesten 700 000 shortet. Høy risiko med så liten omsetning",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "90628d4c14db839d",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 29 min siden",
+      "text": "Olje aksjer kommer IKKE til å kollapse. Gaute er en idiot hvis han virkelig tror det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "c8db39687e228d91",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 2 t siden",
+      "text": "Veldig høy risiko at man taper penger på å shorte Panoro",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

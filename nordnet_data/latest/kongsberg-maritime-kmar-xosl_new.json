@@ -1,9 +1,58 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-08T11:56:45.369283+00:00",
+  "scraped_at": "2026-09-08T15:40:40.059577+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4f0b15b3ff218cbf",
+      "author": "Holteri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holteri",
+      "posted_relative": "for 2 t siden",
+      "text": "Bra timing fra Kongsberg Maritime: https://steerprop.com/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15
+      ],
+      "links": [
+        "https://steerprop.com/"
+      ],
+      "char_count": 57,
+      "has_link": true
+    },
+    {
+      "key": "8c02e6e815cbd299",
+      "author": "oliverrrr999",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oliverrrr999",
+      "posted_relative": "for 6 t siden",
+      "text": "Hvis denne krysser 58 kan det se bra ut 🤩🤩🤩🤩🤩 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        3
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "762ab288911141fc",
+      "author": "2Good2Go",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/2good2go",
+      "posted_relative": "for 3 t siden",
+      "text": "Ikkje hvis men når☺️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

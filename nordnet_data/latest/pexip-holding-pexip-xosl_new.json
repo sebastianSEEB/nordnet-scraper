@@ -1,9 +1,39 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-09-08T11:56:23.902685+00:00",
+  "scraped_at": "2026-09-08T15:40:20.068822+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3985955f9f73c3aa",
+      "author": "Rentesrente",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rentesrente",
+      "posted_relative": "for 19 min siden",
+      "text": "Selvsagt er det hans fulle rett å selge når han vil.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "617ecbbe2a371cce",
+      "author": "Texas Lad",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texas-lad",
+      "posted_relative": null,
+      "text": "4. sep. Får håpe billigsalget stopper i dag🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        4
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }
