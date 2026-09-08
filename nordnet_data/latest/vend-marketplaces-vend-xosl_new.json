@@ -1,27 +1,23 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-08T15:38:21.497007+00:00",
+  "scraped_at": "2026-09-08T19:08:52.668472+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
+  "total_posts_on_page": 7,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "f75ca8e8fc7d6128",
-      "author": "Vargas12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vargas12",
-      "posted_relative": null,
-      "text": "4. sep. Analytiker Martine Kverne er verdt å lytte til: https://tv.finansavisen.no/nb/watch/8327",
+      "key": "77ea5a8506836542",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": "for 1 t siden",
+      "text": "Vil du dele innhold?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        6
-      ],
-      "links": [
-        "https://tv.finansavisen.no/nb/watch/8327"
-      ],
-      "char_count": 96,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
     }
   ]
 }

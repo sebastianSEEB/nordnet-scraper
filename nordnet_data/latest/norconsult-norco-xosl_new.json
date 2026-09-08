@@ -1,9 +1,25 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-09-08T15:39:26.192322+00:00",
+  "scraped_at": "2026-09-08T19:09:53.642067+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "658c2c5fab87e8fc",
+      "author": "Venn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
+      "posted_relative": null,
+      "text": "4. sep. · Endret Kursen bevegde seg nå endelig over 40kr igjen på et OK volum, og krysset også kursen det 200 glidende gjennomsnitt (SMA200). Om kursen fortsetter sakte men sikkert oppover så vil SMA50 krysse SMA200, og vil da forme et gyldent kors, en av de mest anerkjente indikatorene innen teknisk analyse. Tålmodighet belønner seg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15
+      ],
+      "links": [],
+      "char_count": 336,
+      "has_link": false
+    }
+  ]
 }

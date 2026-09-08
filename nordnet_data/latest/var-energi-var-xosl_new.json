@@ -1,103 +1,35 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-08T15:42:15.400130+00:00",
+  "scraped_at": "2026-09-08T19:12:47.773508+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 6,
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a23f3e9c5067c522",
-      "author": "slidemonkey",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/slidemonkey",
-      "posted_relative": "for 2 t siden",
-      "text": "· https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?CMP=Share_iOSApp_Other",
-      "reply_count": null,
+      "key": "683c1bba0280aaa8",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 54 min siden",
+      "text": "Gassprisen er nå 76,45 og kryper oppover for hver dag. Begynner å undre på om vi ser 2022 tilstander til vinteren.",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [
-        "https://www.theguardian.com/world/2026/sep/08/houthi-strike-saudi-arabia-oil-facilities-middle-east-war-iran?CMP=Share_iOSApp_Other"
-      ],
-      "char_count": 133,
-      "has_link": true
-    },
-    {
-      "key": "e8021814efdb5faa",
-      "author": "Hoppalong C",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hoppalong-c",
-      "posted_relative": "for 3 t siden",
-      "text": "Da sier jeg takk til Vår Energi for en flott reise. Kommer nok tilbake ved en senere anledning. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5,
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 115,
+      "char_count": 114,
       "has_link": false
     },
     {
-      "key": "c14a2c7c29eea06d",
-      "author": "Reddhare",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reddhare",
-      "posted_relative": "for 3 t siden",
-      "text": "Ai ai for ein fin reise. Skal vi opp til 52 + Nå på slutten av dagen.?? Ny ATH ??",
+      "key": "cebb0bc0b56c5775",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 7 min siden",
+      "text": "· Foreløpige men troverdige opplysninger: USA angriper to oljetankere nær Kharg.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 81,
-      "has_link": false
-    },
-    {
-      "key": "aeb7f959bd8fc8a1",
-      "author": "iverjai",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iverjai",
-      "posted_relative": "for 2 t siden",
-      "text": "Investerte utbytte rett inn igjen. Har tror på videre oppgang",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        12
-      ],
-      "links": [],
-      "char_count": 61,
-      "has_link": false
-    },
-    {
-      "key": "ef408161f6b1a174",
-      "author": "Reddhare",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reddhare",
-      "posted_relative": "for 3 t siden",
-      "text": "Oljeprisen Stiger nå....",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        1
-      ],
-      "links": [],
-      "char_count": 24,
-      "has_link": false
-    },
-    {
-      "key": "5e760aa8eff0d030",
-      "author": "Reddhare",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reddhare",
-      "posted_relative": "for 3 t siden",
-      "text": "98,8 $ på fat.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 14,
+      "char_count": 80,
       "has_link": false
     }
   ]

@@ -1,39 +1,94 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-08T15:41:41.124199+00:00",
+  "scraped_at": "2026-09-08T19:12:09.893786+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "d3571be059598e34",
-      "author": "Sandiz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sandiz",
-      "posted_relative": "for 1 t siden",
-      "text": "· +600% og selger ikke. Har noen dividender igjen å hente. Selskapet tjener jo daglig godt med penger, så er ikke urolig her, også nysgjerrig på hva de skal finne på som neste greie.",
+      "key": "feae61f69bcc45a0",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 59 min siden",
+      "text": "Det er ikke akkurat penger det står på for disse. Overskuddet i 2025 var litt i overkant av 1 mrd usd ned fra 2 mrd usd I 2024.  Mercuria Energy Group is one of the world's five largest independent energy and commodity trading companies, generating annual revenues and turnover typically ranging between US$130 billion and over US$170 billion (with peak revenues hitting $174 billion).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 385,
+      "has_link": false
+    },
+    {
+      "key": "f2c25529bbab41ff",
+      "author": "bahiom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
+      "posted_relative": "for 44 min siden",
+      "text": "Er det en reell mulighet for at HUNT viderefører selskapet etter kontraktene går ut- enten i form av leie av nye skip, eller noe helt annet? Eller er det bestemt (eller høyst sannsynlig) at penger blir delt ut og selskapet avviklet? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 182,
+      "char_count": 252,
       "has_link": false
     },
     {
-      "key": "9405dce72e3f8923",
-      "author": "Fasadeendring",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fasadeendring",
-      "posted_relative": "for 1 t siden",
-      "text": "Sikkert trangt inn dørå imårå!",
+      "key": "a26f6b33750da284",
+      "author": "phor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
+      "posted_relative": "for 3 t siden",
+      "text": "VLCC TD3C TCE (AG ->CN) +32k to 760⬆️ VLCC TD3C FFA up ~6%⏫️ Bwet i skrivende stund 535.31 (+5.97%)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        9
       ],
       "links": [],
-      "char_count": 30,
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "cdceef62ac371916",
+      "author": "Vidarco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vidarco",
+      "posted_relative": "for 3 t siden",
+      "text": "Har Hunt annonsert rettslige skritt for å få inn utestående fra kunde?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "4ee98484aaf068aa",
+      "author": "Fasadeendring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fasadeendring",
+      "posted_relative": "for 5 t siden",
+      "text": "Sikkert trangt inn dørå imårå! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "572f2ec5ec3f86f6",
+      "author": "bahiom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
+      "posted_relative": "for 27 min siden",
+      "text": "Takker, ny 2020 Bulker...:-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
       "has_link": false
     }
   ]
