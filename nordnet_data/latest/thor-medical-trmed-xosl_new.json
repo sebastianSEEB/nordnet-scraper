@@ -1,9 +1,23 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-07T23:16:15.149504+00:00",
+  "scraped_at": "2026-09-08T02:04:01.134572+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "65a7a496565e6400",
+      "author": "Foyton",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/foyton",
+      "posted_relative": "for 1 t siden",
+      "text": "3.9-4kr så er jeg innteressert",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }
