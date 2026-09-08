@@ -1,9 +1,25 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-08T06:51:19.574230+00:00",
+  "scraped_at": "2026-09-08T07:03:38.150985+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cb2da35ad92de7ab",
+      "author": "dreliten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dreliten",
+      "posted_relative": null,
+      "text": "4. sep. En større, aggressiv selger har trykket ned kursen de siste dagene.  Bare å vente til dette er ferdig og så gå inn, ganske enkelt å se aktiviteten i ordreboken for den som følger litt med.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 196,
+      "has_link": false
+    }
+  ]
 }
