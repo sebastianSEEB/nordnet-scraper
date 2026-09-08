@@ -1,22 +1,42 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-08T19:08:52.668472+00:00",
+  "scraped_at": "2026-09-08T22:10:08.593599+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "77ea5a8506836542",
-      "author": "Middagsbuffet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
-      "posted_relative": "for 1 t siden",
-      "text": "Vil du dele innhold?",
+      "key": "642f661e4b3cb65b",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": "for 15 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/09/08/8378474/danske-banks-toppvalg-analysesjefen-anbefaler-atte-aksjer Vend :-) Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        9,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/08/8378474/danske-banks-toppvalg-analysesjefen-anbefaler-atte-aksjer"
+      ],
+      "char_count": 140,
+      "has_link": true
+    },
+    {
+      "key": "8f871f8f6729330b",
+      "author": "@Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": null,
+      "text": "Utdrag: Danske Banks analyseteam oppdaterte nylig sin liste med toppvalg, og gruppen ser nå god oppside for blant annet Vend Marketplaces. – Aksjen har utviklet seg svakere enn sektoren de siste to månedene og er nå attraktivt priset, mens bekymringene rundt AI-disrupsjon virker overdrevne, nyhetsstrømmen er god og den svenske virksomheten blir bedre, forklarer analysesjef Hans Rettedal Christiansen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 20,
+      "char_count": 403,
       "has_link": false
     }
   ]

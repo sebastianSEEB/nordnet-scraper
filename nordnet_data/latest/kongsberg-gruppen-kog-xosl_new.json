@@ -1,71 +1,44 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-08T19:12:26.751046+00:00",
+  "scraped_at": "2026-09-08T22:13:41.522303+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "3eba6c02186dd865",
-      "author": "CapitalLogic",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capitallogic",
+      "key": "ccf3aaf99b06f7df",
+      "author": "nbvnvbnvn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nbvnvbnvn",
       "posted_relative": "for 1 t siden",
-      "text": "KOG 🚀 Zelensky møter Støre ikveld ang luftvern - rykter om at Eirik Lie er med på møtet. Patriot-lagrene tomme, Freya-prosjektet ruller videre, NASAMS-integrasjon av billigmissiler er et sexy tema akkurat nå. Nye ordrer/avtaler kan komme raskere enn markedet priser inn. Laster opp her 📈",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 287,
-      "has_link": false
-    },
-    {
-      "key": "496893ce9226bda9",
-      "author": "NordicHodler",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordichodler",
-      "posted_relative": "for 4 t siden",
-      "text": "For en skremmende oppførsel av KOG fra kl 12-16:25 :D Ble den ene inngangen min igår dette her, fortsetter den så blir det dessverre ikke mer kjøp fra min sin side",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        5
-      ],
-      "links": [],
-      "char_count": 163,
-      "has_link": false
-    },
-    {
-      "key": "a7e897297029d750",
-      "author": "Qven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/qven",
-      "posted_relative": "for 2 t siden",
-      "text": "Tålmodighet er kanskje ikke det verste å være i besittelse av..?",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 64,
-      "has_link": false
-    },
-    {
-      "key": "2aace3f7a59851b8",
-      "author": "Max Rothweiler",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/max-rothweiler",
-      "posted_relative": "for 53 min siden",
-      "text": "Zelenskyj er landet i Norge. Han har luftvern på agendaen.",
+      "text": "Her kan dere lese mer om det Ukrainsk/Europeiske missil-prosjektet Freya, som Norge og KOG nå offisielt er med i. KOG har fra før laget verdens beste kost/nytte missile i NSM og JSM. Men det vet dere fra før:  https://www.aftenposten.no/meninger/kommentar/i/rrO4k0/ukraina-krigen-hvorfor-kommer-zelenskyj-til-norge",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
+      "links": [
+        "https://www.aftenposten.no/meninger/kommentar/i/rrO4k0/ukraina-krigen-hvorfor-kommer-zelenskyj-til-norge"
+      ],
+      "char_count": 314,
+      "has_link": true
+    },
+    {
+      "key": "abfbf3d906ada64b",
+      "author": "OnAOff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onaoff",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.vg.no/nyheter/i/y5JMoK/zelenskyj-i-oslo-snakker-med-stoere-om-vaapen?utm_source=iosapp&utm_medium=share",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.vg.no/nyheter/i/y5JMoK/zelenskyj-i-oslo-snakker-med-stoere-om-vaapen?utm_source=iosapp&utm_medium=share"
+      ],
+      "char_count": 115,
+      "has_link": true
     }
   ]
 }

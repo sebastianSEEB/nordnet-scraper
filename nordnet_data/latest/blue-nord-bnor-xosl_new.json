@@ -1,9 +1,25 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-08T19:08:37.703882+00:00",
+  "scraped_at": "2026-09-08T22:09:53.628438+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ca379ca1bd0ad636",
+      "author": "Lottomannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lottomannen",
+      "posted_relative": "for 2 t siden",
+      "text": "Selger jeg BNOR nå så er det en forkjell på 2 ekstra VÅR aksjer (så sant kontantbeløpet invisteres i VÅR aksjer)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    }
+  ]
 }
