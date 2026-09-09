@@ -1,9 +1,38 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-09T18:13:28.577727+00:00",
+  "scraped_at": "2026-09-09T21:26:31.748500+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b409b36848598dc7",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Skal tidsnok opp når den fortjener det. Neste test ved 367. Det er signal om kjøp nå, iom 50ma krysser opp 100ma. Det vil skje i morgen, tar det rolig idag, tenk på Kongen idag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 205,
+      "has_link": false
+    },
+    {
+      "key": "4c06e01c46962007",
+      "author": "Vincent70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vincent70",
+      "posted_relative": "for 9 t siden",
+      "text": "Noen som kjenner Aker BP bedre enn meg som kan forklare hvorfor aksjen nøler med å stige i dag. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    }
+  ]
 }

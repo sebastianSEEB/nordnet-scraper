@@ -1,9 +1,38 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-09T18:12:01.821969+00:00",
+  "scraped_at": "2026-09-09T21:25:07.946446+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b0bd399486454569",
+      "author": "augern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/augern",
+      "posted_relative": "for 12 t siden",
+      "text": "Hva tenker folk her? Jeg har 20 prosent avkastning på denne. Har noen troa vidre, kjøp selg eller hold? Hilsen nybegynner Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "452b689a4315fa81",
+      "author": "Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dust",
+      "posted_relative": "for 32 min siden",
+      "text": "Selg i januar, kjøp i juli 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

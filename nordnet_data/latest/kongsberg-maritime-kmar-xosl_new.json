@@ -1,35 +1,37 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-09T18:12:05.868458+00:00",
+  "scraped_at": "2026-09-09T21:25:11.693527+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "f61da10504129bc1",
-      "author": "PimpFunk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
-      "posted_relative": "for 1 t siden",
-      "text": "Sett den samme tendensen, kjøp og selg aksje inntil vi når 60 Dvs kjøp 55, selg 57,80,  Så gjentar vi igjen",
+      "key": "9af389eb9e886325",
+      "author": "Kongsjefen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongsjefen",
+      "posted_relative": "for 3 t siden",
+      "text": "Bra for å holde langsiktig? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 107,
+      "char_count": 47,
       "has_link": false
     },
     {
-      "key": "4d4d5c9fb4be9cf8",
-      "author": "Kongsjefen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongsjefen",
-      "posted_relative": "for 43 min siden",
-      "text": "Bra for å holde langsiktig?",
+      "key": "e8c2c7ed5a99d3d6",
+      "author": "Jagdpanther79",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jagdpanther79",
+      "posted_relative": "for 35 min siden",
+      "text": "· Hva synes du selv?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 27,
+      "char_count": 20,
       "has_link": false
     }
   ]

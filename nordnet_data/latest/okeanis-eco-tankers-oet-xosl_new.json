@@ -1,52 +1,25 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-09T18:08:11.868979+00:00",
+  "scraped_at": "2026-09-09T21:21:20.585453+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "2ddc09ae024d5ebe",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 3 t siden",
-      "text": "· Fearnley’s: “VLCC-posisjonslisten er nå så stram at ingen ville bli overrasket om vi ser WS 400 brutt for en Fujairah/East-tur fra en prompt posisjon.” WS 400 ville være ~ $428,000/dag for en rundreise.",
+      "key": "eead6168ad691e82",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "$ 800.000.- pr dag. Hvis det var noen som lurte på hvor kursen til OKEANIS skal. Inntektene til Gulf VLCC-selskapet flørter med 800 000 dollar per dag ettersom tankskipet presser ratene til nye høyder. Mercuria inngår rekordavtale på 29,5 millioner dollar for reise fra den amerikanske gulfkysten til Kina https://www.tradewindsnews.com/tankers/gulf-vlcc-earnings-flirt-with-800-000-per-day-as-tanker-strikes-push-rates-to-new-heights/2-1-2041294",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
+      "engagement_numbers": [],
+      "links": [
+        "https://www.tradewindsnews.com/tankers/gulf-vlcc-earnings-flirt-with-800-000-per-day-as-tanker-strikes-push-rates-to-new-heights/2-1-2041294"
       ],
-      "links": [],
-      "char_count": 204,
-      "has_link": false
-    },
-    {
-      "key": "895a357f431194d7",
-      "author": "Axelrod1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "· DHT samler inn disse i et raskt tempo (synlig på TI) håper bare at de Okeanis tar er like gode om ikke bedre (noe de sannsynligvis er)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 136,
-      "has_link": false
-    },
-    {
-      "key": "443655e7613015b7",
-      "author": "Axelrod1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "· Det ser ut som hun vil kysse Kythnos og utføre STS da Kythnos er lastet i henhold til siste AIS-signal",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 104,
-      "has_link": false
+      "char_count": 446,
+      "has_link": true
     }
   ]
 }
