@@ -1,9 +1,25 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-09-09T10:23:32.857302+00:00",
+  "scraped_at": "2026-09-09T11:53:02.151735+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "501cd0ba8b18a0a8",
+      "author": "heltOK",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltok",
+      "posted_relative": "for 17 min siden",
+      "text": "Benytter muligheten til å fylle på nå. Har blitt en meget billig aksje. Lykke til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

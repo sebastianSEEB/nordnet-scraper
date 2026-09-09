@@ -1,128 +1,40 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-09T10:23:40.395551+00:00",
+  "scraped_at": "2026-09-09T11:53:10.018296+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b37b32278213a697",
-      "author": "Aksjelady",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelady",
-      "posted_relative": "for 2 t siden",
-      "text": "https://www.dn.no/bors/bors/oslo-bors/oljeprisen/oljeprisen-raser-forbi-100-dollar-fatet/2-1-2040788",
-      "reply_count": null,
+      "key": "b576559a3269e173",
+      "author": "Mattias Karlsson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mattias-karlsson",
+      "posted_relative": "for 1 t siden",
+      "text": "· Equinor er mye mer opp, men vi er fortsatt på andreplass! 😅 Vi ender nok opp med å gi alt tilbake i løpet av dagen likevel. Alle de pengene vi tjener nå kan umulig være bra for DNO, ifølge markedet… som vanlig.",
+      "reply_count": 3,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
-      "links": [
-        "https://www.dn.no/bors/bors/oslo-bors/oljeprisen/oljeprisen-raser-forbi-100-dollar-fatet/2-1-2040788"
-      ],
-      "char_count": 100,
-      "has_link": true
-    },
-    {
-      "key": "bcf4c0c59d48287c",
-      "author": "Prewia",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
-      "posted_relative": "for 3 t siden",
-      "text": "· Det blir som vanlig opp noen prosent, så pluss minus null eller noen tidel opp, dette til tross for oljepris på rundt 100 dollar. Skulle oljeprisen. Falle da blir det tvert om, vi kommer til å lede ligaen i fallende oljeaksjer.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
       "links": [],
-      "char_count": 229,
+      "char_count": 212,
       "has_link": false
     },
     {
-      "key": "d7202a629e4fd740",
+      "key": "5741e0414d3997cb",
       "author": "Amatørkongen",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
-      "posted_relative": "for 33 min siden",
-      "text": "Litt rart å sammenligne når det har vært sånne selskapshendelser og nyheter på operasjonell drift for DNO.  Om du ser på 3 og 5 år får du et mer nyansert bilde av hvor sterkt DNO har utviklet seg",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 195,
-      "has_link": false
-    },
-    {
-      "key": "b8eddea0fb1d39bf",
-      "author": "Prewia",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
-      "posted_relative": "for 7 min siden",
-      "text": "· Dem har. Mye å ta igjen, all-time high er langt unna, mens andre oljeselskaper setter all-time high på løpende bånd.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 118,
-      "has_link": false
-    },
-    {
-      "key": "670497d1f48492e2",
-      "author": "Kjell Makrell",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell-makrell",
-      "posted_relative": "for 3 t siden",
-      "text": "Eqnr opp 71 prosent i år, Dno opp 17 prosent i år. Det må bare gå en vei snart og det er opp. Siste kursmål 24 kroner",
+      "posted_relative": "for 2 t siden",
+      "text": "Helt skandale i dag, DNO går opp dobbelt så mye som andre store oljeselskaper. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         3,
-        4
+        5
       ],
       "links": [],
-      "char_count": 117,
-      "has_link": false
-    },
-    {
-      "key": "6c0edc411ea17e61",
-      "author": "Amatørkongen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
-      "posted_relative": "for 36 min siden",
-      "text": "Helt skandale i dag, DNO går opp dobbelt så mye som andre store oljeselskaper.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 78,
-      "has_link": false
-    },
-    {
-      "key": "f516e869db608735",
-      "author": "solsken1999",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solsken1999",
-      "posted_relative": "for 2 t siden",
-      "text": "· Fortsatt drømmesituasjon å fylle på med billige aksjer!!!!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 60,
-      "has_link": false
-    },
-    {
-      "key": "9efc1b346a4fde3c",
-      "author": "Cop",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
-      "posted_relative": "for 3 t siden",
-      "text": "· Spot pris 99,5 Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
-      "links": [],
-      "char_count": 36,
+      "char_count": 98,
       "has_link": false
     }
   ]

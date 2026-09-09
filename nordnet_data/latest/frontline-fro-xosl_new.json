@@ -1,118 +1,57 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-09T10:19:50.116932+00:00",
+  "scraped_at": "2026-09-09T11:49:25.675233+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "c7d7620a42358da0",
-      "author": "BenRedicFyFazan26",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
-      "posted_relative": "for 13 min siden",
-      "text": "https://www.finansavisen.no/finans/2026/01/08/8319588/frontline-med-milliardhandel 2 av de nye båtene er sjøsatt allerede på ett års kontrakter.  Blir en bra vinter",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [
-        "https://www.finansavisen.no/finans/2026/01/08/8319588/frontline-med-milliardhandel"
-      ],
-      "char_count": 164,
-      "has_link": true
-    },
-    {
-      "key": "4036217b7f5f646b",
+      "key": "3e3089f864313e4e",
       "author": "larsullern86",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsullern86",
-      "posted_relative": "for 54 min siden",
-      "text": "https://x.com/CENTCOM/status/2097448820099711412 Forsvinner en del tonnasje om dagen.",
+      "posted_relative": "for 2 t siden",
+      "text": "https://x.com/CENTCOM/status/2097448820099711412 Forsvinner en del tonnasje om dagen. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        2,
         2
       ],
       "links": [
         "https://x.com/CENTCOM/status/2097448820099711412"
       ],
-      "char_count": 85,
+      "char_count": 105,
       "has_link": true
     },
     {
-      "key": "4ec90cff8c4de1ac",
-      "author": "lhco",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lhco",
-      "posted_relative": "for 21 min siden",
-      "text": "· VLCC-ratene fra Golfen til Kina stiger til $362,000/dag... nær toppnivåene som ble sett i mars",
+      "key": "ca4eb4708b448a59",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "https://x.com/AyusoValue/status/2097608182063354009 17 år gammel VLCC 112 mill.....",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        7
       ],
-      "links": [],
-      "char_count": 96,
-      "has_link": false
+      "links": [
+        "https://x.com/AyusoValue/status/2097608182063354009"
+      ],
+      "char_count": 83,
+      "has_link": true
     },
     {
-      "key": "dfe6b444ef0ab9a3",
-      "author": "Spyrolaki",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spyrolaki",
-      "posted_relative": "for 30 min siden",
-      "text": "· 💰 det er nesten latterlig hvor mye penger frontline tjener ved slike summer.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 78,
-      "has_link": false
-    },
-    {
-      "key": "1f7637e3777c0ae3",
-      "author": "BenRedicFyFazan26",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
-      "posted_relative": "for 33 min siden",
-      "text": "Kommer til å eksplodere 450 over helgen tenker jeg",
+      "key": "b026d05de2ad4a07",
+      "author": "Mickem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mickem",
+      "posted_relative": "for 4 min siden",
+      "text": "· Mindre er mer? :)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 50,
-      "has_link": false
-    },
-    {
-      "key": "b75d4d1e4495cc15",
-      "author": "Vannhode",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vannhode",
-      "posted_relative": "for 1 t siden",
-      "text": "Front Beauly 298k! i 87 dager, on subs.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        1
-      ],
-      "links": [],
-      "char_count": 39,
-      "has_link": false
-    },
-    {
-      "key": "8f4281e54801d5c4",
-      "author": "Aframaks",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
-      "posted_relative": "for 1 t siden",
-      "text": "Jøss hva kjedelig i dag",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        1
-      ],
-      "links": [],
-      "char_count": 23,
+      "char_count": 19,
       "has_link": false
     }
   ]

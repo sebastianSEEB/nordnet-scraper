@@ -1,9 +1,23 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-09T10:22:04.717998+00:00",
+  "scraped_at": "2026-09-09T11:51:39.763544+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fd3a0fab502e81bc",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 1 t siden",
+      "text": "Da ligger vi tett på der CEO kjøpte. Neppe et galt tidspunkt å kjøpe på .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

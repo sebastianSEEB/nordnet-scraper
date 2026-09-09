@@ -1,22 +1,37 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-09-09T10:20:40.008930+00:00",
+  "scraped_at": "2026-09-09T11:50:12.839512+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6fa5bd2b6f8219f2",
+      "key": "d3944a06ec454c7d",
       "author": "victoriawin",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/victoriawin",
+      "posted_relative": "for 48 min siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "6772b3e9cb0e3985",
+      "author": "Kääretorttu",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaaretorttu",
       "posted_relative": "for 1 t siden",
-      "text": "Hva tenker dere om neste utbyttet, blir det ca samme som sist?",
+      "text": "· Blir lavere.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 62,
+      "char_count": 14,
       "has_link": false
     }
   ]
