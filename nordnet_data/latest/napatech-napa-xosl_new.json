@@ -1,9 +1,25 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-09T00:52:36.590686+00:00",
+  "scraped_at": "2026-09-09T05:33:42.930012+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3ee9973b9ca720d9",
+      "author": "Giskaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
+      "posted_relative": null,
+      "text": "5. sep. · https://www.linkedin.com/company/d-matrix?trk=blended-typeahead",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.linkedin.com/company/d-matrix?trk=blended-typeahead"
+      ],
+      "char_count": 73,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-09T00:51:36.455800+00:00",
+  "scraped_at": "2026-09-09T05:32:43.217514+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e366478248e0cc69",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 16 min siden",
+      "text": "Brent nå 99 dollar. Skal kanskje til 120 iflg analytikere i artikkel https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/ Da har en siste tilbudsdager under 30 for Panaro, noe har klart å holde kurs under fortsatt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.cbsnews.com/news/oil-prices-forecast-goldman-sachs-iran-war/"
+      ],
+      "char_count": 234,
+      "has_link": true
+    }
+  ]
 }
