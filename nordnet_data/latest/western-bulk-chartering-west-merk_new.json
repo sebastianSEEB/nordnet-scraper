@@ -1,9 +1,23 @@
 {
   "slug": "western-bulk-chartering-west-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/western-bulk-chartering-west-merk",
-  "scraped_at": "2026-09-09T21:22:30.914494+00:00",
+  "scraped_at": "2026-09-09T23:40:12.950865+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "954a939a056f3026",
+      "author": "TompeSpeedy2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tompespeedy2",
+      "posted_relative": "for 1 t siden",
+      "text": "· Tredje gangen gjelder",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

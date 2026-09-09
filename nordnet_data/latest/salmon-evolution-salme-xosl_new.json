@@ -1,9 +1,38 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-09T21:28:59.770023+00:00",
+  "scraped_at": "2026-09-09T23:46:34.295639+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9a2b4d210a616e2f",
+      "author": "Al_manjana",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/al_manjana",
+      "posted_relative": "for 10 t siden",
+      "text": "Det er ingen motstand nedover på denne aksjen nå så 3,20 er godt mulig i nær fremtid. Kjøp av fallende kniv får en gjerne blodige fingre av.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "77e8ad545566e078",
+      "author": "byku333",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/byku333",
+      "posted_relative": "for 1 t siden",
+      "text": "· .",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }
