@@ -1,22 +1,37 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-09T14:57:02.048609+00:00",
+  "scraped_at": "2026-09-09T18:11:53.998082+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b92dbf98c796686f",
-      "author": "Lallan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lallan",
-      "posted_relative": "for 1 t siden",
-      "text": "Hadde det vært opp til meg hadde DNO starta et solid tilbakekjøppeogram med alt de har av tilgjenglig cash nå. Men det er ikke opp til meg så får bare drømme videre",
-      "reply_count": 3,
+      "key": "b22003b23bfe0c86",
+      "author": "Myrsnipe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myrsnipe",
+      "posted_relative": "for 22 min siden",
+      "text": "Det tilsvarer ca 158 dollar omgjort til oljeekvivalenter.  Og med fordelingen 40/60 får DNO nå ca 123 € i snitt fra NCS. Blir fort penger av det😂",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 164,
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "d648b294661d33f5",
+      "author": "Langhårsdachs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langharsdachs",
+      "posted_relative": "for 2 t siden",
+      "text": "Bare minner om at EU-gassen nærmer seg 80 €/MWh i god fart og at DNO produserer mye gass… Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 109,
       "has_link": false
     }
   ]

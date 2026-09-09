@@ -1,110 +1,55 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-09T14:58:31.354572+00:00",
+  "scraped_at": "2026-09-09T18:13:24.717119+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 7,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "8d6a1769cd953854",
-      "author": "azza",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/azza",
-      "posted_relative": "for 5 t siden",
-      "text": "Denne aksjen har vært mitt gullegg i år, men er ute nå.  Lurer på en ting, har disse våpenfabrikkene godt nok vern mot sabotasje eller hybridangrep mon tro? Putins blekksprutarmer vikler seg rundt overalt, senest nå i Tyskland. Noen som har tanker om dette? Vis 1 kommentar til",
+      "key": "e3ed368aad2da06b",
+      "author": "LDA",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lda",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.f-b.no/fra-simulatorer-til-anti-drone-full-fart-for-kongsberg-gjengen-i-fredrikstad/s/80-59-9217",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
-      "links": [],
-      "char_count": 277,
-      "has_link": false
+      "links": [
+        "https://www.f-b.no/fra-simulatorer-til-anti-drone-full-fart-for-kongsberg-gjengen-i-fredrikstad/s/80-59-9217"
+      ],
+      "char_count": 108,
+      "has_link": true
     },
     {
-      "key": "186478e0d33ac90a",
-      "author": "Trelkovsky",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trelkovsky",
-      "posted_relative": "for 44 min siden",
-      "text": "Startet ikke du kjøpe deg inn igjen for 14 dager siden?  Du annonserte ny inngang da også.",
+      "key": "ebaefd8652ad9703",
+      "author": "winsider",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/winsider",
+      "posted_relative": "for 2 t siden",
+      "text": "Her må vi bare lukke øynene og vente på oktober.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 90,
+      "char_count": 48,
       "has_link": false
     },
     {
-      "key": "f9a9056f54bcb877",
-      "author": "Max Rothweiler",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/max-rothweiler",
-      "posted_relative": "for 10 min siden",
-      "text": "Følger sektoren, det er stort sett rødt over hele fjøla.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 56,
-      "has_link": false
-    },
-    {
-      "key": "1dfa0d6a9e60d20f",
-      "author": "Telletrade",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/telletrade",
-      "posted_relative": "for 1 t siden",
-      "text": "Ser ut som den snur akuratt der jeg sa:)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 40,
-      "has_link": false
-    },
-    {
-      "key": "3a439c7106b84e2b",
+      "key": "9d70398514c36ca3",
       "author": "Sasha15",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
-      "posted_relative": "for 31 min siden",
-      "text": "Svak utvikling🤔 Vis 1 kommentar til",
+      "posted_relative": "for 3 t siden",
+      "text": "Svak utvikling🤔",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        2
+        2,
+        3
       ],
       "links": [],
-      "char_count": 35,
-      "has_link": false
-    },
-    {
-      "key": "3bfe1054af7a50e5",
-      "author": "Tikamp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
-      "posted_relative": "for 1 t siden",
-      "text": "Og derfor ruster man opp",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 24,
-      "has_link": false
-    },
-    {
-      "key": "cbe3c8140074875d",
-      "author": "Gullfisk_1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
-      "posted_relative": "for 32 min siden",
-      "text": "Innlegget er slettet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6,
-        4
-      ],
-      "links": [],
-      "char_count": 21,
+      "char_count": 15,
       "has_link": false
     }
   ]

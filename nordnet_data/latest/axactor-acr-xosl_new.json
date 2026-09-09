@@ -1,22 +1,38 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-09T15:00:09.754586+00:00",
+  "scraped_at": "2026-09-09T18:14:53.026895+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "7ed12f2225b9409e",
-      "author": "trani",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trani",
-      "posted_relative": "for 18 min siden",
-      "text": "Må ha is i magen til denne faller under emiprisen!",
+      "key": "0661b566e47fc23f",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
+      "posted_relative": "for 59 min siden",
+      "text": "Jeg er noob, best å ikke skrive noe og heller la de store gutta styre. Kanskje 6 kroner om noen år?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 50,
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "e3a048885b2cbd7a",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
+      "posted_relative": "for 1 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        7
+      ],
+      "links": [],
+      "char_count": 21,
       "has_link": false
     }
   ]
