@@ -1,9 +1,39 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-09T05:35:44.442537+00:00",
+  "scraped_at": "2026-09-09T10:24:38.294730+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c86bf64f061c3ebb",
+      "author": "91anoch87an",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/91anoch87an",
+      "posted_relative": "for 1 t siden",
+      "text": "· Mener at kursen henter seg inn igjen. utbyttet har jeg allerede brent på flere. Unnskyld.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "86c53c4f5ec0122f",
+      "author": "91anoch87an",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/91anoch87an",
+      "posted_relative": "for 12 t siden",
+      "text": "· Fortsatt oppgang 9. sep.! Og utbyttet på 50 øre blir mottatt. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,43 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-09-09T05:37:37.040203+00:00",
+  "scraped_at": "2026-09-09T10:26:38.440125+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "df4633ae18caf4b5",
+      "author": "philipW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/philipw",
+      "posted_relative": null,
+      "text": "3. sep. · https://investor.ciena.com/news/news-details/2026/Ciena-Reports-Fiscal-Third-Quarter-2026-Financial-Results/default.aspx Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [
+        "https://investor.ciena.com/news/news-details/2026/Ciena-Reports-Fiscal-Third-Quarter-2026-Financial-Results/default.aspx"
+      ],
+      "char_count": 150,
+      "has_link": true
+    },
+    {
+      "key": "9327fb0843b5b195",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 1 t siden",
+      "text": "Her kan SMOP gå mye om de vokser i den farten og etterspørselen er som nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

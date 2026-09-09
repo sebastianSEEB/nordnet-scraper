@@ -1,9 +1,64 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-09T05:32:15.840251+00:00",
+  "scraped_at": "2026-09-09T10:21:17.968142+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "596982cf5e6ded39",
+      "author": "Kajton Islands",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kajton-islands",
+      "posted_relative": "for 40 min siden",
+      "text": "· Jeg tror at du vil få kroner tilsvarende ca. 2 VAR aksjer i BNOR utbytte før sammenslåing, så din diff. Vil ikke bli så stor. Usikker situasjon hva som er best å kjøpe akkurat nå. Trist at BNOR forsvinner inn i et middelmådigt VAR.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "56b568d2695ba680",
+      "author": "Floppa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/floppa",
+      "posted_relative": "for 2 t siden",
+      "text": "· Hei, er det noen andre som har fått sin GAV endret? Min GAV har gått fra rundt 360kr til 442kr i løpet av natten. Er dette et vanlig problem hos Nordnet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "c4d2c04c3a590c7a",
+      "author": "hkristus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hkristus",
+      "posted_relative": "for 52 min siden",
+      "text": "Spekulert på det samme, kan det ha noe med utbyttet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "c6749d37ff022eea",
+      "author": "Feskarna",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/feskarna",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Da er vel de utlånteshortet med andre ord?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

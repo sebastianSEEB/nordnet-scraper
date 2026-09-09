@@ -1,9 +1,39 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-09T05:32:39.457651+00:00",
+  "scraped_at": "2026-09-09T10:21:42.183068+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5250fe5cafc24828",
+      "author": "høstmørket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hstmrket",
+      "posted_relative": "for 3 t siden",
+      "text": "VG i går kl 23.55 Kortversjonen Ukrainas president Zelenskyj møtte Støre i Oslo for å diskutere luftvern-prosjektet Freyja. Zelenskyj ønsker rask utvikling for å stoppe russiske missiler. Norge og Kongsberg Gruppen deltar i utviklingen av Freyja-missilet. Støre understreker Ukrainas kritiske behov for luftvern før den kommende vinteren. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 358,
+      "has_link": false
+    },
+    {
+      "key": "c6232d3deab7a42c",
+      "author": "høstmørket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hstmrket",
+      "posted_relative": "for 1 t siden",
+      "text": "Kitron vil med dette få leveranser til KOG.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

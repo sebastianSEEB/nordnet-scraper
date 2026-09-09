@@ -1,9 +1,51 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-09-09T05:31:34.008731+00:00",
+  "scraped_at": "2026-09-09T10:20:33.838443+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "760348cc3edf37bd",
+      "author": "Ouzou",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ouzou",
+      "posted_relative": "for 27 min siden",
+      "text": "· Jeg forventet en oppgang denne uken og en nedgang neste uke, når man ser på kursens historiske bevegelser før utbyttefraskillelsen. Får se om den stiger mot slutten av uken.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 175,
+      "has_link": false
+    },
+    {
+      "key": "8bc1485cc3f62b6b",
+      "author": "kharid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kharid",
+      "posted_relative": "for 2 t siden",
+      "text": "Stiger. Passelig for kjøp. VEnter til ex.20.9",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "04467b98cea6b723",
+      "author": "iceteam",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iceteam",
+      "posted_relative": "for 2 t siden",
+      "text": "ZIM opp 5,25 % igår.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

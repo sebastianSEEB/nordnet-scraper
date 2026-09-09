@@ -1,9 +1,67 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-09-09T05:36:51.416253+00:00",
+  "scraped_at": "2026-09-09T10:25:49.090877+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "cb29ef9ab22b4dfe",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 2 t siden",
+      "text": "DnB som går fra kjøp til hold men gjentar kursmål på 30kr  Kilde :Finansavisen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "0292ba5c31aadcb6",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "DnB går fra kjøp til hold men gjentar kursmål på 30kr  Kilde :Finansavisen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "a2031a7add15f454",
+      "author": "victoriawin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/victoriawin",
+      "posted_relative": "for 1 t siden",
+      "text": "Da kjøper nok DNB på kursfallet som kom pga deres eget kursmål",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "3a0e8bf07a9d0855",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 3 t siden",
+      "text": "Skjer det noe? Veldig til nedgang??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

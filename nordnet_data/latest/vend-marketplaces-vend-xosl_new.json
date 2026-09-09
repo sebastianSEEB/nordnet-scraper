@@ -1,9 +1,52 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-09T05:32:31.094154+00:00",
+  "scraped_at": "2026-09-09T10:21:33.265961+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "eb1e29e1f07cd0e1",
+      "author": "VicAnt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vicant",
+      "posted_relative": "for 2 t siden",
+      "text": "Hadde begynt å miste troen at jeg skulle få komme meg inn igjen på grisebillig kurs etter å ha tatt en råsjans på å selge der oppe for noen uker siden. Happy days! 🤩",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        6
+      ],
+      "links": [],
+      "char_count": 165,
+      "has_link": false
+    },
+    {
+      "key": "a110c428d4727fc4",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 1 t siden",
+      "text": "begynner og bli billig vend nå, må vell kjøpe litt solid aksje",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "37a968ed0cda0be6",
+      "author": "tronsan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tronsan",
+      "posted_relative": "for 37 min siden",
+      "text": "Mitt grise billig kurs ligger ved lag, kr 200",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

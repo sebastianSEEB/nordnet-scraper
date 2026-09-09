@@ -1,9 +1,23 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-09-09T05:31:37.869269+00:00",
+  "scraped_at": "2026-09-09T10:20:40.008930+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6fa5bd2b6f8219f2",
+      "author": "victoriawin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/victoriawin",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva tenker dere om neste utbyttet, blir det ca samme som sist?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

@@ -1,25 +1,51 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-09T05:33:42.930012+00:00",
+  "scraped_at": "2026-09-09T10:22:47.728718+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "3ee9973b9ca720d9",
-      "author": "Giskaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
-      "posted_relative": null,
-      "text": "5. sep. · https://www.linkedin.com/company/d-matrix?trk=blended-typeahead",
+      "key": "4e0d6d097ab6b93e",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": "for 2 t siden",
+      "text": "· noen grunn til sterke aksjekurser i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "d5b839292d80ca45",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 1 t siden",
+      "text": "Jep, en link hadde vært fint.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://www.linkedin.com/company/d-matrix?trk=blended-typeahead"
-      ],
-      "char_count": 73,
-      "has_link": true
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "1d64a8e480b4ee4e",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 1 t siden",
+      "text": "· Interessant",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
     }
   ]
 }

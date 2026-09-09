@@ -1,9 +1,54 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-09T05:35:14.525037+00:00",
+  "scraped_at": "2026-09-09T10:24:07.563631+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b8b0e4aa49ac1157",
+      "author": "SpecterLitt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/specterlitt",
+      "posted_relative": "for 3 t siden",
+      "text": "· EU gass (€78,27/MWh):     ≈ USD 155/boe UK gass (195,22 GBp/thm): ≈ USD 153/boe Brent (USD 99,53/fat):    ≈ USD 100/boe",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    },
+    {
+      "key": "770ae7237fc69acc",
+      "author": "Offshoretrollet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/offshoretrollet",
+      "posted_relative": "for 1 t siden",
+      "text": "Oljeprisen er nå kommet seg over $100 Gassprisen klatrer til nye høyder. Hva er det som gjør at vi ikke rykker fra?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    },
+    {
+      "key": "a30bcdf49fadaec3",
+      "author": "Harmony",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harmony",
+      "posted_relative": "for 3 t siden",
+      "text": "· Billigste oil gas producers / barrel of oil i verden",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-09T05:36:15.700501+00:00",
+  "scraped_at": "2026-09-09T10:25:11.070085+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "30533ab47f98196b",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 1 t siden",
+      "text": "Oljeprisen brøt 100 dollar igjen.  Har en sterk følelse for at den vil holde seg høy lenge, med hensyn til utviklingen i gulfen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    }
+  ]
 }

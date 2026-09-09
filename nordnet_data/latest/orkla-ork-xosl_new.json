@@ -1,9 +1,67 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-09T05:36:40.052730+00:00",
+  "scraped_at": "2026-09-09T10:25:35.691232+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "967ae8cc8f2eee67",
+      "author": "Rolfkul",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul",
+      "posted_relative": "for 1 t siden",
+      "text": "jeg tror MOATen til Orkla vil vise seg å være mye mindre enn folk her inne tror. Mange eldre er vandt med å kjøpe orkla produkter og dermed fortsetter med dette som en ren vane. Unge derimot er ikke like vandt med dette etter min erfaring, og bytter raskere dersom noe annet gir mer verdi for pengene. Jeg selv kjøper nesten utelukkende COOP sine egne merkevarer. de er ofte mye billigere og like gode.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 402,
+      "has_link": false
+    },
+    {
+      "key": "2cb4e0003e7d5ac2",
+      "author": "Duskamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/duskamp",
+      "posted_relative": "for 2 t siden",
+      "text": "Orkla selger norsk nostalgi, og nordmenn er helt ville etter det. Men når de drittifiserer både innhold og design, setter jeg spørsmålstegn til selvforståelsen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    },
+    {
+      "key": "ad139589dd2a3570",
+      "author": "KMJM",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmjm",
+      "posted_relative": "for 36 min siden",
+      "text": "Kanskje den blir ennå bedre på smak også med litt mere sukker?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "aee02d5f713b1cf1",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 1 t siden",
+      "text": "Det må være bra tidspunkt å gå inn her nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

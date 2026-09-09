@@ -1,9 +1,82 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-09T05:35:22.119918+00:00",
+  "scraped_at": "2026-09-09T10:24:15.397496+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "8944387cd115260b",
+      "author": "Joplins",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joplins",
+      "posted_relative": "for 2 t siden",
+      "text": "NND overtar området hvor maskinene som er i drift står senest 2. halvår 2028. Dette inkluderer også sanering av trafostasjonen til tomten. NS begynner å få veldig dårlig tid om de skal klare å ha en ny produksjonslinje klar før utgangen av 2028. Dagens marked tilsier at prisene må mye opp dersom det skal være mulig å bygge om den skadde PM6 til en lønnsom linje med SC-magasinpapir eller emballasjepapir (inkludert ny trafostasjon). Ikke har de penger til det heller.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 469,
+      "has_link": false
+    },
+    {
+      "key": "f8ec3b701507face",
+      "author": "Rinvest99",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rinvest99",
+      "posted_relative": "for 28 min siden",
+      "text": "Ser at ordføreren i Halden hadde møte med Green Mountain 3. september. Jeg finner ikke noe om hva møtet gjaldt. Er det noen som vet om møtet gjaldt Saugbrugs/datasenterprosjektet? Har noen sett noe nytt om fremdrift, MW-kapasitet, regulering eller mulig avtalestruktur mellom Norske Skog og Green Mountain? Del gjerne lenker eller annen konkret informasjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 357,
+      "has_link": false
+    },
+    {
+      "key": "5524e5d1cfdada76",
+      "author": "Eric1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eric1970",
+      "posted_relative": "for 2 t siden",
+      "text": "Rart ikke Norske Skog har gått mye mer. Gassprisene er på årets høyeste som gir dem en stor konkurransefordel. I tillegg er strømprisene høye sånn at de tjener godt på videresalg av strøm. Dette blir et veldig bra kvartal.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 222,
+      "has_link": false
+    },
+    {
+      "key": "cc40b76f722bd4df",
+      "author": "Øy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva skjer fremover med Saugbruks i Halden?  Har en venn som sier fremtidem er usikker der og han ser etter ny jobb.  Skal NS ut av Halden?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "6f04b2cb5eefd005",
+      "author": "Horisont35",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/horisont35",
+      "posted_relative": "for 2 t siden",
+      "text": "I dag er kanskje dagen den bryter 50 tallet og forblir over streken.......",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

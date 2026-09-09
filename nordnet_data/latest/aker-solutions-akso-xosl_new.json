@@ -1,9 +1,40 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-09-09T05:33:23.596143+00:00",
+  "scraped_at": "2026-09-09T10:22:28.997822+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b37b32278213a697",
+      "author": "Aksjelady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelady",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.dn.no/bors/bors/oslo-bors/oljeprisen/oljeprisen-raser-forbi-100-dollar-fatet/2-1-2040788",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/bors/bors/oslo-bors/oljeprisen/oljeprisen-raser-forbi-100-dollar-fatet/2-1-2040788"
+      ],
+      "char_count": 100,
+      "has_link": true
+    },
+    {
+      "key": "143d30be70495d00",
+      "author": "91anoch87an",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/91anoch87an",
+      "posted_relative": null,
+      "text": "5. sep. · Har hatt dem i over ti år. Jeg så over hva selskapet har gitt i utbytte i den perioden! Skremmende bra, må jeg si.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

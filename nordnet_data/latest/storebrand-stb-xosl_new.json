@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-09T05:36:43.895214+00:00",
+  "scraped_at": "2026-09-09T10:25:41.511514+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8ca2139eecd87c43",
+      "author": "Venn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
+      "posted_relative": "for 2 t siden",
+      "text": "· Danske Bank hever kursmålet for Storebrand til 245 norske kroner (200), gjentar kjøp. 245!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    }
+  ]
 }

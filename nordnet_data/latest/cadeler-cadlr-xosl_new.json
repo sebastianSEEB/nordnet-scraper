@@ -1,9 +1,25 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-09-09T05:33:46.752723+00:00",
+  "scraped_at": "2026-09-09T10:22:51.574982+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7ba3adbfb4939d50",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "5. sep. Gi meg 3 grunner for å satse på Cadeler fremover ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,52 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-09T05:32:47.445188+00:00",
+  "scraped_at": "2026-09-09T10:21:49.636307+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "625b34cc1b80324c",
+      "author": "MouthBreather",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mouthbreather",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er aldri feil å blindt følge analytikerne. De ønsker oss andre bare det beste. ;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "c89bfdcbfb4770d1",
+      "author": "Stallgutt68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stallgutt68",
+      "posted_relative": "for 3 t siden",
+      "text": "Prisen er tilbake på 2018 nivå, så det må jo snart være mulig å tjene penger her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        6
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "eb49eab08fd444a7",
+      "author": "Stallgutt68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stallgutt68",
+      "posted_relative": "for 2 t siden",
+      "text": "· 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }
