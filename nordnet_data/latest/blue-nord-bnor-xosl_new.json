@@ -1,9 +1,81 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-09T11:50:54.221960+00:00",
+  "scraped_at": "2026-09-09T14:54:40.289597+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "db2bbd31f1c46e58",
+      "author": "Kajton Islands",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kajton-islands",
+      "posted_relative": "for 55 min siden",
+      "text": "· Fy så bitter man blir. BNOR burde ha blitt verdsatt til 700kr da VAR lå på 45kr. Ifølge egne beregninger gir chat gpt støtte og gir følgende verdsettelse ved fusjonen. BEAR 500-550. Forsiktig 575-625. Basis 650-700. Sterk, dvs. der vi er nå. 700-800kr. BULL 800kr og opp. Tyra har akkurat begynt å gi og øker....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 314,
+      "has_link": false
+    },
+    {
+      "key": "11e86e3e2d00d3f6",
+      "author": "KjekkenKjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
+      "posted_relative": "for 3 t siden",
+      "text": "Fin opptur i dag også, er kanskje primært oljekursen på over 100 som er årsaken?  Uansett, når vi nærmer oss 590 blir jeg veldig usikker på beslutningen om å sitte på raketten over til Vår...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 191,
+      "has_link": false
+    },
+    {
+      "key": "0a758eee2463483e",
+      "author": "BarryGoldwater",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barrygoldwater",
+      "posted_relative": "for 2 t siden",
+      "text": "Er vel 4 kroner under ca. Du overser vel at et regnestykke ikke blir riktig hvis du bare kaster inn et par omtrentlige tall.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    },
+    {
+      "key": "969c81a8e3dd0011",
+      "author": "Fredrik -D",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fredrik-d",
+      "posted_relative": "for 2 t siden",
+      "text": "Selg meg aksjene dine dine 250 pr stk. Så skal vi se hvem ss Om sitter igjen med et smil",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "167cbc4c85cf4336",
+      "author": "CT1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ct1970",
+      "posted_relative": "for 2 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

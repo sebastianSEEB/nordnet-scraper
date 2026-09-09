@@ -1,17 +1,34 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-09-09T11:56:34.168322+00:00",
+  "scraped_at": "2026-09-09T15:00:38.325223+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "ec77465f70ec9066",
+      "key": "daa9e78350438806",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 2 t siden",
+      "text": "https://e24.no/boers-og-finans/i/7pognV/pantesmell-dette-ville-analytikerne-gjort-naa Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/7pognV/pantesmell-dette-ville-analytikerne-gjort-naa"
+      ],
+      "char_count": 105,
+      "has_link": true
+    },
+    {
+      "key": "65e0579bde3c9823",
       "author": "Gussern",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gussern",
       "posted_relative": "for 1 døgn siden",
-      "text": "Kjøper dere eller selger dere? Bli medlem av Nordnet Social for å gi din stemme Logg inn Kjøp, snitter ned Har gitt opp og selger med tap 39 stemmer • 1 dag 22 timer igjen Vis 1 kommentar til",
+      "text": "Kjøper dere eller selger dere? Bli medlem av Nordnet Social for å gi din stemme Logg inn Kjøp, snitter ned Har gitt opp og selger med tap 40 stemmer • 1 dag 19 timer igjen Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
@@ -23,18 +40,18 @@
       "has_link": false
     },
     {
-      "key": "4fb46473b6f0364e",
-      "author": "L00nie",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/l00nie",
+      "key": "72ae3b3af3e6cb97",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
       "posted_relative": "for 1 t siden",
-      "text": "Dette er valgflesk.  Blir innført, nydelig inngang på denne, synd jeg ikke har mer penger å kjøpe for.",
+      "text": "Det er vel mest Tomra de sikter til, men..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 102,
+      "char_count": 42,
       "has_link": false
     }
   ]

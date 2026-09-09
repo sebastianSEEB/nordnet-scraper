@@ -1,22 +1,38 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-09T11:51:39.763544+00:00",
+  "scraped_at": "2026-09-09T14:55:28.438702+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "fd3a0fab502e81bc",
-      "author": "hengslet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
-      "posted_relative": "for 1 t siden",
-      "text": "Da ligger vi tett på der CEO kjøpte. Neppe et galt tidspunkt å kjøpe på .",
+      "key": "4b109e0757bace2b",
+      "author": "keneras",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keneras",
+      "posted_relative": "for 31 min siden",
+      "text": "Sikret meg noen flere jeg også, kurs 160. Kan ikke være feil det..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 73,
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "0e373bb96450c5f1",
+      "author": "Gussern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gussern",
+      "posted_relative": "for 2 t siden",
+      "text": "Fylte på.....159,8 må anses som tilbudspris",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 43,
       "has_link": false
     }
   ]

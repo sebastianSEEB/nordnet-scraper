@@ -1,9 +1,39 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-09T11:51:21.227103+00:00",
+  "scraped_at": "2026-09-09T14:55:08.075720+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "02ee279c0d48f8d7",
+      "author": "Monim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monim",
+      "posted_relative": "for 1 t siden",
+      "text": "Fin oppgang i dag, eneste som mangler er at den bryter 31kr Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "fdafa9598bb916b1",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 34 min siden",
+      "text": "Holder olja seg her kan denne være over 40 før september er over.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-09T11:55:49.936985+00:00",
+  "scraped_at": "2026-09-09T14:59:57.866595+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "56f45c3cc8bc8f64",
+      "author": "GabW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
+      "posted_relative": "for 24 min siden",
+      "text": "Jeg skal avvente til q3 og eventuelt hoppe på dersom det ser noe bedre ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "5fc5233b92144fe4",
+      "author": "NamiIsLife",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/namiislife",
+      "posted_relative": "for 2 t siden",
+      "text": "Når burde man Kjøpe? Vente til Q3 eller senere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

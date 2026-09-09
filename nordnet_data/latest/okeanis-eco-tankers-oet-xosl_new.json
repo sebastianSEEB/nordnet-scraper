@@ -1,39 +1,57 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-09T11:49:30.127785+00:00",
+  "scraped_at": "2026-09-09T14:53:17.968031+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "0c0963d48f351dd5",
-      "author": "Mr Brolin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
-      "posted_relative": "for 1 t siden",
-      "text": "· Fint Fint med engasjerte skribenter som holder forumet levende.",
+      "key": "77eefb9dba22a49e",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 2 t siden",
+      "text": "Nå begynner det å bli litt vel spennende i Persiabukta... https://www.al-monitor.com/originals/2026/09/oil-tanker-hit-iraqi-waters-vessels-get-caught-us-iran-attacks",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        1,
         1
       ],
+      "links": [
+        "https://www.al-monitor.com/originals/2026/09/oil-tanker-hit-iraqi-waters-vessels-get-caught-us-iran-attacks"
+      ],
+      "char_count": 165,
+      "has_link": true
+    },
+    {
+      "key": "048a10b3541e72f7",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 1 t siden",
+      "text": "Og da har Nissos Keros skrudd på AIS-systemet sitt (sist sett 22.08 tom utenfor Fujairah). Nå er hun tom utenfor Sohar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 65,
+      "char_count": 118,
       "has_link": false
     },
     {
-      "key": "0a52fceb3d6c76c2",
-      "author": "Mr Brolin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
-      "posted_relative": "for 1 t siden",
-      "text": "· Kunne ikke motstå fristelsen lenger, så nå er jeg inne.",
+      "key": "9d42b1db851cff1c",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "\"Begynner å bli......\" Hehe. Alt er relativt. Men jeg liker ironi!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 57,
+      "char_count": 66,
       "has_link": false
     }
   ]

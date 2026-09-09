@@ -1,57 +1,53 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-09T11:49:25.675233+00:00",
+  "scraped_at": "2026-09-09T14:53:13.152534+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 8,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "3e3089f864313e4e",
-      "author": "larsullern86",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsullern86",
-      "posted_relative": "for 2 t siden",
-      "text": "https://x.com/CENTCOM/status/2097448820099711412 Forsvinner en del tonnasje om dagen. Vis 1 kommentar til",
+      "key": "366e5ce2981a8b07",
+      "author": "tbrx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tbrx",
+      "posted_relative": "for 1 t siden",
+      "text": "Tror noen får regne på nytt på FRO's nav og p/e",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "9ad82b8e7520ee43",
+      "author": "Josr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josr",
+      "posted_relative": "for 1 t siden",
+      "text": "· NYSE...... Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2,
         2
       ],
-      "links": [
-        "https://x.com/CENTCOM/status/2097448820099711412"
-      ],
-      "char_count": 105,
-      "has_link": true
+      "links": [],
+      "char_count": 32,
+      "has_link": false
     },
     {
-      "key": "ca4eb4708b448a59",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 1 t siden",
-      "text": "https://x.com/AyusoValue/status/2097608182063354009 17 år gammel VLCC 112 mill.....",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        7
-      ],
-      "links": [
-        "https://x.com/AyusoValue/status/2097608182063354009"
-      ],
-      "char_count": 83,
-      "has_link": true
-    },
-    {
-      "key": "b026d05de2ad4a07",
-      "author": "Mickem",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mickem",
-      "posted_relative": "for 4 min siden",
-      "text": "· Mindre er mer? :)",
+      "key": "fc5b6095af7afd5c",
+      "author": "Aframaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
+      "posted_relative": "for 25 min siden",
+      "text": "11k på 38 minutter takk USA",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 19,
+      "char_count": 27,
       "has_link": false
     }
   ]

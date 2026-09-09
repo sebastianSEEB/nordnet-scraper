@@ -1,38 +1,64 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-09T11:54:53.472938+00:00",
+  "scraped_at": "2026-09-09T14:58:53.113881+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "c41272db8167b035",
-      "author": "Kjernekar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "key": "d289ffbdd40c5bd1",
+      "author": "MaxRaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxraven",
       "posted_relative": "for 1 t siden",
-      "text": "Skjønner ikke at Børsen er åpen. Det er jo Kongens gravferd nå. Penger kan vi gjøre senere.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6,
-        1
-      ],
-      "links": [],
-      "char_count": 91,
-      "has_link": false
-    },
-    {
-      "key": "5c9c929928a51364",
-      "author": "Wangerang",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
-      "posted_relative": "for 19 min siden",
-      "text": "Er ganske lav omsetning i forhold til hendelsene",
+      "text": "Korrekt, vi har ikke råd til krigene, og ganske sikker på at flertallet ønsker fred. Men heldigvis så blir overskudd privatisert og gjelden sosialisert.. Derfor har vi \"råd\" til krig..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 48,
+      "char_count": 184,
+      "has_link": false
+    },
+    {
+      "key": "cffd252cf12941ff",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 21 min siden",
+      "text": "Fun fact: John Fredriksen solgte alle oljeaksjene sine for en uke siden og går glipp av supergevinsten som kommer nå. 😂 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "5ac66b0956d344da",
+      "author": "T.J.M",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tjm-2",
+      "posted_relative": "for 28 min siden",
+      "text": "· Folk dør hver dag. Hvert liv er like verdifullt. Børsen må ikke stenges på grunn av én enkeltperson.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    },
+    {
+      "key": "3f755a18d1f40884",
+      "author": "BenRedicFyFazan26",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
+      "posted_relative": "for 4 min siden",
+      "text": "Han kjøper jo VLCC. Mannen er jo et geni.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

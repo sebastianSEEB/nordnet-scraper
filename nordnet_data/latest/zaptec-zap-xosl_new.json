@@ -1,38 +1,70 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-09T11:51:13.713517+00:00",
+  "scraped_at": "2026-09-09T14:55:00.093106+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "f041f46c0678ad42",
-      "author": "Ali.Ali",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aliali-1",
-      "posted_relative": "for 56 min siden",
-      "text": "· Jeg har solgt mine Zaptec, men lykke til for dere som har zaptec :) Vis 1 kommentar til",
+      "key": "d2d2e9c83fb0b5f9",
+      "author": "ASK invest AS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-invest-as",
+      "posted_relative": "for 1 t siden",
+      "text": "ZAP en av OB mest atraktive oppkjøpskandidater. Spredt eierstruktur, fremtidig voksende marked, god inntjening. 👍",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
         2
       ],
       "links": [],
-      "char_count": 89,
+      "char_count": 113,
       "has_link": false
     },
     {
-      "key": "c8f4f2b60a82eba0",
-      "author": "Anakin Skywalker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anakin-skywalker",
-      "posted_relative": "for 34 min siden",
-      "text": "· Takk for handelen 🤝😌",
+      "key": "9436a0db8ed99b80",
+      "author": "SilverDragon81",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/silverdragon81",
+      "posted_relative": "for 1 t siden",
+      "text": "Da er Citadel igang med å dekke inn short. Ikke la dem få aksjene deres billig",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 22,
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "1d273709267a9032",
+      "author": "Ali.Ali",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aliali-1",
+      "posted_relative": "for 3 t siden",
+      "text": "· Jeg har solgt mine Zaptec, men lykke til for dere som har zaptec :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "39e7da601741b775",
+      "author": "BudFoxW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/budfoxw",
+      "posted_relative": "for 2 t siden",
+      "text": "Ser denne opp til over 60 kr i løpet av september",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 49,
       "has_link": false
     }
   ]
