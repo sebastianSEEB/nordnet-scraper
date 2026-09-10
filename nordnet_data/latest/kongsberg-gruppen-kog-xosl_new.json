@@ -1,36 +1,27 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-10T16:49:24.339610+00:00",
+  "scraped_at": "2026-09-10T19:25:18.067611+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "ad2dd48a640b7c6e",
-      "author": "vj09",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vj09",
-      "posted_relative": "for 2 t siden",
-      "text": "20 september valg i russland, veldig stor sjanse at putin skal mobilisere flere 100 tusen, kanskje mer ...hvor han skal plassere dem ,kanskje med nato grensen eller pushe Ukraine angrep...ser ut som han får støtte fra trump stadig",
+      "key": "0de46ea9a09f1f92",
+      "author": "Solidum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solidum",
+      "posted_relative": "for 27 min siden · Endret",
+      "text": "KOG investerer 60 til 70 millioner kr i 3D-printing for å løse konkrete utfordringer og korte ned utviklingstiden på det nye tysk-norske supersoniske missilet 3SM (Tyrfing). https://www.tu.no/artikler/kongsberg-skal-3d-printe-vil-korte-ned-leveringstiden/576506",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 230,
-      "has_link": false
-    },
-    {
-      "key": "c9348d5f03a78953",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 57 min siden · Endret",
-      "text": "KOG skal levere på 5 dobbling av omsetningen.de neste 10år",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.tu.no/artikler/kongsberg-skal-3d-printe-vil-korte-ned-leveringstiden/576506"
+      ],
+      "char_count": 261,
+      "has_link": true
     }
   ]
 }

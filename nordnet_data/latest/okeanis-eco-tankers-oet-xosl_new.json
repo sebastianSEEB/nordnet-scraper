@@ -1,82 +1,55 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-10T16:44:16.217050+00:00",
+  "scraped_at": "2026-09-10T19:19:54.464374+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 5,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "532188e77b471960",
-      "author": "Kjell100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
-      "posted_relative": "for 29 min siden",
-      "text": "Hvor lenge varer krigen i Iran? Forstyrrelsene av skipstrafikken gjennom Hormuzstredet fortsetter, og det har vært en rekke angrep mellom USA og Iran den siste tiden. «I tillegg sier Iran at de er klare til eskalering, og Trumps rådgivere advarer privat om at Iran-krigen kan vare helt til 2029», skrev DNB Carnegie i et notat torsdag. https://e24.no/energi-og-klima/i/gkQxo0/oljeprisen-bikker-102-dollar",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://e24.no/energi-og-klima/i/gkQxo0/oljeprisen-bikker-102-dollar"
-      ],
-      "char_count": 404,
-      "has_link": true
-    },
-    {
-      "key": "cbb1fa8c55d7c672",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 4 t siden",
-      "text": "https://x.com/MakaiMarine/status/2098017478471188603 Til og med surpompen Makai er bull...",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://x.com/MakaiMarine/status/2098017478471188603"
-      ],
-      "char_count": 90,
-      "has_link": true
-    },
-    {
-      "key": "2dbe5c263518acd5",
-      "author": "Mr Brolin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
-      "posted_relative": "for 4 t siden",
-      "text": "· Satt noen måneder i HUNTER og føles ikke dette caset ganske likt bortsett fra at vi ikke trenger å levere tilbake båtene? Med likt mener jeg den enorme inntjeningen på disse ratene ikke leieopplegget.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 202,
-      "has_link": false
-    },
-    {
-      "key": "c5d49264356ae396",
-      "author": "Axelrod1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
-      "posted_relative": "for 5 t siden · Endret",
-      "text": "· DHT on Subs 434k/day laster fra Oman, Okeanis har 3 fartøy i det området Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        7
-      ],
-      "links": [],
-      "char_count": 94,
-      "has_link": false
-    },
-    {
-      "key": "b9f7fb20550e9a4a",
+      "key": "a90eb75bf6c824c0",
       "author": "ks1977",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
       "posted_relative": "for 1 t siden",
-      "text": "huff er det like ille som rakettforskere og turister med raketter?",
+      "text": "Irak har anbud ute (med frist i dag) på leie av minst 2 VLCCer i 180 dager for skytteltrafikk gjennom Hormuzstredet https://gcaptain.com/iraq-seeks-oil-tankers-as-gulf-giants-try-to-ensure-hormuz-flows/ Jeg vet om et selskap som synes å ha 4 VLCCer i skytteltrafikk der allerede :o  Aner ikke om OET vil hive seg på noe slikt (180 dager er lenge; hva er best mellom \"spot\" og 6mnd super-TC?), men vel så spennende; vil leieraten bli kjent i media? (DET hadde vært interessant)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://gcaptain.com/iraq-seeks-oil-tankers-as-gulf-giants-try-to-ensure-hormuz-flows/"
+      ],
+      "char_count": 476,
+      "has_link": true
+    },
+    {
+      "key": "fa86aff57fc001b3",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 2 t siden",
+      "text": "Når man tror at det ikke kan bli mer kaos... https://gcaptain.com/houthis-seize-mocha-tightening-grip-on-bab-el-mandeb-and-red-sea-shipping/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://gcaptain.com/houthis-seize-mocha-tightening-grip-on-bab-el-mandeb-and-red-sea-shipping/"
+      ],
+      "char_count": 140,
+      "has_link": true
+    },
+    {
+      "key": "39edc2ac36006e56",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 2 t siden",
+      "text": "· Ja det var synd.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 66,
+      "char_count": 18,
       "has_link": false
     }
   ]
