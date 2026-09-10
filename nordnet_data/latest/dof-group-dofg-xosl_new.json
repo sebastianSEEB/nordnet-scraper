@@ -1,9 +1,23 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-10T11:49:31.014477+00:00",
+  "scraped_at": "2026-09-10T12:29:42.939503+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e4d62422527762dd",
+      "author": "PenPlan1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/penplan1",
+      "posted_relative": "for 5 min siden",
+      "text": "Faen! Da skal den nedover mao....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }
