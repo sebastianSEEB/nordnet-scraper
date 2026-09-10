@@ -1,9 +1,38 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-10T01:58:30.658773+00:00",
+  "scraped_at": "2026-09-10T07:00:47.504775+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2f4405f86b2d9a4d",
+      "author": "Aframaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
+      "posted_relative": "for 50 min siden",
+      "text": "Herregud, Nordnet kan ikke vise utbyttet i norske kroner enda! Vi vet ikke dollarkursen på utbetalingsdagen. It's simple as that.... lol",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    },
+    {
+      "key": "7d321a532131e781",
+      "author": "Kaldalinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaldalinvest",
+      "posted_relative": "for 10 t siden",
+      "text": "· Jeg kan ikke se kommende utbytte fra Frontline, har det ikke vært generalforsamling ennå siden det ikke fremgår på Nordnet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-10T02:02:25.982310+00:00",
+  "scraped_at": "2026-09-10T07:04:53.671329+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "70ee1916f33f955f",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 20 min siden",
+      "text": "Fra investtech; Autostore falt med hele 7.1 prosent og endte på 15.52 kroner. Aksjen har ikke falt mer på en dag siden 22. april, da den var ned 7.2 prosent. Det ser derimot bra ut teknisk. Aksjen er trendmessig positiv på mellomlang sikt, har støtte ved cirka 13.30 kroner og en videre oppgang indikeres",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 304,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-10T02:03:51.969483+00:00",
+  "scraped_at": "2026-09-10T07:06:23.692165+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ad81f39e9efa730f",
+      "author": "kilkenny72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
+      "posted_relative": "for 44 min siden",
+      "text": "Den tyske storbanken har startet dekning av Kongsberg Gruppen og anbefaler kjøp av aksjen, ifølge Bloomberg. Kursmålet er satt til 360 kroner, en oppgang på 20 prosent.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "453114164b7ae033",
+      "author": "isastr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isastr",
+      "posted_relative": "for 24 min siden",
+      "text": "Mine forventninger er nå store til dagens åpning, en oppgang på 3-5% er absolutt innen rekkevidde :-). Lykke til alle",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    }
+  ]
 }

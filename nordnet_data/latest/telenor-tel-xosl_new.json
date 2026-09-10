@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-10T02:03:59.713704+00:00",
+  "scraped_at": "2026-09-10T07:06:35.959703+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "81632912221cfe74",
+      "author": "Hallvard12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hallvard12",
+      "posted_relative": "for 25 min siden",
+      "text": "Har kjøpt og solgt telenor over tid, lurer litt på hva andre folk tenker.Er dette en døende aksje? Eller har den bare fått bank nylig?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    }
+  ]
 }

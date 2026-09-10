@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-10T02:06:30.282264+00:00",
+  "scraped_at": "2026-09-10T07:09:07.730590+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4a1b9ea55000dc44",
+      "author": "Gulldoser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gulldoser",
+      "posted_relative": "for 40 min siden",
+      "text": "Fikk kjøpt litt mer billig i går,men ikke alt jeg ville….",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-10T01:58:35.342148+00:00",
+  "scraped_at": "2026-09-10T07:00:51.947793+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c381c55aeec28f3b",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "Gårsdagens rater. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina            752,22       786.153 260        V-Afr/Kina         280,31       257.163",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    },
+    {
+      "key": "5a76267e14bcd69a",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 1 t siden",
+      "text": "· 💪 Dette kommer til å bli bra. Leste i morges i svensk presse at det slett ikke var umulig at konflikten i Stredet kan pågå resterende tid Triumph sitter ved makten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 165,
+      "has_link": false
+    }
+  ]
 }

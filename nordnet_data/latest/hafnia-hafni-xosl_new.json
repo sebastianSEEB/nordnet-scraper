@@ -1,9 +1,28 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-10T01:58:40.433394+00:00",
+  "scraped_at": "2026-09-10T07:00:59.418410+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "971e3401c9f239ff",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 10 min siden",
+      "text": "Det har vært en fin liten oppgang i MR-ratene i det siste; https://x.com/ed_fin/status/2097934743191073064/photo/1 Triangulert MR (uten at det nødvendigvis er representativt for oss) opp fra 29k til 33k siden 31.08 https://x.com/ed_fin/status/2094431136302891421/photo/1",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://x.com/ed_fin/status/2094431136302891421/photo/1",
+        "https://x.com/ed_fin/status/2097934743191073064/photo/1"
+      ],
+      "char_count": 270,
+      "has_link": true
+    }
+  ]
 }

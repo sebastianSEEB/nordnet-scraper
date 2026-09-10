@@ -1,9 +1,56 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-09-10T02:00:59.714380+00:00",
+  "scraped_at": "2026-09-10T07:03:23.168051+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "48fd6b666d9e7de0",
+      "author": "Dilten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dilten",
+      "posted_relative": "for 1 t siden",
+      "text": "Fin nyhet 🤩https://www.finansavisen.no/energi/2026/09/10/8379253/var-energi-sikrer-rigg-i-tre-ar-avtale-pa-4-8-mrd.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        3
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/10/8379253/var-energi-sikrer-rigg-i-tre-ar-avtale-pa-4-8-mrd."
+      ],
+      "char_count": 115,
+      "has_link": true
+    },
+    {
+      "key": "3375a8924d792863",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": "for 1 t siden",
+      "text": "Utrolig fint å få en lang og stor kontrakt på Deepsea Bollsta, nå Deepsea Bergen, riggen som de altså kjøpte fra Northern Ocean i desember. De betalte 480 millioner usd for denne, mens den nye avtalen utgjør 518 mill usd inkl. mobilisering, mens vedlikehold, bonuser osv kommer i tillegg. Slik skal man gjøre business, flinke folk i Odfjell Drilling og det er fint å ha med seg når man handler i denne aksjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 408,
+      "has_link": false
+    },
+    {
+      "key": "5d1d687dd1e0b01a",
+      "author": "MrRobot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot",
+      "posted_relative": "for 1 t siden",
+      "text": "Hm. Var ikke dette den riggen de kjøpte fra NOL? Håper det er litt pos. read-over til NOL her, de har vel igjen en slik rigg til...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ]
 }

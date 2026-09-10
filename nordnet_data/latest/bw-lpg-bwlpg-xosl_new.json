@@ -1,9 +1,23 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-10T01:58:48.173893+00:00",
+  "scraped_at": "2026-09-10T07:01:06.883248+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b95d0855b7ac065a",
+      "author": "MrRobot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot",
+      "posted_relative": "for 2 min siden",
+      "text": "Endelig ser PAS lyset også. Kraftig opp til 262.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,27 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-10T02:00:25.468372+00:00",
+  "scraped_at": "2026-09-10T07:02:48.635604+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3f2eb888728d7bbf",
+      "author": "mestned",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mestned",
+      "posted_relative": "for 2 t siden",
+      "text": "Første gang han snakker sant? https://www.bt.no/innenriks/i/pBEdo1/trump-oljeprisene-blir-trolig-hoeye-til-etter-mellomvalget",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.bt.no/innenriks/i/pBEdo1/trump-oljeprisene-blir-trolig-hoeye-til-etter-mellomvalget"
+      ],
+      "char_count": 125,
+      "has_link": true
+    }
+  ]
 }

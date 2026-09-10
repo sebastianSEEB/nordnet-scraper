@@ -1,22 +1,37 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-10T01:59:55.214562+00:00",
+  "scraped_at": "2026-09-10T07:02:21.930884+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ea70b4029137c442",
-      "author": "Xiskogen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xiskogen",
-      "posted_relative": "for 2 t siden",
-      "text": "· xD bot eller mindreårig. Fryktelig ai-arbeid",
+      "key": "dc2d50722389a6e2",
+      "author": "olto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
+      "posted_relative": "for 3 min siden",
+      "text": "Tre selskaper rykker inn i OBX-indeksen, mens fire må vike plass. Aker, BlueNord og TGS er de nye tilskuddene. Ut går Bakkafrost, Dof Group, Protector Forsikring og Wallenius Wilhelmsen.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 46,
+      "char_count": 186,
+      "has_link": false
+    },
+    {
+      "key": "4854da500cf841d8",
+      "author": "Andre93",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andre93",
+      "posted_relative": "for 3 t siden",
+      "text": "Ai... les dere opp selv folkens :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 34,
       "has_link": false
     }
   ]

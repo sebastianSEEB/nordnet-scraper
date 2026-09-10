@@ -1,9 +1,25 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-10T02:04:19.185549+00:00",
+  "scraped_at": "2026-09-10T07:06:55.165447+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3c1e9972a9c215fc",
+      "author": "All Time High",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/all-time-high",
+      "posted_relative": "for 39 min siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }
