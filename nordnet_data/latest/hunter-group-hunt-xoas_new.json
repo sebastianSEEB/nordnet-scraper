@@ -1,40 +1,65 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-10T19:25:02.860460+00:00",
+  "scraped_at": "2026-09-10T22:08:06.931166+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "c010b96be2c448d6",
-      "author": "phor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
-      "posted_relative": "for 3 t siden",
-      "text": "Spotratene for råoljetankere går inn i stratosfæren 🚀 VLCC TD3C TCE (AG ->CN) +76k to 862k🚀 TD3C FFA ~+9%🔥 Vis 1 kommentar til",
+      "key": "202427c80ba62ce6",
+      "author": "Salamandere",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salamandere",
+      "posted_relative": "for 1 t siden",
+      "text": "Slike spørsmål har kommet ved jevne mellomrom fra den sto i kr 7. Og svare på det vil tiden vise, for ingen ting er sikker med aksjer. Personlig så holder jeg på mine for jeg har stor tru på videre vekst.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        18,
         2
       ],
       "links": [],
-      "char_count": 126,
+      "char_count": 204,
       "has_link": false
     },
     {
-      "key": "481a7a90404b6113",
-      "author": "nopetter",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "key": "cc9d673a7d554a8a",
+      "author": "@shippinganalytiker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "posted_relative": null,
+      "text": "noen oppdatering fra den eneste?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "5bff3626e66a0930",
+      "author": "Magnustry1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magnustry1",
       "posted_relative": "for 1 t siden",
-      "text": "Å du hellige jul dette er vanvittig",
+      "text": "Er det seint og hoppe inn?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 35,
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "48a6c0963586fa4c",
+      "author": "Axelrod1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
+      "posted_relative": "for 1 t siden",
+      "text": "·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1,
       "has_link": false
     }
   ]

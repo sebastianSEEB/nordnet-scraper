@@ -1,27 +1,68 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-10T19:25:18.067611+00:00",
+  "scraped_at": "2026-09-10T22:08:22.648260+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "0de46ea9a09f1f92",
-      "author": "Solidum",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solidum",
-      "posted_relative": "for 27 min siden · Endret",
-      "text": "KOG investerer 60 til 70 millioner kr i 3D-printing for å løse konkrete utfordringer og korte ned utviklingstiden på det nye tysk-norske supersoniske missilet 3SM (Tyrfing). https://www.tu.no/artikler/kongsberg-skal-3d-printe-vil-korte-ned-leveringstiden/576506",
+      "key": "62fecc757a7ed144",
+      "author": "Max Rothweiler",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/max-rothweiler",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.kongsberg.com/no/news/news-archive/2026/kongsberg-styrker-utviklingen-av-fremtidens-forsvarssystemer-gjennom-investeringer-i-3d-printing/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [
-        "https://www.tu.no/artikler/kongsberg-skal-3d-printe-vil-korte-ned-leveringstiden/576506"
+        "https://www.kongsberg.com/no/news/news-archive/2026/kongsberg-styrker-utviklingen-av-fremtidens-forsvarssystemer-gjennom-investeringer-i-3d-printing/"
       ],
-      "char_count": 261,
+      "char_count": 149,
       "has_link": true
+    },
+    {
+      "key": "a84e9373d6e16c75",
+      "author": "Solidum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solidum",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://www.kongsberg.com/news/news-archive/2026/kongsberg-accelerates-innovation-in-defence-systems-through-investments-in-additive-manufacturing/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.kongsberg.com/news/news-archive/2026/kongsberg-accelerates-innovation-in-defence-systems-through-investments-in-additive-manufacturing/"
+      ],
+      "char_count": 149,
+      "has_link": true
+    },
+    {
+      "key": "ba35125b00246e14",
+      "author": "kilkenny72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg tolker det som at aksjen er i ferd med å bygge opp en motstand, og man vil få se etterhvert, en sakte klatring opp mot tidligere nivåer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "bd84f5fb78fe095b",
+      "author": "BorseBørs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
+      "posted_relative": "for 47 min siden",
+      "text": "De nye turkisen skjærer i øyene. Synd at eneste alternativ er blått og oransje...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
     }
   ]
 }

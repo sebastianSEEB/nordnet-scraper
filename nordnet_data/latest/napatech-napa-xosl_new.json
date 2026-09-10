@@ -1,41 +1,9 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-10T19:22:51.008775+00:00",
+  "scraped_at": "2026-09-10T22:05:53.794451+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "1e59005c16cb2fc3",
-      "author": "Giskaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
-      "posted_relative": "for 5 t siden",
-      "text": "· https://www.d-matrix.ai/announcements/d-matrix-rackscale-nvidia/",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        4
-      ],
-      "links": [
-        "https://www.d-matrix.ai/announcements/d-matrix-rackscale-nvidia/"
-      ],
-      "char_count": 66,
-      "has_link": true
-    },
-    {
-      "key": "2109b71fffb34e33",
-      "author": "Giskaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
-      "posted_relative": "for 1 t siden",
-      "text": "Raptor er ikke bekreftet med Napatech – JetStream er ifølge d-Matrix en forløper til I/O-løsningen i Raptor, og Lars Boilesen har samtidig kalt Napatech deres I/O-partner og bekreftet flere utvidede prosjekter. Tilfeldig? Håper ikke det! Nå mangler vi en design win!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 266,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
