@@ -1,27 +1,72 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-10T07:02:48.635604+00:00",
+  "scraped_at": "2026-09-10T11:49:23.023749+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "3f2eb888728d7bbf",
+      "key": "d3f0a7e7509f2e19",
       "author": "mestned",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mestned",
-      "posted_relative": "for 2 t siden",
-      "text": "Første gang han snakker sant? https://www.bt.no/innenriks/i/pBEdo1/trump-oljeprisene-blir-trolig-hoeye-til-etter-mellomvalget",
+      "posted_relative": "for 6 t siden",
+      "text": "Første gang han snakker sant? https://www.bt.no/innenriks/i/pBEdo1/trump-oljeprisene-blir-trolig-hoeye-til-etter-mellomvalget Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        5,
+        3
       ],
       "links": [
         "https://www.bt.no/innenriks/i/pBEdo1/trump-oljeprisene-blir-trolig-hoeye-til-etter-mellomvalget"
       ],
-      "char_count": 125,
+      "char_count": 145,
       "has_link": true
+    },
+    {
+      "key": "2efaba743ec15a2c",
+      "author": "ratata_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ratata-1",
+      "posted_relative": "for 3 t siden",
+      "text": "Nja. Han sier vel at de vil falle etter mellomvalget, og det gjør de nok ikke.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "cca461ec60f823ef",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 3 t siden",
+      "text": "Det kan ta litt tid. Mulig vi går ned en del før det skjer men er tålmodig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "01c1f68ed6f7ac80",
+      "author": "Monim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monim",
+      "posted_relative": "for 21 t siden",
+      "text": "Fin oppgang i dag, eneste som mangler er at den bryter 31kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
     }
   ]
 }

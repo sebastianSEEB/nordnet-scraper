@@ -1,9 +1,25 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-09-10T07:03:00.116863+00:00",
+  "scraped_at": "2026-09-10T11:49:34.829847+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "98644f63595144ec",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": "for 4 t siden",
+      "text": "Protector Forskring tas ut av OBX. https://www.finansavisen.no/finans/2026/09/10/8379261/store-endringer-pa-oslo-bors-tre-aksjer-inn-fire-ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/10/8379261/store-endringer-pa-oslo-bors-tre-aksjer-inn-fire-ut"
+      ],
+      "char_count": 140,
+      "has_link": true
+    }
+  ]
 }

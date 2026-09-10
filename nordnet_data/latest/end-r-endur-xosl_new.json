@@ -1,9 +1,38 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-10T07:05:08.476618+00:00",
+  "scraped_at": "2026-09-10T11:51:36.885138+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3b99d9ee77cb741d",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 30 min siden",
+      "text": "Jeg har ingen planer om å selge, men den er litt kjedelig nå. Men, som du sier, det kan rykke i morgen 😊",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "11d6ea85cb7dd319",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 2 t siden",
+      "text": "Vi får håpe på noen negative nyheter snart, siden positive kun drar kursen ned 😅 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-10T07:02:44.810305+00:00",
+  "scraped_at": "2026-09-10T11:49:19.214875+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b80d72080a4fc1b6",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 59 min siden · Endret",
+      "text": "Varner-brødrene har kjøpt jevnt og trutt i lang tid og nærmer seg 2 millioner aksjer, sist kjøp 24. august: KIT    VARNER EQUITIES AS       35.000   1.872.100    0,9  Og Stordalen og Varner samarbeider om mye, så ikke overaskende at Petter Stordalen er blitt inspirert ...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 272,
+      "has_link": false
+    },
+    {
+      "key": "4b1ecbeed17dfba6",
+      "author": "smitty11",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/smitty11",
+      "posted_relative": "for 1 t siden",
+      "text": "Petter Stordalen hopper på Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        19,
+        2
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

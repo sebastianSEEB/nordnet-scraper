@@ -1,9 +1,36 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-09-10T07:07:03.981038+00:00",
+  "scraped_at": "2026-09-10T11:53:30.241981+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "dde73a8fb3c88b7a",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 3 t siden",
+      "text": "Om 2-3 år når prosjektene ferdigstilles,er denne gull vært",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "e660c0467bf00ff4",
+      "author": "KurtRonny",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurtronny",
+      "posted_relative": "for 1 t siden",
+      "text": "Når kommer oppgangen ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

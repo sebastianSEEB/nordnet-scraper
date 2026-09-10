@@ -1,9 +1,41 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-09-10T07:01:39.841417+00:00",
+  "scraped_at": "2026-09-10T11:48:06.318553+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "85ad5bddc19f7505",
+      "author": "Kong__kurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kong__kurs",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er DNB det er snakk om. De har ikke peiling på shipping, energi, infrastruktur, teknologi... Hele lista egentlig.. Kanskje finans, men har sittet lenge på STB og er happy med det. Alt DNB kommer med er bare støy for meg. Absolutt ALT!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 238,
+      "has_link": false
+    },
+    {
+      "key": "c328621172aea07a",
+      "author": "KjøptHøytSolgteLavt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjpthytsolgtelavt",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Fortsatt komisk at DNB Carnegie som eneste megler hus har ett kursmål på 20kr,  altså en nedgang på over 25% fra dagens kurs Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    }
+  ]
 }

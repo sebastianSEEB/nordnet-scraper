@@ -1,9 +1,25 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-10T07:03:57.671859+00:00",
+  "scraped_at": "2026-09-10T11:50:30.780416+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8709928923b8ff35",
+      "author": "Dobnit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dobnit",
+      "posted_relative": "for 2 t siden",
+      "text": "Fra SB1 Markets sektorrapport fra 9. sept:",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        16
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

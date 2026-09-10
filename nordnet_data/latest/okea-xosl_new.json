@@ -1,9 +1,23 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-10T07:05:15.861170+00:00",
+  "scraped_at": "2026-09-10T11:51:44.526074+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7570aa815d3292ae",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 4 t siden",
+      "text": "Er litt treg den her, men skulle vel ligget på 41 uansett nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    }
+  ]
 }

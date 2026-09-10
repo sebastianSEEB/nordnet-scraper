@@ -1,9 +1,39 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-09-10T07:03:30.669661+00:00",
+  "scraped_at": "2026-09-10T11:50:02.906316+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "270cfc7539d28d06",
+      "author": "VanTwin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vantwin",
+      "posted_relative": "for 4 t siden",
+      "text": "Det ser ut til at oljeprisen ikke gir AKSO samme kursløft som tidligere. Selv med Brent over 100 dollar fatet har aksjen foreløpig reagert svakt.  Personlig tror jeg markedet ser trolig i større grad på ordrebok, marginer, kontantstrøm og inntjening.  AKSO har fortsatt en solid backlog og guider mot 50–55 mrd. kroner i omsetning i 2026, men høy oljepris alene ser ikke ut til å være nok til å løfte aksjen videre. Videre utvikling vil derfor særlig avhenge av nye kontrakter, høyere ordreinngang, bedre marginer og eventuelle økte utbetalinger fra OneSubsea.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 560,
+      "has_link": false
+    },
+    {
+      "key": "0244b77df24da89a",
+      "author": "Kong__kurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kong__kurs",
+      "posted_relative": "for 58 min siden",
+      "text": "Nå produserer ikke AKSO olje så det er ikke overraskende med lite utslag. Men når støvet har lagt seg i verden, hvis det skjer, så kan det hende mange produksjonselskaper står i kø for å benytte AKSO sin ekspertise.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    }
+  ]
 }

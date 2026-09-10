@@ -1,9 +1,72 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-10T07:05:23.424963+00:00",
+  "scraped_at": "2026-09-10T11:51:52.195009+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "f992c7e766d388c0",
+      "author": "Hestebråten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hestebraten",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Nå er jeg godt fornøyd med å ha hatt is i magen og blei med igjennom hele forrige opptur og nedtur, med gode påfyll under den siste. Det senket GAV noe til under midt på 30 tallet og gir nå solid avkastning, selv sett over 3 og 5 år.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "22a793f33b4cb175",
+      "author": "aspeløv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
+      "posted_relative": "for 4 t siden",
+      "text": "kr 50,50 puh nå tror jeg førtitallet er forlatt for godt Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "8aac891e3b8ae5ad",
+      "author": "TorHoldig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torholdig",
+      "posted_relative": "for 20 t siden",
+      "text": "Høyste close siden april 2023 i dag! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "71175e0fcbe4b2b2",
+      "author": "Flyver",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flyver",
+      "posted_relative": "for 3 t siden",
+      "text": "Brøt greit gjennom 50 så det blir spennende frem mot 3q",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }
