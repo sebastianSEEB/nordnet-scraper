@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-09T23:40:24.469039+00:00",
+  "scraped_at": "2026-09-10T01:59:55.214562+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ea70b4029137c442",
+      "author": "Xiskogen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xiskogen",
+      "posted_relative": "for 2 t siden",
+      "text": "· xD bot eller mindreårig. Fryktelig ai-arbeid",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }
