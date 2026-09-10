@@ -1,22 +1,40 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-10T12:32:00.505012+00:00",
+  "scraped_at": "2026-09-10T16:48:27.485768+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "607db404d1239984",
+      "key": "b5dcd6641b619c68",
       "author": "tesk",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
-      "posted_relative": "for 7 min siden",
-      "text": "OKEA: VARASTYREMEDLEM SOLGT 20.000 AKSJER TIL KURS 35,48 Skulle ha gått til Specsavers.....:)  Det var de 100k tapt",
+      "posted_relative": "for 4 t siden",
+      "text": "OKEA: VARASTYREMEDLEM SOLGT 20.000 AKSJER TIL KURS 35,48 Skulle ha gått til Specsavers.....:)  Det var de 100k tapt Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        2
+      ],
       "links": [],
-      "char_count": 115,
+      "char_count": 135,
+      "has_link": false
+    },
+    {
+      "key": "aa2d0720a937711b",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 2 t siden",
+      "text": "Men det var for en måned siden,  og en blir ikke synsk med Specsavers heller,  men ok 🫠",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 87,
       "has_link": false
     }
   ]

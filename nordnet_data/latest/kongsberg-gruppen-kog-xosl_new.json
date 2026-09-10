@@ -1,9 +1,36 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-10T12:32:57.533251+00:00",
+  "scraped_at": "2026-09-10T16:49:24.339610+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ad2dd48a640b7c6e",
+      "author": "vj09",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vj09",
+      "posted_relative": "for 2 t siden",
+      "text": "20 september valg i russland, veldig stor sjanse at putin skal mobilisere flere 100 tusen, kanskje mer ...hvor han skal plassere dem ,kanskje med nato grensen eller pushe Ukraine angrep...ser ut som han får støtte fra trump stadig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 230,
+      "has_link": false
+    },
+    {
+      "key": "c9348d5f03a78953",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 57 min siden · Endret",
+      "text": "KOG skal levere på 5 dobbling av omsetningen.de neste 10år",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,93 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-10T12:31:33.408393+00:00",
+  "scraped_at": "2026-09-10T16:48:01.059863+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "094de63621b708b5",
-      "author": "tospann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
-      "posted_relative": "for 17 min siden",
-      "text": "Som vi vet . så gikk BP tungt inn i Irak med gode relasjoner med Bagdad",
+      "key": "9ccb3308219b2c26",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 5 min siden",
+      "text": "Den stupte da usa gikk rett ned rundt der. Samme greia  som vanlig . Redsel på høyere langrenter og inflasjonsfrykt. Olje aksjer fulgte etter . Er nok opp igjen i morgen.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 71,
+      "char_count": 170,
+      "has_link": false
+    },
+    {
+      "key": "df7c2c9b1b585fd8",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 3 t siden",
+      "text": "Tjener vannvittig nå fra 3 kjerne områder, olje og gass har skyhøye priser og vi har ikke begynt på vinteren engang.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "2c3516405645b29f",
+      "author": "Myrsnipe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myrsnipe",
+      "posted_relative": "for 1 t siden",
+      "text": "Oljeaksjene på OSB stupte ca kl.15.00 mens oljeprisen holdt seg høy. Noen som kan hjelpe meg med en forklaring?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "5ea65eb5c6bd8246",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 2 t siden",
+      "text": "· Oljen opp 3 prosent og DNO står i prinsippet stille, utrolig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "3cc1155b8ad76cae",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 3 t siden",
+      "text": "Spotpris 105 og 3,20% +",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    },
+    {
+      "key": "cd9bfa395d8aa2a1",
+      "author": "Vikingen88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikingen88",
+      "posted_relative": "for 2 t siden",
+      "text": "DNO opp 0,5% :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
       "has_link": false
     }
   ]

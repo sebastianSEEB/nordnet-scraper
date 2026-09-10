@@ -1,9 +1,82 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-10T12:29:06.572985+00:00",
+  "scraped_at": "2026-09-10T16:45:38.950450+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "24d54fd43d186c4d",
+      "author": "Harlys",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harlys",
+      "posted_relative": "for 6 t siden",
+      "text": "Jeg forstår ikke helt problemet med Vår/BN Jeg har 3 mill kr. i BN i dag, Med dagens kurs og 9.71 aksje pr mine 5000  BM aksjer vil det være verdt ca 2,65 mill, og i tillegg får jeg kontant ca 380 000 i overgang. Jeg er klar over at det blir et helt annet utbytte,men i ren verdi ser jeg ikke den store forskjellen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        8
+      ],
+      "links": [],
+      "char_count": 315,
+      "has_link": false
+    },
+    {
+      "key": "520c239e1be84e08",
+      "author": "Coach3n",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coach3n",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg er over 100% i pluss på denne, hvordan vil min Gav se ut etter overgangen til Vår? Vil Nordnet sette denne riktig i forhold til min Gav her eller må jeg regne den ut selv?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 175,
+      "has_link": false
+    },
+    {
+      "key": "b1af1a7f30997427",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 3 t siden",
+      "text": "Vi vil også få utbytte i vår hvis fusjonstuden går over den faktisk husk.Husk ikke bland følelser i aksjer se på fakta.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "e6d679d94c4c57ba",
+      "author": "Xiskogen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xiskogen",
+      "posted_relative": "for 3 t siden",
+      "text": "· Brent skjøt opp 2 dollar (105.5), og vår/bnor faller. :(",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "d86414a26cad906f",
+      "author": "Xiskogen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xiskogen",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "au. bnor falt hardt fra vår/brent ratio.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }

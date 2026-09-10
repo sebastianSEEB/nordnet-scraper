@@ -1,22 +1,40 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-10T12:35:21.780838+00:00",
+  "scraped_at": "2026-09-10T16:51:48.249653+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "e34460cd14056fc1",
-      "author": "Haversand",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/haversand",
-      "posted_relative": "for 16 min siden",
-      "text": "Ser at man må ha fra 138K aksjer eller mer for å være blant de 250 største eierne.",
+      "key": "e51b7a0e2e6d7aeb",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvorfor ikke skrive 10 øre? Alt er mulig, men tipper storeierne ikke ser lyst på at innskutt kapital forsvinner, og har planer for å unngå det. Om 5 år har vi fasit.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 82,
+      "char_count": 165,
+      "has_link": false
+    },
+    {
+      "key": "2fffab2d92839cc2",
+      "author": "aiinc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aiinc",
+      "posted_relative": "for 4 t siden",
+      "text": "· Vil vi se 1 kr snart? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 43,
       "has_link": false
     }
   ]

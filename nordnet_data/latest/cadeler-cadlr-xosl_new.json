@@ -1,9 +1,54 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-09-10T12:30:42.057002+00:00",
+  "scraped_at": "2026-09-10T16:47:12.268843+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b23958f5b58744eb",
+      "author": "lq88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lq88",
+      "posted_relative": "for 2 t siden",
+      "text": "· Litt lei av at aksjene jeg har som oppjusterer faller i kurs 😳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "8b58ad46c6dcbcef",
+      "author": "Heltan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltan",
+      "posted_relative": "for 2 t siden",
+      "text": "Noen som kan forklare det plutselige fallet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    },
+    {
+      "key": "7b81bb1f6d2594ec",
+      "author": "TaqiaDk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/taqiadk",
+      "posted_relative": "for 2 t siden",
+      "text": "· Plutselig? Folk selger bare unna.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

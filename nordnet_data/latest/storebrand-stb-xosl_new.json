@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-10T12:33:28.187185+00:00",
+  "scraped_at": "2026-09-10T16:49:57.833166+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "785dc64b0cf50fc3",
+      "author": "Sjabby Sheik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjabby-sheik",
+      "posted_relative": "for 2 t siden",
+      "text": "Noen som har link til kursmål begrunnelsen? Prøvd å finne men, finner ei🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

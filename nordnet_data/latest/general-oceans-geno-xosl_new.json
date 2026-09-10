@@ -1,9 +1,23 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-10T12:34:35.325974+00:00",
+  "scraped_at": "2026-09-10T16:51:02.417751+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "47afabb70507fd06",
+      "author": "Nykter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nykter",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Av dagens totale omsetning på 610k så er det verdt å merke seg at drøyt halvparten gikk i sluttauksjonen hvor den løftet kursen 16 øre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 135,
+      "has_link": false
+    }
+  ]
 }

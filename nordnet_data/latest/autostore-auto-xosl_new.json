@@ -1,9 +1,25 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-10T12:31:37.046734+00:00",
+  "scraped_at": "2026-09-10T16:48:04.842714+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d183f4267e915b4e",
+      "author": "Trebol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trebol",
+      "posted_relative": "for 35 min siden",
+      "text": "Det ser ut til å ha gått ubemerket hen at ny eierandel til THL i AutoStore etter salget er på 24,9%.  Er det helt tilfeldig at restbeholdningen er dette tallet (nermeste tall under 25%)?  Mange fond har regler som begrenser hvor høy prosent et selskap kan være representert med i porteføljen.  Kan salget være et resultat at at den prosentvise eierandelen i AutoStore hadde blitt for stor?  Aksjen hadde jo steget ca. 32 prosent bare den siste måneden.  Hvis så er tilfelle kan det hende at vi etter 90 dager ser ytterligere salg hvis maks prosentsats ikke skal være høyere en f.eks. 20%.  Hvis dette er bakgrunnen for salget, ligger det ikke noe negativt i salget, og kursnedgangen er ubegrunnet.  Dette er bare en fundering.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 726,
+      "has_link": false
+    }
+  ]
 }
