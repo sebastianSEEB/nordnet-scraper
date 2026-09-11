@@ -1,9 +1,39 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-11T11:48:48.995411+00:00",
+  "scraped_at": "2026-09-11T14:42:13.681400+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "13ab6f0b45ccc6bc",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "Link kan være i \\snuomerådet nå, det var her den snudde da ABG kom med sin analyse, og aksjen dro rett opp til i overkant av 27 om jeg husker rett. Med et godt kvartal 2 bak oss burde forutsetningen for oppgang være meget god.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 226,
+      "has_link": false
+    },
+    {
+      "key": "134fb163486d5ad9",
+      "author": "syden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syden",
+      "posted_relative": "for 2 t siden",
+      "text": "Nå har dem vel snart kjøpt opp det mest av småselskaper rundt omkring. Da er det vel bare å vente på Link selv blir oppkjøpt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

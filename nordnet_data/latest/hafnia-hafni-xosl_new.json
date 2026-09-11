@@ -1,9 +1,23 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-11T11:47:19.927669+00:00",
+  "scraped_at": "2026-09-11T14:40:46.378637+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "09a347964e959cb1",
+      "author": "tanaids",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tanaids",
+      "posted_relative": "for 3 min siden",
+      "text": "· Noen som vet hvorfor handelen er stoppet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

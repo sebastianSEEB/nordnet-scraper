@@ -1,39 +1,55 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-11T11:55:29.010748+00:00",
+  "scraped_at": "2026-09-11T14:48:43.771441+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "5485367e4eec6884",
-      "author": "Bing Bing",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bing-bing",
-      "posted_relative": "for 1 t siden",
-      "text": "Det kommer ikke til å skje stort med kursen på dette selskapet før selskapet etablerer en utbyttepolitikk. En og annen positiv nyhet og forventninger rundt rapporter gir riktig nok kortvarige oppganger, men som blir avløst av kursnedgang. Denne aksjen ser ut som en swingtrading aksje, så disse som går inn på lav kurs og selger seg ut på høy kurs blir sikkert rik på virksomheten. Disse investorene går inn og ut hele tiden. Som langsiktig investor er Koa en ubrukelig aksje, som et oppbevaringssted for kapital uten rente. En høyrentekonto i bank, med 4,5% rente medfører iallfall ikke risiko for tap.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 603,
-      "has_link": false
-    },
-    {
-      "key": "46f3fa5645fc25a4",
-      "author": "Ter-to",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
-      "posted_relative": "for 3 t siden",
-      "text": "Har noen en formening eller forventning om hvor denne kan lande i kurs på denne tiden neste år? Forutsatt at de fortsetter å øke sin EBIT. Min erfaring gjennom tidene er at selskap som har gått ned i dekning over tid vil øke radikalt når de først snur med en ny leder. Ingen regel uten unntak selvsagt. Men litt interressant hvordan dere tenker",
+      "key": "6adde47bfdd67e99",
+      "author": "KIRNE14",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kirne14",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Vi får satse på at KOA er med, eller blir med, her - inkludert Chassis Autonomys steer-by-wire-system: https://www.ffi.no/aktuelt/nyheter/disse-robotene-skal-bryte-gjennom-fiendens-linjer",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8
+        5,
+        2
+      ],
+      "links": [
+        "https://www.ffi.no/aktuelt/nyheter/disse-robotene-skal-bryte-gjennom-fiendens-linjer"
+      ],
+      "char_count": 187,
+      "has_link": true
+    },
+    {
+      "key": "bddf34405a308c32",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 2 t siden",
+      "text": "Det blir vel en helt annen kundegruppe og helt andre instanser som godkjenner. Men absolutt at dette kommer til å bli et gigantisk marked fremover",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "5a300054e9aa7606",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 15 min siden",
+      "text": "Dag to for meg som ny eier i grønt. Herlig!  God helg😀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
       ],
       "links": [],
-      "char_count": 344,
+      "char_count": 54,
       "has_link": false
     }
   ]

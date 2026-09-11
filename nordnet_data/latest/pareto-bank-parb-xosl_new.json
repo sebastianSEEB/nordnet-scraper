@@ -1,9 +1,40 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-11T11:54:00.152177+00:00",
+  "scraped_at": "2026-09-11T14:47:23.002683+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "626dbb3a16b45515",
+      "author": "S4LM14K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/s4lm14k",
+      "posted_relative": null,
+      "text": "7. sep. Kjøpte litt på 57,5. Kanskje øke litt rundt 54, og så gå tyngre inn hvis vi går så langt ned som 50 kr. Jeg ser godt for meg at vi skal ned dit, skikkelig bear trend her.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 178,
+      "has_link": false
+    },
+    {
+      "key": "089820890df631c2",
+      "author": "JammieY",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jammiey",
+      "posted_relative": null,
+      "text": "7. sep. · Hva er galt med denne?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

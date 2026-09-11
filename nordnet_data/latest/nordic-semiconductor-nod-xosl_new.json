@@ -1,50 +1,39 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-11T11:48:40.573003+00:00",
+  "scraped_at": "2026-09-11T14:42:05.888956+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9a0ba821bbd9b3cd",
-      "author": "RoKri",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rokri",
-      "posted_relative": "for 3 min siden · Endret",
-      "text": "Mulig avtale med Toyota. Her er potensielt et helt nytt market for NOD.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 71,
-      "has_link": false
-    },
-    {
-      "key": "5c5f72dc2b7c56f8",
-      "author": "boblen_sprekker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/boblen_sprekker",
+      "key": "2aa627d504112c06",
+      "author": "GLC",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glc",
       "posted_relative": "for 41 min siden",
-      "text": "Klarer man å treffe med trading på svingene i nod kan man tjene litt 😅",
-      "reply_count": null,
+      "text": "Her kommer vi til å møte konkurranse fra Qualcom og Media Tek som også har satellitt chips. Men det er et annet design for bred kommunikasjon. Der jeg tror NOD vil være inne for nødkommunikasjon og lignende med sin low energy.  En rettelse fra meg, produktet som ble brukt var  developer kit for nRF9151. Vi må derfor ikke ta dette som en design win, ennå.",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 70,
+      "char_count": 356,
       "has_link": false
     },
     {
-      "key": "3eb440e91eb6b76a",
+      "key": "08841b801406a38d",
       "author": "Sky is the limit",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
-      "posted_relative": "for 27 min siden",
-      "text": "Noen spesiell grunn for opp ca. 4% pr nå ? Vis 1 kommentar til",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen spesiell grunn for opp ca. 4% pr nå ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        8
       ],
       "links": [],
-      "char_count": 62,
+      "char_count": 42,
       "has_link": false
     }
   ]

@@ -1,39 +1,100 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-11T11:51:33.952793+00:00",
+  "scraped_at": "2026-09-11T14:44:52.874204+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "00af324a420dcba6",
-      "author": "Bastus68",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
-      "posted_relative": "for 12 min siden",
-      "text": "Skulle ikke rekordhøye dieselpriser i USA gjøre naturgass enda mer attraktivt som et alternativ til diesel på tanken? Da burde det vel vært bra for Hexagon Composite i tilfelle",
+      "key": "f4b22befc7a8bd88",
+      "author": "Isf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isf",
+      "posted_relative": "for 2 t siden",
+      "text": "Dyr diesel kan være bra for HEX? https://www.finansavisen.no/energi/2026/09/11/8379604/dieselprisen-i-usa-passerte-ny-smertegrense-6-dollar-pr.-gallon",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/11/8379604/dieselprisen-i-usa-passerte-ny-smertegrense-6-dollar-pr.-gallon"
+      ],
+      "char_count": 150,
+      "has_link": true
+    },
+    {
+      "key": "2431b952d8b31c1f",
+      "author": "Jo4more",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jo4more",
+      "posted_relative": "for 2 t siden",
+      "text": "Dagens prising på Hex fremstår gunstig (i lys av gj snittlige estimater fra analytikere og underliggende slik vi kjenner dette fra rapporter og annet), men er nok mange som holder igjen litt nå, dvs. passer på å ha godt med cash i tilfelle en korreksjon i det globale børsmarkedet …",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 176,
+      "char_count": 282,
       "has_link": false
     },
     {
-      "key": "967be88392f5b848",
-      "author": "ælgoksen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
-      "posted_relative": "for 21 min siden",
-      "text": "liker at vi er nede på rundt 13 blank. Gav blir bedre og bedre dag for dag",
+      "key": "bd61cda7e3057046",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": "for 3 t siden",
+      "text": "Skulle ikke rekordhøye dieselpriser i USA gjøre naturgass enda mer attraktivt som et alternativ til diesel på tanken? Da burde det vel vært bra for Hexagon Composite i tilfelle Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        8,
+        2
       ],
       "links": [],
-      "char_count": 74,
+      "char_count": 196,
+      "has_link": false
+    },
+    {
+      "key": "e5f5de2e418bef92",
+      "author": "Risky-b",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/risky-b",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva er grunnen til fallet i dag? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "d13fd435acd69757",
+      "author": "Jaffa816",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaffa816",
+      "posted_relative": "for 2 t siden",
+      "text": "tror ikkje det er noe som funker bra for denne aksje",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "248a2b9a2576f3a9",
+      "author": "UlfTerje",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ulfterje",
+      "posted_relative": "for 41 min siden",
+      "text": "· Makro",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
       "has_link": false
     }
   ]

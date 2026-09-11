@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-11T11:48:02.098908+00:00",
+  "scraped_at": "2026-09-11T14:41:24.975882+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a3d2ccb960a95944",
+      "author": "Bella future",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bella-future",
+      "posted_relative": "for 1 t siden",
+      "text": "Ordre og transaksjoner ligger til høyre for søkefeltet. Trykk på denne og begge kommer opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

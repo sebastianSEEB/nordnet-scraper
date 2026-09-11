@@ -1,22 +1,55 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-11T11:51:05.020402+00:00",
+  "scraped_at": "2026-09-11T14:44:29.405064+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "a903d0f2c82ee482",
-      "author": "EroseN1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
-      "posted_relative": "for 16 min siden",
-      "text": "Hadde tjent gode penger på olje 60-70 også. Nå tjener de extremt både på olje og gass.",
+      "key": "e076db2603fb912e",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 5 t siden",
+      "text": "DNO tjener gode penger med de olje/gasspriser som er p.t. ser frem til 3.kvt. presentasjon som jeg regner med blir det beste i selskapets historie!!! Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        7,
+        3
+      ],
       "links": [],
-      "char_count": 86,
+      "char_count": 169,
+      "has_link": false
+    },
+    {
+      "key": "a41d0c8486276469",
+      "author": "Kjell Makrell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell-makrell",
+      "posted_relative": "for 21 min siden · Endret",
+      "text": "Burde ligget langt over 20 i dag med denne oljeprisen",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "111618efc7dfbf23",
+      "author": "pemol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pemol",
+      "posted_relative": "for 1 t siden",
+      "text": "· spennende tider.....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 22,
       "has_link": false
     }
   ]

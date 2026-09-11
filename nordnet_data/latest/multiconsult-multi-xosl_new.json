@@ -1,24 +1,40 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-09-11T11:54:17.463424+00:00",
+  "scraped_at": "2026-09-11T14:47:41.507751+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "2404bf906a16281b",
-      "author": "TheFox",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thefox",
+      "key": "835a8597c8f11b54",
+      "author": "AksjeBelge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjebelge",
       "posted_relative": null,
-      "text": "7. sep. Er det bestemt hvilken børs/børser det nye selskapet skal være notert på?",
+      "text": "7. sep. Men om selskapet blir svensk så blir det kildeskatt på utbytte, irriterende.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "7de7b79607fa600e",
+      "author": "AndreasMork",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andreasmork",
+      "posted_relative": null,
+      "text": "7. sep. · begge",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 81,
+      "char_count": 15,
       "has_link": false
     }
   ]

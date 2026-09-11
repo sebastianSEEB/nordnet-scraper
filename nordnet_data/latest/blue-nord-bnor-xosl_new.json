@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-11T11:48:36.685740+00:00",
+  "scraped_at": "2026-09-11T14:42:02.142915+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "62923a7f8c883e24",
+      "author": "Xiskogen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xiskogen",
+      "posted_relative": "for 2 t siden",
+      "text": "· Vent påvirker GAV mengden konverterte aksjer? Så å selge alle bnor for å kjøpe tilbake med 2% økt antall bnor-aksjer ville være en stor negativ hvis min GAV har blitt redusert mye på grunn av utbyttet det siste året?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 218,
+      "has_link": false
+    }
+  ]
 }

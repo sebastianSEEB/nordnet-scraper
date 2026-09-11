@@ -1,9 +1,38 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-11T11:50:45.967006+00:00",
+  "scraped_at": "2026-09-11T14:44:09.538918+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "458179dc4f7d7f5e",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 1 døgn siden · Endret",
+      "text": "Stor omsetning igjen i dag Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "06a00fa5842d0e00",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 24 min siden",
+      "text": "Ja, men hvem selger ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

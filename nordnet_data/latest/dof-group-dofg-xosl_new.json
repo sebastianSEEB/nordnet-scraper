@@ -1,50 +1,37 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-11T11:49:16.639547+00:00",
+  "scraped_at": "2026-09-11T14:42:42.946905+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b235f6e0b7fe7388",
+      "key": "6fc202eb49a00f07",
       "author": "Manako",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/manako",
-      "posted_relative": "for 46 min siden",
-      "text": "Hvilken kortsiktig effekt kan ekskluderingen av  OBX-indeksen ha?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 65,
-      "has_link": false
-    },
-    {
-      "key": "0cf14d5db0514aaf",
-      "author": "Bull_dog",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bull_dog",
-      "posted_relative": "for 1 t siden",
-      "text": "De har akuratt gitt 3,55kr i utbytte, hva snakker du om?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 56,
-      "has_link": false
-    },
-    {
-      "key": "344f4fe6e4ca6110",
-      "author": "saggiz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
-      "posted_relative": "for 1 t siden",
-      "text": "betaler ikke DOF utbytte lenger?",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvilken kortsiktig effekt kan ekskluderingen av  OBX-indeksen ha? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 32,
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "2014c2a9ba928742",
+      "author": "AlloNo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allono",
+      "posted_relative": "for 11 min siden",
+      "text": "en del indeks-fond selger seg ut og kursen kan påvirkes negativt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
       "has_link": false
     }
   ]

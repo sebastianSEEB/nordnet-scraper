@@ -1,22 +1,81 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-11T11:52:41.101720+00:00",
+  "scraped_at": "2026-09-11T14:46:06.563305+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "a2d16d35ff80dc29",
-      "author": "ahar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ahar",
-      "posted_relative": "for 52 min siden",
-      "text": "Den klatrer opp uansett de kommende dagene..",
+      "key": "5a06e57040f329fc",
+      "author": "carein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carein",
+      "posted_relative": "for 58 min siden",
+      "text": "Ja, helt den stuper i løpet av den siste timen…som vanlig.😦",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "4ed2501d0712610d",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 21 min siden",
+      "text": "KOG om dagen og amerikanske aksjer om kvelden",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 44,
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "fda8a6d41405672a",
+      "author": "saha125",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saha125",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva har kjede nå? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "4b691b471aaae5d8",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 40 min siden",
+      "text": "Algoritmene som sikrer dagens gevinst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "51ee879b2f7ff3c9",
+      "author": "Trade500",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trade500",
+      "posted_relative": "for 1 t siden",
+      "text": "har ikke før solgt før det stuper...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 36,
       "has_link": false
     }
   ]

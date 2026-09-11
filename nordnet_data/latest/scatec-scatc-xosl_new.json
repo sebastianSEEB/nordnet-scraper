@@ -1,9 +1,25 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-11T11:49:34.560662+00:00",
+  "scraped_at": "2026-09-11T14:42:59.401711+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c95c0b48c57ef750",
+      "author": "Nettløkinvestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nettlkinvestor",
+      "posted_relative": "for 1 t siden",
+      "text": "Makro forklarer aksjekurser. TA er som å spå i kaffegruten. Klokka 14:30  ble amerikansk KPI offentliggjort, og den kom inn på forventningen og tok bort usikkerhet om inflasjon og dollarkurs. Det forklarer kursøkningen, ikke kaffegruten.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 237,
+      "has_link": false
+    }
+  ]
 }

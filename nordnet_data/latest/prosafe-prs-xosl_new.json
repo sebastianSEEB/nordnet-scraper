@@ -1,9 +1,25 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-11T11:55:19.323442+00:00",
+  "scraped_at": "2026-09-11T14:48:35.659314+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f789127f223918d7",
+      "author": "Botn Bruk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/botn-bruk",
+      "posted_relative": "for 52 min siden",
+      "text": "I kveld kommer opplysninger om hvem som kjøpte og solgte på dagen der det ble omsatt 3,25 mill. aksjer. Det er ikke sikkert det inneholder spennende nytt, vi får se:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 166,
+      "has_link": false
+    }
+  ]
 }

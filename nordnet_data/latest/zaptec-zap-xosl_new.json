@@ -1,9 +1,43 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-11T11:49:00.068759+00:00",
+  "scraped_at": "2026-09-11T14:42:21.450201+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a3eeabdf8788b3fe",
+      "author": "Samiska",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/samiska",
+      "posted_relative": "for 1 t siden",
+      "text": "· ISO 15118-20-standarden trer i kraft fra begynnelsen av 2027, noe som er manna for Zaptec, hvis Zaptec Pro og Zaptec Go 2 allerede fullt ut støtter standarden. Ifølge AI har konkurrerende \"billigladeapparater\" som ikke støtter standarden for øyeblikket hele 50% markedsandel, men de vil i stor grad bli feid bort fra de europeiske markedene ved årsskiftet. https://tekniikanmaailma.fi/pyyhkaisee-markkinoilta-kaikki-halvat-kiinteat-latausasemat-pois-eu-asetus-mullistaa-pian-sahkoautojen-latauksen/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        1
+      ],
+      "links": [
+        "https://tekniikanmaailma.fi/pyyhkaisee-markkinoilta-kaikki-halvat-kiinteat-latausasemat-pois-eu-asetus-mullistaa-pian-sahkoautojen-latauksen/"
+      ],
+      "char_count": 500,
+      "has_link": true
+    },
+    {
+      "key": "8332c3c42289647e",
+      "author": "ZappaPlaysZappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaplayszappa",
+      "posted_relative": "for 47 min siden · Endret",
+      "text": "· Godt sett. Og virkelig positivt for Zaptec. Det kan gjøre det vanskeligere for svært billige asiatiske/low-end produsenter å konkurrere alene på pris.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    }
+  ]
 }

@@ -1,23 +1,27 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-11T11:48:28.976644+00:00",
+  "scraped_at": "2026-09-11T14:41:53.902973+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "efd1e0a421c6423d",
-      "author": "Volven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
-      "posted_relative": "for 48 min siden",
-      "text": "Spørsmålet er hvor høyt oljeprisen går og om hvordan global BNP-vekst blir påvirket framover, begynner Kina å kutte i importen av råvarer?",
+      "key": "b6a07eec3f6a08f0",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er verre enn bare oljeprisen; crack-spreaden er historisk høy så prisen på diesel o.l er tett opp mot 200$/fatet :o For jernmalm så er det litt mer komplisert enn bare BNP tror jeg; Kina har en del innenlands produksjon, men den er både dyr og dårlig (lavt jerninnhold) så jeg spekulerer i at en priskollaps i jernmalm kan øke importen til Kina - alt annet likt vel å merke (et fall i BNP skulle man jo tro fører til mindre behov for jernmalm). På sikt så kommer nok India for full fart. Per i dag så importerer de svært lite (noe eksport og noe import), men det forventes at de vil ha et underskudd på 100M tonn/år (les: nesten hele Simandou) innen 2030 https://www.reuters.com/markets/commodities/indias-iron-ore-imports-trend-higher-its-no-china-russell-2025-06-03/ Frem til da så har vi også tank å støtte oss på. Husker jeg rett i farten så er (var) skipsverdiene ca 1/3 tank og 2/3 bulk, mens inntjeningen var ca 50/50 mellom tank og bulk (ser da bort fra småsnackset de har ellers). Skjønt får vi en resesjon så skal gjerne tankratene også ned.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 138,
-      "has_link": false
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.reuters.com/markets/commodities/indias-iron-ore-imports-trend-higher-its-no-china-russell-2025-06-03/"
+      ],
+      "char_count": 1055,
+      "has_link": true
     }
   ]
 }
