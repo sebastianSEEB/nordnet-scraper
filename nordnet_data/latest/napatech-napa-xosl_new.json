@@ -1,54 +1,53 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-11T14:43:35.246191+00:00",
+  "scraped_at": "2026-09-11T18:01:21.601295+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 11,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "8968a06c726a84ef",
+      "key": "1a2613bedf9dc8dd",
       "author": "tug of war",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
-      "posted_relative": "for 1 t siden",
-      "text": "· https://imaginary.finansavisen.no/pipe?quality=80&type=jpeg&url=https%3A%2F%2Fhegnar-investor-dev.s3.eu-west-2.amazonaws.com%2Freply-images%2F27a17284-d537-45b8-914a-398be2cca43d1789117784424 fin kommentar fra NAPATECH",
+      "posted_relative": "for 4 t siden",
+      "text": "· https://imaginary.finansavisen.no/pipe?quality=80&type=jpeg&url=https%3A%2F%2Fhegnar-investor-dev.s3.eu-west-2.amazonaws.com%2Freply-images%2F27a17284-d537-45b8-914a-398be2cca43d1789117784424 fin kommentar fra NAPATECH Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8
+        12,
+        2
       ],
       "links": [
         "https://imaginary.finansavisen.no/pipe?quality=80&type=jpeg&url=https%3A%2F%2Fhegnar-investor-dev.s3.eu-west-2.amazonaws.com%2Freply-images%2F27a17284-d537-45b8-914a-398be2cca43d1789117784424"
       ],
-      "char_count": 220,
+      "char_count": 240,
       "has_link": true
     },
     {
-      "key": "b738cb552aea0769",
-      "author": "LilleAleks",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillealeks",
-      "posted_relative": "for 3 t siden",
-      "text": "Er toget gått? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 34,
-      "has_link": false
-    },
-    {
-      "key": "93a9592b72b4496b",
-      "author": "PartyGeir",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/partygeir",
-      "posted_relative": "for 1 t siden",
-      "text": "Forlater snart stasjonen..",
+      "key": "094fb11358e4cd27",
+      "author": "@tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": null,
+      "text": "? Kan ikke huske en så klar NVIDIA-lenke tidligere.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 26,
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "dec39eb882a5f4bf",
+      "author": "Tech 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech-20",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Din e-post til/fra CFO-en",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
       "has_link": false
     }
   ]

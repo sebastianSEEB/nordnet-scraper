@@ -1,9 +1,38 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-09-11T14:44:05.659024+00:00",
+  "scraped_at": "2026-09-11T18:01:54.347012+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c19f3962d72872e5",
+      "author": "Jossan57",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jossan57",
+      "posted_relative": "for 2 t siden",
+      "text": "Hausta har solgt noen tusen aksjer hver dag siste tiden, noe som selvfølgelig påvirker kursen negativt på ellers små dagsvolum",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "2d425d82976161b0",
+      "author": "Flytsonen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flytsonen",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Ned 3% på relativt små volum, tanker? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

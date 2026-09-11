@@ -1,9 +1,25 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-09-11T14:42:47.295561+00:00",
+  "scraped_at": "2026-09-11T18:00:32.025046+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "73d405f19dfafe20",
+      "author": "Long_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/long-2",
+      "posted_relative": "for 2 t siden",
+      "text": "Da de kom inn på OBX skjedde det lite. Vi får se nå. Ingenting av det fundamentale er endret.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    }
+  ]
 }

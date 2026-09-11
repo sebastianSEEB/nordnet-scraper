@@ -1,24 +1,54 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-11T14:44:37.042303+00:00",
+  "scraped_at": "2026-09-11T18:02:24.366398+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "90caf568ce6ba411",
-      "author": "PH1223",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
-      "posted_relative": "for 28 min siden",
-      "text": "581 nå",
+      "key": "bba1835aa59a6100",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.intrafish.no/priser/kinesisk-ferieuke-driver-prisene-opp-pa-storfisken/2-1-2042505 Kilopriser litt opp nå i alle prisklasser, men på storfisk er kiloprisen mye opp.  Deilig!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.intrafish.no/priser/kinesisk-ferieuke-driver-prisene-opp-pa-storfisken/2-1-2042505"
+      ],
+      "char_count": 186,
+      "has_link": true
+    },
+    {
+      "key": "51c69971d6c4c834",
+      "author": "Huffsa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huffsa",
+      "posted_relative": "for 27 min siden",
+      "text": "Tror dere SalMar går høyere i oktober i år enn i fjor?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "1d950f721cfbcd50",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg kjenner lukten av 600….😉",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 6,
+      "char_count": 28,
       "has_link": false
     }
   ]

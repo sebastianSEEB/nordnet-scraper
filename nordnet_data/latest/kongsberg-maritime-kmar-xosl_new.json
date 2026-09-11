@@ -1,17 +1,46 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-11T14:44:41.143303+00:00",
+  "scraped_at": "2026-09-11T18:02:28.072479+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "0873617c51caf2a9",
+      "key": "2db9a16f9c284d78",
+      "author": "walaxe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/walaxe",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg har både ask og a/s. A/s mest for unoterte aksjer hvor utbyttene investeres videre på børs. Ask for måneds sparing og enkelt aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 135,
+      "has_link": false
+    },
+    {
+      "key": "45a834604f487770",
       "author": "norec",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/norec",
-      "posted_relative": "for 16 min siden",
-      "text": "Wow! Hva er det jeg ser? Kmar klarer å stenge på OVER 58 kr.  Nesten så jeg ikke tror det er sant. Vis 1 kommentar til",
+      "posted_relative": "for 3 t siden",
+      "text": "Wow! Hva er det jeg ser? Kmar klarer å stenge på OVER 58 kr.  Nesten så jeg ikke tror det er sant.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        17,
+        3
+      ],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "8de6fe79dd4686c8",
+      "author": "oliverrrr999",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oliverrrr999",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvis den holder seg stabilt ila neste uke blir det mer kjøp 😍",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
@@ -19,20 +48,50 @@
         2
       ],
       "links": [],
-      "char_count": 118,
+      "char_count": 61,
       "has_link": false
     },
     {
-      "key": "e8b1d0dfacf5b725",
-      "author": "AliceInWonderland",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aliceinwonderland",
-      "posted_relative": "for 12 min siden",
-      "text": "· 😂🥳",
+      "key": "53cbc575b5058b55",
+      "author": "PimpFunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
+      "posted_relative": "for 1 t siden",
+      "text": "God helg til alle medaksjonere🕺 en barriere er brudd",
       "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "e730c592a8e6c4f8",
+      "author": "GabW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
+      "posted_relative": "for 3 t siden",
+      "text": "Kanskje det blir en fin neste uke?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "8e2dac4cb46ad7fe",
+      "author": "RotteRolf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rotterolf",
+      "posted_relative": "for 28 min siden",
+      "text": "Er brudd opp bekreftet nå?",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 4,
+      "char_count": 26,
       "has_link": false
     }
   ]
