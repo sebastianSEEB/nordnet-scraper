@@ -1,9 +1,51 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-11T05:25:51.190428+00:00",
+  "scraped_at": "2026-09-11T10:12:35.639171+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ae07e4172d7efe8b",
+      "author": "Arathorn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arathorn",
+      "posted_relative": "for 52 min siden",
+      "text": "Det var gøy å være over 100 da! Man må vite å sette pris på tiden man har på den tresifrede siden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "395c061bb55fa6dd",
+      "author": "xster123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
+      "posted_relative": "for 32 min siden",
+      "text": "Begynner å nærme seg target på 98. Som sagt er den interessant igjen her nede mellom 96 og 98.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "6baa550a925c10bd",
+      "author": "fodboldfyren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fodboldfyren",
+      "posted_relative": "for 1 t siden",
+      "text": "· Vi er tilbake i trendlinjen igjen nå. Forventer en bunn i aksjen rundt disse nivåene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    }
+  ]
 }

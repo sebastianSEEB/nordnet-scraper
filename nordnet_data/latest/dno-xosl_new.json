@@ -1,9 +1,80 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-11T05:27:31.097837+00:00",
+  "scraped_at": "2026-09-11T10:14:11.964894+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "fecc7243d4b2acfb",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 57 min siden",
+      "text": "DNO tjener gode penger med de olje/gasspriser som er p.t. ser frem til 3.kvt. presentasjon som jeg regner med blir det beste i selskapets historie!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    },
+    {
+      "key": "74bdd399524a4d1f",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 23 min siden",
+      "text": "Nå har vi sett hvor kursen ligger med olja på $108. Hvor vil kursen ligge med olja på $70?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "a25f8c9174b5cb5e",
+      "author": "MrKaizer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrkaizer",
+      "posted_relative": "for 1 t siden",
+      "text": "Oljen ned 4,5 prosent og DNO står i prinsippet stille, utrolig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "1b2bb3cb257529d4",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 3 t siden",
+      "text": "· Oljen gikk opp 7 prosent i går DNO stiger O,5 prosent ,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "e884874195ab262e",
+      "author": "@Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": null,
+      "text": "hva tror du?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,71 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-11T05:25:35.967724+00:00",
+  "scraped_at": "2026-09-11T10:12:20.294211+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "5444c5c235292c38",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": "for 3 døgn siden",
+      "text": "https://www.finansavisen.no/finans/2026/09/08/8378474/danske-banks-toppvalg-analysesjefen-anbefaler-atte-aksjer DOF :-) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        43,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/08/8378474/danske-banks-toppvalg-analysesjefen-anbefaler-atte-aksjer"
+      ],
+      "char_count": 139,
+      "has_link": true
+    },
+    {
+      "key": "c454a9fe02bad657",
+      "author": "tiemand",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiemand",
+      "posted_relative": "for 1 t siden",
+      "text": "Tror ikke det nei, I lys av en del sammenslåinger og konsolideringer så er vel DOF selv konsolidator iom at de kjøpte Maersk Supply Service og har levert integrasjonen og derfor mindre utsatt for ryktebørsen.. Sektoren ellers samles, Subsea7/Saipem-fusjonen viser på en måte retningen og det er jo et attraktivt mål med P/E ca 5–6, backlog 7,2 mrd. USD, og veldig moderat gjeld. A.P. Møller Holding eier 25 % og hindrer fiendtlig bud, men er selv naturlig kjøperkandidat hvis de nærmer seg pliktgrensen. Ingen konkrete budrykter på DOF heller tror jeg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 552,
+      "has_link": false
+    },
+    {
+      "key": "fac8061baf5438a9",
+      "author": "xster123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
+      "posted_relative": "for 43 min siden",
+      "text": "En liten watch på DOFG nå. Bryter vi den siste tids konsolidering, er det nytt kjøpssignal her. Fokus er brudd på 134.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "206aa5f4d55305e1",
+      "author": "baleros",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baleros",
+      "posted_relative": "for 33 min siden",
+      "text": "iflg automatisk analyse i Investtech - ja, men den er feil. Brudd på 136 er det riktige tallet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    }
+  ]
 }

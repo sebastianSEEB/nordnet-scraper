@@ -1,9 +1,73 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-11T05:27:34.799122+00:00",
+  "scraped_at": "2026-09-11T10:14:15.928392+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "286db5d023fa5c4f",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 3 t siden",
+      "text": "· https://www.swisslog.com/de-de/%C3%BCber-swisslog/newsroom/news-medienmitteilungen-blog-posts-pressemitteilungen/2026/09/starlinks-selects-swisslog-for-major-aviation-logistics-automation-programme",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.swisslog.com/de-de/%C3%BCber-swisslog/newsroom/news-medienmitteilungen-blog-posts-pressemitteilungen/2026/09/starlinks-selects-swisslog-for-major-aviation-logistics-automation-programme"
+      ],
+      "char_count": 199,
+      "has_link": true
+    },
+    {
+      "key": "1e2a232988c97fb9",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 2 t siden",
+      "text": "AutoStore/Pio-ordre i Storbritannia: Golden Bear Group har valgt Pio – Created by AutoStore til lageret sitt i North Wales. Første fase blir relativt liten, med 2.870 kasser, 5 roboter og 2 plukkestasjoner, men systemet er lagt opp for videre ekspansjon. Men der interessante er nettopp størrelsen: Pio senker terskelen for å ta i bruk AutoStore-teknologi. Kunder som tidligere ville vært for små til å forsvare et tradisjonelt AutoStore-anlegg, kan nå starte med noen få tusen kasser og skalere etter hvert som virksomheten vokser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [],
+      "char_count": 532,
+      "has_link": false
+    },
+    {
+      "key": "490ccf720c76d59a",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 3 t siden",
+      "text": "Ny AutoStore-ordre i Saudi-Arabia: Arabian Oud har valgt AutoStore med Smartlog som integrator for sitt distribusjonssenter i Saudi-Arabia. Dette er stor aktør – Arabian Oud har over 1.200 butikker i mer enn 36 land. Løsningen skal blant annet bruke R5 Pro-roboter og håndtere både butikkleveranser og voksende netthandel. Oppstart er planlagt tidlig i 2027. Nok et interessant datapunkt fra Midtøsten, kort tid etter ny AutoStore-ordre i Oman. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14,
+        10
+      ],
+      "links": [],
+      "char_count": 464,
+      "has_link": false
+    },
+    {
+      "key": "695bedddf39c3ee5",
+      "author": "TradInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradinvest",
+      "posted_relative": "for 4 t siden",
+      "text": "At de solgte det de solgte er trolig drevet av 2 grunner; Hente inn noe likviditet til behov i markedet (tipper det er hovedgrunn), samt ligge like under flaggegrensen fremover slik at man kan selge uten å måtte involvere varsling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 231,
+      "has_link": false
+    }
+  ]
 }

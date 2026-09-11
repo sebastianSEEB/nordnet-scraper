@@ -1,9 +1,40 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-09-11T05:27:15.601823+00:00",
+  "scraped_at": "2026-09-11T10:13:59.120150+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "007c37353b6b1ca8",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 3 t siden",
+      "text": "Regjeringen åpner for økt lakseproduksjon i grønne områder Havbruksnæringen kan få øke produksjonskapasiteten av laks med 8.200 tonn i det som er definert som grønne områder, ifølge en pressemelding torsdag. Et trafikklyssystem for havbruksnæringen deler områder i grønt, gult og rødt, noe som avgjør hvorvidt oppdretterne kan øke produksjonen, må holde den uendret eller redusere. Fargesystemet er basert på hvordan lakselus påvirker villaksen i området. I juni bestemte regjeringen at områdene svenskegrensen til Jæren, Vest-Finnmark og Øst-Finnmark farges grønt. Ni områder fikk gult. Dette var Ryfylke, Nordhordland til Stad, Stad til Hustadvika, Nordmøre og Sør-Trøndelag, Nord-Trøndelag med Bindal, Helgeland til Bodø, Vestfjorden og Vesterålen, Andøya til Senja og Kvaløya til Lopppa. Området Karmøy til Sotra ble farget rødt. Regjeringen skriver at reduksjonen her er rundt 5.300 tonn, men påpeker at reduksjonen kan bli mindre. Det er avhengig av hvor mye produksjonskapasitet som får fritak fra nedtrekk etter unntaksreglene, påpekes det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 1048,
+      "has_link": false
+    },
+    {
+      "key": "b7bf695348fa3b7e",
+      "author": "Bulkinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulkinvest",
+      "posted_relative": "for 2 t siden",
+      "text": "Lakseprisen stiger mye for neste uke!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

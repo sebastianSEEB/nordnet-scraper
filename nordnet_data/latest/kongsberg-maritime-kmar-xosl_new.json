@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-11T05:27:42.202641+00:00",
+  "scraped_at": "2026-09-11T10:14:24.230446+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5fff2fb8c6548cfd",
+      "author": "nord-gm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nord-gm",
+      "posted_relative": "for 3 t siden",
+      "text": "Dere som investerer i aksjer på Nordnet – kjøper og selger dere gjennom privat konto eller AS? Jeg vurderer AS for langsiktig investering. Hva bruker dere, og hva er grunnen til valget? 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11
+      ],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "68621897d9e5f1cc",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 1 t siden",
+      "text": "Stort sett ASk konto, har vurdert as men funnet det ikke lønnsomt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

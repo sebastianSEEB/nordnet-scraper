@@ -1,9 +1,53 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-09-11T05:26:30.100955+00:00",
+  "scraped_at": "2026-09-11T10:13:14.667707+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b14c6d92be612323",
+      "author": "lq88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lq88",
+      "posted_relative": "for 19 t siden",
+      "text": "· Litt lei av at aksjene jeg har som oppjusterer faller i kurs 😳 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "fa9e8c5d6022c83b",
+      "author": "Harries",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
+      "posted_relative": "for 2 t siden",
+      "text": "· sett deg på hendene, det er det eneste riktige.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "2199668ecc79a72f",
+      "author": "Phaph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phaph",
+      "posted_relative": null,
+      "text": "7. sep. · Ok Ok Ok",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

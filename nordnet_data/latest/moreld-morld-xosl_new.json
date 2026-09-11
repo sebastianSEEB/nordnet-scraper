@@ -1,9 +1,25 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-11T05:27:11.384469+00:00",
+  "scraped_at": "2026-09-11T10:13:55.264165+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "10027c3ab949284d",
+      "author": "Elon2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elon2",
+      "posted_relative": "for 3 t siden",
+      "text": "· Subsea SURF-pakke: Anbudsprosessen for undervannsproduksjonssystemer, umbilicals, risers og flowlines er fullført, med kontraktskunngjøringer som nærmer seg tildeling",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    }
+  ]
 }

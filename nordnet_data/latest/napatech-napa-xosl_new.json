@@ -1,9 +1,23 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-11T05:26:26.292320+00:00",
+  "scraped_at": "2026-09-11T10:13:10.804050+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6e608dfb356727b2",
+      "author": "zrallings",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zrallings",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg vil jo være med på toget jeg også! Faller den litt nå, kanskje jeg hopper på.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

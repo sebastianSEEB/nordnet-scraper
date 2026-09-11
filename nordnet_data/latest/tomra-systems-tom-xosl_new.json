@@ -1,22 +1,81 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-11T05:25:32.226211+00:00",
+  "scraped_at": "2026-09-11T10:12:16.339081+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "d000501b4c606ff9",
-      "author": "killyorego",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/killyorego",
-      "posted_relative": "for 30 min siden · Endret",
-      "text": "God morgen. I dag har jeg trua på en dag med god rekyl.",
+      "key": "6360eac00cc9d3f1",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": "for 4 t siden",
+      "text": "Satser på det. Må snart etablere seg på over 100 igjen. Skjønner ikke hvordan en av Børsens mest solide aksje kan være så volatil.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    },
+    {
+      "key": "11f31c1fe5917f71",
+      "author": "MORTEN R",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morten-r",
+      "posted_relative": "for 1 t siden",
+      "text": "Unnskyld meg , men hadde det ikke lønt seg for shorterne å kjøpt aksjen nå for de har vel solgt til en mye høyere kurs .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        8
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "81f565026159b770",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 3 t siden",
+      "text": "Nedjusteringer på gang,,, håper dere har rett men tviler Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "c0ef17321d3e5eaf",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": "for 19 min siden",
+      "text": "Har du noe kursmål på Tomra?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    },
+    {
+      "key": "50a5a909a2983c33",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 2 t siden",
+      "text": "· Det kom 8. september...",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 55,
+      "char_count": 25,
       "has_link": false
     }
   ]

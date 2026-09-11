@@ -1,9 +1,25 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-11T05:27:53.380910+00:00",
+  "scraped_at": "2026-09-11T10:14:35.724200+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "42a3f2ae51eb2044",
+      "author": "tomlys50",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tomlys50",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Siste store shorter dekket nok inn en god post i slutt auksjonen igår, over 50 % av dagsomsetningen ble gjort siste 5 min.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    }
+  ]
 }
