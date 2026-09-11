@@ -1,38 +1,27 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-11T10:15:51.562363+00:00",
+  "scraped_at": "2026-09-11T11:52:48.686156+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "a6ec1f28aee9d145",
-      "author": "PedroPorro",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pedroporro",
-      "posted_relative": "for 2 t siden",
-      "text": "Mener Fasmer snakket om en overgangsperiode ved forrige kv.tall slipp. Jeg har ikke høye forventninger til Telenor i det korte bildet, men forblir sterk i trua med de lange brillene. I mellomtiden høster man utbytte. At KNL har signert rammeavtale også med det danske forsvaret og er i samtaler med andre NATO land er spennende. Blir bare større og større dette datterselskapet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 378,
-      "has_link": false
-    },
-    {
-      "key": "76e4f2e20f0663ca",
-      "author": "Alfonso Gabrielle",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alfonso-gabrielle",
+      "key": "58db6dec9b129b39",
+      "author": "Khushal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/khushal",
       "posted_relative": null,
-      "text": "7. sep. · Endret hvorfor velger folk å kjøpe telenor og dermed sette seg fast i denne taperen år etter år?  Det finnes tross alt tusenvis av alternativer med helt andre muligheter for profitt",
+      "text": "7. sep. Teknisk analyse av Telenor. https://aksjekompass.no/aksje/telenor?nordnet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7
+        5
       ],
-      "links": [],
-      "char_count": 191,
-      "has_link": false
+      "links": [
+        "https://aksjekompass.no/aksje/telenor?nordnet"
+      ],
+      "char_count": 81,
+      "has_link": true
     }
   ]
 }

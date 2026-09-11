@@ -1,22 +1,50 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-11T10:13:10.804050+00:00",
+  "scraped_at": "2026-09-11T11:50:09.596958+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "6e608dfb356727b2",
-      "author": "zrallings",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zrallings",
-      "posted_relative": "for 1 t siden",
-      "text": "Jeg vil jo være med på toget jeg også! Faller den litt nå, kanskje jeg hopper på.",
+      "key": "fcb0409070a9b515",
+      "author": "austre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/austre",
+      "posted_relative": null,
+      "text": "7. sep. Volumet har helt tørket opp.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 81,
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "b8d7a9d913a86d4d",
+      "author": "1340",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/1340",
+      "posted_relative": "for 37 min siden",
+      "text": "Har ikke begynt enda 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "d0279f90291f3d63",
+      "author": "LilleAleks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillealeks",
+      "posted_relative": "for 53 min siden",
+      "text": "Er toget gått?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 14,
       "has_link": false
     }
   ]

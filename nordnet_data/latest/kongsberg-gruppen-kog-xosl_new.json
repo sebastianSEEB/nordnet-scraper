@@ -1,66 +1,22 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-11T10:15:41.897544+00:00",
+  "scraped_at": "2026-09-11T11:52:41.101720+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "47ad7ae72332eea1",
-      "author": "Witchdoctor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/witchdoctor",
-      "posted_relative": "for 10 min siden",
-      "text": "Hva tenker dere om handelsmønsteret nå? Små volum, er investorene avventende eller er det tegn på at ingen vil selge? Tusler jevnt og trutt oppover",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 147,
-      "has_link": false
-    },
-    {
-      "key": "1fd471ce9948946f",
-      "author": "janbergnilsen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/janbergnilsen",
-      "posted_relative": "for 5 min siden",
-      "text": "tegn på at ingen vil kjøpe",
+      "key": "a2d16d35ff80dc29",
+      "author": "ahar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ahar",
+      "posted_relative": "for 52 min siden",
+      "text": "Den klatrer opp uansett de kommende dagene..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 26,
-      "has_link": false
-    },
-    {
-      "key": "c6469eb66aea1b19",
-      "author": "nbvnvbnvn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nbvnvbnvn",
-      "posted_relative": "for 2 t siden",
-      "text": "Yay! Fargene er tilbake ..",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        4
-      ],
-      "links": [],
-      "char_count": 26,
-      "has_link": false
-    },
-    {
-      "key": "666bd2ca6dd30a5c",
-      "author": "Ingenmarkedsanalytiker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ingenmarkedsanalytiker",
-      "posted_relative": "for 7 min siden",
-      "text": "Ser dere farger?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 16,
+      "char_count": 44,
       "has_link": false
     }
   ]

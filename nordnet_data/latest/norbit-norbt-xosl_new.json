@@ -1,9 +1,82 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-11T10:12:31.748553+00:00",
+  "scraped_at": "2026-09-11T11:49:30.740015+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "e049ffa16af3977d",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": "for 9 min siden",
+      "text": "Hva er det ledelsen driver med? Virker som bevisste støttekjøp? 1250 aksjer liksom?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "01dce1c2929f2233",
+      "author": "Holden08",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holden08",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva er grunnen til at aksjen stiger i dag, er helt ny i aksjeverden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        6
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "c8507dc182662d8f",
+      "author": "Egiljan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egiljan",
+      "posted_relative": "for 1 t siden",
+      "text": "Vakker kurve i dag, men det skulle bare mangle ;-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "c59eb18e6077a5f4",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 1 t siden",
+      "text": "Oppgang? Kan se ut som det snur litt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "4eb66d15b2f6643e",
+      "author": "CoalemusIsMyVibe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coalemusismyvibe",
+      "posted_relative": "for 19 min siden",
+      "text": "Flere kjøpere enn selgere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }
