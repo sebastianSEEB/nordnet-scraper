@@ -1,27 +1,23 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-11T20:31:47.920385+00:00",
+  "scraped_at": "2026-09-11T22:55:17.557189+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 11,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "252741efdb20b4da",
-      "author": "Takknemlighet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/takknemlighet",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "https://www.youtube.com/watch?v=2DDHMSlWkDM Skjønner vi hvor stort dette kan bli?",
+      "key": "078de9d3711d6565",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": "for 2 t siden",
+      "text": "· Kort svar er nei",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [
-        "https://www.youtube.com/watch?v=2DDHMSlWkDM"
-      ],
-      "char_count": 81,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
     }
   ]
 }

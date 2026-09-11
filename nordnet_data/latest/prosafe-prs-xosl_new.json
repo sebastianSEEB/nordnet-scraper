@@ -1,37 +1,24 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-11T20:36:37.955424+00:00",
+  "scraped_at": "2026-09-11T23:00:27.268458+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "05904f215e165ad5",
+      "key": "4ad65b5c48c87c83",
       "author": "GullBull",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullbull",
-      "posted_relative": "for 1 t siden",
-      "text": "· Enig!",
+      "posted_relative": "for 2 t siden",
+      "text": "Ikke vanskelig å forstå hva dette i praksis betyr…",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 7,
-      "has_link": false
-    },
-    {
-      "key": "9b34c6838de32441",
-      "author": "Mr.Robot12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot12",
-      "posted_relative": "for 37 min siden",
-      "text": "· ..",
-      "reply_count": 1,
-      "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 4,
+      "char_count": 50,
       "has_link": false
     }
   ]

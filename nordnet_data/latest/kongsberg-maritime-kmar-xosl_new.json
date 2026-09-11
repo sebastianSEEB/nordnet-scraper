@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-11T20:32:55.229703+00:00",
+  "scraped_at": "2026-09-11T22:56:27.540126+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "496bf946f209d275",
+      "author": "Eltedeig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eltedeig",
+      "posted_relative": "for 44 min siden",
+      "text": "· Første gang jeg er i pluss 🙏",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }
