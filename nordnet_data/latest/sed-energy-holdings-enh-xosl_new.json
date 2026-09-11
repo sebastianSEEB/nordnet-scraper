@@ -1,9 +1,54 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-11T00:42:12.553050+00:00",
+  "scraped_at": "2026-09-11T05:26:34.035690+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6ec9e9b018ab6d78",
+      "author": "Fjällräven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjallraven-2",
+      "posted_relative": "for 13 min siden",
+      "text": "https://www.finansavisen.no/energi/2026/09/11/8379545/vurderer-usa-notering-energy-holdings-sluker-ventura-offshore",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/11/8379545/vurderer-usa-notering-energy-holdings-sluker-ventura-offshore"
+      ],
+      "char_count": 115,
+      "has_link": true
+    },
+    {
+      "key": "10acd84dbca89214",
+      "author": "StockEmHigh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stockemhigh",
+      "posted_relative": "for 26 min siden · Endret",
+      "text": "Dette må vel være positivt ;-) Energy Holdings and Ventura Offshore to combine, creating a larger platform for cash generation, shareholder distributions and growth. KEY TRANSACTION HIGHLIGHTS Energy Holdings to acquire 100% of the outstanding shares in Ventura Offshore, with Ventura Offshore shareholders receiving new ordinary shares in Energy Holdings as consideration (the \"Consideration Shares\"). Ventura Offshore's shareholders will receive 605 million Consideration Shares, representing an exchange ratio of 5.50x Energy Holdings shares for each existing Ventura Offshore share, with existing Energy Holdings shareholders expected to own approximately 55% and Ventura Offshore shareholders approximately 45% of Energy Holdings on a fully diluted basis. Consummation of the definitive agreement and the final number of Consideration Shares to be issued will be subject to certain adjustments related to CAPEX and commencement of new contracts for certain of the parties' rigs. Based on the closing price of Energy Holdings' shares on 10 September 2026 and the maximum Consideration Shares to be issued, the combined company would have an implied pro forma equity value of approximately USD 1 billion. DNB Bank ASA has committed to a USD 250 million bridge facility and extend the existing USD 30 million revolving credit agreement to support the refinancing of Ventura Offshore's existing bond and provide Ventura with financial flexibility through completion of the Transaction, at which time the combined company intends to optimize its capital structure. Completion of the Transaction is expected during Q1 2027, subject to the execution of the definitive combination agreement, confirmatory due diligence, commencement of new contracts for certain of the parties' rigs, required shareholder and court approvals, relevant regulatory approvals and consents, and other customary conditions, including delisting of Ventura Offshore from Oslo Euronext Growth. The Transaction is supported by the boards of directors and key shareholders of both companies. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 2081,
+      "has_link": false
+    },
+    {
+      "key": "9cfbc33d21eae171",
+      "author": "Undrtkr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/undrtkr",
+      "posted_relative": "for 10 min siden",
+      "text": "Om det er positivt vil vel tiden vise. Ventura er mer forgjeldet og byttehandelen 55/45 går muligens i favør Ventura. Positivt med større marked enn den konsentrasjonen SED har nå. Vi får se hva tallknuserne sier og hvordan markedet reagerer 🤷🏻‍♂️ Ble jo en dip i går før nyheten sprakk",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 286,
+      "has_link": false
+    }
+  ]
 }

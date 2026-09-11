@@ -1,9 +1,38 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-11T00:44:49.449945+00:00",
+  "scraped_at": "2026-09-11T05:29:18.862446+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f0ade0e303635d6b",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 11 min siden",
+      "text": "· Sammendrag av situasjonen i Rødehavet https://thecradle.co/articles/yemeni-army-storms-red-sea-islands-captures-bab-al-mandab-strait",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://thecradle.co/articles/yemeni-army-storms-red-sea-islands-captures-bab-al-mandab-strait"
+      ],
+      "char_count": 134,
+      "has_link": true
+    },
+    {
+      "key": "a727f725f8dec352",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 10 min siden",
+      "text": "· Skadene på EW pipelinen er ikke helt bekreftet ennå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }
