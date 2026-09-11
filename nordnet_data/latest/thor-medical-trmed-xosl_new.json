@@ -1,9 +1,39 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-10T22:10:41.905602+00:00",
+  "scraped_at": "2026-09-11T00:46:44.853270+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a1bfa48a552bd113",
+      "author": "gtrx09p",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gtrx09p",
+      "posted_relative": "for 10 t siden",
+      "text": "Når Thor har skalert opp til 200 000 doser i året og hver pasientdose koster 20 000 så ser en fort at dette blir inntekt på 4 milliarder /år Og - det beste av alt er at mye av dette e r netto p.g.a lave produksjonskostnader",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 223,
+      "has_link": false
+    },
+    {
+      "key": "2b622543babeb0c9",
+      "author": "gtrx09p",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gtrx09p",
+      "posted_relative": "for 2 t siden",
+      "text": "Nei, det er det ingen som har sagt. Men med 21000 blir dette fort 1.-/aksje og med P/E på 15   kan en da se kurs på 15 også",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    }
+  ]
 }
