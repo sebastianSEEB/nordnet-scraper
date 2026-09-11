@@ -1,37 +1,41 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-11T18:04:13.409542+00:00",
+  "scraped_at": "2026-09-11T20:34:39.540055+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "94dc986444200639",
+      "key": "63b4a2b5cd81a358",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 3 t siden",
-      "text": "amatørmessig, neida Harto og Linkøkken er flinke, eksperter på TA og en sikker havn å ta rygg på analyser og anbefalinger fra disse gutta, se bare Orkla/Norbit/Magnora..",
+      "posted_relative": "for 36 min siden",
+      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn Ingen stemmer • 2 dager 23 timer igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        90,
+        86,
+        82,
+        78,
+        74
+      ],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    },
+    {
+      "key": "4dcfe477b6167821",
+      "author": "idkwhatimdoing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/idkwhatimdoing",
+      "posted_relative": "for 47 min siden",
+      "text": "· Selskapet er basert i Norge, ikke tillatt å handles på vårt marked før solgt i utlandet.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 169,
-      "has_link": false
-    },
-    {
-      "key": "4cf01650d36c7556",
-      "author": "Inbestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 4 t siden",
-      "text": "neida 🤡 jeg er ikke skuffa over Harto og Linkøkken sine analyser og anbefalinger, flinke gutter Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 115,
+      "char_count": 90,
       "has_link": false
     }
   ]

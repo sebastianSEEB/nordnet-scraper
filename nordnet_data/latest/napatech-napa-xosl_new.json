@@ -1,54 +1,27 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-11T18:01:21.601295+00:00",
+  "scraped_at": "2026-09-11T20:31:47.920385+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "1a2613bedf9dc8dd",
-      "author": "tug of war",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
-      "posted_relative": "for 4 t siden",
-      "text": "· https://imaginary.finansavisen.no/pipe?quality=80&type=jpeg&url=https%3A%2F%2Fhegnar-investor-dev.s3.eu-west-2.amazonaws.com%2Freply-images%2F27a17284-d537-45b8-914a-398be2cca43d1789117784424 fin kommentar fra NAPATECH Vis 1 kommentar til",
+      "key": "252741efdb20b4da",
+      "author": "Takknemlighet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/takknemlighet",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "https://www.youtube.com/watch?v=2DDHMSlWkDM Skjønner vi hvor stort dette kan bli?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        12,
         2
       ],
       "links": [
-        "https://imaginary.finansavisen.no/pipe?quality=80&type=jpeg&url=https%3A%2F%2Fhegnar-investor-dev.s3.eu-west-2.amazonaws.com%2Freply-images%2F27a17284-d537-45b8-914a-398be2cca43d1789117784424"
+        "https://www.youtube.com/watch?v=2DDHMSlWkDM"
       ],
-      "char_count": 240,
+      "char_count": 81,
       "has_link": true
-    },
-    {
-      "key": "094fb11358e4cd27",
-      "author": "@tug of war",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
-      "posted_relative": null,
-      "text": "? Kan ikke huske en så klar NVIDIA-lenke tidligere.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 51,
-      "has_link": false
-    },
-    {
-      "key": "dec39eb882a5f4bf",
-      "author": "Tech 2.0",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech-20",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "· Din e-post til/fra CFO-en",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 27,
-      "has_link": false
     }
   ]
 }
