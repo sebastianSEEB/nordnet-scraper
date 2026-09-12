@@ -1,9 +1,26 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-12T05:20:51.842789+00:00",
+  "scraped_at": "2026-09-12T09:51:41.503278+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5d26f7ab75d04d2f",
+      "author": "Fred67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fred67",
+      "posted_relative": null,
+      "text": "8. sep. Her er det bare å fylle på!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        6
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

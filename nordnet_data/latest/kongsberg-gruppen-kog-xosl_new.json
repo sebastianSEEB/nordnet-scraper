@@ -1,9 +1,27 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-12T05:19:13.646603+00:00",
+  "scraped_at": "2026-09-12T09:50:04.775790+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bbad0bc57d48e703",
+      "author": "LDA",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lda",
+      "posted_relative": "for 1 t siden",
+      "text": "https://e24.no/boers-og-finans/i/k0LGGa/kongsbergs-skjulte-usa-perle",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/k0LGGa/kongsbergs-skjulte-usa-perle"
+      ],
+      "char_count": 68,
+      "has_link": true
+    }
+  ]
 }

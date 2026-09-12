@@ -1,9 +1,27 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-09-12T05:14:49.659767+00:00",
+  "scraped_at": "2026-09-12T09:45:35.426392+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ae65719760db26b1",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "8. sep. Remota har fullført sitt første hel-fjernstyrte oppdrag: https://osvnyheter.no/osv-nyheter-uke-37-7-13-september-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://osvnyheter.no/osv-nyheter-uke-37-7-13-september-2026"
+      ],
+      "char_count": 125,
+      "has_link": true
+    }
+  ]
 }

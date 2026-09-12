@@ -1,22 +1,53 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-12T05:13:47.608086+00:00",
+  "scraped_at": "2026-09-12T09:44:24.046941+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "55ce3591e66a5cbb",
-      "author": "Wangerang",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "key": "e412e599e04dd807",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 26 min siden",
+      "text": "Dette er et av de to splitter nye VLCC-ene som ble levert i sommer, og som Frontline har leid ut til Vitol for ettårige fast TCE-avtale på 120000 USD/dag. Vitol tjener altså godt på denne fremleien hvis denne slutningen går gjennom.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 232,
+      "has_link": false
+    },
+    {
+      "key": "cdce11a8bdc385f0",
+      "author": "BRGN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brgn",
       "posted_relative": "for 1 t siden",
-      "text": "· 💰💰💰",
+      "text": "Dette var jo annonsert allerede i sommer. Men de fleste forventet nok utbetaling ved Q3, så kanskje en ekstra boost på kursen før ex dag.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 5,
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "454a2c5703e49529",
+      "author": "ARothschild",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arothschild",
+      "posted_relative": "for 45 min siden",
+      "text": "· Front Otra (2026) OPR Vitol CHTR Cosmo On Subs 531k/Day. 531 000 USD per dag!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 79,
       "has_link": false
     }
   ]

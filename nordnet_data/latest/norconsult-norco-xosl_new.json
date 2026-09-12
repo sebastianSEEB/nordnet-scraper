@@ -1,9 +1,25 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-09-12T05:16:35.355962+00:00",
+  "scraped_at": "2026-09-12T09:47:22.133797+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ca06b4d9988458fa",
+      "author": "Hagmor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hagmor",
+      "posted_relative": null,
+      "text": "8. sep. Tror ikke det vil påvirket Norconsult så mye. Men de utfyller hverandre kanskje i hvert sitt land. Men ulempen her er kildeskatt på 15 % på utbytter. Som i praksis betyr ekstra skatt for de med ASK konto.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 212,
+      "has_link": false
+    }
+  ]
 }

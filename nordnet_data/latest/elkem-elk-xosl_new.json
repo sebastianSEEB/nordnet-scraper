@@ -1,9 +1,26 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-12T05:16:10.461017+00:00",
+  "scraped_at": "2026-09-12T09:46:58.233405+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e3d38ae5e7e6acb4",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "8. sep. Hva er det som driver kursen opp de siste par dager ? SB1M-analysen ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        9
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,28 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-12T05:15:21.409022+00:00",
+  "scraped_at": "2026-09-12T09:46:10.727951+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "33f7556bdb6c6a4d",
+      "author": "Aksjoman007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjoman007",
+      "posted_relative": "for 38 min siden",
+      "text": "Her leker Stoltenberg med ilden: https://www.forsvaretsforum.no/krig-nato-politikk/stoltenberg-motte-ukrainas-president--velkommen-til-nato/234277 Motoffensiven kan begynne: https://www.tv2.no/direkte/jpybz/siste-nytt/64f97f3399ef3cee4b0da002/stoltenberg-til-euparlamentet-ukraina-vinner-terreng Rutte: Nato må vinne: https://www.dagsavisen.no/nyheter/stoltenbergs-erstatter-med-klar-beskjed-ukraina-ma-vinne/5616808 Ukraina har vunnet: https://sol.no/nyheter/ukraina-har-vunnet/84875781",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://sol.no/nyheter/ukraina-har-vunnet/84875781",
+        "https://www.dagsavisen.no/nyheter/stoltenbergs-erstatter-med-klar-beskjed-ukraina-ma-vinne/5616808",
+        "https://www.forsvaretsforum.no/krig-nato-politikk/stoltenberg-motte-ukrainas-president--velkommen-til-nato/234277",
+        "https://www.tv2.no/direkte/jpybz/siste-nytt/64f97f3399ef3cee4b0da002/stoltenberg-til-euparlamentet-ukraina-vinner-terreng"
+      ],
+      "char_count": 487,
+      "has_link": true
+    }
+  ]
 }

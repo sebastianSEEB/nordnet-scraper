@@ -1,9 +1,38 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-12T05:19:33.051118+00:00",
+  "scraped_at": "2026-09-12T09:50:25.782710+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d052882267e34e03",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Møtet på mandag er viktig for olje https://x.com/citrinowicz/status/2098363148164088279",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/citrinowicz/status/2098363148164088279"
+      ],
+      "char_count": 89,
+      "has_link": true
+    },
+    {
+      "key": "763dd01227581a95",
+      "author": "Aprilia250",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aprilia250",
+      "posted_relative": "for 1 t siden",
+      "text": "· Korrekt matsnil, det er en av hoveddriverne akkurat nå for høyere råoljepris, i tillegg til opptrappingen av krigen, men opptrapping er ikke i seg selv den eneste driveren......for øvrig, prøv å følge Jeffrey Carrie på youtube",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 228,
+      "has_link": false
+    }
+  ]
 }
