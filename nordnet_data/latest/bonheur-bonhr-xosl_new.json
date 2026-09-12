@@ -1,9 +1,41 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-09-12T13:19:28.780107+00:00",
+  "scraped_at": "2026-09-12T16:42:31.807051+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fc23d00ef059a1ba",
+      "author": "hanjiando",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanjiando",
+      "posted_relative": null,
+      "text": "8. sep. Kan noen forklare hva som skal til for at aksjen skal ned eller opp? 🙂. Hørt adt de har veldig gode nøkkeltall",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "0423aa0656c8b50e",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "8. sep. Se mitt innlegg nedenfor pr. 4. sept !",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

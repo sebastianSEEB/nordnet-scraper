@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-12T13:17:14.079766+00:00",
+  "scraped_at": "2026-09-12T16:40:14.048147+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "903fdedd96df3ead",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 2 t siden",
+      "text": "Dette kan faktisk bli en fantastisk mulighet for DNO. Hvis oljeprisen etablerer seg på 100 dollar+ over tid, snakker vi om en helt annen kontantstrøm. Nordsjøen alene gir enorme penger på de prisene, samtidig som Kurdistan kommer tilbake og produksjonen øker. Og med Capricorn/Egypt på vei inn får de enda et bein å stå på. Med olje over 100 og DNO på 19 kroner begynner prisingen rett og slett å bli en vits. Før eller siden må markedet prise inn den enorme kontantstrømmen dette kan gi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 488,
+      "has_link": false
+    }
+  ]
 }

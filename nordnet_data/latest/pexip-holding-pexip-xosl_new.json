@@ -1,17 +1,17 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-09-12T13:17:06.358318+00:00",
+  "scraped_at": "2026-09-12T16:40:06.023612+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6899e653c7ea7c46",
+      "key": "cdb632a82b696d33",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 17 t siden",
-      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn 2 stemmer • 2 dager 6 timer igjen",
+      "posted_relative": "for 20 t siden",
+      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn 2 stemmer • 2 dager 3 timer igjen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
@@ -23,6 +23,19 @@
       ],
       "links": [],
       "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "15f4ec7d3b083bb0",
+      "author": "Rentesrente",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rentesrente",
+      "posted_relative": null,
+      "text": "8. sep. Selvsagt er det hans fulle rett å selge når han vil.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 60,
       "has_link": false
     }
   ]

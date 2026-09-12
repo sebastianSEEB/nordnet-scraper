@@ -1,9 +1,23 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-12T13:15:27.322308+00:00",
+  "scraped_at": "2026-09-12T16:38:31.576778+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b78e1849e28793a1",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": "for 2 t siden",
+      "text": "Er jo ikke alle i ledelsen som har millioner å handle for hver gang heller. Kjempebra at de dytter inn litt penger når de mener aksjen er billig",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    }
+  ]
 }
