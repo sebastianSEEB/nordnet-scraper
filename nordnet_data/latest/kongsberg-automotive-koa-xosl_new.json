@@ -1,25 +1,9 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-12T18:58:49.732980+00:00",
+  "scraped_at": "2026-09-12T21:12:41.581530+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
-  "posts": [
-    {
-      "key": "82b4d994bcd3f31a",
-      "author": "carrlo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
-      "posted_relative": "for 1 t siden",
-      "text": "KOA sin løsning er utviklet som et ekte «fail-operational» steer-by-wire-system, med redundans i sensorer, aktuatorer, styreenheter og strømforsyning. Systemet skal kunne opprettholde styringen dersom én feil oppstår. KOA omtaler det selv som verdens første system av denne typen som er utviklet fra bunnen av.  (KOA har også en egen aktuator for personbiler under 3,5 tonn). Løsningen er skalerbar og KOA viser egne varianter for både personbiler og tyngre kjøretøy. KOA skriver at løsningen er «ready for series production» og utviklet for å møte ISO 26262 ASIL-D. Steer-by-wire kan i utgangspunktet brukes uavhengig av om kjøretøyet har elektrisk motor eller forbrenningsmotor. Demo bilen som var utstilt og prøvekjørt på kapitalmarkedsdagen, var en Polestar 2, og de sa de hadde demonstrasjonsbiler på tre steder: Kina, Sverige og KOA sitt testlaboratorium på Kongsberg (Polestar 2). Presentasjonen sa ikke hvilket merke eller modell det var på bilene i Kina og Sverige, men vet fra tidligere at den ene er fra Volvo.  At Polestar brukes er logisk, ingeniørgruppen i Sverige har bakgrunn fra Volvo, Polestar, Saab, GM, CEVT og Zeekr. SBW kan absolutt bli en joker og svært verdifullt, og det er stort potensial innen lastebiler, busser, landbruksmaskiner, autonome nyttekjøretøy og robotaxier, hvor fortsatt styring ved feil er svært viktig. KOA anslår at markedet for steer-by-wire kan nå rundt 3,5 milliarder euro i 2035.",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 1427,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

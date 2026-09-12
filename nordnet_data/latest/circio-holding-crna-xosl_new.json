@@ -1,35 +1,24 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-09-12T18:56:06.546728+00:00",
+  "scraped_at": "2026-09-12T21:09:52.015039+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "6b1506eadc6dc2c3",
-      "author": "Sund skepsis",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sund-skepsis",
-      "posted_relative": "for 35 min siden",
-      "text": "· Ja altså, i mine øyne er det ekstremt positivt at det er \"konkurranse\"",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 72,
-      "has_link": false
-    },
-    {
-      "key": "f2a1b15ee8bedb6d",
-      "author": "lillejohn1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
+      "key": "0e7c27dd28213ab8",
+      "author": "hgsd300",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hgsd300",
       "posted_relative": "for 1 t siden",
-      "text": "Flotte diskusjoner 👌",
+      "text": "Hei Dette er svært beklagelig, og vil nok føre til ekstra nøye vurdering av toxisitet for alle RNA-baserte in vivo cell terapier under utvikling. Som du korrekt påpeker, så er vår circ/ec teknologi fundamentalt forskjellig fra RiboX da vi utvikler virale og DNA-baserte vektorer. Dette har begrenset overlapp med syntetisk RNA behandlingsmessig, og vil i liten grad være relevant innenfor de samme bruksområdene. Når det er sagt, er det heller ikke trivielt å levere syntetiske DNA vektorer på en effektiv og trygg måte, og ingen har til nå lykkes med dette i pasienter. Hva gjelder vårt program innen AAV genterapi, så er dette langt mer forutsigbart medisinsk og har veletablert toksisitetsprofil. RiboX dødsfallet har ingen relevans for denne type legemidler. Erik Publisert på TI for en tid tilbake",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 20,
+      "char_count": 802,
       "has_link": false
     }
   ]
