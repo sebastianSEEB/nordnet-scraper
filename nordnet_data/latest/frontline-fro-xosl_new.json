@@ -1,9 +1,23 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-12T00:46:31.714445+00:00",
+  "scraped_at": "2026-09-12T05:13:47.608086+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "55ce3591e66a5cbb",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 1 t siden",
+      "text": "· 💰💰💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

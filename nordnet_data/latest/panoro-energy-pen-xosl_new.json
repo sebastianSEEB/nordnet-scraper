@@ -1,9 +1,27 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-12T00:48:29.542264+00:00",
+  "scraped_at": "2026-09-12T05:15:44.125378+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "24939edd53a24c68",
+      "author": "mariusvell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusvell",
+      "posted_relative": "for 39 min siden",
+      "text": "Saudi-Arabia stenger oljerørledning etter angrep Konflikten i Midtøsten tilspisser seg. Nå stenger Saudi-Arabia strategisk viktig transportrute for olje. https://e24.no/internasjonal-oekonomi/i/16bk0B/saudi-arabia-stenger-oljeroerledning",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://e24.no/internasjonal-oekonomi/i/16bk0B/saudi-arabia-stenger-oljeroerledning"
+      ],
+      "char_count": 237,
+      "has_link": true
+    }
+  ]
 }
