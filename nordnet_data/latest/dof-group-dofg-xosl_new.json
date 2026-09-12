@@ -1,22 +1,37 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-12T16:38:20.027959+00:00",
+  "scraped_at": "2026-09-12T18:52:56.365204+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "2eee3c7ca5b7ab23",
-      "author": "Heimevernet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heimevernet",
-      "posted_relative": "for 47 min siden",
-      "text": "Det medfører jo isolert sett at likviditeten i aksjen går ned siden indeksfond skal ut av aksjen. Lavere likviditet medfører i sin tur gjerne større svingninger i kursen.",
+      "key": "d74c870b117ca5fc",
+      "author": "oddz_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oddz-1",
+      "posted_relative": "for 8 t siden",
+      "text": "Hva tenker folk er en grei inngangspris på denne? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "aa421d2d15cd5dec",
+      "author": "ymse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ymse-2",
+      "posted_relative": "for 30 min siden",
+      "text": "Hadde kjøpt på 3",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 170,
+      "char_count": 16,
       "has_link": false
     }
   ]

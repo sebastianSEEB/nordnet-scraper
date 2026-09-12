@@ -1,9 +1,38 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-12T16:37:51.434210+00:00",
+  "scraped_at": "2026-09-12T18:52:29.224193+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a45edd040e1f1961",
+      "author": "kilkenny72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
+      "posted_relative": "for 28 min siden",
+      "text": "Hvis kursen er på 12.5, så blir ikke et aksjeutbytte på 0.8kr, 13.7%. Det er enkel matematikk. Du ser bare på hva som står oppført på Nordnet. 13.7% ble det en kort periode, når begge utbyttene fra 2026 og 2025, ble lagt sammen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 228,
+      "has_link": false
+    },
+    {
+      "key": "ee87ac6ea4710d83",
+      "author": "Ulabrand",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ulabrand",
+      "posted_relative": "for 1 t siden",
+      "text": "Opprettholdes  kr.0.80 i aksjeutbytte betyr det en direkteavkastning på 13,7%. betydelig over en høgrentekonto.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    }
+  ]
 }
