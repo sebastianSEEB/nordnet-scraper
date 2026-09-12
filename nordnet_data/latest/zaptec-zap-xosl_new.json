@@ -1,22 +1,37 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-12T09:46:22.854750+00:00",
+  "scraped_at": "2026-09-12T13:15:00.010346+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "d131e3857f029599",
-      "author": "ASK invest AS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-invest-as",
-      "posted_relative": "for 1 t siden",
-      "text": "Meglerhusene løper etter ZAP med nye kursmål som nesten ikke henger med kursutviklingen. Pareto kom med nytt kursmål på 32 i feb, de har kommet med 3 nye kursmål etter dette, det siste er på 60,- nesten 100% høyere på 7 mnd. Nå er det ABG som sier 70,-. I tillegg er det mange innsidekjøp i det siste. Det er ingen som vet hva kursen er om 12 mnd, sannsynligvis er den mye høyere. Der er skyfritt på ZAP himmelen, ser ingen grunn for kortsiktig gevinst. Vurderer heller å øke 😊",
+      "key": "326bf741bf806f30",
+      "author": "Sunnyhill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnyhill",
+      "posted_relative": "for 2 t siden",
+      "text": "Ble mye tekst, men limer inn hele teksten oversatt og med en vurdering sammen med chat gpt.  Kilde: https://chargedevs.com/newswire/paua-and-zaptec-partner-to-offer-a-comprehensive-ev-charging-payment-system-for-fleets/ Paua og Zaptec inngår samarbeid om en komplett ladeløsning for firmabilflåter. Paua, en britisk betalingsplattform for elbillading til bedrifter, har inngått et strategisk samarbeid med Zaptec. Målet er å tilby bedrifter én samlet løsning for lading hjemme, på arbeidsplassen, på depot og på offentlige ladestasjoner. Paua bidrar med betalingskort, betalingsløsninger og refusjonssystemer, mens Zaptec leverer ladehardware og systemer for administrasjon av ladeinfrastruktur. Bakgrunnen er at stadig flere bedrifter går over til elektriske biler, men at ladingen ofte blir komplisert. Ansatte kan lade hjemme, på jobb, på depot eller ute på veien. Dette kan føre til flere betalingssystemer, manuelle utgiftskrav og dårlig oversikt over hva ladingen faktisk koster. Samarbeidet skal samle dette i ett system. Automatisk refusjon for hjemmelading En viktig del av samarbeidet er hjemmelading. Zaptec-laderne kan sende informasjon om faktisk strømforbruk til Paua. Dermed kan systemet beregne hva den ansatte faktisk har brukt på lading basert på vedkommendes strømpris. Bedriften kan deretter automatisk refundere den ansatte for den delen av ladingen som gjelder jobbkjøring. Det betyr mindre manuelt arbeid, færre feil og bedre dokumentasjon.  Offentlig lading Når sjåføren lader utenfor hjemmet eller arbeidsplassen, kan vedkommende bruke Paua-kortet eller Paua-appen. Dermed kan samme system håndtere både hjemmelading og offentlig lading. Paua oppgir at systemet gir tilgang til mer enn 95 000 offentlige ladepunkter i Storbritannia.  Zaptec Pro for større flåter For arbeidsplasser og depoter er Zaptec Pro sentral. Zaptec fremhever at flere ladere kan installeres med én kabel, noe selskapet hevder kan redusere materialbruken med opptil 70 % og installasjonsarbeidet med over 60 %. Dynamisk lastbalansering gjør samtidig at mange biler kan lade samtidig uten nødvendigvis å måtte oppgradere hele strømnettet på stedet.  V2G og fremtidig energistyring Samarbeidet handler også om fremtidige energiløsninger. Zaptec Go 2 er V2G-ready, altså forberedt på Vehicle-to-Grid. På sikt kan dette gjøre at elbilbatterier brukes som en del av energisystemet, blant annet til å redusere energikostnader og bidra til å balansere strømnettet.  Det bedriften får I praksis skal en flåteeier kunne: * Se hjemmelading, jobb, depot og offentlig lading i ett system * Automatisk refundere ansatte for hjemmelading * Bruke ett betalingskort og én app * Se kostnader per bil, sjåfør og lokasjon * Samle rapporteringen * Få én samlet faktura * Skalere antallet ladere uten store oppgraderinger av strømnettet * Være forberedt på fremtidige V2G-løsninger ⸻ Det viktigste for deg som Zaptec-investor Jeg synes faktisk dette er en ganske interessant nyhet for Zaptec. Det viktigste er ikke selve Pa […avkuttet, sannsynlig parsingfeil]",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://chargedevs.com/newswire/paua-and-zaptec-partner-to-offer-a-comprehensive-ev-charging-payment-system-for-fleets/"
+      ],
+      "char_count": 3036,
+      "has_link": true
+    },
+    {
+      "key": "a9d4b173268a4efd",
+      "author": "Bislett_81",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bislett_81",
+      "posted_relative": "for 2 t siden",
+      "text": "Aksjen tangerte toppnoteringen fra februar 2021 på rundt 68 kroner, med en markedsverdi på rundt 4,5 milliarder kroner. Pareto (Carl Jørgen Flaen) satte kursmål på 90 kroner etter et kvartal der justert EBITDA slo forventningene med 44% - begrunnet med \"vi begynner nå virkelig å se skalerbarheten i forretningsmodellen.\"",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 477,
+      "char_count": 321,
       "has_link": false
     }
   ]

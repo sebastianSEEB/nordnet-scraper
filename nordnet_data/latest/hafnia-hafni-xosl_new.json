@@ -1,9 +1,26 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-12T09:44:36.596124+00:00",
+  "scraped_at": "2026-09-12T13:13:21.362922+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3143dd3afbca1475",
+      "author": "Tom Pengpung",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tom-pengpung",
+      "posted_relative": null,
+      "text": "8. sep. · Dette selskapets hovedkontor i Singapore og aksjen notert på Oslo Børs. Hvordan beskattes utbyttet? Vil en finsk eier få ”ekstra” skatter som kan kreves tilbake fra den norske skattemyndigheten? Har selskapets hjemsted endret seg gjennom årene, og har beskatningen endret seg på grunn av det?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
+      ],
+      "links": [],
+      "char_count": 302,
+      "has_link": false
+    }
+  ]
 }

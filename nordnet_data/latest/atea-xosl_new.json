@@ -1,9 +1,23 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-09-12T09:49:27.605509+00:00",
+  "scraped_at": "2026-09-12T13:18:07.423269+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bf22b2a19f0bdb90",
+      "author": "Blackfrog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blackfrog",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvor avhengig er Atea av komponenter, er vel mangel og pressede priser på komponenter ca 6-12mnd fremmover. Klarer dem budsjettene sine evt. kan hente omsetning andre plasser med samme marginer?, kanskje derfor den faller litt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 227,
+      "has_link": false
+    }
+  ]
 }

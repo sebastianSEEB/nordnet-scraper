@@ -1,41 +1,25 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-12T09:48:38.359400+00:00",
+  "scraped_at": "2026-09-12T13:17:17.762484+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "49cb4ac02e65c6dd",
-      "author": "BM1985",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bm1985",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Hør første ti minutter av denne. Gründer av Villoid (mote på nett) snakker om hvordan autostore har forenklet lager og distribusjonen til selskapet: https://podcasts.apple.com/no/podcast/utbytte/id995845886?l=nb&i=1000789138192",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [
-        "https://podcasts.apple.com/no/podcast/utbytte/id995845886?l=nb&i=1000789138192"
-      ],
-      "char_count": 227,
-      "has_link": true
-    },
-    {
-      "key": "a691b9b759e160d1",
-      "author": "TheNordicValueInvestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thenordicvalueinvestor",
-      "posted_relative": "for 54 min siden · Endret",
-      "text": "Veldig interessant å høre, spesielt fra 25:39, der CEO-en i Villoid forteller om erfaringene deres med AutoStore: «Vi hadde et manuelt lager … Alle på hovedkontoret måtte inn på lageret og hjelpe til når det var Q4.» Videre forklarer hun hvordan overgangen til en pay-per-pick-løsning fra AutoStore (Pio) har påvirket driften: «Etter å ha fått en leasing-løsning fra AutoStore … har det vært helt fantastisk for oss, uten å kreve store investeringer.» Hun trekker også frem en betydelig effektivisering av vareopptellingen: «I dag er vår vareopptelling, som tok fire dager og 30 mennesker i 2024, redusert til at det i 2025 tok 1 person en time.» Spennende å se at leasing modell fungerer for små bedrifter og den store effekten der 1 person nå kan håndtere volum som krevde at hele hovedkontoret ble med på lagerarbeidet.",
+      "key": "cbe493534ba9b75b",
+      "author": "PoorBastard",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/poorbastard",
+      "posted_relative": "for 2 t siden",
+      "text": "Denne videoen fra Finansavisen har mange gode betraktninger om AutoStore fremover. https://www.youtube.com/watch?v=z1HrLB7gIo0",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 822,
-      "has_link": false
+      "links": [
+        "https://www.youtube.com/watch?v=z1HrLB7gIo0"
+      ],
+      "char_count": 126,
+      "has_link": true
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-09-12T09:50:17.117206+00:00",
+  "scraped_at": "2026-09-12T13:18:55.057018+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f5511cc9352567ca",
+      "author": "CP_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cp_1",
+      "posted_relative": null,
+      "text": "8. sep. Burde ikke driften egentlig bare legges ned? De forurenser og selger metall som de har støpt takket være nesten gratis strøm.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    }
+  ]
 }

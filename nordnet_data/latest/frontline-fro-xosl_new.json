@@ -1,53 +1,83 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-12T09:44:24.046941+00:00",
+  "scraped_at": "2026-09-12T13:13:12.626920+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "e412e599e04dd807",
-      "author": "Jaff92",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
-      "posted_relative": "for 26 min siden",
-      "text": "Dette er et av de to splitter nye VLCC-ene som ble levert i sommer, og som Frontline har leid ut til Vitol for ettårige fast TCE-avtale på 120000 USD/dag. Vitol tjener altså godt på denne fremleien hvis denne slutningen går gjennom.",
+      "key": "44fed7143e1d7613",
+      "author": "Korona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
+      "posted_relative": "for 3 t siden",
+      "text": "Er det en pinefull balanse vi ser framover som vedlikeholder ratene til tankrederiene.. https://www.dn.no/olje/tror-iran-pinen-kan-vare-lenge-det-er-nokkelen/2-1-2042283",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/olje/tror-iran-pinen-kan-vare-lenge-det-er-nokkelen/2-1-2042283"
+      ],
+      "char_count": 169,
+      "has_link": true
+    },
+    {
+      "key": "7037cc7a5139358f",
+      "author": "joye",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joye",
+      "posted_relative": "for 15 t siden",
+      "text": "Frontline solgte den 4. august to VLCC-er bygget i 2017 for 270 millioner dollar. Nă skal det betales utbytte på 0,8 amerikanske dollar, noe som i dag tilsvarer 7,43 norske kroner. Det ekstraordinære engangsutbyttet kommer i tillegg til det tidligere annonserte utbyttet på 2,61 dollar pr. aksje for andre kvartal 2026. Registreringsdatoen for utbyttet vil være den samme som for det tidligere annonserte utbyttet for andre kvartal 2026, og blir dermed 18. september 2026. Ex-datoen ventes å bli 17. september 2026 for aksjer notert på Oslo Børs og 18. september 2026 for aksjer notert på New York Stock Exchange. Selskapet skriver i meldingen at utbyttet er i tråd med deres selskapsfilosofi. Spot-raten for en VLCC var ifølge ABG Sundal Collier 261,359 dollar pr. dag torsdag morgen. Frontline-aksjen er opp 106,1 prosent på Oslo Børs så langt i år. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        2
+      ],
+      "links": [],
+      "char_count": 871,
+      "has_link": false
+    },
+    {
+      "key": "fd1225b341233847",
+      "author": "Mickem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mickem",
+      "posted_relative": "for 2 t siden",
+      "text": "· Yield on cost vil overstige 100 % for min FRO-post i år 😳😎",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 232,
+      "char_count": 60,
       "has_link": false
     },
     {
-      "key": "cdce11a8bdc385f0",
-      "author": "BRGN",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brgn",
-      "posted_relative": "for 1 t siden",
-      "text": "Dette var jo annonsert allerede i sommer. Men de fleste forventet nok utbetaling ved Q3, så kanskje en ekstra boost på kursen før ex dag.",
+      "key": "977738c4a6bfed1f",
+      "author": "Urene",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/urene",
+      "posted_relative": "for 2 t siden",
+      "text": "Farten øker. Kun 9% igjen før 500 passeres",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "ce5d25914bb18b8e",
+      "author": "gullet23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullet23",
+      "posted_relative": "for 5 min siden",
+      "text": "Utbytte på 31,7 nok",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 137,
-      "has_link": false
-    },
-    {
-      "key": "454a2c5703e49529",
-      "author": "ARothschild",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arothschild",
-      "posted_relative": "for 45 min siden",
-      "text": "· Front Otra (2026) OPR Vitol CHTR Cosmo On Subs 531k/Day. 531 000 USD per dag!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        1
-      ],
-      "links": [],
-      "char_count": 79,
+      "char_count": 19,
       "has_link": false
     }
   ]

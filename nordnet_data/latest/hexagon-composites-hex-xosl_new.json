@@ -1,9 +1,40 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-12T09:48:59.512521+00:00",
+  "scraped_at": "2026-09-12T13:17:37.905058+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5c3191640c09e1fd",
+      "author": "Pimp12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimp12",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.thecityreporter.nyc/2026/09/10/new-mta-gas-buses-electric-climate-emissions/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.thecityreporter.nyc/2026/09/10/new-mta-gas-buses-electric-climate-emissions/"
+      ],
+      "char_count": 90,
+      "has_link": true
+    },
+    {
+      "key": "cafc54d93ed88cc0",
+      "author": "Jo4more",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jo4more",
+      "posted_relative": "for 2 t siden",
+      "text": "Jeg gjentar; ledelsen i Hex jobber på spreng om dagen - for å få sikre ytterligere markedsandeler i både mobile pipe line- og i heavy duty-truck markedet. Begge disse markedene er super hot for tiden, så, mens Schramm og Co jobber hardt for oss her inne - er det bare å nyte en god lørdagspils å vente på fin-fine tall fra selskapet i slutten av 2026 og utover i 2027. Eneste som kan stoppe toget, er tullingen i USA, men la oss håpe på snarlig godvær i Midt-Østen og ikke minst i Ukrainia.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 490,
+      "has_link": false
+    }
+  ]
 }
