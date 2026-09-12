@@ -1,9 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-12T21:06:37.549001+00:00",
+  "scraped_at": "2026-09-12T23:34:27.619865+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "dc20e8abfa2afcc1",
+      "author": "ekspokongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekspokongen",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg er litt bekymret for denne ISO 15118-20-standarden som skal tre i kraft fra begynnelsen av 2027. Hva om zap go og zap pro ikke har denne standarden innebygd per nå? Da må hele systemet bli endret, og ting blir dyrere, altså jeg tenker worst case scenario her, men dette er jo krise hvis ingen av zap’s produkter er i denne gaten. Kan noen berolige meg?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 356,
+      "has_link": false
+    },
+    {
+      "key": "812658404b0a271c",
+      "author": "opprett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/opprett",
+      "posted_relative": "for 1 t siden",
+      "text": "Ai svarer Du trenger ikke å være bekymret for at Zaptec Pro eller nyere Zaptec-modeller blir utdaterte eller ulovlige, da Zaptec har tilrettelagt maskinvaren for å møte de nye EU-kravene i ISO 15118-20-standarden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 213,
+      "has_link": false
+    }
+  ]
 }
