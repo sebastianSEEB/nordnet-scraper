@@ -1,9 +1,41 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-09-13T07:07:49.095867+00:00",
+  "scraped_at": "2026-09-13T13:00:51.851621+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7d6af84900998bd6",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "9. sep. Bonheur har steget med ca. 10% den siste mnd - ikke verst det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "5240663a5e173417",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "9. sep. Kurs 262.50 i skrivende stund (smilefjes)",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

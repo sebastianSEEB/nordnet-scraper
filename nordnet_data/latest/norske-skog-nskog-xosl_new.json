@@ -1,9 +1,41 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-13T07:06:12.015178+00:00",
+  "scraped_at": "2026-09-13T12:59:17.023334+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0e0c4e264acf7e9a",
+      "author": "Rinvest99",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rinvest99",
+      "posted_relative": null,
+      "text": "9. sep. Takk for god tilbakemelding. Jeg er ganske enig i hovedpoenget: markedet vil trolig belønne løsninger som frigjør verdi og reduserer gjeld, men være mer skeptisk til nye store investeringer før Golbey er stabilt oppe og balansen er styrket. For meg er de viktigste triggerne videre datasenter/Saugbrugs, bedre containerboard-priser og stabil ramp-up på Golbey. På nedsiden er gjeld, covenant-risiko, NND-usikkerhet og mulig nedskrivning av Bruck/Golbey de klart viktigste risikopunktene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 495,
+      "has_link": false
+    },
+    {
+      "key": "a52ee747ca98712b",
+      "author": "Rinvest99",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rinvest99",
+      "posted_relative": null,
+      "text": "9. sep. Ser at ordføreren i Halden hadde møte med Green Mountain 3. september. Jeg finner ikke noe om hva møtet gjaldt. Er det noen som vet om møtet gjaldt Saugbrugs/datasenterprosjektet? Har noen sett noe nytt om fremdrift, MW-kapasitet, regulering eller mulig avtalestruktur mellom Norske Skog og Green Mountain? Del gjerne lenker eller annen konkret informasjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        5
+      ],
+      "links": [],
+      "char_count": 365,
+      "has_link": false
+    }
+  ]
 }

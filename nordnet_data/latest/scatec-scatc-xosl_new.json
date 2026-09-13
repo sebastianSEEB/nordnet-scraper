@@ -1,9 +1,41 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-13T07:04:07.670461+00:00",
+  "scraped_at": "2026-09-13T12:57:04.214192+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "751fe1da3fe835b3",
+      "author": "xster123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
+      "posted_relative": null,
+      "text": "9. sep. Sikkert ikke dumt å ta en gevinst sikring nå. Tydelig motstand ved 106 nivået. Da kan man kjøpe igjen nede ved mellom 96 og 98.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 135,
+      "has_link": false
+    },
+    {
+      "key": "c701ee1e49c76f03",
+      "author": "isastr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isastr",
+      "posted_relative": null,
+      "text": "9. sep. · 2kr til nå så har jeg en 10ar per aksje ;-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

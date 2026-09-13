@@ -1,9 +1,38 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-13T07:06:04.411322+00:00",
+  "scraped_at": "2026-09-13T12:59:09.155006+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b11fe1e885665c9d",
+      "author": "Stone Rokk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stone-rokk",
+      "posted_relative": null,
+      "text": "9. sep. Q3 er nøkkelen hær. Okea er nå ferdig med store investeringer, kommer til å overraske markedet. Iht videre oppgang. Sitt på gjerdet evt last opp og ta livet med ro inn til videre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "ef71abe9234112e5",
+      "author": "Offshoretrollet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/offshoretrollet",
+      "posted_relative": null,
+      "text": "9. sep. Oljeprisen er nå kommet seg over $100 Gassprisen klatrer til nye høyder. Hva er det som gjør at vi ikke rykker fra?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    }
+  ]
 }

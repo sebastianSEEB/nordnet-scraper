@@ -1,9 +1,25 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-09-13T07:05:13.534191+00:00",
+  "scraped_at": "2026-09-13T12:58:15.044353+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b2b6bda496af7450",
+      "author": "Vega27",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vega27",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.bygg.no/entreprenorer-veidekke-okonomi/microsoft-milliardaer-eier-veidekke-aksjer-for-63-millioner-kroner/2953873",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.bygg.no/entreprenorer-veidekke-okonomi/microsoft-milliardaer-eier-veidekke-aksjer-for-63-millioner-kroner/2953873"
+      ],
+      "char_count": 125,
+      "has_link": true
+    }
+  ]
 }

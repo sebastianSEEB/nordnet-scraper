@@ -1,9 +1,44 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-13T07:07:05.865820+00:00",
+  "scraped_at": "2026-09-13T13:00:07.971862+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5fb0f2b5ab33fdc6",
+      "author": "OivindB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oivindb",
+      "posted_relative": "for 2 t siden",
+      "text": "Om Zone5 - KOGs nyervervede selskap i USA som gjør at KOG nå leverer billige missiler som kompletterer NASAMS. Sammen med Freya vil KOG snart  levere lagdelt luftvern i alle deler av spekteret. Zone5 spås enorm vekst. https://e24.no/boers-og-finans/i/k0LGGa/kongsbergs-skjulte-usa-perle?utm_source=iosapp&utm_medium=share",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/k0LGGa/kongsbergs-skjulte-usa-perle?utm_source=iosapp&utm_medium=share"
+      ],
+      "char_count": 321,
+      "has_link": true
+    },
+    {
+      "key": "049a34238654e9dc",
+      "author": "Vargas12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vargas12",
+      "posted_relative": "for 3 t siden",
+      "text": "Minner om at det finnes grupper for enkeltaksjer på Facebook. Denne som gjelder for KOG er aktiv og kommer med raske nyheter om selskapet. Innbærer også for KMAR. https://www.facebook.com/groups/1001655718015998",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.facebook.com/groups/1001655718015998"
+      ],
+      "char_count": 211,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,26 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-13T07:07:14.519316+00:00",
+  "scraped_at": "2026-09-13T13:00:16.057199+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "080dfeef97bf7958",
+      "author": "Gulldoser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gulldoser",
+      "posted_relative": null,
+      "text": "9. sep. Kanskje jeg kjøper på 132…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        10
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-13T07:05:21.641760+00:00",
+  "scraped_at": "2026-09-13T12:58:22.952887+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "10cca1ea260f690a",
+      "author": "Superkokk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/superkokk",
+      "posted_relative": null,
+      "text": "9. sep. Synes det er bekymringsverdig at Marbella1 ikke har kommet med en oppdatering på over en uke?? Hva skjer??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "49c434eee8859b62",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "9. sep. · 😂😂😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

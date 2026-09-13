@@ -1,9 +1,25 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-13T07:07:10.676625+00:00",
+  "scraped_at": "2026-09-13T13:00:11.956091+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "83ff01c40c12b0c4",
+      "author": "Vincent70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vincent70",
+      "posted_relative": null,
+      "text": "9. sep. Noen som kjenner Aker BP bedre enn meg som kan forklare hvorfor aksjen nøler med å stige i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

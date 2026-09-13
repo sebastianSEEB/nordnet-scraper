@@ -1,9 +1,74 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-13T07:04:42.989207+00:00",
+  "scraped_at": "2026-09-13T12:57:42.871271+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "26826a6550fa6064",
+      "author": "dreliten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dreliten",
+      "posted_relative": null,
+      "text": "9. sep. · Endret Jeg bruker Infront og tradingView.  Men det er offentlig tilgjengelig informasjon som ligger i ordreboken uavhengig av hvilken dataleverandør man bruker. https://goi.nf/?8oyvxk9jkeog",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [
+        "https://goi.nf/?8oyvxk9jkeog"
+      ],
+      "char_count": 199,
+      "has_link": true
+    },
+    {
+      "key": "c8862e704d395596",
+      "author": "Takknemlighet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/takknemlighet",
+      "posted_relative": "for 1 døgn siden · Endret",
+      "text": "https://www.youtube.com/watch?v=2DDHMSlWkDM Skjønner vi hvor stort dette kan bli? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [
+        "https://www.youtube.com/watch?v=2DDHMSlWkDM"
+      ],
+      "char_count": 101,
+      "has_link": true
+    },
+    {
+      "key": "4d611260f5f6b43e",
+      "author": "hoffie19",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hoffie19",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg er aksjonær og har ikke peiling. Strategien min har vært å følge en del større navn, blant annet Lars Boilesen. Det har vært lukrativt. Men har ikke snøring på hvor stort eller lite dette blir..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 198,
+      "has_link": false
+    },
+    {
+      "key": "e7e8ea30a992e5fa",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": null,
+      "text": "9. sep. · noen grunn til sterke aksjekurser i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

@@ -1,40 +1,43 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-13T07:06:50.588361+00:00",
+  "scraped_at": "2026-09-13T12:59:51.898345+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
+  "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "6177473777ca6793",
+      "key": "8456ea338233cb62",
       "author": "LongLearning",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longlearning",
-      "posted_relative": "for 1 t siden",
-      "text": "https://www.vg.no/nyheter/i/Ok954k/houthiene-stormer-frem-76-000-mennesker-paa-flukt Blir hvertfall ikke fred med det første, men du må ta dine egne valg.",
+      "posted_relative": "for 7 t siden",
+      "text": "https://www.vg.no/nyheter/i/Ok954k/houthiene-stormer-frem-76-000-mennesker-paa-flukt Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3,
+        5
+      ],
       "links": [
         "https://www.vg.no/nyheter/i/Ok954k/houthiene-stormer-frem-76-000-mennesker-paa-flukt"
       ],
-      "char_count": 154,
+      "char_count": 104,
       "has_link": true
     },
     {
-      "key": "0f8cbfc211b904d7",
-      "author": "LongLearning",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longlearning",
-      "posted_relative": "for 1 t siden",
-      "text": "https://www.vg.no/nyheter/i/Ok954k/houthiene-stormer-frem-76-000-mennesker-paa-flukt",
+      "key": "49a3edc6dc1adb64",
+      "author": "vadz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vadz",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "En annen ting er, at jeg ser flere positive triggere for Hunter inn mot mandag: fortsatt ekstreme VLCC-rater, uro rundt Hormuz, økt risiko ved Bab el-Mandeb og ingen rask normalisering i sikte. Så lenge oljevolumene fortsatt skal fraktes, kan lengre ruter og knapp tonnasje holde ratene svært høye. Derfor tror jeg fortsatt sannsynligheten heller mot videre oppgang enn et stort fall. Ikke kjøpsanbefaling,, Så selvfølgelig alt på egen risiko ;) Noen som har andre tanker?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.vg.no/nyheter/i/Ok954k/houthiene-stormer-frem-76-000-mennesker-paa-flukt"
+      "engagement_numbers": [
+        1
       ],
-      "char_count": 84,
-      "has_link": true
+      "links": [],
+      "char_count": 472,
+      "has_link": false
     }
   ]
 }

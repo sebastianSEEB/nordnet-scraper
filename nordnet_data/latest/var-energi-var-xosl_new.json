@@ -1,9 +1,58 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-13T07:07:25.832182+00:00",
+  "scraped_at": "2026-09-13T13:00:27.723723+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3062ea9581c9d70e",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": "for 19 t siden",
+      "text": "Har noen tilgang til hele og kan dele? https://www.finansavisen.no/finans/2026/09/12/8355719/disse-analytikerne-har-ifolge-robert-naess-mest-rett Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/12/8355719/disse-analytikerne-har-ifolge-robert-naess-mest-rett"
+      ],
+      "char_count": 165,
+      "has_link": true
+    },
+    {
+      "key": "26765a7e6e8edda7",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 32 min siden",
+      "text": "· https://www.youtube.com/watch?v=-plPmSaycVk Intervju med TankerTrackers.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.youtube.com/watch?v=-plPmSaycVk"
+      ],
+      "char_count": 74,
+      "has_link": true
+    },
+    {
+      "key": "b6fb5a3ae489dc89",
+      "author": "fizban",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fizban",
+      "posted_relative": "for 2 t siden",
+      "text": "Overskriften samsvarer ikke med innholdet, så du har ikke gått glipp av noe. Næss sier at gode analytikere er bedre enn gjennomsnittlige. Og at norske analytikere har mer/oftere rett når de er negativ til en aksje. Og sjelden klarer de å spå en vinner. Det var vel det mest konkrete \"tipset\". Den artikkelen er 2 minutt med selvsagtheter jeg aldri får tilbake...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 362,
+      "has_link": false
+    }
+  ]
 }

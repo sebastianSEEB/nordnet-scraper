@@ -1,9 +1,23 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-13T07:09:20.352477+00:00",
+  "scraped_at": "2026-09-13T13:02:25.398591+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d74b4d397aa8a772",
+      "author": "pweer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pweer",
+      "posted_relative": "for 35 min siden",
+      "text": "hoder må rulle, lol",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

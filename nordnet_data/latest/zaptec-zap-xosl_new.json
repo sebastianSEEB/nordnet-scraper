@@ -1,9 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-13T07:03:32.586184+00:00",
+  "scraped_at": "2026-09-13T12:56:32.585998+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b45fa4ddc5c73b2c",
+      "author": "ekspokongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekspokongen",
+      "posted_relative": "for 15 t siden",
+      "text": "Jeg er litt bekymret for denne ISO 15118-20-standarden som skal tre i kraft fra begynnelsen av 2027. Hva om zap go og zap pro ikke har denne standarden innebygd per nå? Da må hele systemet bli endret, og ting blir dyrere, altså jeg tenker worst case scenario her, men dette er jo krise hvis ingen av zap’s produkter er i denne gaten. Kan noen berolige meg? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 376,
+      "has_link": false
+    },
+    {
+      "key": "17ca13fa57b61484",
+      "author": "walfjord",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/walfjord",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg er ganske sikkert på at zap har alrede en løsbing på drtte eller jobber med en løsning",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    }
+  ]
 }

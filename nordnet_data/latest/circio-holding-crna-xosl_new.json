@@ -1,9 +1,82 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-09-13T07:06:58.233063+00:00",
+  "scraped_at": "2026-09-13T13:00:00.272775+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "5b7a59c136dcf405",
+      "author": "Modernity",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/modernity",
+      "posted_relative": "for 4 t siden",
+      "text": "Kina ser ut til å bevege seg raskt innen circular RNA og in vivo CAR-T. For Circio er dette interessant fordi det bekrefter  at feltet er strategisk viktig og på vei mot klinikk. Circio har sin styrke i circVec som bred plattformteknologi på tvers av AAV, CNS, LNP og in vivo celleterapi. Hvis vestlige aktører ønsker en egen posisjon innen circular RNA, kan selskaper som Circio bli mer interessante. Konkurransen fra Kina kan gjøre at tempoet i feltet øker.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        17,
+        6
+      ],
+      "links": [],
+      "char_count": 459,
+      "has_link": false
+    },
+    {
+      "key": "6efb78846f5df6d6",
+      "author": "chucky76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chucky76",
+      "posted_relative": "for 17 min siden",
+      "text": "Noen som vet hva bildet sier? Er der algoritmer selv om det er helg? Er det ordrer som ble lagt inn som ikke gikk gjennom før stengetid på fredag?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "d68e9bc4359d2a18",
+      "author": "birkmarring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birkmarring",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen seriøse hjerner her som har tanker om fremgangen på denne aksjen det neste. 3 mnd til 1 år?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "994a68497904159a",
+      "author": "Fattigstakkaren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattigstakkaren",
+      "posted_relative": "for 2 t siden",
+      "text": "Trenger ingen lenke til den \"kunnskapen\", dette er den logiske slutningen på dusinvis av lenker",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "f4dd2279daf17360",
+      "author": "dagak76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dagak76",
+      "posted_relative": "for 4 t siden",
+      "text": "De har prøvd å kopiere uten suksess heldigvis",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

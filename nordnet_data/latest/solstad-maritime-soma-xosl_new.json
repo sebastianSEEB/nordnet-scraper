@@ -1,9 +1,55 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-09-13T07:07:45.211407+00:00",
+  "scraped_at": "2026-09-13T13:00:47.491191+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "0127d374ef3556ed",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "9. sep. · Endret DnB går fra kjøp til hold men gjentar kursmål på 30kr  Kilde :Finansavisen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "81b37da12c8b6f6d",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "9. sep. DnB som går fra kjøp til hold men gjentar kursmål på 30kr  Kilde :Finansavisen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "cfde0dd8537a2902",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": null,
+      "text": "9. sep. Skjer det noe? Veldig til nedgang??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,68 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-13T07:01:52.919979+00:00",
+  "scraped_at": "2026-09-13T12:54:44.841746+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "2e9ccad2ac982e90",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 3 t siden",
+      "text": "https://x.com/Seatrade/status/2099054250890244266 Tanker i brann. Ser ut som Oman ruta. Besetning evakuert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://x.com/Seatrade/status/2099054250890244266"
+      ],
+      "char_count": 107,
+      "has_link": true
+    },
+    {
+      "key": "653a372385065b2f",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 40 min siden",
+      "text": "· https://www.youtube.com/watch?v=-plPmSaycVk Sal intervjuer TankerTracker.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.youtube.com/watch?v=-plPmSaycVk"
+      ],
+      "char_count": 75,
+      "has_link": true
+    },
+    {
+      "key": "49d65608869c72aa",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 2 t siden",
+      "text": "Visstnok et Panama flagget skip. OET har Marshall Islands som flaggstat.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "44ab0031f6220822",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 3 t siden",
+      "text": "Sånn cirka det ett nybygg kostet for rundt 5 år siden...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

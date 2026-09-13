@@ -1,22 +1,39 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-13T07:03:36.489399+00:00",
+  "scraped_at": "2026-09-13T12:56:36.646037+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9741c2c1c576b7b6",
-      "author": "Kristian7788",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kristian7788",
-      "posted_relative": "for 52 min siden",
-      "text": "· Ja, min er fin",
+      "key": "b2fd705a1ad6916a",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 4 t siden",
+      "text": "Min er også fin. Selgere på rundt 95 og kjøpere på ei krone mer. Skulle en aksje falle 20% etter stengning bør det foreligge åpen  tilgjengelig informasjon som kan forklare fallet.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 16,
+      "char_count": 180,
+      "has_link": false
+    },
+    {
+      "key": "4193691155d04b6c",
+      "author": "remontadan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/remontadan",
+      "posted_relative": "for 15 t siden",
+      "text": "Bare min oversikt som sier at den har falt 20% etter den stengte på fredag? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 95,
       "has_link": false
     }
   ]

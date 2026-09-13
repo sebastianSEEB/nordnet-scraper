@@ -1,9 +1,25 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-09-13T07:04:23.353428+00:00",
+  "scraped_at": "2026-09-13T12:57:20.210117+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4b01dd7a10bf69a0",
+      "author": "Aksjelady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelady",
+      "posted_relative": null,
+      "text": "9. sep. https://www.dn.no/bors/bors/oslo-bors/oljeprisen/oljeprisen-raser-forbi-100-dollar-fatet/2-1-2040788",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/bors/bors/oslo-bors/oljeprisen/oljeprisen-raser-forbi-100-dollar-fatet/2-1-2040788"
+      ],
+      "char_count": 108,
+      "has_link": true
+    }
+  ]
 }

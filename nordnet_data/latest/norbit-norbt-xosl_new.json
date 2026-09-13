@@ -1,9 +1,27 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-13T07:04:03.901443+00:00",
+  "scraped_at": "2026-09-13T12:57:00.369932+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4186417f702ca4d9",
+      "author": "Charlie Spr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/charlie-spr",
+      "posted_relative": "for 2 t siden",
+      "text": "https://radioh.no/dagens-aksjetips-norbit-beholder-toppen-analytikerne-ser-40-prosent-oppside/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://radioh.no/dagens-aksjetips-norbit-beholder-toppen-analytikerne-ser-40-prosent-oppside/"
+      ],
+      "char_count": 94,
+      "has_link": true
+    }
+  ]
 }

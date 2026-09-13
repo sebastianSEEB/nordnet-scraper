@@ -1,9 +1,51 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-09-13T07:09:24.249611+00:00",
+  "scraped_at": "2026-09-13T13:02:29.397733+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c0e003b0481c3807",
+      "author": "Mortz82",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortz82",
+      "posted_relative": null,
+      "text": "9. sep. Bedriften kan fint unngå en streik ved å legge på bordet et skikkelig tilbud som møter de tillitsvalgte. Sitter selv med aksjer her inne men støtter absolutt arbeiderenes streikerett for å få bedre vilkår 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 214,
+      "has_link": false
+    },
+    {
+      "key": "e9e3c59c9c490889",
+      "author": "Ijors",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ijors",
+      "posted_relative": "for 5 t siden",
+      "text": "Ny Hunter tro? Hva mener folket?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "0527202d530b7425",
+      "author": "Harries",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
+      "posted_relative": "for 54 min siden",
+      "text": "· Hva betyr dette?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

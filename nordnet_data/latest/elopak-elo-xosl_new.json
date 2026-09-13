@@ -1,9 +1,39 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-13T07:05:17.699098+00:00",
+  "scraped_at": "2026-09-13T12:58:18.983232+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3f51bd98907b4e12",
+      "author": "Reallylongrun",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reallylongrun",
+      "posted_relative": null,
+      "text": "9. sep. Det er jo ikke uvanlig praksis når det kjøpes tilbake for mange ansatte. Når du kaller det \"verdens minste\" så er det jo interessant hva du sammenlikner det med. Selvfølgelig har mange bedrifter hatt tilbakekjøpsprogrammer for ansatte som er mindre enn dette og likevel børsmeldt. Veldig vanlig blant sparebanker f.eks.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 327,
+      "has_link": false
+    },
+    {
+      "key": "c0caaf9757d45eb5",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "9. sep. Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

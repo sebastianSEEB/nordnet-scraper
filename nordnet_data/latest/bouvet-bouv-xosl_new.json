@@ -1,9 +1,25 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-13T07:05:09.627874+00:00",
+  "scraped_at": "2026-09-13T12:58:11.116506+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "91b500324199f5f0",
+      "author": "Steffo01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffo01",
+      "posted_relative": null,
+      "text": "9. sep. Det er nok viktig at de blir ferdige ja. Føles som at kursen burte gå vesentlig oppover her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    }
+  ]
 }

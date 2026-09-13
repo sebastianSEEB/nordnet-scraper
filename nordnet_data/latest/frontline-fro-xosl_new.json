@@ -1,9 +1,38 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-13T07:01:48.964185+00:00",
+  "scraped_at": "2026-09-13T12:54:39.852005+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fa7eaf3eec42966d",
+      "author": "Leffe junior",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leffe-junior",
+      "posted_relative": "for 4 t siden",
+      "text": "· Nei, litt utrolig at man kan være profesjonell analytiker og samtidig bomme helt. Man kan selvfølgelig lett \"brenne seg\" i shipping - men å gjøre det konsekvent.....",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 167,
+      "has_link": false
+    },
+    {
+      "key": "0be12ca7cb477d4a",
+      "author": "landeveiskongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/landeveiskongen",
+      "posted_relative": "for 7 min siden",
+      "text": "· Så det er 2.61 usd + disse 0.80?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

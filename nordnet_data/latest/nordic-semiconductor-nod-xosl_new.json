@@ -1,9 +1,43 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-13T07:03:16.519720+00:00",
+  "scraped_at": "2026-09-13T12:56:17.079356+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "55255be1e01ca367",
+      "author": "CarefulInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carefulinvest",
+      "posted_relative": "for 3 t siden",
+      "text": "Demoen som er gjort av Iridium, Deutsche Telekom og Toyota med nRF9151 er virkelig interessant. En ting er Toyota - koblingen til bil/automotive peker jo på et marked med enormt volum, selv om det er langt fram til dette blir noe. Men koblingen til telefonoperatøren (Deutsche Telekom) er også interessant.  Hele demoen peker mot et økosystem hvor Nordic kan ta en enormt viktig posisjon, siden nRF9151 er én chip med alt i ett av kommunikasjonsformer som trengs for å funke «overalt». Det er stor forskjell på å demonstrere dette i virkeligheten og ikke bare i powerpoint.  Jeg leser dette som en ganske big deal. Det viser at long range, cellular IoT og non-terrestrial (NTN) kan bli en vekstmotor som blir mye større enn bluetooth-delen. https://finance.yahoo.com/technology/articles/iridium-deutsche-telekom-iot-toyota-130100650.html?guccounter=1",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://finance.yahoo.com/technology/articles/iridium-deutsche-telekom-iot-toyota-130100650.html?guccounter=1"
+      ],
+      "char_count": 850,
+      "has_link": true
+    },
+    {
+      "key": "90b5feff1734a0b3",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": null,
+      "text": "9. sep. BOFA øker NODs kursmål fra 222 til 245 💰😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        27,
+        7
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

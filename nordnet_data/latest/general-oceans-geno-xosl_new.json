@@ -1,9 +1,23 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-13T07:08:42.458116+00:00",
+  "scraped_at": "2026-09-13T13:01:46.630741+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7bf90b780dee0dbd",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "9. sep. Mr. Fred67: Fylle på fordi ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }
