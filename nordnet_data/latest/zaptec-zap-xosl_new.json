@@ -1,54 +1,9 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-13T19:06:29.198208+00:00",
+  "scraped_at": "2026-09-13T21:56:07.875640+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
-  "posts": [
-    {
-      "key": "99948366e98c0d82",
-      "author": "Samiska",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/samiska",
-      "posted_relative": "for 2 døgn siden",
-      "text": "· ISO 15118-20-standarden trer i kraft fra begynnelsen av 2027, noe som er manna for Zaptec, hvis Zaptec Pro og Zaptec Go 2 allerede fullt ut støtter standarden. Ifølge AI har konkurrerende \"billigladeapparater\" som ikke støtter standarden for øyeblikket hele 50% markedsandel, men de vil i stor grad bli feid bort fra de europeiske markedene ved årsskiftet. https://tekniikanmaailma.fi/pyyhkaisee-markkinoilta-kaikki-halvat-kiinteat-latausasemat-pois-eu-asetus-mullistaa-pian-sahkoautojen-latauksen/ Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        11,
-        4
-      ],
-      "links": [
-        "https://tekniikanmaailma.fi/pyyhkaisee-markkinoilta-kaikki-halvat-kiinteat-latausasemat-pois-eu-asetus-mullistaa-pian-sahkoautojen-latauksen/"
-      ],
-      "char_count": 520,
-      "has_link": true
-    },
-    {
-      "key": "3f22653ccb7fea44",
-      "author": "InLongRun",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inlongrun",
-      "posted_relative": "for 1 t siden",
-      "text": "· Men de har en antikk OCPP-versjon, ikke-nativt. Nativt sannsynligvis beta. Ikke et attraktivt produkt før nativ minst 2.0.1. OCPP selv om det var et nytt ISO-krav. Hvis de fikset det, ville det sannsynligvis selge bedre.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 222,
-      "has_link": false
-    },
-    {
-      "key": "3887a583d95a60f9",
-      "author": "InLongRun",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inlongrun",
-      "posted_relative": "for 1 t siden",
-      "text": "· Jeg ville vært mer bekymret for ikke å ha nyere OCPP og også ha den ikke-native OCPP-en. Jeg tror det var beta for innebygd, men en smart kjøper unngår leverandørlåsning.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 172,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

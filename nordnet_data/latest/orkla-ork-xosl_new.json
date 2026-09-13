@@ -1,17 +1,17 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-13T19:10:35.676874+00:00",
+  "scraped_at": "2026-09-13T22:00:18.076098+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c0ca1f421038b2a3",
+      "key": "a2b22c77935711e7",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 1 døgn siden",
-      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn 15 stemmer • 1 dag La",
+      "posted_relative": "for 2 døgn siden",
+      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn 15 stemmer • 21 timer igjen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
@@ -22,7 +22,20 @@
         74
       ],
       "links": [],
-      "char_count": 95,
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "bb8807a5052ab34e",
+      "author": "Iwin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iwin",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg vil tro likhetene skyldes en skarpskytter fra Texas.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
       "has_link": false
     }
   ]

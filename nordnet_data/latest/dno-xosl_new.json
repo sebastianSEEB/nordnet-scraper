@@ -1,25 +1,36 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-13T19:08:40.061736+00:00",
+  "scraped_at": "2026-09-13T21:58:08.505466+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9f50b78999fbd812",
-      "author": "EroseN1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
-      "posted_relative": "for 14 min siden",
-      "text": "Spent på olje prisen til uka for å si det mildt. https://www.finansavisen.no/energi/2026/09/13/8379914/reuters-saudi-arabias-oljelagre-er-i-ferd-med-a-tommes",
+      "key": "bfd40d057c90b7f7",
+      "author": "Myrsnipe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myrsnipe",
+      "posted_relative": "for 2 t siden",
+      "text": "Trump kommer til å snakke den ned ved å nok en gang love at fredsavtale er nært forestående.  Så får vi se om markedet nok en gang biter på. Tipper \"nei\" . Han har bløffet for mange ganger. Tror oljeprisen stiger i morgen.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://www.finansavisen.no/energi/2026/09/13/8379914/reuters-saudi-arabias-oljelagre-er-i-ferd-med-a-tommes"
-      ],
-      "char_count": 157,
-      "has_link": true
+      "links": [],
+      "char_count": 222,
+      "has_link": false
+    },
+    {
+      "key": "bbe3b8c9321183e5",
+      "author": "Lemmy4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lemmy4",
+      "posted_relative": "for 58 min siden",
+      "text": "Trump påstår  at Houtiene  har ringt han... LOL 😂🤡",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
     }
   ]
 }

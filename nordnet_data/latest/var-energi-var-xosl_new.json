@@ -1,9 +1,23 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-13T19:10:27.948642+00:00",
+  "scraped_at": "2026-09-13T22:00:09.972021+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4e893bab04df879b",
+      "author": "kribbo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kribbo",
+      "posted_relative": "for 2 t siden",
+      "text": "· Oman-møte mellom Golfstatene, Iran utsatt Et møte i Oman mellom Golflandene og Iran for å diskutere mulige avtaler om Hormuzstredet, som var planlagt til mandag, er blitt utsatt, sa Omans utenriksminister Badr Albusaidi på X. «I konsensusens interesse er det regionale møtet satt til i morgen i Salalah blitt utsatt. Vi forblir forpliktet til å fremme dialog som støtter stabilitet og varig samarbeid i vår region,» sa han.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 425,
+      "has_link": false
+    }
+  ]
 }
