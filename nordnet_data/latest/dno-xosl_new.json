@@ -1,23 +1,25 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-13T16:47:52.622083+00:00",
+  "scraped_at": "2026-09-13T19:08:40.061736+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "6360e8b58b9811c2",
-      "author": "Amatørkongen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
-      "posted_relative": "for 45 min siden · Endret",
-      "text": "Slutt å overkomplisere. Prisen er god for å selge litt nå om du har god gevinst og har en del og er overeksponert.  Jeg mener: om du ville blitt bitter om oljeprisen gikk ned og kursen ble 15kr senere i år? Tilfellet ville jeg solgt en god porsjon nå, 25%. Eller mer, litt avhengig av om du trenger pengene eller ei.  Det kan være vi når 20kr med en god sannsynlighet, men det er alltid en risiko for at vi går ned fordi det plutselig er en slags avtale,  You never know. Jeg ville solgt litt nå, selg evt mer om vi går over 20kr. Gjør dine egne vurderinger dog, hvor villig du er til å sitte og vente på 20kr, burde veies opp mot konsekvensene/risikoen om vi går ned.",
+      "key": "9f50b78999fbd812",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 14 min siden",
+      "text": "Spent på olje prisen til uka for å si det mildt. https://www.finansavisen.no/energi/2026/09/13/8379914/reuters-saudi-arabias-oljelagre-er-i-ferd-med-a-tommes",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 668,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/13/8379914/reuters-saudi-arabias-oljelagre-er-i-ferd-med-a-tommes"
+      ],
+      "char_count": 157,
+      "has_link": true
     }
   ]
 }

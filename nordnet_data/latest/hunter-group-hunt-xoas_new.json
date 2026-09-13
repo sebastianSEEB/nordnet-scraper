@@ -1,9 +1,38 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-13T16:49:02.587178+00:00",
+  "scraped_at": "2026-09-13T19:09:52.858065+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "69b7a857c014a711",
+      "author": "Myrsnipe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myrsnipe",
+      "posted_relative": "for 1 t siden",
+      "text": "Vi leser at det er stor sannsynlighet for at El Ninjo blir ekstremt sterk i høst og at en rekke land forbereder seg. Bl.a. redusert trafikk på Panamakanalen.  Vil dette  også kunne påvirke rutene som Hunter får?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 211,
+      "has_link": false
+    },
+    {
+      "key": "cac5bd5b23b3ee9f",
+      "author": "aksjeinvestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeinvestor",
+      "posted_relative": "for 59 min siden",
+      "text": "Går vlcc gjennom panamakanalen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

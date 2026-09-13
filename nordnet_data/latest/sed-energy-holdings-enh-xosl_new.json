@@ -1,25 +1,38 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-13T16:47:06.911420+00:00",
+  "scraped_at": "2026-09-13T19:07:48.273732+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "1c43ae10621064f6",
-      "author": "cflthakid",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cflthakid",
-      "posted_relative": "for 2 t siden",
-      "text": "· https://freightandbarrels.substack.com/p/a-merger-that-creates-one-of-offshores",
+      "key": "c7b16208da56b999",
+      "author": "pappkrus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pappkrus",
+      "posted_relative": "for 1 t siden",
+      "text": "Og med tanke på snø, det er mye rognebær i år. Det store spørsmålet er om buska bærer tungt to ganger eller ikke...?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://freightandbarrels.substack.com/p/a-merger-that-creates-one-of-offshores"
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "f070ce4e65ad44ab",
+      "author": "GoLuckyOrGoBroke",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/goluckyorgobroke",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Vil aksjekursen stige eller synke etter fusjonen med Ventura Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
-      "char_count": 81,
-      "has_link": true
+      "links": [],
+      "char_count": 80,
+      "has_link": false
     }
   ]
 }

@@ -1,38 +1,25 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-13T16:45:18.394885+00:00",
+  "scraped_at": "2026-09-13T19:05:58.245509+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "b4067be47bf1c36b",
-      "author": "Fred1906",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fred1906",
+      "key": "2f31c97ea7b97b10",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
       "posted_relative": null,
-      "text": "9. sep. Har Fearnley Securities kommey med et nytt kursmål er nylig? Siste jeg har på de er fra i mai måned.....",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 112,
-      "has_link": false
-    },
-    {
-      "key": "c3f5941a320ebc0d",
-      "author": "Moeninc",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moeninc",
-      "posted_relative": null,
-      "text": "9. sep. Blir det av utbytte her?",
+      "text": "9. sep. · https://newsweb.oslobors.no/message/681801",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
+      "engagement_numbers": [],
+      "links": [
+        "https://newsweb.oslobors.no/message/681801"
       ],
-      "links": [],
-      "char_count": 32,
-      "has_link": false
+      "char_count": 52,
+      "has_link": true
     }
   ]
 }
