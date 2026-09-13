@@ -1,9 +1,25 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-09-13T22:00:05.845827+00:00",
+  "scraped_at": "2026-09-13T23:50:58.660690+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b329e696b213fb83",
+      "author": "BorseBørs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
+      "posted_relative": null,
+      "text": "10. sep. Er nok lurt å sitte på denne nå som renta skal opp, bank og forsikringsbransjen tjener seg store og fete på det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    }
+  ]
 }
