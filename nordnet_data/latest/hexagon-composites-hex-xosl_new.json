@@ -1,9 +1,23 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-13T02:00:26.781591+00:00",
+  "scraped_at": "2026-09-13T07:06:00.533776+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3d98e94a69b16f64",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 48 min siden",
+      "text": "Dette er en utvikling jeg liker",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

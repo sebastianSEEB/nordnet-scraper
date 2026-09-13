@@ -1,9 +1,27 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-09-13T01:57:37.527614+00:00",
+  "scraped_at": "2026-09-13T07:03:08.410382+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0f8cbfc211b904d7",
+      "author": "LongLearning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longlearning",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.vg.no/nyheter/i/Ok954k/houthiene-stormer-frem-76-000-mennesker-paa-flukt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.vg.no/nyheter/i/Ok954k/houthiene-stormer-frem-76-000-mennesker-paa-flukt"
+      ],
+      "char_count": 84,
+      "has_link": true
+    }
+  ]
 }
