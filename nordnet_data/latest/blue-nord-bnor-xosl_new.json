@@ -1,9 +1,54 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-14T08:16:24.320723+00:00",
+  "scraped_at": "2026-09-14T09:19:42.142257+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "178a311174654e73",
+      "author": "KjekkenKjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
+      "posted_relative": "for 54 min siden",
+      "text": "I dag kan vel faktisk nærme oss 600 og 610 kanskje, noe som tilsvarer ATH for 2026. Ser vi flere år tilbake er ATH 709, men selv det er vel ikke umulig å slå hvis denne utviklingen i midt østen fortsetter.  I løpet av uken kanskje? Hva tenker folk?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 248,
+      "has_link": false
+    },
+    {
+      "key": "4f1e120d52df96fc",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 1 min siden",
+      "text": "Sikkert gunstig å kjøpe blue nord til mere spenn får du ved fusjonen med vår energi vil jeg anta👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "1e12bea4d5600406",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": "for 40 min siden",
+      "text": "Hva er mest gunstig å kjøpe no BN eller VAR?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

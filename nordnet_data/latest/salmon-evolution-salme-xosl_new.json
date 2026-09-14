@@ -1,39 +1,69 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-14T08:22:56.599140+00:00",
+  "scraped_at": "2026-09-14T09:25:53.530961+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "fdd3b45e921cada2",
-      "author": "J44RS4",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/j44rs4",
-      "posted_relative": "for 48 min siden",
-      "text": "https://e24.no/naeringsliv/i/V65V33/roekkes-krillsjef-advarer-sunn-mat-blir-dyrere",
+      "key": "e6d18b75864dd39c",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 8 min siden · Endret",
+      "text": "Annen ulempe med at småaksjonærer har prismakt, er at profesjonelle stryker case fra listen sin (selskapet kan miste tilgang på kapital). Opplagt at profesjonelle ikke selger på dagens kurs.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://e24.no/naeringsliv/i/V65V33/roekkes-krillsjef-advarer-sunn-mat-blir-dyrere"
-      ],
-      "char_count": 82,
-      "has_link": true
+      "links": [],
+      "char_count": 190,
+      "has_link": false
     },
     {
-      "key": "4e9449c4a1b740fa",
-      "author": "Wian",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wian",
-      "posted_relative": "for 1 t siden",
-      "text": "Slik er det på høsten etter all slaktingen på sommeren, så dabber det av mot vinteren. Oppdrett er syklisk slik sett. Prisene tar seg nok opp i tiden som kommer.",
+      "key": "eed8b7e892848140",
+      "author": "Monim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monim",
+      "posted_relative": "for 51 min siden",
+      "text": "Aksjen kan fint falle 50 prosent til. Alt for høy gjeldsgrad. Man skal ha sikkelig tro på ledelsen for at det skal være noe oppside…",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        1,
+        6
       ],
       "links": [],
-      "char_count": 161,
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "2c12d724e3adfd6f",
+      "author": "caddy2010",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/caddy2010",
+      "posted_relative": "for 18 min siden",
+      "text": "Kjøpte meg opp alt for tidlig i dag, på 3,36.  Ein får sitte rolig, lenge,lenge🤘😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "673943c7ec5aff53",
+      "author": "Godfisk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/godfisk",
+      "posted_relative": "for 29 min siden",
+      "text": "Her er det jo bare å doble snart :) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 55,
       "has_link": false
     }
   ]

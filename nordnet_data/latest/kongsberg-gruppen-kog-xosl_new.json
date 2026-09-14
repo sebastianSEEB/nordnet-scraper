@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-14T08:20:31.328465+00:00",
+  "scraped_at": "2026-09-14T09:23:32.060486+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "60b2de5019c2c3f0",
+      "author": "StopLossSurvivor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stoplosssurvivor",
+      "posted_relative": "for 54 min siden",
+      "text": "· har noen innholdet i denne artikkelen https://www.finansavisen.no/finans/2026/09/13/8379895/sondagens-aksjetips-kongsberg-gruppen-opp-eller-ned?internal_source=aksjeanalyse",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/13/8379895/sondagens-aksjetips-kongsberg-gruppen-opp-eller-ned?internal_source=aksjeanalyse"
+      ],
+      "char_count": 174,
+      "has_link": true
+    },
+    {
+      "key": "3e6b1963d4209dd7",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 59 min siden",
+      "text": "Dersom Kongsberg lykkes med det nye missilet, så kommer denne til å gå som ei kule. Patriot er dyre. USA har solgt patriot for over 300 milliarder de siste 5år, pluss egen bestilling på flere hundre milliarder. Ett godt alternativ her, blir knall.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 247,
+      "has_link": false
+    }
+  ]
 }

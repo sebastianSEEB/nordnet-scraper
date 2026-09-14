@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-14T08:23:07.875183+00:00",
+  "scraped_at": "2026-09-14T09:26:04.805104+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c63d44628f9576f0",
+      "author": "iamelg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iamelg",
+      "posted_relative": "for 25 min siden",
+      "text": "Har noen tro på at KOA kan nå kurser på 2006 nivåer?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "46e2dec346f73033",
+      "author": "Drwhat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drwhat",
+      "posted_relative": "for 12 min siden",
+      "text": "Det enkle svaret er Nei.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

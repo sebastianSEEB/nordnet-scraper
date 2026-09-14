@@ -1,118 +1,127 @@
-# Nordnet-rapport (2026-09-11T11:56:38.027247+00:00)
+# Nordnet-rapport (2026-09-14T09:27:23.078409+00:00)
 
-# Aksjeforum-analyse — Nordnet Social
+# Aksjeforum-analyse — Maritime aksjer og kryssegment-funn
 
-## RÅOLJETANK-SEGMENT (kryssegment: Frontline, Okeanis, Hunter Group, Capital Tankers, DHT)
-
-### Okeanis Eco Tankers (OET) — **Sterkt positivt signal**
-Geopolitisk krise driver ekstreme rater. Konkrete datapunkter fra forumet:
-- VLCC AG/Kina (TD3C) TCE på **862.150 dollar/dag** (torsdag), opp fra tidligere nivåer
-- V-Afrika/Kina rate opp 32% til 356.642 dollar/dag
-- Rykte om Sinokor VLCC fikset AG-East på WS1350 (~1 million dollar/dag)
-- OET har angivelig 4 VLCC-er i skytteltrafikk gjennom Hormuzstredet siden 09.08 med kraftig forhøyede rater
-- Irak har anbud ute på 2+ VLCC-er for skytteltrafikk gjennom Hormuz (180 dager)
-- Forumbruker (ks1977) estimerer at Q3 vil slå Q2, og Q4 kan bli enda sterkere hvis krigen fortsetter
-- Geopolitisk risiko eskalerer: Houthi har tatt Mocha og kontroll over Bab el-Mandeb-stredet, mulig angrep på Saudi East-West-pipeline
-- To tankskip truffet langs Oman-ruten
+## RÅOLJETANKERE (tank_raaolje)
 
 ### Frontline (FRO) — **Sterkt positivt signal**
-- Aksjen opp nesten 97% i år, handlet rundt 446 kr
-- Ekstreme spotrater bekreftet av samme Hormuz/Rødehavs-dynamikk som OET
-- Mulig angrep på Saudi East-West-pipeline til Yanbu kan ytterligere presse rater
-- Diskusjon om AI-analyse som antyder 50-100% rateoppgang mulig i 2027 pga strammere marked
+Ekstreme markedsforhold dominerer tråden. Nøkkelpunkter:
+- **VLCC-rater på historiske toppnivåer**: WS 423+ på TD15 (Vest-Afrika-Kina), tilsvarende TCE på $400-450k+/dag. Enkeltmeldinger om fixtures på over $1 million/dag (Kuwait Prosperity, Sinokor-operert, WS 1350) og TC-avtaler på $250-531k/dag for enkeltskip (Front Otra/Cosmo Vitol).
+- **Ekstraordinært utbytte**: $0,80/aksje i tillegg til ordinært utbytte på $2,61/aksje for Q2 2026 (totalt $3,41), knyttet til salg av 2 VLCC-er for $270m. Ex-dato 17-18. september.
+- **Geopolitisk eskalering driver ratene**: Satellittbilder viser skade på Saudi-Arabias øst-vest oljerørledning (8+ treffsteder ifølge kilder), reparasjon kan ta lengre enn en måned pga. mangel på reservedeler. Houthi-militsen kontrollerer nå hele Jemens rødehavskyst. Dette skaper «pinefull balanse» som holder rater oppe (DN-referanse).
+- Aksjen opp 106% hittil i år på Oslo Børs.
+- Enkelte brukere tar gevinst («142% avkastning, tid for å selge»), men markedskonsensus i tråden er fortsatt bullish på kort sikt.
 
-### Hunter Group (HUNT) — **Positivt signal, men modererende**
-- Aksjen opp 47% siden 26.08, kraftig VLCC TD3C-rateøkning (+76k til 862k)
-- En bruker (MarkusEmla) advarer om at oppgangen kan være overdrevet ift. FFA-basert modellverdi (~19 kr), har solgt seg ut
-- Blandet: sterk momentum men noen tegn til gevinstsikring
+### Okeanis Eco Tankers (OET) — **Sterkt positivt signal** (samme drivere som FRO)
+- Detaljert flåteoppdatering viser fortsatt skytteltrafikk gjennom Hormuz-stredet for flere VLCC-er, samt Suezmax-skip i/på vei til Svartehavet.
+- Refererer samme rekordrater (Clarksons: $1m/dag for Gulf-Kina-tur).
+- Lindsey Graham-sanksjonslov mot Russland-relatert olje kan øke press ytterligere.
 
-### Capital Tankers Corp (CAPT) — **Ingenting nevneverdig / spekulativt**
-- AI-basert sammenligning med FRO antyder potensial til 250-360 kr avhengig av rateforutsetninger, men rent spekulativt regnestykke, ingen konkret nyhet
+### Capital Tankers Corp (CAPT) — **Positivt signal**
+- Suezmax-rater hoppet ~30% til $304.000/dag rett før helgen, Aframax opp ~28% til $129.000/dag.
+- Flåtesammensetning (1 VLCC, 6 Suezmax, resten mindre) gjør selskapet godt posisjonert for Rødehavsomruting da Suezmax kan seile gjennom Suez uten laste-restriksjoner som VLCC.
+- Bruker bemerker at CAPT stiger mindre enn andre tank-aksjer til tross for gode rater — mulig undervurdert i markedet.
 
-### DHT (nevnt i OET-tråd) — kryssreferanse
-- DHT fikk 434k dollar/dag på subs, laster fra Oman — bekrefter samme temaer som OET
+### Hunter Group (HUNT, xoas) — **Sterkt positivt signal** (read-across til tank_raaolje)
+- Ekstreme VLCC-spotrater (TD3C TCE opp til $982k/dag ifølge en bruker) driver kraftig kursoppgang.
+- FFA-verdi estimert til 20,30 kr ved full betaling.
+- Selskapet leier inn skip til ca. $50.000/dag og leier ut til markedsrater — tidsbegrenset case med utbytter frem til desember 2026/mars 2027.
 
----
+### Blue Nord (BNOR) — relevant via kryssgeopolitikk
+- Saudi-Arabia stenger oljerørledning etter angrep — mulig ATH-testing (600-610 kr).
 
-## CONTAINER-SEGMENT
+### DNO — **Positivt signal** (olje E&P, ikke tank, men samme geopolitiske driver)
+- Spotpris kryssete $107+, «rekordkvartal» ventet.
+- Nordsjøen-eksponering gir DNO full spotpris-eksponering på gass, delvis hedget olje.
+
+### OKEA — **Positivt signal** (samme geopolitiske driver)
+- Detaljert analyse viser ~65-70% hedget olje (collar $75-85), 70% hedget gass til høyere pris, men betydelig spoteksponering gir «ekstreme» inntekter i nåværende marked.
+
+## PRODUKT-/KJEMIKALIETANKERE (tank_produkt_kjemikalier)
+
+### Hafnia (HAFNI) — **Positivt signal**
+- VLCC-rater fra Persiabukten opp over 50% på et par uker (~$760.000/dag), LR2-rater til Asia rundt $200.000/dag (+30%), MR-rater i Østen opp nesten 100%.
+- Pareto Securities oppjusterte Hafnias NAV-estimat til 85 kr/aksje (fra 78 kr) basert på økt verdsettelse av sammenlignbare produkttank-skip (to MR-skip solgt 10% over meglerhusanslag).
+- Spekulasjon om mulig konsolidering med TORM (Hafnia eier 13,97% av TORM), forsterket av lederbytte (tidligere TORM-CEO Mikael Skov inn i Hafnia-styret 23. september).
+- Handelen i aksjen ble tilsynelatende stoppet en kort periode (uklar årsak).
+
+## GASS (LPG/LNG)
+
+### BW LPG (BWLPG) — **Sterkt positivt signal**
+- **Pareto oppgraderte BW LPG fra hold til kjøp 10. sep, kursmål hevet til 262 kr (fra 205 kr)** — begrunnet med tørkerestriksjoner i Panamakanalen som tvinger LPG-skip til lengre ruter (Sør-Afrika/Sør-Amerika), strammer skipstilgjengelighet betydelig.
+- SB1 Markets satte også kjøp med kursmål 250 kr (opp fra hold), viser til «eksepsjonelle» VLGC-spotrater på USA-Asia-ruten.
+- Panamakanal-passeringer redusert til 27/dag (fra normalt 36), auksjonspriser for slusepassering opp til $1,25m (fra snitt $253k).
+- To analytikerhus oppgraderer samtidig innen kort tid — sterkt signal.
+
+### Klaveness Combination Carriers (KCC) — **Positivt signal**
+- Pareto hevet kursmål til 115 kr (fra 110), gjentar kjøp.
+- CLEANBU-segmentet drar nytte av stramt produkttankmarked: TCE opp fra $37.311/dag (Q1) til $42.243/dag (Q2 2026).
+- Innsidekjøp nevnt: tre navngitte investorer («bjellesauer») kjøpte aksjer for 27 mill kr etter panikksalg 3. september.
+
+### ALNG — **Positivt signal** (kvalitativt, ingen konkrete tall)
+- Bruker fremhever ny tradingdesk (11 personer), lave gasslagre inn mot vinter, LNG-marked i ferd med å absorbere nybygg-kapasitet.
+
+## TØRRBULK
+
+### Himalaya Shipping (HSHP) — **Positivt signal**
+- Nytt månedsutbytte $0,25 (opp fra $0,22), omtalt som rekordnivå av bruker.
+- Baltic Capesize Index (BCI) opp til 53.750 (+242), MTD 50.810, YTD 32.188.
+
+### Jinhui Shipping (JIN) — **Blandet/svakt positivt signal**
+- Høyeste omsetning siden mars 2026, teknisk bilde omtalt som forbedret, men fortsatt lav generell likviditet.
+
+### CMB.TECH (CMBTO) — **Blandet**
+- Diskusjon om supersyklus i tørrbulk (Svelland-intervju: Guinea-bauksitt/jernmalm-eksport driver tonnmil-vekst), men Fearnley nedgraderte til hold (uklar begrunnelse ifølge bruker), og «SS-kostnad» (special survey) nevnt som utfordring for eldre tonnasje.
+
+### Western Bulk Chartering (WEST) — **Ingenting nevneverdig nytt**
+
+## CONTAINER
 
 ### MPC Container Ships (MPCC) — **Blandet signal**
-- DNB fortsetter negativ dekning (upresisert hvorfor), ifølge frustrert forumbruker
-- NewContex-indeksen (feeder containerskip) satt ny 45-årsrekord, opp til 1644 poeng, +10,7% i 2026 — strukturelt positivt for segmentet
-- Spekulasjon om mulig oppkjøpsbud (30-40 kr-nivå diskutert), ingen bekreftelse
-- Houthi-kontroll over Bab el-Mandeb nevnt som mulig positiv for rater (omseiling)
-- Mærsk-sjef antyder økt oppkjøpsvilje i logistikk — indirekte relevant for containersektoren generelt
+- Positivt: Harpex opp 5 poeng siste uke, «rekordslag» i fraktrater fra Kina ifølge e24-artikkel.
+- Negativt: Bruker peker på at 99% av kapasitet er låst til 2026 (85% for 2027) på lange charter — selskapet har derfor lav direkte rate-eksponering. Utbytte kuttet (fra $0,42 til $0,23 til ~$0,16) pga. bevisst policy-endring (75%→50% payout) for å finansiere vekst.
+
+## BILFRAKT/RORO
+
+### Höegh Autoliners (HAUTO) — **Positivt signal**
+- **Pareto Securities oppgraderte fra hold til kjøp 13. sep, kursmål 202 kr (13% oppside)**.
+- August-handelsrapport: fraktpris $97,8/cbm (+1,3% mot 3-mnd snitt), CEO kommenterer «stabile fraktpriser» tross sesongmessig volumnedgang.
+
+### Wallenius Wilhelmsen (WAWI) — **Positivt signal** (read-across fra HAUTO)
+- Pareto Securities hevet kursmål til 204 kr (fra 166), gjentar kjøp.
+- Merk: WAWI tas UT av OBX-indeksen fra 21. september (sammen med Bakkafrost, Dof Group, Protector) — kan gi kortsiktig teknisk salgspress fra indeksfond.
+
+## OFFSHORE/SPESIALISERT
+
+### DOF Group (DOFG) — **Blandet**
+- Ekskludert fra OBX-indeksen — bekymring for redusert likviditet og økt volatilitet nevnt av flere brukere.
+- Positivt: Danske Banks analysesjef inkluderte DOF som ett av åtte topp-valg (8. sep).
+
+### Akastor (AKAST) — **Positivt signal**
+- Datterselskap AKOFS Offshore refinansierer med $300m revolverende kredittfasilitet (DNB + Sparebank 1 Sør-Norge), utøver samtidig kjøpsopsjon på «Aker Wayfarer» for $57,7m — omtalt av bruker som «ren innbruddspris» gitt ny 4-års kontrakt med Petrobras (fra Q3 2027).
+
+### Odfjell Drilling (ODL) — **Sterkt positivt signal** (ikke i segment-metadata, men offshore-relevant)
+- **DNB Carnegie hevet kursmål til 120 kr, gjentar kjøp** — ny 3-års kontrakt for Deepsea Bergen med Vår Energi verdt $518m (~$475k/dag).
+- SB1 Markets har ODL som topp-valg i sektorrapport, ser 12% direkteavkastning fra utbytte.
+- To analytikerhus positive samme uke — solid signal, men ikke «urgent» nivå (ingen sammenslåing/oppkjøp).
+
+### General Oceans / Fjord Defence-relatert (offshore forsvar) — **Ingenting nevneverdig nytt utover generell frustrasjon over kommunikasjon**
+
+## KRYSSEGMENT-FUNN (viktigst)
+
+**Geopolitisk hendelse dominerer hele tank/olje-komplekset:**
+Saudi-Arabias øst-vest oljerørledning er skadet/sabotert (satellittbilder viser røyk, 8+ treffsteder rapportert), reparasjon kan ta lengre enn en måned. Samtidig kontrollerer Houthi-militsen nå hele Jemens rødehavskyst, som øker risiko i Bab-el-Mandeb-stredet. Dette har skapt en «perfekt storm» for råoljetankere:
+- VLCC-rater i uhørte nivåer (WS 423-929+, TCE opp mot $1m/dag i enkelttilfeller)
+- Suezmax og Aframax også kraftig opp (CAPT-relevans)
+- Skaper indirekte tonnmil-økning for hele tank-segmentet pga. omlastinger (STS) og lengre ruter
+- LPG/LNG-segmentet (BW LPG) påvirkes av lignende mekanisme via Panamakanal-restriksjoner (tørke) som tvinger VLGC til lengre ruter rundt Afrika — helt separat driver, men gir samme effekt (økt tonnmil, strammere marked)
+
+Dette er en klassisk «kryssegment_hendelse» fra metadataen: Hormuz/Rødehavet-uro rammer råoljetankere mest direkte, men skaper ringvirkninger til produkttank (Hafnia) og gjennom Panama-restriksjoner til gass (BW LPG). Alle tre segmenter viser samtidig kraftig rateoppgang.
+
+**Møte om Hormuz-stredet utsatt**: Planlagt møte i Oman mandag mellom Golfstatene og Iran ble utsatt — indikerer fortsatt lav sannsynlighet for rask de-eskalering, støtter fortsatt høye rater på kort/mellomlang sikt.
+
+**OBX-indeksendringer (21. september)**: Bluenord, Aker og TGS inn i OBX; Bakkafrost, DOF Group, Protector Forsikring og Wallenius Wilhelmsen ut. Dette kan skape kortsiktig teknisk kjøps-/salgspress i disse aksjene uavhengig av fundamentale forhold.
 
 ---
 
-## OFFSHORE/SPESIALISERT-SEGMENT
-
-### SED Energy Holdings (ENH) — **Sterkt signal (blandet, urgent-kandidat)**
-- **Bekreftet fusjon**: Energy Holdings skal kjøpe 100% av Ventura Offshore, bytteforhold 5,50x SED-aksjer per Ventura-aksje
-- Ventura-aksjonærer får ~45%, SED-aksjonærer ~55% av kombinert selskap
-- Implisert pro forma egenkapitalverdi ~1 mrd USD
-- DNB Bank har committed til 250 mill USD bridge-facility + utvidet revolving credit
-- Forventet fullført Q1 2027, betinget av godkjenninger
-- Markedsreaksjon negativ på kort sikt (utvanning), men flere forumbrukere og analytikere (ifølge Finansavisen-lenke) mener det er positivt for begge aksjonærgrupper på sikt
-- En bruker med detaljert FCF-modell hevder «absurd god avtale» med direkteavkastning 15-25% 2027-2029
-
-### Prosafe (PRS) — **Positivt signal**
-- DNB har økt belåningsgrad på Prosafe fra 30% til 50%, tolkes som tillitssignal
-- Store blokkhandler (250-500k aksjer) rundt 5,4-5,44 kr
-- Nova/Vega-kontrakter nevnt som mulig oppside-katalysator
-
-### DOF Group (DOFG) — **Ingenting nevneverdig / nøytralt**
-- Danske Bank har DOF som topplukk (Finansavisen-artikkel fra tidligere), ingen ny utvikling denne runden
-- Diskusjon om mulig konsolideringsrolle etter Subsea7/Saipem-fusjon, men ingen konkrete rykter om bud på DOF
-
-### Solstad Offshore (SOFF) — **Ingenting nevneverdig**
-- Kun teknisk kommentar om kursnivå rundt 70 kr
-
-### CMB.TECH (CMBTO) — **Ingenting nevneverdig**
-- Kun en avsluttet meningsmåling CMBTO vs FRO, ingen substansielle nyheter
-
----
-
-## ANDRE OLJE-/ENERGIRELATERTE AKSJER (indirekte relevant for rateeksponering)
-
-### Vår Energi (VAR) — **Positivt signal**
-- Goldman Sachs har hevet kursmål fra 53 til 68 NOK, reiterert kjøp
-- Brent over 107-109 dollar/fat, mulig sabotasje av Saudi East-West pipeline (delvis ubekreftet)
-- Houthi tar kontroll over Bab al-Mandeb
-
-### DNO — **Blandet signal**
-- Sterke fundamentale forhold (høy olje/gasspris) men aksjen henger ikke med i oppgangen, frustrasjon i forumet over manglende korrelasjon
-
-### Panoro Energy (PEN) — **Positivt signal**
-- Oljepris nærmer seg 110 dollar, Houthi tar kontroll over Bab el-Mandeb (Finansavisen-artikkel)
-- Bruker anslår «hundrevis av millioner» i inntjening H2 2026 og 2027
-
----
-
-## KONGSBERG MARITIME (KMAR) — **Positivt signal**
-- Kontrakt med australsk marine: 4 Kamewa Steel Series vannjeter til hver av 18 fartøy i ny Landing Craft Medium-klasse (totalt 72 enheter) — betydelig kontraktsvolum nevnt av forumbruker, men **ikke bekreftet i børsmelding** samme dag ifølge annen bruker
-
----
-
-## KRYSSEGMENT-FUNN
-
-**Hormuzstredet/Rødehavet-krisen dominerer hele råoljetank-segmentet:**
-- Samtlige råoljetank-aksjer (FRO, OET, HUNT, CAPT, DHT) drar nytte av samme dynamikk: ekstreme VLCC-rater (opp mot 862k-1 million dollar/dag på enkelte ruter), Houthi-kontroll over Bab el-Mandeb, mulige angrep på Saudi-pipeline, Irak-anbud på skytteltrafikk-tankere.
-- Dette er samme kryssegment-hendelse beskrevet i metadata: Hormuz-uro rammer råoljetank mest direkte, med ringvirkninger til gass (LPG/LNG) og øvrig tank via Rødehavet/Suez-omseiling.
-- KCC (gass/kombinasjonsbulk) nevner eksplisitt at Bab el-Mandeb-utviklingen kan gi «høyere produkttankrater» via økt tonn-mil — bekrefter kryssdynamikken.
-- MPCC (container) nevner samme Houthi/Bab el-Mandeb-sak som mulig positiv rate-driver via omseiling.
-- KID (ikke-shipping, forbruksvarer) spør om Bab al-Mandeb-risiko for egen leveransekjede — indikerer at bekymringen har spredt seg utover rene shipping-aksjer.
-
-**Vurdering:** Dette er en pågående, eskalerende geopolitisk krise (Iran/Hormuz/Rødehavet) som påvirker hele råoljetank-segmentet og har spredningseffekter til gass/kjemikalietank og container. Ratene som rapporteres (600k-1 million dollar/dag på enkelte VLCC-ruter) er ekstraordinære og udiskutable som markedsdrivende faktum, uavhengig av enkeltbrukeres tolkning.
-
----
-
-## ØVRIGE NEVNEVERDIGE FUNN (utenfor maritim sektor)
-
-- **Tomra (TOM):** Kraftig short-interesse (~10 mill aksjer, ~1 mrd NOK), men også solid Q2-rapport (omsetning €405m mot ventet €376m, EBITA €57m mot ventet €48m). Blandet signal — short-press vs fundamental styrke.
-- **Norwegian Air Shuttle (NAS):** Negativt signal — høy oljepris/jetfuel-pris presser marginer, aksjen ned mot 1-års lav.
-- **Autostore (AUTO):** THL har redusert eierandel til 24,9% (rett under flaggegrense), tolkes som porteføljeteknisk snarere enn negativt signal om selskapet. Flere nye ordrer (Storbritannia, Saudi-Arabia) — positivt signal.
-- **SalMar (SALM):** BofA oppgraderer fra underperform til kjøp, kursmål hevet fra 500 til 650 kr — positivt signal.
-- **Kongsberg Gruppen (KOG):** Investerer 60-70 mill kr i 3D-printing for missilutvikling (Tyrfing) — bekreftet i offisiell pressemelding, moderat positivt signal.
-
-Dette er en signalrapport basert på forumaktivitet, ikke en kjøps- eller salgsanbefaling.
+*Dette er en signalrapport basert på forumaktivitet, ikke en kjøps- eller salgsanbefaling.*
