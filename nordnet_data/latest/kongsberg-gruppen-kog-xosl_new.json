@@ -1,71 +1,24 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-14T13:24:39.034526+00:00",
+  "scraped_at": "2026-09-14T15:28:29.258415+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "41734c2aa71fbdfe",
-      "author": "Khushal",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/khushal",
-      "posted_relative": "for 27 min siden",
-      "text": "Her er en teknisk analyse av KOG https://aksjekompass.no/aksje/kongsberg-gruppen?nordnet",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://aksjekompass.no/aksje/kongsberg-gruppen?nordnet"
-      ],
-      "char_count": 88,
-      "has_link": true
-    },
-    {
-      "key": "bce6035bfcf3cdd3",
-      "author": "Dogbaybeast",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dogbaybeast",
-      "posted_relative": "for 3 t siden",
-      "text": "https://www.tv2.no/nyheter/beklaget-for-seremoni-det-har-vaert-en-crazy-dag/19221595/",
+      "key": "ea88957a659b952c",
+      "author": "Jackpac",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpac",
+      "posted_relative": "for 1 t siden",
+      "text": "Deutsche Bank har satt et kursmål på NOK 360",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4,
-        2
-      ],
-      "links": [
-        "https://www.tv2.no/nyheter/beklaget-for-seremoni-det-har-vaert-en-crazy-dag/19221595/"
-      ],
-      "char_count": 85,
-      "has_link": true
-    },
-    {
-      "key": "5abe7332d657ff11",
-      "author": "Jadevadeja",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
-      "posted_relative": "for 3 t siden",
-      "text": "Jeg tror denne er klar til bruk i vinter. Ukraina har vist flere ganger at de er mye kjappere en alle andre. Så er det faktisk vitalt for dem å få dette opp å gå før vinteren biter kraftig tak.",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 193,
-      "has_link": false
-    },
-    {
-      "key": "6234b976f3befbba",
-      "author": "Gullfisk_1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
-      "posted_relative": "for 2 t siden",
-      "text": "Da kjøres det inn en ny inngang i KOG. Merkelig at ikke investorene stoler mer på oppgangen som alle analytikerne ser komme mot de neste kvartalene.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        7,
-        10
+        5
       ],
       "links": [],
-      "char_count": 148,
+      "char_count": 44,
       "has_link": false
     }
   ]

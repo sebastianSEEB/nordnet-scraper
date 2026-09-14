@@ -1,37 +1,54 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-14T13:23:47.138741+00:00",
+  "scraped_at": "2026-09-14T15:27:39.113315+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "3ead8b0b6aafc6b1",
-      "author": "Hestebråten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hestebraten",
+      "key": "97dcef0acc3c31e6",
+      "author": "aspeløv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
       "posted_relative": null,
-      "text": "10. sep. · Endret Nå er jeg godt fornøyd med å ha hatt is i magen og blei med igjennom hele forrige opptur og nedtur, med gode påfyll under den siste. Det senket GAV noe til under midt på 30 tallet og gir nå solid avkastning, selv sett over 3 og 5 år.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 251,
-      "has_link": false
-    },
-    {
-      "key": "c12735ba9e26646e",
-      "author": "cardiff",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cardiff",
-      "posted_relative": null,
-      "text": "10. sep. Gratulerer med god fortjeneste til nå i Skogen TorHoldig!",
+      "text": "10. sep. · Endret jeg tror ikke det er traderne som tar gevinst, de vet at når aksjen har passert klatret over en ny tikroning, så vil det ikke ta lang tid før lursen er på 56-57 kroner, den oppgangen vil de selvsagt ha med seg da gjenstår \"the usual suspects\", men klarer de å senke kursen under 50, jeg tror ikke det, og om de skulle klare det så blir det som å pisse i buksa når man fryser  auksjonen blir spennende, men ikke avgjørende",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 66,
+      "char_count": 439,
+      "has_link": false
+    },
+    {
+      "key": "3e95c2e260289b27",
+      "author": "cardiff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cardiff",
+      "posted_relative": null,
+      "text": "10. sep. · Endret Skal vi se en ny test av kurs 50, men denne gangen fra oven, eller er det kun noen utålmodige som skal sikre seg en god gevinst etter kursoppgangen de siste dagene? Jeg heller til å tro at enkelte ser seg tjent med med en rask gevinst her, forståelig nok etter noen gode dager uten positive nyheter/meldinger…….",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 329,
+      "has_link": false
+    },
+    {
+      "key": "329bb3335aab9974",
+      "author": "TorHoldig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torholdig",
+      "posted_relative": null,
+      "text": "9. sep. Høyste close siden april 2023 i dag! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 64,
       "has_link": false
     }
   ]

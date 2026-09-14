@@ -1,9 +1,41 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-14T13:22:14.804179+00:00",
+  "scraped_at": "2026-09-14T15:26:03.961645+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bb8cd7a9e2edb2c6",
+      "author": "Giskaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
+      "posted_relative": null,
+      "text": "10. sep. · https://www.d-matrix.ai/announcements/d-matrix-rackscale-nvidia/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        14
+      ],
+      "links": [
+        "https://www.d-matrix.ai/announcements/d-matrix-rackscale-nvidia/"
+      ],
+      "char_count": 75,
+      "has_link": true
+    },
+    {
+      "key": "197f29962bd9d180",
+      "author": "Ponfire67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ponfire67",
+      "posted_relative": "for 44 min siden",
+      "text": "Nei, ser ikke slik ut😶",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

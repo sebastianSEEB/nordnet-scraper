@@ -1,39 +1,51 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-14T13:27:17.466406+00:00",
+  "scraped_at": "2026-09-14T15:31:07.787430+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "9923201062f7166d",
+      "key": "88b20c89cdfcf668",
       "author": "Svendsen1953",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svendsen1953",
-      "posted_relative": "for 1 t siden",
-      "text": "Det er mye positivt skrevet om KA.  Dog er realiteten en seigpining nedover i kurs. Nå må det snart komme noe positivt. Dersom ikke, er jeg redd for at kursen bare fortsetter ned.",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er mye positivt skrevet om KA.  Dog er realiteten en seigpining nedover i kurs. Nå må det snart komme noe positivt. Dersom ikke, er jeg redd for at kursen bare fortsetter ned. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        1,
+        3
       ],
       "links": [],
-      "char_count": 179,
+      "char_count": 199,
       "has_link": false
     },
     {
-      "key": "3d7f45f434d9a218",
-      "author": "Stretford End",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stretford-end",
-      "posted_relative": "for 3 t siden",
-      "text": "KOA skal nok sakte men sikkert opp før Q3-tallene....",
+      "key": "46385b6dd01b7cd4",
+      "author": "Isklump",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isklump",
+      "posted_relative": "for 15 min siden",
+      "text": "Kan godt komme dit, men da må det reduseres antall aksjer på markedet.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 53,
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "6b0ebb762957a6d9",
+      "author": "Isklump",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isklump",
+      "posted_relative": "for 16 min siden",
+      "text": "Må nok vente til Q-rapport",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
       "has_link": false
     }
   ]

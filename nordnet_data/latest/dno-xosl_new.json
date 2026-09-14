@@ -1,65 +1,9 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-14T13:23:11.889224+00:00",
+  "scraped_at": "2026-09-14T15:27:02.382851+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 4,
-  "posts": [
-    {
-      "key": "75ae7261aa9011a5",
-      "author": "kribbo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kribbo",
-      "posted_relative": "for 8 min siden",
-      "text": "Det blir betydelig høyere FCF for alle oljeselskaper i q3 vs q2. Til tross før høyere skatt i h2 vs h1.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 103,
-      "has_link": false
-    },
-    {
-      "key": "39d1aea1146850b2",
-      "author": "Kjell Makrell",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell-makrell",
-      "posted_relative": "for 3 t siden",
-      "text": "Iforhold  til de andre, nei. Vi skulle vært på 22 nå sett mot Eqnr",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 66,
-      "has_link": false
-    },
-    {
-      "key": "a37660e95f24e26c",
-      "author": "tospann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
-      "posted_relative": "for 29 min siden",
-      "text": "Den som venter på noe godt, venter ikke forgjeves. :-))",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 55,
-      "has_link": false
-    },
-    {
-      "key": "96de5b2d5395aad8",
-      "author": "Relax",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/relax",
-      "posted_relative": "for 2 min siden",
-      "text": "· Og???",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 7,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
