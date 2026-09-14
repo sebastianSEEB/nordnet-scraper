@@ -1,37 +1,22 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-14T15:24:53.954212+00:00",
+  "scraped_at": "2026-09-14T20:02:59.730154+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "a2758c56d932c7cc",
-      "author": "zachry250",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zachry250",
-      "posted_relative": "for 1 t siden",
-      "text": "Hvis du synes det er rett, så vent du. Litt rart å spørre om 😇",
-      "reply_count": null,
+      "key": "1f17e83b9d541956",
+      "author": "Jazad",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jazad",
+      "posted_relative": "for 3 t siden",
+      "text": "· Bekymring pga. AI-utvikling.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 62,
-      "has_link": false
-    },
-    {
-      "key": "27d93f3698857651",
-      "author": "nymski",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nymski",
-      "posted_relative": "for 1 t siden",
-      "text": "Vente med å handle til «support» på 48,40 ish?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 46,
+      "char_count": 30,
       "has_link": false
     }
   ]

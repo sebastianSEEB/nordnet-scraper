@@ -1,24 +1,41 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-14T15:28:29.258415+00:00",
+  "scraped_at": "2026-09-14T20:06:31.613598+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ea88957a659b952c",
-      "author": "Jackpac",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpac",
-      "posted_relative": "for 1 t siden",
-      "text": "Deutsche Bank har satt et kursmål på NOK 360",
+      "key": "b96815808d9ae0c4",
+      "author": "Jupixx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jupixx",
+      "posted_relative": "for 3 t siden",
+      "text": "· https://www.patriagroup.com/newsroom/news/2026/patria-toimittaa-muscl-passiivitutkajarjestelman-eurooppalaiselle-nato-jasenvaltiolle",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        2
+      ],
+      "links": [
+        "https://www.patriagroup.com/newsroom/news/2026/patria-toimittaa-muscl-passiivitutkajarjestelman-eurooppalaiselle-nato-jasenvaltiolle"
+      ],
+      "char_count": 134,
+      "has_link": true
+    },
+    {
+      "key": "48043521b1432305",
+      "author": "GLC",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glc",
+      "posted_relative": "for 53 min siden",
+      "text": "Analyser er nyttig, kursmål er det ikke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
       "links": [],
-      "char_count": 44,
+      "char_count": 40,
       "has_link": false
     }
   ]

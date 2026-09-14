@@ -1,9 +1,40 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwi-xosl",
-  "scraped_at": "2026-09-14T15:24:04.730703+00:00",
+  "scraped_at": "2026-09-14T20:02:09.431182+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b889f676dace64c9",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": "for 2 t siden",
+      "text": "Har noen tilgang til hele og kan dele? https://www.finansavisen.no/finans/2026/09/12/8355719/disse-analytikerne-har-ifolge-robert-naess-mest-rett",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/12/8355719/disse-analytikerne-har-ifolge-robert-naess-mest-rett"
+      ],
+      "char_count": 145,
+      "has_link": true
+    },
+    {
+      "key": "175b9c7762a2523b",
+      "author": "KsInvest01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ksinvest01",
+      "posted_relative": "for 24 min siden",
+      "text": "Kort fortalt er hovedpoenget: * Ikke stol blindt på kjøpsanbefalinger og høye kursmål. Både i USA og Norge har aksjene analytikerne er mest positive til, ofte ikke slått markedet. * Analytikerne ser ut til å være langt bedre til å finne taperne enn vinnerne. Robert Næss mener særlig at man bør ta det alvorlig når norske analytikere er negative til en aksje, har lave kursmål eller salgs-/holdanbefaling. * I USA viser 24 års data at en strategi med å kjøpe de mest anbefalte aksjene og shorte de minst anbefalte faktisk ville gitt rundt 30 % tap. * Det interessante er derfor ikke bare hva analytikerne samlet mener, men hvem analytikeren er. Nordea bruker ressurser på å identifisere enkelte analytikere som historisk er klart bedre enn gjennomsnittet. * Til tross for overskriften er det ingen konkrete anbefalinger i artikkelen om hvilke analytikere man bør følge.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 869,
+      "has_link": false
+    }
+  ]
 }

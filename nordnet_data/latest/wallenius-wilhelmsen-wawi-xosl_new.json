@@ -1,9 +1,38 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-14T15:24:00.111636+00:00",
+  "scraped_at": "2026-09-14T20:02:05.688772+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "51d3444ef455cf34",
+      "author": "Cool Hand",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cool-hand",
+      "posted_relative": "for 31 min siden · Endret",
+      "text": "· Jeg tillegger det ikke så stor betydning. Det kan bety at noen større eiere eventuelt må selge noe avhengig av deres investeringsmandat, men burde ikke være et problem for aksjen slik sakene står for tiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 208,
+      "has_link": false
+    },
+    {
+      "key": "46d571682d6c3ad4",
+      "author": "GriseBank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grisebank",
+      "posted_relative": "for 3 t siden",
+      "text": "· WAWI forlater OBX den 21. sept. Hva skjer videre….?😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

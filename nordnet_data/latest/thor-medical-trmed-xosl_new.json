@@ -1,51 +1,40 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-14T15:30:48.191580+00:00",
+  "scraped_at": "2026-09-14T20:08:43.642500+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "abba645e441a8d79",
+      "key": "b9d3bf5b092b7800",
+      "author": "ackrite",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ackrite",
+      "posted_relative": "for 3 t siden",
+      "text": "Her er gav på 5,77 etter å fylt på litt med emi og etterpå. Kan ikke annet enn å håpe, forvente og tro den skal videre opp snart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "4bb8e0435bdd1ad0",
       "author": "Solbakken",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solbakken",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden Aksjen balanserer nå hårfint på SMA200. Falt under SMA50 4.sept.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 92,
-      "has_link": false
-    },
-    {
-      "key": "4c0757a8d0081486",
-      "author": "Innhouse",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/innhouse",
-      "posted_relative": "for 1 t siden",
-      "text": "Studenter hjelper da. Kurtasje 1 krone.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 39,
-      "has_link": false
-    },
-    {
-      "key": "0da5eb8b5097e9dd",
-      "author": "Innhouse",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/innhouse",
-      "posted_relative": "for 3 t siden",
-      "text": "Doffen har daua... Vis 1 kommentar til",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Aksjen balanserer nå hårfint på SMA200. Falt under SMA50 4.sept. Tenker fortsatt at kr 4,40 og gap lukkes er innen rekkevidde.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        2
+        10
       ],
       "links": [],
-      "char_count": 38,
+      "char_count": 126,
       "has_link": false
     }
   ]

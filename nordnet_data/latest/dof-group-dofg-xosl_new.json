@@ -1,9 +1,38 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-14T15:25:09.628408+00:00",
+  "scraped_at": "2026-09-14T20:03:15.392857+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "48d5914aba79d8b3",
+      "author": "PerUlv83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/perulv83",
+      "posted_relative": "for 2 t siden",
+      "text": "Betaler desverre bare utbytte 4 ganger i året . Skulle gjerne vært en gang i måneden men slik er det desverre ikke :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    },
+    {
+      "key": "0d96ca2c132caae1",
+      "author": "saggiz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
+      "posted_relative": "for 3 døgn siden",
+      "text": "betaler ikke DOF utbytte lenger? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

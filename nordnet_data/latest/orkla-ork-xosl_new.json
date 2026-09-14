@@ -1,41 +1,33 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-14T15:28:58.463395+00:00",
+  "scraped_at": "2026-09-14T20:06:58.146999+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "2bf475fc90b689de",
+      "key": "0919bfbb98645f6e",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 2 døgn siden",
-      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn 26 stemmer • 4 timer igjen",
+      "posted_relative": "for 3 døgn siden",
+      "text": "når ser vi bunn Bli medlem av Nordnet Social for å se resultatene Logg inn % % % % % 27 stemmer • Avsluttet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         90,
+        37,
         86,
+        11,
         82,
+        30,
         78,
-        74
+        7,
+        74,
+        15
       ],
       "links": [],
-      "char_count": 100,
-      "has_link": false
-    },
-    {
-      "key": "8911f6adb7d93bdd",
-      "author": "Jon Hansen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jon-hansen",
-      "posted_relative": "for 1 t siden",
-      "text": "Kan være at bunnen er nådd, vanskelig og spå",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 44,
+      "char_count": 107,
       "has_link": false
     }
   ]
