@@ -1,9 +1,87 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-14T02:18:01.311190+00:00",
+  "scraped_at": "2026-09-14T08:19:02.369232+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "489ae4ed4ec8fab8",
+      "author": "BM1985",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bm1985",
+      "posted_relative": "for 2 døgn siden · Endret",
+      "text": "Hør første ti minutter av denne. Gründer av Villoid (mote på nett) snakker om hvordan autostore har forenklet lager og distribusjonen til selskapet: https://podcasts.apple.com/no/podcast/utbytte/id995845886?l=nb&i=1000789138192 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [
+        "https://podcasts.apple.com/no/podcast/utbytte/id995845886?l=nb&i=1000789138192"
+      ],
+      "char_count": 247,
+      "has_link": true
+    },
+    {
+      "key": "5f669c3fd0fc0a75",
+      "author": "PoorBastard",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/poorbastard",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Denne videoen fra Finansavisen har mange gode betraktninger om AutoStore fremover. https://www.youtube.com/watch?v=z1HrLB7gIo0 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [
+        "https://www.youtube.com/watch?v=z1HrLB7gIo0"
+      ],
+      "char_count": 146,
+      "has_link": true
+    },
+    {
+      "key": "9309b5861b8e493d",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 1 t siden",
+      "text": "Ny ekspansjon – Alliance Entertainment, USA Alliance Entertainment har utvidet sitt eksisterende AutoStore-anlegg med 5.000 ekstra bins/totes, slik at total kapasitet nå er 57.000. Utvidelsen ble bekreftet i selskapets årsrapport og resultatmelding 10. september 2026.Dette er et  bra datapunkt fordi Alliance eksplisitt sier at de fortsetter å investere i AutoStore for å håndtere økende fulfillment-volumer med høyere throughput uten tilsvarende økning i bemanning. Fulfillment-inntektene deres vokste samtidig 26 % til USD 18,6m i FY2026.Anlegget i Kentucky ble opprinnelig satt i drift i 2022/23, så dette viser den viktige land-and-expand-effekten: eksisterende AutoStore-kunder kjøper mer kapasitet når volumene vokser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 725,
+      "has_link": false
+    },
+    {
+      "key": "f4736d4a35c15b29",
+      "author": "MouthBreather",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mouthbreather",
+      "posted_relative": "for 21 min siden",
+      "text": "Dette er ikke eneste kunde som har sagt noe slik: MVE fortalte i børsmorgen at de ikke hadde livets rett om det ikke var for Autostore sine løsninger. De har blitt en nødvendighet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 180,
+      "has_link": false
+    },
+    {
+      "key": "6768579e3ca20130",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 19 min siden · Endret",
+      "text": "Det går ned over ,target 12 kr tyngdekraften er ikke å spøke med.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

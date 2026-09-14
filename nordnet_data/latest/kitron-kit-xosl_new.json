@@ -1,9 +1,27 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-14T02:15:55.370176+00:00",
+  "scraped_at": "2026-09-14T08:16:47.195345+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3afa44664e7ba7b1",
+      "author": "Valderama64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/valderama64",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/09/14/8379811/har-funnet-trygge-havner-i-syklisk-take",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/14/8379811/har-funnet-trygge-havner-i-syklisk-take"
+      ],
+      "char_count": 93,
+      "has_link": true
+    }
+  ]
 }

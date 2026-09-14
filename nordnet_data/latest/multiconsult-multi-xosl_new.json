@@ -1,9 +1,23 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-09-14T02:21:09.068791+00:00",
+  "scraped_at": "2026-09-14T08:22:07.612775+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c61986ea08a57146",
+      "author": "Tiur1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiur1",
+      "posted_relative": null,
+      "text": "10. sep. Da kommer det fram av Finansavisens oversikt at Aasulv Tveitereid har begynt å kjøpe Multi-aksjer. Ser det er snakk om en liten post på drøyt 2000 aksjer foreløpig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 173,
+      "has_link": false
+    }
+  ]
 }

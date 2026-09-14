@@ -1,9 +1,54 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-14T02:14:53.717376+00:00",
+  "scraped_at": "2026-09-14T08:15:50.208672+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "096cd544febd569c",
+      "author": "ShippingFond",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond",
+      "posted_relative": "for 2 t siden",
+      "text": "· Pareto Securities hever kursmålet for Wallenius Wilhelmsen til 204 norske kroner (166), gjentar kjøp i dag kl. 06:11 ∙ Finwire Wallenius Wilhelmsen Pareto Securities hever kursmålet for Wallenius Wilhelmsen til 204 norske kroner (166), gjentar kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        1
+      ],
+      "links": [],
+      "char_count": 250,
+      "has_link": false
+    },
+    {
+      "key": "b74940bb19ddb77b",
+      "author": "th0maza",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/th0maza",
+      "posted_relative": "for 1 t siden",
+      "text": "Enig. Fargene er det verste synes jeg. Grønne tall har alltid vært grønne, ikke blå. Forstår ikke vitsen og det burde minimum være mulig å endre dette selv.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "cd5635ac75026ae0",
+      "author": "sujarit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sujarit",
+      "posted_relative": "for 36 min siden",
+      "text": "· 🚀🚀🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

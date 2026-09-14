@@ -1,9 +1,40 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-14T02:22:01.047192+00:00",
+  "scraped_at": "2026-09-14T08:22:56.599140+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fdd3b45e921cada2",
+      "author": "J44RS4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/j44rs4",
+      "posted_relative": "for 48 min siden",
+      "text": "https://e24.no/naeringsliv/i/V65V33/roekkes-krillsjef-advarer-sunn-mat-blir-dyrere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/naeringsliv/i/V65V33/roekkes-krillsjef-advarer-sunn-mat-blir-dyrere"
+      ],
+      "char_count": 82,
+      "has_link": true
+    },
+    {
+      "key": "4e9449c4a1b740fa",
+      "author": "Wian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wian",
+      "posted_relative": "for 1 t siden",
+      "text": "Slik er det på høsten etter all slaktingen på sommeren, så dabber det av mot vinteren. Oppdrett er syklisk slik sett. Prisene tar seg nok opp i tiden som kommer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 161,
+      "has_link": false
+    }
+  ]
 }

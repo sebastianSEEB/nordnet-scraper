@@ -1,9 +1,55 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-14T02:15:59.814963+00:00",
+  "scraped_at": "2026-09-14T08:16:50.920966+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bfe723754fb21d55",
+      "author": "blacktime",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacktime",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.dn.no/utenriks/usa/iran/saudi-arabia/oljeprisene-stiger-etter-nye-angrep-gulf-mote-om-hormuzstredet-utsatt/2-1-2042934",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.dn.no/utenriks/usa/iran/saudi-arabia/oljeprisene-stiger-etter-nye-angrep-gulf-mote-om-hormuzstredet-utsatt/2-1-2042934"
+      ],
+      "char_count": 130,
+      "has_link": true
+    },
+    {
+      "key": "26bdd14f186b8960",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· The Hormuz Letter @HormuzLetter BREAKING: Reparasjoner av Saudi-Arabias øst-vestlige oljerørledning vil ta mye lengre tid enn en måned på grunn av mangel på reservedeler, med pumpeinfrastrukturen katastrofalt skadet og minst 8 steder på rørledningen truffet, ifølge innledende rapporter som siterer kilder inne i Saudi-Arabia.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 328,
+      "has_link": false
+    },
+    {
+      "key": "4096511e20507333",
+      "author": "ratata_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ratata-1",
+      "posted_relative": "for 1 t siden",
+      "text": "Trygghet er vel det åpenbare svaret? Panorama må vise at de kan levere. I tillegg kan det også bli mangel på skip fremover som kan gå ut over mindre produsenter?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 161,
+      "has_link": false
+    }
+  ]
 }

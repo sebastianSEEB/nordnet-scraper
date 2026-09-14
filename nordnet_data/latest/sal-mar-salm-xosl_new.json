@@ -1,9 +1,25 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-14T02:18:05.201001+00:00",
+  "scraped_at": "2026-09-14T08:19:06.219936+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "336a899bf9453c90",
+      "author": "Kristian Myhrex",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kristian-myhrex",
+      "posted_relative": "for 1 t siden",
+      "text": "Høy laksepris + god biologi + lave kostnader = svært høy kontantstrøm. 📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }

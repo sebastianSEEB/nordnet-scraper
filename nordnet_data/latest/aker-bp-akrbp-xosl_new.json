@@ -1,9 +1,39 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-14T02:19:27.705561+00:00",
+  "scraped_at": "2026-09-14T08:20:35.074253+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5456409bf3a4d08c",
+      "author": "Coinflipper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coinflipper",
+      "posted_relative": "for 1 t siden",
+      "text": "Er vel på tide å ta ut 360kr her og komme oss mot ATHs. Aker BP er forholdsvis svak men det ligger økt produksjon ikke veldig langt tfrem i tid som bør løfte kursen betydelig. Foreløpig ser markedet ut til å være avventende til aksjen. Jeg tror denne får en ketchup-effekt om ikke så altfor lenge men mulig man må smøre seg med tålmodighet til ut i 27’.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 353,
+      "has_link": false
+    },
+    {
+      "key": "ffe215c458c8687e",
+      "author": "ndnd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ndnd",
+      "posted_relative": "for 1 t siden",
+      "text": "Na 400 kan være en realitet innen 2027",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-09-14T02:16:57.271009+00:00",
+  "scraped_at": "2026-09-14T08:17:44.447725+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "df960364f7510585",
+      "author": "MissFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missfox",
+      "posted_relative": "for 2 t siden",
+      "text": "· Litt lektyre: https://simplywall.st/community/narratives/no/energy/ob-plsv/paratus-energy-services-shares/nifaeb4g-extended-petrobras-contracts-and-strong-backlog-will-support-future-cash-flows-and-dividends",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [
+        "https://simplywall.st/community/narratives/no/energy/ob-plsv/paratus-energy-services-shares/nifaeb4g-extended-petrobras-contracts-and-strong-backlog-will-support-future-cash-flows-and-dividends"
+      ],
+      "char_count": 209,
+      "has_link": true
+    },
+    {
+      "key": "3e38147cfbacd7c0",
+      "author": "Oljelynet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oljelynet",
+      "posted_relative": "for 22 min siden",
+      "text": "En fallende dollar er selvsagt en ulempe for den som skal levere en ytelse og får betalt i dollar uten mulighet til justering. Hvis Paratus har inngått avtaler om utleie av sine fartøyer til Petrobras uten noen klausul for sviktende dollarkurs, rammer det dem. Jeg har ikke vurdert om det er tilfelle, og om de eventuelt har noen fordeler av lån i dollar.  Bottom line, dette må vurderes individuelt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 400,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-09-14T02:18:28.508237+00:00",
+  "scraped_at": "2026-09-14T08:19:31.604953+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cf12af755a49960a",
+      "author": "kariusogbaktus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
+      "posted_relative": "for 1 t siden",
+      "text": "Forvalter satser på kvalitet og vekst: Anbefaler fem aksjer First-forvalter Jonas Heyerdahl unngår shippingsektoren og satser heller på attraktivt prisede kvalitetsselskaper med gode vekstutsikter. Sats:Begrunnelse: Selskapet utnytter store stordriftsfordeler og er svært attraktivt priset. Heyerdahl trekker frem solid kostnadskontroll og en robust balanse som gir rom for betydelig klubb-ekspansjon fremover https://www.finansavisen.no/finans/2026/09/14/8379811/har-funnet-trygge-havner-i-syklisk-take",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/14/8379811/har-funnet-trygge-havner-i-syklisk-take"
+      ],
+      "char_count": 503,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-09-14T02:18:12.861232+00:00",
+  "scraped_at": "2026-09-14T08:19:15.014998+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "907c0c16c4381616",
+      "author": "Lind2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lind2",
+      "posted_relative": null,
+      "text": "10. sep. TGS tilbage på OBX listen fra den 29-09 BØRS: BLUENORD OG CIRCIO INN I OSEBX, CLOUDBERRY OG PPI GÅR UT Close i dag kl. 06:39 ∙ TDN Finans Oslo (Infront TDN Direkt): Euronext har revidert sammensetningen i flere indekser. Endringene implementeres etter at markedet stenger fredag 18. september og trer i kraft mandag 21. september 2026. Det fremgår av en melding onsdag. I hovedindeksen (OSEBX) og fondsindeksen (OSEFX) inkluderes Bluenord og Circio Holding, mens Cloudberry Clean Energy og PPI går ut. I OBX-indeksen inkluderes Aker, Bluenord og TGS, mens Bakkafrost, Dof Group, Protector Forsikring og Wallenius Wilhelmsen går ut.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 640,
+      "has_link": false
+    }
+  ]
 }

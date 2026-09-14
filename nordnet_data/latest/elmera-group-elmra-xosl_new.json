@@ -1,9 +1,25 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-14T02:20:39.000727+00:00",
+  "scraped_at": "2026-09-14T08:21:35.958782+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "466975407432f8c1",
+      "author": "duitten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/duitten",
+      "posted_relative": null,
+      "text": "10. sep. Noen som veit når det blir utbet for oss som har akseptert budet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }
