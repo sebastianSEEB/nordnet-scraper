@@ -1,9 +1,23 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-14T20:02:55.858934+00:00",
+  "scraped_at": "2026-09-14T23:35:48.661559+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0f97ff9bf65764f2",
+      "author": "Rockeseller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rockeseller",
+      "posted_relative": "for 50 min siden",
+      "text": "Ja meget spennende. Jeg nevner noe om DealerHub i innlegget nedenfor",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }
