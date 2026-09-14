@@ -1,9 +1,25 @@
 {
   "slug": "arendals-fossekompani-afk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/arendals-fossekompani-afk-xosl",
-  "scraped_at": "2026-09-14T09:24:18.183374+00:00",
+  "scraped_at": "2026-09-14T13:25:25.420457+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a0a4ad317138a98a",
+      "author": "SkeptikernT",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skeptikernt",
+      "posted_relative": null,
+      "text": "10. sep. · Europeiske gasspriser når høyeste nivå siden des. 2022",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

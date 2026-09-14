@@ -1,9 +1,39 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-14T09:18:21.006787+00:00",
+  "scraped_at": "2026-09-14T13:19:32.102030+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "46e62a3bc8326e64",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": null,
+      "text": "10. sep. · Det er jo noen greie utbytter her, er det noen som vet om det fortsetter, er det en strategi eller er det bare som BlueNord var midlertidige utbytter? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    },
+    {
+      "key": "b9f8c92cd87654cf",
+      "author": "Bent Burg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bent-burg",
+      "posted_relative": "for 2 t siden",
+      "text": "· kan stige mer, men den er i den dyre enden.. Så kommer det an på hvor lang din horisont er og om du er ute etter utbytter..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

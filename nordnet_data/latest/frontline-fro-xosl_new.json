@@ -1,22 +1,53 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-14T09:18:12.191731+00:00",
+  "scraped_at": "2026-09-14T13:19:23.472808+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "9a35e98cd59b1ccf",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 31 min siden",
-      "text": "Det er noe olje lagret ved Yanbu. Enden av rørledningen. Visstnok nok til 1 uke eksport. Saudiene jobber med bypass av pumpestasjonen og det skal visstnok åpnes ila relativt kort tid. Med redusert kapasitet. Evnen til å frakte olje ut stredet har og vært overraskende god, og mulig det kan økes noe om nok Grekere er villige til å ta risikoen..",
-      "reply_count": 3,
+      "key": "711d2e01a7c15c51",
+      "author": "Marlyg98",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marlyg98",
+      "posted_relative": "for 2 t siden",
+      "text": "https://e24.no/internasjonal-oekonomi/i/8pMV6E/fraktratene-fra-kina-eksploderer-slaar-corona-rekorden. Fraktratene eksploderer, geopolitikken spiller på lag og FRO sitter midt i smørøyet. Når ratene holder seg på disse nivåene, blir det vanskelig å ikkje like cash flowen og utbyttepotensialet framover :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [
+        "https://e24.no/internasjonal-oekonomi/i/8pMV6E/fraktratene-fra-kina-eksploderer-slaar-corona-rekorden."
+      ],
+      "char_count": 305,
+      "has_link": true
+    },
+    {
+      "key": "6836d0efc7f799d0",
+      "author": "BRGN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brgn",
+      "posted_relative": "for 1 t siden",
+      "text": "den artikkel omhandler vel container frakt fra Kina og ikke relatert til FRO.",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 344,
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "9b0e0310a8261d07",
+      "author": "Even3940",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/even3940",
+      "posted_relative": "for 5 min siden",
+      "text": "Hva tror vi om kurs ut dagen - hvor mye over 472,5?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
       "has_link": false
     }
   ]

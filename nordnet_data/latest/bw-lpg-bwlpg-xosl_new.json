@@ -1,9 +1,38 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-14T09:18:29.696337+00:00",
+  "scraped_at": "2026-09-14T13:19:40.587369+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2929ecde60bce815",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 16 min siden",
+      "text": "Min konklusjon, er at du er et nett troll, sjekket deg, null aksjer registrert, kun argumenter og krangling i lang tid.. Og liker du ikke hva jeg skriver, så anbefaler jeg deg å bruke mer knappen, og dempe meg så slipper du se postene mine. Og, det er hva jeg gjør med deg nå. Jeg orker ikke dette tullet!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 305,
+      "has_link": false
+    },
+    {
+      "key": "1703436f2b82f64a",
+      "author": "pweer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pweer",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "lægg på denne, de forsøker å lure deg, bare sitt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-09-14T09:20:23.083390+00:00",
+  "scraped_at": "2026-09-14T13:21:28.497268+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1fb9b74b971e2635",
+      "author": "MagnusLL",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magnusll",
+      "posted_relative": "for 45 min siden",
+      "text": "Laster opp. Men godt mulig vi skal videre ned. Har som regel alltid tjent på å kjøpe protector rundt 450",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "e1125904813d4cbc",
+      "author": "EB1996",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eb1996",
+      "posted_relative": "for 47 min siden",
+      "text": "Håpe på bedre inngang? eller kjøper folk her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

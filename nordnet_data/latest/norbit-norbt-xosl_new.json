@@ -1,9 +1,39 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-14T09:20:30.705011+00:00",
+  "scraped_at": "2026-09-14T13:21:36.266562+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5a0b124e93772c96",
+      "author": "CoalemusIsMyVibe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coalemusismyvibe",
+      "posted_relative": "for 1 t siden",
+      "text": "Om det er mulig er jeg villig til å ta en 1 ukes stilling og deretter kjøpe en del",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "a73235b2059dbc2a",
+      "author": "Tuna fish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tuna-fish",
+      "posted_relative": "for 3 t siden",
+      "text": "· Vil noen internt i selskapet kjøpe igjen, 40% rabatt? 😝",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

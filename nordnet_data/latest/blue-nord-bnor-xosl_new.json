@@ -1,53 +1,83 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-14T09:19:42.142257+00:00",
+  "scraped_at": "2026-09-14T13:20:50.405607+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "178a311174654e73",
-      "author": "KjekkenKjell",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
-      "posted_relative": "for 54 min siden",
-      "text": "I dag kan vel faktisk nærme oss 600 og 610 kanskje, noe som tilsvarer ATH for 2026. Ser vi flere år tilbake er ATH 709, men selv det er vel ikke umulig å slå hvis denne utviklingen i midt østen fortsetter.  I løpet av uken kanskje? Hva tenker folk?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 248,
-      "has_link": false
-    },
-    {
-      "key": "4f1e120d52df96fc",
-      "author": "Pasjo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
-      "posted_relative": "for 1 min siden",
-      "text": "Sikkert gunstig å kjøpe blue nord til mere spenn får du ved fusjonen med vår energi vil jeg anta👍",
+      "key": "fd720375ce5a75e9",
+      "author": "byku333",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/byku333",
+      "posted_relative": "for 18 min siden",
+      "text": "Fra chatgbt: Med BNOR 599 kr og Vår Energi 54,45 kr ville jeg akkurat nå valgt BNOR, dersom målet er å sitte videre i Vår Energi etter fusjonen. Regnestykket er: 1 BNOR = 9,7153 VAR + 76,83 kr kontant 9,7153 × 54,45 + 76,83 = 605,82 kr Du betaler altså 599 kr for BNOR, mens dagens verdi av fusjonsvederlaget er ca. 605,82 kr. Det gir en merger-spread på ca. 6,82 kr / 1,14 %.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 97,
+      "char_count": 376,
       "has_link": false
     },
     {
-      "key": "1e12bea4d5600406",
-      "author": "Supra2jzgte",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
-      "posted_relative": "for 40 min siden",
-      "text": "Hva er mest gunstig å kjøpe no BN eller VAR?",
+      "key": "9cb040a6132a28c4",
+      "author": "KjekkenKjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
+      "posted_relative": "for 4 t siden",
+      "text": "I dag kan vel faktisk nærme oss 600 og 610 kanskje, noe som tilsvarer ATH for 2026. Ser vi flere år tilbake er ATH 709, men selv det er vel ikke umulig å slå hvis denne utviklingen i midt østen fortsetter.  I løpet av uken kanskje? Hva tenker folk? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2,
-        1
+        2
       ],
       "links": [],
-      "char_count": 44,
+      "char_count": 268,
+      "has_link": false
+    },
+    {
+      "key": "b7e40b88fc30250a",
+      "author": "Xiskogen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xiskogen",
+      "posted_relative": null,
+      "text": "10. sep. · Brent skjøt opp 2 dollar (105.5), og vår/bnor faller. :(",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "75d28b804ca1640e",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": "for 4 t siden",
+      "text": "Hva er mest gunstig å kjøpe no BN eller VAR? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "d78d095f6c909bfc",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 4 t siden",
+      "text": "Huff ble en del ordleifer😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
       "has_link": false
     }
   ]

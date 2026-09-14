@@ -1,9 +1,25 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-14T09:23:39.559385+00:00",
+  "scraped_at": "2026-09-14T13:24:46.842400+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ae1f172df1cd6005",
+      "author": "Divinesia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/divinesia",
+      "posted_relative": "for 3 t siden",
+      "text": "· Skremselsinnlegg om at Starlink tar forretningen fra selskaper som Telenor i Norden føles bare som tull for meg. Bra tidspunkt å legge til mer Telenor mens frykten for satellittforstyrrelser er der. Hvis nordiske regjeringer og folk virkelig ville droppe pålitelig internett og velge Elon Musk, ville jeg bli sjokkert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 320,
+      "has_link": false
+    }
+  ]
 }

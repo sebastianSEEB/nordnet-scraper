@@ -1,9 +1,38 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-14T09:22:43.402962+00:00",
+  "scraped_at": "2026-09-14T13:23:47.138741+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3ead8b0b6aafc6b1",
+      "author": "Hestebråten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hestebraten",
+      "posted_relative": null,
+      "text": "10. sep. · Endret Nå er jeg godt fornøyd med å ha hatt is i magen og blei med igjennom hele forrige opptur og nedtur, med gode påfyll under den siste. Det senket GAV noe til under midt på 30 tallet og gir nå solid avkastning, selv sett over 3 og 5 år.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 251,
+      "has_link": false
+    },
+    {
+      "key": "c12735ba9e26646e",
+      "author": "cardiff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cardiff",
+      "posted_relative": null,
+      "text": "10. sep. Gratulerer med god fortjeneste til nå i Skogen TorHoldig!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

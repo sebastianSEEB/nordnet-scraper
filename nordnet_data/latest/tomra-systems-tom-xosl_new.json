@@ -1,9 +1,97 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-14T09:20:15.369518+00:00",
+  "scraped_at": "2026-09-14T13:21:20.843750+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "14f4826cd6d84a26",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 3 min siden",
+      "text": "Synes den ikke virker dårlig jeg da men.. Siste skrik bare som ikke blir noe av.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "a82cedeb316405f9",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": "for 1 t siden",
+      "text": "Nok en dårlig nyhet!!! Lenge mellom gode nyheter i dennne aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "d1c0ed08def16873",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 4 t siden",
+      "text": "Omsetning er lav,, fordi ingen vil selge denne  :)",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "38276334d3fae2ce",
+      "author": "Bear 72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bear-72",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "· Valgte å snitte ned…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "3feede5f4cba4002",
+      "author": "Sonypus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sonypus",
+      "posted_relative": "for 5 t siden",
+      "text": "Ja da har du røde tall",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "a7cff129721d15a7",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 4 t siden",
+      "text": "Kjøpsmulighet :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

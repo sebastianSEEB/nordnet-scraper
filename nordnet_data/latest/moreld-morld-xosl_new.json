@@ -1,38 +1,66 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-14T09:21:54.090435+00:00",
+  "scraped_at": "2026-09-14T13:22:56.603315+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "5eb49bd59672c030",
+      "key": "5d760751b9bc7541",
       "author": "Marbella1",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marbella1",
-      "posted_relative": "for 47 min siden",
-      "text": "Moreld vil holde presentasjon på Pareto konferansen onsdag kl.11.20 i sal 3",
+      "posted_relative": "for 4 t siden",
+      "text": "Moreld vil holde presentasjon på Pareto konferansen onsdag kl.11.20 i sal 3 Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        3
+        8,
+        4
       ],
       "links": [],
-      "char_count": 75,
+      "char_count": 95,
       "has_link": false
     },
     {
-      "key": "9e4a018f07e47efc",
-      "author": "uklar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
-      "posted_relative": "for 42 min siden",
-      "text": "Hva tenker du kommer frem der ?",
-      "reply_count": 2,
+      "key": "80e9d1ef07ea337d",
+      "author": "Vulkansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vulkansen",
+      "posted_relative": null,
+      "text": "10. sep. Noen som har noen ide om når Venus kan bli avgjort?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "063a27510007c0dd",
+      "author": "realize_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/realize_1",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Blir den presentasjonen streamet?",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 31,
+      "char_count": 33,
+      "has_link": false
+    },
+    {
+      "key": "6b89df27a143e3f5",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 1 min siden",
+      "text": "· Skal vi ned til 23.10 🙈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
       "has_link": false
     }
   ]

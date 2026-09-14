@@ -1,9 +1,26 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-09-14T09:19:19.746843+00:00",
+  "scraped_at": "2026-09-14T13:20:27.144570+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "76afa1aef87e41a4",
+      "author": "hd28vs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hd28vs",
+      "posted_relative": null,
+      "text": "10. sep. stanger rundt 70kr.  Får vi snart et rykk oppover mot 80 mon tro?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

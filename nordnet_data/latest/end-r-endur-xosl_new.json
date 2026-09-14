@@ -1,9 +1,51 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-14T09:22:28.414344+00:00",
+  "scraped_at": "2026-09-14T13:23:31.310193+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "9e11e8d2c22db36b",
+      "author": "Spitsbergen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spitsbergen",
+      "posted_relative": "for 11 min siden",
+      "text": "Du har nok rett i det, har vært i en nedadgående trend, så kommer denne fra DNB , de har vel enda « hold» på denne. Jeg velger å sitte « rolig» , alltid litt kjedelig når det går i « motbakke» men er jo ikke noe fundamentalt som skulle tilsi dette, ikke veldig urolig .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 269,
+      "has_link": false
+    },
+    {
+      "key": "15e48d3a461d253d",
+      "author": "GrubbelRubbel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grubbelrubbel",
+      "posted_relative": "for 3 t siden",
+      "text": "Aiai, første gang på lenge at denne bryter ut av den fine trenden den har ligget i.  Da blir det kanskje litt annerledes utvikling fremover, bare sånn rent teknisk",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 163,
+      "has_link": false
+    },
+    {
+      "key": "1c84849660fef903",
+      "author": "Tom_Peng_Pung",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tom_peng_pung",
+      "posted_relative": "for 8 min siden",
+      "text": "Vi får satse på godt nytt om Salfjord innen neste to uker da.  Skulle vel landes i løpet av 3. kvartal.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

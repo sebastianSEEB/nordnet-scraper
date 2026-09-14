@@ -1,9 +1,40 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-14T09:20:19.257031+00:00",
+  "scraped_at": "2026-09-14T13:21:24.724208+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "be0e3076b4c7bc34",
+      "author": "Norwegian69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/norwegian69",
+      "posted_relative": "for 26 min siden",
+      "text": "DOF Group ut av OBX-indeksen Passive indeksfond som sporer OBX må selge unna noen aksjer rundt rebalanseringen (fredag 18. september). Dette kan gi et mildt teknisk press på kursen et par dager.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    },
+    {
+      "key": "fce326539ed5f02c",
+      "author": "Noor1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noor1",
+      "posted_relative": "for 1 t siden",
+      "text": "· hvorfor går den ned? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

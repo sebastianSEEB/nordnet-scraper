@@ -1,17 +1,17 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-14T09:23:58.948392+00:00",
+  "scraped_at": "2026-09-14T13:25:05.953071+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "cabf5b386ed92dbc",
+      "key": "0f8c5b69826513d2",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
       "posted_relative": "for 2 døgn siden",
-      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn 20 stemmer • 10 timer igjen",
+      "text": "når ser vi bunn Bli medlem av Nordnet Social for å gi din stemme Logg inn 26 stemmer • 6 timer igjen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
@@ -22,7 +22,36 @@
         74
       ],
       "links": [],
-      "char_count": 101,
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "660454524eec40e9",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 5 t siden",
+      "text": "Herlig, liten hump med glede før den fortsetter nedover Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "8aecc9620857fa3e",
+      "author": "Snusfondet forvalteren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snusfondet-forvalteren",
+      "posted_relative": "for 31 min siden",
+      "text": "· 😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
       "has_link": false
     }
   ]

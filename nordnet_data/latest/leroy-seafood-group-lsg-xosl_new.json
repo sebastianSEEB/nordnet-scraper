@@ -1,9 +1,41 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-14T09:20:26.850160+00:00",
+  "scraped_at": "2026-09-14T13:21:32.495192+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "977e3e85ec21579a",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.fiskeribladet.no/debatt/kan-2026-bli-det-tredje-beste-makrellaret-noensinne-/2-1-2041070",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.fiskeribladet.no/debatt/kan-2026-bli-det-tredje-beste-makrellaret-noensinne-/2-1-2041070"
+      ],
+      "char_count": 100,
+      "has_link": true
+    },
+    {
+      "key": "7604444efd8ab52e",
+      "author": "IsoPappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isopappa",
+      "posted_relative": null,
+      "text": "10. sep. · Hvis olje til $105 ikke presser lakse-spotprisen opp, kan vi like gjerne fylle Lerøys brønnbåter med råolje og selge det i stedet. 🛢️🐟",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 145,
+      "has_link": false
+    }
+  ]
 }

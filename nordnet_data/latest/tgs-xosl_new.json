@@ -1,24 +1,51 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-09-14T09:22:24.607996+00:00",
+  "scraped_at": "2026-09-14T13:23:27.565938+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "b3c05d87b4d795d2",
-      "author": "Fplkongen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fplkongen",
+      "key": "b8729bf84f50a1fb",
+      "author": "keyb9",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keyb9",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg tenker det fundamentale i bunn hos TGS nå er i orden og dere vil i løpet av 1-3 måneder se en stigende kurve om det ikke skulle komme sjokkerende nyheter. Økende oljepris og behov for leting, pluss at TGS er godt posisjonert for det som kommer i form av leting. Min vurdering og gjør en egen vurdering ut i fra min kommentar. Synes ikke det ligner PGS på så kort tid. Aksjen er opp 51,45% i år per nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 405,
+      "has_link": false
+    },
+    {
+      "key": "c7aa52b94dd0f14f",
+      "author": "Virrum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/virrum",
       "posted_relative": null,
-      "text": "10. sep. Denne aksjen lever sitt eget forunderlige liv, olja i 102 og den går ned 2,5%",
+      "text": "10. sep. 1,64 opp igår, og 2 ned idag. Og olja over 100😳 Begynner å likne gamle PGS detta. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        4,
+        2
       ],
       "links": [],
-      "char_count": 86,
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "9830740441b54718",
+      "author": "keyb9",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keyb9",
+      "posted_relative": "for 3 t siden",
+      "text": "Dette er kortsiktig tankegang, være tålmodig min venn.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
       "has_link": false
     }
   ]
