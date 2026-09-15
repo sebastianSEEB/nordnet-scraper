@@ -1,9 +1,38 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-09-15T14:04:31.914882+00:00",
+  "scraped_at": "2026-09-15T18:00:04.607002+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6fed9bc5cad42c3e",
+      "author": "Marnar King",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marnar-king-1",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hvis Pareto bare har noenlunde rett i sin antakelse (i dag) om Hellas, kan vi godt begynne å forberede oss på en større fest her... Gleder meg til vi får noen ordrer bekreftet fra DRS Hellas!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 193,
+      "has_link": false
+    },
+    {
+      "key": "12a23ee457046186",
+      "author": "Hugoil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hugoil",
+      "posted_relative": null,
+      "text": "11. sep. Har formert BULL HOMING PIGEON i dagchartet.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

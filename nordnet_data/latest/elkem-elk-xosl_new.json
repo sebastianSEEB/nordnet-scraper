@@ -1,9 +1,53 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-15T13:59:23.546085+00:00",
+  "scraped_at": "2026-09-15T17:55:19.208956+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e50fcf17244a0d26",
+      "author": "lizgard",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lizgard",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Meglerhus bl.a. DNB anbefaler aksjer, så begynner småsparer å følge anbefalinger og driver kursen opp, mange småsparer får FOMO og hiver seg inn på toget, så drives kursen opp enda kraftigere, så selger store aktører aksjer dyrt til småsparere på toppen. Når de selger store mengde, starter kursen å falle, da får småsparere panikk og selger seg ut. Kursen trekkes ned enda kraftigere. Dette bildet gjentar seg om igjen. Velkommen til saueflokk",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 444,
+      "has_link": false
+    },
+    {
+      "key": "dc41cdecc3710a36",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 3 t siden",
+      "text": "Imorgen kveld kommer Sentralbanken i USA med en rentebeslutning. Det sies vel at det er 75-90% sikkerhet med en renteheving på 0.25%. Regner i den forbindelsen med at det kan bli en litt ruglede formiddag på Oslo Børs på torsd og et par timer frem i tid. Hvem vet ? Vil dette påvirke ELK mon tro i noen grad ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 329,
+      "has_link": false
+    },
+    {
+      "key": "1b07ad34436a2a6a",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 3 t siden",
+      "text": "Tenker det samme. Har kruttet klart jeg - kjempeaksje fremover i tid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

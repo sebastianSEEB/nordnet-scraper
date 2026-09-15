@@ -1,22 +1,37 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-09-15T14:02:39.947248+00:00",
+  "scraped_at": "2026-09-15T17:58:22.499706+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "f276842a59c7cca8",
-      "author": "VanTwin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vantwin",
+      "key": "8923f700e31a7a3b",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
       "posted_relative": null,
-      "text": "11. sep. Det som har skjedd, har åpnet døren for nye muligheter.",
+      "text": "11. sep. · Endret Der var 10 mill shortaksjer ute av Finanstil lista En liten \"drittpakke\" fra JPMorgan skal få slike utslag på Nhy kursen.Flaut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "881c640badfca49e",
+      "author": "oddafan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oddafan",
+      "posted_relative": "for 3 t siden",
+      "text": "Hydro (sist uke) ned 10,5 % og Alcoa ned 6,7 %. Er differansen forklart med nedstrøms - eller oppstrøms Hydro aktiviteter?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 64,
+      "char_count": 122,
       "has_link": false
     }
   ]

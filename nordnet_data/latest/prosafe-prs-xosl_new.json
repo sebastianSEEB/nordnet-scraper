@@ -1,40 +1,52 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-15T14:05:03.833874+00:00",
+  "scraped_at": "2026-09-15T18:00:34.582081+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "7ecc1247ded5a4d0",
-      "author": "KOtrade",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kotrade",
-      "posted_relative": "for 12 min siden · Endret",
-      "text": "Jeg tror aksjefallet kan skyldes AI-frykten, og at det ikke har noe med Prosafe å gjøre. Caset er solid og for min del er dette en kjøpsmulighet.",
+      "key": "b3646c9617efcc6b",
+      "author": "Mr.Robot12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot12",
+      "posted_relative": "for 1 t siden",
+      "text": "Å signere avtaler er enkelt hvis du alltid lar kundene få deg billig. Det vanskelige er å ha disiplin nok til å si nei og vente til du får betalt det du faktisk er verdt. Kanskje det er svak ledelse. Kanskje det er akkurat det motsatte. Fasiten får vi når kontraktene kommer. 😉",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 145,
+      "char_count": 277,
       "has_link": false
     },
     {
-      "key": "5984c91c86593717",
-      "author": "Utbyttejeger",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "key": "e8526b3f6be8e564",
+      "author": "Gullfjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfjell",
       "posted_relative": "for 1 t siden",
-      "text": "25% oppside til forrige topp for kort tid siden nå - småinvestorer er utålmodige sjeler 😅",
+      "text": "Svak ledelse som ikke evner å close nye avtaler. Dette kan fort bli stygt og vi nede på 4 tallet om få dager.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
-        7
+        1
       ],
       "links": [],
-      "char_count": 89,
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "2fe0cc5e99624311",
+      "author": "Junior63",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junior63",
+      "posted_relative": "for 3 t siden",
+      "text": "Da var i hvertfall denne dagen en fin kjøpsanledning. 5,03 ok påfyll 😃",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 70,
       "has_link": false
     }
   ]

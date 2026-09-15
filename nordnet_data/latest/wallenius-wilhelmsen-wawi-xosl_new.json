@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-15T13:57:50.642655+00:00",
+  "scraped_at": "2026-09-15T17:53:52.307752+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "822299579f723de8",
+      "author": "lillepeder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillepeder",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjer videre med aksjen tror dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

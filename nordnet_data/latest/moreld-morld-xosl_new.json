@@ -1,9 +1,55 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-15T14:00:44.089891+00:00",
+  "scraped_at": "2026-09-15T17:56:28.855674+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "91b037efeb59750c",
+      "author": "realize_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/realize_1",
+      "posted_relative": "for 3 t siden",
+      "text": "Satser på at flere får Moreld på radaren etter presentasjon her: Pareto Securities’ 33rd Annual Energy Conference On 16–17 September 2026, Pareto Securities will host the 33rd annual Energy Conference in Oslo. The conference is the largest of its kind in Europe, bringing together around 2,000 participants from across the global energy industry, the investor community, and the political sphere. More than 160 companies from the full energy value chain are expected to present, and over 1,800 investor meetings will be arranged during the two conference days.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 560,
+      "has_link": false
+    },
+    {
+      "key": "d5fd4e7e88edbc7e",
+      "author": "Elon2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elon2",
+      "posted_relative": "for 3 t siden",
+      "text": "Vi kan håpe jo på en tidlig børsmelding i morgen. Dagen brukes ofte for det den er vært til å markedsføre selskapet. Det er en noen triggere i lufte tror eg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "175c8953e1cd39fb",
+      "author": "realize_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/realize_1",
+      "posted_relative": "for 2 t siden",
+      "text": "· Ref Marbella1",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

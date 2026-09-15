@@ -1,22 +1,40 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-15T14:02:59.512526+00:00",
+  "scraped_at": "2026-09-15T17:58:37.573842+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b9d2fee1be30c6be",
-      "author": "Roland72",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/roland72",
-      "posted_relative": "for 5 min siden",
-      "text": "Ser stygt ut for kursen her.",
+      "key": "f6e8180f06c65429",
+      "author": "alayim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alayim",
+      "posted_relative": "for 3 t siden",
+      "text": "For 2025 hadde Orkla blant annet: justert EPS: 6,83 kr foreslått utbytte: 6,00 kr per aksje. Høyt, men ikke mer enn resultatet. Det var dessuten et ekstraordinært år. 2024 var kontantstrøm før kapitalallokering 7,5 mrd. kr, mens Orkla delte ut 6,0 mrd. kr i utbytte. Netto rentebærende gjeld har sunket i både 2023, 2024 og 2025",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 28,
+      "char_count": 328,
+      "has_link": false
+    },
+    {
+      "key": "3a1d41417ffcc775",
+      "author": "Tideboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tideboy",
+      "posted_relative": "for 6 t siden",
+      "text": "Forstår jeg selskapet rett er det blitt systematisk gitt ut større utbytter enn det er generert inntekter. Dette har medført økt gjeld for selskapet og er naturligvis ikke bærekraftig over tid. Selskapet bør derfor stoppe utbytter frem til unødvendig gjeld er nedbetalt 🤔 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 291,
       "has_link": false
     }
   ]

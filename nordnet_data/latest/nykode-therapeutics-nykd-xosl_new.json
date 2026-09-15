@@ -1,9 +1,39 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-15T14:02:16.463997+00:00",
+  "scraped_at": "2026-09-15T17:57:59.936719+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e668210a38922443",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": null,
+      "text": "9. sep. Fin avslutning på dagen, 5% opp :) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "367e2ba03524900c",
+      "author": "Egebo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egebo",
+      "posted_relative": "for 3 t siden",
+      "text": "· 10 ned",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,51 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-09-15T13:58:22.835599+00:00",
+  "scraped_at": "2026-09-15T17:54:22.399935+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6dc92498b2e800d9",
+      "author": "natural7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/natural7",
+      "posted_relative": "for 3 t siden",
+      "text": "· Merkelige algoritmer her. Prissettingen henger etter Frontline og oet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "7e40c6b53984c241",
+      "author": "GiFre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gifre",
+      "posted_relative": "for 2 t siden",
+      "text": "· Og en del mindre - de har ikke samme flåte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    },
+    {
+      "key": "a84606f1967a8abf",
+      "author": "GiFre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gifre",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "· Masse nytt på vei .. The Greek Old Fox 😀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

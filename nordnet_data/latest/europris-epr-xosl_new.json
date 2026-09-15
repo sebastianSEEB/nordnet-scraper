@@ -1,22 +1,39 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-09-15T14:00:12.425476+00:00",
+  "scraped_at": "2026-09-15T17:56:01.567852+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "02b44eea3d935c59",
+      "key": "ef357f1e3a4fc04d",
       "author": "Bastus68",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
-      "posted_relative": "for 8 min siden",
-      "text": "Europris har sakte men sikkert bare sklidd ned fra rundt 97 til nå rundt 83 kroner. Uten noe nyheter",
+      "posted_relative": "for 4 t siden",
+      "text": "Europris har sakte men sikkert bare sklidd ned fra rundt 97 til nå rundt 83 kroner. Uten noe nyheter Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 100,
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "859f41f0427d9ad4",
+      "author": "OMinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ominvest",
+      "posted_relative": "for 1 t siden",
+      "text": "Kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 4,
       "has_link": false
     }
   ]

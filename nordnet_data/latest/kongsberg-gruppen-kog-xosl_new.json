@@ -1,22 +1,37 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-15T14:02:28.110405+00:00",
+  "scraped_at": "2026-09-15T17:58:11.243636+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "1546d4125b293381",
-      "author": "Dulle",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
-      "posted_relative": "for 11 min siden",
-      "text": "Hva tror Dere om sluttauksjonen i dag. Synes det ser positivt ut -  tror og håper på et rykk opp",
+      "key": "a750c989957ab998",
+      "author": "Stuckenbruck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stuckenbruck",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/industri/2026/09/15/8380355/brabrems-for-kongsberg-analytikerne-har-aldri-sett-storre-oppside",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/09/15/8380355/brabrems-for-kongsberg-analytikerne-har-aldri-sett-storre-oppside"
+      ],
+      "char_count": 121,
+      "has_link": true
+    },
+    {
+      "key": "1c4707ad6acb35a7",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 3 t siden",
+      "text": "Den har økt litt på nav de siste dagene, men ett godt stykke under dags høy. Tipper i beste fall rundt 8.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 96,
+      "char_count": 105,
       "has_link": false
     }
   ]

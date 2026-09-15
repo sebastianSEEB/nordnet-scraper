@@ -1,22 +1,39 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-15T14:01:29.619669+00:00",
+  "scraped_at": "2026-09-15T17:57:13.751961+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ddabf59e67e1bbf2",
-      "author": "Stone Rokk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stone-rokk",
-      "posted_relative": "for 40 min siden",
-      "text": "Europa snakker om en ekstra skatt på oljeselskaper, slik har vi i Norge hatt siden 1970. Siden olje er dritt dyrt for tiden blir Europeiske land fattige og må se på muligheten til å ta inn verdier i statskassa.",
+      "key": "8dd716ddb60518db",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 3 t siden",
+      "text": "merkelig kursutvkling i OKEA, de andre henter seg inn, men OKEA ligger langt bak, da blir det vel en solid sprett i morgen.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 210,
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "5e5429d139d6edb0",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": "for 3 t siden",
+      "text": "Brent-spot DN f.eks. da er du med på hva resten av verden tenker",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 64,
       "has_link": false
     }
   ]

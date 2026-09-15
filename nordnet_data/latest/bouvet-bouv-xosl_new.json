@@ -1,9 +1,23 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-15T14:00:27.896173+00:00",
+  "scraped_at": "2026-09-15T17:56:17.067928+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bac533694b10a69a",
+      "author": "PeaceInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peaceinvest",
+      "posted_relative": "for 2 t siden",
+      "text": "Bouvet er bra, her gjelder det bare å ha tålmodighet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }
