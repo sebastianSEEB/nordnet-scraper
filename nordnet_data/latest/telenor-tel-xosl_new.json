@@ -1,50 +1,22 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-15T17:58:18.828189+00:00",
+  "scraped_at": "2026-09-15T20:41:47.092006+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "1017d6630ce736aa",
-      "author": "juupa-joki",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/juupa-joki",
+      "key": "959b1a2bc1fbeddd",
+      "author": "iasj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iasj",
       "posted_relative": "for 1 t siden",
-      "text": "· Jeg tror på denne aksjen. Det er alt.",
+      "text": "Hvem er disse🧐",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 39,
-      "has_link": false
-    },
-    {
-      "key": "d49cf1e65520eb5f",
-      "author": "xSamcox",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xsamcox",
-      "posted_relative": "for 3 t siden",
-      "text": "Tok påfyll på minus 1 og litt til i dag",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 39,
-      "has_link": false
-    },
-    {
-      "key": "a00aca1118cb3347",
-      "author": "xSamcox",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xsamcox",
-      "posted_relative": "for 3 t siden",
-      "text": "Bra lykke til 😄",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 15,
+      "char_count": 14,
       "has_link": false
     }
   ]

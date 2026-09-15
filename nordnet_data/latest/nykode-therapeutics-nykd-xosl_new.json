@@ -1,38 +1,40 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-15T17:57:59.936719+00:00",
+  "scraped_at": "2026-09-15T20:41:28.059323+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "e668210a38922443",
-      "author": "Allrounder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
-      "posted_relative": null,
-      "text": "9. sep. Fin avslutning på dagen, 5% opp :) Vis 1 kommentar til",
+      "key": "c14073582ee56d65",
+      "author": "omvo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omvo",
+      "posted_relative": "for 13 t siden",
+      "text": "· https://nykode.com/wp-content/uploads/2026/08/260821_Company-presentation_August-2026_Final_Website.pdf Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7,
-        3
+        8,
+        2
       ],
-      "links": [],
-      "char_count": 62,
-      "has_link": false
+      "links": [
+        "https://nykode.com/wp-content/uploads/2026/08/260821_Company-presentation_August-2026_Final_Website.pdf"
+      ],
+      "char_count": 125,
+      "has_link": true
     },
     {
-      "key": "367e2ba03524900c",
-      "author": "Egebo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egebo",
-      "posted_relative": "for 3 t siden",
-      "text": "· 10 ned",
+      "key": "6290f55962ca5a18",
+      "author": "pebbben",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pebbben",
+      "posted_relative": "for 2 t siden",
+      "text": "Skattessken kan vel avgjøres når som helst snart .",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 8,
+      "char_count": 50,
       "has_link": false
     }
   ]

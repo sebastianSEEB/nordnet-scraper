@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-15T17:54:26.248530+00:00",
+  "scraped_at": "2026-09-15T20:37:56.449092+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "865562a70c9a4304",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 46 min siden",
+      "text": "Det er slutt på alle utbytter fra BlueNord. Du får imidlertid utbyttet som vedtas av VAR på lik linje med de som i dag eier VAR. Teknisk vil det skje ved at utbyttet legges på toppen av kontantilskuddet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 203,
+      "has_link": false
+    }
+  ]
 }

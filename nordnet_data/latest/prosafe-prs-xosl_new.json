@@ -1,52 +1,65 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-15T18:00:34.582081+00:00",
+  "scraped_at": "2026-09-15T20:44:09.853657+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "b3646c9617efcc6b",
-      "author": "Mr.Robot12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot12",
+      "key": "611d01ce2c077897",
+      "author": "Gullfjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfjell",
+      "posted_relative": "for 4 t siden",
+      "text": "Svak ledelse som ikke evner å close nye avtaler. Dette kan fort bli stygt og vi nede på 4 tallet om få dager. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "f1e5ebaf51820bd5",
+      "author": "Gullfjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfjell",
+      "posted_relative": "for 2 t siden",
+      "text": "Det var momentum i aksjen. Da er en avtale uten premium gull verdt. Nå er momentum borte og avtalen må komme med premium.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    },
+    {
+      "key": "93dd0c3b099ce1e7",
+      "author": "Kenwin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kenwin",
       "posted_relative": "for 1 t siden",
-      "text": "Å signere avtaler er enkelt hvis du alltid lar kundene få deg billig. Det vanskelige er å ha disiplin nok til å si nei og vente til du får betalt det du faktisk er verdt. Kanskje det er svak ledelse. Kanskje det er akkurat det motsatte. Fasiten får vi når kontraktene kommer. 😉",
+      "text": "Eurus har kontrakt  Q42027- Zephyrus ut Q2 2027. Om info stemme på hjemmesiden slik jeg leser det!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 277,
+      "char_count": 98,
       "has_link": false
     },
     {
-      "key": "e8526b3f6be8e564",
-      "author": "Gullfjell",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfjell",
-      "posted_relative": "for 1 t siden",
-      "text": "Svak ledelse som ikke evner å close nye avtaler. Dette kan fort bli stygt og vi nede på 4 tallet om få dager.",
+      "key": "258afbe588042e4f",
+      "author": "Viddami",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viddami",
+      "posted_relative": "for 2 t siden",
+      "text": "På Prosafe sine sider vises det at Eurus og Zephyrus har opsjoner til september 28 ??",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        5
       ],
       "links": [],
-      "char_count": 109,
-      "has_link": false
-    },
-    {
-      "key": "2fe0cc5e99624311",
-      "author": "Junior63",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junior63",
-      "posted_relative": "for 3 t siden",
-      "text": "Da var i hvertfall denne dagen en fin kjøpsanledning. 5,03 ok påfyll 😃",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 70,
+      "char_count": 85,
       "has_link": false
     }
   ]
