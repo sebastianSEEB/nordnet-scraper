@@ -1,38 +1,27 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-15T20:36:36.068023+00:00",
+  "scraped_at": "2026-09-15T23:17:27.945969+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "98cfec7d33549b9a",
-      "author": "Jagdpanther79",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jagdpanther79",
-      "posted_relative": "for 47 min siden",
-      "text": "· Det er vel aldri feil å selge for å ta hjem gevinst på disse nivåene, men jeg er med på lang sikt og tar inn utbytter år inn år ut. Men visst, nå er det veldig spesielle omstendigheter i omverdenen som har presset ratene så høyt opp.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 235,
-      "has_link": false
-    },
-    {
-      "key": "627bc614dc7bc509",
-      "author": "Ronny78",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronny78",
-      "posted_relative": "for 4 t siden",
-      "text": "Er det nå på grunn av dagens oppnådde kurs man bør pakke sammen og forlate OET? Vis 1 kommentar til",
+      "key": "560655ee7ef96f8a",
+      "author": "jonnybanan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jonnybanan",
+      "posted_relative": "for 2 t siden",
+      "text": "· Zacks publiserte en analyse av Okeanis i går (=14 sep) etter Oslos stenging, mistenker at det er årsaken til oppgangen som er notert siden da: https://www.tradingview.com/news/zacks:c35178be6094b:0-here-s-why-investors-should-bet-on-eco-stock-right-now/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8
+        1
       ],
-      "links": [],
-      "char_count": 99,
-      "has_link": false
+      "links": [
+        "https://www.tradingview.com/news/zacks:c35178be6094b:0-here-s-why-investors-should-bet-on-eco-stock-right-now/"
+      ],
+      "char_count": 255,
+      "has_link": true
     }
   ]
 }

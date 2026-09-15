@@ -1,9 +1,39 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-15T20:42:02.190507+00:00",
+  "scraped_at": "2026-09-15T23:23:01.750523+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7c7e6aa0cb7aa06e",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 5 t siden",
+      "text": "· The Hormuz Letter @HormuzLetter BREAKING: Saudi Aramco har kansellert alle sine europeiske råoljeallokeringer for september og skroter hver last som er planlagt for lasting fra slutten av september og fremover, med en europeisk kjøper som sier at ingen saudiarabiske oljelaster i det hele tatt vil komme før november, ifølge innledende rapporter som siterer oljehandelsfirmaet Onyx og markedskilder. Dette tar verdens største eksportør ut av det europeiske markedet for resten av september og hele oktober, en de facto force majeure på saudiarabisk råolje til Europa fra verdens 3. største energiprodusent.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        4
+      ],
+      "links": [],
+      "char_count": 608,
+      "has_link": false
+    },
+    {
+      "key": "3b13361ba5732911",
+      "author": "Tordahl Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tordahl-invest",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvor blir det av alle de som mente 70 USD var riktig oljepris i mai-juli?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

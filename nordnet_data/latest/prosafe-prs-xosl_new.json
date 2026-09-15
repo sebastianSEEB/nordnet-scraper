@@ -1,66 +1,25 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-09-15T20:44:09.853657+00:00",
+  "scraped_at": "2026-09-15T23:25:18.335902+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "611d01ce2c077897",
-      "author": "Gullfjell",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfjell",
-      "posted_relative": "for 4 t siden",
-      "text": "Svak ledelse som ikke evner å close nye avtaler. Dette kan fort bli stygt og vi nede på 4 tallet om få dager. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 129,
-      "has_link": false
-    },
-    {
-      "key": "f1e5ebaf51820bd5",
-      "author": "Gullfjell",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfjell",
-      "posted_relative": "for 2 t siden",
-      "text": "Det var momentum i aksjen. Da er en avtale uten premium gull verdt. Nå er momentum borte og avtalen må komme med premium.",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 121,
-      "has_link": false
-    },
-    {
-      "key": "93dd0c3b099ce1e7",
-      "author": "Kenwin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kenwin",
+      "key": "e784cc62314e4bda",
+      "author": "KOtrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kotrade",
       "posted_relative": "for 1 t siden",
-      "text": "Eurus har kontrakt  Q42027- Zephyrus ut Q2 2027. Om info stemme på hjemmesiden slik jeg leser det!",
+      "text": "Jeg regner med Prosafe deltar på energikonferansen til Pareto, og da blir det bra med en oppdatert investorpresentasjon i morgen. https://www.finansavisen.no/energi/2026/09/15/8380390/pareto-sjefen-du-skal-vite-hva-du-gjor",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 98,
-      "has_link": false
-    },
-    {
-      "key": "258afbe588042e4f",
-      "author": "Viddami",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viddami",
-      "posted_relative": "for 2 t siden",
-      "text": "På Prosafe sine sider vises det at Eurus og Zephyrus har opsjoner til september 28 ??",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/15/8380390/pareto-sjefen-du-skal-vite-hva-du-gjor"
       ],
-      "links": [],
-      "char_count": 85,
-      "has_link": false
+      "char_count": 222,
+      "has_link": true
     }
   ]
 }
