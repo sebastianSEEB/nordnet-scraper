@@ -1,9 +1,41 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-09-15T12:08:01.256672+00:00",
+  "scraped_at": "2026-09-15T13:14:12.953931+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9e6da11a3e439b8b",
+      "author": "KubaK",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kubak",
+      "posted_relative": null,
+      "text": "11. sep. DNB melder KJØP kursmål: 120,- NOK! 🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        28
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "5a28ed5eac32805d",
+      "author": "nordicinvestor3000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordicinvestor3000",
+      "posted_relative": null,
+      "text": "11. sep. Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        23,
+        7
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

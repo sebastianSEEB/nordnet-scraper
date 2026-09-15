@@ -1,68 +1,27 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-15T12:11:13.437159+00:00",
+  "scraped_at": "2026-09-15T13:17:18.634383+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "e7c020729fa6fb14",
-      "author": "ro-te",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
-      "posted_relative": "for 3 t siden",
-      "text": "Boring godkjent for Vår Energi-lisens i dag kl. 09:24 ∙ Nyhetsoppsummering (AI) Equinor har sikret seg boretillatelse for en undersøkelsesbrønn på norsk kontinentalsokkel, i en lisens der Vår Energi har en minoritetsandel. Denne utviklingen skjer i et svært gunstig makroøkonomisk miljø for norske olje- og gassprodusenter, drevet av stigende globale råoljepriser. Den kommende borekampanjen representerer fortsatt leteaktivitet for partnerne. Equinor har fått boretillatelse for undersøkelsesbrønn 25/9-5 S i utvinningstillatelse 1042 på norsk kontinentalsokkel. Vår Energi har en eierandel på 30 % i lisensen, sammen med operatør Equinor (30 %) og Aker BP (40 %). Boreoperasjonene er planlagt å starte i november 2026 med riggen COSLInnovator. Prosjektet støttes av et sterkt oljemarked, der Brent-olje stiger til 106,9 dollar per fat som følge av geopolitiske forsyningsforstyrrelser i Midtøsten.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        9
-      ],
-      "links": [],
-      "char_count": 899,
-      "has_link": false
-    },
-    {
-      "key": "56b2f6e17f28bc07",
-      "author": "Kapellanen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kapellanen",
-      "posted_relative": "for 1 t siden",
-      "text": "Brent står til 107.4  på investing.com og på trading economics. Finansavisen viser 105.7 I nordnetappen vises brent til 102.3. 🤯",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 128,
-      "has_link": false
-    },
-    {
-      "key": "43aa3e18e070c5e5",
-      "author": "Kapellanen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kapellanen",
-      "posted_relative": "for 10 min siden · Endret",
-      "text": "Heretter forholder jeg meg til prisen fra Intercontinental Exchange som vises på investing.com.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 95,
-      "has_link": false
-    },
-    {
-      "key": "f6ff61a35ff15c28",
-      "author": "Jadevadeja",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
-      "posted_relative": "for 3 t siden",
-      "text": "Brent over 108 usd/BBLS igjen",
+      "key": "30aef7a331aec955",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 36 min siden · Endret",
+      "text": "Fikk dette svaret fra Nordnet: 😡 Oljeprisen vi viser nå er basert på futures i Brent olje. Du finner en forklaring av oljeprisen vår her: https://www.nordnet.no/faq/nordnet-markets/bull-bear/hvilken-oljepris-viser-nordnet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [],
-      "char_count": 29,
-      "has_link": false
+      "links": [
+        "https://www.nordnet.no/faq/nordnet-markets/bull-bear/hvilken-oljepris-viser-nordnet"
+      ],
+      "char_count": 221,
+      "has_link": true
     }
   ]
 }

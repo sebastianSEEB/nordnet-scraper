@@ -1,9 +1,41 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-15T12:13:36.707266+00:00",
+  "scraped_at": "2026-09-15T13:19:39.888563+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f19408c5c91f731a",
+      "author": "KIRNE14",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kirne14",
+      "posted_relative": null,
+      "text": "11. sep. · Endret Vi får satse på at KOA er med, eller blir med, her - inkludert Chassis Autonomys steer-by-wire-system: https://www.ffi.no/aktuelt/nyheter/disse-robotene-skal-bryte-gjennom-fiendens-linjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [
+        "https://www.ffi.no/aktuelt/nyheter/disse-robotene-skal-bryte-gjennom-fiendens-linjer"
+      ],
+      "char_count": 205,
+      "has_link": true
+    },
+    {
+      "key": "ae4a7020fb79b0f7",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": null,
+      "text": "11. sep. Det blir vel en helt annen kundegruppe og helt andre instanser som godkjenner. Men absolutt at dette kommer til å bli et gigantisk marked fremover",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    }
+  ]
 }

@@ -1,83 +1,28 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-15T12:08:27.733447+00:00",
+  "scraped_at": "2026-09-15T13:14:41.835109+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 5,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "0d86ed164250fa79",
-      "author": "Kjernekar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
-      "posted_relative": "for 2 t siden",
-      "text": "Lars: vi er så flinke til å utslette oss selv uansett, så jeg tror ikke det har så mye å si hvis vi blir utslettet med eller uten AI. Den nyheten er glemt innen en uke og da skal alle kjøpe med begge hender. Vi er gode på å glemme nyheter. 👍👍",
+      "key": "fdf1cd0605432f66",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": null,
+      "text": "11. sep. · https://imaginary.finansavisen.no/pipe?quality=80&type=jpeg&url=https%3A%2F%2Fhegnar-investor-dev.s3.eu-west-2.amazonaws.com%2Freply-images%2F27a17284-d537-45b8-914a-398be2cca43d1789117784424 fin kommentar fra NAPATECH Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        14,
         2
       ],
-      "links": [],
-      "char_count": 242,
-      "has_link": false
-    },
-    {
-      "key": "77580233095f11d0",
-      "author": "Sapper71",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sapper71",
-      "posted_relative": "for 4 t siden",
-      "text": "Kan noen dele sine innsikter omkring kraftig nedgang også i dag?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
+      "links": [
+        "https://imaginary.finansavisen.no/pipe?quality=80&type=jpeg&url=https%3A%2F%2Fhegnar-investor-dev.s3.eu-west-2.amazonaws.com%2Freply-images%2F27a17284-d537-45b8-914a-398be2cca43d1789117784424"
       ],
-      "links": [],
-      "char_count": 64,
-      "has_link": false
-    },
-    {
-      "key": "459a5b06dddad649",
-      "author": "Oxion",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
-      "posted_relative": "for 20 t siden",
-      "text": "Hva er grunnen til så kraftig ned i dag ???",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 43,
-      "has_link": false
-    },
-    {
-      "key": "747e3c31ece45fc6",
-      "author": "LilleAleks",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillealeks",
-      "posted_relative": null,
-      "text": "11. sep. Er toget gått?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 23,
-      "has_link": false
-    },
-    {
-      "key": "4c7d2f78ee626163",
-      "author": "2rje93",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/2rje93",
-      "posted_relative": "for 3 t siden",
-      "text": "Såh opp igjen",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 13,
-      "has_link": false
+      "char_count": 249,
+      "has_link": true
     }
   ]
 }
