@@ -1,9 +1,23 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-15T13:16:59.754228+00:00",
+  "scraped_at": "2026-09-15T14:02:28.110405+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1546d4125b293381",
+      "author": "Dulle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
+      "posted_relative": "for 11 min siden",
+      "text": "Hva tror Dere om sluttauksjonen i dag. Synes det ser positivt ut -  tror og håper på et rykk opp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    }
+  ]
 }

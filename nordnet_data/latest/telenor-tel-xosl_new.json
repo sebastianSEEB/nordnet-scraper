@@ -1,24 +1,38 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-15T13:17:07.321669+00:00",
+  "scraped_at": "2026-09-15T14:02:35.729548+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "41ebf30f2320653f",
-      "author": "Toni O",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toni-o",
-      "posted_relative": "for 46 min siden",
-      "text": "Tydeligvis ikke, penger trumfer moral 🤔",
-      "reply_count": 1,
+      "key": "a431d626be3e5ee2",
+      "author": "LArgh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/largh",
+      "posted_relative": "for 3 t siden",
+      "text": "I og med at \"alt\" faller i dag er det ganske tullete å hevde at en nedgang på under 1% i TEL er en reaksjon på etterforskningen av selskapet. Jeg tror ikke den vil ha noe å si i det lange løp. Vis 1 kommentar til",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        7,
+        5
       ],
       "links": [],
-      "char_count": 39,
+      "char_count": 212,
+      "has_link": false
+    },
+    {
+      "key": "843afa0bc72cc86b",
+      "author": "Jak0b",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jak0b",
+      "posted_relative": "for 43 min siden",
+      "text": "Bare midlertidig støy",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
       "has_link": false
     }
   ]

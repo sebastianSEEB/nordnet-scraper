@@ -1,9 +1,23 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-09-15T13:17:11.100120+00:00",
+  "scraped_at": "2026-09-15T14:02:39.947248+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f276842a59c7cca8",
+      "author": "VanTwin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vantwin",
+      "posted_relative": null,
+      "text": "11. sep. Det som har skjedd, har åpnet døren for nye muligheter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }

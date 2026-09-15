@@ -1,9 +1,38 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-15T13:14:01.634620+00:00",
+  "scraped_at": "2026-09-15T13:59:15.779578+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "62bb27663762b8b1",
+      "author": "NordicHodler",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordichodler",
+      "posted_relative": "for 23 min siden",
+      "text": "Der klarte den nok engang å ikke bryte motstanden på 162 og vil sikkert falle tilbake til 158 kr....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "3d0b04496c1e7706",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 21 min siden",
+      "text": "Den som venter på noe godt….😊",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }
