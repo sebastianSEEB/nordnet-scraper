@@ -1,22 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-15T08:08:49.415032+00:00",
+  "scraped_at": "2026-09-15T12:07:00.279764+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c6f640579ee973ce",
-      "author": "Barcabert",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
-      "posted_relative": "for 32 min siden",
-      "text": "Er dette noe vi fortsatt gidder å fabulere om? Du kommer ikke videre om du dveler i fortiden. Vurder heller om VÅR er et selskap du vil være med videre i, eller om du skal plassere pengene dine andre steder.",
+      "key": "1fcb43006611ceab",
+      "author": "BullTravel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulltravel",
+      "posted_relative": "for 29 min siden",
+      "text": "Det blei vel skreve konkret ved utlysning av oppkjøet om prosessen tar lengre tid og en ender opp med neste utbytte ifra BNOR så blir kontantvederlaget redusert tilsvarende.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 207,
+      "char_count": 173,
+      "has_link": false
+    },
+    {
+      "key": "8e67bf3fc8413c92",
+      "author": "Nor Alkadi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nor-alkadi",
+      "posted_relative": "for 3 t siden",
+      "text": "Rekker vi å få utbytte får fusjoneringen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

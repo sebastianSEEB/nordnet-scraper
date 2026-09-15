@@ -1,9 +1,38 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-09-15T08:08:26.317715+00:00",
+  "scraped_at": "2026-09-15T12:06:37.073234+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "73b1155cbdf3f56c",
+      "author": "VonAnd123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vonand123",
+      "posted_relative": "for 1 t siden",
+      "text": "· Var det ikke grunnmuren som sa den ville være i 100 + i sommer?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "93bfb27ba2b7ab37",
+      "author": "Grunnmuren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grunnmuren",
+      "posted_relative": "for 3 t siden",
+      "text": "· 🚀 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

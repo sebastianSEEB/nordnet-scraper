@@ -1,9 +1,25 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwib-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwib-xosl",
-  "scraped_at": "2026-09-15T08:08:22.466016+00:00",
+  "scraped_at": "2026-09-15T12:06:33.386799+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1f3ceef3e88e43a7",
+      "author": "PoorBastard",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/poorbastard",
+      "posted_relative": null,
+      "text": "11. sep. 640kr per WWI aksje nå når wawi er 169kr aksjen.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

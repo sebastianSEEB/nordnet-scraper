@@ -1,9 +1,25 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-15T08:12:46.322458+00:00",
+  "scraped_at": "2026-09-15T12:10:49.788432+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ed6981bec29cbc8c",
+      "author": "Kleo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
+      "posted_relative": "for 3 t siden",
+      "text": "Mediobanca hever kursmålet for DNB til 380 kroner (335), gjentar outperform. Kilde: Nordnets nyhetsfeed",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,51 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-15T08:09:25.426939+00:00",
+  "scraped_at": "2026-09-15T12:07:35.060216+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "6449261a5cdd0983",
-      "author": "upanddown67",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
-      "posted_relative": "for 12 min siden",
-      "text": "Kursen er i plus nå :)",
+      "key": "4eb112f35240d1b5",
+      "author": "Ottotoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ottotoo",
+      "posted_relative": "for 2 t siden",
+      "text": "Tombola aksjen er i grønt. vi får krysse fingre og tær for dette selskapet gjør mye rart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "ac50e97f27f8b91c",
+      "author": "MORTEN R",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morten-r",
+      "posted_relative": "for 14 min siden",
+      "text": "N bør jo kursen snu nå som det har blitt færre shortere ..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 22,
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "7eb5f3d3efdb1357",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 51 min siden",
+      "text": "Det ser ut som kursen skal slutte over 95 idag :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
       "has_link": false
     }
   ]

@@ -1,9 +1,23 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-09-15T08:12:15.882553+00:00",
+  "scraped_at": "2026-09-15T12:10:19.842764+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "da8ed4f64ed26873",
+      "author": "SinghStar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/singhstar",
+      "posted_relative": null,
+      "text": "11. sep. Hva tenker dere om risikoen rundt Bab Al-Mandeb stredet nå som Houthiene har tatt hele vestkysten her? Dette kan vel potensielt skape en del trøbbel og økte kostnader for Kid?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 184,
+      "has_link": false
+    }
+  ]
 }

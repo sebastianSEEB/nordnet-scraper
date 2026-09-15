@@ -1,50 +1,66 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-15T08:11:21.592807+00:00",
+  "scraped_at": "2026-09-15T12:09:23.646067+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "cefe8dad106f584a",
-      "author": "tospann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
-      "posted_relative": "for 6 min siden",
-      "text": "Olja er høy, og det vil den være kommende år. DNO er en vekst og pengemaskin i dag. Dette vil bare øke på. Aksjekursen vil bare følge på",
+      "key": "763c5fcc06a78cf6",
+      "author": "CryptoAIGen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cryptoaigen",
+      "posted_relative": "for 3 t siden",
+      "text": "Forward prisen faller ganske bratt. Så det er ikke bare tro, men et marked som tror dette løser seg ganske raskt.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 136,
+      "char_count": 113,
       "has_link": false
     },
     {
-      "key": "12e6ff343b54e573",
+      "key": "a7beec81e1615097",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 3 t siden",
+      "text": "Har benyttet anledningen å fylt på mere aksjer til gi bort priser i dag, gleder meg til 29.oktober !!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    },
+    {
+      "key": "dd7c768130bb27e1",
       "author": "stian1992",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stian1992",
-      "posted_relative": "for 43 min siden",
-      "text": "Noen som anslag på hvor mye over brent spot at dated brent ligger?",
+      "posted_relative": "for 2 t siden",
+      "text": "I april var det den til tider over 20 dollar høyere enn brent spot. Hadde vert interressant å visst.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "dc88ae225a46828d",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 35 min siden · Endret",
+      "text": "Denne prisinga av oljeselskapa er det ikke alle selskap som har \"fått\" være med på ;-) Enn så lenge",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 66,
-      "has_link": false
-    },
-    {
-      "key": "4d8bda420c1155f0",
-      "author": "scbydoo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/scbydoo",
-      "posted_relative": "for 53 min siden",
-      "text": "· Dated brent er 130",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 20,
+      "char_count": 99,
       "has_link": false
     }
   ]

@@ -1,24 +1,40 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-09-15T08:08:06.914537+00:00",
+  "scraped_at": "2026-09-15T12:06:17.866246+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "32ab4efd9e3b4d76",
-      "author": "hphill",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hphill",
-      "posted_relative": "for 44 min siden",
-      "text": "· OPP !",
+      "key": "36e5e27f86c79c5e",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": null,
+      "text": "11. sep. Harpex opp 5 poeng siste uke. Økende rater i 2 år nå. Det vil liksom ikke gi seg utslag i kursen til MPC! Men plutselig en dag vil  det oppdemede inntjeninspotensialet slå ut i høyere kurs. https://www.harperpetersen.com/container",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        11,
+        9
       ],
+      "links": [
+        "https://www.harperpetersen.com/container"
+      ],
+      "char_count": 239,
+      "has_link": true
+    },
+    {
+      "key": "8969a3edfc7302d9",
+      "author": "perod10",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/perod10",
+      "posted_relative": "for 1 t siden",
+      "text": "Da er vi hovedsakelig egentlig enig, prøvde egentlig bare å forklare hvorfor de ikke rykker til på kort sikt i det spesifikke innlegget. Godt med høre angående vinen, man sløser ikke med slikt :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 7,
+      "char_count": 195,
       "has_link": false
     }
   ]

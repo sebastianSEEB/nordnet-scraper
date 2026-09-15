@@ -1,9 +1,25 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-15T08:14:11.275952+00:00",
+  "scraped_at": "2026-09-15T12:12:19.207762+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7013f03d9ea5fd9f",
+      "author": "Sin_of_Greed",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sin_of_greed",
+      "posted_relative": "for 2 t siden",
+      "text": "Selskapet sier eksplisitt på rapporten at tapene kan fortsette flere kvartaler fremover, med tanke på økt renteheving kan selskapet falle mere fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-15T08:13:21.909615+00:00",
+  "scraped_at": "2026-09-15T12:11:26.628786+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e6713c16d2a215c5",
+      "author": "Longley1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longley1",
+      "posted_relative": "for 20 min siden",
+      "text": "Forsøk å gjøre din egen analyse 🧐 jeg er investert da og kjøpte mer under dagens dip.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "3a679b8e3c062410",
+      "author": "Frihet1814",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/frihet1814",
+      "posted_relative": "for 1 t siden",
+      "text": "er det verdt å investere her? jeg er ny",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }
