@@ -1,9 +1,25 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-15T07:08:27.000983+00:00",
+  "scraped_at": "2026-09-15T08:10:05.060497+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6395fac987b31358",
+      "author": "knass",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knass",
+      "posted_relative": null,
+      "text": "11. sep. Betales ikke utbytte kun ut 1 gang per år?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

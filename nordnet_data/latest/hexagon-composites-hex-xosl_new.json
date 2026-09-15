@@ -1,24 +1,53 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-15T07:09:57.754907+00:00",
+  "scraped_at": "2026-09-15T08:11:45.271619+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "410712ac6371d2ed",
-      "author": "BlueTes",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bluetes",
-      "posted_relative": "for 33 min siden",
-      "text": ". . . . og når MTA i USA bytter ut 650 el busser med cng/rng ser vi et mønster som viser potensialet.",
+      "key": "1b7260d2406cd588",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 56 min siden",
+      "text": "· Boom! https://hexagonagility.com/news/agrale-argentina-agreement",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        13,
+        2
       ],
+      "links": [
+        "https://hexagonagility.com/news/agrale-argentina-agreement"
+      ],
+      "char_count": 66,
+      "has_link": true
+    },
+    {
+      "key": "b6f442b60f727692",
+      "author": "Genna",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/genna",
+      "posted_relative": "for 7 min siden",
+      "text": "Med et grovt estimat på USD 15–20k per CNG-system, kan dette tilsvare rundt 60–100 mill. kr i omsetning for Hexagon Agility. Det interessante er også at dette bygger videre på en tidligere avtale på 108 busser. Volumet er altså betydelig større denne gangen, og avtalen kan være viktig strategisk dersom CNG-markedet i Argentina fortsetter å vokse. Hvorfor trekkes ikke dette mer frem med børsmeldingen eller nyhet?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 101,
+      "char_count": 415,
+      "has_link": false
+    },
+    {
+      "key": "dc811936936a7932",
+      "author": "th59",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/th59",
+      "posted_relative": "for 1 min siden",
+      "text": "Er vel for liten,  mellom 50 og 100 mill nok. Senere kontrakter, som sansynligvis kommer, er jo det som burde trigge.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
       "has_link": false
     }
   ]

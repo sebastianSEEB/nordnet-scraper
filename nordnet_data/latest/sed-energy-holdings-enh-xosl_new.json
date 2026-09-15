@@ -1,9 +1,23 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-15T07:08:50.182895+00:00",
+  "scraped_at": "2026-09-15T08:10:29.623762+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "924ab277ef80df3f",
+      "author": "martaifarta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/martaifarta",
+      "posted_relative": "for 15 min siden",
+      "text": "· 7,51",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

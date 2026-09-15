@@ -1,9 +1,36 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-15T07:11:05.004641+00:00",
+  "scraped_at": "2026-09-15T08:12:58.189782+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "004dbe12688d811d",
+      "author": "Julian2006",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/julian2006",
+      "posted_relative": "for 5 min siden",
+      "text": "Telenor opplyser at norske påtalemyndigheter har åpnet etterforskning og tatt ut siktelse mot selskapet. Det skriver Telenor i en børsmelding. Siktelsen gjelder to forhold: Mistanke om brudd på sanksjonsloven og mistanke om medvirkning til forbrytelse mot menneskeheten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 270,
+      "has_link": false
+    },
+    {
+      "key": "dff37e28c8372b49",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 12 min siden",
+      "text": "Trauste drittaksje. Er ikke verdt å sitte å vente på 1 utbytte, når kursen faller x antall ganger utbyttet over tid. Vært et begredelig år for Telenor!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    }
+  ]
 }
