@@ -1,9 +1,51 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-15T02:23:52.427817+00:00",
+  "scraped_at": "2026-09-15T07:09:34.509004+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5927875301158628",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 1 t siden",
+      "text": "Er ikke bare olje og gass priser som er med dette selskapet nå . Enda mer cash inn. PANORO ENERGY: FULLFØRT OPPKJØP I ELFENBENSKYSTEN I dag kl. 06:06 • TDN Finans  Oslo (Infront TDN Direkt): Panoro Energy har fullført oppkjøpet av DNOs heleide datterselskap DNO CI LLC, som indirekte eier 9,09 prosent av den gassproduserende lisensen CI‑27 offshore Elfenbenskysten.  Det fremgår av en melding mandag.  Vederlaget ved gjennomføring var 64,4 millioner dollar, hvorav 43 millioner dollar ble betalt kontant og 21,4 millioner dollar gjennom utstedelse av syv millioner nye Panoro‑aksjer til DNO.  Panoro hadde tidligere betalt et kontantdepositum på 5 millioner dollar og overtar i tillegg rundt 8 millioner dollar i kontanter i den oppkjøpte strukturen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 751,
+      "has_link": false
+    },
+    {
+      "key": "929e05752596a986",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 5 min siden",
+      "text": "· Ojeselskapene virker å ha vanskelig for å holde tritt med oljeprisen, det virker som man tror at prisen skal rase, det føles rart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "87fc15239e84bf6b",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 7 min siden",
+      "text": "· SPOT PRIS PÅ 108",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

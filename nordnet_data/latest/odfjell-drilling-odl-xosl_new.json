@@ -1,9 +1,25 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-09-15T02:22:30.118843+00:00",
+  "scraped_at": "2026-09-15T07:08:15.194482+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d8aa1d668cece070",
+      "author": "OzzyO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ozzyo",
+      "posted_relative": null,
+      "text": "11. sep. Enig i at fargevalget er dårlig, men du kan nå ordrene med én knapp øverst i høyre hjørne. Tilsvarende knapp som på nettsiden.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 135,
+      "has_link": false
+    }
+  ]
 }

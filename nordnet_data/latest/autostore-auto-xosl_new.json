@@ -1,9 +1,25 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-15T02:23:56.352104+00:00",
+  "scraped_at": "2026-09-15T07:09:38.255642+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "00bbd80e41abcfe6",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 1 t siden",
+      "text": "Würth utvider AutoStore-satsingen med to nye anlegg: Würth Australia har valgt AutoStore til to distribusjonssentre, i Queensland og Victoria, med Dematic som integrator. Begge skal etter planen settes i drift i 2027.Det interessante er at dette ikke er første gang Würth-konsernet velger AutoStore. Teknologien brukes allerede av Würth-selskaper i blant annet Kina, Nederland og Tyskland. Så nok et eksempel på den viktige land-and-expand-effekten.Når AutoStore først er etablert og bevist i et stort internasjonalt konsern, teknologien rulles videre ut på tvers av selskaper og geografier.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14
+      ],
+      "links": [],
+      "char_count": 591,
+      "has_link": false
+    }
+  ]
 }

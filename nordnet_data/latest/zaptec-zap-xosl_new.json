@@ -1,9 +1,42 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-15T02:21:51.106793+00:00",
+  "scraped_at": "2026-09-15T07:07:37.022491+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ecadfdd3aaf4c211",
+      "author": "KingKong75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kingkong75",
+      "posted_relative": "for 32 min siden",
+      "text": "Til slutt får Zaptec kursmål 70 kroner. ABG venter et sterkt tredje kvartal og rekordhøy omsetning i fjerde kvartal, støttet av en ordrebok på over 1,1 milliarder kroner og økt produksjonskapasitet. https://www.finansavisen.no/finans/2026/09/15/8380229/abgs-aksjefavoritter-ser-opptil-50-prosent-oppside",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/15/8380229/abgs-aksjefavoritter-ser-opptil-50-prosent-oppside"
+      ],
+      "char_count": 303,
+      "has_link": true
+    },
+    {
+      "key": "51b6e29aa594447f",
+      "author": "Stefan007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
+      "posted_relative": "for 58 min siden",
+      "text": "· elbilsalget vil i alle fall øke i Sverige. Med det valgresultatet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

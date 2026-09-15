@@ -1,9 +1,25 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-15T02:25:06.852672+00:00",
+  "scraped_at": "2026-09-15T07:10:46.574050+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "da906cf98873f7dc",
+      "author": "omvo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omvo",
+      "posted_relative": "for 3 min siden",
+      "text": "· https://nykode.com/wp-content/uploads/2026/08/260821_Company-presentation_August-2026_Final_Website.pdf",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://nykode.com/wp-content/uploads/2026/08/260821_Company-presentation_August-2026_Final_Website.pdf"
+      ],
+      "char_count": 105,
+      "has_link": true
+    }
+  ]
 }

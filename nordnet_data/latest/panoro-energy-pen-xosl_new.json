@@ -1,9 +1,41 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-15T02:21:58.937457+00:00",
+  "scraped_at": "2026-09-15T07:07:44.394687+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "614719ca1b40823f",
+      "author": "Tigana1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tigana1",
+      "posted_relative": "for 12 t siden",
+      "text": "Denne siste meldingen er ganske så god. Det representerer en speed-up på produksjon som overgår tidligere mål for 2027 og en attraktiv vekting inn mot gass. Får en base-case pris på 38-40 med KI-vurdering.. 👌 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 228,
+      "has_link": false
+    },
+    {
+      "key": "1d0cf062a2330da3",
+      "author": "NPNI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/npni",
+      "posted_relative": "for 2 t siden",
+      "text": "· Kjøpte til 3x ebitda og tapte 6% i utvanning samt USD 80. Det går nok bra... bare det ikke er for mye vedlikehold 🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    }
+  ]
 }

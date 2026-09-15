@@ -1,9 +1,27 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-15T02:21:32.151978+00:00",
+  "scraped_at": "2026-09-15T07:07:18.140139+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "071b5749586804fe",
+      "author": "mariusvell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusvell",
+      "posted_relative": null,
+      "text": "11. sep. Ser stor oppside i norsk gigant Høyere europeiske gasspriser får Goldman Sachs til å løfte kursmålet på Vår Energi kraftig. Banken mener aksjen er blant de beste måtene å spille en mulig ny gassprisoppgang. https://www.finansavisen.no/energi/2026/09/10/8379519/goldman-sachs-ser-stor-oppside-i-norsk-gigant",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        17
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/10/8379519/goldman-sachs-ser-stor-oppside-i-norsk-gigant"
+      ],
+      "char_count": 315,
+      "has_link": true
+    }
+  ]
 }

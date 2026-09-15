@@ -1,9 +1,54 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-15T02:27:34.363811+00:00",
+  "scraped_at": "2026-09-15T07:13:15.226821+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "195e71225db317ed",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 2 t siden",
+      "text": "Geit, Thor må tjene penger å gå med positivt resultat. Nå har de startet ny prosess med utbygging, noe som skaper usikkerhet rundt hvor velykket det blir, kommer det skjær i sjøen og flere emisjoner. Jeg mener fortsatt de burde ventet til selskapet leverte pluss på bunnlinjen, da har de vist at de kan og emisjonen som nå ble gjort ville vannet ut mindre på høyere kurs.  Usikkerhet tror jeg vil drive kursen nedover og jeg tror den kan gå ned dit basert på det",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 462,
+      "has_link": false
+    },
+    {
+      "key": "0be702af36df9876",
+      "author": "EmilMathias",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emilmathias",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Kjøpte du på 7kr eller",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "c10a00f07a532034",
+      "author": "Korona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
+      "posted_relative": "for 7 min siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

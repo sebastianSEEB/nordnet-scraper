@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-15T02:25:49.302645+00:00",
+  "scraped_at": "2026-09-15T07:11:27.747123+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "55305eb94260047d",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 23 min siden",
+      "text": "ABG Sundal Collier trekker frem 11 aksjefavoritter på Oslo Børs: Storebrand er inkludert i porteføljen, og omtales som en «Jack of all trades, master of most». Sterk utvikling innen sparing, høyere lønnsomhet i forsikring og Knif-oppkjøpet. Meglerhuset ser rundt 30 prosent totalavkastning frem mot 2028, inklusive utbytter og tilbakekjøp. Kursmål 220 kroner.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 359,
+      "has_link": false
+    }
+  ]
 }

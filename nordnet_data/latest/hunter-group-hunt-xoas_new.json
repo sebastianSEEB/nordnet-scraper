@@ -1,9 +1,80 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-15T02:25:02.899337+00:00",
+  "scraped_at": "2026-09-15T07:10:42.509457+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "ba9ec8c63e00ca2a",
+      "author": "EmilMathias",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emilmathias",
+      "posted_relative": "for 1 min siden",
+      "text": "Ikke for sent vil jeg si. Men jeg er ingen finansrådgiver 😅 Men ut ifra det dem tjener å fremgangen i selskapet, vil jeg tro at denne skal en god del høyere opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 161,
+      "has_link": false
+    },
+    {
+      "key": "d5f4e6e2134bd3b2",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 42 min siden",
+      "text": "$ 1.034.803.- Gårsdagens \"våre\" rater. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina            978,33       1.034.803",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        1
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "93c512758b10e11f",
+      "author": "Axelrod1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
+      "posted_relative": "for 1 min siden",
+      "text": "· Det ser ut som om noen via Goldman er ivrige etter å shorte, 3+ millioner aksjer tatt opp. Vi får se om de brukes til short.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "e34b11b7e3bda589",
+      "author": "romer1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/romer1",
+      "posted_relative": "for 36 min siden",
+      "text": "Hvor mye høyere vil det gå nå eller er det for sent å slenge seg på?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "cd87a0d1eb2bf4cc",
+      "author": "LongLearning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longlearning",
+      "posted_relative": "for 7 min siden",
+      "text": "· 🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

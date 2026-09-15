@@ -1,9 +1,54 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-15T02:21:55.032875+00:00",
+  "scraped_at": "2026-09-15T07:07:40.662328+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a20c0cabbf921993",
+      "author": "Aloso",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aloso",
+      "posted_relative": "for 11 min siden",
+      "text": "· https://www.globenewswire.com/news-release/2026/09/15/3361639/0/en/kitron-asa-initiation-of-share-buyback-program.html",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.globenewswire.com/news-release/2026/09/15/3361639/0/en/kitron-asa-initiation-of-share-buyback-program.html"
+      ],
+      "char_count": 120,
+      "has_link": true
+    },
+    {
+      "key": "d5afeb8b2f8e4834",
+      "author": "Kong__kurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kong__kurs",
+      "posted_relative": "for 3 t siden",
+      "text": "Og ja.. Jeg har en personlig vendetta mot DnB",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "5660ca954dbf417a",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 8 min siden",
+      "text": "Hele 10000 aksjer xD",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-15T02:24:16.815011+00:00",
+  "scraped_at": "2026-09-15T07:09:57.754907+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "410712ac6371d2ed",
+      "author": "BlueTes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bluetes",
+      "posted_relative": "for 33 min siden",
+      "text": ". . . . og når MTA i USA bytter ut 650 el busser med cng/rng ser vi et mønster som viser potensialet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }

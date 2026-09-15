@@ -1,9 +1,25 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-15T02:25:37.975965+00:00",
+  "scraped_at": "2026-09-15T07:11:16.345755+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "874ced6fdc83d2bb",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 2 t siden",
+      "text": "Konflikten eskalerer.  Jemens houthi-milits har tatt kontroll over to strategiske øyer i Rødehavet mandag. Samtidig har Saudi-Arabia gjennomført 54 luftangrep på 24 timer mot landet mandag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 189,
+      "has_link": false
+    }
+  ]
 }

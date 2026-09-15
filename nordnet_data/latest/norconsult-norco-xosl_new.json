@@ -1,9 +1,25 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-09-15T02:22:49.053700+00:00",
+  "scraped_at": "2026-09-15T07:08:35.191132+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "67584257d0adc6fe",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 19 min siden",
+      "text": "ABG Sundal Collier trekker frem 11 aksjefavoritter på Oslo Børs: For Norconsult venter ABG rundt 60 prosent resultatvekst (EPS) fra 2026 til 2028. Meglerhuset mener dessuten selskapet har betydelig kapasitet til flere oppkjøp. Kursmålet er 45 kroner.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 250,
+      "has_link": false
+    }
+  ]
 }
