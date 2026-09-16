@@ -1,9 +1,55 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-16T02:13:28.236013+00:00",
+  "scraped_at": "2026-09-16T08:01:22.548059+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "0a680c9f35ff4a38",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg tror det er suben på TI som trigget kursoppgangen i USA 14.09 https://app.tankersinternational.com/fixtures/8f925edb-abff-4e8a-83a1-3a2ebf8e1df0 (Aristidis har for øvrig påpekt at actuals der er for lav, er rundt 750k)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://app.tankersinternational.com/fixtures/8f925edb-abff-4e8a-83a1-3a2ebf8e1df0"
+      ],
+      "char_count": 222,
+      "has_link": true
+    },
+    {
+      "key": "a33f47046b44a2c0",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 2 t siden",
+      "text": "Gårsdagens \"våre\" rater. Vi får godt betalt med andre ord. Veldig godt betalt. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina          1.036,78     1.099.063 260        V-Afr/Kina         494,38       485.787",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 230,
+      "has_link": false
+    },
+    {
+      "key": "0be4658f024d10a9",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 2 t siden",
+      "text": "Kursmål;  $ 90.- ( NOK 837.-) Sluttkurs i går på NYSE; 82,73 ( NOK 770.-) Dette kursestimatet fra Arctic er satt 4.09.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    }
+  ]
 }

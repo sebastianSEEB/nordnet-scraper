@@ -1,9 +1,49 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-16T02:14:52.551085+00:00",
+  "scraped_at": "2026-09-16T08:02:39.732551+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2b5906a2f4d1bca8",
+      "author": "KjekkenKjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
+      "posted_relative": "for 29 min siden",
+      "text": "I dag kan vel faktisk treffe 610, noe som tilsvarer ATH for 2026. Ser vi flere lengre tilbake er ATH 709, men selv det er vel ikke umulig å slå hvis denne utviklingen i midt østen fortsetter. I løpet av uken kanskje? Hva tenker folk?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "a14f992df8fdbb8f",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": "for 29 min siden",
+      "text": "· Noen som vet hva som skjer med avkastningsdataen man har når den blir konvertert til vår? Jeg har ca 16% avkastning, følger det bare med så jeg plutselig har 16% avkastning av vår ???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 185,
+      "has_link": false
+    },
+    {
+      "key": "a86b6ab95edd5610",
+      "author": "deebs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/deebs",
+      "posted_relative": "for 1 t siden",
+      "text": "Dere som kan dette, bør en selge eller beholde denne aksjen om en ikke har mer enn et par tusenlapper inne?  Hilsen newbie på aksje markedet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    }
+  ]
 }

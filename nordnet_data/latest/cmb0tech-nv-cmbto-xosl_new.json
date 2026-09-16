@@ -1,9 +1,25 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-16T02:14:44.082925+00:00",
+  "scraped_at": "2026-09-16T08:02:32.218498+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "296927db07f1c028",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 27 min siden",
+      "text": "· https://newsweb.oslobors.no/message/682396",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://newsweb.oslobors.no/message/682396"
+      ],
+      "char_count": 44,
+      "has_link": true
+    }
+  ]
 }

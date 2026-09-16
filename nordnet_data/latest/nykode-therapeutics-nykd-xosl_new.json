@@ -1,9 +1,25 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-16T02:18:35.514347+00:00",
+  "scraped_at": "2026-09-16T08:06:24.473869+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "76f3840488cf253a",
+      "author": "Gordon Gekko5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
+      "posted_relative": "for 2 t siden",
+      "text": "Sannsynligheten for at den ikke går i NYKDs favør er jo minimal etter brevet de fikk.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

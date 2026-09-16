@@ -1,9 +1,38 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-16T02:13:40.068571+00:00",
+  "scraped_at": "2026-09-16T08:01:34.494875+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fbbf27660e874096",
+      "author": "wolking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wolking",
+      "posted_relative": "for 1 t siden",
+      "text": "· Tror du fortsatt på god vekst her? Jeg vurderer å kjøpe inn litt hver måned. Spesielt på grunn av det gode utbyttet som også følger med.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "751b28983d88a602",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 56 min siden",
+      "text": "Yapp, fylte opp nå, med utbytte..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

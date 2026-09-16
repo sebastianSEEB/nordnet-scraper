@@ -1,9 +1,70 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-16T02:17:16.605568+00:00",
+  "scraped_at": "2026-09-16T08:05:10.498718+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "6a6c268b23778ff9",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 3 t siden",
+      "text": "På tide at markedene våkner.  Advarer om energisjokk som vi nå alle kan se . Kan bli en alvorlig krise.  Kan bli en alvorlig krise, med vesentlig høyere priser enn det vi ser nå. Vi forventer at dette vil være volatilt og usikkert også fremover, sier han.  https://e24.no/boers-og-finans/i/y522JJ/pareto-sjefen-advarer-om-energisjokk-kan-bli-en-alvorlig-krise",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/y522JJ/pareto-sjefen-advarer-om-energisjokk-kan-bli-en-alvorlig-krise"
+      ],
+      "char_count": 359,
+      "has_link": true
+    },
+    {
+      "key": "e3ce6770ce96af97",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 32 min siden",
+      "text": "· Det føles som om noen ligger og dumper aksjer rett under 20, var det ikke en stor aktør som blac rock som nylig shortet DNO,",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "c193037b588d5ea0",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 55 min siden",
+      "text": "Oljeprisen har i markede nådd en pris på 150 og er stigende.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "17c6bd4539711917",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 59 min siden",
+      "text": "· Vi burde over 20 i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

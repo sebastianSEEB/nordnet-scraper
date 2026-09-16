@@ -1,9 +1,54 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-16T02:15:19.458909+00:00",
+  "scraped_at": "2026-09-16T08:03:08.722543+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6d3cc7d448c8cf10",
+      "author": "blacktime",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacktime",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/09/15/8380544/amerikanske-oljetopper-oljekrisen-er-her",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/15/8380544/amerikanske-oljetopper-oljekrisen-er-her"
+      ],
+      "char_count": 94,
+      "has_link": true
+    },
+    {
+      "key": "5db64f9859234904",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· DNO fikk 7 millioner aksjer i går. Alle andeler synker automatisk. Så ingen panikk, takk!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        4
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "c19f66af31fb6170",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 59 min siden",
+      "text": "· Cobas har tydeligvis økt med 600k aksjer!",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

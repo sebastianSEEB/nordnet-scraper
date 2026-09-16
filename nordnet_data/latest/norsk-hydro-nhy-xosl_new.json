@@ -1,9 +1,70 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-09-16T02:19:00.615397+00:00",
+  "scraped_at": "2026-09-16T08:06:50.347512+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "eeb1e85359087bf4",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 21 t siden",
+      "text": "Aluminium det metallet som har klart seg best i denne \"lille\" korreksjonen på metaller siste dager Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "dc33b124964fa5b7",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 45 min siden",
+      "text": "Ikke godt å si. Alcoa leverer muligens mer i USA der prisen på Alu er ca 200 D/t høyere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "dc1597ba566a8898",
+      "author": "Prasanna.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prasanna-1",
+      "posted_relative": "for 1 t siden",
+      "text": "· Så alle driver og nedgraderer denne!!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "8e8d8667b94508fa",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 24 min siden",
+      "text": "Vi får håpe det er mot bedre viten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

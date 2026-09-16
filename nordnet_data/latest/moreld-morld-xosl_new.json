@@ -1,9 +1,38 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-16T02:16:59.558505+00:00",
+  "scraped_at": "2026-09-16T08:04:55.416824+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f68fc3d1688955bf",
+      "author": "Marbella1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marbella1",
+      "posted_relative": null,
+      "text": "12. sep. AFMED kontrakten er en intensjonsavtale med en ikke navngitt operatør i Middelhavet og Afrika på nærmere milliarden. Denne kan offentliggjøres når som helst.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 166,
+      "has_link": false
+    },
+    {
+      "key": "35021dd794ed107e",
+      "author": "Marbella1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marbella1",
+      "posted_relative": "for 24 min siden · Endret",
+      "text": "Moreld har presentasjonen sin i dag klokken 11.20 i sal 3 på Pareto konferansen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }

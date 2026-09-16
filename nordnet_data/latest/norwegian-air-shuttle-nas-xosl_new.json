@@ -1,9 +1,70 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-16T02:15:00.147876+00:00",
+  "scraped_at": "2026-09-16T08:02:47.281035+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "38eb4a8729192fad",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 10 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/09/15/8380544/amerikanske-oljetopper-oljekrisen-er-her Lykke til Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/15/8380544/amerikanske-oljetopper-oljekrisen-er-her"
+      ],
+      "char_count": 124,
+      "has_link": true
+    },
+    {
+      "key": "b020db73f1ab081e",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 42 min siden · Endret",
+      "text": "Alle snakker om aksje prisen og sender den ned. Har non sett på billett prisene ,de er nesten steget 250%   på en del  av rutene. Derfor har Danske Bank satt den til 14kr tror jeg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 180,
+      "has_link": false
+    },
+    {
+      "key": "e399597d02fa07e1",
+      "author": "GordonGekko1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordongekko1",
+      "posted_relative": "for 2 t siden",
+      "text": "Ikke tips men hadde jeg vært Stordalen np hadde jeg forsøkt meg på et opokjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "20d98388eaa32c26",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 2 t siden",
+      "text": "Tar ikke i dette før det eventuelt faller under 10",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

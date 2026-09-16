@@ -1,9 +1,43 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-09-16T02:13:55.880639+00:00",
+  "scraped_at": "2026-09-16T08:01:50.553888+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "dd11ebb976faee9f",
+      "author": "alph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alph",
+      "posted_relative": "for 10 t siden",
+      "text": "· https://seekingalpha.com/article/4946334-dry-bulk-shipping-momentum-poised-to-continue Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://seekingalpha.com/article/4946334-dry-bulk-shipping-momentum-poised-to-continue"
+      ],
+      "char_count": 108,
+      "has_link": true
+    },
+    {
+      "key": "c43a801004f21087",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": "for 31 min siden",
+      "text": "Meget bra, takk for deling!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }
