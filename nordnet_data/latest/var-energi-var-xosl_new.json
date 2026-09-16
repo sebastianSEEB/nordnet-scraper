@@ -1,52 +1,86 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-16T08:06:57.853347+00:00",
+  "scraped_at": "2026-09-16T12:06:51.795385+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "a0cdde134cc51496",
-      "author": "Morris30",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morris30",
-      "posted_relative": "for 1 t siden",
-      "text": "· Ikke engang 110 dollar brent ennå. Det merkes at mange ikke var med i 2008. Da spratt prisene på 140. Svarer sikkert til 200+ i dag. Its a long way to the top if you wanna rock n roll",
+      "key": "9a51b5bdebe21542",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "https://x.com/TankerTrackers/status/2099989964691845122 https://www.reuters.com/business/energy/saudi-offers-more-crude-via-oman-loading-after-pipeline-attacks-sources-say-2026-09-16/ Saudiene går øst (stredet)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
+      "links": [
+        "https://www.reuters.com/business/energy/saudi-offers-more-crude-via-oman-loading-after-pipeline-attacks-sources-say-2026-09-16/",
+        "https://x.com/TankerTrackers/status/2099989964691845122"
+      ],
+      "char_count": 210,
+      "has_link": true
+    },
+    {
+      "key": "eaead3b348e76e84",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 5 min siden",
+      "text": "· Intervju med Paul Sankey https://www.youtube.com/watch?v=76cKbIpMaQI",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.youtube.com/watch?v=76cKbIpMaQI"
+      ],
+      "char_count": 70,
+      "has_link": true
+    },
+    {
+      "key": "5e760b97d1db079e",
+      "author": "kribbo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kribbo",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Vår spenner muskler 💪 for M&A. De henter inn 2,5 mrd usd og skal bruke 500 mill til tilbakebetaling av obligasjonslån som forfaller 2027.  Kapital til bluenord har de allerede på plass.  Vår genererer på nåværende tidspunkt 1,5-2 mrd FCF pr kvartal.  Vi snakker om potensielt kjøp av felt/selskap med 100k+ fat pr dag.  Tenker dere likt som meg? Vil gjerne høre på andre enn min egen stemme.  Ikke lim inn AI svar😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        2
+      ],
       "links": [],
-      "char_count": 185,
+      "char_count": 414,
       "has_link": false
     },
     {
-      "key": "01900dcdbe0d2398",
-      "author": "Coinflipper",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coinflipper",
-      "posted_relative": "for 11 min siden",
-      "text": "95% sannsynlighet for renteøkning så det er nok bra prisa inn. Jokeren er om det ikke kommer. Råvarer kommer til å fly og dollaren motsatt vei.",
+      "key": "4c664bd665ef7f5c",
+      "author": "Reuters",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reuters",
+      "posted_relative": "for 3 t siden",
+      "text": "Der verserer rykter om ConocoPhilips´ portefølje på Norsk sektor. De hadde en produksjon på 121 000 fat daglig i 2025.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "cd1ee6612c0ec330",
+      "author": "Frihet1814",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/frihet1814",
+      "posted_relative": "for 1 t siden",
+      "text": "Er oljeprisene på en topp nå. eller burde man gå inn nå?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 143,
-      "has_link": false
-    },
-    {
-      "key": "4aa84800e03b3870",
-      "author": "Tor73",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tor73",
-      "posted_relative": "for 34 min siden",
-      "text": "Det er rentemøte i USA i dag, hva tror dere dersom det kommer en renteøkning vurdert op mot Vår E?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 98,
+      "char_count": 56,
       "has_link": false
     }
   ]

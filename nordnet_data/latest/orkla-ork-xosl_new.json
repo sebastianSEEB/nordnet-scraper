@@ -1,24 +1,81 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-16T08:07:05.502018+00:00",
+  "scraped_at": "2026-09-16T12:07:00.529056+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "4e914735699493ab",
-      "author": "Panzerhanzen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
-      "posted_relative": "for 2 t siden",
-      "text": "Bra inngang, jeg har handlet.",
+      "key": "58e84b4b2cafd5f2",
+      "author": "LVs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lvs",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva tenker dere om Orklas nye ledelse etter Hagens bortgang? Vil Hagens arvtakere klare å holde Orkla på rett kurs med tenkning på strategier og daglig drift?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    },
+    {
+      "key": "9ecfc7377238e024",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 min siden",
+      "text": "dette slår alle rekord, hvor i alle dager kan Investtech ta så stor feil og mye feil i sine analyser, når gutta sa/skrev kjøp-kjøp..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "d6c288aa3064805d",
+      "author": "Ni1976",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ni1976",
+      "posted_relative": "for 15 t siden",
+      "text": "· Den går bare nedover ,,,, Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "ab7783f8b22777a5",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 35 min siden",
+      "text": "bere elsker Harto og Linløkken sine TA",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 29,
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "498ea90f23b77929",
+      "author": "MrPoopenstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrpoopenstein",
+      "posted_relative": "for 1 t siden",
+      "text": "· Nei, det gjør det ikke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
       "has_link": false
     }
   ]

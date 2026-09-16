@@ -1,9 +1,38 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-16T08:04:43.652457+00:00",
+  "scraped_at": "2026-09-16T12:04:35.214117+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ac82eaa2bc000e81",
+      "author": "Gråbein 44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
+      "posted_relative": "for 4 min siden",
+      "text": "Kanskje denne informasjonen kan være med til å roe urolege investorar her på Nordnet? https://simplywall.st/sv/stocks/no/software/ob-bouv/bouvet-shares/health?utm_source=share&utm_medium=native",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://simplywall.st/sv/stocks/no/software/ob-bouv/bouvet-shares/health?utm_source=share&utm_medium=native"
+      ],
+      "char_count": 193,
+      "has_link": true
+    },
+    {
+      "key": "a1abaa53e12e401f",
+      "author": "Steffo01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffo01",
+      "posted_relative": "for 2 t siden",
+      "text": "Ser man et mønster her? God rapport med tilhørende bratt stigning. Så gradvis kryping nedover… så en ny god rapport med tilhørende bratt stigning. Så gradvis kryping nedover… osv?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 179,
+      "has_link": false
+    }
+  ]
 }

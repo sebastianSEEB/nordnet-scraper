@@ -1,22 +1,52 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-16T08:04:51.563727+00:00",
+  "scraped_at": "2026-09-16T12:04:42.905940+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "bc4bff7d623bb769",
+      "key": "6158c200236efeb1",
+      "author": "ydkd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ydkd",
+      "posted_relative": null,
+      "text": "12. sep. når går vel oljeprisen betydelig opp. hva betyr det for elopak? noen meninger rund det?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "e5b3451c9c35f792",
       "author": "hengslet",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
-      "posted_relative": "for 35 min siden",
-      "text": "Tilbakekjøp unnagjort . Kan få en viss effekt ?",
+      "posted_relative": "for 4 t siden",
+      "text": "Tilbakekjøp unnagjort . Kan få en viss effekt ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "8e14ff05fed60928",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvordan vet du forresten at det er unnagjort ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 47,
+      "char_count": 46,
       "has_link": false
     }
   ]

@@ -1,69 +1,79 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-16T08:02:47.281035+00:00",
+  "scraped_at": "2026-09-16T12:02:50.755011+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "38eb4a8729192fad",
-      "author": "Baretap12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-      "posted_relative": "for 10 t siden",
-      "text": "https://www.finansavisen.no/energi/2026/09/15/8380544/amerikanske-oljetopper-oljekrisen-er-her Lykke til Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [
-        "https://www.finansavisen.no/energi/2026/09/15/8380544/amerikanske-oljetopper-oljekrisen-er-her"
-      ],
-      "char_count": 124,
-      "has_link": true
-    },
-    {
-      "key": "b020db73f1ab081e",
-      "author": "Cop",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
-      "posted_relative": "for 42 min siden · Endret",
-      "text": "Alle snakker om aksje prisen og sender den ned. Har non sett på billett prisene ,de er nesten steget 250%   på en del  av rutene. Derfor har Danske Bank satt den til 14kr tror jeg.",
+      "key": "f3d08c2f7eeaccbf",
+      "author": "sQruf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sqruf",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvor mye blir eksisterende aksjonærerer vannet ut på slutten av 2026? Tenker da på hvordan innvirkning de nye aksjene har på aksje kursen.  Er det noe poeng å kjøpe seg inn før oppkjøpet er gjennomført og de nye aksjene er implementert.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         3
       ],
       "links": [],
-      "char_count": 180,
+      "char_count": 236,
       "has_link": false
     },
     {
-      "key": "e399597d02fa07e1",
-      "author": "GordonGekko1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordongekko1",
-      "posted_relative": "for 2 t siden",
-      "text": "Ikke tips men hadde jeg vært Stordalen np hadde jeg forsøkt meg på et opokjøp.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 78,
-      "has_link": false
-    },
-    {
-      "key": "20d98388eaa32c26",
-      "author": "Baretap12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-      "posted_relative": "for 2 t siden",
-      "text": "Tar ikke i dette før det eventuelt faller under 10",
+      "key": "0d0baa3bfaaad044",
+      "author": "Aksjoman007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjoman007",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "På forumet her mener flere at vingavtalen er en fiasko og at oljeprisen holder seg høy til all kapital er spist opp.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 50,
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "db5d9b005a3d7581",
+      "author": "sQruf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sqruf",
+      "posted_relative": "for 22 min siden",
+      "text": "Han kan ikke selge, det er lock in på 180 dager, etter dealen går igjennom. Den blir ikke sluttført før sent q4",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "c1d88cf3ca3172d8",
+      "author": "Brorgustaf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brorgustaf",
+      "posted_relative": "for 2 t siden",
+      "text": "· Mener du novonordisk-Gaute? CrayoNano-Gaute? Shipping-boom-Gaute? Yara-Gaute? Er det geniet du snakker om? 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "e6989d7b16bc1d8d",
+      "author": "Laser3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/laser3",
+      "posted_relative": "for 3 t siden",
+      "text": "Gaute Eide på Pareto konferansen - Vi tror oljeprisen skal mye ned Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 86,
       "has_link": false
     }
   ]

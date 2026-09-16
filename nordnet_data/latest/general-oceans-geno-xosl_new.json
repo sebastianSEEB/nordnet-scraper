@@ -1,9 +1,39 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-16T08:08:13.488523+00:00",
+  "scraped_at": "2026-09-16T12:08:16.422504+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b6c9257573328872",
+      "author": "thorhenrak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thorhenrak",
+      "posted_relative": "for 1 t siden",
+      "text": "Er det noen gode nyheter på vei som er grunnen til oppgang i dag?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "8c1ded9af93ab55c",
+      "author": "Fred67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fred67",
+      "posted_relative": "for 2 t siden",
+      "text": "Nå snakker vi!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

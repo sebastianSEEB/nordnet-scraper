@@ -1,9 +1,40 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-09-16T08:05:25.606862+00:00",
+  "scraped_at": "2026-09-16T12:05:20.223489+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5389bdb0c31cebde",
+      "author": "Lind2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lind2",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "· TGS ser tidlige tegn på bedring i markedet for seismikk I dag kl. 08.37 ∙ Nyhetsoversikt (AI) Energidataselskapet TGS har observert tidlige tegn på bedring i markedene for henholdsvis streamer- og havbunnsnode-seismikk (OBN), noe som drives av bedre markedsoversikt og en sterkere ordrebok. Selskapet forventer at kontraktsaktiviteten vil ta seg opp i årets andre halvår. Dette positive synet deles av konkurrenter i bransjen og gjenspeiler en generell optimisme samt forventninger om økte budsjetter hos oljeselskapene i de kommende årene. TGS forventer økt kontraktsaktivitet i andre halvår, understøttet av en sterkere ordrebok for streamer-seismikk og en voksende pipeline av prosjekter innen havbunnsnoder (OBN). Oljeselskapene budsjetterer med en oljepris på rundt 60 dollar per fat i 2026, og det forventes vesentlig høyere budsjettpriser i 2027. Bransjekollegaen Shearwater Geoservices bekreftet den positive trenden og opplyste at selskapets ordrebok vokste til 455 millioner dollar i midten av september, opp fra 401 millioner dollar i midten av august.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 1065,
+      "has_link": false
+    },
+    {
+      "key": "c6e02569980d7c01",
+      "author": "mann69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mann69",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "TGS: SER TIDLIGE TEGN TIL BEDRING I STREAMER- OG OBN-MARKEDET Et oljeselskap kan holde produksjonen oppe noen år ved å bore flere brønner i eksisterende felt, gjøre tie-backs og øke recovery. Men, over en lengre periode må reserver som produseres erstattes dersom produksjonen skal opprettholdes.  TGS sier eksplisitt at kundene gradvis fokuserer mer på reserve replacement, energisikkerhet og langsiktig produksjon. Mer seismikk 👍 Og meldingen i dag fra Shearwater reduserer risikoen for at vi bare hører TGS' egen optimisme.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 526,
+      "has_link": false
+    }
+  ]
 }

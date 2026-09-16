@@ -1,9 +1,27 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-16T08:06:40.155339+00:00",
+  "scraped_at": "2026-09-16T12:06:36.718873+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f9d0a7614b498d57",
+      "author": "Relax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/relax",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "· Nytt gassfunn! https://www.nordnet.se/marknaden/nyheter/962d7009-7e28-4054-bd4d-3ae7fa8e2446",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.nordnet.se/marknaden/nyheter/962d7009-7e28-4054-bd4d-3ae7fa8e2446"
+      ],
+      "char_count": 94,
+      "has_link": true
+    }
+  ]
 }

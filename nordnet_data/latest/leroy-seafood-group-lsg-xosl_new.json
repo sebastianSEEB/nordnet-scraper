@@ -1,9 +1,55 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-16T08:03:28.807537+00:00",
+  "scraped_at": "2026-09-16T12:03:25.027407+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "eec9628440e875b7",
+      "author": "IsoPappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isopappa",
+      "posted_relative": "for 2 t siden",
+      "text": "· Endelig ser vi en oppadgående trend i lakseprisene 🎣💰 https://www.salmonbusiness.com/statistics-norway-salmon-prices-rose-0-7-last-week-as-exports-topped-30000-tonnes/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.salmonbusiness.com/statistics-norway-salmon-prices-rose-0-7-last-week-as-exports-topped-30000-tonnes/"
+      ],
+      "char_count": 169,
+      "has_link": true
+    },
+    {
+      "key": "fe8346760381ddef",
+      "author": "arnie35",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arnie35",
+      "posted_relative": "for 2 t siden",
+      "text": "Lakseprisen rund er ganske stabil og store volumer som går ut. Filetprisene har vært svak i år og her vil nok det merkes mest for Lerøy som har stor andel filet kapasitet. Lerøy har en del ørret i porteføljen og ørret prisen er ca 10kr bedre enn lakseprisen for tiden det bør virke positivt inn for Lerøy",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 304,
+      "has_link": false
+    },
+    {
+      "key": "ea2773ffae2b5bdd",
+      "author": "kalleskanin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalleskanin",
+      "posted_relative": "for 3 t siden",
+      "text": "Går treigt! Hva har endret seg? Må ha noen gode nyheter snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

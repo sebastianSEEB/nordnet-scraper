@@ -1,9 +1,82 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-16T08:03:19.457014+00:00",
+  "scraped_at": "2026-09-16T12:03:17.356460+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "c3e21148f98c5cf1",
+      "author": "Lottomannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lottomannen",
+      "posted_relative": "for 10 min siden",
+      "text": "2020 Bulkers varsler storsatsing - vil kjøpe inntil 15 offshoreskip",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "ba834a3868dfd63b",
+      "author": "oddz_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oddz-1",
+      "posted_relative": null,
+      "text": "12. sep. Hva tenker folk er en grei inngangspris på denne?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "38c52396201353a6",
+      "author": "Kurtebill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurtebill",
+      "posted_relative": "for 4 t siden",
+      "text": "Se kommentar fra FA igår(står rett under din kommentar)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "286def7d046f749e",
+      "author": "Fisker94",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
+      "posted_relative": "for 4 t siden",
+      "text": "· Full gass fra start! Noe nytt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "7fddaacac828aebe",
+      "author": "overlay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/overlay",
+      "posted_relative": "for 7 min siden",
+      "text": "Det er bull",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

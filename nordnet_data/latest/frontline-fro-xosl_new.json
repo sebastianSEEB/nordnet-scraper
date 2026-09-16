@@ -1,98 +1,114 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-16T08:01:18.822712+00:00",
+  "scraped_at": "2026-09-16T12:01:14.054039+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 6,
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
   "posts": [
     {
-      "key": "5b0a8516b08a452d",
+      "key": "6b6d10c8bd2bdf63",
+      "author": "larsullern86",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsullern86",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/shipping/2026/09/16/8380591/herbjorn-hansson-om-tankmarkedet-jeg-har-aldri-opplevd-maken",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/09/16/8380591/herbjorn-hansson-om-tankmarkedet-jeg-har-aldri-opplevd-maken"
+      ],
+      "char_count": 116,
+      "has_link": true
+    },
+    {
+      "key": "a3ba917de87a7f5d",
+      "author": "larsullern86",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsullern86",
+      "posted_relative": "for 1 t siden",
+      "text": "\"Suezmaxmarkedet har vært knallsterkt i hele år, og nå er snittraten oppe i rundt 225.000 dollar dagen. Som i stortankmarkedet er det ekstremt store rateforskjeller på de forskjellige reiserutene. På strekningen fra Svartehavet til Middelhavet er spotratene oppe i over 510.000 dollar dagen, mens ratene er godt over 400.000 dollar dagen fra Vest-Afrika til Kontinentet (Europa). NAT har driftskostnader på under 10.000 dollar dagen på rederiets 16 suezmax-ere. De seneste ukene har rederiet gjort en rekke slutninger på skyhøye ratenivåer.\" \"– Retningen er utvilsomt oppover for NAT. For oss handler dette mye om transportarbeid, det vil si at ton-mil viser en positiv utvikling. Jeg forventer et veldig sterkt tankmarked i minst to år til, sier Hansson.\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 756,
+      "has_link": false
+    },
+    {
+      "key": "a87399299887a8fd",
       "author": "Myr79",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myr79",
-      "posted_relative": "for 38 min siden",
-      "text": "En VLCC kan typisk ta 2 mill fat olje. Med dagens pris på 108 USD blir det ca. 216 mill USD. 30 dager med frakt med TCE 1,037 mill/dag blir 31,1 mill. Kostnaden blir ca. 14,4%. Det er ekstremt lønnsomt for rederiet akkurat nå.",
+      "posted_relative": "for 6 min siden",
+      "text": "Frontline-regnestykket For John Fredriksens Frontline gir dagens rater oppsiktsvekkende utslag. Pareto har regnet på hva rederiet kunne tjent dersom dagens gjennomsnittlige spotrater for VLCC-, suezmax- og aframax/LR2-skip holdt seg gjennom et helt år. Da ender det annualiserte resultatet på over 300 kroner pr. aksje. VLCC $350–450k Suezmax $220–300k LR2/Aframax $140–180k",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 226,
+      "char_count": 374,
       "has_link": false
     },
     {
-      "key": "14f9b6064baa2483",
-      "author": "Myr79",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myr79",
-      "posted_relative": "for 2 t siden",
-      "text": "Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina          1.036,78     1.099.063 260        V-Afr/Kina         494,38       485.787 ================================= Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        8,
-        2
-      ],
-      "links": [],
-      "char_count": 205,
-      "has_link": false
-    },
-    {
-      "key": "e3702194e425af12",
-      "author": "Sasha15",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
-      "posted_relative": "for 56 min siden",
-      "text": "Ex dag i morgen! Hvilken utvikling kan vi forvente? Tanker? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        7
-      ],
-      "links": [],
-      "char_count": 79,
-      "has_link": false
-    },
-    {
-      "key": "a4e141e92357bf73",
-      "author": "Kjernekar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
-      "posted_relative": "for 40 min siden",
-      "text": "Et ras idag. Det er hva som kan forventes.",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 42,
-      "has_link": false
-    },
-    {
-      "key": "bda72bc5d9a46070",
-      "author": "Feskenn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/feskenn",
-      "posted_relative": "for 3 t siden",
-      "text": "Etterhandel endte på cirka 486 kr",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 33,
-      "has_link": false
-    },
-    {
-      "key": "d2827e9eabe159ad",
-      "author": "landeveiskongen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/landeveiskongen",
-      "posted_relative": "for 3 t siden",
-      "text": "Spent på åpning 09.00 idag!",
+      "key": "3ab8f701556fdaff",
+      "author": "larsullern86",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsullern86",
+      "posted_relative": "for 1 t siden",
+      "text": "Nylig slutning på FRO der 25 % av skipsverdien dekkes inn på 40 dager(!). Markedet er sikkert veldig bra på å prise totaliteten av alt som foregår her; men blir det mange slike slutninger så har kursen langt å gå.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         10
       ],
       "links": [],
-      "char_count": 27,
+      "char_count": 213,
+      "has_link": false
+    },
+    {
+      "key": "49b69708f61102d5",
+      "author": "Sorenso",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sorenso",
+      "posted_relative": "for 15 min siden",
+      "text": "· Utbetales utbyttet fra Frontline (når man har handlet på den Norske børs og bor i DK) helt uten kildeskatt på grunn av selskapets særlige status? Og så avregner man deretter normal DK skatt (27/42%)?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 201,
+      "has_link": false
+    },
+    {
+      "key": "5a9d53df957d9f75",
+      "author": "BenRedicFyFazan26",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
+      "posted_relative": "for 2 t siden",
+      "text": "neste mnd er vi nok passert 500,- aksjen stiger ikke hele tiden. En ting er sikkert det er flott utsikt utover vinteren :)",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "751e0e083c7c45e0",
+      "author": "etcc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/etcc",
+      "posted_relative": "for 2 t siden",
+      "text": "At utbytte frister ikke flere folk i å kjøpe seg inn skjønner jeg ikke meg helt på her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 87,
       "has_link": false
     }
   ]
