@@ -1,9 +1,38 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-16T13:51:13.134425+00:00",
+  "scraped_at": "2026-09-16T17:49:48.339394+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "13dd574dbabfc71c",
+      "author": "Lang Siktig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lang-siktig",
+      "posted_relative": "for 3 t siden",
+      "text": "Opp 82% siste år. Må jo snart vurdere gev.sikring her. Samtidig tror jeg på gode tider en stund fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "f4f579e5a306d612",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 3 t siden",
+      "text": "Antall Kjøp 32 933 241,40 Selg Antall 241,40  Sjekk dette, samme beløp, men ikke ett salg eller kjøp??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    }
+  ]
 }

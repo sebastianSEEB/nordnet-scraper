@@ -1,9 +1,23 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-16T13:53:42.310229+00:00",
+  "scraped_at": "2026-09-16T17:52:29.300080+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b9aa1cd7395cc0f5",
+      "author": "MademoiselleWhiteHeartLane",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mademoisellewhiteheartlane",
+      "posted_relative": "for 3 t siden",
+      "text": "AI er en Pandoras eske. Kan ikke stoppe det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,42 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-09-16T13:51:55.368144+00:00",
+  "scraped_at": "2026-09-16T17:50:36.232133+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c892c61620ccbe3b",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://open.spotify.com/episode/7cpjeudtSxU8LAUuomyxr1?si=PWEH55EATqi7pRrOFCKPuA&utm_source=copy-link",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://open.spotify.com/episode/7cpjeudtSxU8LAUuomyxr1?si=PWEH55EATqi7pRrOFCKPuA&utm_source=copy-link"
+      ],
+      "char_count": 104,
+      "has_link": true
+    },
+    {
+      "key": "f6c395a24e406928",
+      "author": "Atlantis 42",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atlantis-42",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Hør på denne 👍 Energikonferansen 2026: Solstad Offshore CEO, Lars Peder Solstad Paretopodden Paretopodden I dag • 15 min igjen -",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    }
+  ]
 }

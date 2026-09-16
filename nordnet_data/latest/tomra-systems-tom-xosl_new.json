@@ -1,57 +1,92 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-16T13:52:48.191974+00:00",
+  "scraped_at": "2026-09-16T17:51:34.695923+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "f6923fe3a5ddde98",
-      "author": "akmg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
-      "posted_relative": "for 25 min siden",
-      "text": "Her ser man de 10 største aksjonærer i Tomra: Ferd er på topp 10: https://www.tomra.com/investor-relations/share-information/shareholders Selv Dnb har begynt å laste opp i Tomra. Interessant. Nå er blod i gatene for Tomra. Shortere tjener på dette. Ingenting har endret fundamentalt sett. Selskapet fortsetter å tjene penger. Omsetningen har økt. 3Q 26 blir spennende. I tillegg kan Tomra bli kjøpt opp på disse lave nivåer.",
+      "key": "039e17e9f4a0a4fe",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": "for 30 min siden",
+      "text": "Et dypdykk tilsier at Q2-rapporten isolert sett forsvarte en betydelig høyere aksjekurs enn nivået markedet priset inn før rapporten, men ikke nødvendigvis en varig reprising dersom marginpresset blir strukturelt.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2,
-        2
-      ],
-      "links": [
-        "https://www.tomra.com/investor-relations/share-information/shareholders"
-      ],
-      "char_count": 424,
-      "has_link": true
-    },
-    {
-      "key": "fe925da924910b66",
-      "author": "Ottotoo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ottotoo",
-      "posted_relative": "for 20 min siden",
-      "text": "Tja, frankrike er ikke med i pantekarusellen og england tenker også på å utsette. Merkelig greier da verden drukner i plastflasker som kastes i naturen, men sånn er verden",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 171,
+      "char_count": 213,
       "has_link": false
     },
     {
-      "key": "15b1d3c93b163603",
-      "author": "favha",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
-      "posted_relative": "for 31 min siden",
-      "text": "Shorterne dekker vel inn nå",
+      "key": "4e77f16ef76191cf",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Dnb har selg anbefaling på Tomra, men har lastet opp Tomra med begge hendene. Nå er Dnb Asset Management den tredje største aksjonær i Tomra. Det sier noe om skin in the game!! hehe",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        5
       ],
       "links": [],
-      "char_count": 27,
+      "char_count": 181,
+      "has_link": false
+    },
+    {
+      "key": "3074a3daf3fee62f",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": "for 32 min siden",
+      "text": "Basert kun på Q2-tallene, uten å legge inn optimisme utover det rapporten viste: Rettferdig kurs: ca. 120 kr Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "60fb0855af164635",
+      "author": "Trishan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trishan",
+      "posted_relative": "for 42 min siden",
+      "text": "· Hvorfor går denne ned så mye?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    },
+    {
+      "key": "c226045278a0b841",
+      "author": "michelfosho",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michelfosho",
+      "posted_relative": "for 3 t siden",
+      "text": "Solid dump i sluttauksjonen.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    },
+    {
+      "key": "b32d4003a2e5025d",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": "for 1 t siden",
+      "text": "10% til...minst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
       "has_link": false
     }
   ]

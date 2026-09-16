@@ -1,22 +1,24 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-16T13:54:46.961868+00:00",
+  "scraped_at": "2026-09-16T17:53:35.308710+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "42efcc1ae99866d4",
+      "key": "45b3e4fff94906e4",
       "author": "neeskens",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 1 t siden",
-      "text": "85-90% er automatisk handel. Forskjellige computer aktører.",
-      "reply_count": null,
+      "posted_relative": "for 3 t siden",
+      "text": "Det var nok computerene i dag også. Vi skal ikke selge en eneste aksje før vi bikker kr 85-90.",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 59,
+      "char_count": 94,
       "has_link": false
     }
   ]

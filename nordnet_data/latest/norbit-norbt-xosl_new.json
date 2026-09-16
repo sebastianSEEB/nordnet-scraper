@@ -1,51 +1,37 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-16T13:53:04.546143+00:00",
+  "scraped_at": "2026-09-16T17:51:50.239368+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "f4c7f5d60c43dae1",
-      "author": "knirkmqsqueak",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knirkmqsqueak",
-      "posted_relative": "for 6 t siden",
-      "text": "Skal vi tro dette var bunnen da? På en måneds chartet ser den ut til å ha dannet en fin bunn i allefall. Krysser fingrene for at pustepause er over for denne gang og at vi kan få videre oppgang. Vis 1 kommentar til",
+      "key": "336ee236c24b09ff",
+      "author": "asara",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/asara-1",
+      "posted_relative": "for 44 min siden",
+      "text": "Eller kansje opp til 212",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
-        2
+        1
       ],
       "links": [],
-      "char_count": 214,
+      "char_count": 24,
       "has_link": false
     },
     {
-      "key": "1c803e6152411da7",
-      "author": "Skeptisk3",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skeptisk3",
-      "posted_relative": "for 1 t siden",
-      "text": "Lurer på hvor mange ganger man lurer på om dette var bunnen jeg 😄 Så plutselig ramler aksjen ned igjen.",
-      "reply_count": null,
+      "key": "7b9deda0acc37f67",
+      "author": "TRD 100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
+      "posted_relative": "for 2 t siden",
+      "text": "· Hvorfor tror du det?",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 103,
-      "has_link": false
-    },
-    {
-      "key": "b4d3c49d66c976f3",
-      "author": "CVS1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cvs1",
-      "posted_relative": "for 1 t siden",
-      "text": "· Skal vi helt ned til 112?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 27,
+      "char_count": 22,
       "has_link": false
     }
   ]

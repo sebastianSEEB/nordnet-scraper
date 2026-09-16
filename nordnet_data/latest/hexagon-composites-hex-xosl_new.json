@@ -1,9 +1,25 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-16T13:54:58.504757+00:00",
+  "scraped_at": "2026-09-16T17:53:47.482431+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5fb4ef22ad297e28",
+      "author": "MVR invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mvr-invest",
+      "posted_relative": "for 4 min siden",
+      "text": "· https://www.truckinginfo.com/news/diesel-price-spike-shortens-payback-for-natural-gas-trucks-report-says?utm_source",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.truckinginfo.com/news/diesel-price-spike-shortens-payback-for-natural-gas-trucks-report-says?utm_source"
+      ],
+      "char_count": 117,
+      "has_link": true
+    }
+  ]
 }
