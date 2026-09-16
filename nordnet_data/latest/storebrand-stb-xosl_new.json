@@ -1,9 +1,38 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-16T17:55:25.460337+00:00",
+  "scraped_at": "2026-09-16T20:41:50.758993+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "17cac51791d8f839",
+      "author": "Adr00n",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/adr00n",
+      "posted_relative": "for 1 t siden",
+      "text": "Generelt så bør du kjøpe storebrand for å holde over en lengre periode.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "7b176792014b4922",
+      "author": "VBI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vbi",
+      "posted_relative": "for 1 t siden",
+      "text": "Er dette en kortsiktig investering eller noe jeg kan ha lenge?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }
