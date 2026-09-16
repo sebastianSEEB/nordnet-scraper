@@ -1,9 +1,49 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-16T20:38:37.264331+00:00",
+  "scraped_at": "2026-09-16T23:24:47.426601+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f3141592750e0e02",
+      "author": "Kleo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
+      "posted_relative": "for 1 t siden",
+      "text": "Juridisk direktør Jan G. Hellinx kjøpte 10 000 aksjer til en gjennomsnittskurs på 23,65 NOK, og doblet dermed sin totale beholdning til 20 000 aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "08debeffa2d8c7c9",
+      "author": "Kleo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
+      "posted_relative": "for 1 t siden",
+      "text": "Direktør for investorrelasjoner og M&A Rasmus Hansson kjøpte 10 000 aksjer til 23,30 NOK, noe som bringer hans totale eierskap til 160 057 aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "e5b41e3e827eaf15",
+      "author": "Kleo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
+      "posted_relative": "for 1 t siden",
+      "text": "Styremedlem Ellen Hanetho kjøpte 11 000 aksjer til en gjennomsnittskurs på 23,23 NOK, noe som øker hennes totale beholdning til 44 354 aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    }
+  ]
 }
