@@ -1,9 +1,39 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-16T12:07:54.142565+00:00",
+  "scraped_at": "2026-09-16T13:57:26.975463+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3d08bf98df067c9b",
+      "author": "HightowerH20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hightowerh20",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Da har mange begynt å kaste kortene i denne, før alle har solgt kan denne gå mot 50-45. Kjøperne sitter bare passivt å byr ned aksjen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 154,
+      "has_link": false
+    },
+    {
+      "key": "ca3e7663c1fd6899",
+      "author": "mfas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mfas",
+      "posted_relative": "for 18 min siden",
+      "text": "Kan gå riktig galt, men selvsagt mest sannsynlig ikke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

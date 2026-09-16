@@ -1,51 +1,40 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-09-16T12:01:56.125413+00:00",
+  "scraped_at": "2026-09-16T13:51:36.569293+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "cbb3465d6c05e337",
-      "author": "iMiko",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/imiko",
-      "posted_relative": "for 1 døgn siden",
-      "text": "Hva synes vi om denne det neste året? Vis 1 kommentar til",
+      "key": "a833d000de3a9531",
+      "author": "konane invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/konane-invest",
+      "posted_relative": "for 7 t siden",
+      "text": "https://www.finansavisen.no/shipping/2026/09/16/8380607/ledige-containerskip-forsvinner-naermer-seg-pandemiboomen Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
+        17,
         2
       ],
-      "links": [],
-      "char_count": 57,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/09/16/8380607/ledige-containerskip-forsvinner-naermer-seg-pandemiboomen"
+      ],
+      "char_count": 133,
+      "has_link": true
     },
     {
-      "key": "aa265d740443f0f6",
-      "author": "JannB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jannb",
-      "posted_relative": "for 2 t siden",
-      "text": "Vi ser nær sagt full kontraktsdekning på fine rater ;)",
+      "key": "dcb73d67c164b538",
+      "author": "kariusogbaktus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
+      "posted_relative": "for 15 min siden",
+      "text": "Bud på selskapet iløpet av høsten!?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 54,
-      "has_link": false
-    },
-    {
-      "key": "6a0e68e4292eb7ff",
-      "author": "Aksjelady",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelady",
-      "posted_relative": "for 1 t siden",
-      "text": "Denne aksjen er en diamant 🤩",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 28,
+      "char_count": 35,
       "has_link": false
     }
   ]

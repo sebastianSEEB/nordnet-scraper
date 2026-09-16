@@ -1,9 +1,23 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-09-16T12:05:35.584714+00:00",
+  "scraped_at": "2026-09-16T13:55:06.097530+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "74700502efde6530",
+      "author": "kariusogbaktus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
+      "posted_relative": "for 14 min siden · Endret",
+      "text": "AI er ikke helt oppdatert ser jeg. AAT INVEST AS               +200.031 til 5.900.031 Kilde: Oslo (Infront TDN Direkt): Aksjonærendringer blant utvalgte investorer på Oslo Børs.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    }
+  ]
 }

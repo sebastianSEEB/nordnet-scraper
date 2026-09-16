@@ -1,9 +1,27 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-09-16T12:07:15.560397+00:00",
+  "scraped_at": "2026-09-16T13:56:45.155317+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6c5af9ea96381025",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 1 t siden",
+      "text": "https://osvnyheter.no/2020-bulkers-skaper-ahts-gigant-i-raid-til-5-milliarder",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://osvnyheter.no/2020-bulkers-skaper-ahts-gigant-i-raid-til-5-milliarder"
+      ],
+      "char_count": 77,
+      "has_link": true
+    }
+  ]
 }

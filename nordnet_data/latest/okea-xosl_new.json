@@ -1,38 +1,37 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-16T12:05:31.611828+00:00",
+  "scraped_at": "2026-09-16T13:55:02.344410+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "51a221af274cb5ba",
-      "author": "JB83",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jb83",
-      "posted_relative": "for 50 min siden",
-      "text": "Ja, lå litt i kortene at det var marginalt når de brukte så lang tid etter boringen var ferdig.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 95,
-      "has_link": false
-    },
-    {
-      "key": "24f00f4808b109e6",
-      "author": "KMWD",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
-      "posted_relative": "for 4 t siden",
-      "text": "Kjedelig med alpehumle🙁 Vis 1 kommentar til",
+      "key": "b848a63bfaee9b8f",
+      "author": "Norwegian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/norwegian",
+      "posted_relative": "for 1 t siden",
+      "text": "Okea var og er for all del fortsatt veldig billig, men at den steg såpass tidlig idag skjønner jeg lite av.  Folk leser bare at det er funn og kaster seg på?  Var et bittelite funn på et brønn som hadde enormt potensial, og vi visste jo egentlig allerede at de hadde funnet noe siden de også tok et sidesteg. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        4
+        3
       ],
       "links": [],
-      "char_count": 43,
+      "char_count": 328,
+      "has_link": false
+    },
+    {
+      "key": "26bd956d3c1329f9",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 10 min siden",
+      "text": "Det var vel en liten opphenting fra gårsdagen hvor den gikk ned over 3%  i tillegg kommer funnet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 96,
       "has_link": false
     }
   ]
