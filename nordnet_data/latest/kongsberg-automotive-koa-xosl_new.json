@@ -1,9 +1,85 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-17T17:58:22.568918+00:00",
+  "scraped_at": "2026-09-17T20:51:03.324179+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "9c4a07777a252772",
+      "author": "Vil du bli millionær",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vil-du-bli-millionr",
+      "posted_relative": "for 3 t siden",
+      "text": "Så ikke helt sammenhengen her 🤔 Vi har/hadde innsidere som handlet over kr 3,0 også, men også nede rundt 1,5 og det  meste i mellom.  Er selvsagt ikke her for annet en å bli med til utbyttene tar positiv retning og erstatter det meste av hva lønningsposen gir i dag.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 266,
+      "has_link": false
+    },
+    {
+      "key": "acb21cd38123ab5b",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 6 t siden",
+      "text": "Andre som har oppdaget muligheten i appen ( sikkert også på pc) , der en kan følge forandringen i antall aksjonærer hos Nordnet som eier aksjen. Den hvite linjen i grafen her: Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [],
+      "char_count": 195,
+      "has_link": false
+    },
+    {
+      "key": "19544a22aecc704e",
+      "author": "Yalocin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yalocin",
+      "posted_relative": "for 2 t siden",
+      "text": "Krysser fingrene for at det var starten inn mot 3Q, og så få ytterligere bekreftelse der slik at det kan begynne å bli litt fair pris på denne snart..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "ce1d42f4ac5623c6",
+      "author": "Sheriff1978",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sheriff1978",
+      "posted_relative": "for 2 t siden",
+      "text": "Jøss, omsetning på nesten 7 MNOK? Det er en stund siden…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "6b063f035baa7054",
+      "author": "Ansvarlig redaktør",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ansvarlig-redaktr",
+      "posted_relative": "for 2 t siden",
+      "text": "Takk for tips. Hos meg er riktig nok grafen usynlig.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

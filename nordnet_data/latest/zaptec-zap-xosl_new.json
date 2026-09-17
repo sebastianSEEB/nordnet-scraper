@@ -1,22 +1,40 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-17T17:52:05.387428+00:00",
+  "scraped_at": "2026-09-17T20:44:40.600512+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "fc27e4c4dbd5825a",
-      "author": "Kejserk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kejserk",
-      "posted_relative": "for 8 min siden",
-      "text": "· Helt enig, jeg fyller også på løpende. Alt går deres vei for tiden.",
+      "key": "6050e58abd3a3787",
+      "author": "Streetwille",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/streetwille",
+      "posted_relative": "for 28 min siden",
+      "text": "· Jeg kjøpte mine første 1000 aksjer da. Så resten 500 rundt 20kr. Jeg har bare 1500 aksjer med 16,90nok i snitt. Jeg kommer til å sitte på hendene ja press sell button betwernn150-200nok 😎",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 69,
+      "char_count": 189,
+      "has_link": false
+    },
+    {
+      "key": "81babf56ecd0545a",
+      "author": "Stefan007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
+      "posted_relative": "for 2 t siden",
+      "text": "· Bare gratulere de som gikk inn og kjøpte da de sto i rundt 9kr for ca. to år siden og har hatt tålmodighet til å beholde dem.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
+      "links": [],
+      "char_count": 127,
       "has_link": false
     }
   ]
