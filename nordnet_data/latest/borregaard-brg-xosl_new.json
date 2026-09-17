@@ -1,9 +1,51 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-17T12:08:19.094344+00:00",
+  "scraped_at": "2026-09-17T13:59:13.307704+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b11baf6002f08728",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 3 t siden",
+      "text": "Bare i år er Borregaard ned ca. 26% - ytterligere ned ut året mon tro ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "342b0c5276175078",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Spesifiser Mr !",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    },
+    {
+      "key": "af1a89b8c5ede77b",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 22 min siden",
+      "text": "Algene betyr ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

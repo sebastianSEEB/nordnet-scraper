@@ -1,9 +1,25 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-17T12:06:56.607557+00:00",
+  "scraped_at": "2026-09-17T13:57:53.109038+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c5f1900748d8612f",
+      "author": "realize_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/realize_1",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://cdn.prod.website-files.com/66e18d9e069377c52f0d6217/6aaba28c8698430f7cc7a5a9_Moreld%20-%20Pareto%20Conference%202026.pdf",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://cdn.prod.website-files.com/66e18d9e069377c52f0d6217/6aaba28c8698430f7cc7a5a9_Moreld%20-%20Pareto%20Conference%202026.pdf"
+      ],
+      "char_count": 130,
+      "has_link": true
+    }
+  ]
 }

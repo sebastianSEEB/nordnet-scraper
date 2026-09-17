@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-17T12:04:13.962345+00:00",
+  "scraped_at": "2026-09-17T13:54:58.603496+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b784046a5849e9cd",
+      "author": "Moviestrar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moviestrar",
+      "posted_relative": "for 3 min siden",
+      "text": "I øyeblikket er kursen til WAWI høyere enn kursen til Hauto. Første gang kanskje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,53 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-17T12:04:52.815118+00:00",
+  "scraped_at": "2026-09-17T13:55:44.233021+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "1c6c4b8b5335a8a0",
-      "author": "Urene",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/urene",
-      "posted_relative": "for 7 min siden",
-      "text": "Kanskje det snart er slutt på salget med 40% rabatt",
+      "key": "d628916cef9bf8bc",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 3 t siden",
+      "text": "Bank of America har hevet kursmålet for Nordic Semiconductor til 245 NOK fra 222 NOK, og opprettholder en kjøpsanbefaling. Vis 1 kommentar til",
       "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        2
+      ],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    },
+    {
+      "key": "f53745f0adb1c70c",
+      "author": "huoghei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huoghei",
+      "posted_relative": "for 35 min siden",
+      "text": "For noen år tilbake, da kursen var 100 over det den er nå, kom Bank og f… America med kursmål 450,-. Ja, nei, hvorfor ikke. Gjerne for meg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "3ad9738444f1be2a",
+      "author": "Noor1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noor1",
+      "posted_relative": "for 1 t siden",
+      "text": "Kommentaren er slettet.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 51,
+      "char_count": 23,
       "has_link": false
     }
   ]

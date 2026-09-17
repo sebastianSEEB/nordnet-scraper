@@ -1,9 +1,58 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-17T12:05:00.541558+00:00",
+  "scraped_at": "2026-09-17T13:55:51.978893+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3cc532c695d77654",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 35 min siden",
+      "text": "https://newsweb.oslobors.no/message/682633",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/682633"
+      ],
+      "char_count": 42,
+      "has_link": true
+    },
+    {
+      "key": "ea5c764bce1d59f2",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 39 min siden",
+      "text": "Børsmelding",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    },
+    {
+      "key": "6365625f19dd0cfd",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 44 min siden",
+      "text": "Jøss?🤔📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 7,
+      "has_link": false
+    }
+  ]
 }

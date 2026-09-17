@@ -1,9 +1,85 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-17T12:09:03.818191+00:00",
+  "scraped_at": "2026-09-17T13:59:57.497153+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "49f8684da162b89d",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 45 min siden",
+      "text": "Saudi Arabias eksport er nå nede i ca 2millioner fat, ned fra 7,5millioner fat i Januar. Det estimeres at Yanbu kan bli stengt i fra 3  til 5 uker. https://www.aljazeera.com/news/2026/9/17/from-yanbu-to-sohar-tracking-saudi-arabias-alternative-oil-routes",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.aljazeera.com/news/2026/9/17/from-yanbu-to-sohar-tracking-saudi-arabias-alternative-oil-routes"
+      ],
+      "char_count": 254,
+      "has_link": true
+    },
+    {
+      "key": "c2330fb34d82ffeb",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 42 min siden",
+      "text": "· Iran vil holde Hormuz stengt til Trump faller fra makten, sier Khameneis rådgiver https://www.iranintl.com/en/202609171217",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.iranintl.com/en/202609171217"
+      ],
+      "char_count": 124,
+      "has_link": true
+    },
+    {
+      "key": "21a330d1cae8c964",
+      "author": "KV42",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kv42",
+      "posted_relative": "for 32 min siden",
+      "text": "· Hva nå? Kanskje gjeldsordninger Alle effektivt drevne selskaper må ha gjeld for å oppnå optimale resultater, hvis tilleggsinntektene overstiger rentekostnadene..Normal forretningsvirksomhet Jeg legger mine siste kaffepenger i VAR Erotyisesti vokser etterspørselen etter naturgass nesten eksponentielt med datasentrene. Hvorfra er betydelig tilleggsenergi ellers tilgjengelig, når kjernekraft er i effektiv bruk vasts rundt 2035",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 429,
+      "has_link": false
+    },
+    {
+      "key": "10caf835a6fa8b23",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 31 min siden",
+      "text": "Jeg kan ikke klare å finne noe som tilsier dagens fall i oljeprisen. Hva er det jeg overser?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "bbb13c2c41e23ec4",
+      "author": "Kimkimkim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim",
+      "posted_relative": "for 56 min siden",
+      "text": "Tenk at olje og gass er ned samme uka som olje fra nordsjøen går for 130 dollar",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }

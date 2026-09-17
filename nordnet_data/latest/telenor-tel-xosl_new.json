@@ -1,9 +1,41 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-17T12:08:50.220836+00:00",
+  "scraped_at": "2026-09-17T13:59:45.132655+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f5f13d58d22c3c1f",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Tenker dette var en god kjøpsdag for meg 😊 den 15 oktober er 4,70 utbytte sikret. Kursen vil nok øke før den tid. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "78999b96b37e58d3",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 1 t siden",
+      "text": "Grei utvikling så langt idag.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

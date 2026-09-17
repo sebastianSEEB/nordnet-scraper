@@ -1,9 +1,38 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-09-17T12:04:40.989488+00:00",
+  "scraped_at": "2026-09-17T13:55:28.194408+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b88aa85c86575db4",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Tenker det samme. Q1 & Q2 er de beste mnd vanligvis,. Ca. juni/juli tilsvarende lavsesong normalt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "68af7ae85879f6a5",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Torsdag stiger capesizeratene nesten én prosent, noe som løfter Baltic Dry-indeksen 0,3 prosent.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    }
+  ]
 }

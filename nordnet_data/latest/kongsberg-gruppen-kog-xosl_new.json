@@ -1,25 +1,66 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-17T12:08:42.506392+00:00",
+  "scraped_at": "2026-09-17T13:59:37.064813+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "52ffe6723d2d7bd1",
-      "author": "Luddien",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luddien",
-      "posted_relative": "for 4 min siden",
-      "text": "https://www.nettavisen.no/nyheter/nato-luftvern-i-full-beredskap-etter-russisk-angrep/s/80-95-86121",
+      "key": "b7e47dacb26fe522",
+      "author": "StopLossSurvivor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stoplosssurvivor",
+      "posted_relative": "for 26 min siden · Endret",
+      "text": "· hva vil skje med aksjen når datoer for fredssamtaler mellom Ukraina og Russland blir annonsert i de kommende ukene ? Bare se på denne aksjen i fjor da fredssamtaler pågikk.. Jeg har en følelse av at den vil gå under 295 nok før den henter seg inn igjen",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 254,
+      "has_link": false
+    },
+    {
+      "key": "fa5a1ad4f22040e6",
+      "author": "Dulle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
+      "posted_relative": "for 22 min siden · Endret",
+      "text": "Tror det blir en meget bra sluttauksjon, stor kjøpsinteresse nå. Ingen Kongsberg Knekk de siste dagene. VWAP har steget med over 1 krone siden kl 10.00. Når vi mitt tips i går om å nå 325.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 188,
+      "has_link": false
+    },
+    {
+      "key": "40ab0dfd879757bb",
+      "author": "MajorN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/majorn",
+      "posted_relative": "for 7 min siden",
+      "text": "Ligger bra sperre på 325, håper den går snart 🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "68a2bac17e9f15ab",
+      "author": "IniestaICCP",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iniestaiccp",
+      "posted_relative": "for 1 t siden",
+      "text": "For 2 uker siden",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://www.nettavisen.no/nyheter/nato-luftvern-i-full-beredskap-etter-russisk-angrep/s/80-95-86121"
-      ],
-      "char_count": 99,
-      "has_link": true
+      "links": [],
+      "char_count": 16,
+      "has_link": false
     }
   ]
 }

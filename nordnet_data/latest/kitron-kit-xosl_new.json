@@ -1,9 +1,40 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-17T12:05:12.079156+00:00",
+  "scraped_at": "2026-09-17T13:56:03.486342+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "37329f483ee5ca61",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 24 min siden",
+      "text": "Nato - luftvern i full beredskap https://www.nettavisen.no/nyheter/nato-luftvern-i-full-beredskap-etter-russisk-angrep/s/80-95-86121",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.nettavisen.no/nyheter/nato-luftvern-i-full-beredskap-etter-russisk-angrep/s/80-95-86121"
+      ],
+      "char_count": 132,
+      "has_link": true
+    },
+    {
+      "key": "424e2f4b53155c1c",
+      "author": "Bendik0875",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bendik0875",
+      "posted_relative": "for 32 min siden",
+      "text": "Grønne tall for første gang 👌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }
