@@ -1,81 +1,25 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-17T20:44:27.188797+00:00",
+  "scraped_at": "2026-09-17T23:15:32.088159+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 5,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "d6fbabb752da7db2",
-      "author": "EOB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eob",
-      "posted_relative": "for 15 min siden · Endret",
-      "text": "· Jo, det er sånn, så gjelder det bare å finne de andre i tillegg til NAS som har en mulig og da solid oppside. Det ser dårlig ut i Sverige, så nettopp en rapport om at andre kvartal viste 15 milliarder lavere sparing og kraftig økning av lån for befolkningen. Så hva sier det oss, og dere i Norge har kanskje enda tøffere eller har vi.....",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 340,
-      "has_link": false
-    },
-    {
-      "key": "b3a12958170e2e3c",
-      "author": "kilkenny72",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
-      "posted_relative": "for 2 t siden",
-      "text": "Alltids like mange kjøpere som selgere. Det som avgjør prisen, er kun hva folk er villig til å betale.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 102,
-      "has_link": false
-    },
-    {
-      "key": "28d00249ba029eb0",
-      "author": "Svinjolf",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svinjolf",
-      "posted_relative": "for 2 t siden",
-      "text": "Synes dere med toppkarakterer på “Livets harde skole“ sa den skulle ned på 10.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 78,
-      "has_link": false
-    },
-    {
-      "key": "8143687bd64d5c5d",
-      "author": "Ben16",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ben16",
-      "posted_relative": "for 6 t siden",
-      "text": "Det er ihvertfall noen som handler litt! Vis 1 kommentar til",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 60,
-      "has_link": false
-    },
-    {
-      "key": "a7edc4d9968c1ba6",
-      "author": "sleip-pedal",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sleip-pedal",
+      "key": "5725b0c4858de8ca",
+      "author": "Analytikeren77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/analytikeren77",
       "posted_relative": "for 1 t siden",
-      "text": "Kan være litt tidlig å hovere 😂",
+      "text": "Jet fuel pris Da ble det en spike i prisen igjen. Det vedvarer nok en stund. Estimat for å fikse rørledningen som går til Yanbu er foreløpig 3-4 uker. https://www.iata.org/en/publications/economics/fuel-monitor/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 31,
-      "has_link": false
+      "links": [
+        "https://www.iata.org/en/publications/economics/fuel-monitor/"
+      ],
+      "char_count": 211,
+      "has_link": true
     }
   ]
 }
