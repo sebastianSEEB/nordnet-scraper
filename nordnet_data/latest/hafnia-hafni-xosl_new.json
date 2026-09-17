@@ -1,9 +1,25 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-17T13:54:19.926818+00:00",
+  "scraped_at": "2026-09-17T17:50:22.062500+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cd9076e84d7980c8",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 1 t siden",
+      "text": "Og der fikk vi vel bekreftet at det også kommer en del oljeprodukter gjennom Hormuzstredet (tross påstander om at ingen tørr det pga eksplosiv last). Hafnia seiler IKKE gjennom stredet, men tar STS-transfers i GoO og seiler derfra. Har ikke sett noen gode kilder på produkttankrater i det siste (jeg teller ikke Poten som god kilde i så måte) https://tv.finansavisen.no/nb/watch/8511",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://tv.finansavisen.no/nb/watch/8511"
+      ],
+      "char_count": 383,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-17T13:57:49.189402+00:00",
+  "scraped_at": "2026-09-17T17:53:48.457002+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "df6f7c916be57e07",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 3 min siden",
+      "text": "Jeg tror ikke dette har noe særlig effekt, bortsett fra litt signaleffekt kanskje . Slettes ikke, det er til goder for ansatte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    }
+  ]
 }

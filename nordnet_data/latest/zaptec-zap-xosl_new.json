@@ -1,9 +1,23 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-17T13:55:59.725209+00:00",
+  "scraped_at": "2026-09-17T17:52:05.387428+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fc27e4c4dbd5825a",
+      "author": "Kejserk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kejserk",
+      "posted_relative": "for 8 min siden",
+      "text": "· Helt enig, jeg fyller også på løpende. Alt går deres vei for tiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }
