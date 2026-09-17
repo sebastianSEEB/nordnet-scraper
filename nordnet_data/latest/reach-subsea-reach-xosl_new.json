@@ -1,40 +1,9 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-09-17T11:56:21.917824+00:00",
+  "scraped_at": "2026-09-17T12:11:13.126427+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "6fe8ba280dac37c5",
-      "author": "h3nk1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
-      "posted_relative": "for 2 t siden",
-      "text": "Nei. Her er for øvrig siste info: https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442"
-      ],
-      "char_count": 125,
-      "has_link": true
-    },
-    {
-      "key": "cae628927432a743",
-      "author": "Tekjo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tekjo",
-      "posted_relative": "for 2 t siden",
-      "text": "Er det bestemt hva slags løsning det blir på utskillelsen av remote nå?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 71,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
