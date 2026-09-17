@@ -1,9 +1,66 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-17T02:21:21.240700+00:00",
+  "scraped_at": "2026-09-17T08:11:14.802124+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "127bb5f2fcb37bbc",
+      "author": "OSEBX2000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osebx2000",
+      "posted_relative": "for 10 min siden",
+      "text": "https://e24.no/boers-og-finans/i/8pMdnE/kaller-norge-proteksjonistisk-jeg-skjoenner-det-ikke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/8pMdnE/kaller-norge-proteksjonistisk-jeg-skjoenner-det-ikke"
+      ],
+      "char_count": 92,
+      "has_link": true
+    },
+    {
+      "key": "47b909da0f49c1d1",
+      "author": "Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": "for 22 min siden · Endret",
+      "text": "Så lenge råolje- og gasslagerne faktisk fylles, sakte men sikkert, tror jeg vi kan se langt etter 20. Pengene renner uansett inn. Økt utbytte bør være på blokka, fordi produksjonsvolum og oljepris er eneste trigger. Q3 er nok priset inn på kurs under 20. Kurdistan ser jeg helt bort fra. Tipper det blir status quo der til oljeprisen bikker 60.  DNO tjener vilt med penger nå om dagen, men verdsettelsen er og blir en fartshump for selskapet. Dersom utbyttet øker har jeg få problemer med å se DNO i intervallet 16 - 19 kroner. For dere som trader for raske gevinster er det bare å følge oljeprisen. Treffer dere på den kan dere fort tjene en krone her og en krone der.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 669,
+      "has_link": false
+    },
+    {
+      "key": "d29fa48d72488fdc",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 5 min siden",
+      "text": "· Til tross for en ytterst liten nedgang i oljeprisen faller alle oljeaksjer, med DNO i spissen selvsagt, faller mest når de faller stiger minst når de stiger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    },
+    {
+      "key": "4415e5fdf9ca54e9",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 1 t siden",
+      "text": "· Så typisk DNO når oljeprisen stiger er den supersugen, men nei når den faller litt da henger vi på ordentlig, føles suspekt,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    }
+  ]
 }

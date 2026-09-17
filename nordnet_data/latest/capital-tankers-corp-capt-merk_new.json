@@ -1,9 +1,70 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-09-17T02:18:39.939433+00:00",
+  "scraped_at": "2026-09-17T08:08:48.263085+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "91136420d7c2cfb8",
+      "author": "McapVenture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
+      "posted_relative": "for 56 min siden",
+      "text": "Nå får CAPT hjelp av dollaren også, FED besluttet å heve renten med 0.25%, og da hoppet Dollaren nesten 1% igår. Dette vil hjelpe Q3 resultatet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "1af47596b5f6ef32",
+      "author": "FenderDK",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fenderdk",
+      "posted_relative": "for 1 t siden",
+      "text": "· Denne vil stige ganske voldsomt i den kommende tid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "b02b3e9c5738b1b2",
+      "author": "mesut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mesut",
+      "posted_relative": "for 18 t siden",
+      "text": "· Deiliii Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "1edc7e3c9f2ed7bc",
+      "author": "McapVenture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hvorfor vil den det ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

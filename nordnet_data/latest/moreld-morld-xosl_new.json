@@ -1,9 +1,23 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-17T02:21:02.431871+00:00",
+  "scraped_at": "2026-09-17T08:10:59.190190+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e847c364934f1141",
+      "author": "SpanskOliven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "posted_relative": "for 38 min siden",
+      "text": "Ser ikke ut som konferansen har påvirket kursen mye. Satser på gode nyheter igjen snart👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    }
+  ]
 }

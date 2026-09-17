@@ -1,9 +1,23 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-09-17T02:17:37.600221+00:00",
+  "scraped_at": "2026-09-17T08:07:46.338913+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8230d1b913e0e664",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 53 min siden",
+      "text": "I flere dager nå ,har ordrebildet i slutthandel, de siste 5-10dgr , oppført seg slik,. Feil eller?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ]
 }

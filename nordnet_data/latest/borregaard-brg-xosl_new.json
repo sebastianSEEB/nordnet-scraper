@@ -1,9 +1,23 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-17T02:22:24.592008+00:00",
+  "scraped_at": "2026-09-17T08:12:17.090594+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3f2c45d4b8207218",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Leser i FA i dag at Borregaard har produkter som; (1) Spesialcellulose.  (2) Ligninbaserte biopolymerer. (3) Bioetanol. Mitt sps er da: Hvirdan ser markedet ut for hver av disse produktgruppene, opp/sidelengs/ned ? Prisene for hvert produkt, opp/sidelengs/ned ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 261,
+      "has_link": false
+    }
+  ]
 }

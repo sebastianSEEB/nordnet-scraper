@@ -1,9 +1,38 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-17T02:23:13.527899+00:00",
+  "scraped_at": "2026-09-17T08:13:05.377882+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "60e70a1d6b12fe8d",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Mer eller mindre fake news dominerer oljeprisen. Saudi, som er hardt rammet, tilbyr nå ”extra crude” via Oman, Trump har en avtale med Houthis, og Iran ber på sine bare knær om en fredsavtale. Masse olje forlater sundet. USA produserer mer, og så videre. Ingenting kan gå opp hele tiden, og en liten korreksjon kan være bra i lengden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 336,
+      "has_link": false
+    },
+    {
+      "key": "063e74fa7e9fed5d",
+      "author": "Lynx_80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lynx_80",
+      "posted_relative": "for 14 min siden",
+      "text": "Og Olja stiger igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-17T02:18:09.256291+00:00",
+  "scraped_at": "2026-09-17T08:08:16.368967+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8dca1c03273e09b6",
+      "author": "GriseBank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grisebank",
+      "posted_relative": "for 1 t siden",
+      "text": "· Jeg beholder.. kanskje kjøper mer etter den 21.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

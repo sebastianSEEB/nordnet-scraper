@@ -1,9 +1,52 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-17T02:21:25.209380+00:00",
+  "scraped_at": "2026-09-17T08:11:18.554002+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4d1092559cd278b5",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 2 t siden",
+      "text": "Det var snev av positiv kurs ja. Men det kommer positive meldinger så og si HVER DAG! 🤩",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "2f69d6087f368b65",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 19 min siden · Endret",
+      "text": "Tror det stopper på 15,60 kr bull trap er byggt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "432d94bd4cc8c09e",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 1 t siden",
+      "text": "Fortsetter vi den fine trenden fra igår? 👍💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

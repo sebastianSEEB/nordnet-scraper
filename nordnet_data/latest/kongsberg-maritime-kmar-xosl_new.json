@@ -1,9 +1,54 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-17T02:21:32.794065+00:00",
+  "scraped_at": "2026-09-17T08:11:26.048344+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6eb885060696c482",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "For oss som lever av dette må det taes ut noen kr også. Da må noe realisere. Ikke alt men noe",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "b34ccc44ee6ae026",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Det kommer an på hva algoritmene leser av bildet det da. Trenden er oppover",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "b5737fdd79c80e71",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 1 t siden",
+      "text": "· Bryter vi 60 i dag? 💵👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

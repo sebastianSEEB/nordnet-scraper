@@ -1,9 +1,58 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-09-17T02:25:18.145011+00:00",
+  "scraped_at": "2026-09-17T08:15:13.983940+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1abbd95e8c4ed467",
+      "author": "h3nk1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
+      "posted_relative": "for 14 min siden · Endret",
+      "text": "Anbefaler å ta en kikk på presentasjonen de holdt i går. Vanskelig å ikke være bull REMOTE med den pitchen. https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442"
+      ],
+      "char_count": 199,
+      "has_link": true
+    },
+    {
+      "key": "4daea1675ce5182a",
+      "author": "stratix",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
+      "posted_relative": "for 32 min siden · Endret",
+      "text": "Jeg tenkte meg at Reach Subsea ville være å se på Pareto konferansen. Jeg tror også presentasjonen de hadde der vil trigge økt interesse for selskapet 👍 Har sett litt på Reach Remote og evt utskillelse av disse i eget selskap som da inkluderer rovene. En sannsynlig verdsettelse vil ligge på 1,2 -1,7 mrd når alle er i drift. En pen verdiøkning i forhold til dagens mc. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 389,
+      "has_link": false
+    },
+    {
+      "key": "0370b21dad744279",
+      "author": "Ijors",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ijors",
+      "posted_relative": null,
+      "text": "13. sep. Ny Hunter tro? Hva mener folket? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

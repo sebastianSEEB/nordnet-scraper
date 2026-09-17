@@ -1,9 +1,39 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-17T02:22:20.618394+00:00",
+  "scraped_at": "2026-09-17T08:12:13.411609+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b1c8e6f8cba94465",
+      "author": "Sykkelpoteten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sykkelpoteten",
+      "posted_relative": "for 14 t siden",
+      "text": "Nå ser det ut som Peregrino er solgt til 2020 bulkers, så da legges vel DDW dødt og det venter enda mer utbytte. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "4605ccac2d1b779b",
+      "author": "Sykkelpoteten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sykkelpoteten",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Skandi Peregrino er nevnt av 2020 bulkers sin presentasjon som et av 15 skip de skal kjøpe.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    }
+  ]
 }

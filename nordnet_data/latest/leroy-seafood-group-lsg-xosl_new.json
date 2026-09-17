@@ -1,9 +1,38 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-17T02:19:30.849659+00:00",
+  "scraped_at": "2026-09-17T08:09:38.136450+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a362e6626f6a2acb",
+      "author": "Littdepressiv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littdepressiv",
+      "posted_relative": "for 48 min siden",
+      "text": "· Ja, denne har jo gått som en kule: 11,8% på 10 år. Er vel først og fremst utbyttet til eierne som gjelder i denne aksjen, men vi kan jo alltid håpe.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "02a09dca74026a49",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 11 t siden",
+      "text": "Når denne først spretter så er det for sent å sprette med Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

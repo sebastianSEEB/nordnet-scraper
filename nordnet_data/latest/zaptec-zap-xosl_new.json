@@ -1,9 +1,40 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-17T02:19:08.021783+00:00",
+  "scraped_at": "2026-09-17T08:09:15.280855+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fedfbf76bc325c24",
+      "author": "Ung-Investor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ung-investor-1",
+      "posted_relative": "for 33 min siden",
+      "text": "Ny vesentlig positiv utvikling: Europeisk BEV-etterspørsel i august var sterkere enn tidligere indikert. Nye data publisert 16. september viser at BEV-registreringene i 16 europeiske markeder steg 54,2 % YoY, og BEV-andelen nådde 30,5 %. Hittil i 2026 er registreringene opp 33,1 % (Reuters).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 292,
+      "has_link": false
+    },
+    {
+      "key": "15895f1e4f4c2ad8",
+      "author": "ekspokongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekspokongen",
+      "posted_relative": "for 1 t siden",
+      "text": "Over 57 I dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

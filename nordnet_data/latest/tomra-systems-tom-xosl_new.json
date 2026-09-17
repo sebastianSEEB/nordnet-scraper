@@ -1,9 +1,38 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-17T02:19:19.498014+00:00",
+  "scraped_at": "2026-09-17T08:09:26.738414+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "474de0d10b97cb34",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 48 min siden",
+      "text": "Fordi den skal opp mye :p.. men fra spøk til alvor, veldig under priset.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "c17d49f38ea47536",
+      "author": "Trishan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trishan",
+      "posted_relative": "for 14 t siden",
+      "text": "· Hvorfor går denne ned så mye? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

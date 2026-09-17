@@ -1,63 +1,874 @@
 {
-  "frontline-fro-xosl": [],
-  "okeanis-eco-tankers-oet-xosl": [],
-  "hafnia-hafni-xosl": [],
-  "stolt-nielsen-sni-xosl": [],
-  "bw-lpg-bwlpg-xosl": [],
-  "alng-xoas": [],
-  "klaveness-combination-carriers-kcc-xosl": [],
-  "2020-bulkers-2020-xosl": [
+  "frontline-fro-xosl": [
     {
-      "key": "45023b8a888b8510",
-      "author": "Tormykl",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tormykl",
-      "posted_relative": "for 2 t siden",
-      "text": "Hvilken fartøy er det snakk om , AHTS fartøy er jo alt fra små tug boats til svære konstruksjon skip",
+      "key": "0c82206de3105273",
+      "author": "Aksjel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjel",
+      "posted_relative": "for 4 min siden",
+      "text": "Ferst intervju med sjefen fra Pareto konferansen, 18 min ut i videoen https://www.youtube.com/watch?v=61NipzSoftU",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.youtube.com/watch?v=61NipzSoftU"
+      ],
+      "char_count": 113,
+      "has_link": true
+    },
+    {
+      "key": "bc9a5014e3ef6c27",
+      "author": "MPMC",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mpmc",
+      "posted_relative": "for 49 min siden",
+      "text": "· Jeg tror vi kanskje gjør en farlig antakelse om at ratene vi ser er representative for hva hele flåten tjener. Hvis forstyrrelsen fører til at tomgangs-, vente- og ballastdager skyter i været, kan vi ha absolutt spektakulære rater for skipene som jobber, samtidig som vi har dobbelt så mange ubetalte fartøydager. I så fall kan den rapporterte raten se ekstraordinær ut, mens den flåtebrede kontantstrømgenereringen slett ikke er like ekstraordinær.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        7
+      ],
+      "links": [],
+      "char_count": 451,
+      "has_link": false
+    },
+    {
+      "key": "c930b6c026cd597d",
+      "author": "victoriawin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/victoriawin",
+      "posted_relative": "for 6 min siden",
+      "text": "Så rart! Hos meg står det to plasser at ex dag er i morgen, 18/9, men under informasjon stå det at den handles ex utbytte i dag. Da står det feilinformasjon to steder hos meg.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 100,
+      "char_count": 175,
+      "has_link": false
+    },
+    {
+      "key": "825a2ec3cf455035",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 17 min siden",
+      "text": "· Jeg tror alle vet at de siste VLCC subs ikke gjenspeiler FROs flåtebrede TC-ytelse, men Q3 kommer til å bli bedre enn Q2, og mest sannsynlig Q4 bedre enn Q3 igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 165,
+      "has_link": false
+    },
+    {
+      "key": "11d01f830ffeeb99",
+      "author": "westviking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/westviking",
+      "posted_relative": "for 19 min siden · Endret",
+      "text": "Er det en god dag å kjøpe på idag mtp. nedjustert for utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "9b5f7fc6e2bc7082",
+      "author": "Tsalling",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tsalling",
+      "posted_relative": "for 45 min siden",
+      "text": "· Hvorfor står frontline i grønt når den faller🙄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "5a08c96c03b159a5",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 min siden",
+      "text": "Vær litt forsiktig med det der er du snill ;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "d01c93b6fcd43468",
+      "author": "chucky76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chucky76",
+      "posted_relative": "for 4 min siden",
+      "text": "· Mot 530 💰💰💰🚀🚀🚀👍🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    },
+    {
+      "key": "d29ce7f9716bfd87",
+      "author": "chucky76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chucky76",
+      "posted_relative": "for 40 min siden",
+      "text": "Les nyheter!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ],
+  "okeanis-eco-tankers-oet-xosl": [
+    {
+      "key": "3f1e8975ffe2cb68",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "Ratene har ALDRI vært høyere. Hvor lenge vil det vare? Se på historien fra 1.verdenskrig, jobbetiden. Der varte det i 2 år EFTER at krigen var over. Men tidligere historie er ikke fasit for fremtiden. Så her gjelder det å samle mest mulig daglig informasjon, for å kunne \"spå\"  om morgendagen. Min \"spådom\" , og det samme som flere analytikere, er at dette vil vare langt ut i 1027. \"Krig driver skipsfartens største oppsving noensinne, ettersom ratene slår rekorder. Momentum setter nye standarder ettersom rallyet overgår topper Skipsredere rir på den høyeste ratebølgen som noen gang er opplevd i det som er en kjent ustabil bransje.\" https://www.tradewindsnews.com/tankers/war-drives-shipping-s-biggest-ever-bull-run-as-rates-smash-records/2-1-2044385",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.tradewindsnews.com/tankers/war-drives-shipping-s-biggest-ever-bull-run-as-rates-smash-records/2-1-2044385"
+      ],
+      "char_count": 755,
+      "has_link": true
+    },
+    {
+      "key": "535492e8a6ea0538",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 2 t siden",
+      "text": "Nissos Kea altså https://app.tankersinternational.com/fixtures/8f925edb-abff-4e8a-83a1-3a2ebf8e1df0 Som en påminnelse; Aristidis var ikke helt fornøyd med at TI estimerte henne så \"lavt\" https://x.com/Aristidis/status/2099549231946056028",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://app.tankersinternational.com/fixtures/8f925edb-abff-4e8a-83a1-3a2ebf8e1df0",
+        "https://x.com/Aristidis/status/2099549231946056028"
+      ],
+      "char_count": 237,
+      "has_link": true
+    },
+    {
+      "key": "c08715d3fa48e934",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Nissos Kea sluttet på  $ 619.000.-  denne uken. For 30 dager. ACTUAL TCE/DAY INCLUDING IDLE DAYS USD 618,782/day @ 32 days RV TCE/DAY EXCLUDING IDLE DAYS USD 674,569/day @ 30 days",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 179,
+      "has_link": false
+    },
+    {
+      "key": "67c9c51f237f972d",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "Gårsdagens \"våre\" rater. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina          1.078,25     1.144.960 260        V-Afr/Kina         516,25       509.342",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 176,
+      "has_link": false
+    },
+    {
+      "key": "cb5a1fb051724c9f",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 45 min siden",
+      "text": "Kjøp nå til kr 797.- Eller vent til kl 15;45, og kjøp til kr 835.-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ],
+  "hafnia-hafni-xosl": [],
+  "stolt-nielsen-sni-xosl": [],
+  "bw-lpg-bwlpg-xosl": [
+    {
+      "key": "8230d1b913e0e664",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 53 min siden",
+      "text": "I flere dager nå ,har ordrebildet i slutthandel, de siste 5-10dgr , oppført seg slik,. Feil eller?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ],
+  "alng-xoas": [],
+  "klaveness-combination-carriers-kcc-xosl": [],
+  "2020-bulkers-2020-xosl": [
+    {
+      "key": "a965358b23497f0a",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 36 min siden",
+      "text": "· Utstedelseskursen for Vederlagsaksjene vil bli fastsatt i forbindelse med de endelige avtalene for Oppkjøpene, og baseres på nettoverdien av 2020 Bulkers (den gjenværende kontantbeholdningen på omtrent USD 5 millioner justert for visse forpliktelser og fordringer) pluss USD 1 million. Tilbudsprisen i den planlagte private plasseringen forventes å være den samme prisen og vil bli kunngjort i forbindelse med en potensiell lansering av en privat plassering.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 460,
+      "has_link": false
+    },
+    {
+      "key": "3c9d508660d4b34e",
+      "author": "Gladamateur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gladamateur",
+      "posted_relative": "for 19 min siden",
+      "text": "Er det noen som kan forklare hvorfor handelen på denne stopper opp med jevne mellomrom, som ved en sluttauksjon? Er det noe system i det?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "0e4fe9120cedb0d8",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 58 min siden",
+      "text": "Blir nok trading bonanza frem til emi starter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "2ae32f1e20f20ddd",
+      "author": "eswoldd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eswoldd",
+      "posted_relative": "for 35 min siden",
+      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "cb7cbdc4f16f6ce7",
+      "author": "potetmelsjevning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/potetmelsjevning",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva emisjonskursen vil bli er sentralt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "ced4cbafd8a0f082",
+      "author": "Moviestrar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moviestrar",
+      "posted_relative": "for 7 min siden",
+      "text": "Vet vi dato for emisjon?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    },
+    {
+      "key": "f6fec4e6878d41ae",
+      "author": "AksjeBelge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjebelge",
+      "posted_relative": "for 46 min siden",
+      "text": "Innkalling til EGF.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    },
+    {
+      "key": "3dff103cc0ebc3d1",
+      "author": "Jon Osdal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jon-osdal",
+      "posted_relative": "for 58 min siden",
+      "text": "· 💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
       "has_link": false
     }
   ],
   "himalaya-shipping-hshp-xosl": [],
   "jinhui-shipping-transportation-jin-xosl": [],
-  "mpc-container-ships-mpcc-xosl": [],
-  "hoegh-autoliners-hauto-xosl": [],
-  "wallenius-wilhelmsen-wawi-xosl": [],
+  "mpc-container-ships-mpcc-xosl": [
+    {
+      "key": "a0a4eb6c0e5f5875",
+      "author": "Goldy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/goldy",
+      "posted_relative": "for 54 min siden",
+      "text": "Tviler på at selskapet blir kjøpt opp, men kan fort være at Mpcc kjøpe opp andre selskaper for å vokse videre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "09415989fde49ffc",
+      "author": "Kong__kurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kong__kurs",
+      "posted_relative": "for 33 min siden",
+      "text": "Jeg tror det er butikk å handle denne aksjen 👍🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ],
+  "hoegh-autoliners-hauto-xosl": [
+    {
+      "key": "5187fbce3b2ea619",
+      "author": "Donrup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donrup",
+      "posted_relative": "for 1 t siden",
+      "text": "· De månedlige rapporterte fraktmengdene, hva tilsvarer de i utnyttelsesgrad? Er eksportkapasiteten fra Asia 100% utnyttet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    }
+  ],
+  "wallenius-wilhelmsen-wawi-xosl": [
+    {
+      "key": "8dca1c03273e09b6",
+      "author": "GriseBank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grisebank",
+      "posted_relative": "for 1 t siden",
+      "text": "· Jeg beholder.. kanskje kjøper mer etter den 21.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ],
   "wilh0-wilhelmsen-holding-ser0-wwi-xosl": [],
   "wilh0-wilhelmsen-holding-ser0-wwib-xosl": [],
   "solstad-offshore-soff-xosl": [],
   "havila-shipping-havi-xosl": [],
   "ads-maritime-holding-ads-merk": [],
   "western-bulk-chartering-west-merk": [],
-  "cmb0tech-nv-cmbto-xosl": [],
-  "capital-tankers-corp-capt-merk": [],
-  "blue-nord-bnor-xosl": [],
-  "nordic-semiconductor-nod-xosl": [],
-  "norwegian-air-shuttle-nas-xosl": [],
-  "link-mobility-group-holding-link-xosl": [],
-  "vend-marketplaces-vend-xosl": [],
-  "zaptec-zap-xosl": [],
-  "kitron-kit-xosl": [],
-  "panoro-energy-pen-xosl": [],
-  "tomra-systems-tom-xosl": [],
-  "dof-group-dofg-xosl": [],
-  "protector-forsikring-prot-xosl": [],
-  "leroy-seafood-group-lsg-xosl": [],
-  "norbit-norbt-xosl": [
+  "cmb0tech-nv-cmbto-xosl": [
     {
-      "key": "e82d377df709168c",
-      "author": "Tikamp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
-      "posted_relative": "for 2 t siden",
-      "text": "Nyheter om ordre gir ikke så god synlighet på hva de omsetter for in the end. Det er nok mye løpende inntjeninger fra kunder de har allerede.  Guidingen er 3 milliarder i 2026 og 6 milliarder innen 2030.  I 2025 omsatte de for 2.5 milliarder. NORBIT har falt 26% det siste året. Jeg tenker NORBITs annerkjennelse etterhvert som det blir et større selskap vil akselerere kontrakter og inntjening. Det kan bli et stort selskap etterhvert.",
+      "key": "0aa846c2cbcc0c9d",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Ikke langt unna 190-tallet nå (smilefjes).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ],
+  "capital-tankers-corp-capt-merk": [
+    {
+      "key": "91136420d7c2cfb8",
+      "author": "McapVenture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
+      "posted_relative": "for 56 min siden",
+      "text": "Nå får CAPT hjelp av dollaren også, FED besluttet å heve renten med 0.25%, og da hoppet Dollaren nesten 1% igår. Dette vil hjelpe Q3 resultatet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "1af47596b5f6ef32",
+      "author": "FenderDK",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fenderdk",
+      "posted_relative": "for 1 t siden",
+      "text": "· Denne vil stige ganske voldsomt i den kommende tid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "b02b3e9c5738b1b2",
+      "author": "mesut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mesut",
+      "posted_relative": "for 18 t siden",
+      "text": "· Deiliii Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "1edc7e3c9f2ed7bc",
+      "author": "McapVenture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hvorfor vil den det ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 436,
+      "char_count": 23,
+      "has_link": false
+    }
+  ],
+  "blue-nord-bnor-xosl": [
+    {
+      "key": "37778855a02a422d",
+      "author": "hjulgransskakning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hjulgransskakning",
+      "posted_relative": "for 4 t siden",
+      "text": "· Det er vel klart at det ikke gjør. Din avkastning vil vises på porteføljenivå. Hvis du har kjøpt BN for 1000 og ligger +16%, har du 1160. Når du bytter, gjør du Vår for 1160 og +/-0%.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 185,
+      "has_link": false
+    },
+    {
+      "key": "08d3552b7c26dd50",
+      "author": "Sjorover",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjorover",
+      "posted_relative": "for 19 t siden",
+      "text": "Hei, noen som har en formening om når neste utbytte/utbetaling vil forekomme? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "4ca5bbabce0b4053",
+      "author": "Harikkepeiling2021",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harikkepeiling2021",
+      "posted_relative": "for 26 min siden",
+      "text": "Aldri..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
+      "has_link": false
+    }
+  ],
+  "nordic-semiconductor-nod-xosl": [],
+  "norwegian-air-shuttle-nas-xosl": [
+    {
+      "key": "9305b992004e18bf",
+      "author": "kilkenny72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
+      "posted_relative": "for 19 min siden",
+      "text": "Om det er en potensiell gullgruve, vet man kanskje ikke før man får se effekten av synergiene.  Om det kan bidra til at aksjen blir mindre volatil, tror jeg ikke. Flyselskap har så mange ytre faktorer som kan påvirke resultat, og også mange småsparere som lett påvirkes. Så det vil nok fremdeles være en fin aksje blant tradere og short. Tror jeg😀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 347,
+      "has_link": false
+    },
+    {
+      "key": "9cc5cb9f41e66104",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 1 t siden",
+      "text": "Idag snur den opp og det blir en vedvarende pen stigning mot 18,- iløpet av oktober. Våpenhvile kommer i både Ukraina og i Iran og da kommer oljen mye ned og uansett om forstyrrelser i leveringen an ulike oljeprodukter vil fortsette en stund kommer en super-rekyl i aksjer som har vært tynget av oljeprisen 💵💰🚀 BULL 💵💵💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        6
+      ],
+      "links": [],
+      "char_count": 319,
+      "has_link": false
+    },
+    {
+      "key": "efc772ec562bc78c",
+      "author": "WithinTemptation",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/withintemptation",
+      "posted_relative": "for 1 t siden",
+      "text": "Vist man tenker med lange briller i dette selskapet  vill ikke dette oppkjøpet være en potensiell gullgruve? Tenker at synenergiene kan også bidra til litt mindre volatil aksje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    },
+    {
+      "key": "a37be0bd77d94333",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 59 min siden",
+      "text": "De er blitt tipset 😀",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ],
+  "link-mobility-group-holding-link-xosl": [
+    {
+      "key": "2aa919b78fb64c4c",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 55 min siden",
+      "text": "Det skal ikke rare volumet til før denne begynner reisen opp. Short reduseres og det er svært lite aksjer for videre inndekning på dette nivået.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "9f747681d2036717",
+      "author": "Sralom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sralom",
+      "posted_relative": "for 5 t siden",
+      "text": "Synlig short har ivertfall gått ned til 6,9% 🙃",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ],
+  "vend-marketplaces-vend-xosl": [],
+  "zaptec-zap-xosl": [
+    {
+      "key": "fedfbf76bc325c24",
+      "author": "Ung-Investor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ung-investor-1",
+      "posted_relative": "for 33 min siden",
+      "text": "Ny vesentlig positiv utvikling: Europeisk BEV-etterspørsel i august var sterkere enn tidligere indikert. Nye data publisert 16. september viser at BEV-registreringene i 16 europeiske markeder steg 54,2 % YoY, og BEV-andelen nådde 30,5 %. Hittil i 2026 er registreringene opp 33,1 % (Reuters).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 292,
+      "has_link": false
+    },
+    {
+      "key": "15895f1e4f4c2ad8",
+      "author": "ekspokongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekspokongen",
+      "posted_relative": "for 1 t siden",
+      "text": "Over 57 I dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ],
+  "kitron-kit-xosl": [
+    {
+      "key": "665efc5e647525c9",
+      "author": "mikkelstante",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikkelstante",
+      "posted_relative": "for 1 t siden",
+      "text": "https://radioh.no/dagens-aksjetips-kongsberg-holder-toppen-dof-styrket-etter-kapitalmarkedsdagen/ God morgen!😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [
+        "https://radioh.no/dagens-aksjetips-kongsberg-holder-toppen-dof-styrket-etter-kapitalmarkedsdagen/"
+      ],
+      "char_count": 110,
+      "has_link": true
+    },
+    {
+      "key": "0ab394f003f4d45a",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 1 t siden",
+      "text": "....\"Eksterne analytikere: Fem analytikere har samlet anbefaling kjøp og gjennomsnittlig kursmål på 106,61 kroner\"....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "5a01e94dab4ddabd",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 6 min siden",
+      "text": "De er sikkert glad for 2% opp i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ],
+  "panoro-energy-pen-xosl": [
+    {
+      "key": "cdfe927a3fe4e2a5",
+      "author": "blacktime",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacktime",
+      "posted_relative": "for 42 min siden",
+      "text": "https://www.finansavisen.no/energi/2026/09/17/8381015/hammer-sar-tvil-om-hormuz-pastand Helt syk hvor mye makt noen har med å bare slenge ut noen ord… Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/17/8381015/hammer-sar-tvil-om-hormuz-pastand"
+      ],
+      "char_count": 170,
+      "has_link": true
+    },
+    {
+      "key": "60e70a1d6b12fe8d",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Mer eller mindre fake news dominerer oljeprisen. Saudi, som er hardt rammet, tilbyr nå ”extra crude” via Oman, Trump har en avtale med Houthis, og Iran ber på sine bare knær om en fredsavtale. Masse olje forlater sundet. USA produserer mer, og så videre. Ingenting kan gå opp hele tiden, og en liten korreksjon kan være bra i lengden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 336,
+      "has_link": false
+    },
+    {
+      "key": "0ace74d7fcdc3533",
+      "author": "blacktime",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacktime",
+      "posted_relative": "for 15 min siden",
+      "text": "Skulle ønske man hadde mer å kjøpe for😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ],
+  "tomra-systems-tom-xosl": [
+    {
+      "key": "474de0d10b97cb34",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 48 min siden",
+      "text": "Fordi den skal opp mye :p.. men fra spøk til alvor, veldig under priset.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "c17d49f38ea47536",
+      "author": "Trishan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trishan",
+      "posted_relative": "for 14 t siden",
+      "text": "· Hvorfor går denne ned så mye? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ],
+  "dof-group-dofg-xosl": [
+    {
+      "key": "d89a3f1c4df15e85",
+      "author": "Sistemann inn..",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
+      "posted_relative": "for 55 min siden",
+      "text": "Det er egentlig litt rart om DOF går ned på nyheten om Bulkers nye satsing på ankerhånderings-skip.  Dette er eksisterende skip - og de gjør det fordi det ikke har vært levert nye skip på åtte år(2018), Motivasjonen synes å være forventninger om et langt strammere marked de neste årene. M.a.o. om de får rett - så er dette gode nyheter for hele bransjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 355,
+      "has_link": false
+    }
+  ],
+  "protector-forsikring-prot-xosl": [],
+  "leroy-seafood-group-lsg-xosl": [
+    {
+      "key": "a362e6626f6a2acb",
+      "author": "Littdepressiv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littdepressiv",
+      "posted_relative": "for 48 min siden",
+      "text": "· Ja, denne har jo gått som en kule: 11,8% på 10 år. Er vel først og fremst utbyttet til eierne som gjelder i denne aksjen, men vi kan jo alltid håpe.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "02a09dca74026a49",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 11 t siden",
+      "text": "Når denne først spretter så er det for sent å sprette med Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ],
+  "norbit-norbt-xosl": [
+    {
+      "key": "2a22274602032bcf",
+      "author": "Panzerhanzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
+      "posted_relative": "for 37 min siden",
+      "text": "Absolutt 😂 tenker det går fint om den ikke går inn, det er mye annet som er på tilbud nå.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    },
+    {
+      "key": "0a0e5d87d3420da4",
+      "author": "Panzerhanzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva tenker folk om denne kursen? Vurderer en inngang her i dag om den kommer ned på 156",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        8
+      ],
+      "links": [],
+      "char_count": 87,
       "has_link": false
     }
   ],
@@ -66,7 +877,38 @@
   "odfjell-drilling-odl-xosl": [],
   "constellation-oil-services-holding-cosh-xosl": [],
   "aker-solutions-akso-xosl": [],
-  "b2-impact-b2i-xosl": [],
+  "b2-impact-b2i-xosl": [
+    {
+      "key": "2789ca543c952d0c",
+      "author": "hanzper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanzper",
+      "posted_relative": "for 26 min siden",
+      "text": "hvorfor nevner du den nettsiden i nesten alle innlegge dine? (retorisk spørsmål)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "fd09211c3986355a",
+      "author": "Kind",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kind",
+      "posted_relative": "for 19 min siden",
+      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ],
   "bakkafrost-bakka-xosl": [],
   "norconsult-norco-xosl": [],
   "paratus-energy-services-plsv-xosl": [],
@@ -74,16 +916,58 @@
   "cadeler-cadlr-xosl": [],
   "sed-energy-holdings-enh-xosl": [
     {
-      "key": "033abad0eb63301b",
-      "author": "The pope",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pope",
-      "posted_relative": "for 2 t siden",
-      "text": "Her er det noen som ser penger i horisonten .",
+      "key": "8740c974947da93f",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Slik jeg tolker det hele er det ikke snakk om å kjøpe enkelt asset, eller dyre børs noterte selskap men eventuelt hele mindre selskaper som har cashflow og backlogg men som pdd har dyr finansiering som små skala. Slike selskap drar ofte i tillegg med seg store urealiserte underskudd, så dividendene kan utbetales ´skattefritt´ via Sed etter refinans gjeld. Det kan dreie seg om unoterte/private eide selskap  Det er bare en måte å få Sed aksje kursen opp, samtidig som man utbetaler store dividender, det er å vokse",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 45,
+      "char_count": 516,
+      "has_link": false
+    },
+    {
+      "key": "660575809150f401",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 1 t siden",
+      "text": "Denne stiger raskere enn jeg rekker å fylle på 😅 Planen var å kjøpe en god porsjon å legge i skuffen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        9
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "87106eda937b2166",
+      "author": "FatBobx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fatbobx",
+      "posted_relative": "for 44 min siden",
+      "text": "· Kanskje.. 😄 Er dette SED Energy din eneste aksje i din portefølje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "7e118115a943fdf5",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 38 min siden",
+      "text": "· 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
       "has_link": false
     }
   ],
@@ -92,19 +976,303 @@
   "austevoll-seafood-auss-xosl": [],
   "sparebank-1-smn-ming-xosl": [],
   "bouvet-bouv-xosl": [],
-  "veidekke-vei-xosl": [],
+  "veidekke-vei-xosl": [
+    {
+      "key": "a04e96820584950b",
+      "author": "Vega27",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vega27",
+      "posted_relative": null,
+      "text": "13. sep. https://www.bygg.no/entreprenorer-veidekke-okonomi/microsoft-milliardaer-eier-veidekke-aksjer-for-63-millioner-kroner/2953873",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.bygg.no/entreprenorer-veidekke-okonomi/microsoft-milliardaer-eier-veidekke-aksjer-for-63-millioner-kroner/2953873"
+      ],
+      "char_count": 134,
+      "has_link": true
+    }
+  ],
   "elopak-elo-xosl": [],
-  "moreld-morld-xosl": [],
+  "moreld-morld-xosl": [
+    {
+      "key": "e847c364934f1141",
+      "author": "SpanskOliven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "posted_relative": "for 38 min siden",
+      "text": "Ser ikke ut som konferansen har påvirket kursen mye. Satser på gode nyheter igjen snart👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    }
+  ],
   "grieg-seafood-gsf-xosl": [],
   "pexip-holding-pexip-xosl": [],
   "medistim-medi-xosl": [],
-  "dno-xosl": [],
-  "autostore-auto-xosl": [],
-  "sal-mar-salm-xosl": [],
-  "kongsberg-maritime-kmar-xosl": [],
+  "dno-xosl": [
+    {
+      "key": "127bb5f2fcb37bbc",
+      "author": "OSEBX2000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osebx2000",
+      "posted_relative": "for 10 min siden",
+      "text": "https://e24.no/boers-og-finans/i/8pMdnE/kaller-norge-proteksjonistisk-jeg-skjoenner-det-ikke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/8pMdnE/kaller-norge-proteksjonistisk-jeg-skjoenner-det-ikke"
+      ],
+      "char_count": 92,
+      "has_link": true
+    },
+    {
+      "key": "47b909da0f49c1d1",
+      "author": "Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": "for 22 min siden · Endret",
+      "text": "Så lenge råolje- og gasslagerne faktisk fylles, sakte men sikkert, tror jeg vi kan se langt etter 20. Pengene renner uansett inn. Økt utbytte bør være på blokka, fordi produksjonsvolum og oljepris er eneste trigger. Q3 er nok priset inn på kurs under 20. Kurdistan ser jeg helt bort fra. Tipper det blir status quo der til oljeprisen bikker 60.  DNO tjener vilt med penger nå om dagen, men verdsettelsen er og blir en fartshump for selskapet. Dersom utbyttet øker har jeg få problemer med å se DNO i intervallet 16 - 19 kroner. For dere som trader for raske gevinster er det bare å følge oljeprisen. Treffer dere på den kan dere fort tjene en krone her og en krone der.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 669,
+      "has_link": false
+    },
+    {
+      "key": "d29fa48d72488fdc",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 5 min siden",
+      "text": "· Til tross for en ytterst liten nedgang i oljeprisen faller alle oljeaksjer, med DNO i spissen selvsagt, faller mest når de faller stiger minst når de stiger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    },
+    {
+      "key": "4415e5fdf9ca54e9",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 1 t siden",
+      "text": "· Så typisk DNO når oljeprisen stiger er den supersugen, men nei når den faller litt da henger vi på ordentlig, føles suspekt,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    }
+  ],
+  "autostore-auto-xosl": [
+    {
+      "key": "4d1092559cd278b5",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 2 t siden",
+      "text": "Det var snev av positiv kurs ja. Men det kommer positive meldinger så og si HVER DAG! 🤩",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "2f69d6087f368b65",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 19 min siden · Endret",
+      "text": "Tror det stopper på 15,60 kr bull trap er byggt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "432d94bd4cc8c09e",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 1 t siden",
+      "text": "Fortsetter vi den fine trenden fra igår? 👍💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ],
+  "sal-mar-salm-xosl": [
+    {
+      "key": "3ccdac3740f05eac",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 t siden",
+      "text": "I FA i dag: DNB Carnegie oppjusterer sine slaktevolumestimater for SalMar som følge av fortsatt gode biologiske forhold i Norge, og mener selskapets slaktevolumguiding for 2026 ser konservativ ut. Meglerhuset venter nå slaktevolumer for 2026 i regionene Midt-Norge og Nord-Norge på henholdsvis 171.000 tonn og 139.000 tonn, mot selskapets guiding på henholdsvis 167.000 tonn og 135.000 tonn. Når det gjelder resultatene for tredje kvartal, venter meglerhuset et operasjonelt driftsresultat på 1.522 millioner kroner, noe som er 4 prosent lavere enn Bloomberg-konsensus. DNB Carnegie har en kjøpsanbefaling på aksjen med et kursmål på 650 kroner pr aksje.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 654,
+      "has_link": false
+    }
+  ],
+  "kongsberg-maritime-kmar-xosl": [
+    {
+      "key": "6eb885060696c482",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "For oss som lever av dette må det taes ut noen kr også. Da må noe realisere. Ikke alt men noe",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "b34ccc44ee6ae026",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Det kommer an på hva algoritmene leser av bildet det da. Trenden er oppover",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "b5737fdd79c80e71",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 1 t siden",
+      "text": "· Bryter vi 60 i dag? 💵👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ],
   "tgs-xosl": [],
-  "end-r-endur-xosl": [],
-  "hexagon-composites-hex-xosl": [],
+  "end-r-endur-xosl": [
+    {
+      "key": "127750301caea077",
+      "author": "GrubbelRubbel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grubbelrubbel",
+      "posted_relative": "for 43 min siden",
+      "text": "Fikk heldigvis fylt på litt rundt 101-102!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "b9aadc8b6bdb8c3d",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 47 min siden",
+      "text": "Gøy å se litt volum, til endur å være 💰👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ],
+  "hexagon-composites-hex-xosl": [
+    {
+      "key": "870de74dc65ad79f",
+      "author": "Denerikkelangmendenertynn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/denerikkelangmendenertynn",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.nettavisen.no/okonomi/pareto-topp-lars-ove-skorpen-vil-bygge-storskala-gasskraft-til-datasetre-i-norge/s/80-95-83010",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [
+        "https://www.nettavisen.no/okonomi/pareto-topp-lars-ove-skorpen-vil-bygge-storskala-gasskraft-til-datasetre-i-norge/s/80-95-83010"
+      ],
+      "char_count": 128,
+      "has_link": true
+    },
+    {
+      "key": "34b810dff93316f6",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 2 t siden",
+      "text": "Bravo. Jeg har store problemer med å se hvorfor dette ikke utnyttes bedre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "ba9e4b1ea9b49fd8",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 1 t siden",
+      "text": "Selgerne forduftet? Blir det grønt og skjønt i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "daf63f1c266718e8",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 10 min siden",
+      "text": "Tenk å sitte her fremover mens alt annet stiger 😝",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ],
   "okea-xosl": [],
   "sats-xosl": [],
   "norske-skog-nskog-xosl": [],
@@ -112,22 +1280,461 @@
   "sparebanken-norge-sbnor-xosl": [],
   "bw-energy-limited-bwe-xosl": [],
   "atea-xosl": [],
-  "kid-xosl": [],
-  "akastor-akast-xosl": [],
-  "borregaard-brg-xosl": [],
+  "kid-xosl": [
+    {
+      "key": "a27a2dbb7280ba1f",
+      "author": "lissi1208",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lissi1208",
+      "posted_relative": "for 51 min siden",
+      "text": "\"Bjellesauen\" Petter Hermanrud, øker sin beholdning i KID fra 50k til 60k aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ],
+  "akastor-akast-xosl": [
+    {
+      "key": "b1c8e6f8cba94465",
+      "author": "Sykkelpoteten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sykkelpoteten",
+      "posted_relative": "for 14 t siden",
+      "text": "Nå ser det ut som Peregrino er solgt til 2020 bulkers, så da legges vel DDW dødt og det venter enda mer utbytte. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "4605ccac2d1b779b",
+      "author": "Sykkelpoteten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sykkelpoteten",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Skandi Peregrino er nevnt av 2020 bulkers sin presentasjon som et av 15 skip de skal kjøpe.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    }
+  ],
+  "borregaard-brg-xosl": [
+    {
+      "key": "3f2c45d4b8207218",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Leser i FA i dag at Borregaard har produkter som; (1) Spesialcellulose.  (2) Ligninbaserte biopolymerer. (3) Bioetanol. Mitt sps er da: Hvirdan ser markedet ut for hver av disse produktgruppene, opp/sidelengs/ned ? Prisene for hvert produkt, opp/sidelengs/ned ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 261,
+      "has_link": false
+    }
+  ],
   "software-one-holding-ag-swon-xosl": [],
-  "hunter-group-hunt-xoas": [],
-  "nykode-therapeutics-nykd-xosl": [],
-  "circio-holding-crna-xosl": [],
+  "hunter-group-hunt-xoas": [
+    {
+      "key": "81794437612bcc88",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 3 t siden",
+      "text": "22,5🧨 «$HUNT er helt vill, settes det toppsignal eller bullflagg? Brudd over 17,7 og aller helst 18,2 tilsier setup mot 22,5 i chartet, alternativt brudd under orange linjen og siste test mot 16,2-16,3 sonen indikerer nedside mot 14,2 sonen. RSI og momentet er derimot på tur opp igjen, så enn så lenge er videre oppsiden innen rekkevidde. Det fantes en gud i denne aksjen fra 2 tallet...» https://x.com/trondyman/status/2100404394747416975?s=46 Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        3
+      ],
+      "links": [
+        "https://x.com/trondyman/status/2100404394747416975?s=46"
+      ],
+      "char_count": 465,
+      "has_link": true
+    },
+    {
+      "key": "180693a205d166e0",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 1 t siden",
+      "text": "· Dirty tankers — Ons slutt VLCC AG–FE $1 194,2k (+$70,0k) Suezmax $215,8k (−$3,9k) Aframax $134,8k (−$11,6k) Fearn W38: Fujairah/East ~¾ til WS1000; VLCC-tilbudet er i ferd med å gå tomt. KHK Majesty chartret $654k/d. Hormuz: 4 kryssinger tir, ingen VLCC-er — Reuters/Kpler ons. https://x.com/simpelspekulant/status/2100442514725736615?s=46",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://x.com/simpelspekulant/status/2100442514725736615?s=46"
+      ],
+      "char_count": 341,
+      "has_link": true
+    },
+    {
+      "key": "bfe5af8190e79760",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 2 t siden",
+      "text": "Gjelder vel også Hunt? https://www.dn.no/shipping/frontline/tankmarkedet/frontline-sjefen-har-aldri-opplevd-lignende/2-1-2044159?utm_source=dn.no&utm_medium=push",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [
+        "https://www.dn.no/shipping/frontline/tankmarkedet/frontline-sjefen-har-aldri-opplevd-lignende/2-1-2044159?utm_source=dn.no&utm_medium=push"
+      ],
+      "char_count": 161,
+      "has_link": true
+    },
+    {
+      "key": "2e4e240c77937c1b",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 1 t siden",
+      "text": "Gårsdagens \"våre\" rater. Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina          1.078,25     1.144.960",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        21,
+        1
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "28690cf856eed4b7",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 32 min siden",
+      "text": "Fant ikke et bedre ord. Kan ikke tenke meg at de har dumpet ut alt. Egentlig merkelig hele opplegget",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "203e61ce82016f6c",
+      "author": "kharid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kharid",
+      "posted_relative": "for 1 t siden",
+      "text": "Aksjen popper oppover før ex..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ],
+  "nykode-therapeutics-nykd-xosl": [
+    {
+      "key": "192c158b3ff4be31",
+      "author": "Gordon Gekko5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
+      "posted_relative": "for 1 t siden",
+      "text": "Aksjen er billig 📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ],
+  "circio-holding-crna-xosl": [
+    {
+      "key": "0fb4fc5df9ccfe26",
+      "author": "Simlar2412",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simlar2412",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://lnkd.in/p/e2k9_S-D",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [
+        "https://lnkd.in/p/e2k9_S-D"
+      ],
+      "char_count": 28,
+      "has_link": true
+    },
+    {
+      "key": "183e5cac5d2763f3",
+      "author": "svaksjer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svaksjer",
+      "posted_relative": "for 54 min siden",
+      "text": "Jeg er nok for dum til å selge desverre. Blir sittende på gjerdet hver eneste gang. Jeg kan garantere deg at jeg kan få aksjen til å stige ved å selge alle aksjene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 163,
+      "has_link": false
+    },
+    {
+      "key": "2fdc546ae9e9b86b",
+      "author": "Thomas The Amateur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thomas-the-amateur",
+      "posted_relative": "for 1 t siden",
+      "text": "Når jeg ser på avkastning i dag for alle mine aksjer er jeg i minus, men det aller meste er i pluss. Teknisk feil?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        7
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "f0bc28beacff0c69",
+      "author": "svaksjer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svaksjer",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva skjer med runway til 2030 når det ser ut som runway til helvette akkurat nå? 🥵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        5
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "c65f0b89b18d9a5a",
+      "author": "egpml",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egpml",
+      "posted_relative": "for 32 min siden",
+      "text": "Nå stopper vi der, nå er det opp Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "ddb3a6a6e35dcbcd",
+      "author": "ornen3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ornen3",
+      "posted_relative": "for 1 t siden",
+      "text": "Tenker det samme,  rundt 11,80 pluss...  i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "e2ed449d714bb8fd",
+      "author": "Nolle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nolle1234",
+      "posted_relative": "for 5 min siden",
+      "text": "· Bare gjør det 50 ganger mer i dag👍😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "ab205b6a69b50c51",
+      "author": "egpml",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egpml",
+      "posted_relative": "for 29 min siden",
+      "text": "Thomas flink du, bare grønne farger👍",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "6532a7f11af5ccfd",
+      "author": "ro-te",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
+      "posted_relative": "for 1 t siden",
+      "text": "Bør vel nærmere emi kurs kanskje 🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ],
   "dnb-bank-dnb-xosl": [],
-  "kongsberg-gruppen-kog-xosl": [],
+  "kongsberg-gruppen-kog-xosl": [
+    {
+      "key": "abe898de632efc78",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 2 t siden",
+      "text": "Spennende dag, holder momentet videre, eller blir det en liten pustepause i dag? 🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        10
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "e738861483c042a6",
+      "author": "Dulle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
+      "posted_relative": "for 1 t siden",
+      "text": "Tror den skal opp å teste 325 som var det høyeste nivå på sluttauksjonen i går.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "1a8793f25a0298d1",
+      "author": "nbvnvbnvn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nbvnvbnvn",
+      "posted_relative": "for 56 min siden · Endret",
+      "text": "KOG er som en tidsinnstilt Bombe.  Jeg ser at SAAB og RHM er med fra start ..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "1a5ee92e53f72b55",
+      "author": "AlexNordnet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alexnordnet",
+      "posted_relative": "for 15 t siden",
+      "text": "· Hva er presis ATH? 349,9? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "60e326869dd39871",
+      "author": "Stuckenbruck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stuckenbruck",
+      "posted_relative": "for 3 t siden",
+      "text": "Den nådde 429kr 9. April",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    },
+    {
+      "key": "43a91e10270f360e",
+      "author": "guresa23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/guresa23",
+      "posted_relative": "for 54 min siden",
+      "text": "· 📈📈📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ],
   "aker-bp-akrbp-xosl": [],
   "telenor-tel-xosl": [],
   "norsk-hydro-nhy-xosl": [],
   "gjensidige-forsikring-gjf-xosl": [],
-  "var-energi-var-xosl": [],
+  "var-energi-var-xosl": [
+    {
+      "key": "60e70a1d6b12fe8d",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Mer eller mindre fake news dominerer oljeprisen. Saudi, som er hardt rammet, tilbyr nå ”extra crude” via Oman, Trump har en avtale med Houthis, og Iran ber på sine bare knær om en fredsavtale. Masse olje forlater sundet. USA produserer mer, og så videre. Ingenting kan gå opp hele tiden, og en liten korreksjon kan være bra i lengden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 336,
+      "has_link": false
+    },
+    {
+      "key": "063e74fa7e9fed5d",
+      "author": "Lynx_80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lynx_80",
+      "posted_relative": "for 14 min siden",
+      "text": "Og Olja stiger igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ],
   "yara-international-yar-xosl": [],
-  "orkla-ork-xosl": [],
+  "orkla-ork-xosl": [
+    {
+      "key": "aba726313a218df1",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 1 t siden",
+      "text": "Kronen begynner å styrke seg sakte men sikkert. Kan bli spennende å se framover så lenge folk ikke selger seg ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    }
+  ],
   "storebrand-stb-xosl": [],
   "af-gruppen-afg-xosl": [],
   "solstad-maritime-soma-xosl": [],
@@ -140,9 +1747,52 @@
   "elmera-group-elmra-xosl": [],
   "akva-group-akva-xosl": [],
   "sparebank-1-helgeland-helg-xosl": [],
-  "pareto-bank-parb-xosl": [],
+  "pareto-bank-parb-xosl": [
+    {
+      "key": "dbd123a7b0d29b0e",
+      "author": "Android",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Jeg matet kvartalsrapportene Q1 og Q2 til CoPilot, og hvis resten av året blir bedre enn Q2, anslår den rundt 2 kr i utbytte utbetalt i 2027. Slår det feil, er utbyttestimatet 0,90 kr. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    },
+    {
+      "key": "20b60f28a42eb26d",
+      "author": "Rolfkul",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul",
+      "posted_relative": "for 37 min siden",
+      "text": "hvorfor skal en bry seg om hva utbytte-avgjørelsen blir? Det eneste som betyr noe er inntjeningen og hvor lang tid det tar å få den opp på normalisert nivå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    }
+  ],
   "cloudberry-clean-energy-cloud-xosl": [],
-  "smartoptics-group-smop-xosl": [],
+  "smartoptics-group-smop-xosl": [
+    {
+      "key": "fb5a8e277014c7f3",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 20 min siden",
+      "text": "Aksjen kan eksplodere når som helst. Insidere har stadig kjøpt aksjer her i det siste. Gode nyheter er vel ikke langt unna",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    }
+  ],
   "axactor-acr-xosl": [],
   "multiconsult-multi-xosl": [],
   "general-oceans-geno-xosl": [],
@@ -155,10 +1805,213 @@
   "integrated-wind-solutions-iws-xosl": [],
   "agilyx-aglx-xosl": [],
   "zalaris-zal-xosl": [],
-  "thor-medical-trmed-xosl": [],
-  "reach-subsea-reach-xosl": [],
-  "salmon-evolution-salme-xosl": [],
-  "prosafe-prs-xosl": [],
+  "thor-medical-trmed-xosl": [
+    {
+      "key": "c83b0def9b3df203",
+      "author": "Supertrikker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supertrikker",
+      "posted_relative": "for 12 t siden",
+      "text": "Shortposisjonen i Thor Medical har økt merkbart den siste tiden. Two Sigma har bygget seg opp fra 0,65 % den 4. september til 1,03 % offentlig registrert short. Det betyr selvfølgelig ikke at all nedgang skyldes short eller at det nødvendigvis foregår manipulasjon. Men økningen er stor nok til å være relevant. Samtidig må disse aksjene på et tidspunkt kjøpes tilbake – og ved en sterk melding kan inndekning gi ekstra fart oppover Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        2
+      ],
+      "links": [],
+      "char_count": 452,
+      "has_link": false
+    },
+    {
+      "key": "bf64fd104aece1e9",
+      "author": "ro-te",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
+      "posted_relative": "for 1 t siden",
+      "text": "Veldig vanskelig å forstå🙈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ],
+  "reach-subsea-reach-xosl": [
+    {
+      "key": "1abbd95e8c4ed467",
+      "author": "h3nk1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
+      "posted_relative": "for 14 min siden · Endret",
+      "text": "Anbefaler å ta en kikk på presentasjonen de holdt i går. Vanskelig å ikke være bull REMOTE med den pitchen. https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442"
+      ],
+      "char_count": 199,
+      "has_link": true
+    },
+    {
+      "key": "4daea1675ce5182a",
+      "author": "stratix",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
+      "posted_relative": "for 32 min siden · Endret",
+      "text": "Jeg tenkte meg at Reach Subsea ville være å se på Pareto konferansen. Jeg tror også presentasjonen de hadde der vil trigge økt interesse for selskapet 👍 Har sett litt på Reach Remote og evt utskillelse av disse i eget selskap som da inkluderer rovene. En sannsynlig verdsettelse vil ligge på 1,2 -1,7 mrd når alle er i drift. En pen verdiøkning i forhold til dagens mc. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 389,
+      "has_link": false
+    },
+    {
+      "key": "0370b21dad744279",
+      "author": "Ijors",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ijors",
+      "posted_relative": null,
+      "text": "13. sep. Ny Hunter tro? Hva mener folket? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ],
+  "salmon-evolution-salme-xosl": [
+    {
+      "key": "51cc17cee79f517e",
+      "author": "Keik123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keik123",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "For min del må den falle til 1 krone. Jeg kjøper for fremtidsutsiktene. Ikke hva som skjer om en mnd. Noe som har gitt meg veldig god belønning i aksjemarkedet. Og godt er det att vi er forskjellige. Det er det som gjør att vi som tror på selskapet og er long. Kan få kjøpt til billige kurser😊",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 293,
+      "has_link": false
+    },
+    {
+      "key": "beca437408323f52",
+      "author": "hanzper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanzper",
+      "posted_relative": "for 1 t siden",
+      "text": "det er i all hovedsak dnb som står bak nedsalget, men dnb har i tur plukket opp endel av aksjene selv. så får vi spekulere i hvorfor, men så lenge ingenting fundamentalt har endret seg, så står jeg fint i denne aksjen ennå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        6
+      ],
+      "links": [],
+      "char_count": 223,
+      "has_link": false
+    },
+    {
+      "key": "64222727b275922d",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 1 t siden",
+      "text": "Den stengte på 3.16 så kan de  overtroende jo tro på at aksjen vil gi evig avkastning herfra og ikke fortapelse.  Det gjelder å ha troa nå :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "1e94f013afb00a79",
+      "author": "Farfore",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/farfore",
+      "posted_relative": "for 18 min siden",
+      "text": "Takk for info. Kilde!!??",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ],
+  "prosafe-prs-xosl": [
+    {
+      "key": "997c1771fbad4585",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Tatt helt av med \"dempet bruker\" posting siste dagene ser jeg. Håper virkelig ikke noen gidder ta seriøst hva Bipolar12 og Tybring sier. Sist de kjørte samme spamming var når kursen var mellom 3-3,5kr og de kjørte hardt på med at folk måtte komme seg ut fortest mulig før man tapte alle pengene. Forundrer meg ikke om det var mange som tok rådet deres og solgte da, og vi vet alle hvordan det endte... Anbefaler folk å sjekke i investorlistene så ser man at de to der handler aktivt i aksjen siste par uker, så om man skal ta noe råd fra de to der så bør det vel strengt være å gjøre omvendt av hva de sier, for det er hva de selv gjør ifølge lister. Det sier litt om begge to at de faktisk tør å poste på denne tråden enda etter hvor hardt de kjørte på med at folk skulle selge på 3kr.. Sier litt om hvor totalt blottet for normal folkeskikk og selvinnsikt det er.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 865,
+      "has_link": false
+    },
+    {
+      "key": "9c4105c40ecc4bae",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 27 min siden",
+      "text": "Pareto Securities’ 33. årlige Energy Conference pågår 16.–17. september 2026 i Oslo, altså i dag. Konferansen har over 160 selskaper og et stort antall investormøter. PRS kan komme med en presentasjon der de sier noe om kontrakter og hvor de stor pr idag løpet av dagen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 269,
+      "has_link": false
+    },
+    {
+      "key": "e51c3ece3495ad0b",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 36 min siden · Endret",
+      "text": "Helt panisk posting nå på de to apekattene som skrek SELG! når kursen var 3kr for et par mnd siden. Morro å vite at de nå må ut med 2kr+ mer for å kjøpe tilbake det de solgte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "6d6355f0d2e45305",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Blokk på 500K stk gikk igår ettermiddag etter stengt børs. 5,09kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        16,
+        1
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ],
   "skue-sparebank-skue-xosl": [],
   "kongsberg-automotive-koa-xosl": []
 }

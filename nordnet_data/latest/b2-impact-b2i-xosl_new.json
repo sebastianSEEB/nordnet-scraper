@@ -1,9 +1,40 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-17T02:19:58.947162+00:00",
+  "scraped_at": "2026-09-17T08:10:04.596629+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2789ca543c952d0c",
+      "author": "hanzper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanzper",
+      "posted_relative": "for 26 min siden",
+      "text": "hvorfor nevner du den nettsiden i nesten alle innlegge dine? (retorisk spørsmål)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "fd09211c3986355a",
+      "author": "Kind",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kind",
+      "posted_relative": "for 19 min siden",
+      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

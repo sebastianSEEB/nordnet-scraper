@@ -1,9 +1,56 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-17T02:19:11.939636+00:00",
+  "scraped_at": "2026-09-17T08:09:19.193525+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "665efc5e647525c9",
+      "author": "mikkelstante",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikkelstante",
+      "posted_relative": "for 1 t siden",
+      "text": "https://radioh.no/dagens-aksjetips-kongsberg-holder-toppen-dof-styrket-etter-kapitalmarkedsdagen/ God morgen!😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [
+        "https://radioh.no/dagens-aksjetips-kongsberg-holder-toppen-dof-styrket-etter-kapitalmarkedsdagen/"
+      ],
+      "char_count": 110,
+      "has_link": true
+    },
+    {
+      "key": "0ab394f003f4d45a",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 1 t siden",
+      "text": "....\"Eksterne analytikere: Fem analytikere har samlet anbefaling kjøp og gjennomsnittlig kursmål på 106,61 kroner\"....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "5a01e94dab4ddabd",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 6 min siden",
+      "text": "De er sikkert glad for 2% opp i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

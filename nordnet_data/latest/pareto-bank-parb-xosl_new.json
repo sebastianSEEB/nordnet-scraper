@@ -1,9 +1,38 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-17T02:24:16.879019+00:00",
+  "scraped_at": "2026-09-17T08:14:05.986399+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "dbd123a7b0d29b0e",
+      "author": "Android",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Jeg matet kvartalsrapportene Q1 og Q2 til CoPilot, og hvis resten av året blir bedre enn Q2, anslår den rundt 2 kr i utbytte utbetalt i 2027. Slår det feil, er utbyttestimatet 0,90 kr. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    },
+    {
+      "key": "20b60f28a42eb26d",
+      "author": "Rolfkul",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul",
+      "posted_relative": "for 37 min siden",
+      "text": "hvorfor skal en bry seg om hva utbytte-avgjørelsen blir? Det eneste som betyr noe er inntjeningen og hvor lang tid det tar å få den opp på normalisert nivå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    }
+  ]
 }

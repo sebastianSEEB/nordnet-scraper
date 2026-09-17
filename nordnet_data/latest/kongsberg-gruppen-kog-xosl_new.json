@@ -1,9 +1,95 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-17T02:22:49.728983+00:00",
+  "scraped_at": "2026-09-17T08:12:41.623741+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "abe898de632efc78",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 2 t siden",
+      "text": "Spennende dag, holder momentet videre, eller blir det en liten pustepause i dag? 🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        10
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "e738861483c042a6",
+      "author": "Dulle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
+      "posted_relative": "for 1 t siden",
+      "text": "Tror den skal opp å teste 325 som var det høyeste nivå på sluttauksjonen i går.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "1a8793f25a0298d1",
+      "author": "nbvnvbnvn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nbvnvbnvn",
+      "posted_relative": "for 56 min siden · Endret",
+      "text": "KOG er som en tidsinnstilt Bombe.  Jeg ser at SAAB og RHM er med fra start ..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "1a5ee92e53f72b55",
+      "author": "AlexNordnet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alexnordnet",
+      "posted_relative": "for 15 t siden",
+      "text": "· Hva er presis ATH? 349,9? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "60e326869dd39871",
+      "author": "Stuckenbruck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stuckenbruck",
+      "posted_relative": "for 3 t siden",
+      "text": "Den nådde 429kr 9. April",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    },
+    {
+      "key": "43a91e10270f360e",
+      "author": "guresa23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/guresa23",
+      "posted_relative": "for 54 min siden",
+      "text": "· 📈📈📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }
