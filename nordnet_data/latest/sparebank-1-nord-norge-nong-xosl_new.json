@@ -1,9 +1,23 @@
 {
   "slug": "sparebank-1-nord-norge-nong-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-nord-norge-nong-xosl",
-  "scraped_at": "2026-09-17T08:11:52.883943+00:00",
+  "scraped_at": "2026-09-17T11:53:04.235487+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "16ea1052d2740cb2",
+      "author": "V70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/v70",
+      "posted_relative": "for 1 t siden",
+      "text": "Er det åpenbart at det er noen god ide for oss aksjonærer?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-17T08:13:20.695358+00:00",
+  "scraped_at": "2026-09-17T11:54:22.453931+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "95ecec25cb879731",
+      "author": "eirhaage",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eirhaage",
+      "posted_relative": "for 1 t siden",
+      "text": "Utvilsomt langsiktig. Som i og for seg generelt er en god strategi når man er i aksjemarkedet, ikke bare for Storebrand",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    }
+  ]
 }

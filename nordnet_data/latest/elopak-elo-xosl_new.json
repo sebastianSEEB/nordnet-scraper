@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-17T08:10:55.435212+00:00",
+  "scraped_at": "2026-09-17T11:52:06.849598+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cf0ea2fcca0a192e",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 31 min siden",
+      "text": "ELOPAK ASA +70 537 ↑ 0,0262% 498 203 0,19% 2 dager siden",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

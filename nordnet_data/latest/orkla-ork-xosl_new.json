@@ -1,22 +1,35 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-17T08:13:16.788066+00:00",
+  "scraped_at": "2026-09-17T11:54:18.699104+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "aba726313a218df1",
-      "author": "WillHN",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
-      "posted_relative": "for 1 t siden",
-      "text": "Kronen begynner å styrke seg sakte men sikkert. Kan bli spennende å se framover så lenge folk ikke selger seg ut",
+      "key": "cef8dc54dca5e8e9",
+      "author": "Alamo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Hvis man bare tegner tilstrekkelig mange støtte- og motstandslinjer, finner man alltid én forklaring hvorfor markedet gjorde det det allerede har gjort.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 112,
+      "char_count": 180,
+      "has_link": false
+    },
+    {
+      "key": "ac1e3b3d496242e1",
+      "author": "Zodde",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zodde",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Rart, mitt chart viser att vi var under 10, 70 mot EUR for en uke sen, idag over 10,80..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
       "has_link": false
     }
   ]

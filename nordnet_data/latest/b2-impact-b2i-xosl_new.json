@@ -1,39 +1,123 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-17T08:10:04.596629+00:00",
+  "scraped_at": "2026-09-17T11:51:17.302758+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 8,
   "posts": [
     {
-      "key": "2789ca543c952d0c",
-      "author": "hanzper",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanzper",
-      "posted_relative": "for 26 min siden",
-      "text": "hvorfor nevner du den nettsiden i nesten alle innlegge dine? (retorisk spørsmål)",
+      "key": "d98cb9b37329452d",
+      "author": "AksjeBelge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjebelge",
+      "posted_relative": "for 2 t siden",
+      "text": "Ja, det blir litt interessant, dog kanskje mer interessant etter noen dager for det var sikkert noen som kom inn bare for å selge seg rett ut igjen, samt noen som benyttet dip'en til å kjøpe seg inn.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 80,
+      "char_count": 199,
       "has_link": false
     },
     {
-      "key": "fd09211c3986355a",
-      "author": "Kind",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kind",
-      "posted_relative": "for 19 min siden",
-      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "key": "2ef369b127f7a745",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 45 min siden",
+      "text": "Jeg ble med på reisen, virker som en solid case. Likte spesielt den økende innkrevingsgraden deres.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        3
       ],
       "links": [],
-      "char_count": 41,
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "c4198a1862284432",
+      "author": "UnBanked",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/unbanked",
+      "posted_relative": "for 2 t siden",
+      "text": "Ligger inne med en kjøpsordre, hva er normalt volum i denne aksjen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "7444a04399170893",
+      "author": "Grusstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grusstein",
+      "posted_relative": "for 3 t siden",
+      "text": "Ca. 2/3 av salget gjenstår. Det bir nok opp/ned denne og neste uke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "12d6b00999b0856e",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 2 t siden",
+      "text": "Fristende kjøp, men vil de klare å opprettholde utbyttet? Tanker?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "1978ce8977eb071c",
+      "author": "killyorego",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/killyorego",
+      "posted_relative": "for 31 min siden",
+      "text": "Noen som handler og handler nå. Bare og kjøpe",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "b75dc799f56af7ce",
+      "author": "killyorego",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/killyorego",
+      "posted_relative": "for 8 min siden",
+      "text": "3 % opp siden i går. Tror du det ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "452eee3e5f7d1d8b",
+      "author": "bamsemoms1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bamsemoms1",
+      "posted_relative": "for 25 min siden",
+      "text": "Har toget gått?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
       "has_link": false
     }
   ]

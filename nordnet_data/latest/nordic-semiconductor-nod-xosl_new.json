@@ -1,9 +1,38 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-17T08:08:56.077097+00:00",
+  "scraped_at": "2026-09-17T11:50:11.163901+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cfa6570f267d19da",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Bank of America har hevet kursmålet for Nordic Semiconductor til 245 NOK fra 222 NOK, og opprettholder en kjøpsanbefaling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "10ebf01ff3727a75",
+      "author": "Noor1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noor1",
+      "posted_relative": "for 17 min siden",
+      "text": "Hva skjer her da ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

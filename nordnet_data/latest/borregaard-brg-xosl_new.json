@@ -1,22 +1,35 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-17T08:12:17.090594+00:00",
+  "scraped_at": "2026-09-17T11:53:29.455630+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "3f2c45d4b8207218",
+      "key": "270ca42a0cd8af9e",
       "author": "Sky is the limit",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
       "posted_relative": "for 1 t siden",
-      "text": "Leser i FA i dag at Borregaard har produkter som; (1) Spesialcellulose.  (2) Ligninbaserte biopolymerer. (3) Bioetanol. Mitt sps er da: Hvirdan ser markedet ut for hver av disse produktgruppene, opp/sidelengs/ned ? Prisene for hvert produkt, opp/sidelengs/ned ?",
+      "text": "Lite engasjement her inne..... Dårlig aksje/mistet troen av en eller annen grunn ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 261,
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "f48929612be3c68c",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare i år er Borregaard ned ca. 26% - ytterligere ned ut året mon tro ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
       "has_link": false
     }
   ]

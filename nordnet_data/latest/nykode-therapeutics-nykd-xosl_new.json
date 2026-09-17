@@ -1,22 +1,42 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-17T08:12:28.638651+00:00",
+  "scraped_at": "2026-09-17T11:53:40.789676+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "192c158b3ff4be31",
-      "author": "Gordon Gekko5",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
-      "posted_relative": "for 1 t siden",
-      "text": "Aksjen er billig 📈",
+      "key": "6498a11163a58be6",
+      "author": "EriHof",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erihof",
+      "posted_relative": "for 3 t siden",
+      "text": "Til spesielt interesserte. Her er siste presentasjon lagt ut i dag: https://nykode.com/investors/events-presentations/ Oppsummert fra siste presentasjon: Nykode har i praksis tre store kort: 1. Abi-suva Dette er hovedproduktet deres nå. De tester vaksinen sammen med Keytruda mot Keytruda alene i Abili-T. Første viktige data ventes i 2027. Det er denne studien som kan vise om Nykode faktisk tilfører noe utover dagens behandling. 2. VB10.NEO Personlig kreftvaksine. NeoSELECT bruker AI til å finne hvilke mutasjoner immunforsvaret bør angripe. Nykode har data fra 67 pasienter og 13 krefttyper, også krefttyper med få mutasjoner. De viser også at vaksinespesifikke T-celler kan huske målene i minst ett år. Produksjonstiden er redusert fra 18 uker til 5,9 uker, med mål om 4. 3. Toleranseplattformen Her prøver Nykode å gjøre det motsatte av kreftvaksinen: lære immunforsvaret å slutte å angripe kroppen ved autoimmune sykdommer. Foreløpig er dette preklinisk, men de planlegger å presentere et konkret utviklingsprogram i første halvår 2027. Selskapet har også fått mye bedre økonomisk ryggrad etter emisjonen, og kan i tillegg få rundt 325 kaniner + renter tilbake dersom skattesaken går deres vei. Min enkle oppsummering: Nykode har mange lovende brikker. Men den viktigste testen kommer i 2027: Hvis Abili-T viser at abi-suva faktisk gjør Keytruda bedre, kan hele Nykode-caset bli betydelig mer interessant.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        15,
+        2
+      ],
+      "links": [
+        "https://nykode.com/investors/events-presentations/"
+      ],
+      "char_count": 1413,
+      "has_link": true
+    },
+    {
+      "key": "e85f1b1a14ad3476",
+      "author": "Selskapslek",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
+      "posted_relative": "for 56 min siden",
+      "text": "Takk, denne var nyttig. Mye interessant lesning. Fikk ikke akkurat mindre troen.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 18,
+      "char_count": 80,
       "has_link": false
     }
   ]
