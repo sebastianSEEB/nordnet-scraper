@@ -1,9 +1,51 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-18T07:49:15.959344+00:00",
+  "scraped_at": "2026-09-18T11:53:39.050974+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2b1c3cd426dc0029",
+      "author": "Reidar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reidar",
+      "posted_relative": "for 59 min siden · Endret",
+      "text": "Jeg har akseptert budet på 47kr pr. aksje. Dersom de ikke  oppnår 90 prosent kan Fortum utbetale 47kr for de som har akseptert eller kommer de da til å trekke budet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 165,
+      "has_link": false
+    },
+    {
+      "key": "b44146b419fa791b",
+      "author": "RonniAndreKapital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronniandrekapital",
+      "posted_relative": "for 1 t siden",
+      "text": "Eg aksepterte glatt tilbodet etter å ha hatt aksjane i omlag ein månad med ein GAV på 30,8,- Men då er neste spørsmål, kva skal ein investere dei pengane i?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "d6b446f87bfe9ec0",
+      "author": "Kennedy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kennedy",
+      "posted_relative": "for 53 min siden",
+      "text": "· Godt spørsmål",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

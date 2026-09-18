@@ -1,9 +1,36 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-18T07:45:56.474312+00:00",
+  "scraped_at": "2026-09-18T11:50:25.751773+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cdd49815fafa849c",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 2 t siden",
+      "text": "Litt tungt om dagen.. men snur nå historisk vertfall..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "622a8fa2e82392d5",
+      "author": "thule69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thule69",
+      "posted_relative": "for 25 min siden",
+      "text": "· Super Optimus så venter jeg med salgsknappen 🫣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

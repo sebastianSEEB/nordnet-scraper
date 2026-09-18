@@ -1,9 +1,68 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-18T07:43:22.423078+00:00",
+  "scraped_at": "2026-09-18T11:48:05.889419+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "3bb46228892992ef",
+      "author": "Ronny78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronny78",
+      "posted_relative": "for 1 t siden",
+      "text": "Er wawi en aksje medd du noe særlig oppside.? solgte meg ut på 140kr , men lurte på å investere igjen grunnet økt kursmål.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "68835377d0129fa7",
+      "author": "crunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/crunk",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· Kan dere vær så snill å ta litt gevinst så jeg kan kjøpe mer? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "08290ed9f1b1ef2b",
+      "author": "lillepeder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillepeder",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Hva skjer videre med aksjen tror dere? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "8ef1fb6db003dcb7",
+      "author": "Ronny78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronny78",
+      "posted_relative": "for 37 min siden",
+      "text": "Virker som det går andre veien mot 170 nivået.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-18T07:44:38.241962+00:00",
+  "scraped_at": "2026-09-18T11:49:13.722940+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7b1facd4ce4743be",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 1 t siden",
+      "text": "Dette er ikke high-end, men konsolidering gagner alle",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "a484e3c9bb67d750",
+      "author": "mohalj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
+      "posted_relative": "for 1 t siden",
+      "text": "Virker som den sliter med å komme seg over 135,1 kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,69 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-18T07:44:18.746609+00:00",
+  "scraped_at": "2026-09-18T11:48:54.884835+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "752af704aa296774",
+      "author": "Leo95",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leo95",
+      "posted_relative": "for 3 t siden",
+      "text": "For de interesserte, hør ukens «pengepodden» på spotify. Gaute Eie er gjest og han sitter long i Vend og forklarer bettet godt. Lytt til de siste 7 min av episoden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        16,
+        1
+      ],
+      "links": [],
+      "char_count": 164,
+      "has_link": false
+    },
+    {
+      "key": "f4f7118c4aadb6e0",
+      "author": "heltsjef",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltsjef",
+      "posted_relative": "for 2 t siden",
+      "text": "Shortsen økes hver dag. 4,11% på siste",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "c825a046161ac835",
+      "author": "BudFoxW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/budfoxw",
+      "posted_relative": "for 11 min siden",
+      "text": "Hvor langt ned skal vi denne runden ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "3d0acf8c168021b3",
+      "author": "Rockeseller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rockeseller",
+      "posted_relative": "for 3 t siden",
+      "text": "Takk for tips!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

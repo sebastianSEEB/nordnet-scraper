@@ -1,9 +1,39 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-18T07:46:33.727661+00:00",
+  "scraped_at": "2026-09-18T11:51:09.906914+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "09d6d418991d862d",
+      "author": "kribbo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kribbo",
+      "posted_relative": "for 29 min siden",
+      "text": "Ja, men den vil på kort sikt styres av oljeprisen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "384977a7c74f7ece",
+      "author": "saggiz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
+      "posted_relative": "for 1 t siden",
+      "text": "er denne ett godt kjøp nå? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

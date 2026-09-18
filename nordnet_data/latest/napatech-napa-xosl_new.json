@@ -1,9 +1,54 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-18T07:45:31.971116+00:00",
+  "scraped_at": "2026-09-18T11:50:06.995819+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "dc4cf9dc2d4078ad",
+      "author": "NorthbyNorthwest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
+      "posted_relative": "for 1 t siden",
+      "text": "· Dessuten ser det ut til at SEB har solgt de siste de hadde. For en uke siden hadde de 1 million stykker - så salgspresset som har vært denne uken har nok primært kommet derfra.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 178,
+      "has_link": false
+    },
+    {
+      "key": "d7d4445c83b58274",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": null,
+      "text": "14. sep. Tror egentlig at denne skal ned og teste 42 først.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "552cc1436887c1e6",
+      "author": "NorthbyNorthwest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
+      "posted_relative": "for 3 t siden",
+      "text": "· Så rundet Sundt 20mio aksjer.....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

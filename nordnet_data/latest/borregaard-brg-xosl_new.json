@@ -1,9 +1,27 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-18T07:47:42.546549+00:00",
+  "scraped_at": "2026-09-18T11:52:10.893132+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3f81479ab8c05203",
+      "author": "NordnetAdrian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordnetadrian",
+      "posted_relative": "for 2 t siden",
+      "text": "Hei, jeg har laget en artikkel om “Topp 5 norske utbytteselskaper” der Borregaard er inkludert! Sjekk ut artikkelen og gi gjerne en tilbakemelding! Link til artikkel: https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst"
+      ],
+      "char_count": 250,
+      "has_link": true
+    }
+  ]
 }

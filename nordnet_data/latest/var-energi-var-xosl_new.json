@@ -1,42 +1,53 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-18T07:48:27.677177+00:00",
+  "scraped_at": "2026-09-18T11:52:52.431850+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "a4f1963e4abf9ca9",
+      "key": "11f1666959a54191",
       "author": "matsnil",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
-      "posted_relative": "for 35 min siden · Endret",
-      "text": "· Om Saudi pipelines https://x.com/aj_geo_analysis/status/2100770084025520470 https://x.com/aj_geo_analysis/status/2100560728155648044",
+      "posted_relative": "for 3 t siden",
+      "text": "· Trump er et geni, slik løser man USAs problemer “Hvis vi kjøper 2 milliarder dollars verdt av Bananas fra Brasil, taper vi faktisk 2 milliarder dollars. Så hvis vi slutter å spise bananer, sparer vi faktisk 2 milliarder dollars”.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://x.com/aj_geo_analysis/status/2100560728155648044",
-        "https://x.com/aj_geo_analysis/status/2100770084025520470"
-      ],
-      "char_count": 134,
-      "has_link": true
-    },
-    {
-      "key": "96b4ef5a134b1474",
-      "author": "Mickem",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mickem",
-      "posted_relative": "for 30 min siden",
-      "text": "· Fra Vår: bør man etter min mening ikke lenger forvente noen større prisøkning, men heller nøye seg med det jevnt kommende 1,1-1,2 $/Q utbyttet. Det virker i sin tur ganske sikkert i lengre tid med disse oljeprisene. Få selskaper tilbyr en \"sikker\" nesten 10 % utbytteavkastning, så jeg er (veldig) fornøyd.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
+        10,
         1
       ],
       "links": [],
-      "char_count": 308,
+      "char_count": 231,
+      "has_link": false
+    },
+    {
+      "key": "2b6187c198bfc1ff",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": "for 3 t siden",
+      "text": "Mye håp og tro om Hormuz nå, men en høytstående rådgiver i Iran uttalte i går at Hormuz ikke ville bli åpnet før Trump og Netanyahu er fjernet fra makten. Så får man se hvem som har rett.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "d2edcb766a04799d",
+      "author": "no-emotions",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-emotions",
+      "posted_relative": "for 1 t siden",
+      "text": "· 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
       "has_link": false
     }
   ]

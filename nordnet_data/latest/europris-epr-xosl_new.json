@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-09-18T07:45:49.063172+00:00",
+  "scraped_at": "2026-09-18T11:50:18.367506+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b44f3b7afea7d109",
+      "author": "invest_all",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/invest_all",
+      "posted_relative": "for 24 min siden",
+      "text": "Det er vel en sannhet med modifikasjoner. Det er vel presentert kvartalstall i mellomtiden, samt ymse analytikere som har ytret sin mening.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    }
+  ]
 }

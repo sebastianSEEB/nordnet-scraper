@@ -1,9 +1,68 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-18T07:48:01.307476+00:00",
+  "scraped_at": "2026-09-18T11:52:29.979599+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "099424a7fa968df3",
+      "author": "NordnetAdrian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordnetadrian",
+      "posted_relative": "for 2 t siden",
+      "text": "Hei, jeg har laget en artikkel om “Topp 5 norske utbytteselskaper” der DnB Bank er inkludert! Sjekk ut artikkelen og gi gjerne en tilbakemelding! Link til artikkel: https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst"
+      ],
+      "char_count": 248,
+      "has_link": true
+    },
+    {
+      "key": "66aa57d6aa3874c5",
+      "author": "MrRokke",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrokke",
+      "posted_relative": "for 2 t siden",
+      "text": "rente møtet neste torsdag, hvilken påvirkning blir det på kurs tror du? Snakke vi om 2% pluss minus",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "715b688319e1d23d",
+      "author": "alex243",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex243",
+      "posted_relative": "for 1 t siden",
+      "text": "hva er grunnen til fallet her i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "168d7ed26d8bff81",
+      "author": "F.Dostojevskij",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fdostojevskij",
+      "posted_relative": "for 3 t siden",
+      "text": "Kjøpt meg tungt inn her",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

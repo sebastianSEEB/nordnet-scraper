@@ -1,9 +1,52 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-18T07:48:39.098520+00:00",
+  "scraped_at": "2026-09-18T11:53:03.694330+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "db15907a74031a3c",
+      "author": "guresa23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/guresa23",
+      "posted_relative": null,
+      "text": "14. sep. Er dette en attraktiv innkjøpspris? er 15, har ikke så mye investere med... Verdt å vente å se om den evt går ned til 195/190? Hva mener dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        7
+      ],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "0cb7794be97bd901",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 2 t siden",
+      "text": "Når er neste utbytte i denne? Er det kun 1 stk per år?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "b535faf7b46128c6",
+      "author": "sujarit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sujarit",
+      "posted_relative": null,
+      "text": "14. sep. · 🚀🚀🚀🫶",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

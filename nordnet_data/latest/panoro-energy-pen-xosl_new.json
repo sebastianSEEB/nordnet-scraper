@@ -1,40 +1,42 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-18T07:44:29.895516+00:00",
+  "scraped_at": "2026-09-18T11:49:06.245159+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
+  "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "03ac654aae299b56",
-      "author": "matsnil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
-      "posted_relative": "for 37 min siden",
-      "text": "· Avslører løgnene om Saudi pipeline https://x.com/aj_geo_analysis/status/2100770084025520470",
+      "key": "914168cfdbfd6bf0",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Veldig bra episode med Paretopodden hvor de intervjuer Balcany. Produksjonen fra block G er visstnok rett under 24000 fat/dag! https://open.spotify.com/episode/3V47gv05yxE5y9uRmh9VJQ?si=LpoMN_HcRSegk5d3u45X9Q&utm_source=copy-link",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://open.spotify.com/episode/3V47gv05yxE5y9uRmh9VJQ?si=LpoMN_HcRSegk5d3u45X9Q&utm_source=copy-link"
+      ],
+      "char_count": 229,
+      "has_link": true
+    },
+    {
+      "key": "376411a158105c97",
+      "author": "OEVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oevis",
+      "posted_relative": "for 3 t siden",
+      "text": "Verdt å lese denne, i forhold til hvor lang tid det vil ta å reparere en ødelagt pumpestasjon. https://e24.no/internasjonal-oekonomi/i/ExEJxo/et-naerliggende-krisescenario-for-oljemarkedet-og-verdensoekonomien",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [
-        "https://x.com/aj_geo_analysis/status/2100770084025520470"
+        "https://e24.no/internasjonal-oekonomi/i/ExEJxo/et-naerliggende-krisescenario-for-oljemarkedet-og-verdensoekonomien"
       ],
-      "char_count": 93,
+      "char_count": 209,
       "has_link": true
-    },
-    {
-      "key": "b15f6d1411b5c610",
-      "author": "Oxion",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
-      "posted_relative": "for 1 t siden",
-      "text": "Panoro vil jo være en mega pengemaskin med oljepriser på 70-80$ fatet. Dagen pris er en stor bonus !!!",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 102,
-      "has_link": false
     }
   ]
 }

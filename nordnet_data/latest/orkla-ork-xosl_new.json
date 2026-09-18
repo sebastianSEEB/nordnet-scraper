@@ -1,40 +1,9 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-18T07:48:35.337802+00:00",
+  "scraped_at": "2026-09-18T11:52:59.822501+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "a247569258a29e56",
-      "author": "Alamo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo",
-      "posted_relative": "for 1 t siden",
-      "text": "Motsatt av det Will mener.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 26,
-      "has_link": false
-    },
-    {
-      "key": "a83a9c3fee356852",
-      "author": "WillHN",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
-      "posted_relative": "for 43 min siden",
-      "text": "Innlegget er slettet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6
-      ],
-      "links": [],
-      "char_count": 21,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

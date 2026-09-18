@@ -1,9 +1,39 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-09-18T07:45:35.712761+00:00",
+  "scraped_at": "2026-09-18T11:50:10.697443+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e0e942cd0ce1dc8c",
+      "author": "I-buy-companies",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/i-buy-companies",
+      "posted_relative": null,
+      "text": "14. sep. · Hvis vi antar at casen ikke er lest feil, så vil hver dag uten stigning bety at vi har et enda bedre potensial når det utløses. Hvis Lexcor ønsker å komme helt ut av Cadeler, så er mitt regnestykke omtrent slik: Omsetningen er 450 000 aksjer om dagen. Hvis de ikke skal mase markedet helt, så kan de maks delta i 1/3 av volumet. De har akkurat kommet under 5%, hvilket er ca. 100 millioner EUR i marketcap. Det er ca. 120 handelsdager = 6 måneder. De kan dermed lett resten av året legge en demper på aksjen. Kanskje stopper de opp når aksjen kommer ned mot 52 og øker salget når de når 58-59 på en stigende interesse. Det bokser aksjen inne. Jeg er like lei av det som dere, men kanskje er dette bare et spørsmål om å vente, eventuelt å supplere på 52 og selge på 57 inntil bruddet kommer, og så ri opp med kjernebeholdningen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        7
+      ],
+      "links": [],
+      "char_count": 838,
+      "has_link": false
+    },
+    {
+      "key": "0803cffc991667b9",
+      "author": "B.AnkeRott",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bankerott-1",
+      "posted_relative": "for 2 t siden",
+      "text": "Er det fare for at denne kommer med utbytte etterhvert?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }
