@@ -1,9 +1,25 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-09-18T12:37:48.403382+00:00",
+  "scraped_at": "2026-09-18T16:52:38.881640+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "39bf428159840076",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": null,
+      "text": "14. sep. CNBC Alu USA opp 0,9%  3435 D/t MAL 3  Europa Alu ned 0,66 % 3238 D7t",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    }
+  ]
 }

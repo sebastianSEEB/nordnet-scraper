@@ -1,9 +1,36 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-18T12:38:40.950628+00:00",
+  "scraped_at": "2026-09-18T16:53:43.809129+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4669a9b7ebd617eb",
+      "author": "Reidar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reidar",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Takk for svar. Synd pengene er bundet om det tar lang tid før eventuell utbetaling fra Fortum.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "95a6c6051cfcf58b",
+      "author": "ShareJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sharejens",
+      "posted_relative": null,
+      "text": "14. sep. Tenker jeg avventer og ser. Kan ikke skjønne at jeg risikerer så mye med det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

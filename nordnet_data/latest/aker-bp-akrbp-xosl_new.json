@@ -1,50 +1,97 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-18T12:37:40.887413+00:00",
+  "scraped_at": "2026-09-18T16:52:31.384536+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "f1edee040bf91d35",
-      "author": "BlondsHaveMoreMoney",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blondshavemoremoney",
-      "posted_relative": "for 8 min siden",
-      "text": "Datter jobber i Aker BP. Jeg elsker AKRBP!  Hadde tilfeldigvis litt på lur i dag som ventet på noe godt. Vel, det ble mer av det gode, kan man si :-)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 149,
-      "has_link": false
-    },
-    {
-      "key": "9629405c2b1798c5",
-      "author": "danielrshz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/danielrshz",
-      "posted_relative": "for 29 min siden",
-      "text": "Kan dette bli en god kjøpsmulighet innen aksjemarkedet stenger? Vis 1 kommentar til",
+      "key": "36090af75d698a22",
+      "author": "Aksjelady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelady",
+      "posted_relative": "for 3 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/09/18/8381565/saudi-arabia-kutter-all-olje-til-europa",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/18/8381565/saudi-arabia-kutter-all-olje-til-europa"
+      ],
+      "char_count": 93,
+      "has_link": true
+    },
+    {
+      "key": "a84c3792a4c9cffd",
+      "author": "BlondsHaveMoreMoney",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blondshavemoremoney",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg venter på neste utbytte. Jeg venter på Yggdrasil. Jeg venter også på mulig oppkjøp. Hersvik har sagt at konsolidering på norsk sektor er uunngåelig. Den som venter....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
       ],
       "links": [],
-      "char_count": 83,
+      "char_count": 171,
       "has_link": false
     },
     {
-      "key": "7c4671eb6a017413",
-      "author": "Kimkimkim",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden Ikke mange andre bedrifter som tjener like rått nå",
+      "key": "a6985b470186dd65",
+      "author": "steele1812",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steele1812",
+      "posted_relative": "for 3 t siden",
+      "text": "Nedslaget fra Lundin er ikke så overraskende for meg. God avkastning og så er de mer interessert i andre bransjer. De gjorde det godt på Lundin oljeskapet.....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    },
+    {
+      "key": "08e508b0fb6cf1ac",
+      "author": "BlondsHaveMoreMoney",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blondshavemoremoney",
+      "posted_relative": "for 2 t siden",
+      "text": "Går de fra det sorte gull til det grønne luftslottet?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 78,
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "1bcf1d2dd560b963",
+      "author": "Kimkimkim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim",
+      "posted_relative": "for 4 t siden",
+      "text": "Ikke mange andre bedrifter som tjener like rått nå",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "aad0e3f9b2a390ee",
+      "author": "BlondsHaveMoreMoney",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blondshavemoremoney",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er med skam å melde gode nyheter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
       "has_link": false
     }
   ]

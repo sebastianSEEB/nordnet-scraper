@@ -1,24 +1,37 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-18T12:39:03.664077+00:00",
+  "scraped_at": "2026-09-18T16:54:07.084899+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "f30cdafc417c3ddb",
-      "author": "Tullingen56",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tullingen56",
+      "key": "1abaabcb8f1b41bc",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
       "posted_relative": null,
-      "text": "14. sep. Det må en ny ledelse til med antydning til troverdighet om jeg skal tilbake i denne aksjen.",
+      "text": "14. sep. Mest mislykka emisjon i historien? Stakkars fortress som ble lurt inn i dette melkespannet til Tsolis og Fredriksen. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 100,
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "80da7a927ff01716",
+      "author": "Elektrokid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elektrokid",
+      "posted_relative": "for 2 t siden",
+      "text": "Kommer med mye surr du stanken",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
       "has_link": false
     }
   ]

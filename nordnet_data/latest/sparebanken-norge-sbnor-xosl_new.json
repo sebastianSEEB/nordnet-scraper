@@ -1,9 +1,38 @@
 {
   "slug": "sparebanken-norge-sbnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-norge-sbnor-xosl",
-  "scraped_at": "2026-09-18T12:36:55.263561+00:00",
+  "scraped_at": "2026-09-18T16:51:43.797122+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "09c4d3c36ab30bbd",
+      "author": "Liveware Problem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/liveware-problem",
+      "posted_relative": "for 20 min siden",
+      "text": "Jeg blir sittende ihvertfall så lenge Kjerpeseth sitter i sjefsstolen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "f9245c00c754ae86",
+      "author": "Elisabeth64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elisabeth64",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Selge eller beholde 🫣🍀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

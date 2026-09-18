@@ -1,9 +1,23 @@
 {
   "slug": "rogaland-sparebank-rogs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/rogaland-sparebank-rogs-xosl",
-  "scraped_at": "2026-09-18T12:39:21.220341+00:00",
+  "scraped_at": "2026-09-18T16:54:27.245393+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "84497bc0fde4e233",
+      "author": "Pelle Parafin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pelle-parafin",
+      "posted_relative": null,
+      "text": "14. sep. Vi trenger mere \"juicy\" oppdatering en det for å bli opprømt. Men ok.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    }
+  ]
 }

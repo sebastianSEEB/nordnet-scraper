@@ -1,9 +1,36 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-18T12:33:49.141418+00:00",
+  "scraped_at": "2026-09-18T16:48:48.687383+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7dea2014a1ac0304",
+      "author": "madovic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/madovic",
+      "posted_relative": "for 2 t siden",
+      "text": "De solgte litt, men dette betyr ikke, fordi de forventet fall, kanskje de har funnet bedre investeringe eller taktisk for kjøpe mer når den faller mer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "064e20f0a2442b97",
+      "author": "Aksjelos",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelos",
+      "posted_relative": "for 2 t siden",
+      "text": "Jupp, lappe, bombe,lappe osv. Fyttikatta.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

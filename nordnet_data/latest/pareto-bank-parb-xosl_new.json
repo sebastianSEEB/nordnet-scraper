@@ -1,9 +1,38 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-18T12:38:52.288186+00:00",
+  "scraped_at": "2026-09-18T16:53:55.276800+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0ea049bc5c0d0e8f",
+      "author": "EB1996",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eb1996",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva skjedde på slutten?😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    },
+    {
+      "key": "9aa896faabfc95e7",
+      "author": "mikemode",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikemode",
+      "posted_relative": "for 2 t siden",
+      "text": "· kjøp dippen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

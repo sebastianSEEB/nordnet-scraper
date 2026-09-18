@@ -1,9 +1,51 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-18T12:34:00.436960+00:00",
+  "scraped_at": "2026-09-18T16:48:59.954723+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8eec457702d10b7e",
+      "author": "Trysilknut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trysilknut",
+      "posted_relative": "for 3 t siden",
+      "text": "Slik foregår en shorting-prosess trinn for trinnFor at du skal kunne selge aksjer du ikke eier, må megleren din (f.eks. Nordnet eller DNB Markets) ordne et aksjelån i bakgrunnen:Aksjelånet ordnes: Megleren din finner en annen investor (ofte et stort fond eller en pensjonsstiftelse) som eier aksjene og er villig til å låne dem ut mot et gebyr/rente.Umiddelbart salg: Aksjene blir automatisk plassert på din konto og selges med en gang på børsen til gjeldende markedspris. Pengene fra salget blir stående på din konto som sikkerhet.Vente på kursfall: Siden målet ditt er at aksjekursen skal falle, avventer du situasjonen.Posisjonen lukkes: For å avslutte handelen legger du inn en kjøpsordre. Du kjøper da aksjene tilbake i markedet.Aksjene leveres tilbake: De nykjøpte aksjene leveres automatisk tilbake til den opprinnelige eieren du lånte dem fra.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 851,
+      "has_link": false
+    },
+    {
+      "key": "cc82acbb758b2617",
+      "author": "OMPET",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ompet",
+      "posted_relative": "for 3 t siden",
+      "text": "Passerer vi 60kr på mandag tror dere? Eller går vi på ned?… Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "fd17d0b20adec5f5",
+      "author": "Winemall",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/winemall",
+      "posted_relative": "for 2 t siden",
+      "text": "Denne bikker 60 i sluttauksjonen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

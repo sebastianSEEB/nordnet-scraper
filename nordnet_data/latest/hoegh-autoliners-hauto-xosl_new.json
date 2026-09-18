@@ -1,9 +1,23 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-09-18T12:33:03.109594+00:00",
+  "scraped_at": "2026-09-18T16:48:03.528690+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "884692e87723b574",
+      "author": "all-in even",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/all-in-even",
+      "posted_relative": null,
+      "text": "14. sep. Bedre før ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }
