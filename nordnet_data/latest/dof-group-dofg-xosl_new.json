@@ -1,66 +1,53 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-18T16:49:18.631736+00:00",
+  "scraped_at": "2026-09-18T19:19:05.130446+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "e2fb57703b66d571",
+      "key": "1f80ec0556d0aba9",
       "author": "fredrik87",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fredrik87",
-      "posted_relative": "for 2 døgn siden",
-      "text": "Fra Investtech: Aksjen har tatt ut objektivet ved 135 kroner etter brudd på en omvendt-hode-og-skuldre-formasjon. Kursen har nå falt noe tilbake, men formasjonen indikerer videre oppgang. Aksjen tester motstanden ved cirka 134 kroner. Dette kan gi en reaksjon ned, mens et brudd opp gjennom 134 kroner vil utløse et kjøpssignal. Vis 1 kommentar til",
+      "posted_relative": "for 1 t siden",
+      "text": "DOF gikk ut av OBX-indexen ved børsslutt i dag. Mange fond som da selger seg ut og noen har sitter på gjerdet for å fange opp alle aksjene som ble tilgjengelige.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        9,
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 348,
+      "char_count": 161,
       "has_link": false
     },
     {
-      "key": "85e4ae37eddf5bd3",
+      "key": "c49bc8de3dde2bbd",
+      "author": "Fisker94",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
+      "posted_relative": "for 1 t siden",
+      "text": "DOF!  Spent på hva 2027 og utover bringer, mye penger i oljeselskapene frammover. 💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "dbbf33bb53385a82",
       "author": "ymse",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ymse-2",
-      "posted_relative": "for 1 t siden",
-      "text": "1 mil volum siste minutter 🥴 Vis 1 kommentar til",
+      "posted_relative": "for 4 t siden",
+      "text": "1 mil volum siste minutter 🥴",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1,
+        5
       ],
       "links": [],
-      "char_count": 48,
-      "has_link": false
-    },
-    {
-      "key": "8849a9eba075e14f",
-      "author": "RHood",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rhood",
-      "posted_relative": "for 1 t siden",
-      "text": "Oversatt: \"Prisen skal opp eller ned, 50/50\"",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 44,
-      "has_link": false
-    },
-    {
-      "key": "791bff468350b604",
-      "author": "Henry Paul",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henry-paul",
-      "posted_relative": "for 16 min siden",
-      "text": "Ymse. Hvor ser man volumet? Takk.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 33,
+      "char_count": 28,
       "has_link": false
     }
   ]

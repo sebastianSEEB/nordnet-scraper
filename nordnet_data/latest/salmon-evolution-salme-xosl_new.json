@@ -1,52 +1,37 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-18T16:55:04.976462+00:00",
+  "scraped_at": "2026-09-18T19:24:53.443780+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "4c07abb4295a7c7d",
-      "author": "Myntkast",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myntkast",
-      "posted_relative": "for 2 t siden",
-      "text": "Gresshopper fra alle som vanligvis sitter og sprer skremselspropaganda om SALME. Kursen går opp og ned. Ikke noe sjokkerende ved det. På sikt vinner optimistene ❤",
+      "key": "62984e421923c46e",
+      "author": "BareFlaks77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bareflaks77",
+      "posted_relative": "for 1 t siden",
+      "text": "Sjekk filmen under. Vi får se om dataene de henter inn viser sterk vekst i biomasse til lav kost pr kilo produsert fisk. Neste datapunkt der kommer i operasjonell oppdatering fra selskapet i starten av oktober. https://vimeo.com/1054930895?fl=pl&fe=sh",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        4
+      "engagement_numbers": [],
+      "links": [
+        "https://vimeo.com/1054930895?fl=pl&fe=sh"
       ],
-      "links": [],
-      "char_count": 162,
-      "has_link": false
+      "char_count": 251,
+      "has_link": true
     },
     {
-      "key": "dd6515612b382e24",
-      "author": "Farfore",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/farfore",
-      "posted_relative": "for 28 min siden",
-      "text": "Kursmålet du refererer til er en metodikk som blir brukt for å styre robotsalg til en retning. Det kursmålet dukket opp samtidig de store nedslagbølgene begynte",
+      "key": "15c2f878972b6bb0",
+      "author": "J44RS4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/j44rs4",
+      "posted_relative": "for 1 t siden",
+      "text": "Tenkte akkurat det samme. Lukter DnB lang vei da de solgte seg ut.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 160,
-      "has_link": false
-    },
-    {
-      "key": "b3ce4ec214ca63c7",
-      "author": "lakselva",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakselva",
-      "posted_relative": "for 2 t siden",
-      "text": "Oyoy- nå kjøpes det krafig før helga",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 36,
+      "char_count": 66,
       "has_link": false
     }
   ]
