@@ -1,9 +1,38 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-18T11:50:14.404157+00:00",
+  "scraped_at": "2026-09-18T12:35:13.371049+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "61dfbe0874bea2c9",
+      "author": "BBBTRH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbbtrh",
+      "posted_relative": "for 27 min siden",
+      "text": "Flott det👍🏻 Bare å fylle på og motta yield på 16% +++",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "0cf869d2785468bc",
+      "author": "Avro nil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
+      "posted_relative": "for 42 min siden",
+      "text": "· Den klarer ikke å bryte 7.5-motstanden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

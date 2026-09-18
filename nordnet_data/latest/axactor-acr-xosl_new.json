@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-18T11:54:02.297530+00:00",
+  "scraped_at": "2026-09-18T12:39:03.664077+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f30cdafc417c3ddb",
+      "author": "Tullingen56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tullingen56",
+      "posted_relative": null,
+      "text": "14. sep. Det må en ny ledelse til med antydning til troverdighet om jeg skal tilbake i denne aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    }
+  ]
 }

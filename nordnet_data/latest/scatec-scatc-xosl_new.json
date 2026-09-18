@@ -1,39 +1,22 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-18T11:49:28.870557+00:00",
+  "scraped_at": "2026-09-18T12:34:31.554025+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "b7fe08e85375c730",
+      "key": "db96a19fa647b5e8",
       "author": "Arathorn",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arathorn",
-      "posted_relative": "for 55 min siden",
-      "text": "Ding ding! Tresifret igjen, men varer det? Jeg har trua :bicep:",
+      "posted_relative": "for 13 min siden",
+      "text": "Det var gøy så lenge det varte.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 63,
-      "has_link": false
-    },
-    {
-      "key": "2a4fd5fcc92cbb4e",
-      "author": "Jackpoot",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpoot",
-      "posted_relative": "for 3 t siden",
-      "text": "Fin start på denne i dag, på en ganske så rød børs",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 50,
+      "char_count": 31,
       "has_link": false
     }
   ]

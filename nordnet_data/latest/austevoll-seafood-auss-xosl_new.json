@@ -1,36 +1,27 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-18T11:50:25.751773+00:00",
+  "scraped_at": "2026-09-18T12:35:24.706142+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "cdd49815fafa849c",
-      "author": "Optimus prime 7",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
-      "posted_relative": "for 2 t siden",
-      "text": "Litt tungt om dagen.. men snur nå historisk vertfall..",
+      "key": "4b7867d63b5df885",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": null,
+      "text": "14. sep. https://www.fiskeribladet.no/debatt/kan-2026-bli-det-tredje-beste-makrellaret-noensinne-/2-1-2041070",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 54,
-      "has_link": false
-    },
-    {
-      "key": "622a8fa2e82392d5",
-      "author": "thule69",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thule69",
-      "posted_relative": "for 25 min siden",
-      "text": "· Super Optimus så venter jeg med salgsknappen 🫣",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 48,
-      "has_link": false
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.fiskeribladet.no/debatt/kan-2026-bli-det-tredje-beste-makrellaret-noensinne-/2-1-2041070"
+      ],
+      "char_count": 109,
+      "has_link": true
     }
   ]
 }

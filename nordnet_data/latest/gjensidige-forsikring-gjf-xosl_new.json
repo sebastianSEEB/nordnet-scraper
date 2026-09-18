@@ -1,9 +1,25 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-09-18T11:52:48.696581+00:00",
+  "scraped_at": "2026-09-18T12:37:52.157959+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8be090f151bad539",
+      "author": "gtrx09p",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gtrx09p",
+      "posted_relative": null,
+      "text": "14. sep. Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

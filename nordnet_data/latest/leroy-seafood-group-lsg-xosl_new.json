@@ -1,9 +1,27 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-18T11:49:21.340877+00:00",
+  "scraped_at": "2026-09-18T12:34:24.050083+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4b7867d63b5df885",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": null,
+      "text": "14. sep. https://www.fiskeribladet.no/debatt/kan-2026-bli-det-tredje-beste-makrellaret-noensinne-/2-1-2041070",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://www.fiskeribladet.no/debatt/kan-2026-bli-det-tredje-beste-makrellaret-noensinne-/2-1-2041070"
+      ],
+      "char_count": 109,
+      "has_link": true
+    }
+  ]
 }

@@ -1,81 +1,65 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-18T11:54:50.899201+00:00",
+  "scraped_at": "2026-09-18T12:39:51.279100+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 5,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "3eec1445c8cf99d3",
-      "author": "Trmed",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trmed",
-      "posted_relative": "for 2 t siden",
-      "text": "https://www.okonomi24.com/nyheter/timingen-for-en-ny-cfo-er-helt-spesiell/136144",
+      "key": "860baf4678192842",
+      "author": "Notrich",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/notrich",
+      "posted_relative": "for 26 min siden",
+      "text": "Er jeg den første kunden som tar med seg lån og kontoer til hele familien og stikker fra Nordea, bare fordi at IT avdelingen deres f**n ikke klarer å fikse en liten bug som gjør at kundene deres ikke kan bruke Trustly?  Det er jo målbare tap når toget går og man står igjen på perrongen pga dette!! Noen her inne som jobber i Nordea og kan bringe beskjeden videre til daunakkene i IT avdelingen?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        3
+        1
       ],
-      "links": [
-        "https://www.okonomi24.com/nyheter/timingen-for-en-ny-cfo-er-helt-spesiell/136144"
-      ],
-      "char_count": 80,
-      "has_link": true
+      "links": [],
+      "char_count": 395,
+      "has_link": false
     },
     {
-      "key": "ad866d3e9608bb05",
+      "key": "c357ae0b418cc0ef",
+      "author": "sander07",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sander07",
+      "posted_relative": "for 10 min siden",
+      "text": "Kan man tenke seg at dette er et rart handelsmønster? Der kursen pushes ned på lavt/moderat volum før den spretter raskt opp igjen til 4,7-4,8 på veldig høyt volum før det samme skjer igjen. Effektiv måte å få møkkabillige aksjer på.. Ren spekulering, men syns bare kursen har fått unødvendig mye juling. Nesten ned til kursen som var før kommersialisering av A1.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 363,
+      "has_link": false
+    },
+    {
+      "key": "1e6f77852743d1bf",
       "author": "vehaa",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vehaa",
-      "posted_relative": "for 3 t siden",
-      "text": "Det er helt openbart at den ikke går noe særlig over 4.8 nå.  Men, dersom selskapet og andre ønsker at det skal komme rep.emi kan de for eksempel slippe en melding der de deler en nyhet...",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 188,
-      "has_link": false
-    },
-    {
-      "key": "42ec4a5e13012322",
-      "author": "GeitPåBadeland",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/geitpabadeland",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Det skal ekstremt lite til for å dytte denne over 4.8 da… rep emi kan fint kjøres nå uten nyheter, trenger de kapitalen så skjer det, og vice versa 🫢🍿",
+      "posted_relative": "for 8 min siden · Endret",
+      "text": "Er enig med deg. I tillegg er ikke utvanningen så stor. Men selskapet kan godt kommunisere bedre rundt planene sine, da vil tilliten i markedet stige, med mindre dette er en strategi.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 150,
+      "char_count": 183,
       "has_link": false
     },
     {
-      "key": "61c8ebb3924bb120",
-      "author": "Trmed",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trmed",
-      "posted_relative": "for 57 min siden",
-      "text": "Sikkert noen jeg har dempet",
+      "key": "da28a186d8fb757d",
+      "author": "Annekatt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/annekatt",
+      "posted_relative": "for 10 min siden",
+      "text": "Jeg forlot også Nordea pga av det samme.  Ble så frustrert av hele greia",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 27,
-      "has_link": false
-    },
-    {
-      "key": "f471ac8f5a1dce5c",
-      "author": "pebbben",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pebbben",
-      "posted_relative": "for 3 t siden",
-      "text": "· 🤣🤣🤣🤣",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 6,
+      "char_count": 72,
       "has_link": false
     }
   ]
