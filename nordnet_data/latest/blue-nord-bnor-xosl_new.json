@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-18T02:04:41.319102+00:00",
+  "scraped_at": "2026-09-18T07:44:02.464041+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a3f9ae714cfe80e3",
+      "author": "Alamo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo",
+      "posted_relative": "for 17 t siden",
+      "text": "BlueNord handles jo på 99% av oppkjøpskurs. selv om BlueNord ikke skal betale utbytte, så skal de jo kompenseres for utbytte f.o.m. Q3? Betyr ikke det at man i teorien allerede har rett på 13,2 kr per aksje i utbyttekompensasjon? I tilfelle verdesettes jo BN til 97% av ekte kurs (basert på Vår Energi sin kurs).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 312,
+      "has_link": false
+    },
+    {
+      "key": "05aec14fa3121215",
+      "author": "Alamo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo",
+      "posted_relative": "for 1 t siden",
+      "text": "Eneste nedsiden er vel hvis oppkjøpe skulle falle fra hverandre av en eller annen grunn (veldig lite sannsynlig) og at man ikke får rentes rente-effekt frem til oppkjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    }
+  ]
 }

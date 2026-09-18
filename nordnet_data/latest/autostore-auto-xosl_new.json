@@ -1,9 +1,82 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-18T02:07:05.193410+00:00",
+  "scraped_at": "2026-09-18T07:46:37.578819+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "66b90d74d1a95ad3",
+      "author": "GabrielSv16",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabrielsv16",
+      "posted_relative": "for 9 t siden",
+      "text": "Hva stopper denne for og bli en gigant aksje egt? Når de har så mangen kunder, og Amazon ligger i lufta.. noen som har informasjon? Vurderer og legge mye inn i denne Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 185,
+      "has_link": false
+    },
+    {
+      "key": "b1b72ed8af6d2714",
+      "author": "BM1985",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bm1985",
+      "posted_relative": "for 18 min siden",
+      "text": "men om vi ser litt lengre frem, er det jo ikke usannsynliug med et nytt buyback tidlig i 2027 heller om ting fortsetter å gå som nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "c8639032c491e258",
+      "author": "traktore",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/traktore",
+      "posted_relative": "for 2 t siden",
+      "text": "Det at de store som har kjøpt dyrt selger billig ser jeg som et negativt tegn. Men jeg er åpen for at jeg tar feil.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    },
+    {
+      "key": "f542869d06de4150",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 58 min siden",
+      "text": "· stro-norsk-e-handel-forhandler-villoid-velger-strongpoint-å-bygge-verdens-største-pio-anlegg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "cc51b67fa2c9c495",
+      "author": "traktore",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/traktore",
+      "posted_relative": "for 22 t siden",
+      "text": "Dårlig nytt finansavisen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

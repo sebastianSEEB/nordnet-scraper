@@ -1,9 +1,40 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-18T02:05:09.541435+00:00",
+  "scraped_at": "2026-09-18T07:44:29.895516+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "03ac654aae299b56",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 37 min siden",
+      "text": "· Avslører løgnene om Saudi pipeline https://x.com/aj_geo_analysis/status/2100770084025520470",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/aj_geo_analysis/status/2100770084025520470"
+      ],
+      "char_count": 93,
+      "has_link": true
+    },
+    {
+      "key": "b15f6d1411b5c610",
+      "author": "Oxion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
+      "posted_relative": "for 1 t siden",
+      "text": "Panoro vil jo være en mega pengemaskin med oljepriser på 70-80$ fatet. Dagen pris er en stor bonus !!!",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    }
+  ]
 }

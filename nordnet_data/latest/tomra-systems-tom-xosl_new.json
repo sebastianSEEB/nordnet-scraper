@@ -1,9 +1,53 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-18T02:05:13.277280+00:00",
+  "scraped_at": "2026-09-18T07:44:33.624764+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2cdd82cff032c078",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 47 min siden · Endret",
+      "text": "Ferd fortsetter å laste opp i Tomra: Nå eier Ferd aksjer i Tomra for ca 500 MNOK: TOM   FERD AS                  215.000   4.768.055    1,6",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "f9ca95befc998be6",
+      "author": "kattenkatt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kattenkatt",
+      "posted_relative": "for 5 min siden",
+      "text": "· Shortselgerne kjemper for å holde aksjen nede.. Vet ikke om de vil nå stopp loss rundt 91",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "712f0d1c6d635122",
+      "author": "Linjemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/linjemannen",
+      "posted_relative": "for 55 min siden",
+      "text": "Opp i dag!  👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

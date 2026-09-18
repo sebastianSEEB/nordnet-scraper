@@ -1,9 +1,55 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-18T02:05:05.791626+00:00",
+  "scraped_at": "2026-09-18T07:44:26.215713+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ae68cd11197b8038",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 31 min siden",
+      "text": "Så var det supertrenden i AI som driver Kitron i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "d9f59f48e04ee5ad",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 6 min siden",
+      "text": "Kitron vil nok forsette å klatre opp mot 115,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "c7ff46eacfcfb575",
+      "author": "mikkelstante",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikkelstante",
+      "posted_relative": "for 43 min siden",
+      "text": "· 100 igjen💥",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-18T02:10:59.249769+00:00",
+  "scraped_at": "2026-09-18T07:50:33.125746+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b4ca68b8633e3e77",
+      "author": "Fastfive20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fastfive20",
+      "posted_relative": "for 13 min siden",
+      "text": "mye robot handling her nå.. poster på 10.000 aksjer over hele linjen🤪",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "bf7a609737fb6c61",
+      "author": "Keik123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keik123",
+      "posted_relative": "for 30 min siden",
+      "text": "Jeg fyller på.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

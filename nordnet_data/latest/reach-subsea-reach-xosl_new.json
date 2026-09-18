@@ -1,9 +1,41 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-09-18T02:10:55.492674+00:00",
+  "scraped_at": "2026-09-18T07:50:29.377303+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8c3d136ee149c3a3",
+      "author": "Arthurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arthurs",
+      "posted_relative": "for 19 t siden",
+      "text": "Gledelig å se at det er smått med selgere på nåværende kursnivå! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "61cf510ccaa5f725",
+      "author": "Volven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
+      "posted_relative": "for 49 min siden",
+      "text": "Eller heller kjøpe 50 % mer, så får du enda mer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

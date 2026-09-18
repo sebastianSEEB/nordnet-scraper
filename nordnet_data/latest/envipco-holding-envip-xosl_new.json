@@ -1,9 +1,36 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-09-18T02:10:31.978919+00:00",
+  "scraped_at": "2026-09-18T07:50:04.526762+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2645f0456740ad86",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 34 min siden",
+      "text": "Får håpe at det kommer noe mer fra UK snart og at Hellas blir bekreftet. Er på tide at det kommer noe mer rundt hellas ref pareto sin meld her forleden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    },
+    {
+      "key": "4fc48e843de7d3c7",
+      "author": "Hugoil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hugoil",
+      "posted_relative": "for 2 t siden",
+      "text": "Ser stor dag komme 29. sep.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-18T02:06:42.145366+00:00",
+  "scraped_at": "2026-09-18T07:46:12.186366+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e160f6ba4c67d99a",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 1 t siden",
+      "text": "aksjen gjorde det markant dårligere i går enn markedet for sektor relaterte aksjer . At dette er riktig ut fra prisingen av Elopak er ikke min påstand .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    }
+  ]
 }

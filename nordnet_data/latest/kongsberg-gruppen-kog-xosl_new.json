@@ -1,9 +1,66 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-18T02:08:34.904129+00:00",
+  "scraped_at": "2026-09-18T07:48:05.156182+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "046e8de73326cc28",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 32 min siden",
+      "text": "KOG med sitt samarbeid med ukrainere om luftforsvar. Hvis du var et hvilket som helst land, hvilken leverandør av luftvern ville du valgt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "36aa4160df3df966",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 43 min siden",
+      "text": "Den daken teknologi får en korreksjon flommer det penger inn i forsvar. Da skal de gjemme seg i KOG.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "98ac7a5a29a95335",
+      "author": "OivindB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oivindb",
+      "posted_relative": "for 15 min siden",
+      "text": "Ja. Har vært en god uke og da vil nok noen sikre litt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "e395978ebf475586",
+      "author": "Mahabad1945",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mahabad1945",
+      "posted_relative": "for 11 min siden · Endret",
+      "text": "· Gevinstsikrings time ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

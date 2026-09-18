@@ -1,9 +1,51 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-18T02:08:42.606272+00:00",
+  "scraped_at": "2026-09-18T07:48:16.256793+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "924074569e8ccdab",
+      "author": "thoomaas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thoomaas",
+      "posted_relative": "for 16 min siden",
+      "text": "lill bendris har åpningstid til kl 15 idag, gi lyd hva du får til svar så vi alle kan bli rike...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "955d3d0aa8ad2519",
+      "author": "vistien",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vistien",
+      "posted_relative": "for 18 min siden",
+      "text": "Tilbud på en fredag... Hvor går veien neste uke tru?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "f40eaf3cdf054a38",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 29 min siden",
+      "text": "Røde tall hos meg også idag 🥴",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

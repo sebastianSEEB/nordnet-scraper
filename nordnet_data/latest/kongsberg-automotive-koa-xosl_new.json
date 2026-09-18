@@ -1,9 +1,53 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-18T02:11:10.526935+00:00",
+  "scraped_at": "2026-09-18T07:50:44.447702+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1849379f9421380c",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 6 min siden",
+      "text": "Det er jo positivt med sterkere investorer inn. Blir spennede å se hvem det kan være. Jeg er ganske sikker på at vi vil løftes videre og håper de fleste småsparere ser den samme muligheten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 189,
+      "has_link": false
+    },
+    {
+      "key": "ca82398a47ee4fb5",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Vil vi fortsette opp eller har mange mistet tålmodigheten etter flere mnd nedgang? Da kan jo endel benytte anledningen til å selge seg ut nå på vei opp og vi får et lite hvileskjær?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    },
+    {
+      "key": "817f53e8d72296ff",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 1 t siden",
+      "text": "Solid sluttspurt i går med mellom 4-500 000 aksjer i sluttauksjonen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

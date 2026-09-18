@@ -1,9 +1,60 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-18T02:07:24.038162+00:00",
+  "scraped_at": "2026-09-18T07:47:01.065650+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "90ccea3d9d9bf130",
+      "author": "Jo4more",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jo4more",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/industri/2026/09/17/8381117/flakk-har-tapt-1-milliard-en-aksje-kan-vaere-verdilos-den-andre-kan-dobles Da er det fint at man sitter i doblingskandidaten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/09/17/8381117/flakk-har-tapt-1-milliard-en-aksje-kan-vaere-verdilos-den-andre-kan-dobles"
+      ],
+      "char_count": 180,
+      "has_link": true
+    },
+    {
+      "key": "ad647bd22a68e35b",
+      "author": "Takknemlighet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/takknemlighet",
+      "posted_relative": "for 49 min siden",
+      "text": "https://lnkd.in/p/e2Q_Mms5 Dette blir det mere ordrer til HEX av :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        3
+      ],
+      "links": [
+        "https://lnkd.in/p/e2Q_Mms5"
+      ],
+      "char_count": 67,
+      "has_link": true
+    },
+    {
+      "key": "c92d17e572d49513",
+      "author": "Takknemlighet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/takknemlighet",
+      "posted_relative": "for 16 min siden",
+      "text": "Bussegmentet er veldig sterkt om dagen! Denne avtalen, Buenos Aires avtalen, global Iveco avtale tidligere iår, og mye mere. Tenk litt på Buenos Aires meldingen som kom. Idag går 97 % av alle busser på diesel, fra neste år skal alle busser være cng eller EL. Det er et heftig potensiale, og dette tipper jeg snart kommer til å gjelde flertallet av verdens byer fremover snart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 376,
+      "has_link": false
+    }
+  ]
 }

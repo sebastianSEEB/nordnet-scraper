@@ -1,9 +1,64 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-18T02:05:28.620695+00:00",
+  "scraped_at": "2026-09-18T07:44:49.891281+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "de8a2bd4ca3a9ef6",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 27 min siden",
+      "text": "Hvis du satt i ledelsen i KOG og følte på voksesmertene, hvor ville du lett etter aktuell teknisk kompetanse? NORBIT?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    },
+    {
+      "key": "cad2f859b5a6c3ba",
+      "author": "Unknowm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/unknowm",
+      "posted_relative": "for 39 min siden",
+      "text": "Litt skeptisk til hvor mye slike kjøp har av betydning. Når noen har kjøpt, så betyr det at noen har solgt",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "2a499c317d51d485",
+      "author": "kalleskanin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalleskanin",
+      "posted_relative": "for 1 t siden",
+      "text": "Gjøres mange kjøp om dagen",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "8310e0181c836317",
+      "author": "run65",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/run65",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvor er neste motstand?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }
