@@ -1,9 +1,23 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-18T19:18:52.962371+00:00",
+  "scraped_at": "2026-09-18T22:03:44.920775+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9fb62a2ebd151130",
+      "author": "nickknudsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nickknudsen",
+      "posted_relative": "for 22 min siden",
+      "text": "Hva tenker vi her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

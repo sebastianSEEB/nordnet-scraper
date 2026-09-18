@@ -1,9 +1,53 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-18T19:20:20.484213+00:00",
+  "scraped_at": "2026-09-18T22:05:15.570525+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ce15dcda0e18114a",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 12 min siden · Endret",
+      "text": "Store volum, 40000 Tonn, men likevel holder prisene seg pga god etterspørsel: https://ilaks.no/massiv-europeisk-innfrysing-av-fisk-holder-lakseprisene-stabile/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://ilaks.no/massiv-europeisk-innfrysing-av-fisk-holder-lakseprisene-stabile/"
+      ],
+      "char_count": 159,
+      "has_link": true
+    },
+    {
+      "key": "1bafb888407e6d83",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 12 t siden",
+      "text": "Litt tungt om dagen.. men snur nå historisk vertfall.. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "a5ed975b7985cdea",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 10 min siden",
+      "text": "Jeg fortsetter å kjøpe. Glad for alle aksjer jeg kan få på tilbud.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

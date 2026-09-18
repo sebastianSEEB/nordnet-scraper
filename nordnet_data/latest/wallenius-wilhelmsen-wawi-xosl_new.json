@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-18T19:17:53.580577+00:00",
+  "scraped_at": "2026-09-18T22:02:45.298444+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "036e244bc378ae9e",
+      "author": "Dedushka123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dedushka123",
+      "posted_relative": "for 45 min siden",
+      "text": "Jeg solgte meg ut på noe over 140.  Angrer selvsagt, men tror nedsiden er større enn oppsiden etterhvert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    }
+  ]
 }

@@ -1,35 +1,50 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-18T19:22:08.262493+00:00",
+  "scraped_at": "2026-09-18T22:07:02.846694+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "214252984a1c07e0",
-      "author": "vadz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vadz",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden Da er det bare å kjøpe ifra dem som selger!  Who Dares Wins! 😉",
+      "key": "0000d0775a322ae4",
+      "author": "smillaD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/smillad",
+      "posted_relative": "for 6 min siden",
+      "text": "· Er dette en langsiktig investeringsmulighet, det er det jeg er opptatt av :)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 90,
+      "char_count": 78,
       "has_link": false
     },
     {
-      "key": "a82f8ac6a680b723",
-      "author": "MariusMus",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusmus",
-      "posted_relative": "for 49 min siden",
-      "text": "Jeg er litt ny, bør jeg vente eller selge nå",
+      "key": "b03e84a62d672e1a",
+      "author": "vadz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vadz",
+      "posted_relative": "for 2 t siden",
+      "text": "Da er det bare å kjøpe ifra dem som selger!  Who Dares Wins! 😉",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 44,
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "ddd720040df29e8c",
+      "author": "Hans1972",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hans1972",
+      "posted_relative": "for 2 t siden",
+      "text": "· Ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 4,
       "has_link": false
     }
   ]
