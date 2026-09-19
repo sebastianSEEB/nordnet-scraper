@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-19T21:58:13.483559+00:00",
+  "scraped_at": "2026-09-19T23:49:35.190053+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4b5171ef22f782e9",
+      "author": "Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": "for 29 min siden",
+      "text": "Håper DNO holder seg over 16 iallfall. Jeg har ikke trua på ATH og rævva i tapeten…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }
