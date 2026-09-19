@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-19T19:06:54.079699+00:00",
+  "scraped_at": "2026-09-19T21:58:24.885881+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "63f1ef6c6b5bbd3f",
+      "author": "Eltedeig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eltedeig",
+      "posted_relative": "for 1 t siden",
+      "text": "Opp på 80+ så slutter eg i jobben min",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "55d393813aef1ef1",
+      "author": "PimpFunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
+      "posted_relative": "for 13 min siden",
+      "text": "liker innstillingen din =)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }
