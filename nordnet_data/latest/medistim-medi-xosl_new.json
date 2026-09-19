@@ -1,9 +1,41 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-09-19T16:56:37.201586+00:00",
+  "scraped_at": "2026-09-19T19:06:37.646149+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d237aff083720dc9",
+      "author": "NordnetAdrian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordnetadrian",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Hei, jeg har laget en artikkel om “Topp 5 norske utbytteselskaper” der Medistim er inkludert! Sjekk ut artikkelen og gi gjerne en tilbakemelding! Link til artikkel: https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        3
+      ],
+      "links": [
+        "https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst"
+      ],
+      "char_count": 268,
+      "has_link": true
+    },
+    {
+      "key": "cdc595b4e3b20ff6",
+      "author": "ShippingFond",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond",
+      "posted_relative": "for 2 min siden",
+      "text": "Henger meg på, veldig bra. Kjøpte faktisk Medistim på fredag. Blir bra med kvartalsvise utbytter i denne diamanten 💎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    }
+  ]
 }
