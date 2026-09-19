@@ -1,9 +1,26 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-09-19T05:16:35.887538+00:00",
+  "scraped_at": "2026-09-19T09:54:56.818904+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "09eb4771da65dbcc",
+      "author": "Grunnmuren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grunnmuren",
+      "posted_relative": null,
+      "text": "15. sep. · 🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

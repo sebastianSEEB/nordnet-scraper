@@ -1,9 +1,53 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-19T05:15:36.748359+00:00",
+  "scraped_at": "2026-09-19T09:53:56.070338+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ddb94380b3922898",
+      "author": "Korona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
+      "posted_relative": "for 56 min siden",
+      "text": "FYI.. Norske Rederier og Verft En oversikt over de største norske og norsktilknyttede rederier sortert etter segment – tank, tørrbulk, bilfrakt, offshore, kysttransport, ferje, brønnbåt og mer. Oppdateres kontinuerlig. https://www.maritimstartside.no/rederier.html",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.maritimstartside.no/rederier.html"
+      ],
+      "char_count": 264,
+      "has_link": true
+    },
+    {
+      "key": "f3d0a14ed649582a",
+      "author": "sdv247",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sdv247",
+      "posted_relative": "for 55 min siden",
+      "text": "Ja, jeg er sikker på at dere gjør utrolig gode analyser. Dyktige folk. Vi lar svarene stå. De sier mer enn nok. God lørdag , og lykke til med kokingen til enkelte",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 162,
+      "has_link": false
+    },
+    {
+      "key": "7bfabb7d330109a4",
+      "author": "Korona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Fin oppgang til USD 54.83  medregnet utbyttet 3,41 for Q2. $54,83/ 9,41 NOK = 515,9 NOK",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    }
+  ]
 }

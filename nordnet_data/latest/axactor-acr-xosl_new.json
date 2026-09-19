@@ -1,9 +1,41 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-19T05:22:16.829917+00:00",
+  "scraped_at": "2026-09-19T10:00:48.857125+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "50bc6846c285231e",
+      "author": "Nupen46",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nupen46",
+      "posted_relative": null,
+      "text": "15. sep. \"Mest mislykkede emisjon i historien\" er kanskje å ta litt hardt i. 😄 Fortress gikk inn på 4,70 kroner, refinansieringen er gjennomført, ACR04 er på vei ut og selskapet har fått på plass billigere finansiering. Nå står og faller caset mer på hva Axactor klarer å levere av inntjening og ROE fremover enn på selve emisjonen. Hvis dette viser seg å være tidenes feilinvestering, har både Fortress, Fredriksen, Tvenge, Nordbrekken, Ulstein og flere andre bommet samtidig. Det kan selvfølgelig skje, men jeg er ikke helt klar til å stemple det som historiens mest mislykkede emisjon ennå. 😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 595,
+      "has_link": false
+    },
+    {
+      "key": "834a7387a3353e72",
+      "author": "Ergate",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ergate",
+      "posted_relative": null,
+      "text": "15. sep. Aksjen tester nå den solide støtten rundt 4,70, et nivå som ser ut til å kunne holde godt. Dette gir et godt utgangspunkt for en positiv reaksjon og mulig oppgang fra dagens nivåer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 190,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-19T05:21:15.040031+00:00",
+  "scraped_at": "2026-09-19T09:59:52.134623+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ff2b87115eedefd5",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": null,
+      "text": "15. sep. ABG Sundal Collier trekker frem 11 aksjefavoritter på Oslo Børs: Storebrand er inkludert i porteføljen, og omtales som en «Jack of all trades, master of most». Sterk utvikling innen sparing, høyere lønnsomhet i forsikring og Knif-oppkjøpet. Meglerhuset ser rundt 30 prosent totalavkastning frem mot 2028, inklusive utbytter og tilbakekjøp. Kursmål 220 kroner.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 368,
+      "has_link": false
+    },
+    {
+      "key": "e48d65893463f394",
+      "author": "ChrisDpro",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisdpro",
+      "posted_relative": "for 1 min siden",
+      "text": "· Seriøst spørsmål: Storebrand virker å være en populær ”sikker” langsiktig beholdning. Hva ser du som den største fordelen med å eie Storebrand sammenlignet med å bare ha den delen av porteføljen i et globalt indeksfond? Jeg prøver å forstå hva som gjør risiko/avkastning attraktivt nok til å velge Storebrand fremfor et indeksfond.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 333,
+      "has_link": false
+    }
+  ]
 }
