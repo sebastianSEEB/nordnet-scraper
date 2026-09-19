@@ -1,9 +1,23 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-09-19T00:49:25.187051+00:00",
+  "scraped_at": "2026-09-19T05:19:14.936610+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "87c0faac93945638",
+      "author": "ThomasEinvik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thomaseinvik",
+      "posted_relative": "for 4 t siden",
+      "text": "Topp artikkel! Kort og enkelt forklart for de fleste😄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-19T00:50:56.585590+00:00",
+  "scraped_at": "2026-09-19T05:20:48.725076+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d1041b204b86fa17",
+      "author": "steele1812",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steele1812",
+      "posted_relative": "for 15 t siden",
+      "text": "Nedslaget fra Lundin er ikke så overraskende for meg. God avkastning og så er de mer interessert i andre bransjer. De gjorde det godt på Lundin oljeskapet..... Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 179,
+      "has_link": false
+    },
+    {
+      "key": "f2be97c0723dd6c6",
+      "author": "Enorge67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enorge67",
+      "posted_relative": "for 15 min siden",
+      "text": "Som oppkjøps kandidat blir ikke selskapet mindre interessant. Hvem kjøpte ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }
