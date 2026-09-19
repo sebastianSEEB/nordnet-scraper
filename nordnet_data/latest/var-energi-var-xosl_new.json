@@ -1,9 +1,27 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-19T13:39:02.246184+00:00",
+  "scraped_at": "2026-09-19T16:58:31.698669+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7d5f272dc38e0c94",
+      "author": "StockEmHigh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stockemhigh",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "\"Hos Vår Energi dreide diskusjonen seg om balansen mellom reinvesteringer, oppkjøp og mulige ekstraordinære utbetalinger. Selskapet mener dagens utbyttetakt er håndterbar selv dersom råvareprisene normaliseres neste år.\" Likte spesielt \"mulige ekstraordinære utbetalinger\". https://www.finansavisen.no/energi/2026/09/19/8381710/morgan-stanley-konferanse-oljevekst-er-tilbake-i-vinden",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/19/8381710/morgan-stanley-konferanse-oljevekst-er-tilbake-i-vinden"
+      ],
+      "char_count": 383,
+      "has_link": true
+    }
+  ]
 }

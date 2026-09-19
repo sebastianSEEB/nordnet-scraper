@@ -1,9 +1,25 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-19T13:35:02.469623+00:00",
+  "scraped_at": "2026-09-19T16:54:20.444130+00:00",
   "first_run": false,
-  "total_posts_on_page": 12,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 11,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f23b3053ed3fadea",
+      "author": "Lars Karlsson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lars-karlsson",
+      "posted_relative": "for 3 t siden",
+      "text": "Er det noen som kan forklare hvorfor ikke alle handler syns her på Nordnet? Jeg trodde at alle handler på Oslo Børs vises her. Det var en stor post på 250.000 for 12.50NOK etter stenging igår: https://www.dnb.no/sparing/aksjehandel/company/NAS.OL",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dnb.no/sparing/aksjehandel/company/NAS.OL"
+      ],
+      "char_count": 246,
+      "has_link": true
+    }
+  ]
 }

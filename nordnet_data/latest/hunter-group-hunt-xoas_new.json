@@ -1,22 +1,37 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-19T13:38:27.239790+00:00",
+  "scraped_at": "2026-09-19T16:57:57.007701+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "799c936466edb57f",
-      "author": "aksjeinvestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeinvestor",
-      "posted_relative": "for 38 min siden",
-      "text": "Meget god avklaring på hva selskapet er. Jeg solgte alt,etter en voldsom opptur,men jeg klarte jo ikke å holde meg vekk! Høydeskrekk heter det visst. Grådigheten tok overhånd på meg,så jeg kjøpte meg inn igjen.",
+      "key": "41f1b8ec5189c4f3",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 7 min siden",
+      "text": "Vi kan nok være enige i at Hunter Group ikke kommer til å leie DHT PUMA mer  etter desember 2026. EAGLE VICTORIA er leid gjennom Trafigura og er en annen sak,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    },
+    {
+      "key": "be5a4098f17b57ac",
+      "author": "Strømdal Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/strmdal-invest",
+      "posted_relative": "for 1 t siden",
+      "text": "Er noen som har noen oppdatert informasjon om co2 planene de hadde i 2023?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 210,
+      "char_count": 74,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-09-19T13:33:52.784916+00:00",
+  "scraped_at": "2026-09-19T16:53:17.782427+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cea6e9f517682873",
+      "author": "bubble",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bubble",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.listr.no/dypdykk/2020-bulkers",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.listr.no/dypdykk/2020-bulkers"
+      ],
+      "char_count": 41,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-19T13:37:13.377801+00:00",
+  "scraped_at": "2026-09-19T16:56:40.893996+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1a0d5eb16d1e9065",
+      "author": "Rattus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rattus",
+      "posted_relative": "for 24 min siden",
+      "text": "Noen som tør gjette hvor DNO er mot slutten av året🙄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

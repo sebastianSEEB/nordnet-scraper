@@ -1,9 +1,23 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-19T13:35:18.138520+00:00",
+  "scraped_at": "2026-09-19T16:54:37.435561+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b6a57a701edd067e",
+      "author": "Jhonnykuskus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jhonnykuskus",
+      "posted_relative": "for 2 t siden",
+      "text": "· Kjøpt og i skuffen med den i 3-5 år",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }
