@@ -1,9 +1,51 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-20T17:11:10.432089+00:00",
+  "scraped_at": "2026-09-20T20:01:10.872363+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "7233937773f58fa4",
+      "author": "LongLearning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longlearning",
+      "posted_relative": "for 11 min siden",
+      "text": "Kommer selv til å kjøpe alle eventuelle \"dipper\" som skulle komme 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "7df26aa5751d1974",
+      "author": "bahiom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
+      "posted_relative": "for 10 t siden",
+      "text": "Hva tenker dere om kursen i morgen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "14955ef8b040c532",
+      "author": "JanDucati",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/janducati",
+      "posted_relative": "for 1 t siden",
+      "text": "2000 skip?!? Høres usannsynlig ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-20T17:13:54.181001+00:00",
+  "scraped_at": "2026-09-20T20:03:44.208616+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "305db8855a883d78",
+      "author": "RobertBorgaas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/robertborgaas",
+      "posted_relative": "for 45 min siden",
+      "text": "En stund siden påfyll men i morgen kommer den igjen for min del. Og må si det er en god følelse på dette nivået 🫶",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "5b52725ab631ae7b",
+      "author": "Dannebrog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dannebrog",
+      "posted_relative": "for 1 t siden",
+      "text": "· Kanskje det kommer an på om ceo gir et signal. Angående status på pågående ordre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

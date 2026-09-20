@@ -1,9 +1,25 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-09-20T17:10:11.506796+00:00",
+  "scraped_at": "2026-09-20T20:00:12.416369+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bb828b2ca652d940",
+      "author": "mann69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mann69",
+      "posted_relative": null,
+      "text": "16. sep. · Hvorfor fredag?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

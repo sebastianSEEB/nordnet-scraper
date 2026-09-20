@@ -1,38 +1,39 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-20T17:12:04.419536+00:00",
+  "scraped_at": "2026-09-20T20:01:58.331994+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "3cf448d776897202",
-      "author": "ChrisDpro",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisdpro",
-      "posted_relative": "for 1 døgn siden",
-      "text": "· Seriøst spørsmål: Storebrand virker å være en populær ”sikker” langsiktig beholdning. Hva ser du som den største fordelen med å eie Storebrand sammenlignet med å bare ha den delen av porteføljen i et globalt indeksfond? Jeg prøver å forstå hva som gjør risiko/avkastning attraktivt nok til å velge Storebrand fremfor et indeksfond. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
-      "links": [],
-      "char_count": 353,
-      "has_link": false
-    },
-    {
-      "key": "2d4c68bb1dbd214f",
+      "key": "18b49b925ae53eb9",
       "author": "Adr00n",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/adr00n",
       "posted_relative": "for 35 min siden",
-      "text": "Jeg eier storebrand aksjer av 2 grunner.  Jeg vil ha høyere eksponering av storebrand enn det et index fond har. Det er selskaper i  OBX indexen jeg ikke ønsker å eie.",
+      "text": "Storebrand har planer om å gjøre det mulig å kjøpe aksjer gjennom kron appen i løpet av 1-2 år. Er det noen her som vurderer å forlate nordnet til fordel for kron, og evt hva må til for at dere hopper over til kron? Kilde: Kron podcast. https://www.youtube.com/watch?v=ohnyhnGuXnQ",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.youtube.com/watch?v=ohnyhnGuXnQ"
+      ],
+      "char_count": 280,
+      "has_link": true
+    },
+    {
+      "key": "c3bf6aec6782eb15",
+      "author": "VBI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vbi",
+      "posted_relative": null,
+      "text": "16. sep. Er dette en kortsiktig investering eller noe jeg kan ha lenge?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
       "links": [],
-      "char_count": 167,
+      "char_count": 71,
       "has_link": false
     }
   ]

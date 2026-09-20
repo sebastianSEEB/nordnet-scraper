@@ -1,9 +1,23 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-20T17:11:49.930787+00:00",
+  "scraped_at": "2026-09-20T20:01:45.298299+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ced3b1b0cf62d5d0",
+      "author": "Eltarri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eltarri",
+      "posted_relative": "for 42 min siden",
+      "text": "· Virkelig!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

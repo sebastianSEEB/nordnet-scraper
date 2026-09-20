@@ -1,9 +1,26 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-20T17:07:32.840419+00:00",
+  "scraped_at": "2026-09-20T19:57:41.500013+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "25bf4a4b59b7fb51",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": null,
+      "text": "16. sep. Melding fra kundeservice: \"Og der fikk vi endelig fikset det tekniske problemet, og NOD er tilbake i rødfargen den pleier å være.\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        6
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    }
+  ]
 }
