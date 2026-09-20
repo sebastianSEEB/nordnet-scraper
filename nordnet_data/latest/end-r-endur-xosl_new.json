@@ -1,25 +1,40 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-20T08:05:25.073866+00:00",
+  "scraped_at": "2026-09-20T13:21:15.973395+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "509f767b626b1394",
-      "author": "Rentesrente",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rentesrente",
+      "key": "295460ac79611b77",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
       "posted_relative": null,
-      "text": "16. sep. Teknisk sett er den oversolgt.  Ikke usannsynlig med en rekyl nå.",
+      "text": "16. sep. Innsidekjøp ja!  På disse kursnivåene går den kanskje inn i Finansavisen sin innsideportefølje? Så blir det FOMO og hallelujastemning?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         8,
+        4
+      ],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    },
+    {
+      "key": "fb95516684b07087",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": null,
+      "text": "16. sep. Ja, dette er vel 5 gang ila de siste 3 årene RSI er på disse lave nivåene. Kursen har steget de 4 foregående gangene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 74,
+      "char_count": 126,
       "has_link": false
     }
   ]

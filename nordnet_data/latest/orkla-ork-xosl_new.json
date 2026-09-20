@@ -1,9 +1,41 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-20T08:07:03.012194+00:00",
+  "scraped_at": "2026-09-20T13:22:50.839063+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c148b7a2b85a15bd",
+      "author": "LVs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lvs",
+      "posted_relative": null,
+      "text": "16. sep. Hva tenker dere om Orklas nye ledelse etter Hagens bortgang? Vil Hagens arvtakere klare å holde Orkla på rett kurs med tenkning på strategier og daglig drift?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 167,
+      "has_link": false
+    },
+    {
+      "key": "17a944036ca5d405",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "16. sep. bere elsker Harto og Linløkken sine TA",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

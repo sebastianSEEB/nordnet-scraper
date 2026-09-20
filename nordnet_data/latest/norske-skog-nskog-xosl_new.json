@@ -1,9 +1,26 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-20T08:05:39.926126+00:00",
+  "scraped_at": "2026-09-20T13:21:31.350733+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cf4905c9c86efcb1",
+      "author": "Eric1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eric1970",
+      "posted_relative": null,
+      "text": "16. sep. Må bare gjenta denne: Rart ikke Norske Skog har gått mye mer. Gassprisene er på årets høyeste som gir dem en stor konkurransefordel. I tillegg er strømprisene høye sånn at de tjener godt på videresalg av strøm. Dette blir et veldig bra kvartal. Og med tomme gasslagre og vannmagasin så må en vel anta at også de 3 neste kvartalene også blir bra?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 354,
+      "has_link": false
+    }
+  ]
 }

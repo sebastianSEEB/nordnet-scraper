@@ -1,9 +1,23 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-20T08:09:11.750547+00:00",
+  "scraped_at": "2026-09-20T13:25:05.741333+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9b2635970bc48435",
+      "author": "Kungensberg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kungensberg",
+      "posted_relative": "for 53 min siden",
+      "text": "Har søk på dette via ChatGPT. Varsler at prosessen er i gang. Positivt at produksjon til tunge kjøretøy videreføres. \"Ny detalj i Frankrike-restruktureringen: Lokal rapportering i dag, 20. september, opplyser at KOA planlegger å avvikle produksjonen av manuelle girspaker ved Cluses, mens aktiviteten knyttet til bremsesystemer for tunge kjøretøy skal videreføres. Forhandlingene om de 56 stillingene skal etter planen avsluttes innen utgangen av september. �\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 460,
+      "has_link": false
+    }
+  ]
 }

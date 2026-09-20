@@ -1,9 +1,41 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-09-20T08:01:12.070124+00:00",
+  "scraped_at": "2026-09-20T13:17:14.394406+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5e1f51a29fa61718",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 2 t siden",
+      "text": "https://borsen.dagbladet.no/nyheter/oljefrakt-i-taket-aldri-vaert-sa-dyrt/85176761 Helt syke tall, dette. 489 millioner kroner *ekstra* per båtlast med olje for en VLCC? Nesten en halv milliard kroner? Kan dette være riktig?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [
+        "https://borsen.dagbladet.no/nyheter/oljefrakt-i-taket-aldri-vaert-sa-dyrt/85176761"
+      ],
+      "char_count": 224,
+      "has_link": true
+    },
+    {
+      "key": "def7cbb09b6b2ca9",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "Oman har ikke egen ticker, men er 850-900K RV pr dag. Fro har en Oman subs på TI.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }
