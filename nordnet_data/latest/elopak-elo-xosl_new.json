@@ -1,9 +1,25 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-20T02:17:24.057257+00:00",
+  "scraped_at": "2026-09-20T08:04:47.180920+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5914b207ccc2933d",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": null,
+      "text": "16. sep. Tilbakekjøp unnagjort . Kan få en viss effekt ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-20T02:19:58.780990+00:00",
+  "scraped_at": "2026-09-20T08:07:06.685386+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "efb1e7792a8e32ae",
+      "author": "Kong__kurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kong__kurs",
+      "posted_relative": null,
+      "text": "16. sep. Snart sitti her i 5år så kan godt anbefale aksjen om du tenker å sitte lenge. Som nevnt her så kjøp mer hvis du kan om aksjen skulle få seg en \"knekk\"",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    }
+  ]
 }

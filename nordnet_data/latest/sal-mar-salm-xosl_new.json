@@ -1,9 +1,41 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-20T02:17:56.784118+00:00",
+  "scraped_at": "2026-09-20T08:05:14.176008+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "59fdc8cae25c8c9b",
+      "author": "vizzy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vizzy",
+      "posted_relative": null,
+      "text": "16. sep. det er vekst og ikke utbytte som er case for fisk.. Verdens behov for mat, og alternativ til kjøttproduksjon. Så vil det i være perioder med gode og dårlige tider.  Etter 1, 3 og 5 år har jo vært uten avkastning annen enn utbytte. Med mindre du går inn og ut av aksjen etter oppgang og nedgang vil du muligens finne bedre avkastning.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 342,
+      "has_link": false
+    },
+    {
+      "key": "3aff4e4f20e2c091",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "16. sep. Eksportprisen uke 37  var 70,18 kroner per kilo, ifølge Statistisk sentralbyrå. Opp 0,7%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

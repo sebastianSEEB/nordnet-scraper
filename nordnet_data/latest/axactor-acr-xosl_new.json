@@ -1,9 +1,26 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-20T02:20:55.845056+00:00",
+  "scraped_at": "2026-09-20T08:08:04.778914+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "100c7b70c1c09e7a",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": null,
+      "text": "16. sep. B2 har jo  blitt repriset og fullt verdsatt. Acr er vel neste selskap ut innen den bransjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    }
+  ]
 }

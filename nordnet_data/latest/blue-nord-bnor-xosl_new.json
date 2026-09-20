@@ -1,9 +1,40 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-20T02:15:10.002652+00:00",
+  "scraped_at": "2026-09-20T08:02:40.291690+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8c2078b8ce13ebf2",
+      "author": "KjekkenKjell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
+      "posted_relative": null,
+      "text": "16. sep. I dag kan vel faktisk treffe 610, noe som tilsvarer ATH for 2026. Ser vi flere lengre tilbake er ATH 709, men selv det er vel ikke umulig å slå hvis denne utviklingen i midt østen fortsetter. I løpet av uken kanskje? Hva tenker folk?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    },
+    {
+      "key": "57d29473d00d1f6e",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": null,
+      "text": "16. sep. · Noen som vet hva som skjer med avkastningsdataen man har når den blir konvertert til vår? Jeg har ca 16% avkastning, følger det bare med så jeg plutselig har 16% avkastning av vår ???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    }
+  ]
 }

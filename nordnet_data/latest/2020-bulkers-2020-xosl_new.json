@@ -1,9 +1,40 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-09-20T02:14:14.582213+00:00",
+  "scraped_at": "2026-09-20T08:01:47.522051+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1a4c5dea483945f4",
+      "author": "bubble",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bubble",
+      "posted_relative": "for 16 t siden",
+      "text": "https://www.listr.no/dypdykk/2020-bulkers Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.listr.no/dypdykk/2020-bulkers"
+      ],
+      "char_count": 61,
+      "has_link": true
+    },
+    {
+      "key": "0b146d303d3816b3",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Takk KS1977 Da regnet jeg feil med mine 4 kr Godt en ikke tok i dette Hva er lærdommen av emisjoner på Oslo børs siste 3 år Aksjene kommer ned på emisjons kurs 9 av 10 ganger Her har man god tid, det er plenty nok aksjer til alle mann",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 262,
+      "has_link": false
+    }
+  ]
 }

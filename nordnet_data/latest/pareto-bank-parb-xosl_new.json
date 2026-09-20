@@ -1,9 +1,41 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-20T02:20:44.412434+00:00",
+  "scraped_at": "2026-09-20T08:07:53.310663+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "071f4134f0c31daa",
+      "author": "Android",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
+      "posted_relative": null,
+      "text": "16. sep. Jeg matet kvartalsrapportene Q1 og Q2 til CoPilot, og hvis resten av året blir bedre enn Q2, anslår den rundt 2 kr i utbytte utbetalt i 2027. Slår det feil, er utbyttestimatet 0,90 kr.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 193,
+      "has_link": false
+    },
+    {
+      "key": "0e026e72abdef303",
+      "author": "sparenoob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sparenoob",
+      "posted_relative": null,
+      "text": "16. sep. Fyller på her med disse prisene , langsiktig på denne her",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }
