@@ -1,40 +1,9 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-09-20T13:22:09.325436+00:00",
+  "scraped_at": "2026-09-20T17:11:10.432089+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "6548feadd5b17fb5",
-      "author": "Salamandere",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salamandere",
-      "posted_relative": "for 8 min siden",
-      "text": "https://borsen.dagbladet.no/nyheter/oljefrakt-i-taket-aldri-vaert-sa-dyrt/85176761",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://borsen.dagbladet.no/nyheter/oljefrakt-i-taket-aldri-vaert-sa-dyrt/85176761"
-      ],
-      "char_count": 82,
-      "has_link": true
-    },
-    {
-      "key": "041d4389b74eacf6",
-      "author": "bahiom",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
-      "posted_relative": "for 3 t siden",
-      "text": "Hva tenker dere om kursen i morgen? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 55,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

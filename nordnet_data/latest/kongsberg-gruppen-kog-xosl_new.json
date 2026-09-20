@@ -1,9 +1,23 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-20T13:22:24.271081+00:00",
+  "scraped_at": "2026-09-20T17:11:26.617016+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e72f7cc1ffa550a1",
+      "author": "Bankmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bankmann",
+      "posted_relative": "for 26 min siden",
+      "text": "· Spent Sannsynligheten for en NATO-Russland-konflikt fortsetter å øke ettersom europeiske stater trapper opp forberedelsene til krig. EU har rådet innbyggere til å opprettholde 72 timers forsyninger av mat, vann og nødutstyr. Og nå bekrefter franske tjenestemenn at Frankrike allerede har svart militært på russiske hybridkrigføringsangrep.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 341,
+      "has_link": false
+    }
+  ]
 }

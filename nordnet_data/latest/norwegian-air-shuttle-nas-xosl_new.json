@@ -1,9 +1,23 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-09-20T13:18:45.569848+00:00",
+  "scraped_at": "2026-09-20T17:07:38.002063+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 12,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a95676304d3433ca",
+      "author": "Mirty42",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mirty42",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er avtalt handel mellom to parter, gjort på forhånd. Handelen må rapporteres inn fortløpende, og blir synlig i ettertid. I motsetning til automatiske handler som blir synlige umiddelbart. I og med at denne handelen har skjedd idet vi går inn i helgen, blir vel denne synlig på mandag. Hvis jeg har forstått dette riktig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 324,
+      "has_link": false
+    }
+  ]
 }

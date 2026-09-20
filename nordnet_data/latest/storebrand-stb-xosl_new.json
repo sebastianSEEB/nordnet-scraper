@@ -1,9 +1,39 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-20T13:22:55.842055+00:00",
+  "scraped_at": "2026-09-20T17:12:04.419536+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3cf448d776897202",
+      "author": "ChrisDpro",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisdpro",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· Seriøst spørsmål: Storebrand virker å være en populær ”sikker” langsiktig beholdning. Hva ser du som den største fordelen med å eie Storebrand sammenlignet med å bare ha den delen av porteføljen i et globalt indeksfond? Jeg prøver å forstå hva som gjør risiko/avkastning attraktivt nok til å velge Storebrand fremfor et indeksfond. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 353,
+      "has_link": false
+    },
+    {
+      "key": "2d4c68bb1dbd214f",
+      "author": "Adr00n",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/adr00n",
+      "posted_relative": "for 35 min siden",
+      "text": "Jeg eier storebrand aksjer av 2 grunner.  Jeg vil ha høyere eksponering av storebrand enn det et index fond har. Det er selskaper i  OBX indexen jeg ikke ønsker å eie.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 167,
+      "has_link": false
+    }
+  ]
 }

@@ -1,59 +1,22 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-20T13:17:18.862542+00:00",
+  "scraped_at": "2026-09-20T17:05:56.610317+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 3,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "10f2a5e3f3b1d715",
-      "author": "ks1977",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-      "posted_relative": "for 3 t siden",
-      "text": "Så da har vi kommet dit hen at det både synes å være manko på skip (1) og sprengt kapasitet for STS-transfers (2).  Ironisk nok så ser det ut til at mankoen for \"dansepartnere\" (som TankerTrackers kaller det) er skip FRA GoO og ikke shuttletrafikken (3) og (4) - med mindre ting har endret seg på 1 ukes tid (hvilket det fort kan gjøre i disse tider). Hvis dette stemmer så er vel løsningen da at noen av de shuttle-villige tar en komplett seilas slik som Nissos Kea (skjønt hun spratt ut av stredet kort tid etter at hun ble svartelistet så jeg har tolket det i den sammenheng, men får se om hun returnerer igjen) (1 ) https://gcaptain.com/world-running-short-of-supertankers-threatens-long-haul-oil-flow/ (2)https://www.tradewindsnews.com/tankers/pressure-grows-on-strait-of-hormuz-shuttle-trade-with-yanbu-pipeline-down/2-1-2045378 (3)https://x.com/TankerTrackers/status/2096031376487133584 (4)https://x.com/TankerTrackers/status/2099115235210625519",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://gcaptain.com/world-running-short-of-supertankers-threatens-long-haul-oil-flow/",
-        "https://www.tradewindsnews.com/tankers/pressure-grows-on-strait-of-hormuz-shuttle-trade-with-yanbu-pipeline-down/2-1-2045378",
-        "https://x.com/TankerTrackers/status/2096031376487133584",
-        "https://x.com/TankerTrackers/status/2099115235210625519"
-      ],
-      "char_count": 952,
-      "has_link": true
-    },
-    {
-      "key": "86e9c88778a50365",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 2 t siden",
-      "text": "https://x.com/JHannisdahl/status/2100285748322713658 Break even visstnok økt til rundt 60K. La OET ut BE i forrige rapporten ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://x.com/JHannisdahl/status/2100285748322713658"
-      ],
-      "char_count": 126,
-      "has_link": true
-    },
-    {
-      "key": "b807ce5161f805e8",
-      "author": "Kimkimkim",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim",
-      "posted_relative": "for 29 min siden",
-      "text": "Vansklig å si noe om det uten å vite hva han legger i det? Pris på fuel har jo gått i taket. Mange har jo også dyre nybygg nå med høy gjeld.",
+      "key": "b723e81c8208ac4e",
+      "author": "Rasmussn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rasmussn",
+      "posted_relative": "for 7 min siden · Endret",
+      "text": "· Okeanis opplyser dessverre ikke breakeven i rapportene. De opplyser kun OPEX (daily operating expenses), som lå på 9.936 usd/dag. De opplyser imidlertid senere i regnskapet \"total operating expenses\", som for Q2 lød på USD 79.798.652. Senere opplyses det at det var 1489 inntjeningsdager i kvartalet (inkl. ni off-hire dager) 79.898.652/1489 = 53.592 usd/dag. Obs! Jeg er litt ute av min vanlige komfortsone her, men har vanskelig for å se at det ikke bør være de reelle daglige kostnadene. Til sammenligning: INSW opplyser i Q2 spot-breakeven på USD 19.900/dag for deres råoljeflåte. Umiddelbart får jeg tallet til 14.265 usd/dag for DHT og Frontline opplyser sitt til 23.900 usd/dag for den kombinerte flåten. At de er bemerkelsesverdig lavere for INSW, DHT og FRO skyldes sannsynligvis rederienes andel av T/C-kontrakter, hvor charteren betaler bunkers - som uten tvil er den største driftskostnaden. DHT hadde i Q2 48% spot exposure, og derfor er deres break even naturligvis lavere.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 140,
+      "char_count": 989,
       "has_link": false
     }
   ]

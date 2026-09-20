@@ -1,9 +1,27 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-09-20T13:20:07.772286+00:00",
+  "scraped_at": "2026-09-20T17:09:01.300116+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5b57cce1b33aead4",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": null,
+      "text": "16. sep. Paretopodden: \"Sebastian Baartvedt gjestes av Cadeler CEO, Mikkel Gleerup, under Pareto Securities' Energikonferanse 2026.\" https://pca.st/gil1v8ad",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [
+        "https://pca.st/gil1v8ad"
+      ],
+      "char_count": 156,
+      "has_link": true
+    }
+  ]
 }

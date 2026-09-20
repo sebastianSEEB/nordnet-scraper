@@ -1,9 +1,23 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-09-20T13:23:46.223448+00:00",
+  "scraped_at": "2026-09-20T17:12:56.177626+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f1cd7a5c36a8e491",
+      "author": "mfas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mfas",
+      "posted_relative": null,
+      "text": "16. sep. Kan gå riktig galt, men selvsagt mest sannsynlig ikke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

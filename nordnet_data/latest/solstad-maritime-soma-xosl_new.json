@@ -1,27 +1,43 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-09-20T13:23:03.280762+00:00",
+  "scraped_at": "2026-09-20T17:12:12.116590+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6afe5c31a4c13ec9",
+      "key": "1358978a0ffac5f0",
       "author": "Metallian",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
       "posted_relative": null,
-      "text": "16. sep. https://osvnyheter.no/2020-bulkers-skaper-ahts-gigant-i-raid-til-5-milliarder",
+      "text": "16. sep. · https://open.spotify.com/episode/7cpjeudtSxU8LAUuomyxr1?si=PWEH55EATqi7pRrOFCKPuA&utm_source=copy-link",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        3,
+        1
       ],
       "links": [
-        "https://osvnyheter.no/2020-bulkers-skaper-ahts-gigant-i-raid-til-5-milliarder"
+        "https://open.spotify.com/episode/7cpjeudtSxU8LAUuomyxr1?si=PWEH55EATqi7pRrOFCKPuA&utm_source=copy-link"
       ],
-      "char_count": 86,
+      "char_count": 113,
       "has_link": true
+    },
+    {
+      "key": "2ac1220db9abea68",
+      "author": "Atlantis 42",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atlantis-42",
+      "posted_relative": null,
+      "text": "16. sep. Energikonferansen 2026: Solstad Offshore CEO, Lars Peder Solstad Paretopodden Paretopodden I dag • 15 min igjen -",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
     }
   ]
 }
