@@ -1,9 +1,38 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-20T19:59:56.881367+00:00",
+  "scraped_at": "2026-09-20T22:08:19.228711+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2f0ee0a62b05e75f",
+      "author": "AB1959",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ab1959",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hei, jeg er ganske ny her, så jeg kommer kanskje med et naivt spørsmål, men... Jeg kjøpte en liten mengde DNO aksjer til GAK 19,53, og nå koster de 19,62. Altså en fortjeneste på 9 øre per aksje. Aksjen har steget 1,24%, men jeg er nede med -0,02%, og har tapt en stusselig 1 krone på de 250 aksjene, men i norske er de oppe med 22 kr. Kanskje er jeg dum, men hva er forklaringen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 382,
+      "has_link": false
+    },
+    {
+      "key": "b616eebbc6356373",
+      "author": "kol_pol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kol_pol",
+      "posted_relative": "for 15 min siden",
+      "text": "Synes det er hyggelig at nordnet ikke \"skjuler\" kurtasjen og faktisk viser den på avkastningen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    }
+  ]
 }
