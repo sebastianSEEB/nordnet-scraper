@@ -1,9 +1,53 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-09-21T05:41:36.349676+00:00",
+  "scraped_at": "2026-09-21T11:25:55.803236+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "70d9fb24ad9e38ce",
+      "author": "Rentesrente",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rentesrente",
+      "posted_relative": "for 3 t siden",
+      "text": "Høyere bunner i kursen og i RSI.  Kurs >8EMA. Gode tegn, men trenger flere dagers bekreftelse og bør ha økning i volum.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "d8189dda7e70d9e6",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 3 t siden",
+      "text": "da håper vi at 72 var bunn, hva tenker dere ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "35108fac2225e351",
+      "author": "Snøballen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snballen",
+      "posted_relative": "for 3 t siden",
+      "text": "Fylte på ved 71.50. Bryter opp nå! :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

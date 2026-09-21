@@ -1,9 +1,23 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-21T05:45:37.843876+00:00",
+  "scraped_at": "2026-09-21T11:29:53.051891+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a8e3b2e7bfb079af",
+      "author": "sokapi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sokapi",
+      "posted_relative": "for 4 t siden",
+      "text": "· ??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

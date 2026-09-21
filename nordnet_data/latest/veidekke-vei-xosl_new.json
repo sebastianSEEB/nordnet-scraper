@@ -1,9 +1,23 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-09-21T05:41:20.550377+00:00",
+  "scraped_at": "2026-09-21T11:25:41.099838+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f7b124d13521eb24",
+      "author": "Chr69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chr69",
+      "posted_relative": "for 1 t siden",
+      "text": "Synd du ikke har samme målestokk på grafene på de 5 selskapene. Nå ser direkteavkastningen i BRG og MEDI like bra ut som de 3 andre.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    }
+  ]
 }

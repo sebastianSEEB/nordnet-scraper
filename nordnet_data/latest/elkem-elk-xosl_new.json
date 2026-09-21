@@ -1,9 +1,25 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-21T05:40:16.000252+00:00",
+  "scraped_at": "2026-09-21T11:24:40.300014+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "beba8bd348b2bf58",
+      "author": "kariusogbaktus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
+      "posted_relative": "for 4 t siden",
+      "text": "BØRS: DNB CARNEGIE TAR INN ELKEM I UKEPORTEFØLJE Oslo (Infront TDN Direkt): DNB Carnegie tar inn Elkem i sin ukeportefølje. Det fremgår av en oppdatering mandag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 161,
+      "has_link": false
+    }
+  ]
 }

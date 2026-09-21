@@ -1,9 +1,66 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-21T05:41:51.606251+00:00",
+  "scraped_at": "2026-09-21T11:26:11.168558+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "3336f450934edeae",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": "for 4 t siden",
+      "text": "Oslo (Infront TDN Direkt): Den stående laksebiomassen ved utgangen av august 2026 var 895.944 tonn, sammenlignet med 871.430 tonn samme måned året før, som gir en oppgang på 2,8 prosent på årsbasis. Det fremgår av statistikk fra Fiskeridirektoratet søndag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 256,
+      "has_link": false
+    },
+    {
+      "key": "c75efaf4bc638725",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": "for 4 t siden",
+      "text": "Ser ut til at noen skal ut for enhver pris her",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "594b1188b218633c",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": "for 3 t siden",
+      "text": "Oversolgt, rekyl i vente…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    },
+    {
+      "key": "d108a4a4477ecc05",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": "for 4 t siden",
+      "text": "Hva skjer her da?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

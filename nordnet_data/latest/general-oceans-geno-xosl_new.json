@@ -1,9 +1,87 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-21T05:44:52.072658+00:00",
+  "scraped_at": "2026-09-21T11:29:05.744797+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "10261f9a4b1078d2",
+      "author": "11111111",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/11111111",
+      "posted_relative": "for 2 t siden",
+      "text": "· Det er godt å se litt fremgang på aksjekursen, den har ligget altfor lavt. Vi bør gjerne komme over 20NOKK så det ser mer realistisk ut.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "862777f104ca73e6",
+      "author": "Astrup 2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/astrup-2",
+      "posted_relative": "for 3 døgn siden",
+      "text": "Kursutviklingen de siste to dager kan tyde på at Hausta er tom. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "57fa0fd7571fc256",
+      "author": "novak123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/novak123",
+      "posted_relative": "for 2 t siden",
+      "text": "Gratulerer til de som fikk kjøpt under 20 🫡",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "84e8c021a80a3da3",
+      "author": "El runos",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/el-runos",
+      "posted_relative": null,
+      "text": "17. sep. Kjører bussen? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        4
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "d0205573e13312b5",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": "for 3 t siden",
+      "text": "Vollen inn",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }

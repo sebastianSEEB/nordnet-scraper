@@ -1,9 +1,66 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-21T05:42:46.197765+00:00",
+  "scraped_at": "2026-09-21T11:27:04.665816+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "4b918aeb1ce6b652",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "17. sep. Leser i FA i dag at Borregaard har produkter som; (1) Spesialcellulose.  (2) Ligninbaserte biopolymerer. (3) Bioetanol. Mitt sps er da: Hvirdan ser markedet ut for hver av disse produktgruppene, opp/sidelengs/ned ? Prisene for hvert produkt, opp/sidelengs/ned ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 270,
+      "has_link": false
+    },
+    {
+      "key": "ed93eac98aa190da",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "17. sep. Bare i år er Borregaard ned ca. 26% - ytterligere ned ut året mon tro ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "8c063e443bba42c1",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "17. sep. Lite engasjement her inne..... Dårlig aksje/mistet troen av en eller annen grunn ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "c06b269e70e3fbf3",
+      "author": "Oldingen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oldingen",
+      "posted_relative": "for 1 t siden",
+      "text": "Utbyttet vil vel neppe stige når kursen faller over tid?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

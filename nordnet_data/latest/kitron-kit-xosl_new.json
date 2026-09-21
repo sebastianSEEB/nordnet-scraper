@@ -1,9 +1,77 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-21T05:39:44.818549+00:00",
+  "scraped_at": "2026-09-21T11:24:09.886844+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "487cb4330ba37764",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 15 min siden · Endret",
+      "text": "· short på 0,5%, ble overrasket med stigende kurs. Men hva skjedde på sluttauksjonen fredag, er usikkert. Ble det satt en til short? Den viser seg først i oversikten til Finanstilsynet om noen dager.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 199,
+      "has_link": false
+    },
+    {
+      "key": "6f27f09e18d9d6c3",
+      "author": "Flatøyy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flatyy",
+      "posted_relative": "for 2 t siden",
+      "text": "Etter nøye beregninger og noen minutter i mitt eget hode, er det trolig førstkommende fredag klokken 13.52",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "044dfaeefb96e922",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Tenker det er greit å ha litt kapital ledig, reiner med det blir litt svingninger denne uken.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "30b28fbcd8dfd845",
+      "author": "move",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/move",
+      "posted_relative": "for 2 t siden",
+      "text": "Kitron og Scatec har identisk kurs. Skal de samme vei???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "2e8a2611a019ebb9",
+      "author": "GabrielSv16",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabrielsv16",
+      "posted_relative": "for 4 t siden",
+      "text": "Når bikker den over 100 tallet her igjen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

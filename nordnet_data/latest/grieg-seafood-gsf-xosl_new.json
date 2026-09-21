@@ -1,9 +1,40 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-09-21T05:41:32.328088+00:00",
+  "scraped_at": "2026-09-21T11:25:52.135959+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "55bb0469a2af922d",
+      "author": "carrlo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
+      "posted_relative": "for 4 t siden",
+      "text": "Euronext opplyser at endringene i OBX-familien skulle gjennomføres etter børsslutt 18 sept, og gjelde fra mandag 21 sept. 1,12 millioner omsatte aksjer i fredagens auksjon kan ha sammenheng med indeksfond og nye indeksvekter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 225,
+      "has_link": false
+    },
+    {
+      "key": "4425d552fae702bf",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 1 t siden",
+      "text": "Bedre bånnfiske enn dette skal man lete en stund etter :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

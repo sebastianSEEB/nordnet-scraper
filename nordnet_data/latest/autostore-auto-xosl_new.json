@@ -1,9 +1,38 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-21T05:41:47.837790+00:00",
+  "scraped_at": "2026-09-21T11:26:07.405095+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5de166e0fe61f5e9",
+      "author": "Dryppertalgo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dryppertalgo",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvor lenge skal kursen vake rundt 15,50? En melding om nye kontrakter er vel det eneste som kan løse opp litt. Noen rykter?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "19d19fce7fb7ba3a",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 2 t siden",
+      "text": "De kommer jo nesten hver dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

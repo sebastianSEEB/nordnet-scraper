@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-21T05:45:50.169257+00:00",
+  "scraped_at": "2026-09-21T11:30:04.189207+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "880c481672577f23",
+      "author": "@Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": null,
+      "text": "Dessverre ingen inside-kjøp. :(",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

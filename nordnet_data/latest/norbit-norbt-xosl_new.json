@@ -1,9 +1,23 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-21T05:40:08.007296+00:00",
+  "scraped_at": "2026-09-21T11:24:32.751756+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c22c6d2ecbb3479a",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 2 t siden",
+      "text": "Nytt forsøk på etablering over 162 i dag?🤞📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

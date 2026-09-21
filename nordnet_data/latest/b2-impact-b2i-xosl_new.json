@@ -1,9 +1,54 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-21T05:40:31.466006+00:00",
+  "scraped_at": "2026-09-21T11:24:55.492779+00:00",
   "first_run": false,
-  "total_posts_on_page": 2,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 4,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a88d5dce80ad20c9",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 10 min siden",
+      "text": "Hva er det egentlig selgerene ikke ser? Det er dobbelt så mange kjøpere som selgere, ennå dumper de ned til dem?🤔",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "d658dda54d3cc487",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": "for 3 t siden",
+      "text": "Småsparerne er straks tomme for billig aksjer, så fortsetter turen opp🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "538d2fea8c74ea89",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 3 t siden",
+      "text": "Fredly kjøpt 72 000 aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-09-21T05:42:38.508287+00:00",
+  "scraped_at": "2026-09-21T11:26:56.921414+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "66ab8f0b9c7eee3d",
+      "author": "lissi1208",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lissi1208",
+      "posted_relative": null,
+      "text": "17. sep. \"Bjellesauen\" Petter Hermanrud, øker sin beholdning i KID fra 50k til 60k aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

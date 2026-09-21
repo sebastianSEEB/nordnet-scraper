@@ -1,9 +1,23 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-09-21T05:42:14.815289+00:00",
+  "scraped_at": "2026-09-21T11:26:34.398242+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "183e9e21ebae6dfd",
+      "author": "S4LM14K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/s4lm14k",
+      "posted_relative": "for 4 t siden",
+      "text": "Angrer på at jeg solgte, ser jo ganske bullish ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

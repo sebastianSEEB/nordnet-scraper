@@ -1,9 +1,40 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-09-21T05:38:34.959363+00:00",
+  "scraped_at": "2026-09-21T11:23:03.580320+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4cae3feeaabd3f8d",
+      "author": "iceteam",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iceteam",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva skyldes det at det var ca. 2,2 millioner aksjer omsatt i sluttauksjonen fredag og at kursen gikk fra ca. 28.30 og endte på 28.53 ? Var det short inndekking eller hva tror dere ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 201,
+      "has_link": false
+    },
+    {
+      "key": "fee7edd7420a3598",
+      "author": "Brura",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brura",
+      "posted_relative": "for 25 min siden",
+      "text": "Kanskje fordi det var siste frist for å få utbytte.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

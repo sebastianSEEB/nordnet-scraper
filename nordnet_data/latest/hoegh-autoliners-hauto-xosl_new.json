@@ -1,9 +1,41 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-09-21T05:38:38.808753+00:00",
+  "scraped_at": "2026-09-21T11:23:07.357931+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f059122c969f43f4",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": "for 3 t siden",
+      "text": "Utnyttelsen er over 100% i den forstand at de leier inn skip for å ta unna (den økte) ordre mengden.  Denne innleide kapasiteten økte i q2 og mye av dette er anleggs maskiner.   Nå viste volum en liten svakhet i siste måned som CEO forklarer med årlig svingning. Som vi også ser så holder ratene seg understøttet av økning i HH markedet ut av asia.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 348,
+      "has_link": false
+    },
+    {
+      "key": "a9efc1f7fd9b93f4",
+      "author": "Donrup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donrup",
+      "posted_relative": null,
+      "text": "17. sep. · De månedlige rapporterte fraktmengdene, hva tilsvarer de i utnyttelsesgrad? Er eksportkapasiteten fra Asia 100% utnyttet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    }
+  ]
 }
