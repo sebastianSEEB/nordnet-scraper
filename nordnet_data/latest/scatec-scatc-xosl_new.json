@@ -1,9 +1,56 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-21T13:21:28.587398+00:00",
+  "scraped_at": "2026-09-21T17:23:57.700864+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "7fd229a85f454d0c",
+      "author": "Shaqz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shaqz",
+      "posted_relative": null,
+      "text": "17. sep. Fin utvikling  i dag. Sterk reaksjon etter rentemøtet, og aksjen holdt seg godt gjennom dagen. Interessant å se om 100 nivået kan brytes de neste dagene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 162,
+      "has_link": false
+    },
+    {
+      "key": "644fdbf05602803f",
+      "author": "BlackSugar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacksugar",
+      "posted_relative": null,
+      "text": "17. sep. · vi skal vel forbi minst 108 før det blir skikkelig interessant !",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "632367c929465846",
+      "author": "pompingen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pompingen",
+      "posted_relative": null,
+      "text": "17. sep. Er klar for langmarsj oppover eg no😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

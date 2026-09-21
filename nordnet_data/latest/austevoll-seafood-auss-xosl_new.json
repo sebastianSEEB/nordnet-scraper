@@ -1,39 +1,25 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-21T13:22:24.203981+00:00",
+  "scraped_at": "2026-09-21T17:24:52.686963+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "8388a64e028b3eef",
+      "key": "bf3e1e5d7b8eb37f",
       "author": "Gamle ulv",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
-      "posted_relative": "for 1 t siden",
-      "text": "Jeg likte bedre å selge på 105 sist...Ikke lenge siden det...bør komme sterkt tilbake ved Q3",
+      "posted_relative": "for 6 min siden",
+      "text": "https://www.fiskeribladet.no/fiskeri/positiv-stemning-i-seinotflaten-ser-farlig-bra-ut/2-1-2046395",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 92,
-      "has_link": false
-    },
-    {
-      "key": "754f7f7837d49f53",
-      "author": "azza",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/azza",
-      "posted_relative": "for 1 t siden",
-      "text": "Kjøpte sist på 77, ut på 85. Kunne godt ha tenkt meg en reprise på det...? 😉",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
+      "links": [
+        "https://www.fiskeribladet.no/fiskeri/positiv-stemning-i-seinotflaten-ser-farlig-bra-ut/2-1-2046395"
       ],
-      "links": [],
-      "char_count": 76,
-      "has_link": false
+      "char_count": 98,
+      "has_link": true
     }
   ]
 }

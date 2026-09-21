@@ -1,22 +1,80 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-21T13:21:03.988082+00:00",
+  "scraped_at": "2026-09-21T17:23:34.526250+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "0d843380d6ca058f",
-      "author": "SpanskOliven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "key": "ba9dfd00b63e1faf",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
       "posted_relative": "for 1 t siden",
-      "text": "Fikk du som utbytte? Jeg fikk som tilbakebetaling",
-      "reply_count": 1,
+      "text": "· WorldQuant hilser og takker alle aksjonærer som hjelper til med å shorte prisen!",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 49,
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "75c7edf259c35823",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· men ikke for prisbevegelser, dessverre, slik det var da oljeprisen gikk opp :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "1f94a81fdf47588a",
+      "author": "tulostin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tulostin",
+      "posted_relative": "for 2 t siden",
+      "text": "· Bare liten nedgang. Sannsynligvis snart over 110$ igjen💰💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "1f4568b1584e50cc",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 3 t siden",
+      "text": "Oljeprisen er i fritt fall. Mulig vi ser 29,- snart ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "992657dfe4c8d80d",
+      "author": "Bullelull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bullelull",
+      "posted_relative": "for 3 t siden",
+      "text": "Aksjekursen er jo fullstendig frakoblet oljeprisen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 50,
       "has_link": false
     }
   ]

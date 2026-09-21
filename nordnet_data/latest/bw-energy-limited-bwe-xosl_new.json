@@ -1,9 +1,23 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-09-21T13:23:52.346427+00:00",
+  "scraped_at": "2026-09-21T17:26:23.118754+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "df8d7be7f3064e0e",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 3 t siden",
+      "text": "Lite rasjonell utvikling for å si det mildt 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

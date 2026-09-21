@@ -1,24 +1,35 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-09-21T13:20:41.175364+00:00",
+  "scraped_at": "2026-09-21T17:23:11.517384+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "cd8aa55257fbef0e",
-      "author": "Noor1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noor1",
-      "posted_relative": null,
-      "text": "17. sep. Hva skjer her da ?",
+      "key": "2cee96f03a49e812",
+      "author": "Zydenboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zydenboy",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva kan vi forvente oss av neste kvartalsrapport? Må vi ha et vesentlig bedre kvartal enn forrige for å forsvare dagens kurs?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 27,
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "0af9d52b3ad73728",
+      "author": "appelsinweb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/appelsinweb",
+      "posted_relative": null,
+      "text": "17. sep. Konduktøren tøffer videre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
       "has_link": false
     }
   ]

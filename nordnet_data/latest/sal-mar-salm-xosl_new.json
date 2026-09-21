@@ -1,22 +1,35 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-21T13:23:14.515579+00:00",
+  "scraped_at": "2026-09-21T17:25:38.869372+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 1,
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9ff3b856b6e8ce8d",
+      "key": "c6768fb7351192c2",
       "author": "TWOWS",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
-      "posted_relative": "for 50 min siden",
-      "text": "Ånei! Det er for mye fisk i merdene! Tilbudet går opp og kursen i dass. Oppdrettsnæringen tjener mindre med mye fisk altså? Hadde vært bedre med lite fisk i merdene og høyere pris, eller?",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Det er virkelig krise at oppdretterne har så mye fisk som vokser fort og trives. Utlandet kjøper fisk som aldri før. Virkelig helt krise med så mye fisk som naturligvis demper pristoppene.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 187,
+      "char_count": 188,
+      "has_link": false
+    },
+    {
+      "key": "84b3f75be09ec5c5",
+      "author": "Magic0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magic0",
+      "posted_relative": "for 3 t siden",
+      "text": "Går vi ned pga ILA som er påvist i Namsos/ Årnes?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
       "has_link": false
     }
   ]

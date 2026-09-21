@@ -1,9 +1,25 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-09-21T13:21:32.328051+00:00",
+  "scraped_at": "2026-09-21T17:24:03.642596+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "91f0282f93ce5854",
+      "author": "Herman Hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herman-hansen",
+      "posted_relative": "for 3 t siden",
+      "text": "ELK: Elkem receives additional EU ETS allowances for 2021-2025 period Dette var kanskje allerede priset inn, men dette gjør at Elkem får tilgode kvoter på rundt 1.3miliarder NOK :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 180,
+      "has_link": false
+    }
+  ]
 }

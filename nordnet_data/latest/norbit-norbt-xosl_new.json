@@ -1,22 +1,54 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-21T13:21:24.779728+00:00",
+  "scraped_at": "2026-09-21T17:23:53.778748+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "87d4276c012ba14d",
-      "author": "Aksjefanten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjefanten",
-      "posted_relative": "for 1 t siden",
-      "text": "Fortsatt lite volum, så her blir det nok vanskelig å etablere noe som helst før det kommer noen triggere med litt trøkk i 🤞🏼",
+      "key": "7e05a45741a02d12",
+      "author": "pengertilhenger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengertilhenger",
+      "posted_relative": "for 2 t siden",
+      "text": "Ny shortaktør har passert 0,5% grensa. Det er de som styrer handelen her for tiden, kombinert med alle nominee-kontoer som vises blant topp 20. De vil ha kursen lengst mulig ned, akkurat som vi aksjonærer vil ha den høyest mulig. Forstår ikke shortcase deres. Noen andre som gjør det?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 124,
+      "char_count": 284,
+      "has_link": false
+    },
+    {
+      "key": "7f266304ee1743be",
+      "author": "CapitalLogic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capitallogic",
+      "posted_relative": "for 15 min siden",
+      "text": "De dritungene av noen algoritmer hos Two Sigma og CFM så ganske enkelt en aksje som har gått «for mye» opp, matet tallene inn i en heslig modell, og trykket på short-knappen fordi P/E-en så litt stram ut på papiret.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "afe12d115061d908",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 3 t siden",
+      "text": "📈 📈📈 3 top kjøp signal ved 163-164",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 34,
       "has_link": false
     }
   ]

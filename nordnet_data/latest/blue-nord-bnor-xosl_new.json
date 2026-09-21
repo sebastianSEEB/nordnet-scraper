@@ -1,24 +1,96 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-21T13:20:37.395964+00:00",
+  "scraped_at": "2026-09-21T17:23:07.798569+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "206df06dfc16ead7",
-      "author": "andybreak",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andybreak",
+      "key": "e18b1de7ab2db184",
+      "author": "Alamo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo",
+      "posted_relative": null,
+      "text": "17. sep. BlueNord handles jo på 99% av oppkjøpskurs. selv om BlueNord ikke skal betale utbytte, så skal de jo kompenseres for utbytte f.o.m. Q3? Betyr ikke det at man i teorien allerede har rett på 13,2 kr per aksje i utbyttekompensasjon? I tilfelle verdesettes jo BN til 97% av ekte kurs (basert på Vår Energi sin kurs).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        6
+      ],
+      "links": [],
+      "char_count": 321,
+      "has_link": false
+    },
+    {
+      "key": "1dc7cde7363d4306",
+      "author": "Dalle67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dalle67",
       "posted_relative": "for 1 t siden",
-      "text": "Du får q3 utbytte fra vår selv om du blir værende i bluenord. Det blir tilgodesett i tillegg til kontantbeløpet ved fusjon.",
+      "text": "· Kommer bnor aksjene man har til å bli til vår aksjer og når skjer det og hvor mange vår aksjer får man for 1 bnor aksje",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    },
+    {
+      "key": "e7ee3589ca63ad4d",
+      "author": "peezy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peezy",
+      "posted_relative": null,
+      "text": "17. sep. Har ikke kommet noen eksakt dato på dette sånn jeg har forstått det",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 123,
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "1fcb988386d0c0ed",
+      "author": "Dalle67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dalle67",
+      "posted_relative": "for 1 t siden",
+      "text": "· Vet dere hvor stor dividendeutdeling bnor deler ut for 3Q?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "d1d719dcfe642693",
+      "author": "jacksporrow",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jacksporrow",
+      "posted_relative": "for 3 t siden",
+      "text": "Så her det bare å fylle på enn så lenge",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "0777d8bedd19fbfe",
+      "author": "Tuner71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tuner71",
+      "posted_relative": "for 1 t siden",
+      "text": "Null kr!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 8,
       "has_link": false
     }
   ]

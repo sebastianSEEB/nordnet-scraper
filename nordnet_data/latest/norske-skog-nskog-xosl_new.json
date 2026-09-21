@@ -1,24 +1,40 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-21T13:23:41.026594+00:00",
+  "scraped_at": "2026-09-21T17:26:11.809128+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "0eb5effe6d05c8b1",
-      "author": "aspeløv",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "den har jeg hatt i skuffen i mer enn seks år, og der skal den forbli plamlegger å selge noe på 80, blir det i år?",
+      "key": "17882d5af0eb93af",
+      "author": "birder72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
+      "posted_relative": "for 2 t siden",
+      "text": "Svinger over kr 7 intraday som er ganske vilt. Test av 50 i stedet for 60. Spent på de kommende dagene og om det blir synlig hvem som har handlet.  Mye robot handel så går fort både opp og ned. Personlig ønsker jeg restriksjoner mot robothandel (og annen handel).  En ordre må ligge minst 5sekund før den fjernes.  Få all short synlig på lik linje som aksjonærlistene.  Kreve juridisk eier skal være synlig av aksjene de eier på Oslo børs og ikke bak nominee kontoer.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 113,
+      "char_count": 467,
+      "has_link": false
+    },
+    {
+      "key": "401b891ecca1377f",
+      "author": "Oyst3in",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oyst3in",
+      "posted_relative": "for 3 t siden",
+      "text": "Er det Pareto sin analyse som skaper fallet i dag? Har Pareto mistet all troverdighet i denne aksjen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 101,
       "has_link": false
     }
   ]

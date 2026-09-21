@@ -1,9 +1,38 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-21T13:25:02.807711+00:00",
+  "scraped_at": "2026-09-21T17:27:37.835222+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b0f66754166db60a",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 14 min siden",
+      "text": "Kan være de klarer å ta 1 prosent eller 2 av markedet, men de er for sent ute. Nordnet har alt bygget ferdig en fantastisk platform og kundene strømmer til.  *Det er ikke et marked som er ‘’up for grabs’’.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 205,
+      "has_link": false
+    },
+    {
+      "key": "6018849ed6d0614e",
+      "author": "Sarkas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sarkas",
+      "posted_relative": null,
+      "text": "17. sep. Langsiktig. Har selv sittet på denne aksjen i over ti år. Kun akkumulert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }

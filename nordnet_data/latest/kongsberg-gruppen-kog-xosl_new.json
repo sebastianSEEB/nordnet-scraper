@@ -1,37 +1,85 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-21T13:24:31.893094+00:00",
+  "scraped_at": "2026-09-21T17:27:06.720361+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "5d1246ec47418c46",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 29 min siden",
-      "text": "Finnes ikke bunner og topper . KOG er en no brainer. Long",
+      "key": "9d7eed71675f2f8b",
+      "author": "Mahabad1945",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mahabad1945",
+      "posted_relative": "for 3 t siden",
+      "text": "Tidligere Kongsberg-sjef: Selger aksjer for millioner https://e24.no/boers-og-finans/i/Arar6x/tidligere-kongsberg-sjef-selger-aksjer-fortsatt-veldig-troen Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 57,
-      "has_link": false
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/Arar6x/tidligere-kongsberg-sjef-selger-aksjer-fortsatt-veldig-troen"
+      ],
+      "char_count": 174,
+      "has_link": true
     },
     {
-      "key": "3bca0edd377251a4",
-      "author": "Su-Per",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/su-per",
-      "posted_relative": "for 1 t siden",
-      "text": "Ja, og det genererer dinarer inn på min portefølje! 🪴💶",
+      "key": "5101ca302c5f5a14",
+      "author": "Porteføljebyggeren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/portefljebyggeren",
+      "posted_relative": "for 58 min siden",
+      "text": "Interessant diskusjon her, ALLTI! 🙂 Jeg synes det er verdt å skille mellom den kortsiktige kursutviklingen og de fundamentale forholdene i Kongsberg Gruppen. Teknisk har området 335-340 kroner vist seg å være en viktig motstand flere ganger. Et etablert brudd over dette nivået, gjerne med økende handelsvolum, vil kunne styrke momentumet og åpne for en test av 345-350 kroner. Samtidig er det viktig å huske at høyere bunner alene ikke bekrefter et trendbrudd, og at en ny avvisning ved motstanden kan føre til ytterligere konsolidering. Fundamentalt er utviklingen fortsatt interessant. I Q2 økte omsetningen med 31 %, driftsresultatet med 49 %, og ordrereserven nådde hele 157,5 milliarder kroner. Dette gir god synlighet i fremtidige inntekter, selv om marginutvikling og gjennomføring av den planlagte kapasitetsøkningen fortsatt blir viktige faktorer å følge. Jeg følger derfor både kursutviklingen rundt 340 kroner og selskapets videre inntjening. Neste kvartalsrapport den 29 oktober blir også interessant. På lang sikt mener jeg utviklingen i ordreinngang, lønnsomhet og kontantstrøm er viktigere enn om aksjen bryter 345 eller 350 kroner akkurat nå 🙂📈",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 54,
+      "char_count": 1161,
+      "has_link": false
+    },
+    {
+      "key": "b304553b77110812",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden",
+      "text": "Robot styrt tulle kurs. Vil se helt andre kurser fremover når retail igjen må kjøpe forsvars aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "51ed15e68795d9b8",
+      "author": "Jackpac",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpac",
+      "posted_relative": "for 3 t siden",
+      "text": "KOG vil levere historiske tall i 2026 sikker vinner",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "6d87636a6531e62a",
+      "author": "Makchish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/makchish",
+      "posted_relative": "for 2 t siden",
+      "text": "Han solgt mikrodel av sine aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
       "has_link": false
     }
   ]
