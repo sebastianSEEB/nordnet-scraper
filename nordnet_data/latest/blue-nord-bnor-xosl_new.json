@@ -1,54 +1,24 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-21T11:23:45.499365+00:00",
+  "scraped_at": "2026-09-21T13:20:37.395964+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "9804b5e6958a2c5f",
-      "author": "HakonaMatata32",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hakonamatata32",
+      "key": "206df06dfc16ead7",
+      "author": "andybreak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andybreak",
       "posted_relative": "for 1 t siden",
-      "text": "Tenker å selge nå og helger kjøpe vår for å bli med på det neste utbyttet deres som blir i november. Hva tenker dere?",
+      "text": "Du får q3 utbytte fra vår selv om du blir værende i bluenord. Det blir tilgodesett i tillegg til kontantbeløpet ved fusjon.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 117,
-      "has_link": false
-    },
-    {
-      "key": "dd07e738bcdc5771",
-      "author": "JarzaStock",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jarzastock",
-      "posted_relative": null,
-      "text": "17. sep. · Hei, noen vet kanskje, når vi får nye Vår-aksjer og ekstra penger ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 78,
-      "has_link": false
-    },
-    {
-      "key": "885eacf9bf2efc66",
-      "author": "Harikkepeiling2021",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harikkepeiling2021",
-      "posted_relative": null,
-      "text": "17. sep. Aldri..",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 16,
+      "char_count": 123,
       "has_link": false
     }
   ]

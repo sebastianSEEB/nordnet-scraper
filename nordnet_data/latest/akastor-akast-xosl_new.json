@@ -1,9 +1,42 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-21T11:27:00.978852+00:00",
+  "scraped_at": "2026-09-21T13:24:05.149950+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "55d732ea11c095d3",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": null,
+      "text": "17. sep. https://newsweb.oslobors.no/message/682446",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/682446"
+      ],
+      "char_count": 51,
+      "has_link": true
+    },
+    {
+      "key": "9c6f3423296bfb85",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": null,
+      "text": "17. sep. Var den som ble solgt for 25mill USD i fjor og så kansellert",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

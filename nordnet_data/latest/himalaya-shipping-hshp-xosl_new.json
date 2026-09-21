@@ -1,9 +1,38 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-09-21T11:22:55.946206+00:00",
+  "scraped_at": "2026-09-21T13:19:40.868728+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "059795eb7c0aad94",
+      "author": "alph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alph",
+      "posted_relative": null,
+      "text": "17. sep. En liten oppgang i dag. 17 Sept BCI 47,793 +396 MTD 50,495 YTD 32,890 2026 FFA 46,000 2027 FFA 34,000 $HSHP",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "755fc72e161135f5",
+      "author": "alph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alph",
+      "posted_relative": "for 46 min siden",
+      "text": "· 21 Sept BCI 49,450 +638 MTD 50,313 YTD 33,068 2026 FFA 47,000 2027 FFA 34,000 $HSHP",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

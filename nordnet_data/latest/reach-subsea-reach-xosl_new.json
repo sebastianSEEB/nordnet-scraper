@@ -1,72 +1,25 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-09-21T11:29:49.366694+00:00",
+  "scraped_at": "2026-09-21T13:26:48.024194+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "327a906a619673bb",
-      "author": "h3nk1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
+      "key": "8ec4c4c3c80eb48a",
+      "author": "Arthurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arthurs",
       "posted_relative": null,
-      "text": "17. sep. · Endret Anbefaler å ta en kikk på presentasjonen de holdt i går. Vanskelig å ikke være bull REMOTE med den pitchen. https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442",
+      "text": "17. sep. Gledelig å se at det er smått med selgere på nåværende kursnivå! Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
-      ],
-      "links": [
-        "https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442"
-      ],
-      "char_count": 217,
-      "has_link": true
-    },
-    {
-      "key": "95ff3ba8e1adb1dc",
-      "author": "h3nk1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
-      "posted_relative": null,
-      "text": "17. sep. Nei. Her er for øvrig siste info: https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://api3.oslo.oslobors.no/v1/newsreader/attachment?messageId=682507&attachmentId=333442"
-      ],
-      "char_count": 134,
-      "has_link": true
-    },
-    {
-      "key": "7b8219c681a7cb79",
-      "author": "stratix",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
-      "posted_relative": null,
-      "text": "17. sep. · Endret Jeg tenkte meg at Reach Subsea ville være å se på Pareto konferansen. Jeg tror også presentasjonen de hadde der vil trigge økt interesse for selskapet 👍 Har sett litt på Reach Remote og evt utskillelse av disse i eget selskap som da inkluderer rovene. En sannsynlig verdsettelse vil ligge på 1,2 -1,7 mrd når alle er i drift. En pen verdiøkning i forhold til dagens mc. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
+        1,
         2
       ],
       "links": [],
-      "char_count": 407,
-      "has_link": false
-    },
-    {
-      "key": "d8fac35a2b46c77d",
-      "author": "Tekjo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tekjo",
-      "posted_relative": null,
-      "text": "17. sep. Er det bestemt hva slags løsning det blir på utskillelsen av remote nå?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 80,
+      "char_count": 93,
       "has_link": false
     }
   ]

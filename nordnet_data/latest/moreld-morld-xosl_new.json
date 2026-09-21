@@ -1,39 +1,39 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-21T11:25:48.463871+00:00",
+  "scraped_at": "2026-09-21T13:22:46.658045+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "5c989feb510da584",
-      "author": "SpanskOliven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "key": "811e2ebf56fe1fed",
+      "author": "realize_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/realize_1",
       "posted_relative": null,
-      "text": "17. sep. Ser ikke ut som konferansen har påvirket kursen mye. Satser på gode nyheter igjen snart👍",
+      "text": "17. sep. · https://cdn.prod.website-files.com/66e18d9e069377c52f0d6217/6aaba28c8698430f7cc7a5a9_Moreld%20-%20Pareto%20Conference%202026.pdf",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        3
       ],
-      "links": [],
-      "char_count": 97,
-      "has_link": false
+      "links": [
+        "https://cdn.prod.website-files.com/66e18d9e069377c52f0d6217/6aaba28c8698430f7cc7a5a9_Moreld%20-%20Pareto%20Conference%202026.pdf"
+      ],
+      "char_count": 139,
+      "has_link": true
     },
     {
-      "key": "a54df0cc319bb47d",
-      "author": "Enghaug",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enghaug",
-      "posted_relative": "for 2 t siden",
-      "text": "Fin dag! Kan vi bryte 25 i dag??",
+      "key": "3daec5033c939ab9",
+      "author": "SpanskOliven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "posted_relative": "for 1 t siden",
+      "text": "Tror ikke det",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 32,
+      "char_count": 13,
       "has_link": false
     }
   ]
