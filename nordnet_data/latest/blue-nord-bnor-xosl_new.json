@@ -1,9 +1,25 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-21T00:39:18.846374+00:00",
+  "scraped_at": "2026-09-21T05:39:18.293848+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f3a8d77927bec84a",
+      "author": "hjulgransskakning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hjulgransskakning",
+      "posted_relative": null,
+      "text": "17. sep. · Det er vel klart at det ikke gjør. Din avkastning vil vises på porteføljenivå. Hvis du har kjøpt BN for 1000 og ligger +16%, har du 1160. Når du bytter, gjør du Vår for 1160 og +/-0%.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    }
+  ]
 }

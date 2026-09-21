@@ -1,9 +1,41 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-21T00:43:25.763920+00:00",
+  "scraped_at": "2026-09-21T05:43:32.733635+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f7b96f3d865e738c",
+      "author": "cozmos",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cozmos",
+      "posted_relative": "for 31 min siden",
+      "text": "I begynnelsen av krigen var det ikke SÅ lett å se manipulasjonen som foregikk. Nå begynner det bare å bli kvalmt! Om man følger litt med i mediebildet, så ser man at vi aldri har vært nærmere en tredje verdenskrig. Ordene fra én dement, pedo, veier tyngre enn all fakta i hele verden. Hjelp!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 291,
+      "has_link": false
+    },
+    {
+      "key": "dbd91c7d81303d90",
+      "author": "Fasadeendring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fasadeendring",
+      "posted_relative": "for 1 t siden",
+      "text": "Med tanke på hendelsene i Moskva og Saudi så er det fascinerende at brent olje prisen går ned. Iran sine betingelser har ikke forandret seg heller. Får se hva uken bringer, og hva Trump finner på i denne omgang..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 212,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-21T00:41:37.874166+00:00",
+  "scraped_at": "2026-09-21T05:41:43.980664+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0cb8a9486da1baeb",
+      "author": "pihkeine",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pihkeine",
+      "posted_relative": "for 9 min siden",
+      "text": "· Det er også valutasvingningene, hvis NOK går ned, vises det direkte i fortjenesten i din valuta.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ]
 }

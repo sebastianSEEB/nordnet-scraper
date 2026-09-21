@@ -1,9 +1,23 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-21T00:42:11.478142+00:00",
+  "scraped_at": "2026-09-21T05:42:18.663091+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5874e77f0749ebce",
+      "author": "birder72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Pareto oppjusterer kursmålet til kr 70.  Pareto har i dag oppjustert sin kjøpsanbefaling på NS med kursmål  økt fra kr 65 til kr 70.  Noen som har tilgang på analysen og vil dele årsaken til oppjusteringen? Jeg tenker det er økte priser på gass og NS forventer effekt av høyere priser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 313,
+      "has_link": false
+    }
+  ]
 }
