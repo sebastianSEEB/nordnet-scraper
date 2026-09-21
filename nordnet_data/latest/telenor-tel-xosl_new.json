@@ -1,9 +1,38 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-09-21T17:27:15.026779+00:00",
+  "scraped_at": "2026-09-21T21:27:56.948483+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d7e49be4b6c735d2",
+      "author": "Alfonso Gabrielle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alfonso-gabrielle",
+      "posted_relative": "for 3 t siden",
+      "text": "Telenor fornekter seg ikke. Skjønner ikke hvordan folk aksepterer å sitte i en slik taper år etter år. Er det Stockholm-syndrom?  Kvitt dere med dritten og se mot USA er mitt råd til alle disse ruinerte og fortvilte sjelene som har fått sine liv ødelagt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 253,
+      "has_link": false
+    },
+    {
+      "key": "a9295e12fbc2adcf",
+      "author": "jwoolfire",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jwoolfire",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hva da? Hva har kommet frem? Eller er du mest sur for at den ikke går opp som en rakett? Jeg finner ingen negativ nyhet fra i dag, så hva går jeg glipp av?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 157,
+      "has_link": false
+    }
+  ]
 }

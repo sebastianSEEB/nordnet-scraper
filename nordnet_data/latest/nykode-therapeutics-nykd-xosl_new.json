@@ -1,37 +1,65 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-09-21T17:26:54.948185+00:00",
+  "scraped_at": "2026-09-21T21:27:37.042549+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "42d8314bba9b9efe",
-      "author": "Avro nil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
-      "posted_relative": "for 9 t siden",
-      "text": "· Amerikanske aksjer går opp. Norske aksje går ned. Hvor absurd Norske aksje. Vis 1 kommentar til",
+      "key": "7fd35fcffc96a63d",
+      "author": "mr.parker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrparker-1",
+      "posted_relative": "for 2 t siden",
+      "text": "· Har nettopp lest the unicorn project, i den refereres crossing the chasm av Geoffrey A. Moore, som sier at innen bioteknologi kan den første på markedet for en bestemt terapitype forvente å få 50% av markedsandelen, den andre på markedet vil få rundt 25% den tredje enda mindre og alle andre kan ha kastet bort pengene sine på forskning og utvikling. Dette er første gang jeg har kommet over dette, er det noe sannhet i dette?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 97,
+      "char_count": 428,
       "has_link": false
     },
     {
-      "key": "f7d8c4305f066b66",
-      "author": "Avro nil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
-      "posted_relative": "for 1 t siden",
-      "text": "· Men nykode faller.",
+      "key": "6c8e51e2b275f799",
+      "author": "DonnieB.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donnieb-1",
+      "posted_relative": "for 2 t siden",
+      "text": "Ser ut som analysene Nordnet deler ikke er så mye verdt. Litt tilfeldig hvem sine analyser som får være med. Ta eksempel NYKD og TRMED. Der er et par til som dekker NYKD, men bare en vises og en av dem som ikke er med er tatt med i TRMED🧐",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 238,
+      "has_link": false
+    },
+    {
+      "key": "550252af40fb3acc",
+      "author": "mr.parker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrparker-1",
+      "posted_relative": "for 52 min siden",
+      "text": "· Glem det. Googlet det, det er en ekte ting, gjelder muligens ikke så mye for nykode i streng forstand. Fint å lære noe nytt 🙂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 20,
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "f1b4228ff78cb6eb",
+      "author": "pweer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pweer",
+      "posted_relative": "for 3 t siden",
+      "text": "· latterlig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 11,
       "has_link": false
     }
   ]

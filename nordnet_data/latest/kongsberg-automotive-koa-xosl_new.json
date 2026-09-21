@@ -1,9 +1,26 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-21T17:29:40.802737+00:00",
+  "scraped_at": "2026-09-21T21:30:45.452182+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8d0842b6d44d0537",
+      "author": "Sheriff1978",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sheriff1978",
+      "posted_relative": null,
+      "text": "17. sep. Jøss, omsetning på nesten 7 MNOK? Det er en stund siden…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

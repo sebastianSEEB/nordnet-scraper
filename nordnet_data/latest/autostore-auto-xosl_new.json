@@ -1,9 +1,38 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-21T17:25:35.194486+00:00",
+  "scraped_at": "2026-09-21T21:26:13.659454+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "73c7d7081c001659",
+      "author": "egil7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egil7",
+      "posted_relative": "for 3 t siden",
+      "text": "AutoStore fortsetter tilbakekjøpene. De har kjøpt 2,77 mill. aksjer for ca. 42,1 mill. kr den siste uken. Totalt er det nå kjøpt tilbake 13,76 mill. aksjer for ca. 219 mill. kr, til en snittkurs på 15,92 kr. Blir interessant å se hvor mye av programmet på 75 mill. USD som faktisk blir gjennomført. Isolert sett positivt, og tilbakekjøpene går i et bra tempo.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 359,
+      "has_link": false
+    },
+    {
+      "key": "13f9f7b3dd411303",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 58 min siden",
+      "text": "Det er litt lett å misforstå. AutoStore er teknologileverandøren, mens det ofte er integrasjonspartneren som signerer avtalen med kunden. Derfor er ikke alle kundekontrakter noe AutoStore selv børsmelder.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    }
+  ]
 }

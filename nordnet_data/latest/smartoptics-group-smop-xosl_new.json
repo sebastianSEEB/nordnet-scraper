@@ -1,26 +1,27 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-09-21T17:28:31.992349+00:00",
+  "scraped_at": "2026-09-21T21:29:35.097454+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "ad59dd48c66bfd30",
-      "author": "AlloNo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allono",
+      "key": "e35cf36ed1789361",
+      "author": "HeldigFyr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heldigfyr",
       "posted_relative": null,
-      "text": "17. sep. Børsmelding på vei? 8% opp på ingenting er vel i overkant ?",
+      "text": "17. sep. · Endret Det kan blr en bra dag imorgen https://www.finansavisen.no/finans/2026/09/17/8381346/wall-street-stiger-bred-oppgang-blant-tech-aksjene",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        2
+        1
       ],
-      "links": [],
-      "char_count": 68,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/17/8381346/wall-street-stiger-bred-oppgang-blant-tech-aksjene"
+      ],
+      "char_count": 153,
+      "has_link": true
     }
   ]
 }

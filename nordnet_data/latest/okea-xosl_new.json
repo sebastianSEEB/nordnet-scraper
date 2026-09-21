@@ -1,9 +1,39 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-21T17:26:04.209987+00:00",
+  "scraped_at": "2026-09-21T21:26:41.308763+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "dc34ed1a7c14fb88",
+      "author": "arctic_fulmar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arctic_fulmar",
+      "posted_relative": "for 1 t siden",
+      "text": "DNO løftet også utbyttet samtidig som de kjøpte opp sval energi til ikke langt mindre en equity de selv hadde den gangen. Så lenge cash flow er sikret går det alt an.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 166,
+      "has_link": false
+    },
+    {
+      "key": "8cbcf295e2a4f9ab",
+      "author": "Horsebear",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/horsebear",
+      "posted_relative": "for 12 t siden",
+      "text": "Er vel et farvel til utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        9
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

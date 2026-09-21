@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-21T17:25:08.379774+00:00",
+  "scraped_at": "2026-09-21T21:25:50.535677+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4512849cfac35f67",
+      "author": "GabW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen som vet hva som skjedde mars 2026?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }
