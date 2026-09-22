@@ -1,9 +1,39 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-22T10:39:07.411925+00:00",
+  "scraped_at": "2026-09-22T12:09:38.296844+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "942aaf8e54568327",
+      "author": "novak123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/novak123",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Gratulerer til de som fikk kjøpt under 20 🫡 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        2
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "eeb86276cad6ea35",
+      "author": "Gellenen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gellenen",
+      "posted_relative": "for 48 min siden",
+      "text": "Altfor billig, kom dere inn folkens",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

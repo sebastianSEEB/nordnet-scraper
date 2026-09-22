@@ -1,9 +1,42 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-09-22T10:36:03.275366+00:00",
+  "scraped_at": "2026-09-22T12:06:34.037039+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d03b7e474734d6b2",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": null,
+      "text": "18. sep. Så kommer småsparerne inn etter å ha lest DN sin opphausende artikkel, en oppgang hvor de store gutta (kanskje og de som betalte DN for å poste artikkelen) selger seg ut med rask og god gevinst. Aksjemarkedets tendenser skjer om og om igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        13
+      ],
+      "links": [],
+      "char_count": 250,
+      "has_link": false
+    },
+    {
+      "key": "852753d5262d66c2",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": null,
+      "text": "18. sep. · 🤔📈?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        6
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

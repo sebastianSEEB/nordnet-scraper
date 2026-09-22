@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-09-22T10:32:27.113565+00:00",
+  "scraped_at": "2026-09-22T12:02:57.853569+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d0dd0f38cce0321e",
+      "author": "Ronny78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronny78",
+      "posted_relative": null,
+      "text": "18. sep. Virker som det går andre veien mot 170 nivået.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }
