@@ -1,38 +1,71 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-22T19:24:56.042726+00:00",
+  "scraped_at": "2026-09-22T22:33:04.762319+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "d1ddeb566a469ec9",
-      "author": "iHHelg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ihhelg",
-      "posted_relative": "for 4 t siden",
-      "text": "Brukte dagen til å øke med 20%.. Blir fin denne!",
+      "key": "865b7765cc993fc5",
+      "author": "Mirty42",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mirty42",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://newsweb.oslobors.no/message/682875",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9,
+        1
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/682875"
+      ],
+      "char_count": 44,
+      "has_link": true
+    },
+    {
+      "key": "554191358df3cfe3",
+      "author": "jmhaland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jmhaland",
+      "posted_relative": "for 45 min siden",
+      "text": "EGM godkjente i dag USD 25m i kontantutdeling, tilsvarende USD 0,0342 / ca. NOK 0,32 per aksje. Ex-dato 9.11 | Record date 10.11 | Betaling ca. 13.11.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         9
       ],
       "links": [],
-      "char_count": 48,
+      "char_count": 150,
       "has_link": false
     },
     {
-      "key": "fefd46226f899f22",
-      "author": "WolfofFrogner",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wolfoffrogner",
-      "posted_relative": "for 4 min siden",
-      "text": "Økte med 50% forrige uke🥴",
+      "key": "fe661c73ffe68ab6",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": "for 3 t siden",
+      "text": "Hei, jeg kan ikke finne noe info om  ekstraordinær generalforsamling, har sett på hjemmesiden til SED. Noe som har input?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 25,
+      "char_count": 121,
+      "has_link": false
+    },
+    {
+      "key": "df9cce9012a1b28c",
+      "author": "Hike",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hike",
+      "posted_relative": "for 3 t siden",
+      "text": "Økte med mer enn 100%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
       "has_link": false
     }
   ]
