@@ -1,9 +1,36 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-22T00:26:39.090772+00:00",
+  "scraped_at": "2026-09-22T05:38:56.346172+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d734e0dcd70c59bf",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 25 min siden",
+      "text": "Shipping går så det suser, men har utdatert materiell. KMAR går en fin fremtid i møte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "0df8b04c0ef0f10e",
+      "author": "CashD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cashd",
+      "posted_relative": "for 1 t siden",
+      "text": "Kommer det en liten korreksjon her tro? :O",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

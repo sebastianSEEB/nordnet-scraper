@@ -1,9 +1,40 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-22T00:27:53.673483+00:00",
+  "scraped_at": "2026-09-22T05:40:04.830978+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a0bbd818c3d5b8f4",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 1 t siden",
+      "text": "Blitt positiv til DnB i det siste, de spammer meg med ads og har det billigste boliglånet for unge om dagen. De knuste konkurrentene på rente når jeg sjekket sist. Virker som at de er aggressive. Hvis de klarer å kapre flere unge boligkjøpere og få bort det gamle (stor og dyr) stempelet så har jeg troa.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 304,
+      "has_link": false
+    },
+    {
+      "key": "c82a9328a4dbded4",
+      "author": "Venn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
+      "posted_relative": "for 22 t siden",
+      "text": "BNP Paribas gjenopptar dekning av DNB med outperform og et kursmål på 390 kroner pr aksje. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        390,
+        20,
+        3
+      ],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }

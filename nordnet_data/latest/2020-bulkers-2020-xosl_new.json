@@ -1,9 +1,25 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-09-22T00:22:37.093661+00:00",
+  "scraped_at": "2026-09-22T05:35:17.740975+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "927d8104099c1591",
+      "author": "-Mordi-",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mordi-1",
+      "posted_relative": "for 4 t siden",
+      "text": "For sent å gå inn? Hvorfor i alle dager skulle det være det? Tror du får bedre svar av AI med de samme spørsmålene, enn hva gjennomsnittet her inne vil gi deg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,37 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-22T00:30:25.377033+00:00",
+  "scraped_at": "2026-09-22T05:42:24.464713+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "34b86d53c7308350",
+      "key": "3d60a893e37276ec",
+      "author": "sander07",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sander07",
+      "posted_relative": "for 6 min siden",
+      "text": "Der ja! De trengte ikke penga",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "20cfdb931d950283",
       "author": "Stuckenbruck",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stuckenbruck",
-      "posted_relative": "for 2 t siden",
-      "text": "Men hmmm, større konkurranse/pris på thorium da? Eller kanskje motsatt, større insentiver for sndte å få det opp fra bakken/volum osv.",
+      "posted_relative": "for 2 min siden",
+      "text": "Reparasjons emisjon avlyst👍",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 134,
+      "char_count": 27,
       "has_link": false
     }
   ]

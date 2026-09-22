@@ -1,9 +1,25 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-22T00:24:12.890119+00:00",
+  "scraped_at": "2026-09-22T05:36:43.145735+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3401620ec0790728",
+      "author": "taivermannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/taivermannen",
+      "posted_relative": "for 4 t siden",
+      "text": "Bra momentum her nå!!! 🚀📈⚡️⚡️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }
