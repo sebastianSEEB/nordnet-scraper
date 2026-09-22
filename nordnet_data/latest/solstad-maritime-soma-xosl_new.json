@@ -1,9 +1,23 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-09-22T15:20:32.269159+00:00",
+  "scraped_at": "2026-09-22T19:28:12.907810+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "902afcf8421ee7f0",
+      "author": "egniloat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egniloat",
+      "posted_relative": "for 3 t siden",
+      "text": "Det har en motstand under 30 kr...tror dere kan gå over det snart?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

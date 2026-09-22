@@ -1,72 +1,84 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-22T15:22:26.228091+00:00",
+  "scraped_at": "2026-09-22T19:30:02.982601+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "b8d7b3fa6c013fa7",
-      "author": "Myntkast",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myntkast",
+      "key": "ca9527f2db2f079a",
+      "author": "BareFlaks77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bareflaks77",
       "posted_relative": null,
-      "text": "18. sep. Gresshopper fra alle som vanligvis sitter og sprer skremselspropaganda om SALME. Kursen går opp og ned. Ikke noe sjokkerende ved det. På sikt vinner optimistene ❤ Vis 1 kommentar til",
+      "text": "18. sep. Sjekk filmen under. Vi får se om dataene de henter inn viser sterk vekst i biomasse til lav kost pr kilo produsert fisk. Neste datapunkt der kommer i operasjonell oppdatering fra selskapet i starten av oktober. https://vimeo.com/1054930895?fl=pl&fe=sh Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6,
+        7,
+        4
+      ],
+      "links": [
+        "https://vimeo.com/1054930895?fl=pl&fe=sh"
+      ],
+      "char_count": 280,
+      "has_link": true
+    },
+    {
+      "key": "a1e377b0ec1f3f29",
+      "author": "kimkal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkal",
+      "posted_relative": "for 3 t siden",
+      "text": "Det som er fint er at siden det er landbasert er smitte så kontrollert med den teknologien vi har nå at det er egt ikke så veldig mye å bekymre seg for på den fronten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 166,
+      "has_link": false
+    },
+    {
+      "key": "d031fa32fd2ec134",
+      "author": "kimkal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkal",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er bare å stacke opp nå som vi så lav inngang. Gleder meg til hele sektoren er ferdig bygget og endelig kan produsere på fullt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 191,
+      "char_count": 130,
       "has_link": false
     },
     {
-      "key": "afc8ec042b89bb29",
-      "author": "aframvi",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframvi",
-      "posted_relative": "for 8 t siden",
-      "text": "Nå har vi 7 anbefalinger til kjøp og 1 hold. Vi har nok sett bunnen nå,✈️✈️✈️",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        10,
-        5
-      ],
-      "links": [],
-      "char_count": 77,
-      "has_link": false
-    },
-    {
-      "key": "f1aa2252170eb830",
-      "author": "Avro nil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
-      "posted_relative": "for 1 t siden",
-      "text": "· Jeg trodde på dem, og nå er jeg under 100000 nok.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 51,
-      "has_link": false
-    },
-    {
-      "key": "97e7981540b3be5e",
+      "key": "ce02ad2064d40b07",
       "author": "lakselva",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakselva",
       "posted_relative": null,
-      "text": "18. sep. Oyoy- nå kjøpes det krafig før helga",
+      "text": "18. sep. Oyoy- nå kjøpes det krafig før helga Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2,
-        1
+        2
       ],
       "links": [],
-      "char_count": 45,
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "ab6cfc0897bf84d5",
+      "author": "kimkal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkal",
+      "posted_relative": "for 3 t siden",
+      "text": "Og etter!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
       "has_link": false
     }
   ]

@@ -1,125 +1,27 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-22T15:16:03.259727+00:00",
+  "scraped_at": "2026-09-22T19:23:30.317864+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 8,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "aef3d45c2c9752d5",
-      "author": "MisKina",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
-      "posted_relative": "for 43 min siden",
-      "text": "· Det ser ikke ut til at våre faste daytradere her inne, har lyst til å selge ut mer 😉😎 Og det må være noen som har blitt hektet av, etter de siste par dagene. Vis 1 kommentar til",
+      "key": "5d920b49b75ff387",
+      "author": "Skybreather",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skybreather",
+      "posted_relative": "for 3 t siden",
+      "text": "https://www.investtech.com/no/market.php?CompanyID=101049 Du kan selv legge inn tekniske grafer i menyen her på Nordnet også.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
         2
       ],
-      "links": [],
-      "char_count": 179,
-      "has_link": false
-    },
-    {
-      "key": "a544902a6adb225a",
-      "author": "hacksaw",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hacksaw",
-      "posted_relative": "for 1 t siden",
-      "text": "· Hvem har lyst og penger til å kjøpe 59600 stk til kurs 62 og fjern den lille blokaden Så vi kan komme videre opp 😉😂 Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
+      "links": [
+        "https://www.investtech.com/no/market.php?CompanyID=101049"
       ],
-      "links": [],
-      "char_count": 137,
-      "has_link": false
-    },
-    {
-      "key": "3dbecff0a9cc7588",
-      "author": "Trondsinio",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trondsinio",
-      "posted_relative": "for 46 min siden",
-      "text": "Noen som har sett noen teknisk analyse på zap ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 47,
-      "has_link": false
-    },
-    {
-      "key": "bd337b55e86a71e3",
-      "author": "OMG2025",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
-      "posted_relative": "for 2 t siden",
-      "text": "kan noen skyte ned den fuglen?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 30,
-      "has_link": false
-    },
-    {
-      "key": "33cf7f2ddd9c1433",
-      "author": "Birkeland Portefølje",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birkeland-porteflje",
-      "posted_relative": "for 30 min siden",
-      "text": "64 neste blokkade eller?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 24,
-      "has_link": false
-    },
-    {
-      "key": "a6a49262e2237a68",
-      "author": "Aktierforsjov",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aktierforsjov",
-      "posted_relative": "for 2 t siden",
-      "text": "Pump and dump vent og se",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 24,
-      "has_link": false
-    },
-    {
-      "key": "d871f8f1ac61da13",
-      "author": "Trading 123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trading-123",
-      "posted_relative": "for 6 t siden",
-      "text": "La fugla fly sier nå eg",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        3
-      ],
-      "links": [],
-      "char_count": 23,
-      "has_link": false
-    },
-    {
-      "key": "d039a377b09c52d2",
-      "author": "Avva",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avva",
-      "posted_relative": "for 1 t siden",
-      "text": "Det fiksa vi lett …",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 19,
-      "has_link": false
+      "char_count": 125,
+      "has_link": true
     }
   ]
 }

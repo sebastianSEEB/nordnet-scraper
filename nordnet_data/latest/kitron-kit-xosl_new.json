@@ -1,9 +1,39 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-09-22T15:16:07.059169+00:00",
+  "scraped_at": "2026-09-22T19:23:34.201447+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f1f4bd54f8d2e178",
+      "author": "move",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/move",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Kitron og Scatec har identisk kurs. Skal de samme vei??? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "e1833f1e87c3a8bd",
+      "author": "move",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/move",
+      "posted_relative": "for 4 t siden",
+      "text": "Oh, yes!!!   I det lange løp!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

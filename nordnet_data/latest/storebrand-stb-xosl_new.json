@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-22T15:20:24.313104+00:00",
+  "scraped_at": "2026-09-22T19:28:01.634204+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ab457dffa97f45c2",
+      "author": "sparertilyacht",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sparertilyacht",
+      "posted_relative": "for 3 t siden",
+      "text": "Å si at det er én ting som er verdt å vite er vel litt strutsete? Grunnen til at det ikke er etablerte støttenivåer nedover er vel strengt tatt fordi den ikke har gått ned for å teste noen støtte før? Ref langtidskurven… Dette er en Large cap finansaksje. Ikke kryptovaluta. Skulle den falle er det konkrete grunner til det, basert på målbare tall. Og det er vel heller ikke nødvendig å skrive «analyse, ikke investeringsråd» da du hverken har analysert eller gitt noen råd?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 474,
+      "has_link": false
+    }
+  ]
 }

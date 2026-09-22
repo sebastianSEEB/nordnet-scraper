@@ -1,68 +1,53 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-22T15:19:53.380321+00:00",
+  "scraped_at": "2026-09-22T19:27:31.198712+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "392c4429ad261345",
-      "author": "Jackpac",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpac",
+      "key": "c7c7dab62d43e268",
+      "author": "Trogonoptera",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trogonoptera",
+      "posted_relative": "for 17 min siden",
+      "text": "Kongsberg-gruppen eier rett under halvparten av finske Patria som igjen eier 50% av Nammo. Det vil si at Nammo er eid med nesten 25% av Kongsberg. https://www.nammo.com/about-us/ https://www.patriagroup.com/governance/corporate-structure-and-shareholder-voting-rights",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.nammo.com/about-us/",
+        "https://www.patriagroup.com/governance/corporate-structure-and-shareholder-voting-rights"
+      ],
+      "char_count": 267,
+      "has_link": true
+    },
+    {
+      "key": "0432c4dfedc94d8f",
+      "author": "kilkenny72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
       "posted_relative": "for 3 t siden",
-      "text": "Analytikernes konsensus og kursmål for Oslo-noteringen ligger i gjennomsnitt på rundt 391 til 395 NOK",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5,
-        4
-      ],
-      "links": [],
-      "char_count": 101,
-      "has_link": false
-    },
-    {
-      "key": "7785d927ccc6da58",
-      "author": "Brimball",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brimball",
-      "posted_relative": "for 1 t siden",
-      "text": "Pust med magen, det er rødt på det meste i dag. KOG skal videre opp, bare ikke alt på en gang.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 94,
-      "has_link": false
-    },
-    {
-      "key": "c37871b653d73715",
-      "author": "Dulle",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Får vi 400 000 aksjer i sluttauksjonen i dag. Opp mot 325 ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "a5cbe88a4b07af99",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 33 min siden",
-      "text": "Roboter som styrer her. Selger ut så lenge de har gevinst.",
+      "text": "Får nok et etablert brudd på 325 snart. Veldig høy omsetning den siste uken, og jeg tviler sterkt på at det er kun roboter. Og hvis roboter er endel av kursutviklingen i aksjer, så betyr det jo at kursen skal videre opp, hvis man baserer kjøp og salg på teknisk analyse, og roboter.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 58,
+      "char_count": 282,
+      "has_link": false
+    },
+    {
+      "key": "464e1dc5dd08bc8e",
+      "author": "Dulle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Får vi 400 000 aksjer i sluttauksjonen i dag. Opp mot 325 ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 79,
       "has_link": false
     }
   ]
