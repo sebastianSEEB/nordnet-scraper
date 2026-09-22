@@ -1,56 +1,25 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-21T21:27:48.995790+00:00",
+  "scraped_at": "2026-09-22T00:27:57.532961+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "411a9954b35cc250",
-      "author": "Ministry",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ministry",
+      "key": "0d8960f22722c93c",
+      "author": "Just_4_Fun",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/just_4_fun",
       "posted_relative": "for 2 t siden",
-      "text": "· DVD 2026: Babcock planlegger åtte Patria 6x6-varianter for den britiske hæren med minst 60 % lokalt innhold https://share.google/sVA1WVfyuklK8Wrsz",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [
-        "https://share.google/sVA1WVfyuklK8Wrsz"
-      ],
-      "char_count": 148,
-      "has_link": true
-    },
-    {
-      "key": "7cf7ceebf670d66f",
-      "author": "Smellyglove",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/smellyglove",
-      "posted_relative": "for 34 min siden",
-      "text": "Fortell oss hvordan roboter styrer kursen, fra f.eks toppen som var til bunnen?",
+      "text": "https://www.vg.no/nyheter/i/WvPmPr/norge-styrker-samarbeid-med-canada-garderingsstrategi",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 79,
-      "has_link": false
-    },
-    {
-      "key": "bfca19a379c4f6a4",
-      "author": "Jackpac",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpac",
-      "posted_relative": "for 7 t siden",
-      "text": "KOG vil levere historiske tall i 2026 sikker vinner Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        10,
-        2
+      "links": [
+        "https://www.vg.no/nyheter/i/WvPmPr/norge-styrker-samarbeid-med-canada-garderingsstrategi"
       ],
-      "links": [],
-      "char_count": 71,
-      "has_link": false
+      "char_count": 88,
+      "has_link": true
     }
   ]
 }

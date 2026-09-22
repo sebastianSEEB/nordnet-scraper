@@ -1,9 +1,23 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-09-21T21:30:25.405795+00:00",
+  "scraped_at": "2026-09-22T00:30:25.377033+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "34b86d53c7308350",
+      "author": "Stuckenbruck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stuckenbruck",
+      "posted_relative": "for 2 t siden",
+      "text": "Men hmmm, større konkurranse/pris på thorium da? Eller kanskje motsatt, større insentiver for sndte å få det opp fra bakken/volum osv.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    }
+  ]
 }

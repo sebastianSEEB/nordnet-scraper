@@ -1,9 +1,25 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-09-21T21:28:08.934896+00:00",
+  "scraped_at": "2026-09-22T00:28:16.609321+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "83cb4e12d238431e",
+      "author": "Feskarna",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/feskarna",
+      "posted_relative": "for 2 t siden",
+      "text": "· Iranske styrker angrep ytterligere et par tankskip i Hormuzstredet - UKMTO Et oljetankskip ble truffet i den innkommende USA-beskyttede leden, mens et LPG-tankskip ble truffet X- Osin technical",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 195,
+      "has_link": false
+    }
+  ]
 }
