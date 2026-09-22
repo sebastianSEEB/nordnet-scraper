@@ -1,9 +1,69 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-22T12:05:59.316149+00:00",
+  "scraped_at": "2026-09-22T15:17:59.918885+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "961a142a4e77d469",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": null,
+      "text": "18. sep. Hvis dere lurer på hvem som er den heldige som alltid kjøper en porsjon rundt dagstoppene så er en av dem meg 😅 Evig optimist",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "59a372360b0c981a",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "18. sep. Det ble grei omsetning i sluttauksjonen i dag på hele 374.000 aksjer solgt og kjøpt på kurs kr 24.25",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "fd6fcd516305680e",
+      "author": "stendyssen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stendyssen",
+      "posted_relative": "for 44 min siden",
+      "text": "· Det er åpenbart en aksjonær som skal ut, med det voldsomme trykket i sluttauksjonen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "7365631a3db7d96c",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "18. sep. Du kan trøste deg med at den trolig skal lengre opp 🤞😅",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

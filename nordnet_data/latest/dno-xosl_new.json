@@ -1,9 +1,41 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-22T12:06:14.774522+00:00",
+  "scraped_at": "2026-09-22T15:18:15.377293+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7367ebdb6fc62f19",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Morsomt å se at nok engang avviser Iran dette . Markedet håper forgjeves virker det som. Verken USA eller Iran kan tape ansikt her . Ingen vil gi etter noe som helst .  Men liten tvil om at Iran sitter med de beste kortene, og det blir fryktelig vanskelig for USA om de ikke  skal se ut som store tapere i denne krigen. https://www.finansavisen.no/energi/2026/09/22/8382232/iran-skal-ha-tilbudt-a-apne-hormuz-kilder-avviser",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/22/8382232/iran-skal-ha-tilbudt-a-apne-hormuz-kilder-avviser"
+      ],
+      "char_count": 423,
+      "has_link": true
+    },
+    {
+      "key": "be86918daa322cab",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 32 min siden",
+      "text": "Å der var olje jaggu over 100 igjen sånn går dagene .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

@@ -1,24 +1,37 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-22T12:09:05.588875+00:00",
+  "scraped_at": "2026-09-22T15:20:59.949127+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ea8d6b95ed4adf3a",
-      "author": "Reidar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reidar",
-      "posted_relative": null,
-      "text": "18. sep. · Endret Jeg har akseptert budet på 47kr pr. aksje. Dersom de ikke  oppnår 90 prosent kan Fortum utbetale 47kr for de som har akseptert eller kommer de da til å trekke budet?",
+      "key": "05f3cb779caa3251",
+      "author": "veslefar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/veslefar",
+      "posted_relative": "for 3 døgn siden",
+      "text": "Jeg har forsøkt tidligere to ganger og så nå i dag men etter BankID så feiler Pareto. Ser vi er mange som egentlig ville godtatt om det var mulig. Om ikke det blir nok så må de utsette frist og få siden sin ordet Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7
+        2
       ],
       "links": [],
-      "char_count": 183,
+      "char_count": 232,
+      "has_link": false
+    },
+    {
+      "key": "2a8c2683c58b08e4",
+      "author": "ØrsteinStraitBetalen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rsteinstraitbetalen",
+      "posted_relative": "for 6 min siden",
+      "text": "Hvor mange hundre tusen aksjer har dere? Volumvektet snittpris over børs i dag var tilnærmet 46,80. Hvor mye ekstra for dere utgjør 20 øre per aksje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 149,
       "has_link": false
     }
   ]

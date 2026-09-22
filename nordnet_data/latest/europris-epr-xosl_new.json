@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-09-22T12:05:27.372204+00:00",
+  "scraped_at": "2026-09-22T15:17:28.038117+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8e80a99d8dce7fc1",
+      "author": "Panzerhanzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
+      "posted_relative": null,
+      "text": "18. sep. Litt sykt egentlig. Legger inn ordre på 82",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

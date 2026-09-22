@@ -1,38 +1,52 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-22T12:03:48.517494+00:00",
+  "scraped_at": "2026-09-22T15:15:59.371523+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "9e90da5e76472dfd",
-      "author": "xster123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
-      "posted_relative": "for 3 min siden",
-      "text": "Nå får vi se da om den holder støtte på 236 og SMA 8 (1 H).",
+      "key": "e36e6ff29c980abd",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": null,
+      "text": "18. sep. Økte posten min litt nå, på under 31 kroner. Til tross for enkelte problemområder så driver de alt i alt godt, og vil ha en fin vekst på nytt også i Q3. Det er også litt å gå på så foreløpig synes jeg dette er et fint kjøp på disse nivåene, i hvert fall om man er litt langsiktig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 288,
+      "has_link": false
+    },
+    {
+      "key": "b53ebdad91eed8d1",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": null,
+      "text": "18. sep. Skal aksjen ned til støttenivået rundt 225? rektangelform 225 -260...Brudd avgjør videre ferd. 225 kan være et kjøpsnivå...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "6db8a1e446ccb779",
+      "author": "BudFoxW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/budfoxw",
+      "posted_relative": "for 1 t siden",
+      "text": "Heeeelvet er det som skje med denne ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "9bdfb22b4cd95cb2",
-      "author": "xster123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
-      "posted_relative": "for 2 t siden",
-      "text": "Nå begynner den å bevege på seg.... Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        4
-      ],
-      "links": [],
-      "char_count": 55,
+      "char_count": 37,
       "has_link": false
     }
   ]

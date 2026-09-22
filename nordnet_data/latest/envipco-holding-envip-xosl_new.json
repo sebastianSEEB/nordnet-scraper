@@ -1,9 +1,39 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-09-22T12:09:57.560707+00:00",
+  "scraped_at": "2026-09-22T15:21:52.913088+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "110f9a93aafb2e0e",
+      "author": "matste",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matste",
+      "posted_relative": null,
+      "text": "18. sep. · Endret Nye 60485 aksjer short igår  Økning fra 4,31% til 4,40%  ACC. SHORT # 2 927 214 ACC. SHORT % 4,40% LATEST POSITION (DD.MM.YYYY) 17.09.2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        8
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "6d3d9af413b4ad0c",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": "for 49 min siden",
+      "text": "Tomra hvertfall i pluss. Men begge presses ned daglig!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

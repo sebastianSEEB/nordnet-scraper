@@ -1,41 +1,68 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-22T12:07:46.950847+00:00",
+  "scraped_at": "2026-09-22T15:19:53.380321+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "d4868f36955826d8",
-      "author": "Stingray1965",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stingray1965",
-      "posted_relative": "for 1 t siden",
-      "text": "https://www.forsvaretsforum.no/angrepsdroner-beredskap-droner/her-tester-nammo-angrepsdroner/523402",
+      "key": "392c4429ad261345",
+      "author": "Jackpac",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpac",
+      "posted_relative": "for 3 t siden",
+      "text": "Analytikernes konsensus og kursmål for Oslo-noteringen ligger i gjennomsnitt på rundt 391 til 395 NOK",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
-      ],
-      "links": [
-        "https://www.forsvaretsforum.no/angrepsdroner-beredskap-droner/her-tester-nammo-angrepsdroner/523402"
-      ],
-      "char_count": 99,
-      "has_link": true
-    },
-    {
-      "key": "2db935d8a56ade40",
-      "author": "CapitalLogic",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capitallogic",
-      "posted_relative": "for 7 min siden",
-      "text": "Nammo (50% eid av Kongsberg) viste nettopp frem norskproduserte FPV-angrepsdroner på Raufoss – og traff blink. Modulære stridshoder, presisjon, lang rekkevidde og LAV KOSTNAD per enhet sammenlignet med målene de ødelegger💥 Denne skal opp📈",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
+        5,
+        4
       ],
       "links": [],
-      "char_count": 238,
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "7785d927ccc6da58",
+      "author": "Brimball",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brimball",
+      "posted_relative": "for 1 t siden",
+      "text": "Pust med magen, det er rødt på det meste i dag. KOG skal videre opp, bare ikke alt på en gang.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "c37871b653d73715",
+      "author": "Dulle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Får vi 400 000 aksjer i sluttauksjonen i dag. Opp mot 325 ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "a5cbe88a4b07af99",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 33 min siden",
+      "text": "Roboter som styrer her. Selger ut så lenge de har gevinst.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
       "has_link": false
     }
   ]

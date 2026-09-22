@@ -1,9 +1,41 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-22T12:04:07.977734+00:00",
+  "scraped_at": "2026-09-22T15:16:22.737895+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2af1b198d2336353",
+      "author": "Vinzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vinzen",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er utrolig hvordan marked har reagert på DOF. Blir frustrert akkurat nå... Men holder fortsatt fast på mine aksjer...:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "0955e7a7b2e47509",
+      "author": "ymse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ymse-2",
+      "posted_relative": null,
+      "text": "18. sep. 1 mil volum siste minutter 🥴",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }
