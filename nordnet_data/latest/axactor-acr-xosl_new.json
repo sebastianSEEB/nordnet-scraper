@@ -1,9 +1,26 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-09-22T05:41:37.082158+00:00",
+  "scraped_at": "2026-09-22T10:38:59.893075+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5e66276d23212a63",
+      "author": "Fiskestank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "posted_relative": null,
+      "text": "18. sep. Da forsvant alle bjellesauene. Det må ha kommet en med kalkulator med strøm inn i kontorfellesskapet!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        11
+      ],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-09-22T05:39:00.037876+00:00",
+  "scraped_at": "2026-09-22T10:35:59.178162+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7ea3460ddf17c33f",
+      "author": "mann69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mann69",
+      "posted_relative": "for 4 t siden",
+      "text": "ABG: Våre top picks er TGS, Energy Holdings, Constellation og Ventura Offshore (kjøp på alle,).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-09-22T05:39:11.545742+00:00",
+  "scraped_at": "2026-09-22T10:36:11.132522+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4e5bf66c1cbcc1c1",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": "for 2 t siden",
+      "text": "Kun OKEA som har kjøpsanbefaling av ABG 🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

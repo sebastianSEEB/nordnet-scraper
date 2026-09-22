@@ -1,9 +1,73 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-09-22T05:41:33.294730+00:00",
+  "scraped_at": "2026-09-22T10:38:56.188150+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "187643895fa3564f",
+      "author": "Olsen72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olsen72",
+      "posted_relative": null,
+      "text": "18. sep. · Der kom den: https://www.nordnet.no/market/news/12b6f72a-6adb-4e0d-9957-594534cabb57",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.nordnet.no/market/news/12b6f72a-6adb-4e0d-9957-594534cabb57"
+      ],
+      "char_count": 95,
+      "has_link": true
+    },
+    {
+      "key": "40ccdadf0f8c69f5",
+      "author": "HeldigFyr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heldigfyr",
+      "posted_relative": null,
+      "text": "18. sep. · På spørsmålet om det er penger i det... Claude svarte pent Basert på det som er offentlig her, nei — dette er ikke den typen kunngjøring som oppgir et eurobeløp for Smartoptics' del av avtalen, og det er ingenting som tyder på at det er individuelt vesentlig. Noen ting verdt å merke seg: Dette er en \"design win\" pressemelding, ikke en finansiell offentliggjøring. Smartoptics sender ut disse kundevinner-kunngjøringene ganske regelmessig (Teraco, TKRZ, Glesys, DE-CIX, YouFibre osv. er alle like i tonen, og ingen av dem inneholdt dollarbeløp heller). De er markedsførings-/PR-materiale som bekrefter at Smartoptics' teknologi ble valgt, ikke regulatoriske inntektskunngjøringer. Det overordnede ALPSiX/BIK-prosjektet er stort — BIKs bredere fiberutrulling i Kärnten er støttet av et EIB-lån på €110m mot en total prosjektkostnad på ~€220m, og BIK har ~€200m øremerket regional infrastruktur de kommende årene. Men det er hele den regionale bredbåndsutbyggingen (anleggsarbeid, fiber-til-hjemmet osv.) — Smartoptics leverer bare en del av det (de optiske muxponderne og ROADM-ene for én internettknutepunkt), ikke en Smartoptics-spesifikk kontraktsverdi. Den andre delen av sammendraget — den \"regulatoriske oppdateringen\" — er bare en administrativ korreksjon til H1 2026-rapporten (som legger til en lovpålagt ansvarsfraskrivelse), ikke ny finansiell informasjon. Det er urelatert til ALPSiX-avtalen. Så: det er en positiv referansevinner-overskrift (bra for historien/pipeline-narrativet, spesielt i internettknutepunkt-/regionalt nav-segmentet de har målrettet), men det er ingen oppgitt inntektsnummer vedlagt, og ingenting her indikerer at det er stort nok til å være uavhengig vesentlig for Smartoptics' økonomi. Hvis du vil vurdere faktisk inntektspåvirkning, ville det vise seg (om i det hele tatt) i fremtidige kvartalsvise ordreinnhenting/restordre-kommentarer snarere enn i denne typen pressemelding — verdt å sjekke Q3 2026-rapporten (forfaller 29. okt) hvis du følger det nøye.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 2004,
+      "has_link": false
+    },
+    {
+      "key": "3a6e373c6704aeeb",
+      "author": "Hermdawg10",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hermdawg10",
+      "posted_relative": null,
+      "text": "18. sep. Fin dag i dag også boys📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    },
+    {
+      "key": "fbd7960e9b31eccb",
+      "author": "Jaqun",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaqun",
+      "posted_relative": null,
+      "text": "18. sep. Unødvendig AI slopp.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

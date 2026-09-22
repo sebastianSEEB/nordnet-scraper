@@ -1,9 +1,41 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-09-22T05:38:48.826855+00:00",
+  "scraped_at": "2026-09-22T10:35:47.596254+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "36b90d51998b8a3f",
+      "author": "egil7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egil7",
+      "posted_relative": "for 16 t siden",
+      "text": "AutoStore fortsetter tilbakekjøpene. De har kjøpt 2,77 mill. aksjer for ca. 42,1 mill. kr den siste uken. Totalt er det nå kjøpt tilbake 13,76 mill. aksjer for ca. 219 mill. kr, til en snittkurs på 15,92 kr. Blir interessant å se hvor mye av programmet på 75 mill. USD som faktisk blir gjennomført. Isolert sett positivt, og tilbakekjøpene går i et bra tempo. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        9
+      ],
+      "links": [],
+      "char_count": 379,
+      "has_link": false
+    },
+    {
+      "key": "6d31853ee83de1be",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 3 t siden",
+      "text": "· Interesse",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

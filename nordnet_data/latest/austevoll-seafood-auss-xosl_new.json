@@ -1,9 +1,23 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-22T05:38:10.942091+00:00",
+  "scraped_at": "2026-09-22T10:35:09.994423+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0b5bcd487d45af1c",
+      "author": "Jaffa816",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaffa816",
+      "posted_relative": "for 54 min siden",
+      "text": "sei er råfisklaget, pelagia til auss går gjennom sildelaget",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }

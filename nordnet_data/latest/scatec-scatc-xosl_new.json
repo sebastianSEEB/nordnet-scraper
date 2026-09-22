@@ -1,9 +1,25 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-22T05:37:17.949800+00:00",
+  "scraped_at": "2026-09-22T10:34:06.258338+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "db47faa312e75085",
+      "author": "Jackpoot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpoot",
+      "posted_relative": null,
+      "text": "18. sep. Fin start på denne i dag, på en ganske så rød børs",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }

@@ -1,39 +1,67 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-09-22T05:40:04.830978+00:00",
+  "scraped_at": "2026-09-22T10:37:23.849544+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "a0bbd818c3d5b8f4",
-      "author": "Wangerang",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
-      "posted_relative": "for 1 t siden",
-      "text": "Blitt positiv til DnB i det siste, de spammer meg med ads og har det billigste boliglånet for unge om dagen. De knuste konkurrentene på rente når jeg sjekket sist. Virker som at de er aggressive. Hvis de klarer å kapre flere unge boligkjøpere og få bort det gamle (stor og dyr) stempelet så har jeg troa.",
+      "key": "91272b33f4ef4ff2",
+      "author": "NordnetAdrian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordnetadrian",
+      "posted_relative": null,
+      "text": "18. sep. Hei, jeg har laget en artikkel om “Topp 5 norske utbytteselskaper” der DnB Bank er inkludert! Sjekk ut artikkelen og gi gjerne en tilbakemelding! Link til artikkel: https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13
+      ],
+      "links": [
+        "https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst"
+      ],
+      "char_count": 257,
+      "has_link": true
+    },
+    {
+      "key": "5b2c81c0b188a818",
+      "author": "Lavpanne",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lavpanne",
+      "posted_relative": "for 28 min siden",
+      "text": "Hvilken effekt vil renteøkning med 0,25 ha på kursen?   Vil kursen gå negativt dersom renteøkningen uteblir?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 304,
+      "char_count": 108,
       "has_link": false
     },
     {
-      "key": "c82a9328a4dbded4",
-      "author": "Venn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
-      "posted_relative": "for 22 t siden",
-      "text": "BNP Paribas gjenopptar dekning av DNB med outperform og et kursmål på 390 kroner pr aksje. Vis 1 kommentar til",
+      "key": "be2c10e15d229b8a",
+      "author": "MrRokke",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrokke",
+      "posted_relative": null,
+      "text": "18. sep. rente møtet neste torsdag, hvilken påvirkning blir det på kurs tror du? Snakke vi om 2% pluss minus",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "0b4787241424e4fa",
+      "author": "F.Dostojevskij",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fdostojevskij",
+      "posted_relative": null,
+      "text": "18. sep. Kjøpt meg tungt inn her",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        390,
-        20,
-        3
+        1
       ],
       "links": [],
-      "char_count": 110,
+      "char_count": 32,
       "has_link": false
     }
   ]

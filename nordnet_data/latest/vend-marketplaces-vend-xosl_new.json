@@ -1,9 +1,70 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-22T05:36:39.467699+00:00",
+  "scraped_at": "2026-09-22T10:33:22.883452+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "89f0987a314f1ba9",
+      "author": "heltsjef",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltsjef",
+      "posted_relative": "for 3 t siden",
+      "text": "10 millioner aksjer nå i åpen short. Nå trenger vi en god nyhet som gjør at de brenner seg......",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "9aeb5327aba1fce3",
+      "author": "xster123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
+      "posted_relative": "for 1 t siden",
+      "text": "Bryter den gjennom 240-250 laget, så er neste target 286.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "74fff265f093cbd4",
+      "author": "xster123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
+      "posted_relative": "for 1 t siden",
+      "text": "Nå begynner den å bevege på seg....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "289c5c2b5290bccb",
+      "author": "VicAnt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vicant",
+      "posted_relative": "for 3 t siden",
+      "text": "201 millioner aksjer er long...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

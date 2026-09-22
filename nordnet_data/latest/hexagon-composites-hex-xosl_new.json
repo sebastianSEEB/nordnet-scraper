@@ -1,9 +1,54 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-22T05:39:07.625564+00:00",
+  "scraped_at": "2026-09-22T10:36:07.034300+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "af877b8fbfc87f70",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": null,
+      "text": "18. sep. Emisjonen ble gjennomført i mai/juni. Hex hentet totalt ca. 651 mill. på kurs 8, forlenget gjeldsforfall til 2029 og fikk covenant-fritak til Q3 2027. Etterpå har de levert 126 mill. i H1-EBITDA og hevet 2026-guidingen til rundt 300 mill. En Emi kan aldri garanteres ikke skjer, men vi er nærmere 99% sikker på at det ikke skjer på en relativt lang tid, gitt ordresituasjon og markedsutsikter/lovreguleringer i Usa.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 424,
+      "has_link": false
+    },
+    {
+      "key": "f93409bb7c8a46a8",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 5 min siden",
+      "text": "Ser rosenrødt ut for HEX nå. Skifte fra diesel til CNG og AI data centers som trenger energi. Kan fort doble seg innen 6 mnd",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    },
+    {
+      "key": "157bf71f4e37e2b2",
+      "author": "Jaffa816",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaffa816",
+      "posted_relative": null,
+      "text": "18. sep. Hvordan ligger denne ann med emisjon? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        8
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

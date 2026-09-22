@@ -1,9 +1,28 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-09-22T05:38:22.134579+00:00",
+  "scraped_at": "2026-09-22T10:35:21.226856+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "78aeb549286ed9ba",
+      "author": "NordnetAdrian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordnetadrian",
+      "posted_relative": null,
+      "text": "18. sep. Hei, jeg har laget en artikkel om “Topp 5 norske utbytteselskaper” der Veidekke er inkludert! Sjekk ut artikkelen og gi gjerne en tilbakemelding! Link til artikkel: https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        3
+      ],
+      "links": [
+        "https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst"
+      ],
+      "char_count": 257,
+      "has_link": true
+    }
+  ]
 }

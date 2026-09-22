@@ -1,25 +1,70 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-09-22T05:36:35.795446+00:00",
+  "scraped_at": "2026-09-22T10:33:19.190883+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "7625e8ae1c90ec81",
-      "author": "Eric1970",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eric1970",
+      "key": "08c05ff41e9dae2c",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
       "posted_relative": null,
-      "text": "18. sep. RCS Business Messaging vil bli en game changer for Link. De har investert titalls millioner siste årene for å gjøre seg klar for dette. Nå kommer pengene inn igjen.  Nå skal vi oppover!",
+      "text": "18. sep. · Endret Link. Det er da noe: i dag kl. 06:55 ∙ Nyhetsoppsummering (AI) Portia AS trådte inn på selskapets aksjonærliste som ny investor med 1 000 000 aksjer, noe som representerer en eierandel på 0,4 %.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6,
-        10
+        1,
+        1
       ],
       "links": [],
-      "char_count": 194,
+      "char_count": 212,
+      "has_link": false
+    },
+    {
+      "key": "58be86c0193dd255",
+      "author": "invest_all",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/invest_all",
+      "posted_relative": null,
+      "text": "18. sep. Portia har hatt 1000000 lenge, siden november i fjor. Samme som Periscopus-diskusjonen tidligere. De bare kommer inn/ut av topp 50 aksjonærlisten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "7bfefe90d144cab7",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 3 t siden",
+      "text": "liten ohs form på gang...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    },
+    {
+      "key": "3422cf47b76de02a",
+      "author": "Josef Kåresen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josef-karesen",
+      "posted_relative": "for 3 t siden",
+      "text": "Når kommer reprisingen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 23,
       "has_link": false
     }
   ]

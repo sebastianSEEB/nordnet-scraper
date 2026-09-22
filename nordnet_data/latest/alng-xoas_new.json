@@ -1,9 +1,39 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-09-22T05:35:09.878288+00:00",
+  "scraped_at": "2026-09-22T10:31:52.586698+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c4ceb1d0ddcb6b13",
+      "author": "House shark",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/house-shark",
+      "posted_relative": null,
+      "text": "7. sep. Er det bare meg som synes alng er svært spennende om dagen. Vi har fått på plass en tradingdesk med 11 personer. Wilforce har fått seg en last og wilpride går av kontrakt nå medio september. Vi går inn i vintersesongen med lave gasslagre. Lng markedet er i ferd med å absorbere all nybygg. Skal ikke stramme seg til veldig før vi får noen gode spott rater. For ikke å snakke om 27 og 28 når det virkelig strammer seg til. Ikke usannsynlig med en skikkelig reprising av selskapet med trading avd som en stor joker. Vinteren kommer om vi liker det eller ikke. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 585,
+      "has_link": false
+    },
+    {
+      "key": "38d34be5ac982a4c",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": "for 1 t siden",
+      "text": "Hei, vet du om alng tar nytte av arbitrasje mellom US lng og europeisk?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

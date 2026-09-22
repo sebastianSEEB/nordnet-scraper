@@ -1,9 +1,56 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-09-22T05:42:46.401454+00:00",
+  "scraped_at": "2026-09-22T10:40:10.467099+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "98a1c6c94e73daf4",
+      "author": "Backflip360",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/backflip360",
+      "posted_relative": null,
+      "text": "18. sep. Det nye styret og ledelsen har holdt ord i 3-4 kvartaler på rad nå og det siste de sa etter Q2 var:   Oslo (Infront TDN Direkt): Kongsberg Automotive forventer at forbedringen i underliggende lønnsomhet vil fortsette ut 2026, støttet av pågående operasjonelle forbedringer, tiltak for kostnadsreduksjon og en mer effektiv produksjonsstruktur. Det skriver selskapet i kvartalsrapporten for andre kvartal torsdag.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 420,
+      "has_link": false
+    },
+    {
+      "key": "8ce4995c89e81dfe",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": null,
+      "text": "18. sep. · Endret Vil vi fortsette opp eller har mange mistet tålmodigheten etter flere mnd nedgang? Da kan jo endel benytte anledningen til å selge seg ut nå på vei opp og vi får et lite hvileskjær?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
+      ],
+      "links": [],
+      "char_count": 199,
+      "has_link": false
+    },
+    {
+      "key": "db0a063db29a189e",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": null,
+      "text": "18. sep. Solid sluttspurt i går med mellom 4-500 000 aksjer i sluttauksjonen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    }
+  ]
 }

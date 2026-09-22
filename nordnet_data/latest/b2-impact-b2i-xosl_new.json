@@ -1,9 +1,71 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-09-22T05:37:36.693262+00:00",
+  "scraped_at": "2026-09-22T10:34:26.586303+00:00",
   "first_run": false,
-  "total_posts_on_page": 4,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "739c96fb21edf579",
+      "author": "ivid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ivid",
+      "posted_relative": "for 2 t siden",
+      "text": "Se dagens rapport publisert 22.09.2026: https://www.b2-impact.com/investors/reports-and-presentations/events-and-presentations/ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [
+        "https://www.b2-impact.com/investors/reports-and-presentations/events-and-presentations/"
+      ],
+      "char_count": 147,
+      "has_link": true
+    },
+    {
+      "key": "1a10cc72bd79d836",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 17 min siden",
+      "text": "https://www.finansavisen.no/finans/2026/09/22/8382177/superinvestorer-hamstret-b2-impact-til-rabatt-selskapet-spruter-penger",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/09/22/8382177/superinvestorer-hamstret-b2-impact-til-rabatt-selskapet-spruter-penger"
+      ],
+      "char_count": 124,
+      "has_link": true
+    },
+    {
+      "key": "91d873ac5c7e1322",
+      "author": "Fesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fesk",
+      "posted_relative": "for 12 min siden · Endret",
+      "text": "Går fort opp nå, skulle ha solgt Equinor og pløyd inn her mens det var billig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "5c168baf0b18eb5b",
+      "author": "Boffa72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/boffa72",
+      "posted_relative": "for 1 t siden",
+      "text": "Solide tall",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

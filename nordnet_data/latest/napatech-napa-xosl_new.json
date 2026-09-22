@@ -1,9 +1,26 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-22T05:37:51.802557+00:00",
+  "scraped_at": "2026-09-22T10:34:41.875104+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "36c8492dc08ae9d1",
+      "author": "NorthbyNorthwest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
+      "posted_relative": null,
+      "text": "18. sep. · Så rundet Sundt 20mio aksjer.....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        6
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

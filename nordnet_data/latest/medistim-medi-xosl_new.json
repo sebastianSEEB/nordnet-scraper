@@ -1,9 +1,28 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-09-22T05:38:41.165515+00:00",
+  "scraped_at": "2026-09-22T10:35:40.134347+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a2f4df0787c7145b",
+      "author": "NordnetAdrian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordnetadrian",
+      "posted_relative": null,
+      "text": "18. sep. Hei, jeg har laget en artikkel om “Topp 5 norske utbytteselskaper” der Medistim er inkludert! Sjekk ut artikkelen og gi gjerne en tilbakemelding! Link til artikkel: https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        3
+      ],
+      "links": [
+        "https://www.nordnet.no/blogg/5-norske-selskaper-med-lang-historikk-for-utbyttevekst"
+      ],
+      "char_count": 277,
+      "has_link": true
+    }
+  ]
 }

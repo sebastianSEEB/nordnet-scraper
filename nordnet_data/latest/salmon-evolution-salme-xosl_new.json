@@ -1,9 +1,54 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-22T05:42:31.872935+00:00",
+  "scraped_at": "2026-09-22T10:39:52.814287+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a6f6e8aaca8a21f6",
+      "author": "aframvi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframvi",
+      "posted_relative": "for 3 t siden",
+      "text": "Nå har vi 7 anbefalinger til kjøp og 1 hold. Vi har nok sett bunnen nå,✈️✈️✈️ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        3
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "a4d3d0355df869dc",
+      "author": "Jossan57",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jossan57",
+      "posted_relative": null,
+      "text": "18. sep. Noen som vet hvilken analytiker som nå har satt kursmål på Salme til 3,40 og «hold»?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "8bb2edec16b5e999",
+      "author": "Avro nil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
+      "posted_relative": "for 22 min siden",
+      "text": "· Tror du på de analytiker?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-09-22T05:36:23.561819+00:00",
+  "scraped_at": "2026-09-22T10:33:05.718240+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "383dd509ee866534",
+      "author": "trpleJ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trplej",
+      "posted_relative": "for 44 min siden",
+      "text": "· Ingen dividende men som jeg forstår det vil du hvis du eier f.eks. 100 aksjer få utbetalt et engangsbeløp på ca 700 euro sist på året og deretter få 972 vår aksjer istedenfor BNOR",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    },
+    {
+      "key": "ea208dc89e9e3f0b",
+      "author": "oahe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oahe",
+      "posted_relative": "for 26 min siden",
+      "text": "Har planer om å investere litt, hva anbebefaler dere å kjøpe, BNOR eller VAR?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

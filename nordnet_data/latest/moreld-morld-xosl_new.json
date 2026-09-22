@@ -1,9 +1,23 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-22T05:38:29.689459+00:00",
+  "scraped_at": "2026-09-22T10:35:28.782915+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "39d6f00205be4a70",
+      "author": "Arneky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arneky",
+      "posted_relative": "for 2 t siden",
+      "text": "Ikke mange aksjer for salg på dette nivået",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

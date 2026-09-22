@@ -1,9 +1,69 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-09-22T05:37:14.285716+00:00",
+  "scraped_at": "2026-09-22T10:33:55.588617+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "66cb7930ea75ba00",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 1 t siden",
+      "text": "https://tv.finansavisen.no/nb/watch/8529",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://tv.finansavisen.no/nb/watch/8529"
+      ],
+      "char_count": 40,
+      "has_link": true
+    },
+    {
+      "key": "18783a1c8fecd4c2",
+      "author": "mikis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikis",
+      "posted_relative": "for 3 t siden",
+      "text": "Dagens gjest i Børsmorgen fra DNB European Defence A:  Har stor tro på at Norbit er i gunstig posisjon for leveranser til forsvar på undervannsfronten.  Har bygget opp posisjonen i selskapet i sommer når kursen har vært ganske lav.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 231,
+      "has_link": false
+    },
+    {
+      "key": "d8a935527ddbaf35",
+      "author": "Ringhorne",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ringhorne",
+      "posted_relative": "for 16 min siden",
+      "text": "Kjørda NORBIT",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    },
+    {
+      "key": "7027204ba2d6596c",
+      "author": "SpanskOliven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spanskoliven",
+      "posted_relative": "for 3 t siden",
+      "text": "Ka då?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-09-22T05:34:57.951346+00:00",
+  "scraped_at": "2026-09-22T10:31:40.252691+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "fb9cc7e933b3e5d6",
+      "author": "Karl Marx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karl-marx",
+      "posted_relative": "for 4 min siden",
+      "text": "· Spør amerikanerne, som alltid shorter europeiske aksjer først fra kl. 11 fra europeisk-baserte banker og igjen senere fra 15.30 fra USA - New York-børsen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "f5ba6abad2b48663",
+      "author": "Ottotoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ottotoo",
+      "posted_relative": "for 3 t siden",
+      "text": "Alle shippingaksjer faller som steiner....ingen info noe sted om hvorfor. Noen som vet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        6
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "8ac128ea706759b9",
+      "author": "GabrielSv16",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabrielsv16",
+      "posted_relative": "for 3 t siden",
+      "text": "Blir vell og fylle på litt i dag med den duppen der da😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

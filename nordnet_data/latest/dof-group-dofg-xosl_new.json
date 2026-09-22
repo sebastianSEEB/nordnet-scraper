@@ -1,9 +1,38 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-09-22T05:36:58.106749+00:00",
+  "scraped_at": "2026-09-22T10:33:42.703301+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7244bf36293fdf99",
+      "author": "Hifidude",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hifidude",
+      "posted_relative": "for 1 t siden",
+      "text": "DOFG sendes ned på marginalt lavere oljepris mens luftselskaoet 2020 sendes opp 18%. OSE er en merkelig plass. Trekker pusten og lener meg tilbake, vel vitende om at DOFG er bunnsolid og utbyttene vil komme og komme. 2020 har vel ikke en eneste båt ennå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 254,
+      "has_link": false
+    },
+    {
+      "key": "95d134e7b2ead6b4",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "18. sep. Dette er ikke high-end, men konsolidering gagner alle",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

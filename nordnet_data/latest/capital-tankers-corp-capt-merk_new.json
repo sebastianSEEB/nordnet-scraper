@@ -1,9 +1,54 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-09-22T05:36:13.942303+00:00",
+  "scraped_at": "2026-09-22T10:33:01.894033+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "33ec145bc4018e13",
+      "author": "TRGO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trgo",
+      "posted_relative": "for 2 t siden",
+      "text": "Generelt så har alle tankaksjer falt i dag. en liten korreksjon tenker jeg etter en veldig sterk oppgang den siste tiden. Tankaksjene er ikke billig nå. Det er hvor lenge det sterke markedet vedvarer som vil avgjøre om man kan forsvare dagens prising. Cap. er i hvertfall av de rimligst prisede tank-aksjene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 308,
+      "has_link": false
+    },
+    {
+      "key": "0832f369e93ff888",
+      "author": "McapVenture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
+      "posted_relative": "for 18 min siden",
+      "text": "Kollaps i dirty tankers nå,ser OET er ned hele 7%. Fro og Capt følger etter... Sikkert gevinst sikring og rater på vei ned...eller andre hypoteser ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 148,
+      "has_link": false
+    },
+    {
+      "key": "45e7e0fe609e57a6",
+      "author": "H.S.T",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hst-1",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva er årsaken til at den har falt ned litt idag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }
