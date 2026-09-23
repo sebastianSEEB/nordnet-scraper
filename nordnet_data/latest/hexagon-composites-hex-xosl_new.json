@@ -1,9 +1,40 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-22T22:34:20.867074+00:00",
+  "scraped_at": "2026-09-23T01:06:08.236038+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "95b04f7e5d8c2439",
+      "author": "alekf05",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alekf05",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.sagepointlogistics.com/post/sagepoint-logistics-doubles-its-fleet-with-60-rng-powered-trucks-to-meet-growing-demand",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.sagepointlogistics.com/post/sagepoint-logistics-doubles-its-fleet-with-60-rng-powered-trucks-to-meet-growing-demand"
+      ],
+      "char_count": 129,
+      "has_link": true
+    },
+    {
+      "key": "8848b01f7578139e",
+      "author": "torstein v",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torstein-v",
+      "posted_relative": "for 14 min siden",
+      "text": "Det er fortsatt usikkert om Hexagon Agility leverer gasstankene til Sagepoints 60–120 nye Freightliner Cascadia med Cummins X15N-motorer. Sagepoint trekker frem Cummins og CCFT, som kan levere hele gassystemet, men nevner ikke Hexagon med et ord – selv om Hexagon ofte er flinke til å offentliggjøre slike X15N-relaterte ordre. Det kan selvfølgelig skyldes taushetsplikt eller at avtalen går via Freightliner, men mangelen på informasjon gjør at Cummins-sporet fremstår som det mest sannsynlige akkurat nå. Dersom Hexagon faktisk er en del av avtalen, kan det bli interessant å se om de i løpet av de kommende ukene melder om en større X15N-ordre på 60+ enheter. Hvis ikke, styrkes bildet av at Cummins/CCFT har levert hele gassløsningen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 738,
+      "has_link": false
+    }
+  ]
 }
