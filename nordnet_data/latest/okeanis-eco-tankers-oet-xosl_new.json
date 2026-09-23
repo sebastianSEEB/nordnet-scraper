@@ -1,9 +1,38 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-09-23T20:48:44.192673+00:00",
+  "scraped_at": "2026-09-23T23:18:18.319163+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "690ff558b94b589f",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "https://x.com/MarioNawfal/status/2102846607309869111 TankerTrackers om stredet. Det påståes at Iran ikke får ut noe som helst olje.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/MarioNawfal/status/2102846607309869111"
+      ],
+      "char_count": 131,
+      "has_link": true
+    },
+    {
+      "key": "bba0a1e68e1f1ff7",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Tankers International @TankersInt Zourva (2014 - Modern Scrubber) On Subs (Estimated Voyage CII: C 🟡) IOC Minerva (TCE: RV USD 448K @ 95 days / Actual USD 596K @ 72 days) USG antagelig. Hun flagger Lekki, Nigeria som port of call (Dangote) Ellers så er subsen en last ut fra wafr. Hun er fullastet på vei fra USG.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 313,
+      "has_link": false
+    }
+  ]
 }

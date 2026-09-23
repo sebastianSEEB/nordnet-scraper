@@ -1,38 +1,9 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-23T20:52:47.244834+00:00",
+  "scraped_at": "2026-09-23T23:22:07.351693+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "adcbecca2ef8f402",
-      "author": "Moment",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
-      "posted_relative": "for 1 t siden",
-      "text": "Ser at oljeprisen i øyeblikket er opp over 4%- hvis kursen på DNO går tilsvarende passerer vi 20 kr. i morgen!!!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 112,
-      "has_link": false
-    },
-    {
-      "key": "e4db4da6b73ba2b8",
-      "author": "triggly",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/triggly",
-      "posted_relative": "for 3 min siden",
-      "text": "Olja går videre opp, jeg tror det blir en god dag for DNO i morgen!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 67,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

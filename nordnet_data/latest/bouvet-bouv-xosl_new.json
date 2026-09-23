@@ -1,9 +1,39 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-23T20:52:18.431502+00:00",
+  "scraped_at": "2026-09-23T23:21:41.101595+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6f1a428838fb5bfa",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": null,
+      "text": "7. sep. Varner Kapital har solgt seg ned fra 4,5millioner aksjer, til nå sist 1,1mill aksjer. Bare 1.9 solgte de over 500.000 aksjer på en dag. Nå er det ute hvert øyeblikk, og mitt håp er at aksjen da skal klatre opp igjen. Ingen tvil om at dette har holdt aksjen nede. De har holdt på siden juli, og det har vært intensivt salg i det siste. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        2
+      ],
+      "links": [],
+      "char_count": 362,
+      "has_link": false
+    },
+    {
+      "key": "5ed79de4a97ff5bc",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 53 min siden",
+      "text": "Fortsatt 674.000 aksjer igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }
