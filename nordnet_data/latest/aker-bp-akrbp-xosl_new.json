@@ -1,9 +1,38 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-09-23T01:07:15.888743+00:00",
+  "scraped_at": "2026-09-23T07:01:12.862431+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "266f98a4605f1615",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 20 min siden",
+      "text": "Ser ut som salget fra Nemesia ( Lundin-familien) ble spredd over mange kontoer.  Her de øverste på en lang liste. Nemesia har også solgt bolker på ca 500.000 aksjer i tidsrommet april mai før de solgte den første blokken på 4 millioner aksjer,  se det tredje bildet:",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 266,
+      "has_link": false
+    },
+    {
+      "key": "5e43cb521701eccf",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 2 min siden",
+      "text": "Bra timing på salget for dem.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

@@ -1,67 +1,153 @@
-# Nordnet-rapport (2026-09-21T13:27:39.039904+00:00)
+# Nordnet-rapport (2026-09-23T07:05:40.773738+00:00)
 
-# Analyse av nye forumpost - maritime aksjer og øvrige
+# Daglig forumrapport – maritime aksjer og øvrige norske aksjer
 
-## Tank råolje
+## RÅOLJETANKERE (tank_raaolje) – FRO, OET
 
-### Frontline (FRO)
-**Klassifisering: Blandet**
-Aksjen faller på tynt nyhetsgrunnlag (spekulert i gevinstsikring/teknisk korreksjon etter «ekstrem oppgang» og stort utbytte, ifølge bruker). Samtidig hevder en annen bruker at 2 nylige Oman-subs (Time Charter) på TI-ruten viser svært høye, ikke-publiserte rater, og at «FRO Empire» går på over 800.000 USD/dag på subs. Disse tallene er ubekreftede brukerpåstander uten kildehenvisning, men peker på fortsatt sterkt spotmarked for VLCC dersom de stemmer. Ingen bekreftede fundamentale negative nyheter identifisert.
+### Frontline (FRO) – Blandet, høy nyhetsintensitet
+Ekstremt volatil dag drevet av geopolitikk. Nøkkelpunkter:
+- **VLCC-rater eksploderer**: Clarksons melder VLCC-snittrater over $600 000/dag globalt, med Hormuz-lasting opptil $1,5 mill/dag. Frontline-skipet "Front Morgan" ble fixet til USD 861 776/dag over 49 dager (bekreftet av flere brukere/børsdata).
+- **Iran/Hormuz-usikkerhet**: Rykter om at Iran tilbød å gjenåpne Hormuzstredet innen 7 dager (Kyodo News) sendte oljepris og tankaksjer kraftig ned, men Iran/Fars News dementerte senere at et slikt tilbud var gitt. Oljeprisen svingte kraftig rundt $99-100/fat.
+- Kursen falt fra rundt 490 til under 460 kr (og periodevis under $50/aksje i USA), delvis pga. ex-utbytte-effekt, delvis gevinstsikring etter kraftig oppgang, delvis pga. redusert geopolitisk risikopremie.
+- Bruker påpeker viktig nyanse: Frontline har mange skip bundet på faste rater, så ekstreme spotrater slår ikke fullt ut på bunnlinjen umiddelbart.
+- Ingen analytiker-handlinger identifisert i dette utvalget, kun markedsspekulasjon og retail-sentiment.
 
-### Okeanis Eco Tankers (OET)
-**Klassifisering: Ingenting nevneverdig**
-Enkelt innlegg om normal gevinstsikring etter kraftig kursoppgang - ingen ny fundamental informasjon. Relevant for segmentet: samme høye-rate-dynamikk som antydes for FRO (Oman subs) kan også være positivt for OET som del av samme tank-råolje-segment.
+### Okeanis Eco Tankers (OET) – Positivt signal (fundamentalt), men kortsiktig volatilt
+- Samme VLCC-rate-eksplosjon som over gjelder direkte for OET sin flåte (Nissos-skipene). Finansavisen bekrefter VLCC-snitt over 600 000 dollar/dag, spot ut av Persiabukten over 1,5 mill dollar/dag.
+- Detaljert flåteoppdatering fra bruker (ks1977) viser høy aktivitet og bevegelser mot Persiabukten/AG-regionen.
+- Kursfall også her pga. Hormuz-dementering, men fundamentalt uendret rateiakke ifølge flere brukere. Teknisk støtte nevnt ved 609-705 NOK (SMA50/EMA20).
 
-## Tank produkt/kjemikalier
+**Segment-vurdering råoljetank**: Kryssegment-drivende nyhet er den bekreftede VLCC-rateeksplosjonen (Clarksons/Finansavisen), som er svært positivt for både FRO og OET samtidig. Motsatt trekker Hormuz-fredsspekulasjoner (ubekreftet, senere dementert av Iran) ned begge aksjene kortsiktig. Dette er en kryssegment-hendelse som også påvirker gass (se ALNG) i mindre grad.
 
-### Stolt-Nielsen (SNI)
-**Klassifisering: Ingenting nevneverdig**
-Kun spekulative kommentarer om videre kursoppgang, ingen fundamentale nyheter.
+---
 
-## Gass
+## PRODUKT-/KJEMIKALIETANKERE – HAFNIA, Stolt-Nielsen
 
-### ALNG
-**Klassifisering: Ingenting nevneverdig**
-Makro-spekulativt innlegg om EUs betalingsvilje for dyr LNG - ingen konkret nyhet eller datapunkt.
+### Hafnia (HAFNI) – Positivt signal
+- Ny ATH både i Oslo (93,90 → 95,20 kr) og New York (USD 10,12) forrige uke.
+- Hafnia har økt eierandelen i TORM til ca. 18,2 % etter kjøp av 4,5 mill aksjer til USD 32,25 – nå TORMs klart største aksjonær. CEO antyder strategisk konsolideringsinteresse ("Bigger is better").
+- Q2-utbytte til norske aksjonærer betales 23. september.
+- Samme markedsdynamikk som CAPT/tank generelt: kraftig fall i «dirty tankers» nevnt i Capital Tankers-tråden, drevet av Hormuz-spekulasjon.
 
-## Tørrbulk
+### Stolt-Nielsen (SNI) – Ingenting nevneverdig
+Kun ett kort, ikke-substansielt innlegg.
 
-### 2020 Bulkers
-**Klassifisering: Blandet**
-Blanding av kursfall-kommentarer («trangt ut døra») og spekulasjon om kjøp ved lavere nivåer. Ingen fundamentale drivere nevnt.
+**Segment-vurdering produkt/kjemikalie**: Positivt sentiment i produkttank forsterkes av Hafnias TORM-posisjon og rekordrater, som også indirekte støtter opp om sentimentet i råoljetank (delt eksponering mot Hormuz/Rødehavet).
 
-### Himalaya Shipping (HSHP)
-**Klassifisering: Positivt signal**
-Baltic Capesize Index (BCI) stiger: 17. sep til 47.793 (+396), og videre til 49.450 (+638) rundt 21. sep. FFA for 2026 har også økt fra 46.000 til 47.000. Dette er konkrete, positive ratedatapunkter for tørrbulk-segmentet (Capesize), relevant også for 2020 Bulkers og Jinhui via read-across.
+---
 
-### CMB.TECH (offshore_spesialisert, men kryssrelevant kommentar)
-**Klassifisering: Positivt signal (kryssegment-relevans for tørrbulk)**
-Bruker rapporterer at capesizeratene steg nesten 1% torsdag, med Baltic Dry-indeksen opp 0,3%. Dette bekrefter samme positive tørrbulk-trend som nevnt under HSHP og er relevant for hele tørrbulk-segmentet (2020 Bulkers, Himalaya, Jinhui).
+## GASS – BW LPG, ALNG, KCC
 
-## Bilfrakt/RoRo
+### BW LPG – Blandet
+- Ingen konkrete nyheter, men referanse til at europeiske gasspriser falt kraftig (-7,9 % mandag, -3,5 % tirsdag) på håp om Hormuz-løsning – potensielt negativt for rater dersom det materialiserer seg.
+- Spekulasjon om ekstraordinært utbytte (Q3 kan bli 10-12 kr ifølge bruker), ubekreftet.
 
-### Høegh Autoliners (HAUTO)
-**Klassifisering: Ingenting nevneverdig**
-Kun emoji-kommentar, ingen substans.
+### ALNG – Positivt signal
+- Bruker nevner mulig kinesisk fjerning av 15 % toll på amerikansk LNG i forbindelse med handelsmøte, kombinert med lave vinterlagre – kan presse fraktrater opp ytterligere. Ubekreftet rykte, men fundamentalt sammenfallende med tidligere kommentarer om stram vintersesong.
 
-## Offshore spesialisert
+### Klaveness Combination Carriers (KCC) – Positivt signal
+- Bruker-estimat (ikke offisielt) antyder Q3 nettoinntjening på $18-24 mill og utbytte i intervallet $0,30-0,40, basert på estimerte dagrater ~$34-37 500 for CABU/CLEANBU.
+- Referanse til historisk sterke LR1-tankrater ($70 000-100 000+/dag) som gir indirekte drahjelp til kombinasjonsfrakt-segmentet.
 
-### Odfjell Drilling (ODL) - separat segment, men relevant kontraktsnyhet
-**Klassifisering: Positivt signal**
-Ifølge Upstream (16. sep) er riggen «Beacon Pacific», markedsført av Odfjell Drilling, angitt som favoritt til en stor ny borekontrakt i britisk Nordsjø. Dette er en konkret, kilderefererte nyhet med potensial for kontraktsinngåelse, men foreløpig kun "favoritt"-status, ikke bekreftet kontrakt.
+**Segment-vurdering gass**: Motstridende krefter – fallende gasspris pga. Hormuz-håp kan dempe rater på kort sikt, men strukturelt stramt marked inn mot vinteren (lave lagre, tollspekulasjon) er positivt på mellomlang sikt.
 
-## Kryssegment-observasjoner
+---
 
-- **Tørrbulk-segmentet** viser samlet positivt momentum denne perioden: Baltic Capesize Index opp flere dager på rad (HSHP-data), og separat bekreftelse fra CMB.TECH-tråden om at capesizerater og Baltic Dry-indeksen stiger. Dette er relevant read-across for 2020 Bulkers, Himalaya Shipping og Jinhui Shipping selv om ikke alle har egne nye innlegg.
-- **Tank råolje**: Ubekreftede men interessante rykter om svært høye VLCC-spotrater (800.000+ USD/dag på Oman-subs) kan være relevant for både Frontline og Okeanis Eco Tankers dersom det bekreftes gjennom offisielle kilder senere.
-- Ingen nye geopolitiske hendelser (Hormuz, Rødehavet, OPEC+) identifisert i denne runden som ville påvirket flere segmenter samtidig.
+## TØRRBULK – 2020 Bulkers, Himalaya Shipping, Jinhui
 
-## Øvrige aksjer (utenfor maritim-segmentering) - kort oppsummering
+### 2020 Bulkers – Blandet/Negativt kortsiktig
+- Selskapet kjøper 15 AHTS-fartøy (ankerhåndteringsfartøy) – stor strategisk retningsendring bort fra ren tørrbulk, ifølge e24-artikkel.
+- Gjennomfører reparasjonsemisjon til kurs ca. 2,8-2,99 NOK (etter justering for spleis/utbytte), som skaper usikkerhet og selgerpress. Betydelig utvanning ventes.
+- Sterk skepsis i forumet mot at aksjen er «hypet» og et «tomt skall» før AHTS-verdiene er på plass.
 
-- **Kongsberg Maritime (KMAR)**: Blandet - stor blokkhandel off-market på 900.000 aksjer til 61,29 kr rapportert, samtidig som flere brukere selger med gevinst. Blokkhandelen er et konkret datapunkt, men uklar retning/motiv.
-- **Odfjell Drilling**: Se ovenfor under offshore.
-- **Thor Medical (TRMED)**: Nevneverdig kryssnyhet - Telix Pharmaceuticals kjøper ITM for USD 1,65 mrd + opptil 700m i milepæler, og fremhever isotopforsyningssikkerhet. Thor Medical har en 5-årig leveranseavtale med Telix for Th-228. Indirekte, ikke direkte sammenlignbart, men kan tolkes som positivt bransjesignal for radioisotop-verdikjeden.
-- **Norsk Hydro, Orkla, Kongsberg Gruppen, DNO, Sal Mar, Grieg Seafood, Var Energi** m.fl.: Hovedsakelig subjektive brukerkommentarer, tekniske analyser (Investtech-kjøpsignal på Var Energi) og enkelte innsidehandel-oppdateringer (Arrowstreet reduserte shortposisjon i Grieg Seafood marginalt fra 1,10% til 1,09% - ikke vesentlig).
-- **Circio Holding, Thor Medical**: Mye spekulasjon om reparasjonsemisjoner og kursnivåer, ingen bekreftede fundamentale nyheter denne runden.
+### Himalaya Shipping (HSHP) – Positivt signal (Capesize-rater sterke)
+- Baltic Capesize Index (BCI) holder seg sterkt: ~$49-50 000/dag, opp fra ~$33 000 YTD-snitt. FFA-kurver også opp.
+- Bruker-diskusjon konkluderer med at en eventuell Hormuz-gjenåpning har liten/ingen direkte påvirkning på Capesize-rater (tørrbulk er ikke Hormuz-eksponert), snarere svakt positivt for verdensøkonomien generelt.
+
+### Jinhui Shipping – Ingen nye innlegg
+
+**Segment-vurdering tørrbulk**: Fundamentalt sterkt (BCI opp, FFA opp), men 2020 Bulkers sin AHTS-diversifisering og emisjon skaper company-spesifikk støy som ikke nødvendigvis reflekterer segmentets underliggende styrke. Himalaya fremstår som renest tørrbulk-eksponert av de tre.
+
+---
+
+## CONTAINER – MPC Container Ships
+
+### MPC Container Ships (MPCC) – Positivt signal
+- New ConTex-indeksen satte ny 47-årsrekord i 2026 (1650 poeng, opp fra 1646), med 14 av 16 klasser i oppgang.
+- Fearnley oppgraderer Mærsk fra hold til kjøp med kursmål 26 000 DKK (fra ~23 350 DKK), med EBITDA-estimat hevet til $13,2 mrd for 2026 – begrunnet med vedvarende logistikk-flaskehalser/portkøer.
+- Svært lav shortandel i MPCC (kun 0,72 % hos Fearnley, ifølge lang analyse fra bruker «New contex»), tolkes som tegn på at markedsaktører ikke tror på nedside.
+- Kursen nær motstand på 28,73-28,75, med potensial mot 30-tallet ved brudd.
+
+**Segment-vurdering container**: Fearnleys Mærsk-oppgradering og ConTex-rekorden er reelle, verifiserbare positive signaler for hele containersegmentet, drevet av vedvarende global logistikk-flaskehalser.
+
+---
+
+## BILFRAKT/RORO – Höegh Autoliners, Wallenius Wilhelmsen, Wilh. Wilhelmsen
+
+### Höegh Autoliners (HAUTO) – Ingenting nevneverdig
+Kun teknisk diskusjon om kapasitetsutnyttelse på innleide skip, ingen konkrete tall eller nyheter.
+
+### Wallenius Wilhelmsen (WAWI) – Ingenting nevneverdig
+Begrenset diskusjon, en bruker nevner å ha solgt seg ut rundt 140 kr.
+
+**Segment-vurdering bilfrakt/RoRo**: Ingen konkrete kryssegment-drivere denne runden utover generell markedsstøy. Ingen tegn til bilfrakt-spesifikke katalysatorer (kinesisk bileksport e.l.) i dette utvalget.
+
+---
+
+## OFFSHORE/SPESIALISERT – Solstad Offshore, CMB.TECH, Capital Tankers, SED Energy, ADS Maritime
+
+### CMB.TECH (CMBTO) – Positivt signal (rykte, ubekreftet)
+- Rykter om «gigantisk skipsdeal» hvor CMB.TECH skal selge VLCC-reslag til rundt $250 mill/skip (TradeWinds/Finansavisen-rykte). Hvis bekreftet, indikerer det betydelig gevinst vs. kostpris (~$110-115 mill/skip ifølge bruker-estimat).
+- Selskapet trader under NAV til tross for sterke tank- og tørrbulk-rater samtidig – bruker påpeker dette som en anomali.
+
+### Capital Tankers Corp (CAPT) – Negativt signal (kortsiktig)
+- Kraftig fall i «dirty tankers» generelt (OET ned ~7%, FRO og CAPT følger etter), drevet av Hormuz-fredsspekulasjon og påfølgende dementering. Ingen selskapsspesifikke negative nyheter, ren markedskorrelasjon med råoljetank-segmentet.
+
+### SED Energy Holdings (ENH) – Negativt signal
+- Aksjen falt kraftig (opptil -12%) etter tapt anbud til jack-up-riggkonkurrenter på lavere dagrater (~65 000 USD/dag vs. forventet 90-150k). Pareto/ABG har nedgradert og kutter EBITDA-estimater 10-20% for 2027.
+- **Positivt motstykke**: EGM godkjente USD 25 mill kontantutdeling (~NOK 0,32/aksje, ex-dato 9.11), og selskapet fikk kortere «idle»-periode enn ventet på 2 rigger via ny PTTEP-kontrakt (oppstart feb/april 2027 vs. forventet H2 2027).
+- Tydelig oversupply-bekymring i jack-up-riggmarkedet nevnt av flere brukere.
+
+### Solstad Offshore (SOFF) – Ingenting nevneverdig
+Kun teknisk kommentar om motstand ved 70 kr.
+
+### Odfjell Drilling (ODL) – relatert offshore, ingenting nevneverdig utover generell optimisme og teknisk støtte ved 103.
+
+**Segment-vurdering offshore/spesialisert**: Blandet – CMB.TECH-ryktet er potensielt stort, men ubekreftet. SED Energy viser konkret negativ utvikling (tapt anbud, nedgraderinger) som kan være tidlig varsel om press i jack-up-riggmarkedet generelt, relevant å følge for andre riggselskaper.
+
+---
+
+## ANDRE NORSKE AKSJER MED VESENTLIGE FUNN
+
+**Norsk Hydro**: Nevnt på vei mot 52-ukers bunn, ingen begrunnelse gitt.
+
+**Orkla**: Nytt tilbakekjøpsprogram på inntil 4 mrd NOK/80 mill aksjer annonsert. Blandet mottakelse – noen mener strukturen er logisk inkonsistent («80 mill aksjer» vs. «4 mrd NOK»-ramme).
+
+**Kongsberg Automotive (KOA)**: Positive bransjesignaler – Michelins dekksalgstall indikerer sterkeste kvartal for lastebilproduksjon på 3 år (august opp 9% globalt, Nord-Amerika +22%). Pareto har kjøpsanbefaling på Volvo/Traton med henvisning til dette. Ingen KOA-spesifikk nyhet, men bransjedrevet medvind.
+
+**Kongsberg Gruppen (KOG)**: Tidligere konsernsjef har solgt aksjer for millioner (e24), beskrevet som «mikrodel» av total beholdning. Nammo (deleid av Kongsberg via Patria) demonstrerte nye FPV-angrepsdroner. Ingen store kursutløsende hendelser.
+
+**DNB**: BNP Paribas gjenopptok dekning med «outperform» og kursmål 390 kr (nevnt som tidligere kjent nyhet, ikke ny denne runden).
+
+**Elkem**: Mottar tilleggskvoter under EU ETS 2021-2025 verdt ca. 1,3 mrd NOK (bekreftet børsmelding), tilsvarer grovt 3-3,4 kr/aksje i verdi. Positivt, konkret.
+
+**Thor Medical (TRMED)**: Reparasjonsemisjon på inntil 9,4 mill aksjer til 4,80 kr **avlyst** (bekreftet av bruker med henvisning til direktemelding). Positivt for eksisterende aksjonærer da overheng fjernes.
+
+**Envipco (ENVIP)**: Ny «preferred supplier»-avtale i UK for reverse vending-maskiner foran DRS-lansering okt. 2027. Kommersiell effekt beskrives som gradvis, ingen tallfestet kontraktsverdi oppgitt.
+
+**B2 Impact**: Finansavisen-artikkel om at «superinvestorer» kjøpte aksjer til rabatt da storaksjonær solgte, med analytiker (Ulrik Årdal Zürcher) positiv til kombinasjonen utbytte/vekst.
+
+**Bakkafrost/laksesektoren**: SB1 Markets gjentar kjøpsanbefaling på 5 lakseaksjer (Bakkafrost, Lerøy, Grieg Seafood, Mowi, SalMar) med Bakkafrost som toppvalg og forventet laksepris opp 15% til 87 kr/kg i 2027. Grieg Seafood har høyest oppside i kursmål (60%).
+
+**Norske Skog**: Kraftig intraday-volatilitet, mulig utløst av Pareto-analyse, uklar årsak til nedgang.
+
+---
+
+## OPPSUMMERING KRYSSEGMENT-FUNN
+1. **VLCC-rateeksplosjon (bekreftet av Clarksons/Finansavisen)** er den klart viktigste kryssegment-nyheten: snittrater over $600 000/dag, opptil $1,5 mill/dag i Hormuz. Dette er strukturelt positivt for FRO, OET, CAPT og indirekte HAFNIA/SNI (produkttank) samt CMB.TECH.
+2. **Hormuz-fredsspekulasjon og dementering** skapte kraftig, men trolig midlertidig, nedgang på tvers av hele tank-segmentet (FRO, OET, CAPT, HAFNIA) denne uken. Iran har offisielt dementert Kyodo-rapporten om 7-dagers gjenåpning.
+2b. Samme Hormuz-usikkerhet påvirker gass-segmentet (fallende europeiske gasspriser) og olje-eksponerte aksjer (DNO, Vår Energi, Aker BP, Panoro) via oljeprisfall til under $99-100/fat.
+3. **Tørrbulk (BCI) forblir sterkt** og upåvirket av Hormuz, bekreftet av flere brukere – viktig å skille fra tank-segmentets volatilitet.
+4. **Container-sentiment styrkes** av Fearnleys Mærsk-oppgradering og ny ConTex-rekord, drevet av vedvarende globale logistikk-flaskehalser – separat tema fra Midtøsten-uro.
 
 Dette er en signalrapport basert på forumaktivitet, ikke en kjøps- eller salgsanbefaling.

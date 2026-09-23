@@ -1,9 +1,25 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-09-23T01:04:42.119187+00:00",
+  "scraped_at": "2026-09-23T06:58:49.610213+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cd4e797245abe3be",
+      "author": "Jokerman01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jokerman01",
+      "posted_relative": "for 1 t siden",
+      "text": "Her kan vi lese om TGS sitt perspektiv. Kan være nyttig å ta med seg. https://www.finansavisen.no/energi/2026/09/22/8382358/investeringene-bremser-opp-holder-igjen-pa-havvind",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/22/8382358/investeringene-bremser-opp-holder-igjen-pa-havvind"
+      ],
+      "char_count": 174,
+      "has_link": true
+    }
+  ]
 }

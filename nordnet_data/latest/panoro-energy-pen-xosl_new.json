@@ -1,9 +1,40 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-09-23T01:03:39.030064+00:00",
+  "scraped_at": "2026-09-23T06:57:32.483667+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "974997094ce019c8",
+      "author": "blacktime",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacktime",
+      "posted_relative": "for 1 t siden",
+      "text": "Et innlegg i DN hvor ABG-analytikerne har satt de større olje og gass selskapene på selg, men er positiv til de mindre oljeselskapene.  «ABG-analytikerne er samtidig mer positive til de mindre oljeaksjene, som BW Energy, DNO, Okea og Panoro Energy.» https://www.dn.no/bors/oslo-bors/bratt-oljeprisfall-trakk-ned-borsen-tankaksjer-stupte/2-1-2046883",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/bors/oslo-bors/bratt-oljeprisfall-trakk-ned-borsen-tankaksjer-stupte/2-1-2046883"
+      ],
+      "char_count": 348,
+      "has_link": true
+    },
+    {
+      "key": "9a00effdd64e81dd",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 14 min siden",
+      "text": "· Det var ingen planlagt USA-Iran-møte ved FN-møtet, men Trump ba Kushner/Witcoff om å invitere til et møte som Iran hadde vanskelig for å takke nei til på stedet. På møtet gjentok Irans utenriksminister de syv punktene som gjelder for at vi skal komme videre med frigjøring av frosne eiendeler, fred i regionen, opphevelse av blokaden osv. Dette møtet ble presentert av Trump som konstruktivt, men ingenting nytt skjedde. Oljen var på vei opp etter at Iran hadde dementert at sundet skulle åpnes om 7 dager, men falt da igjen (på håp om fred). Kjemp videre, gutter og jenter, dette går over.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 592,
+      "has_link": false
+    }
+  ]
 }

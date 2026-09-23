@@ -1,9 +1,23 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-23T01:06:19.522632+00:00",
+  "scraped_at": "2026-09-23T07:00:14.390635+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "feaa771812d6924c",
+      "author": "R3.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/r3",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva er egentlig årsaken til nedgangen av denne aksjen nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

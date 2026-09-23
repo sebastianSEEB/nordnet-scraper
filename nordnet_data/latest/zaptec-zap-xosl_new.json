@@ -1,9 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-09-23T01:03:30.961422+00:00",
+  "scraped_at": "2026-09-23T06:57:24.775031+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0db7d0595f97d3f4",
+      "author": "MisKina",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
+      "posted_relative": "for 16 t siden",
+      "text": "· Det ser ikke ut til at våre faste daytradere her inne, har lyst til å selge ut mer 😉😎 Og det må være noen som har blitt hektet av, etter de siste par dagene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    },
+    {
+      "key": "f2310ed1e9b2255f",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 29 min siden",
+      "text": "ser ut som ZAP stiger hver dag!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }
