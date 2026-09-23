@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-09-23T23:21:25.460397+00:00",
+  "scraped_at": "2026-09-23T23:46:10.124563+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f7c9edd203400f7d",
+      "author": "sokapi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sokapi",
+      "posted_relative": "for 18 min siden",
+      "text": "Hvorfor så mye nedgang ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

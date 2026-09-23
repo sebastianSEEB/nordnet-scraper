@@ -1,9 +1,23 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-09-23T23:23:55.713640+00:00",
+  "scraped_at": "2026-09-23T23:48:54.621410+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a6ac9b3c4c6eb98b",
+      "author": "sokapi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sokapi",
+      "posted_relative": "for 23 min siden",
+      "text": "Hvorfor all denne nedgangen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }
