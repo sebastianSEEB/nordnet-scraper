@@ -1,9 +1,40 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-23T07:00:37.649157+00:00",
+  "scraped_at": "2026-09-23T12:11:29.478586+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "337af5b305649565",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 1 t siden",
+      "text": "Skandi Peregrino blir vedtatt kjøpt om 6 dager, da går det vel ikke lange tiden før man får høre prisen og hva Akastor vil gjøre med kontantene og det tomme selskapet etter salget. kan fort bli en opptur da.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 207,
+      "has_link": false
+    },
+    {
+      "key": "e2fa913aac91ab9f",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 3 t siden",
+      "text": "Noe fundamentalt som har endret seg eller bare litt støy ??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }

@@ -1,24 +1,80 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-23T06:59:51.502866+00:00",
+  "scraped_at": "2026-09-23T12:10:36.997103+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "7a69ea4b69f9dd6a",
-      "author": "TexasTS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texasts",
-      "posted_relative": "for 23 min siden",
-      "text": "Litt typisk; når en aksje gjør det bra kommer de kortsiktige investorene som fluer til møkk og vil ha return på en uke, Jeg gjør som Must, lar den ligge som årgangsvin. Den blir bare bedre og bedre med årene.",
+      "key": "da788d682bdcc5e6",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden",
+      "text": "Magefølelsen sier at de som tar litt gevinst nå går glipp av en mega gevinst ved å holde på aksjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "c51425de2d1383a5",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 1 t siden",
+      "text": "Ingen korreksjon - det var jeg som kjøpte meg inn. Aksjer pleier å reagere akkurat slik, da",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        22
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "aa70ba47271b1cde",
+      "author": "rocketball",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rocketball",
+      "posted_relative": "for 2 t siden",
+      "text": "Og der kom korreksjonen… kjøpe seg inn billig nå Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        5
       ],
       "links": [],
-      "char_count": 208,
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "7bef6b61b8dffe46",
+      "author": "Eltedeig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eltedeig",
+      "posted_relative": "for 4 t siden",
+      "text": "Magefølelsen sier det blir en rød dag :-(",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "c65d1fd193cf4bd2",
+      "author": "khai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/khai",
+      "posted_relative": "for 4 t siden",
+      "text": "Det er kjennetegnet på en visjonær.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
       "has_link": false
     }
   ]

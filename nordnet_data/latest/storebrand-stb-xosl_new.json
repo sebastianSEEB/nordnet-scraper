@@ -1,9 +1,67 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-09-23T07:01:45.108355+00:00",
+  "scraped_at": "2026-09-23T12:12:35.824320+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "ca3e259206d5db16",
+      "author": "ChrisDpro",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisdpro",
+      "posted_relative": null,
+      "text": "19. sep. · Seriøst spørsmål: Storebrand virker å være en populær ”sikker” langsiktig beholdning. Hva ser du som den største fordelen med å eie Storebrand sammenlignet med å bare ha den delen av porteføljen i et globalt indeksfond? Jeg prøver å forstå hva som gjør risiko/avkastning attraktivt nok til å velge Storebrand fremfor et indeksfond. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 362,
+      "has_link": false
+    },
+    {
+      "key": "fda5779470cee792",
+      "author": "RoKri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rokri",
+      "posted_relative": "for 58 min siden",
+      "text": "Ligger i et oversolgt område teknisk. Blir spennende hvordan rentebeslutningen påvirker kursen når den kommer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "dd0f171072175961",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 49 min siden",
+      "text": "Gjensidige F faller 4 %",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    },
+    {
+      "key": "eec9f1c8f464a320",
+      "author": "Filiperkul123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/filiperkul123",
+      "posted_relative": "for 3 t siden",
+      "text": "· Tanker",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

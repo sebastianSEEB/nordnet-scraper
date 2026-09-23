@@ -1,9 +1,40 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-09-23T07:00:02.743732+00:00",
+  "scraped_at": "2026-09-23T12:10:54.719503+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1a52e857dc151acd",
+      "author": "PolarBeear",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarbeear",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg tipper Purus blir refinasiert til en lav pris og at HEX overtar som ny storeier, i et selsakp med lav gjeld",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "63783fe85c38f604",
+      "author": "LESTO83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lesto83",
+      "posted_relative": "for 3 t siden",
+      "text": "Er det noe i det",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

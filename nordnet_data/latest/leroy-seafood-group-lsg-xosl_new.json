@@ -1,25 +1,27 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-23T06:57:47.662503+00:00",
+  "scraped_at": "2026-09-23T12:08:47.813713+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "495a6a2d04e4326d",
+      "key": "7e29d290b34ee995",
       "author": "PH1223",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
-      "posted_relative": "for 25 min siden",
-      "text": "Eksportpris var 71,41 kroner pr kilo  i uke 38, opp 1,8 %.  Det opplyser Statistisk sentralbyrå .",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
-      "links": [],
-      "char_count": 97,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget"
+      ],
+      "char_count": 129,
+      "has_link": true
     }
   ]
 }

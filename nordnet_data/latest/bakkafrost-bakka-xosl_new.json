@@ -1,9 +1,40 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-09-23T06:58:26.392382+00:00",
+  "scraped_at": "2026-09-23T12:09:18.894167+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7e29d290b34ee995",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget"
+      ],
+      "char_count": 129,
+      "has_link": true
+    },
+    {
+      "key": "495a6a2d04e4326d",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": "for 4 t siden",
+      "text": "Eksportpris var 71,41 kroner pr kilo  i uke 38, opp 1,8 %.  Det opplyser Statistisk sentralbyrå .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

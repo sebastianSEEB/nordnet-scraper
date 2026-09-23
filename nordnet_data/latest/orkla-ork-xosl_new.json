@@ -1,9 +1,88 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-09-23T07:01:41.345081+00:00",
+  "scraped_at": "2026-09-23T12:12:32.090715+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "cad18086b1e809f7",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Orkla kjøper egne aksjer for 4 milliarder NOK: https://www.finansavisen.no/tdn/2026/09/21/06597774/orkla-starter-aksjetilbakekjopsprogram-pa-opptil-4-mrd Egenskap: Detalj Rammebeløp Opptil 4 milliarder NOKAksjeantallInntil 80 millioner aksjerTidsramme22. september 2026 – 31. desember 2027HovedmålReduksjon av aksjekapital (sletting)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/09/21/06597774/orkla-starter-aksjetilbakekjopsprogram-pa-opptil-4-mrd"
+      ],
+      "char_count": 333,
+      "has_link": true
+    },
+    {
+      "key": "558340dc264d1608",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Jo lavere Orkla går, jo bedre er det for selskap. De kan kjøpe billige aksjer. Vi trenger ikke å snitte ned. 4 milliarder skal brukes for å kjøpe tilbake aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 161,
+      "has_link": false
+    },
+    {
+      "key": "b7e456981736cafe",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 t siden",
+      "text": "2 innsidekjøp på toppen av tilbakekjøpsprogrammet på 4 mrd. NOK gir en interessant kombinasjon av selskapets egne tilbakekjøp, innsidekjøp og teknisk analyse 📈📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    },
+    {
+      "key": "b18f8c5dde07de6a",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 4 t siden",
+      "text": "Tror vi får et nytt kursbyks ganske snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "f80598f40fbe863c",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 1 t siden",
+      "text": "· 100+ før 2027",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

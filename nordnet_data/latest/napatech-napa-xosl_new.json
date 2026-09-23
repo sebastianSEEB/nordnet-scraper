@@ -1,9 +1,45 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-09-23T06:58:42.679091+00:00",
+  "scraped_at": "2026-09-23T12:09:31.094376+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cecfa46e8e56f617",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 1 t siden",
+      "text": "Kan det vare noe i denne da.. https://e24.no/boers-og-finans/i/Araprn/jakten-paa-den-neste-ai-vinneren-vil-sprute-cash",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/Araprn/jakten-paa-den-neste-ai-vinneren-vil-sprute-cash"
+      ],
+      "char_count": 118,
+      "has_link": true
+    },
+    {
+      "key": "5db1d250b4b67ea3",
+      "author": "NorthbyNorthwest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://www.linkedin.com/pulse/adaptive-ai-data-plane-explained-napatech-pteme/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [
+        "https://www.linkedin.com/pulse/adaptive-ai-data-plane-explained-napatech-pteme/"
+      ],
+      "char_count": 81,
+      "has_link": true
+    }
+  ]
 }

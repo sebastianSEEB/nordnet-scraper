@@ -1,9 +1,25 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-09-23T06:59:19.417789+00:00",
+  "scraped_at": "2026-09-23T12:10:06.798149+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "62620f14f4fa5ffd",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "En klar tendens siste tid i Elopak , blant 50 største aksjonærer : her blir vi sittende ut fra kurs / utbytte utsikter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    }
+  ]
 }

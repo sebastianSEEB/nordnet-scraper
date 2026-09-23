@@ -1,22 +1,37 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-09-23T07:00:14.390635+00:00",
+  "scraped_at": "2026-09-23T12:11:06.058234+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "feaa771812d6924c",
-      "author": "R3.",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/r3",
-      "posted_relative": "for 1 t siden",
-      "text": "Hva er egentlig årsaken til nedgangen av denne aksjen nå?",
+      "key": "64fae08dde16aa15",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 23 min siden",
+      "text": "Det har gått ned etter analyse og mål 70 fra Par. Som om den var bestilt for at noen skulle komme ut over 55 kroner.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 57,
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "9f2df7cc544b1df5",
+      "author": "R3.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/r3",
+      "posted_relative": "for 6 t siden",
+      "text": "Hva er egentlig årsaken til nedgangen av denne aksjen nå? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 77,
       "has_link": false
     }
   ]
