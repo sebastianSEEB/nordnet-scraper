@@ -1,9 +1,25 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-09-23T12:31:06.974218+00:00",
+  "scraped_at": "2026-09-23T17:36:25.039084+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2cbb2edd97be8f3a",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 30 min siden",
+      "text": "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget"
+      ],
+      "char_count": 129,
+      "has_link": true
+    }
+  ]
 }

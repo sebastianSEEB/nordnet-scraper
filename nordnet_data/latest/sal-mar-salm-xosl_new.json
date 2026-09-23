@@ -1,9 +1,53 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-09-23T12:31:55.444254+00:00",
+  "scraped_at": "2026-09-23T17:37:07.036642+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "cfc017fd0ea38c00",
+      "author": "Xlan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xlan",
+      "posted_relative": "for 35 min siden",
+      "text": "https://www.finansavisen.no/sjomat/2026/09/23/8382785/salmar-vant-igjen-i-bitter-strid",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/09/23/8382785/salmar-vant-igjen-i-bitter-strid"
+      ],
+      "char_count": 86,
+      "has_link": true
+    },
+    {
+      "key": "7538610943bd8d65",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva mener du med bedre?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    },
+    {
+      "key": "c42f2ea87e991cce",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 4 t siden",
+      "text": "Akkurat nå Mowi bedre?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

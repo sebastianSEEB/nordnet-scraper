@@ -1,9 +1,25 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-09-23T12:29:52.619296+00:00",
+  "scraped_at": "2026-09-23T17:35:10.835962+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "87cb2e8ee54cab3f",
+      "author": "Jonas1985",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jonas1985",
+      "posted_relative": "for 4 t siden",
+      "text": "Det kan altså komme en melding fra Tomra i dag etter børsstengning om at de er den andre foretrukne leverandøren.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    }
+  ]
 }

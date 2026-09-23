@@ -1,22 +1,112 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-09-23T12:29:37.415207+00:00",
+  "scraped_at": "2026-09-23T17:34:55.443487+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
   "posts": [
     {
-      "key": "d1c188827b5b7052",
-      "author": "Batty",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
-      "posted_relative": "for 3 min siden",
-      "text": "· VIC hvor ligger vendepunktet?",
+      "key": "9f5b82b422a5a873",
+      "author": "Lukcy Luke",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lukcy-luke",
+      "posted_relative": "for 23 min siden",
+      "text": "https://www.finansavisen.no/teknologi/2026/09/23/8382742/ny-ai-agent-skaper-uro-pa-oslo-bors",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/09/23/8382742/ny-ai-agent-skaper-uro-pa-oslo-bors"
+      ],
+      "char_count": 92,
+      "has_link": true
+    },
+    {
+      "key": "8b3f8be93ec24405",
+      "author": "Bolster",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bolster",
+      "posted_relative": "for 2 t siden",
+      "text": "Tipper Huse har kjøpt i dag. Han solgte alt for noen dager siden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "f9d3d415691210b7",
+      "author": "stian98",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stian98",
+      "posted_relative": "for 3 t siden",
+      "text": "En stor hai som solgte unna mye nå, spend på hvem og hva",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        6
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "84f9c3ec0b829110",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 3 t siden",
+      "text": "Har du sett.. her spørs det om vi må fylle på",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "f528ceec012812d0",
+      "author": "austre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/austre",
+      "posted_relative": "for 3 t siden",
+      "text": "· Nesten uvirkelig ned over 7 %.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 31,
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "8414750efd75cd40",
+      "author": "Rolfkul",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hahahaahhaha",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    },
+    {
+      "key": "851fcd7b68b9aab1",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": "for 3 t siden",
+      "text": "herregud!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 9,
       "has_link": false
     }
   ]

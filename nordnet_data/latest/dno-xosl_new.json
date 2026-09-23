@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-23T12:31:48.086540+00:00",
+  "scraped_at": "2026-09-23T17:36:59.341598+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "36be603c83075b05",
+      "author": "Aksjelady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelady",
+      "posted_relative": "for 4 t siden",
+      "text": "Bare å glede seg til Q3 rapport 29 oktober, da kommer det fram at selskapet gjør det bra!🤩",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    }
+  ]
 }

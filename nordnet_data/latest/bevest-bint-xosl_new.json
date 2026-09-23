@@ -1,9 +1,25 @@
 {
   "slug": "bevest-bint-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bevest-bint-xosl",
-  "scraped_at": "2026-09-23T12:35:35.451190+00:00",
+  "scraped_at": "2026-09-23T17:40:34.281703+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2b66304bdfe82b54",
+      "author": "BuldreMonster",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buldremonster",
+      "posted_relative": "for 2 t siden",
+      "text": "De eier vel bare 70% av Seafood Investment så eierandelen i Sinkaberg blir da ca 31% og ikke 44,4%. De oppgir i hvert fall selv 31% eierandel i presentasjoner, men de kunne gjerne vært tydeligere på at de bare eier 70% av selskapet som eier Sinkaberg. Med forbehold om at jeg har forstått dette rett..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 301,
+      "has_link": false
+    }
+  ]
 }

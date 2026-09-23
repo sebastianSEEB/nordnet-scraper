@@ -1,9 +1,36 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-09-23T12:35:18.519336+00:00",
+  "scraped_at": "2026-09-23T17:40:22.187033+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5cfd3dde383f75cd",
+      "author": "House shark",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/house-shark",
+      "posted_relative": "for 4 t siden",
+      "text": "He he ja men uten sammenligning for øvrig. Mener at Lennar holder hus i USA eller ?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "d5afe42c4473a560",
+      "author": "-Dirk Diggler-",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dirk-diggler-1",
+      "posted_relative": "for 4 t siden",
+      "text": "· Ok....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

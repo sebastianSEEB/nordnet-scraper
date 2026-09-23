@@ -1,9 +1,38 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-09-23T12:33:59.157476+00:00",
+  "scraped_at": "2026-09-23T17:39:01.730615+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1ac27b1e59c0b350",
+      "author": "Turbokrutt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turbokrutt",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvorfor betaler AF gruppen mye dårligere utbytte i forhold til Veidekke  ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "8ba0b8a506151c71",
+      "author": "VITO44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vito44",
+      "posted_relative": "for 2 t siden",
+      "text": "De har mulighet for 2 utbytteutbetalinger i året, Veidekke 1.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

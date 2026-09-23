@@ -1,9 +1,38 @@
 {
   "slug": "klaveness-combination-carriers-kcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/klaveness-combination-carriers-kcc-xosl",
-  "scraped_at": "2026-09-23T12:28:22.057296+00:00",
+  "scraped_at": "2026-09-23T17:33:35.275016+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1689c149cdade03b",
+      "author": "Oxion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
+      "posted_relative": "for 2 t siden",
+      "text": "3% ned og høy omsetning, Hvorfor ?? Lr1 ratene er på historisk høye nivåer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "17c649b1b4eae189",
+      "author": "Linjemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/linjemannen",
+      "posted_relative": "for 2 t siden",
+      "text": "Vanskelig å forstå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-09-23T12:33:47.917900+00:00",
+  "scraped_at": "2026-09-23T17:38:47.747978+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2e873ed0e8d15eb4",
+      "author": "PEYO_INVEST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peyo_invest",
+      "posted_relative": "for 52 min siden",
+      "text": "Hvorfor tror du det? de kan kjøpe billig ammoniakk fra andre regioner, kursen og inntjeningen har gått veldig bra i 2022 og under Hormuz med høye gasspriser…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 157,
+      "has_link": false
+    },
+    {
+      "key": "10aae0175d311a2b",
+      "author": "baleros",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baleros",
+      "posted_relative": "for 59 min siden",
+      "text": "YARA vil stupe snart når gassprisene i europa begynner å stige mot vinteren",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }
