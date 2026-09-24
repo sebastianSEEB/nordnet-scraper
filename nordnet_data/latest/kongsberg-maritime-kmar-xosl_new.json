@@ -1,9 +1,70 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-09-24T02:10:07.995004+00:00",
+  "scraped_at": "2026-09-24T07:59:09.657714+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "002a6f5cb6747302",
+      "author": "Dummedagsmannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dummedagsmannen",
+      "posted_relative": "for 59 min siden",
+      "text": "Finnes den en slags norm på hvordan selskaper som kommer på børs oppfører seg de første månedene? Jeg er relativt ny, og de få selskapene jeg har sett fra ipo går relativt sidelengs med veldig like graf. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 223,
+      "has_link": false
+    },
+    {
+      "key": "df80d6f9b821073e",
+      "author": "Nerevs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nerevs",
+      "posted_relative": "for 47 min siden",
+      "text": "Tipper den skal ned til rundt 60 kr igjen før den skal opp igjen. Et gap der rent teknisk. But who knows....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "bec17f98738987f2",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 52 min siden",
+      "text": "Ingen norm. Verdien eller forventet verdi i selskapet som styrer kursen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "c779d86971d0cc96",
+      "author": "Savage",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/savage",
+      "posted_relative": "for 1 t siden",
+      "text": "Opp i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }

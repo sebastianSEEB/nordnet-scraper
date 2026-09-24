@@ -1,9 +1,23 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-09-24T02:09:22.191393+00:00",
+  "scraped_at": "2026-09-24T07:58:31.131561+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8fa05ff78d00b9fd",
+      "author": "BurgerKing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/burgerking",
+      "posted_relative": "for 9 min siden",
+      "text": "Her er siste 10 års owner earnings vs ROE for Bouvet. Earnings falt litt i 2025, men siste kvartalsrapport viste en forbedring",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    }
+  ]
 }

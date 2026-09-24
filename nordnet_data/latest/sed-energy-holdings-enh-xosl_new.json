@@ -1,9 +1,99 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-09-24T02:09:00.418596+00:00",
+  "scraped_at": "2026-09-24T07:58:12.083496+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "5c0a1023a34e7467",
+      "author": "Christoffer99",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/christoffer99",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen med tilgang som kan dele? https://www.finansavisen.no/energi/2026/09/23/8382564/kutter-kursmalet-utbyttet-er-ikke-baerekraftig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/23/8382564/kutter-kursmalet-utbyttet-er-ikke-baerekraftig"
+      ],
+      "char_count": 131,
+      "has_link": true
+    },
+    {
+      "key": "9b70a0ecc849353f",
+      "author": "Beardboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beardboy",
+      "posted_relative": "for 17 t siden",
+      "text": "Er det slik at Q3/Q4-utbytte fra ENH før fusjonen går til dagens ENH-aksjonærer, mens fremtidige utdelinger etter fusjonen vil tilfalle både tidligere ENH-aksjonærer og de nye Ventura-aksjonærene. Noen som VET?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 210,
+      "has_link": false
+    },
+    {
+      "key": "afd874a3c182f117",
+      "author": "Beardboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beardboy",
+      "posted_relative": "for 53 min siden",
+      "text": "Hei Vil det si art utbyttene for Q3/Q4-26 vil utbetales til aksjonærene i det nye sammenslåtte selskapet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "09fa4c9b659b0812",
+      "author": "nick.s",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nicks-1",
+      "posted_relative": "for 37 min siden",
+      "text": "Er det fusjonen som gjør at du ikke kan kjøpe denne med ask lenger?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "7ef407b1f915ca21",
+      "author": "Gisco",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gisco",
+      "posted_relative": "for 43 min siden",
+      "text": "Analytiker setter kursmålet ned fra 11 til 9 men anbefaler kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "496bd67ee1a6b883",
+      "author": "Brukerutennavn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brukerutennavn",
+      "posted_relative": "for 11 min siden",
+      "text": "Jeg fylte på i går helt uten problem iallefall.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

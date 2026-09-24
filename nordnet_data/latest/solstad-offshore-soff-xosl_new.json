@@ -1,9 +1,25 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-09-24T02:06:57.799310+00:00",
+  "scraped_at": "2026-09-24T07:56:14.203214+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4258c2cdc9f75c24",
+      "author": "Allstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allstein",
+      "posted_relative": "for 53 min siden",
+      "text": "Ser at statusen for Mermaid nå er - PPT until 17.10.26",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

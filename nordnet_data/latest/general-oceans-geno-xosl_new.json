@@ -1,9 +1,38 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-09-24T02:13:03.917702+00:00",
+  "scraped_at": "2026-09-24T08:02:15.982464+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2e92397d69df8ef2",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
+      "posted_relative": "for 1 t siden",
+      "text": "· Skal til 100+",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    },
+    {
+      "key": "eb05f28a59d4bcbf",
+      "author": "Gellenen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gellenen",
+      "posted_relative": "for 59 min siden",
+      "text": "· Islandske kr?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

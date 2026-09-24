@@ -1,9 +1,23 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-09-24T02:11:34.832108+00:00",
+  "scraped_at": "2026-09-24T08:00:48.633168+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "744d447299000d44",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 3 min siden",
+      "text": "Det  store kommende år for NHY blir kabel \"trådsinneriet\" som i dag går på full kapasitet. Bygger nytt trådsinneri NÅ. Nhy kalte det selv for bonanza tilstander.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 161,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-09-24T02:09:49.458164+00:00",
+  "scraped_at": "2026-09-24T07:58:58.162511+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "19ecec588364e3d0",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 2 t siden",
+      "text": "Mulig det, men ser etter noe mye større enn dagens kurspris , som feks DNB Carnegie-scenarioet som nettopp ble vist fra de. FCF tilsvarende rundt 70 % av dagens børsverdi dersom høye  olje- og gasspriser holder seg ut 2027.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 223,
+      "has_link": false
+    }
+  ]
 }

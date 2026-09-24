@@ -1,9 +1,39 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-09-24T02:09:33.931656+00:00",
+  "scraped_at": "2026-09-24T07:58:42.423021+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d34983f774ec608b",
+      "author": "KingKrypt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kingkrypt",
+      "posted_relative": "for 27 min siden",
+      "text": "Tja, den er vell et stykke fra å være oversolgt ennå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "840baab0588b5e32",
+      "author": "11111111",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/11111111",
+      "posted_relative": "for 23 t siden",
+      "text": "· Det ser ut som den blir oversolgt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

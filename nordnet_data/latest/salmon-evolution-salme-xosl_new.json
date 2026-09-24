@@ -1,9 +1,40 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-09-24T02:13:57.184005+00:00",
+  "scraped_at": "2026-09-24T08:03:09.842895+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "46dfea78153731c0",
+      "author": "Fastfive20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fastfive20",
+      "posted_relative": "for 11 min siden",
+      "text": "la shorterene jobbe med å komme seg ut.  hold fast på aksjene, vi er fortsatt laangt nede i gjørma tross oppgang siste uken. 🐟🐟🤫",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "6f555acf03b9d30d",
+      "author": "lakselva",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakselva",
+      "posted_relative": "for 13 min siden",
+      "text": "Ser vi 3,50 i dag, ser slik ut👏👏",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

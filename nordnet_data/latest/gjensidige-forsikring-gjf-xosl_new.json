@@ -1,9 +1,36 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-09-24T02:11:39.914595+00:00",
+  "scraped_at": "2026-09-24T08:00:52.367318+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "73660d712a0c00a5",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": "for 24 min siden",
+      "text": "Gjensidige faller kraftig på fornyet frykt for AI etter at AI agenten Muse ble lansert. Denne skal kunne scanne igjen alle mulig informasjon på nettet og finne den billigste forsikringen for deg, og ikke bare det den skal på vegne av deg også kunne forhandle og bytte selskap slik at det blir billigere for deg. Høres ganske sci-fi ut ikke sant?  Men hvor realistisk er egentlig dette? For det første, prisen på en forsikring er forskjellig fra person til person, allerede her blir det utfordringer. Prisen på en bilforsikring avhenger av din alder, din historikk, hvor du bor, din bonus osv. for det andre ligger ikke forsikringspriser ute åpent på nett, så det skal ikke bli lett å finne disse. Med mindre Muse ringer selskapene selv og forhandler da. Husk også at AI ikke tilbyr forsikring, og det vil neppe bli lettere å skulle etablere nye selskaper heller. Så en slik funksjon ville bare fungere ved at kundene flyttes rundt til dagens selskaper. Disse sitter med enorme mengder kundedata, som er svært verdifulle for å kunne prise en forsikring korrekt. så alt i alt koker det ned til at man kan frykte at de billigste forsikringsselskapene vil ta kunder fra de dyreste. Gitt at denne tjenesten vil fungere så optimalt som noen får det til å fremstå som. Jeg har mine tvil i så henseende",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1294,
+      "has_link": false
+    },
+    {
+      "key": "6f1b529507208740",
+      "author": "No limits",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-limits",
+      "posted_relative": "for 44 min siden",
+      "text": "Ingen skriver hvorfor all denne oppgangen..?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }
