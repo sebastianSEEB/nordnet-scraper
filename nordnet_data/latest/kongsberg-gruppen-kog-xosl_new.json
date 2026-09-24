@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-09-23T23:48:39.644692+00:00",
+  "scraped_at": "2026-09-24T02:11:23.388090+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "125c608c74ba39ae",
+      "author": "jvtran",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jvtran",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare sitte rolig og nyte oppgangen. Aksjekursen har stått stille og konsolidert mens inntektene går som en rakett. Snart går P/E kraftig ned og plutselig er KOG superbillig igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 178,
+      "has_link": false
+    },
+    {
+      "key": "58727e80899b968a",
+      "author": "mr. fixit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-fixit",
+      "posted_relative": "for 4 t siden",
+      "text": "Bryter den 340 denne gang mån tro??🤔 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }
