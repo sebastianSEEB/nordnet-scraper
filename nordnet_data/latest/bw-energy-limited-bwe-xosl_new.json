@@ -1,9 +1,42 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-09-30T13:13:12.327453+00:00",
+  "scraped_at": "2026-09-30T18:46:03.625486+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c36f496765f5511b",
+      "author": "Miniforvalter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miniforvalter",
+      "posted_relative": null,
+      "text": "25. sep. Pareto med BW Energy https://shows.acast.com/paretopodden-1/episodes/energikonferansen-2026-bw-energy-ceo-carl-arnet-om-de-hye-ve",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://shows.acast.com/paretopodden-1/episodes/energikonferansen-2026-bw-energy-ceo-carl-arnet-om-de-hye-ve"
+      ],
+      "char_count": 138,
+      "has_link": true
+    },
+    {
+      "key": "24b980ac112ccfc6",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": null,
+      "text": "21. sep. Lite rasjonell utvikling for å si det mildt 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

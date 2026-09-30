@@ -1,9 +1,56 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-09-30T13:10:43.511161+00:00",
+  "scraped_at": "2026-09-30T18:43:27.363467+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f28e87602640c794",
+      "author": "ebpe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ebpe",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Hvis ikke Equinor ser at de kan kjøpe seg inn igjen med større post og ta del i oppgangen som de stoppet sist de solgte?  de solgte 12.9 millioner aksjer til 125 kroner .  Kan de kjøpe de samme tilbake for 100 kroner  -  ja da har de skummet fløten og tjent 320 milllioer",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 271,
+      "has_link": false
+    },
+    {
+      "key": "6eaa2bc4ce58f5c6",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": null,
+      "text": "24. sep. Venter bare på Equinor nedsalget Tipper ca 80",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        8
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "2b28c98b20700b03",
+      "author": "IQ57",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iq57",
+      "posted_relative": null,
+      "text": "24. sep. Dong dong🕺🏼det svinger💃🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

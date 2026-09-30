@@ -1,9 +1,82 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwi-xosl",
-  "scraped_at": "2026-09-30T13:09:21.877116+00:00",
+  "scraped_at": "2026-09-30T18:41:54.858140+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "d723bbd7f2c8fdbc",
+      "author": "knirkmqsqueak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knirkmqsqueak",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Fin liten video fra Investtech hvor de gjennomgår litt teknisk analyse av WWI(B). https://www.youtube.com/watch?v=5b1RfrqOGOs",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.youtube.com/watch?v=5b1RfrqOGOs"
+      ],
+      "char_count": 125,
+      "has_link": true
+    },
+    {
+      "key": "9e54c636e94131f9",
+      "author": "BarryGoldwater",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barrygoldwater",
+      "posted_relative": null,
+      "text": "24. sep. Noen som har tanker om hvorfor den stiger såpass bra idag (en god del mer enn WAWI f.eks)? Jeg er fornøyd, bare lurer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "3b6a5bcda0a16f6b",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "25. sep. A eller B aksjen Bli medlem av Nordnet Social for å se resultatene Logg inn A % B % 10 stemmer • Avsluttet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        50,
+        50
+      ],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    },
+    {
+      "key": "d5a5cfb22fcb84a8",
+      "author": "ToS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tos",
+      "posted_relative": "for 8 t siden",
+      "text": "Og muligens omsetningsvolum som kan gjøre A litt mer ettertraktet (ikke sjekket tallene selv).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "57b2ae402bf96ae1",
+      "author": "Bjorn7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjorn7",
+      "posted_relative": null,
+      "text": "4. sep. Hva er forskjellen på Wilhelmsen holding A/B? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,27 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-09-30T13:11:43.557685+00:00",
+  "scraped_at": "2026-09-30T18:44:27.638664+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "597964e7860c0e09",
+      "author": "The Gønners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-gnners",
+      "posted_relative": null,
+      "text": "24. sep. Norges Bank antyder høy rente lenge og det blir muligens  ikke senking av renta før i 2028.. Bør vel være økt sannsynlighet for høyere utbytte i 2027 med en  slik prognose. https://www.nettavisen.no/okonomi/sa-lenge-blir-renten-skyhoy/s/80-95-105488",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.nettavisen.no/okonomi/sa-lenge-blir-renten-skyhoy/s/80-95-105488"
+      ],
+      "char_count": 258,
+      "has_link": true
+    }
+  ]
 }

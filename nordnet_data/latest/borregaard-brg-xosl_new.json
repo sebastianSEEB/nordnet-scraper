@@ -1,9 +1,81 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-09-30T13:13:26.448471+00:00",
+  "scraped_at": "2026-09-30T18:46:18.598694+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "ab744d5d516c4b43",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Ser at kursmålet for Borregaard er satt til intervallet 165-180, noe jeg tror er realistisk på mellomlang sikt. Selskapet har jo 3 produktsegmenter nemlig (1) Fine Chemicals (2) Biomaterials og (3) Biosolutions. De 2 førstnevnte går jo rimelig bra, det er segment Biosolutions de sliter mest med. Høye energikostnader, negative valutaeffekter og dårlig produktmix er her stikkordene. At det har vært en nedskriving på ca. 300 mill. NOK ifm Alginor er heller ikke positivt, men sanns ikke noe som blir repitert. Tror det blir bra fremover jeg kursmessig, ikke minst at de skal spare ca. 150 mill. NOK frem til 2028. Jeg har troen og laster opp underveis.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 653,
+      "has_link": false
+    },
+    {
+      "key": "9a82d14dae7f80f3",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Sum av reduserte kostnader og økte inntekter fremover, er jo en god kombo for kommende kvartaler. Husk på at Borregaard er ned ca. 25% hittil iår.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "0a4bb38a7275b2d8",
+      "author": "Oldingen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oldingen",
+      "posted_relative": null,
+      "text": "21. sep. Utbyttet vil vel neppe stige når kursen faller over tid?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "9db4928c6a4982bd",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 7 t siden",
+      "text": "I siget nå.....øyeblikk 154-tallet.....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "1cbce14bbfa26ed9",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 5 t siden",
+      "text": "154.20 akkurat nå pr. kl. 15.02",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-09-30T13:11:50.635893+00:00",
+  "scraped_at": "2026-09-30T18:44:35.442624+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bcda54b5ce5e5815",
+      "author": "Chr69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chr69",
+      "posted_relative": null,
+      "text": "21. sep. Synd du ikke har samme målestokk på grafene på de 5 selskapene. Nå ser direkteavkastningen i BRG og MEDI like bra ut som de 3 andre.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "bd0a049bdbd595c1",
+      "author": "kjoperalltidhoyt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjoperalltidhoyt",
+      "posted_relative": null,
+      "text": "25. sep. · I dag er det :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "d17841792b44aaf1",
+      "author": "lammat1245",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lammat1245",
+      "posted_relative": null,
+      "text": "21. sep. · Rekordhøy?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

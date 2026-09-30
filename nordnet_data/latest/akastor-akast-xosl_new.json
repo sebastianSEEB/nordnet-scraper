@@ -1,9 +1,84 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-09-30T13:13:22.938867+00:00",
+  "scraped_at": "2026-09-30T18:46:14.905813+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "246c8a8cb223be2f",
+      "author": "Svarttinden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svarttinden",
+      "posted_relative": "for 8 t siden",
+      "text": "Bra selskap med erfaren og flink ledelse. Overraskende at HMH falt hele 7,85 prosent i går på børsen. Geopolitisk ser det uoversiktlig ut frem mot mellomvalget 3 nov., og US statsobligasjoner er ikke hot spot, mv….😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "7cdf86d00ae08f95",
+      "author": "Flyver",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flyver",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Kjøpte denne etter utbytte, virker bånn kjedelig...... Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "0637043e9440debf",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "23. sep. Noe fundamentalt som har endret seg eller bare litt støy ??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "5770f25684f27f8a",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "21. sep. Virker jo som de store har god tro 🙈det selges  🥲",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "a255ad8b531b9449",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 2 døgn siden",
+      "text": "HMH var opp +2.90% på fredag",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

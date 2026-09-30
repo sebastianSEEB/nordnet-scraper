@@ -1,9 +1,55 @@
 {
   "slug": "arendals-fossekompani-afk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/arendals-fossekompani-afk-xosl",
-  "scraped_at": "2026-09-30T13:14:36.866477+00:00",
+  "scraped_at": "2026-09-30T18:47:36.698986+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b3f7a0379e1d7c18",
+      "author": "samsom7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/samsom7",
+      "posted_relative": null,
+      "text": "25. sep. https://www.finansavisen.no/tdn/2026/09/25/06599075/veidekke-kontrakt-for-bygging-av-fjerde-trinn-av-bryggebyen-i-arendal-verdi-190m",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/09/25/06599075/veidekke-kontrakt-for-bygging-av-fjerde-trinn-av-bryggebyen-i-arendal-verdi-190m"
+      ],
+      "char_count": 141,
+      "has_link": true
+    },
+    {
+      "key": "5e7148445a8ea97e",
+      "author": "SkeptikernT",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skeptikernt",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· Bekreftet: Ukentlig Golden Cross i Arendals Fossekompani (AFK) Det er nå helt bekreftet – SMA 50 har skåret opp gjennom SMA 200 i uokartet. At dette skjer i ukeoppløsningen er den absolutt \"prikken over i-en\" som gir signalet maksimal tyngde og bekrefter at et flerårig trendskifte er et faktum !!! Mange større trendfølgende fond har automatiske screening-filtre stilt inn på akkurat ukentlige Golden Crosses. Når krysningen stenger og bekreftes, utløses kjøpsordre automatisk Langsiktige forvaltere som har avventet under nedgangsfasen får nå den tekniske grønnmarkeringen de trenger for å stige inn. Dette skaper en \"snøbolleffekt\" med økende volum og kjøpspress fra både norske og internasjonale aktører",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 709,
+      "has_link": false
+    },
+    {
+      "key": "35858107b1d00427",
+      "author": "Vossingen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vossingen",
+      "posted_relative": null,
+      "text": "21. sep. Så Eviny melder om doblet utbytte fremover fra 1 Mrd til 2 Mrd. Får vi en sprett på denne på grunn av gode strømpriser nå eller er vann produksjon en liten fotnote i AFK?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 179,
+      "has_link": false
+    }
+  ]
 }

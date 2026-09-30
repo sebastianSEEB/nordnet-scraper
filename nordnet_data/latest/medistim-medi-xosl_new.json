@@ -1,9 +1,53 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-09-30T13:12:13.942517+00:00",
+  "scraped_at": "2026-09-30T18:45:04.384556+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "641da15a05a620ba",
+      "author": "ProvenceJr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/provencejr",
+      "posted_relative": null,
+      "text": "22. sep. Veldig bra med initiativet med Nordnet her og oversikter. Jeg har eid denne aksjen over 24 år nå, fra IPO på 9,5kr  (2004) den gang og har høstet inn betydelige utbytter i disse årende, Kursstigningen har også vært formindalbel over disse årene. Man må holde på vinneraksjer her !",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 289,
+      "has_link": false
+    },
+    {
+      "key": "0d5c4187c352ff41",
+      "author": "Levebrød",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/levebrd",
+      "posted_relative": null,
+      "text": "24. sep. Finnes det forum / grupper der ute aktiv oppdatering samt delte meninger rundt aksjen? (f.eks discord)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "7843a2fb5e82921c",
+      "author": "Levebrød",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/levebrd",
+      "posted_relative": "for 2 døgn siden",
+      "text": "takk",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

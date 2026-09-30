@@ -1,9 +1,51 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-09-30T13:09:14.770267+00:00",
+  "scraped_at": "2026-09-30T18:41:47.357019+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "cae65619c151ea00",
+      "author": "Dr.Bob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drbob",
+      "posted_relative": "for 2 t siden",
+      "text": "Har allerede sagt ifra at det ikke fungerer for meg. Dårlig kontrast. Bedre med forrige fargepalett",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "117f79668ee43969",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": null,
+      "text": "25. sep. Gnx Hva er det du tolker egentlig? Kapasitetsutnyttelsen er det vel ikke.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "5050f6bd8179a2af",
+      "author": "Salenciaga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salenciaga",
+      "posted_relative": "for 11 t siden",
+      "text": "Gikk fra MPC til denne før den steg. Beste som har skjedd meg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

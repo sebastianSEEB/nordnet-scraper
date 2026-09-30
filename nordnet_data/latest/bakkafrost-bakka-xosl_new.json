@@ -1,9 +1,101 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-09-30T13:11:04.666045+00:00",
+  "scraped_at": "2026-09-30T18:43:52.990153+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "e0f97fc48b803361",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "23. sep. https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget"
+      ],
+      "char_count": 138,
+      "has_link": true
+    },
+    {
+      "key": "3ec39181bf109176",
+      "author": "MrAndersen89",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrandersen89",
+      "posted_relative": null,
+      "text": "24. sep. https://www.finansavisen.no/sjomat/2026/09/24/8382632/spar-opptur-for-fire-oppdrettere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/09/24/8382632/spar-opptur-for-fire-oppdrettere"
+      ],
+      "char_count": 95,
+      "has_link": true
+    },
+    {
+      "key": "ded94ca5edced5d4",
+      "author": "Tompalompabörshaj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tompalompaborshaj",
+      "posted_relative": "for 6 t siden",
+      "text": "· Det er bra, men ingenting kommer nok til å skje med aksjen før Q3, det gjelder at Skottland begynner å komme på fote, noe jeg tror, deretter vil 2027 bli året de begynner å levere enorme mengder laks",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 201,
+      "has_link": false
+    },
+    {
+      "key": "8abe5e3de09846da",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "23. sep. Eksportpris var 71,41 kroner pr kilo  i uke 38, opp 1,8 %.  Det opplyser Statistisk sentralbyrå .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "8897f3f571b010d5",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 5 t siden",
+      "text": "Rapporter om meget sterke priser på Storlaks, det er vell noe bakkafrost har historisk hatt en del av.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    },
+    {
+      "key": "66e93c3b5eb27384",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": "for 12 t siden",
+      "text": "LAKS: EKSPORTPRISEN VAR 73,59 KR/KILO I UKE 39 (+3,1%)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-09-30T13:13:19.470294+00:00",
+  "scraped_at": "2026-09-30T18:46:11.124798+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "37086373728846c8",
+      "author": "lissi1208",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lissi1208",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Ser ut som bjellesauene fortsatt har trua på KID, Hermanrud har økt sin beholdning med 50k aksjer, Ole P. Kjerkereit har økt sin beholdning med 95k aksjer.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "1e145857dacb61e0",
+      "author": "Spinners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spinners",
+      "posted_relative": null,
+      "text": "26. sep. Det er mange farer som påvirker hele rutenettet av varer. Mye stor politikk som ligger i bunn...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    }
+  ]
 }

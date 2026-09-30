@@ -1,9 +1,121 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-09-30T13:10:36.331623+00:00",
+  "scraped_at": "2026-09-30T18:43:19.751422+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
+  "posts": [
+    {
+      "key": "7ae99f8f689600a4",
+      "author": "IsoPappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isopappa",
+      "posted_relative": null,
+      "text": "22. sep. · Biomasse opp 2.8% og dødeligheten faller kraftig. Bra for biologisk ytelse og volumer, selv om høyere tilbud kan holde spotprisene under press på kort sikt https://www.salmonbusiness.com/biomass-rises-2-8-as-mortality-falls-sharply/ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [
+        "https://www.salmonbusiness.com/biomass-rises-2-8-as-mortality-falls-sharply/"
+      ],
+      "char_count": 263,
+      "has_link": true
+    },
+    {
+      "key": "748d18bc9290d5fb",
+      "author": "IsoPappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isopappa",
+      "posted_relative": null,
+      "text": "26. sep. · Sterk kinesisk ferieetterspørsel (Golden Week) driver opp de norske laksenprisene for neste uke, oppadgående momentum kan være på vei. https://www.intrafish.com/prices/chinese-holiday-demand-boosts-norwegian-salmon-prices/2-1-2049859",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://www.intrafish.com/prices/chinese-holiday-demand-boosts-norwegian-salmon-prices/2-1-2049859"
+      ],
+      "char_count": 244,
+      "has_link": true
+    },
+    {
+      "key": "ee32e0452bab1088",
+      "author": "IsoPappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isopappa",
+      "posted_relative": "for 10 t siden · Endret",
+      "text": "· Uke 39 oppdatering: Eksportvolumene hoppet +3,8% med spotpriser som stiger over €6,70/kg (~ 73,59 NOK/kg). Momentumet er her. 📈 https://www.salmonbusiness.com/statistics-norway-week-39-exports-jump-38-as-price-rises-above-e6-70-kg/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.salmonbusiness.com/statistics-norway-week-39-exports-jump-38-as-price-rises-above-e6-70-kg/"
+      ],
+      "char_count": 233,
+      "has_link": true
+    },
+    {
+      "key": "206d3f85052d7739",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "23. sep. https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/09/23/8382495/pareto-analytiker-henrik-knutsen-gjor-flere-justeringer-dette-er-toppvalget"
+      ],
+      "char_count": 158,
+      "has_link": true
+    },
+    {
+      "key": "3d94dc15278a4360",
+      "author": "IsoPappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isopappa",
+      "posted_relative": null,
+      "text": "22. sep. · Det er bare kortsiktig fordi veksten naturlig avtar om vinteren når sjøtemperaturene synker, og når det kombineres med sterk juleetterspørsel, tar spotprisene seg vanligvis opp igjen sent i Q4",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 203,
+      "has_link": false
+    },
+    {
+      "key": "8abe5e3de09846da",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "23. sep. Eksportpris var 71,41 kroner pr kilo  i uke 38, opp 1,8 %.  Det opplyser Statistisk sentralbyrå .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "ca059e9ffcacc5ab",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": null,
+      "text": "24. sep. Hvorfor var denne nede på under 38 kr nylig?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }
