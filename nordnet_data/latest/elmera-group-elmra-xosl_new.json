@@ -1,9 +1,94 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-09-30T13:06:07.193207+00:00",
+  "scraped_at": "2026-09-30T13:14:54.586450+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "243a9f3d19957772",
+      "author": "ØrsteinStraitBetalen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rsteinstraitbetalen",
+      "posted_relative": null,
+      "text": "22. sep. Hvor mange hundre tusen aksjer har dere? Volumvektet snittpris over børs i dag var tilnærmet 46,80. Hvor mye ekstra for dere utgjør 20 øre per aksje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    },
+    {
+      "key": "b6675f78a8fff3c1",
+      "author": "Nas-fan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nas-fan",
+      "posted_relative": "for 2 t siden",
+      "text": "de kunne bare legge kjøp på 47 så kunne folk selge uten at man trenger å vente...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "4411975bf8486f50",
+      "author": "RonniAndreKapital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronniandrekapital",
+      "posted_relative": "for 2 døgn siden",
+      "text": "· At resterende aksjer vert tvangsinnløyst og selskapet avnotert frå børsen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "a22d2a299f51a8f6",
+      "author": "Hei-haa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hei-haa",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Noen som vetnår oppgjøret kan forventes? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "61ad3c425df3fdb7",
+      "author": "RonniAndreKapital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronniandrekapital",
+      "posted_relative": null,
+      "text": "21. sep. 88,59 % iht. siste oppdatering i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "e9938569f9a35eb5",
+      "author": "Kaa31",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaa31",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Hva kan vi forvente fremover?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }
