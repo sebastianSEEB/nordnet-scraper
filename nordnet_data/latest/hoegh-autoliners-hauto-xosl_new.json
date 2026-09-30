@@ -1,50 +1,39 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-09-30T18:41:47.357019+00:00",
+  "scraped_at": "2026-09-30T22:43:23.937049+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "cae65619c151ea00",
-      "author": "Dr.Bob",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drbob",
-      "posted_relative": "for 2 t siden",
-      "text": "Har allerede sagt ifra at det ikke fungerer for meg. Dårlig kontrast. Bedre med forrige fargepalett",
+      "key": "e009c35618394ea4",
+      "author": "Shockwave2k",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shockwave2k",
+      "posted_relative": "for 1 t siden",
+      "text": "https://e24.no/boers-og-finans/i/ExKPPA/resultatfall-for-hoegh-autoliners-reduserer-utbyttet Virker som at utbytte for 3 kvartal blir ca likt 2 kvartal, men at  det vil normaliseres og kompenseres i 4 kvartal, da alle tilleggs betalingene har kommet inn. Sånn det virker av å lese denne artikkelen 🙂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 99,
-      "has_link": false
+      "links": [
+        "https://e24.no/boers-og-finans/i/ExKPPA/resultatfall-for-hoegh-autoliners-reduserer-utbyttet"
+      ],
+      "char_count": 299,
+      "has_link": true
     },
     {
-      "key": "117f79668ee43969",
-      "author": "Miga-invest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
-      "posted_relative": null,
-      "text": "25. sep. Gnx Hva er det du tolker egentlig? Kapasitetsutnyttelsen er det vel ikke.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 82,
-      "has_link": false
-    },
-    {
-      "key": "5050f6bd8179a2af",
-      "author": "Salenciaga",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salenciaga",
-      "posted_relative": "for 11 t siden",
-      "text": "Gikk fra MPC til denne før den steg. Beste som har skjedd meg",
+      "key": "012e6d21b0c5b6b0",
+      "author": "Ni1976",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ni1976",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "· Hvordan ser dere andre på Hoeghs kommende utbytter, blir de like høye som i vår og derfor ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 61,
+      "char_count": 93,
       "has_link": false
     }
   ]
