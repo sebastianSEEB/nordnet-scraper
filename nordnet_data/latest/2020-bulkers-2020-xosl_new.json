@@ -1,9 +1,55 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-01T07:58:54.903639+00:00",
+  "scraped_at": "2026-10-01T13:52:40.585305+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "0648dbc47c1e2b75",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 5 t siden",
+      "text": "Da har de 11 av 15 på plass: https://osvnyheter.no/osv-nyheter-uke-40-28-september-4-oktober-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://osvnyheter.no/osv-nyheter-uke-40-28-september-4-oktober-2026"
+      ],
+      "char_count": 97,
+      "has_link": true
+    },
+    {
+      "key": "f5892e5ca131e76b",
+      "author": "IFTRABW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iftrabw",
+      "posted_relative": "for 3 t siden",
+      "text": "Større sannsynlighet for at aksjen vil falle betydelig før den går opp igjen jmfr de nye aksjene som kommer nå. Samtidig -  ingen vet hva morgendagen bringer så bare å følge med 👍🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 180,
+      "has_link": false
+    },
+    {
+      "key": "81624b3c6eb4c8cb",
+      "author": "ChrisDpro",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisdpro",
+      "posted_relative": "for 3 t siden",
+      "text": "· Planlegger å kjøpe denne, men jeg har ikke en posisjon. Kjøpe nå eller vente?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }

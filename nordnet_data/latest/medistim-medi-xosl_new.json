@@ -1,9 +1,38 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-10-01T08:02:35.394773+00:00",
+  "scraped_at": "2026-10-01T13:56:13.860357+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bad8dbfcd6dfde1a",
+      "author": "N00bish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/n00bish",
+      "posted_relative": "for 4 t siden",
+      "text": "Kan noen forklare meg hvordan den kan handles i åpnings auksjonen for 260 (259 igår), men allikevel dette direkte ned til disse 250-253? Hvorfor handlet man den for så mye mer før start?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 186,
+      "has_link": false
+    },
+    {
+      "key": "b6ed5df0ff105f66",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er nesten ikke volum, så det skal ikke mange handler til for å flytte kursen noen kroner slik jeg ser det.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }

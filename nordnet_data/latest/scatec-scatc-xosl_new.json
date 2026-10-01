@@ -1,9 +1,53 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-10-01T08:01:01.109874+00:00",
+  "scraped_at": "2026-10-01T13:54:37.157250+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3012f9bf11098cf9",
+      "author": "Pedant",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pedant",
+      "posted_relative": "for 15 min siden",
+      "text": "E24: \"Scatec bygger kjempestort vindprosjekt i Egypt\" https://e24.no/bors/nyheter/a/305695?pinnedEntry=305695",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://e24.no/bors/nyheter/a/305695?pinnedEntry=305695"
+      ],
+      "char_count": 109,
+      "has_link": true
+    },
+    {
+      "key": "087ad678d08cf6d4",
+      "author": "PolarBeear",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarbeear",
+      "posted_relative": "for 3 t siden",
+      "text": "Tipper de selger seg ned til under 5 % så beholder de resten for langsiktig gevinst.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "573ee69646bf7b5b",
+      "author": "IQ57",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iq57",
+      "posted_relative": "for 40 min siden",
+      "text": "· Min plan er 3-5 år.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-01T08:04:21.518035+00:00",
+  "scraped_at": "2026-10-01T13:57:54.710431+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f47712a9c9d3dedb",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 4 t siden",
+      "text": "Det ble 3K på 310,50. Sitter med mye cash og DNB er en grei plass å putte penger.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "374191c284e22bd4",
+      "author": "lenovo1_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lenovo1",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· Er det noen som kjøper akkurat nå eller bør man vente",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

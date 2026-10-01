@@ -1,9 +1,39 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-01T08:02:08.579361+00:00",
+  "scraped_at": "2026-10-01T13:55:49.916349+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "74f122cab40bd252",
+      "author": "Steffo01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffo01",
+      "posted_relative": "for 4 t siden",
+      "text": "Ja markedets vurdering henger ikke sammen med det som de faktisk leverer. Det er vel en (så langt) feilaktig antakelse om at AI kommer til å ta over som er årsaken?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 164,
+      "has_link": false
+    },
+    {
+      "key": "3a08897724b63503",
+      "author": "BurgerKing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/burgerking",
+      "posted_relative": null,
+      "text": "24. sep. Her er siste 10 års owner earnings vs ROE for Bouvet. Earnings falt litt i 2025, men siste kvartalsrapport viste en forbedring Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        2
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    }
+  ]
 }

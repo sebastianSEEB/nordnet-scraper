@@ -1,24 +1,38 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-10-01T08:03:17.921862+00:00",
+  "scraped_at": "2026-10-01T13:56:46.641771+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b1d6ae9c2cb0367f",
+      "key": "ca445bb5b15ba250",
       "author": "LarsEInvest",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larseinvest",
-      "posted_relative": "for 2 t siden",
-      "text": "· Et laveste kursmål på 17,00 og en fotpleiende langsom kursutvikling helt sidelengs (12,76 = laaaang vei hjem) - man begynner å savne noen oppløftende nyheter! Noen som vet noe her?",
+      "posted_relative": "for 8 t siden",
+      "text": "· Et laveste kursmål på 17,00 og en fotpleiende langsom kursutvikling helt sidelengs (12,76 = laaaang vei hjem) - man begynner å savne noen oppløftende nyheter! Noen som vet noe her? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2,
+        2
       ],
       "links": [],
-      "char_count": 182,
+      "char_count": 202,
+      "has_link": false
+    },
+    {
+      "key": "81c14acb8cf7cb21",
+      "author": "LarsEInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larseinvest",
+      "posted_relative": "for 5 t siden",
+      "text": "· August 2025 17,60 - nå 12,63 - det er jo bare et spørsmål om hvor langt du går tilbake, og etter det store fallet i 2024, har utviklingen bare vært oppadgående etter svært lave nivåer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 186,
       "has_link": false
     }
   ]

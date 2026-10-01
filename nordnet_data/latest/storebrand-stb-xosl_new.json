@@ -1,24 +1,66 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-01T08:04:56.723864+00:00",
+  "scraped_at": "2026-10-01T13:58:39.565819+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "abee28a179450b14",
-      "author": "oh.ahah",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
-      "posted_relative": "for 36 min siden",
-      "text": "Teknisk analyse med ChatGPT må være en av de beste måtene å bli kjapt blakk på",
+      "key": "cc6bdbcbcae3f938",
+      "author": "Zydenboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zydenboy",
+      "posted_relative": "for 3 t siden",
+      "text": "Får pante litt flasker og fylle på dersom vi skal helt ned til 180.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "b0ffe71a1e69cd71",
+      "author": "siggenekkdk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/siggenekkdk",
+      "posted_relative": "for 3 t siden",
+      "text": "Gode muligheter nå, store investorer kjøpte på 194",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        1
       ],
       "links": [],
-      "char_count": 78,
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "e64f33392315c01d",
+      "author": "zrallings",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zrallings",
+      "posted_relative": "for 5 t siden",
+      "text": "Jepp, jeg sitter i fler av dem.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    },
+    {
+      "key": "8ac94f89dc78eda2",
+      "author": "zrallings",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zrallings",
+      "posted_relative": "for 5 t siden",
+      "text": "· :( Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 24,
       "has_link": false
     }
   ]

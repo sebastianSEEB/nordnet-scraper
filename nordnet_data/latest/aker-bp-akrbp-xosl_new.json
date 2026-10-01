@@ -1,22 +1,39 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-01T08:04:29.127203+00:00",
+  "scraped_at": "2026-10-01T13:58:02.657049+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "3f5ceb2d81c0ca3e",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 59 min siden",
-      "text": "Lundins solge nær topp, ja de har mer i beholdning men skjønte at lurt å lette seg rundt 350-370",
-      "reply_count": 2,
+      "key": "fb856606362f8f5c",
+      "author": "TheReal_MorganKane",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thereal_morgankane",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Det som er vel så rart er at mens oljeprisen er opp godt over 5% siste måned (og fysisk dated brent har gått mye mer) så har aksjekursen gått mer enn 5% ned. Her tror jeg mange feilvurderer hvor lenge dette vil pågå. Ihvertfall ingenting i nærheten av løsning på denne siden av mellom valget i USA. Etter det så vet kun gudene hva som skjer, men jeg føler meg mye mer trygg på å fortsatt holde på en slump med olje. Gitt bevegelsesmønstret siste måneden så mer nå enn for 4 uker siden.",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 96,
+      "char_count": 485,
+      "has_link": false
+    },
+    {
+      "key": "50154be8a32ed739",
+      "author": "Ibehold",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ibehold",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Oljeprisen er opp 2,6% til 100,6 dollar. At desemberkontrakten øker i pris (olje solgt frem i tid), viser at oljemarkedet tror leveranseforstyrrelsene fra Iran-krigen vil vare ut i desember. Det er bra for Aker BP.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 214,
       "has_link": false
     }
   ]

@@ -1,24 +1,53 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-10-01T08:00:02.053506+00:00",
+  "scraped_at": "2026-10-01T13:53:27.316687+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "622b132c19f1dfcb",
+      "key": "b92dcc4b67e7299c",
+      "author": "aaakno",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aaakno",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· https://x.com/DryBulkETF/status/2105633903901859865 🔥🔥",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/DryBulkETF/status/2105633903901859865"
+      ],
+      "char_count": 56,
+      "has_link": true
+    },
+    {
+      "key": "cc562f5b32ae3589",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 5 t siden",
+      "text": "Litt generell uro idag all over.. men vi sniker oss inn i positivt terreng",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "f2eb0233aa8e1795",
       "author": "Nilsbyen",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nilsbyen",
-      "posted_relative": "for 1 t siden",
-      "text": "SEB høyner i dag kursmålet til 23 dollar (221kr)",
+      "posted_relative": "for 7 t siden",
+      "text": "SEB høyner i dag kursmålet til 23 dollar (221kr) Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        5,
+        5
       ],
       "links": [],
-      "char_count": 48,
+      "char_count": 68,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-10-01T08:02:04.690800+00:00",
+  "scraped_at": "2026-10-01T13:55:46.116631+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e70a890a05a4c3d5",
+      "author": "johannes39",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johannes39",
+      "posted_relative": "for 2 t siden",
+      "text": "Kjøper meg inn nå tror jeg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }
