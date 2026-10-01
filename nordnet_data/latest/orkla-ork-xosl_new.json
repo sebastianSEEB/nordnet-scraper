@@ -1,9 +1,38 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-01T15:11:38.469923+00:00",
+  "scraped_at": "2026-10-01T20:45:01.426860+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "17fb6a220ce2f5ca",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": "for 10 t siden",
+      "text": "· Tilbakekjøpsprogram er den mest tåpelige handlingen fra et selskap som ikke vet hva de skal gjøre med sine eiendeler... du har heller kontanter i banken enn å kjøpe og brenne din egen aksje!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    },
+    {
+      "key": "84f937ae34c3e3b8",
+      "author": "idkwhatimdoing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/idkwhatimdoing",
+      "posted_relative": "for 4 t siden",
+      "text": "· Mer kjøp enn salg får aksjen til å gå opp, og det å ha Orkla som kjøper hjelper i den forbindelse, ikke sant?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    }
+  ]
 }

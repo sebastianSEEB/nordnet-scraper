@@ -1,9 +1,25 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-01T15:06:48.478463+00:00",
+  "scraped_at": "2026-10-01T20:40:37.584835+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "708bae201203cfa0",
+      "author": "Znote",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/znote",
+      "posted_relative": "for 3 t siden",
+      "text": "· 🎉 Jeg tror på 300 innen 2030! 🥳 📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,56 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-01T15:09:09.454429+00:00",
+  "scraped_at": "2026-10-01T20:42:54.930608+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "28a5ddc0e46dd4bf",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 2 t siden",
+      "text": "Sterk Q3-setup https://norwaystocks.substack.com/p/watchlist-update-a-strong-q3-setup",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://norwaystocks.substack.com/p/watchlist-update-a-strong-q3-setup"
+      ],
+      "char_count": 85,
+      "has_link": true
+    },
+    {
+      "key": "95575340e93123a2",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": "for 53 min siden",
+      "text": "· DNO tilbyr det mer attraktive kortsiktige inntjeningsbildet, som kombinerer sterkere gasspriser med fornyede bidrag fra Kurdistan og demonstrert gjeldssaneringskapasitet. OKEA har også et gunstig bakteppe, der Q2-kontantstrømmen fremhever potensialet i forhold til en mye mindre markedsverdi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 294,
+      "has_link": false
+    },
+    {
+      "key": "98163d3b96660b2a",
+      "author": "triggly",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/triggly",
+      "posted_relative": "for 1 t siden",
+      "text": "Olja stiger bra i kveld Er det lov å drømme om 20 kroner i morgen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

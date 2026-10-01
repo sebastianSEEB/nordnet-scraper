@@ -1,9 +1,51 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-01T15:11:25.650537+00:00",
+  "scraped_at": "2026-10-01T20:44:53.959627+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5e2b1badc845f65d",
+      "author": "TORtheTYR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torthetyr",
+      "posted_relative": "for 1 t siden",
+      "text": "Ok 🙂 ja det klarte jeg. Det er jo noen som har solgt, om det var panikksalg kan jeg ikke svare på.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "de8473f22a1ffcb1",
+      "author": "Wangerang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wangerang",
+      "posted_relative": "for 2 t siden",
+      "text": "Ble det mye panikksalg denne uken? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "c91b72bf291d76c8",
+      "author": "Neia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neia",
+      "posted_relative": "for 56 min siden",
+      "text": "Nærmer seg vinteren og jeg fyller opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

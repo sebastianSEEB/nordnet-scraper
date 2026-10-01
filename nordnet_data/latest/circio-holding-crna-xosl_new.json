@@ -1,102 +1,63 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-01T15:10:49.710432+00:00",
+  "scraped_at": "2026-10-01T20:44:26.754310+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 7,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "3db92909609bd9a9",
-      "author": "lillejohn1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
-      "posted_relative": "for 48 min siden · Endret",
-      "text": "Tradere kjører lik strategi- selger ned til en stor post som sluker alt igjen lavt. Circio er gull kalven, og der tradere kan tjene penger, så bruker de dager m lavt volum på såkalte « falske flagg operasjoner «",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 211,
-      "has_link": false
-    },
-    {
-      "key": "9c52c9c20dc6fc8a",
-      "author": "pkpinvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pkpinvest",
-      "posted_relative": "for 1 t siden",
-      "text": "Rødt market mange steder, eg benytter d og kjøper inn litt kortsiktig før esgct, kan jo ikke bare tipse, så ikke gjere d selv.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 126,
-      "has_link": false
-    },
-    {
-      "key": "2dc4593c573ff715",
-      "author": "Apex001",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/apex001",
-      "posted_relative": "for 39 min siden · Endret",
-      "text": "Folkens! Ikke vits å selge med tap, short sitter og gnir seg mellom hendene hver gang dere gjør det.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 100,
-      "has_link": false
-    },
-    {
-      "key": "da3a45f92299bfbd",
-      "author": "lillejohn1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
+      "key": "e91cebfef61a5786",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
       "posted_relative": "for 2 t siden",
-      "text": "Likner et lite short angrep dette.  Rente uro mer et pluss for Circio vs andre.",
+      "text": "Swiss Nordic Bio – noen interessante signaler Leste BioStock sin rapport fra Swiss Nordic Bio i Zürich, hvor blant annet Circio deltok. Det jeg synes var mest interessant var egentlig ikke en konkret nyhet, men det Erik Wiklund sier om hva Circio ønsker å oppnå i kapitalmarkedet. Han sier de ønsker å styrke aksjonærbasen med internasjonale spesialist- og institusjonelle investorer, og trekker frem at likviditet er viktig for å kunne tiltrekke større investeringer. Det gir også litt mening sett i lys av den siste emisjonen på ca. 200 MNOK, hvor nettopp internasjonale investorer kom inn. Et annet poeng fra konferansen som jeg synes er relevant for Circio, er at pharma i større grad ser ut til å være villig til å gå inn tidligere i biotech-prosjekter. Man trenger ikke nødvendigvis vente til kliniske resultater dersom prekliniske data er sterke nok og man har kommet frem til en tydelig development candidate. Det passer ganske godt med hvor Circio befinner seg nå. De har allerede vist betydelig expression-fordel med circVec i flere vev, CNS-programmet med et stort globalt pharma-selskap har gått videre til in vivo-testing, og samtidig brukes den nye kapitalen til å finne og sikre delivery-teknologi rundt in vivo CAR-T. Det betyr selvfølgelig ikke at en lisensavtale eller et oppkjøp er rett rundt hjørnet. Det er fortsatt mye som skal dokumenteres. Men dersom de kommende datapakkene viser at circVec ikke bare gir høyere expression, men faktisk gir en relevant terapeutisk fordel i sykdomsmodeller og etter hvert en tydelig development candidate, kan terskelen for kommersiell interesse være lavere enn mange kanskje antar. For meg er dette derfor mest et interessant datapunkt rundt strategien til Circio – ikke en nyhet som endrer caset over natten. Men det blir stadig mer interessant å se hva de faktisk klarer å dokumentere gjennom resten av 2026 og inn i 2027. https://biostock.se/2026/10/report-from-swiss-nordic-bio-what-it-takes-for-nordic-biotech-to-attract-capital/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
-        4
+        44,
+        5
+      ],
+      "links": [
+        "https://biostock.se/2026/10/report-from-swiss-nordic-bio-what-it-takes-for-nordic-biotech-to-attract-capital/"
+      ],
+      "char_count": 1992,
+      "has_link": true
+    },
+    {
+      "key": "3073b545a52d2bb0",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 2 t siden",
+      "text": "Det må jo være fryktelig kjedelig for de som kjøpte Emiaksjer til 11,80 😅 eller så lurer de markedet med å si at aksjene ble solgt til 11,80 men kanskje de fikk de til en tier eller mindre?? Ingenting forundret meg når det gjelder Norge lenger.  Vet at det blir mye grining og jabba av dette nå men hva hvis det er riktig…?!? Det er mange sleipinger og korrupte i Norge selv om vi liker å late som at alt er riktig og legitimt. I utlandet har vi et annet rykte.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 461,
+      "has_link": false
+    },
+    {
+      "key": "52cb4edf9253c92f",
+      "author": "Tankreder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tankreder",
+      "posted_relative": "for 5 t siden",
+      "text": "Er det bare daytradere her inne? Med mindre firmaet er på vei mot konk så skjønner jeg ikke at folk svetter så fælt.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
       "links": [],
-      "char_count": 79,
+      "char_count": 116,
       "has_link": false
     },
     {
-      "key": "0c2061a2dbc9a41d",
-      "author": "pweer",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pweer",
-      "posted_relative": "for 11 min siden · Endret",
-      "text": "viktig å fullføre shorten med nedsalg også i sluttauksjonene. short 101",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 71,
-      "has_link": false
-    },
-    {
-      "key": "757d7943e607026f",
-      "author": "Eliasyuhh",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eliasyuhh",
-      "posted_relative": "for 55 min siden",
-      "text": "Hvor store kjøp på hvilken pris?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 32,
-      "has_link": false
-    },
-    {
-      "key": "17433b527b9326b9",
-      "author": "birkmarring",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birkmarring",
-      "posted_relative": "for 1 t siden",
-      "text": "Holy for noen kjøp",
+      "key": "9996d82a580481d0",
+      "author": "zonnoe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zonnoe",
+      "posted_relative": "for 4 t siden",
+      "text": "Reserver deg mot utlån av aksjer til short",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
@@ -104,7 +65,20 @@
         1
       ],
       "links": [],
-      "char_count": 18,
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "dc73dabe680f1627",
+      "author": "Jhonnykuskus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jhonnykuskus",
+      "posted_relative": "for 10 min siden",
+      "text": "· Bedre enn bennyZ AI-innlegg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
       "has_link": false
     }
   ]

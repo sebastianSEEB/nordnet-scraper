@@ -1,67 +1,52 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-01T15:08:05.114186+00:00",
+  "scraped_at": "2026-10-01T20:42:06.064783+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "d800c2ff817b2ddf",
-      "author": "TraderKing",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/traderking",
-      "posted_relative": "for 1 t siden",
-      "text": "· En stenging over 6.59 utløser et teknisk kjøpssignal for et bullish pivot og et mulig omvendt hode-og-skuldre-mønster på 60-minutters tidsramme.",
+      "key": "17423de23947c8f2",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": "for 55 min siden",
+      "text": "· https://smallcaptreasures.substack.com/p/sed-energy-still-a-14-fcf-yield-management?r=2but2p&utm_medium=ios",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        3
+        1
       ],
+      "links": [
+        "https://smallcaptreasures.substack.com/p/sed-energy-still-a-14-fcf-yield-management?r=2but2p&utm_medium=ios"
+      ],
+      "char_count": 109,
+      "has_link": true
+    },
+    {
+      "key": "80a78f7b84a97368",
+      "author": "Tidshorisont",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tidshorisont",
+      "posted_relative": "for 4 t siden",
+      "text": "Tipper vi ser laveste bunn i 2027 en gang. Selskapet har guidet at EDrill-1 og T-15 ikke har anbud å delta i, for 1. halvår.  T-16 er på kontrakt tll 131kusd/d til november. Kunden lyste ut 30 måneders anbud på fase 7 i 1.kv, og svar som var forventa i 3. kv, er ikke kommet.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 146,
+      "char_count": 275,
       "has_link": false
     },
     {
-      "key": "3ee4cae653ab7b91",
-      "author": "Travellingman",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/travellingman",
-      "posted_relative": "for 1 t siden",
-      "text": "Hadde tre dager med nedgang, nå tre dager med oppgang. Kanskje er bunnen passert.",
+      "key": "b19300ff6d358409",
+      "author": "Thunderrun19",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thunderrun19",
+      "posted_relative": "for 4 t siden",
+      "text": "Kommentarfeltet svikter aldri for de desperate som prøver og overbevise seg selv og andre om at dette er en god investering. Men lykke til.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 81,
-      "has_link": false
-    },
-    {
-      "key": "be8a95d794791159",
-      "author": "donmik",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donmik",
-      "posted_relative": "for 1 t siden",
-      "text": "Skyter bra fart nå.. kanskje vi har sett bunn? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6,
-        2
-      ],
-      "links": [],
-      "char_count": 66,
-      "has_link": false
-    },
-    {
-      "key": "ae8bac58d6f16d86",
-      "author": "hanzper",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanzper",
-      "posted_relative": "for 35 min siden",
-      "text": "men vil det bli sol i morgen?",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 29,
+      "char_count": 139,
       "has_link": false
     }
   ]

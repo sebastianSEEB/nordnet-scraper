@@ -1,37 +1,40 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-01T15:06:40.655079+00:00",
+  "scraped_at": "2026-10-01T20:40:29.709174+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "2235f2aa4d6db337",
-      "author": "Bravado",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bravado",
-      "posted_relative": "for 36 min siden",
-      "text": "· I morgen kommer den til å gå ned 2-3% så ned igjen og så igjen de neste 10 dagene. Så vil det være en grei dag, og så ned og ned og ned. Akkurat som alltid;) de 5% er bare falskt håp. Vis 1 kommentar til",
+      "key": "96c22c88060fd01e",
+      "author": "Josef Kåresen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josef-karesen",
+      "posted_relative": "for 5 t siden",
+      "text": "Shorten fortsetter å øke, 7,93% nå. https://ssr.finanstilsynet.no/Home/Details/NO0010894231",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1,
+        1
       ],
-      "links": [],
-      "char_count": 205,
-      "has_link": false
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/NO0010894231"
+      ],
+      "char_count": 91,
+      "has_link": true
     },
     {
-      "key": "596760ab68268e08",
-      "author": "Josef Kåresen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josef-karesen",
-      "posted_relative": "for 2 min siden",
-      "text": "Sell the news i dag?",
+      "key": "a6c4058bd3298d86",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 1 t siden",
+      "text": "De får bare styre på. Hadde vært fint med 80% short nå.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 20,
+      "char_count": 55,
       "has_link": false
     }
   ]

@@ -1,25 +1,40 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-01T15:06:44.603942+00:00",
+  "scraped_at": "2026-10-01T20:40:33.498414+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "f0ef6fb36e1d18d9",
-      "author": "zappaphone",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
-      "posted_relative": "for 5 min siden",
-      "text": "\"– Vend var den mest kjøpte aksjen etter en periode med svak kursutvikling. DNB Carnegie har en kjøpsanbefaling på aksjen og peker blant annet på potensial for økt prising og ytterligere kostnadskutt. De mener også at selskapets sterke markedsposisjon begrenser risikoen for AI-disrupsjon, sier Vik.\" https://www.finansavisen.no/finans/2026/10/01/8384689/dette-er-investorenes-favorittaksjer",
+      "key": "a342ec7e72bbb72a",
+      "author": "Shippinggutten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinggutten",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.investornytt.no/bors/vend-for-fanden/546375 Trond spår den ned til 186",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.investornytt.no/bors/vend-for-fanden/546375"
+      ],
+      "char_count": 82,
+      "has_link": true
+    },
+    {
+      "key": "2eeeca11cfe44983",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": "for 54 min siden",
+      "text": "Eller opp til 225kr i første omgang :) Øyet som ser!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://www.finansavisen.no/finans/2026/10/01/8384689/dette-er-investorenes-favorittaksjer"
-      ],
-      "char_count": 391,
-      "has_link": true
+      "links": [],
+      "char_count": 52,
+      "has_link": false
     }
   ]
 }
