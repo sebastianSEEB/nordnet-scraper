@@ -1,9 +1,56 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-01T01:43:51.577972+00:00",
+  "scraped_at": "2026-10-01T08:02:39.357882+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "7e1f7b7ad37b7f08",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 51 min siden",
+      "text": "Sjeldent og se,  hele sektoren ned og olje priser opp der de nå tjener veldig mye , pluss at vi går inn i kulde tiden . Fantastisk blir aldri overrasket over markedet .",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "d3d7fd34262fd227",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 34 min siden",
+      "text": "I øyeblikket Brent-olje opp ca. 1,5%, og DNO aksjen ned  1,31%- må si jeg \"tror\" ikke dette er til å tru !!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "aede805198962b1f",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 56 min siden",
+      "text": "· Veldig rart fall",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

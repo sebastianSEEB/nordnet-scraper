@@ -1,9 +1,23 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-01T01:42:37.120501+00:00",
+  "scraped_at": "2026-10-01T08:01:16.773363+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c797ee0ae44331fc",
+      "author": "Andreas_81",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andreas_81",
+      "posted_relative": "for 2 t siden",
+      "text": "Asko?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

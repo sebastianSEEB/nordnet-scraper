@@ -1,9 +1,25 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-01T01:41:55.348734+00:00",
+  "scraped_at": "2026-10-01T08:00:37.143187+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c6d3fe68c6a962b3",
+      "author": "kued",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kued",
+      "posted_relative": "for 35 min siden",
+      "text": "Mange som får billige aksjer i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

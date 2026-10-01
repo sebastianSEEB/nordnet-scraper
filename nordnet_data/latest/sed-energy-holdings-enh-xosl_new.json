@@ -1,9 +1,36 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-01T01:43:03.694146+00:00",
+  "scraped_at": "2026-10-01T08:01:48.085970+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2316bb03e0a63d72",
+      "author": "Geir Rune L",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/geir-rune-l",
+      "posted_relative": "for 1 t siden",
+      "text": "Er egentlig mest spent på hva de sier om utbytte ved Q3 presentasjonen 18 nov.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "0a6bba7b1b101a3a",
+      "author": "Steffenzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffenzen",
+      "posted_relative": "for 2 t siden",
+      "text": "· 09.11.26",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }

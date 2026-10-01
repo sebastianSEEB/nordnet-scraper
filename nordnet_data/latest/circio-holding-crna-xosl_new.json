@@ -1,22 +1,127 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-01T01:45:18.859916+00:00",
+  "scraped_at": "2026-10-01T08:04:17.612164+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 8,
   "posts": [
     {
-      "key": "f97705ff23e4eacd",
+      "key": "dd22afc57282887c",
+      "author": "2Good2Go",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/2good2go",
+      "posted_relative": "for 23 min siden",
+      "text": "Så lavt som volumet er nå så tenker eg at her er det noen som kjøper selger av hverandre for å \"lure\" aksjer fra oss småsparere -  med det vi har i vente fremover så får di ikke 1 aksje av meg ihvertfall. Biotek er det, skummelt kan det være men, velger å stå i det - vinn eller forsvinn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        8
+      ],
+      "links": [],
+      "char_count": 287,
+      "has_link": false
+    },
+    {
+      "key": "a7c6082f6c2c8bce",
+      "author": "perimorph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/perimorph",
+      "posted_relative": "for 43 min siden",
+      "text": "· \"ingen vet om aksjen vil gå opp, ned, sidelengs eller i **** sirkler\" -vis aksjemegler",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "b3a721d83dad58ef",
+      "author": "jv7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jv7",
+      "posted_relative": "for 47 min siden",
+      "text": "Her var det stille. Ingen som skal klage på algoritmehandel og kursmanipulasjon i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        8
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "1d9a7aa95988c701",
+      "author": "Fxdc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fxdc",
+      "posted_relative": "for 22 min siden",
+      "text": "Se trenden siste mnd, kommer det ikke noen neews så ser vi 9 tallet til uka",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "3f613239b4f1915a",
+      "author": "2Good2Go",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/2good2go",
+      "posted_relative": "for 10 min siden",
+      "text": "Der fikk du svaret ditt Ivers11 - en som solgte🤣🤣",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "83822212ab1b38f4",
       "author": "talentlos",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/talentlos",
-      "posted_relative": "for 2 t siden",
-      "text": "· Sniff , sniff.",
+      "posted_relative": "for 1 t siden",
+      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "51322274f8f94de7",
+      "author": "talentlos",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/talentlos",
+      "posted_relative": "for 1 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "6eafc92f26d0a911",
+      "author": "Playwise",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/playwise",
+      "posted_relative": "for 6 min siden",
+      "text": "Dempet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 16,
+      "char_count": 6,
       "has_link": false
     }
   ]

@@ -1,9 +1,49 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-01T01:40:03.463915+00:00",
+  "scraped_at": "2026-10-01T07:58:21.557874+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "20877d24936f8fe9",
+      "author": "tbrx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tbrx",
+      "posted_relative": "for 26 min siden",
+      "text": "Er det noen som har en oversikt over ratene FRO seiler på for tiden? Det vil jo være et betydelig oppsett, men veldig interessant om snittet er 150, 200 eller 300 dollar. En del lange kontrakter på lave rater i forhold til dagens spot er det jo, men et oppløft i forhold til de offisielle snitt tallene fra kontoret tror jeg det har blitt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 339,
+      "has_link": false
+    },
+    {
+      "key": "5ca5f722cfd620df",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Just a Fact: Nesten alle sier at den saudiarabiske East-West (E-W) rørledningen er i drift igjen. Alle, virker det som, unntatt Saudi-Arabia. Odds på Polymarket: 35% i gang 16. oktober, 65% i gang 31. oktober :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 213,
+      "has_link": false
+    },
+    {
+      "key": "bac60ebb3c9b958f",
+      "author": "BRGN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brgn",
+      "posted_relative": "for 4 min siden",
+      "text": "ingen dumt valg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

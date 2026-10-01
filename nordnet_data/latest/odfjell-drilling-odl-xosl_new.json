@@ -1,9 +1,23 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-10-01T01:42:29.429352+00:00",
+  "scraped_at": "2026-10-01T08:01:08.849963+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e09c411207433d1e",
+      "author": "same-jacki",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/same-jacki",
+      "posted_relative": "for 12 min siden",
+      "text": "managementrig'n  'Deepsea Yantai' har forlenga oppdrag tel ut juli neste aar.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-01T01:41:25.258707+00:00",
+  "scraped_at": "2026-10-01T08:00:05.968793+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2a4f038ad5322461",
+      "author": "Tafjord1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tafjord1",
+      "posted_relative": "for 2 t siden",
+      "text": "Kan du gi meg linken til der jeg kan se hvordan behovet for båter  er ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,43 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-01T01:44:00.558047+00:00",
+  "scraped_at": "2026-10-01T08:02:43.103240+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fe518861b08cb7de",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 12 t siden · Endret",
+      "text": "AutoStore har kansellert 16 511 742 egne aksjer som tidligere var kjøpt tilbake gjennom tilbakekjøpsprogrammet. Etter kanselleringen er det 3 412 028 687 utstedte aksjer, hvorav 59 816 672 fortsatt er egne aksjer. Tilbakekjøpsprogrammet fortsetter til 31. desember 2026, og selskapet vil fremover kansellere tilbakekjøpte aksjer løpende. https://newsweb.oslobors.no/message/683367 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        3
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/683367"
+      ],
+      "char_count": 400,
+      "has_link": true
+    },
+    {
+      "key": "2b14493e71e8b8cc",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 48 min siden",
+      "text": "Færre aksjer i markedet. Utgjør 0,48% tror jeg. Så verdien øker tilsvarende i teorien da.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-01T01:42:59.874696+00:00",
+  "scraped_at": "2026-10-01T08:01:44.110350+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e8ff46e0e670d72e",
+      "author": "Phaph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phaph",
+      "posted_relative": "for 1 t siden",
+      "text": "· Har flere penger klar i tilfelle vi kommer under 50",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "ce481c2ee5deea0c",
+      "author": "Vinkelslip",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vinkelslip",
+      "posted_relative": "for 33 min siden",
+      "text": "· Flott timing 21 Sep lizgard, bedre enn meg!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

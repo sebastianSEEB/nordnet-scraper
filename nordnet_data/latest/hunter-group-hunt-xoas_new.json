@@ -1,22 +1,129 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-01T01:45:11.201470+00:00",
+  "scraped_at": "2026-10-01T08:04:04.160468+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 8,
   "posts": [
     {
-      "key": "cbc6fa36796181a2",
-      "author": "Tylo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tylo-1",
-      "posted_relative": "for 40 min siden",
-      "text": "Forsent å kjøpe?",
+      "key": "a02e7a38ac87ab76",
+      "author": "TRD 100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
+      "posted_relative": "for 48 min siden",
+      "text": "https://www.finansavisen.no/politikk/2026/10/01/8384530/trumps-iran-forhandlinger-vi-sprenger-dem",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/politikk/2026/10/01/8384530/trumps-iran-forhandlinger-vi-sprenger-dem"
+      ],
+      "char_count": 97,
+      "has_link": true
+    },
+    {
+      "key": "ef70f3fde9381fef",
+      "author": "Proffen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
+      "posted_relative": "for 16 min siden",
+      "text": "Her må man passe på dippene som kommer etter litt oppgang. Henter seg fint opp nå igjen, håper jeg. 18,50 er vel greit å holde seg over da det ligger litt motstand der, da det var kursen før ex-dagen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 200,
+      "has_link": false
+    },
+    {
+      "key": "dd9b2e20c2829519",
+      "author": "toreborge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toreborge",
+      "posted_relative": "for 38 min siden",
+      "text": "Dette gjentagelse av det Trump har sagt 100 ganger tidligere. Ser personlig ikke løsning på konflikten. Kjipt selvom det er bra for fraktrater...",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 16,
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "1964f3330db7fc02",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": "for 41 min siden",
+      "text": "Ja oljen flyter kanskje mer ut av Hormuz nå og er nær før krigen, men hva med risiko premien.4 rapporterte angrep på vlcc de siste dagene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "55325b02019509a5",
+      "author": "Money gang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/money-gang",
+      "posted_relative": "for 34 min siden",
+      "text": "Er rødt over hele linja i dag, så folk tror vel fortsatt på det trumpeten sier.. er nok fred innen helga skal du se :p",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "616ede16be8a6c27",
+      "author": "Money gang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/money-gang",
+      "posted_relative": "for 51 min siden",
+      "text": "Er ihvertfall noen som har troa.. Gikk en blokk med over 173k aksjer rett over kl9 🤩",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "4f3aaa75d4c910bc",
+      "author": "TRD 100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
+      "posted_relative": "for 48 min siden",
+      "text": "bare folk som tar gevinst eller? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "518f46e0d64eef03",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 36 min siden",
+      "text": "Den betale kundene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
       "has_link": false
     }
   ]

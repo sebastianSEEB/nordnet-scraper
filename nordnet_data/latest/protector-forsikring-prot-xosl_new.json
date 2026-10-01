@@ -1,9 +1,54 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-01T01:42:06.651429+00:00",
+  "scraped_at": "2026-10-01T08:00:48.774944+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "57af28bd2f4f0856",
+      "author": "Lubamann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lubamann",
+      "posted_relative": "for 41 min siden",
+      "text": "Nei nå klarer ikke jeg sitte med 10% av porteføljen lenger i denne fallende kniven, er snart nede på gav ;-( Legger in en stop loss (på ca halve investeringen) rett under dagens nivå så jeg evt får snudd den til oppgang igjen for dere andre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 240,
+      "has_link": false
+    },
+    {
+      "key": "638e1b5c14735208",
+      "author": "Muldvarpen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/muldvarpen-2",
+      "posted_relative": "for 30 min siden",
+      "text": "Vi setter pris på at du ofrer deg for oss denne gangen.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "7c93ab05a68f9a2e",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 1 t siden",
+      "text": "Teknisk bærre lækker;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

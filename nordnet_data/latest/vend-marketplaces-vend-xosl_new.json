@@ -1,9 +1,88 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-01T01:41:43.926901+00:00",
+  "scraped_at": "2026-10-01T08:00:25.489364+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "811ffc2c8141e927",
+      "author": "varskoville",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/varskoville",
+      "posted_relative": "for 42 min siden",
+      "text": "https://e24.no/boers-og-finans/i/K8dmk5/forvaltere-etter-kraftige-kursfall-kan-faa-en-hyggelig-rekyl?utm_source=iosapp&utm_medium=share Vend er omtalt her og Alf Inge Gjerde uttaler: «Vi tror denne frykten (Ai) er overdrevet og at aksjekursen kan få en hyggelig rekyl utover høsten».",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/K8dmk5/forvaltere-etter-kraftige-kursfall-kan-faa-en-hyggelig-rekyl?utm_source=iosapp&utm_medium=share"
+      ],
+      "char_count": 283,
+      "has_link": true
+    },
+    {
+      "key": "f89f0916f44fa63d",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 47 min siden",
+      "text": "\"AI-frykt i bankene: – Klart overdrevet AI-agenter vil neppe flytte kundemidler på tvers av banker med det første, ifølge Citi, som mener Vend er blant de mest utsatte for AI-disrupsjon.\" https://www.finansavisen.no/finans/2026/10/01/8384498/ai-frykt-i-bankene-klart-overdrevet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/01/8384498/ai-frykt-i-bankene-klart-overdrevet"
+      ],
+      "char_count": 277,
+      "has_link": true
+    },
+    {
+      "key": "2e65d2c43d077da4",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 28 min siden",
+      "text": "https://e24.no/boers-og-finans/i/K8dmk5/forvaltere-etter-kraftige-kursfall-kan-faa-en-hyggelig-rekyl Vend anbefales nok en gang og spås rekyl utover høsten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/K8dmk5/forvaltere-etter-kraftige-kursfall-kan-faa-en-hyggelig-rekyl"
+      ],
+      "char_count": 156,
+      "has_link": true
+    },
+    {
+      "key": "8fac178acd3d4bdc",
+      "author": "KrisNorwegian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krisnorwegian",
+      "posted_relative": "for 20 min siden",
+      "text": "Interessant at de mener bankene skal komme lettere unna enn Vend med denne frykten. Tiden får vise, men ville tro bankene og forsikringene burde være mer nervøse med AI utviklingen. Enklere å bruke det for oss private, enn å se hvilken boliger og kjøretøy som er til salgs?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 273,
+      "has_link": false
+    },
+    {
+      "key": "b9b751b367ff0aa9",
+      "author": "Marcus1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marcus1",
+      "posted_relative": "for 2 t siden",
+      "text": "Huse med enda et lite påfyll.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

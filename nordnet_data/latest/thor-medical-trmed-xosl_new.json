@@ -1,9 +1,67 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-01T01:47:51.295025+00:00",
+  "scraped_at": "2026-10-01T08:06:55.015198+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "d83b0ede5b396258",
+      "author": "oselas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oselas",
+      "posted_relative": "for 28 min siden · Endret",
+      "text": "Tålmodighet har vi, det er greit. Jeg innser også at dette er et langsiktig prosjekt. Men det fjerner ikke behovet for oppdatert informasjon. På søndag er det 1 måned siden de fullførte den rettede emisjonen, og siden det har det faktisk ikke kommet noe informasjon. Jeg syns det er på tide, og jeg tror ikke jeg er alene om det....",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 332,
+      "has_link": false
+    },
+    {
+      "key": "7f7dfbc0fed8b01a",
+      "author": "ro-te",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
+      "posted_relative": "for 54 min siden",
+      "text": "Er det seriøst noen som tror at Scatec ville kjøpt til 4,8 i emi hvis dem ikke var sikre på gevinst?Scatec Innovation, som er nærstående til styreleder John Andersen, ble tildelt 5.208.333 aksjer til kurs 4,80 kroner.  Det som skjer nå er kortvarig . Noe annet ville være utrolig rart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        17
+      ],
+      "links": [],
+      "char_count": 285,
+      "has_link": false
+    },
+    {
+      "key": "eb9fd2d67bed7063",
+      "author": "HuntEverything",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hunteverything",
+      "posted_relative": "for 27 min siden",
+      "text": "Det man alltid vet når noen sier ikke for å hovere, men.... Da kommer det alltid en hovering.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "3d85b4983875f6d4",
+      "author": "lillejohn1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
+      "posted_relative": "for 2 t siden",
+      "text": "· kort",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

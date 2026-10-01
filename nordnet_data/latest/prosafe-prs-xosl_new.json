@@ -1,9 +1,23 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-01T01:48:02.496961+00:00",
+  "scraped_at": "2026-10-01T08:07:11.541648+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6b74ecd78fb5bb7c",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 20 min siden",
+      "text": "Regner med de byr inn en rigg på kontrakten, og siden anbudet åpnet for riggbytte underveis i kontrakten så legger vel de inn anbudet \"åpent\" for enten bruk av Eurus eller Zephyurus. Kontrakten gir en EBITDA på ca 300million kr pr år i 4år, så de bør nok by seg inn siden den betaler så godt.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 292,
+      "has_link": false
+    }
+  ]
 }

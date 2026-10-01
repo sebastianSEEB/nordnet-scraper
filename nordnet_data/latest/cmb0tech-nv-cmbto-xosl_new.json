@@ -1,9 +1,25 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-10-01T01:41:21.573942+00:00",
+  "scraped_at": "2026-10-01T08:00:02.053506+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "622b132c19f1dfcb",
+      "author": "Nilsbyen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nilsbyen",
+      "posted_relative": "for 1 t siden",
+      "text": "SEB høyner i dag kursmålet til 23 dollar (221kr)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

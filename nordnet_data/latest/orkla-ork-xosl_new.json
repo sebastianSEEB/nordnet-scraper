@@ -1,9 +1,53 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-01T01:45:57.818275+00:00",
+  "scraped_at": "2026-10-01T08:04:52.693245+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "07a55ad8922d913d",
+      "author": "Porteføljebyggeren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/portefljebyggeren",
+      "posted_relative": "for 52 min siden",
+      "text": "Synes 110-125 kroner virker som et interessant SOTP intervall 🙂 Jeg ville i hvert fall vært litt forsiktig med å verdsette Orkla kun ut fra EPS og et flatt avkastningskrav på 7 %. Orkla er etter omleggingen mer et investerings/holdingselskap, og da mener jeg SOTP gir et bedre bilde fordi man får synliggjort verdiene i de enkelte porteføljeselskapene, ikke minst 42,7 % av Jotun. Q2 var heller ikke fullt så svakt som omsetningsfallet på 5,4 % kan få det til å se ut; mye skyldtes valuta, mens underliggende EBIT økte 2,5 %, justert EPS økte 2,6 % og resultatbidraget fra Jotun steg 17 %. Så 86 kroner synes jeg blir ganske konservativt dersom man ser på hele verdibildet. Jeg synes derfor 110-125 kroner absolutt kan forsvares som et SOTP scenario, avhengig av hvilke multipler og hvilken holdingrabatt man legger inn. Blir spennende å se neste rapport 🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 856,
+      "has_link": false
+    },
+    {
+      "key": "5144de9b981ef0ff",
+      "author": "joelle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joelle",
+      "posted_relative": "for 14 t siden",
+      "text": "Jeg har kommet frem til SOTP 110-125kr per aksje. Noen som har kommet frem til noe annet? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "7b2158d087b06927",
+      "author": "ronniz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronniz",
+      "posted_relative": "for 56 min siden",
+      "text": "· Kjedelig bekjentskap etter hvert",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

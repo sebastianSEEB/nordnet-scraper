@@ -1,9 +1,23 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-01T01:45:14.992359+00:00",
+  "scraped_at": "2026-10-01T08:04:13.687136+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "32472fc77dbb10ee",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": "for 14 min siden",
+      "text": "Vi ligger 20 % under emisjonskursen. Syke greier. Håper 3,50 er bunnen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

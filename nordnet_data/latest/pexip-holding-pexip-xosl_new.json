@@ -1,9 +1,25 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-01T01:43:43.697487+00:00",
+  "scraped_at": "2026-10-01T08:02:29.656452+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c9773290edd9685d",
+      "author": "Ebasse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ebasse",
+      "posted_relative": "for 1 t siden",
+      "text": "SB1 øker i dag også, nå er snitt av 5 analytikere over 96kr 💪🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

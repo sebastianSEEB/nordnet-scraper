@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-01T01:46:01.601906+00:00",
+  "scraped_at": "2026-10-01T08:04:56.723864+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "abee28a179450b14",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": "for 36 min siden",
+      "text": "Teknisk analyse med ChatGPT må være en av de beste måtene å bli kjapt blakk på",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    }
+  ]
 }

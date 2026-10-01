@@ -1,9 +1,36 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-01T01:45:42.855970+00:00",
+  "scraped_at": "2026-10-01T08:04:37.304378+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3eafb787704e896f",
+      "author": "azza",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/azza",
+      "posted_relative": "for 2 min siden",
+      "text": "Norsk hydro på Karmøy melder at de vil få flere hundre millioner mindre i avkastning pga dyrere strømavtaler! Slik går det vel med norsk industri når man tillater utenlandske aktører til store lagersentre for KI som skal bruke mye av vår strøm!? Tragisk, spør du meg....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 270,
+      "has_link": false
+    },
+    {
+      "key": "2a34aa5d871e2790",
+      "author": "birkmarring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birkmarring",
+      "posted_relative": "for 9 min siden",
+      "text": "Hva i alle dager skjer her",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }
