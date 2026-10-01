@@ -1,9 +1,23 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-01T13:52:19.222930+00:00",
+  "scraped_at": "2026-10-01T15:04:56.805608+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "39de52e64bad2af9",
+      "author": "tambo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tambo",
+      "posted_relative": "for 30 min siden",
+      "text": "· Ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }
