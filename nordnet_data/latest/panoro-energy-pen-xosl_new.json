@@ -1,9 +1,56 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-02T13:21:18.770874+00:00",
+  "scraped_at": "2026-10-02T18:48:57.733033+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4439cdeb86aa7c98",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 5 t siden",
+      "text": "Ja, hvem skulle vel kunne ha forutsett at det kanskje kunne være mulig å angripe øst-vest-rørledningen på nytt? (å, alle? å ja) https://www.tradewindsnews.com/tankers/new-houthi-attack-targets-yanbu-port-/2-1-2052926",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [
+        "https://www.tradewindsnews.com/tankers/new-houthi-attack-targets-yanbu-port-/2-1-2052926"
+      ],
+      "char_count": 216,
+      "has_link": true
+    },
+    {
+      "key": "72340bbd039612e8",
+      "author": "andga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andga",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· New Valor på vei til Sendje for løfting i Ekvatorial-Guinea. https://www.marinetraffic.com/en/ais/home/shipid:7076952/zoom:10",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.marinetraffic.com/en/ais/home/shipid:7076952/zoom:10"
+      ],
+      "char_count": 127,
+      "has_link": true
+    },
+    {
+      "key": "2177f9b864e1db7a",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Spiller ingen rolle, oljeaksjer er mette på krigsårsak til god oljepris. Selskapet må levere ved q3 så er saken biff",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    }
+  ]
 }

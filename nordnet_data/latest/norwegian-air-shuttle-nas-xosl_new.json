@@ -1,22 +1,52 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-02T13:20:59.331513+00:00",
+  "scraped_at": "2026-10-02T18:48:37.957884+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "06f9d0b3b8bc07a4",
-      "author": "Cronic",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
-      "posted_relative": "for 8 min siden",
-      "text": "Oljeprisen ned 4-5 dollar i dag men NAS stiger nesten ikke! Denne får det stritt fremover😆!",
+      "key": "7a896fb84f0fb6f5",
+      "author": "kal--el",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
+      "posted_relative": "for 4 t siden",
+      "text": "Trafikk tallene kommer den 6. oct..(Tirsdag) Her er oversikten.: https://www.norwegian.com/no/om-oss/selskapet/investor-relations/financial-calendar/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.norwegian.com/no/om-oss/selskapet/investor-relations/financial-calendar/"
+      ],
+      "char_count": 149,
+      "has_link": true
+    },
+    {
+      "key": "dc2ba0aedf0c17cc",
+      "author": "MossMossMoss",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mossmossmoss",
+      "posted_relative": "for 7 t siden",
+      "text": "Når kommer trafikk tallene for september?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        21
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "69bf788621ca5c7a",
+      "author": "kal--el",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
+      "posted_relative": "for 1 t siden",
+      "text": "Ha det bra..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 91,
+      "char_count": 12,
       "has_link": false
     }
   ]

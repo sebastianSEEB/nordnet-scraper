@@ -1,9 +1,38 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-02T13:22:01.550293+00:00",
+  "scraped_at": "2026-10-02T18:49:41.673347+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "190806ed97df4e0b",
+      "author": "Brumle-88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brumle-88",
+      "posted_relative": null,
+      "text": "28. sep. Mange daytradere har ikke lyst til å sitte med sine disposisjoner over helga.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "af3a3c2c52678954",
+      "author": "vinterdvale",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vinterdvale",
+      "posted_relative": "for 4 t siden",
+      "text": "Når har den vært i 32,50",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

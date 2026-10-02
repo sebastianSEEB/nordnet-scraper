@@ -1,9 +1,53 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-02T13:23:22.797197+00:00",
+  "scraped_at": "2026-10-02T18:51:04.579432+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a7c30e361f3faa15",
+      "author": "PimpFunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
+      "posted_relative": "for 3 t siden",
+      "text": "God helg til alle Maritime , uke 2 med support på 60-tallet. Nye kontrakter skrives , økt støtte mm.. bøljan er blå som svenskene sier =)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "0d49817f443ebff5",
+      "author": "Eltedeig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eltedeig",
+      "posted_relative": "for 11 t siden",
+      "text": "Er det noen som har gjort teknisk analyse og vet sånn ca hvor support ligger? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "699a261a19bcef85",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 5 t siden",
+      "text": "85kroners selskap før 2026",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

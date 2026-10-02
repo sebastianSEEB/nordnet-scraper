@@ -1,9 +1,42 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-10-02T13:26:25.009641+00:00",
+  "scraped_at": "2026-10-02T18:54:12.347175+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "81de878ca962448d",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 4 t siden",
+      "text": "Litt nostalgi på tampen av uken... \"Brøt med datidens byggeforskrifter: Bli med Olav Selvaag inn i farfars hus Olav Selvaag ble utfordret til å bygge tomannsboligen på Ekeberg for å vise at man kunne bygge billigere, men likevel bra boliger.\" https://www.dn.no/video/m/ZUhLiU2D/brot-med-datidens-byggeforskrifter-bli-med-olav-selvaag-inn-i-farfars-hus",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.dn.no/video/m/ZUhLiU2D/brot-med-datidens-byggeforskrifter-bli-med-olav-selvaag-inn-i-farfars-hus"
+      ],
+      "char_count": 351,
+      "has_link": true
+    },
+    {
+      "key": "b09f534ca67101bd",
+      "author": "torstein v",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torstein-v",
+      "posted_relative": "for 2 t siden",
+      "text": "· Den var fin",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

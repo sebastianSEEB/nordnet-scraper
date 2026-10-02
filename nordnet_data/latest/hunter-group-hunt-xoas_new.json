@@ -1,9 +1,40 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-02T13:24:21.782566+00:00",
+  "scraped_at": "2026-10-02T18:52:04.572626+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a36c52a34bbd83e3",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 5 t siden",
+      "text": "1222 igår 2% opp blir nye 24,44 usd hvis dette gjelder TD3C raten",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "f847be260554dab2",
+      "author": "shippinganalytiker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "FFA pusher opp, Q1 opp 9%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        32
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

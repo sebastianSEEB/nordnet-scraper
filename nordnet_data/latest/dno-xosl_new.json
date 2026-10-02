@@ -1,9 +1,39 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-02T13:23:11.245677+00:00",
+  "scraped_at": "2026-10-02T18:50:52.757763+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "98aa3bbae2280993",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 5 t siden",
+      "text": "Bare tull å se på oljepris dag for dag. Nå får tallenes tale komme med Q3. DNO får nok ikke gå på Q talla er jeg redd for  :-(",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "a26216ce82b961a0",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Ja men høye gass og olje priser burde vel  en fordel for DNO..som følge av krigen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-02T13:26:59.820225+00:00",
+  "scraped_at": "2026-10-02T18:54:48.381842+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a2314d425210a8a6",
+      "author": "Stifler2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stifler20",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvorfor tror vi at denne løsner nå?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }
