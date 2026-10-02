@@ -1,38 +1,51 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-02T18:52:24.493671+00:00",
+  "scraped_at": "2026-10-02T22:45:17.903969+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 11,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "97020d969caf599d",
-      "author": "Viktor47",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viktor47",
-      "posted_relative": "for 3 t siden",
-      "text": "Hva tenker dere om kuttet av bemanning, 1000 ansatte muligens. Kan det være posetivt eller bare negativt?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [],
-      "char_count": 105,
-      "has_link": false
-    },
-    {
-      "key": "485adde9d57def89",
-      "author": "Kimkimkim",
+      "key": "c2a74a1f9e7d76f7",
+      "author": "@Kimkimkim",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim",
-      "posted_relative": "for 2 t siden",
-      "text": "Er vel som forventet etter at de avslutter store prosjekt",
+      "posted_relative": null,
+      "text": "nevner er det bare en naturlig konsekvens av aktivitetsnivået her og nå. For et selskap som AKBP med et  kontinuerlig investeringsbehov, så blir det for enkelt å si at nedbemanning er positivt fordi det reduserer kostnader. Isolert sett riktig, men betyr også at man reduserer kapitalintensiv investeringsfokus som på sikt gir økte inntekter. Det er bare en naturlig konsekvens etter en lengre periode med store investeringer. Etter hvert vil man sakte men sikkert øke investeringene igjen og ansette flere, men det får ikke like mye spalteplass i media. Media vil alltid reagere mer på store og brå nedskjæringer. Så får Stoltenberg og Støre skylda, men Stoltenberg og Støre får aldri skryt når bedrifter bemanner opp fordi det får ikke samme mediadekning.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 57,
+      "char_count": 757,
+      "has_link": false
+    },
+    {
+      "key": "f24797dadf9345b3",
+      "author": "Viktor47",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viktor47",
+      "posted_relative": "for 7 t siden",
+      "text": "Hva tenker dere om kuttet av bemanning, 1000 ansatte muligens. Kan det være posetivt eller bare negativt? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "45eabdcae70268c1",
+      "author": "rkrister",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rkrister",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Ganske lite. Som",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
       "has_link": false
     }
   ]
