@@ -1,100 +1,38 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-02T13:08:47.309883+00:00",
+  "scraped_at": "2026-10-02T13:19:32.344654+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 6,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "edc18bc7ba0ed8fb",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 2 t siden",
-      "text": "https://x.com/MakaiMarine/status/2105968800734625945 Han har ett poeng. Den dagen vi står med for mye skip og venter på skraping er ikke VLCC snittet 600K og OET 820,- nok.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        3
-      ],
-      "links": [
-        "https://x.com/MakaiMarine/status/2105968800734625945"
-      ],
-      "char_count": 172,
-      "has_link": true
-    },
-    {
-      "key": "19ee091a7e6940ee",
+      "key": "de6a502563d42627",
       "author": "ks1977",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
       "posted_relative": "for 5 t siden",
-      "text": "Flåteoppdatering VLCC - (antatt) shuttle gjennom Hormuzstredet 1) Nissos Despotiko blinket utenfor Irak i går 2) Nissos Keros blinket ved Mina al Fahl 24.09 3) Nissos Kythnos blinket utenfor Fujairah 15.09 4) Nissos Rhenia ankom Fujairah 08.09, flagget \"BSR for orders\" (Basrah?) før AIS ble skrudd av 5) Nissos Donoussa ankom Fujairah 30.09 og hadde snuten vendt mot stredet (og 6,4 knop) da AIS ble skrudd av i går kveld Nr 1-3 virker til å ha shuttlet siden medio august  Nr 4-5 ankom gulfen i september VLCC - øvrig 6) Nissos Kea virker å ha shuttlet fra sent juni (!), men ble svartelistet av Iran 24.08 og smatt ikke lenge etter ut stredet og videre til Myanmar. Hun er nå tilbake i Fujairah, men har allerede en fixture med open 20.09 fra Maday Island (actual 750k/dag iflg Aristidis) 7) Nissos Anafi lastet i Venezuela 27.08. Stoppet og surret da hun nådde Cape Town 17.09 og AIS av en periode. Pr 02.10 er hun tilbake nær Cape Town. Ingen destinasjon oppgitt 8) Nissos Nikouria er på 1 års TC (91,14k) fra februar SUEZ - Novorussyisk (Svartehavet) 1) Folegandros lastet 19.09 og har destinasjon Rotterdam ETA 03.10 2) Nissos Serifopoula lastet 29.09. Ingen destinasjon oppgitt 3) Nissos Tigani lastet 16.09. Losset deler i Korfez 22.09, surret rundt Aliaga noen dager (uten endret dypgang) og fortøyde i Ceyhan i dag (dypgang fortsatt ikke endret på Marinetrafikk, så dersom den er korrekt så ankom hun halvfull - virker rart) 4) Kimolos losset kazakstansk olje på Sicilia 26.09. Surret utenfor Sicilia siden SUEZ - verft 5) Milos ankom Tuzla 14.09 for DD 6) Nissos Sifnos (den \"droneutsatte\") har slikket sine sår i Tuzla siden 04.09 SUEZ - øvrig 7) Poliegos lastet ved Fujairah 25.09 og flagger Singapore ETA 06.10 8) Nissos Vous lastet sin første last i Nigeria 12.09. Tok denne til Port Said, men AIS slått av ved ankomst 01.10 (#STS?) 9) Nissos Piperi lastet i Angola 19.09. Ingen destinasjon oppgitt, men ved/i Gibraltar nå 10) Nissos Sikinos lastet i Kamerun 24.09. Destinasjon Rotterdam ETA 09.10",
+      "text": "Flåteoppdatering VLCC - (antatt) shuttle gjennom Hormuzstredet 1) Nissos Despotiko blinket utenfor Irak i går 2) Nissos Keros blinket ved Mina al Fahl 24.09 3) Nissos Kythnos blinket utenfor Fujairah 15.09 4) Nissos Rhenia ankom Fujairah 08.09, flagget \"BSR for orders\" (Basrah?) før AIS ble skrudd av 5) Nissos Donoussa ankom Fujairah 30.09 og hadde snuten vendt mot stredet (og 6,4 knop) da AIS ble skrudd av i går kveld Nr 1-3 virker til å ha shuttlet siden medio august  Nr 4-5 ankom gulfen i september VLCC - øvrig 6) Nissos Kea virker å ha shuttlet fra sent juni (!), men ble svartelistet av Iran 24.08 og smatt ikke lenge etter ut stredet og videre til Myanmar. Hun er nå tilbake i Fujairah, men har allerede en fixture med open 20.09 fra Maday Island (actual 750k/dag iflg Aristidis) 7) Nissos Anafi lastet i Venezuela 27.08. Stoppet og surret da hun nådde Cape Town 17.09 og AIS av en periode. Pr 02.10 er hun tilbake nær Cape Town. Ingen destinasjon oppgitt 8) Nissos Nikouria er på 1 års TC (91,14k) fra februar SUEZ - Novorussyisk (Svartehavet) 1) Folegandros lastet 19.09 og har destinasjon Rotterdam ETA 03.10 2) Nissos Serifopoula lastet 29.09. Ingen destinasjon oppgitt 3) Nissos Tigani lastet 16.09. Losset deler i Korfez 22.09, surret rundt Aliaga noen dager (uten endret dypgang) og fortøyde i Ceyhan i dag (dypgang fortsatt ikke endret på Marinetrafikk, så dersom den er korrekt så ankom hun halvfull - virker rart) 4) Kimolos losset kazakstansk olje på Sicilia 26.09. Surret utenfor Sicilia siden SUEZ - verft 5) Milos ankom Tuzla 14.09 for DD 6) Nissos Sifnos (den \"droneutsatte\") har slikket sine sår i Tuzla siden 04.09 SUEZ - øvrig 7) Poliegos lastet ved Fujairah 25.09 og flagger Singapore ETA 06.10 8) Nissos Vous lastet sin første last i Nigeria 12.09. Tok denne til Port Said, men AIS slått av ved ankomst 01.10 (#STS?) 9) Nissos Piperi lastet i Angola 19.09. Ingen destinasjon oppgitt, men ved/i Gibraltar nå 10) Nissos Sikinos lastet i Kamerun 24.09. Destinasjon Rotterdam ETA 09.10 Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         12,
-        1
-      ],
-      "links": [],
-      "char_count": 2013,
-      "has_link": false
-    },
-    {
-      "key": "d63c2b392ae04f7c",
-      "author": "Asuntomeklarit",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/asuntomeklarit",
-      "posted_relative": "for 5 t siden",
-      "text": "· hva ville du forvente som ville skape normaliseringen i tankskiprater ? hormuz vil bli fredelig hva ellers ? Den største risikoen for begge er normalisering av tankskiprater. Deres ekstraordinære inntjening avhenger sterkt av fraktmarkeder formet av sanksjoner, forstyrrede ruter og geopolitiske spenninger. Hvis disse forstyrrelsene avtar, stiger tilgjengeligheten av skip og fraktrater kan falle raskt. Det skaper en kraftig inntjeningsnullstilling fordi tankskipenes driftskostnader ikke faller like raskt. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
         2
       ],
       "links": [],
-      "char_count": 531,
+      "char_count": 2033,
       "has_link": false
     },
     {
-      "key": "2ac24881a3f0651b",
-      "author": "ks1977",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-      "posted_relative": "for 1 t siden",
-      "text": "Fungerer \"flåteoppdatering mini\" eller er det komplett flåteoppdatering som er best? \"Mini\" fokuserer kun på det som er nytt og fjerner unødvendig støy, men da må man også scrolle ned til forrige \"komplette\" versjon for å få det fulle bildet",
+      "key": "5135e7d434cb5af3",
+      "author": "Nilsbyen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nilsbyen",
+      "posted_relative": "for 4 min siden",
+      "text": "Mini funker bra, suverent dette👌",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 241,
-      "has_link": false
-    },
-    {
-      "key": "8aa06e0ecf7b8ddf",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 1 t siden",
-      "text": "Så kan man jo regne inn at OET har betalt ut flere hundre kroner ant i utbytte før vi står med for mange skip igjen.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 116,
-      "has_link": false
-    },
-    {
-      "key": "f5a929b91ce917e4",
-      "author": "LSAS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lsas",
-      "posted_relative": "for 2 t siden",
-      "text": "All tappingen av beredskapslager vil vel skape en del transportoppdrag fremover",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 79,
+      "char_count": 32,
       "has_link": false
     }
   ]

@@ -1,54 +1,9 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-10-02T13:14:08.543865+00:00",
+  "scraped_at": "2026-10-02T13:24:52.821814+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 3,
-  "posts": [
-    {
-      "key": "a99cbc6e8a352b7d",
-      "author": "Andyo1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andyo1",
-      "posted_relative": null,
-      "text": "28. sep. De trenger ikke å finne prisene. Jeg vil tro at forsikringsselskapene ikke dikter opp prisene sine. Det vil si at det mest sannsynlig finnes en multiplikator her. AI motorer trenger kun å gjette seg fram til en gitt pris basert på et regnestykke, og justere seg frem til pris treffer etterspørselen. De vil sannsynligvis finne en fair value her som forsikringene må gå ned til for å få salg.",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 400,
-      "has_link": false
-    },
-    {
-      "key": "f1450dccf31db418",
-      "author": "Bastus68",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
-      "posted_relative": null,
-      "text": "28. sep. Forsikringspremiene ligger jo ikke ute på nett, da de settes sammen av en rekke forutsetninger. Dermed vil ikke en AI agent kunne scanne nettet og finne laveste pris heller. De vil kunne sende e-post til selskapene og be om tilbud, men om dette skal håndteres manuelt som i dag vil det bli mye jobb på selskapene. Tror ikke det er så enkelt noen vil ha det til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 369,
-      "has_link": false
-    },
-    {
-      "key": "7b2e4bf08540bcd9",
-      "author": "alexen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alexen",
-      "posted_relative": null,
-      "text": "28. sep. Finanstilsynet beskriver nettopp markedet som dominert av noen få store aktører, og peker på at de store er svært kostnadseffektive, noe som gjør det krevende for mindre aktører å konkurrere lønnsomt. Store barierer for oppstart av nye forsikrings tilbydere, spesielt i Norden!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [],
-      "char_count": 286,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

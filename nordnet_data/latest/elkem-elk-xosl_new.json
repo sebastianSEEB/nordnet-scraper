@@ -1,84 +1,38 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-02T13:11:01.409169+00:00",
+  "scraped_at": "2026-10-02T13:21:46.046240+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 5,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c59bf8e53d491f9f",
-      "author": "OAST",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oast",
-      "posted_relative": null,
-      "text": "28. sep. https://www.investtech.com/no/market.php?CompanyID=100086&tck=ELK&product=2#:~:text=Automatisk%20teknisk%20analyse,p%C3%A5%20kort%20sikt.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.investtech.com/no/market.php?CompanyID=100086&tck=ELK&product=2#:~:text=Automatisk%20teknisk%20analyse,p%C3%A5%20kort%20sikt."
-      ],
-      "char_count": 146,
-      "has_link": true
-    },
-    {
-      "key": "aed3995d134642c3",
-      "author": "Sky is the limit",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
-      "posted_relative": null,
-      "text": "28. sep. DNB Carnegies anbefalte portefølje består av følgende aksjer Mowi, Dof Group, Aker BP, Borregaard, Equinor, Kitron, B2 Impact, SalMar, Nordic Semiconductor og Elkem.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6,
-        1
-      ],
-      "links": [],
-      "char_count": 174,
-      "has_link": false
-    },
-    {
-      "key": "7f65c3bb72390353",
+      "key": "05ec16fbba6e3f19",
       "author": "Beyond-21",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
       "posted_relative": "for 4 t siden",
-      "text": "Litt morro hvor mange NORDNET kunder som har solgt denne mens de profesjonelle skurkene bare har kjøpt og kjøpt.",
+      "text": "Litt morro hvor mange NORDNET kunder som har solgt denne mens de profesjonelle skurkene bare har kjøpt og kjøpt. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2,
-        2
+        3
       ],
       "links": [],
-      "char_count": 112,
+      "char_count": 132,
       "has_link": false
     },
     {
-      "key": "ca2461f3db6e9297",
-      "author": "Langt igjen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langt-igjen",
-      "posted_relative": "for 4 t siden",
-      "text": "@Beyond-21; hvorfor beskriver du folk som skurker? Sitter du på slik info bør du kontakte politiet.",
-      "reply_count": 1,
+      "key": "d0a96a70a863f077",
+      "author": "Seilerdraget",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/seilerdraget",
+      "posted_relative": "for 8 min siden",
+      "text": "Haudeman og Spetalen har solgt, men de sikter fortsatt men en «liten» andel.",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 99,
-      "has_link": false
-    },
-    {
-      "key": "7c9eb6494e008087",
-      "author": "Sky is the limit",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
-      "posted_relative": null,
-      "text": "28. sep. Faller mye idag fordi ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        8
-      ],
-      "links": [],
-      "char_count": 32,
+      "char_count": 76,
       "has_link": false
     }
   ]
