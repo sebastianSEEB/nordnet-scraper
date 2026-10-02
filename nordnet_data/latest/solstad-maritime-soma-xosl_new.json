@@ -1,9 +1,25 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-02T06:30:41.324632+00:00",
+  "scraped_at": "2026-10-02T13:14:31.976987+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "92b43d5e272118e4",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 4 min siden",
+      "text": "Skal på verft en tur om ikke lenge og så nærner det seg vel fort oppstart av 3-års kontrakten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    }
+  ]
 }

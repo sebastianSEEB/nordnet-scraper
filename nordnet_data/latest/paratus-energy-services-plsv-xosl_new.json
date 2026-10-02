@@ -1,9 +1,25 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-10-02T06:27:33.748649+00:00",
+  "scraped_at": "2026-10-02T13:11:28.632298+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "88e961338e773dde",
+      "author": "LongLearning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longlearning",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/10/02/8384803/oslo-bors-apner-opp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/02/8384803/oslo-bors-apner-opp"
+      ],
+      "char_count": 73,
+      "has_link": true
+    }
+  ]
 }

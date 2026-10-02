@@ -1,27 +1,110 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-02T06:29:41.473916+00:00",
+  "scraped_at": "2026-10-02T13:13:37.315615+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
   "posts": [
     {
-      "key": "44a4fa94ba8a83ca",
-      "author": "UnBanked",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/unbanked",
-      "posted_relative": "for 3 t siden",
-      "text": "Ny VLCC angrepet i Hormuzstredet i natt (https://www.qcintel.com/article/ukmto-reports-new-tanker-attack-in-strait-of-hormuz-74366.html) Hvordan vil dette påvirke ratene fremover, Hormuz er fortiden blokkert og kontrollert av IRGC.",
+      "key": "ed3b244854b93561",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": "for 4 min siden",
+      "text": "Det har du helt rett i @Viggi87. Det har jeg også nevnt i tidligere innlegg at bwet og td3c ikke er 1til1. Bwet er vel nærmere 90% td3c og 10% suezmax? Så med gårsdagens voldsomme suezmax økning så kan den fort vekk stå for 60+% av bwet sin siste økningen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 255,
+      "has_link": false
+    },
+    {
+      "key": "a6d70cf6de15463e",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": "for 1 t siden",
+      "text": "Bwet utvikling close i går 826.13 Premarket i dag kl 09-10 770usd kl 12 790usd nå 820usd Da gjenstår det å se Hunter sin utvikling de siste timene før helgen.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8
+        2,
+        4
       ],
-      "links": [
-        "https://www.qcintel.com/article/ukmto-reports-new-tanker-attack-in-strait-of-hormuz-74366.html)"
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    },
+    {
+      "key": "9d639f076e7595d8",
+      "author": "MarkusEmla",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/markusemla",
+      "posted_relative": "for 2 t siden",
+      "text": "BWET stengte på 826usd igår, men NAV var bare 809usd. Så BWET vil nok åpne ned nærmer 809usd dersom FFA er uendret.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
-      "char_count": 231,
-      "has_link": true
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    },
+    {
+      "key": "43c3aecf023338ae",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 23 min siden",
+      "text": "· Freight Futures AM Update Dry Bulk Capesize:  flatt Panamax:  ned ~1% Tankers VLCC:  opp ~2% Suezmax:  opp ~17%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "0118b3e54e552ddd",
+      "author": "Daniel B-L",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/daniel-b-l",
+      "posted_relative": "for 2 t siden",
+      "text": "Noen som har invite linker til div Discord grupper som har shipping som hovedfelt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "5bef7c394bbb2a19",
+      "author": "@shippinganalytiker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "posted_relative": null,
+      "text": ", har du noen tall på hva man kan forvente av utbytte på Q3 ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "667cffdf9318894d",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": "for 2 t siden",
+      "text": "Startet dagen med bwet 770 nå 790. Hunter 18.20 nå 17.74.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
     }
   ]
 }

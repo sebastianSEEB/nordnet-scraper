@@ -1,9 +1,23 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-02T06:29:06.878577+00:00",
+  "scraped_at": "2026-10-02T13:13:02.152392+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0a2bf8971a719876",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 3 t siden",
+      "text": "Folk mistet troen? Folk kan nok ikke påvirke at kursen faller. Sentiment..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

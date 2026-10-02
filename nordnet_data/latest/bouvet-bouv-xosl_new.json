@@ -1,9 +1,23 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-02T06:28:05.207890+00:00",
+  "scraped_at": "2026-10-02T13:12:00.505351+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8c2fffb5429f1dcf",
+      "author": "Jeykey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jeykey",
+      "posted_relative": "for 4 t siden",
+      "text": "Accenture-rally etter at frykten for AI avtar :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

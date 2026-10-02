@@ -1,9 +1,41 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-02T06:27:37.561162+00:00",
+  "scraped_at": "2026-10-02T13:11:32.634784+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7d41c7cf5db7968a",
+      "author": "Bulleven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulleven",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "nesten korrekt, de 2000 i august skal ikke leveres før q1 2027 så de regnes ikke inn i 2026 volumet Så for å nå bunnlinjen av det estimatet må de selge 5029 enheter i H2 siden de solgte 2671 i H1 Å måltallet ble nevnt 25.august så er en \"gammel\" nyhet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 251,
+      "has_link": false
+    },
+    {
+      "key": "a4912f629a0e437f",
+      "author": "g-sin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/g-sin",
+      "posted_relative": "for 4 t siden",
+      "text": "\"Napatech venter nå å selge 7.700-9.700 enheter i 2026\" 1000 i mai, 2000 i august, så minimum enligt målet, så mangler det 4000+ enheter oktober-desember. Dette kan bli bra 💙 Håper vi bryter igjennom 50kr+ snart ^_-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    }
+  ]
 }

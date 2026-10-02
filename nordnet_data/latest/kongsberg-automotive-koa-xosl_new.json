@@ -1,9 +1,68 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-02T06:33:01.051675+00:00",
+  "scraped_at": "2026-10-02T13:16:27.892548+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "8dabb324a057ac85",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "En lettfattelig gjennomgang med AI om dette,  og må derfor taes for det det er: ​Det du påpeker er en klassisk distinksjon i bilindustrien mellom hvor klar leverandøren er kontra når et bilprosjekt faktisk ruller ut av fabrikken. ​1. \"Ready for series production\" (Produktets teknologiske modenhet): Når KOA/Chassis Autonomy oppgir at RWA-løsningen er \"ready for series production\", betyr det at designet, arkitekturen, sikkerhetsfunksjonene (fail-operational) og testingen på komponentnivå er ferdig utviklet og validert. Produktet er industrielt klart til å bygges på en produksjonslinje og oppfyller kravene til masseproduksjon.   ​2. SOP (Start of Production) i 2029–2030 (Kundens integrasjonssyklus): Selv om KOA har sitt produkt \"klart\", krever bilindustrien lange integrasjonsløp: ​En bilprodusent (OEM) må først velge KOA som leverandør (kontraktsinngåelse / Nomination). ​Systemet må tilpasses den spesifikke bilmodellen (chassis, programvare, krasjtester og funksjonell sikkerhet). ​Bilprodusenten må gjennomføre flere år med vintertesting, utholdenhetstesting og sertifisering av hele kjøretøyet. ​Konklusjon om kommunikasjonen ​Det dreier seg primært om to forskjellige milepæler: ​Teknologisk/Produktmessig milepæl: Produktet har gått fra å være en prototype/konsept under utvikling hos Chassis Autonomy til å bli et fullstendig industrialisert, produksjonsklart produkt i KOAs portefølje.   ​Kommersiell SOP-milepæl: Tidslinjen på 3–4 år (ca. 2029–2030) som Trond Fiskum omtalte gjelder selve oppstartsfasen for volumleveranse til spesifikke bilmodeller, da OEM-enes egne bilplattformer krever denne ledetiden før serieproduksjon starter i bilfabrikkene.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 1668,
+      "has_link": false
+    },
+    {
+      "key": "ad7bc267e7e1044b",
+      "author": "Tida",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tida",
+      "posted_relative": "for 1 døgn siden",
+      "text": "På tide med en omvendt spleis på f.eks. 1 på 10 så vi får bort denne 0,001 øre trillingen. De bør også ansette en medierådgiver før denne aksjen blir bortgjemt i en bekmørk kjeller. Nevner jeg til noen at jeg har aksjer i KOA så er det veldig få som har peiling på hvem de er og hva de driver med.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 297,
+      "has_link": false
+    },
+    {
+      "key": "720484f64bcd39b1",
+      "author": "Teddy3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/teddy3",
+      "posted_relative": "for 2 t siden",
+      "text": "Salgssiden er i pluss. Dette til tross for positive signaler fra selskapet. Hvorfor man er interessert i salg, er vanskelig å forstå. Dette medfører at mange aksjonærer blir med i det frustrerende dragsuget....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 210,
+      "has_link": false
+    },
+    {
+      "key": "d92208ba426f877e",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Som en kuriositet her kan det nevnes at KOA i 2020 og starten av 2021 var en av favorittene blant privatinvestorene, og var ofte å finne blant de fem mest omsatte aksjene på Oslo Børs.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 184,
+      "has_link": false
+    }
+  ]
 }

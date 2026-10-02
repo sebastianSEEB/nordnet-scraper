@@ -1,9 +1,26 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-02T06:27:18.500849+00:00",
+  "scraped_at": "2026-10-02T13:11:13.190708+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "76366f038360464d",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": null,
+      "text": "28. sep. Akso kommer som en kule fremover",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        6
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

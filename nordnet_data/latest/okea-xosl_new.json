@@ -1,22 +1,39 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-02T06:28:59.380841+00:00",
+  "scraped_at": "2026-10-02T13:12:54.472999+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ac4102ed06a8a44f",
-      "author": "TouchDown007",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/touchdown007",
-      "posted_relative": "for 5 t siden",
-      "text": "Kan Orlen prøve seg? De har vært aktive i det siste med blant annet kjøp i Goliat feltet. Mulig de vil jobbe seg opp enda mer?",
+      "key": "fd293c0d613b6fb7",
+      "author": "Beyond-21",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
+      "posted_relative": "for 6 t siden",
+      "text": "Denne var jo helt klart en spøk fra min side, opprinnelig. Men ser jo at de nevnes som en mulighet i flere tabloide finans lektyre..",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 126,
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "836f2d4631cec566",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": null,
+      "text": "28. sep. Merkelig kursutvikling i okea olja er solid opp fra fredag Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 87,
       "has_link": false
     }
   ]

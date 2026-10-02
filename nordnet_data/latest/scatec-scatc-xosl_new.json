@@ -1,9 +1,25 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-10-02T06:26:59.389320+00:00",
+  "scraped_at": "2026-10-02T13:10:57.279029+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "06dbe60b53328652",
+      "author": "tommy00",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tommy00",
+      "posted_relative": "for 31 min siden",
+      "text": "ikke mange selskaper på oslo børs som har anbefaling fra samtlige analytikere med en gjennomsnittlig kusrsoppgang på 30 prosent de nærmeste 12 mndr. tror dette vil oppjusteres videre i løpet av året og da snakker vi....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 219,
+      "has_link": false
+    }
+  ]
 }

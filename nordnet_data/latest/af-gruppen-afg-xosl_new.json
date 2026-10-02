@@ -1,9 +1,26 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-10-02T06:30:37.575565+00:00",
+  "scraped_at": "2026-10-02T13:14:28.017249+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ec715e06d53fd947",
+      "author": "HeikenHei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heikenhei",
+      "posted_relative": null,
+      "text": "28. sep. Bra volum , venter brudd opp Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

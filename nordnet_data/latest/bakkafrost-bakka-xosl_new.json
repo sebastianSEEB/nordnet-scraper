@@ -1,9 +1,23 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-10-02T06:27:26.116899+00:00",
+  "scraped_at": "2026-10-02T13:11:20.911464+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "26fdff47759e50b7",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 31 min siden",
+      "text": "En så nedgang er kun Bakkafrost som får til fra 441,4 og rett ned 435",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

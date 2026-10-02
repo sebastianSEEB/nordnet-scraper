@@ -1,9 +1,85 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-02T06:27:03.220345+00:00",
+  "scraped_at": "2026-10-02T13:11:01.409169+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "c59bf8e53d491f9f",
+      "author": "OAST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oast",
+      "posted_relative": null,
+      "text": "28. sep. https://www.investtech.com/no/market.php?CompanyID=100086&tck=ELK&product=2#:~:text=Automatisk%20teknisk%20analyse,p%C3%A5%20kort%20sikt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.investtech.com/no/market.php?CompanyID=100086&tck=ELK&product=2#:~:text=Automatisk%20teknisk%20analyse,p%C3%A5%20kort%20sikt."
+      ],
+      "char_count": 146,
+      "has_link": true
+    },
+    {
+      "key": "aed3995d134642c3",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "28. sep. DNB Carnegies anbefalte portefølje består av følgende aksjer Mowi, Dof Group, Aker BP, Borregaard, Equinor, Kitron, B2 Impact, SalMar, Nordic Semiconductor og Elkem.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "7f65c3bb72390353",
+      "author": "Beyond-21",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
+      "posted_relative": "for 4 t siden",
+      "text": "Litt morro hvor mange NORDNET kunder som har solgt denne mens de profesjonelle skurkene bare har kjøpt og kjøpt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    },
+    {
+      "key": "ca2461f3db6e9297",
+      "author": "Langt igjen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langt-igjen",
+      "posted_relative": "for 4 t siden",
+      "text": "@Beyond-21; hvorfor beskriver du folk som skurker? Sitter du på slik info bør du kontakte politiet.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "7c9eb6494e008087",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "28. sep. Faller mye idag fordi ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

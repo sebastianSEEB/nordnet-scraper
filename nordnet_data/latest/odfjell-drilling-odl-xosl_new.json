@@ -1,9 +1,51 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-10-02T06:27:07.120720+00:00",
+  "scraped_at": "2026-10-02T13:11:05.220551+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "d2af62ce8808ea2e",
+      "author": "lasrathleff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasrathleff",
+      "posted_relative": "for 1 t siden",
+      "text": "· Spørsmål fra en rookie: Noen som kan hjelpe med om det trekkes norsk kildeskatt på utbytter? Synes ikke jeg kan finne et tydelig svar andre steder Og hvis det gjør det - vil det da ende i dobbel beskatning  ? (Investering på ASK)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 231,
+      "has_link": false
+    },
+    {
+      "key": "16417dd17f9f722b",
+      "author": "Graceless Goof",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/graceless-goof",
+      "posted_relative": "for 1 t siden",
+      "text": "ODL er hjemmehørende i Bermuda som ikke krever kildeskatt. ASK beskatningen skjer først ved uttak fra kontoen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "65a95e18c89bc462",
+      "author": "serikseen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/serikseen",
+      "posted_relative": "for 3 t siden",
+      "text": "· 🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

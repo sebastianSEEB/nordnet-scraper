@@ -1,9 +1,28 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-10-02T06:28:20.781149+00:00",
+  "scraped_at": "2026-10-02T13:12:15.927262+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9f9d196db98b63a5",
+      "author": "erjoh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erjoh",
+      "posted_relative": null,
+      "text": "28. sep. https://ilaks.no/na-faller-chilensk-biomasse-og-slaktevolum-usa-markedet-strammes-til/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [
+        "https://ilaks.no/na-faller-chilensk-biomasse-og-slaktevolum-usa-markedet-strammes-til/"
+      ],
+      "char_count": 95,
+      "has_link": true
+    }
+  ]
 }

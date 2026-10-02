@@ -1,9 +1,68 @@
 {
   "slug": "akva-group-akva-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akva-group-akva-xosl",
-  "scraped_at": "2026-10-02T06:31:12.416659+00:00",
+  "scraped_at": "2026-10-02T13:15:02.773651+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "b62c9dcf3d3cb04f",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Fra E24.no: \"Handel i aksjen til selskapet Akva Group er stanset på Oslo Børs i påvente av melding fra selskapet.\" Redigert: Sikkert det som står under Nyheter her nå: \"AKVA group ASA: Agreement between AKVA group and Yanmar on a recommended voluntary cash offer for all shares in AKVA group\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 292,
+      "has_link": false
+    },
+    {
+      "key": "6bb31b61a0eab5e7",
+      "author": "mjg_io",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mjg_io",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hvor ligger denne usikkerheten på 4kr? Jeg tolker det nærmest som det kunne komme et høyere bud",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "dd4b3339dbbcd65a",
+      "author": "Medrik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/medrik",
+      "posted_relative": "for 1 t siden",
+      "text": "Tragedie for norge",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    },
+    {
+      "key": "fdc364dc0eb4c183",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvorfor stans?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

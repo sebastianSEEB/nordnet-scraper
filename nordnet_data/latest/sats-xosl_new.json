@@ -1,9 +1,36 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-10-02T06:29:03.185262+00:00",
+  "scraped_at": "2026-10-02T13:12:58.342984+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3e9e9d148c1a3aaf",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "28. sep. og Harto og Linløkken laster på, samt i Norbit og Magnora, flinke gutter 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "6eee125ec7bc682d",
+      "author": "Onkel Skrue 100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onkel-skrue-100",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvorfor mener du vi aksjonærer blir truffet dobbelt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }
