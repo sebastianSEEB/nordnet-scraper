@@ -1,9 +1,55 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-02T00:20:34.481813+00:00",
+  "scraped_at": "2026-10-02T06:26:39.028812+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4dad45c6e19851d1",
+      "author": "patron72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/patron72",
+      "posted_relative": "for 33 min siden",
+      "text": "Folketrygdfondet Investorlistene viser en økning på 2,3 millioner aksjer siden 17. september, og beholdningen er nå 7,25 mill i Tomra. Økningen kan også skyldes tilbakelevering av aksjer som har vært utlånt til short.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 217,
+      "has_link": false
+    },
+    {
+      "key": "f08d75cdd805f417",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 52 min siden · Endret",
+      "text": "Endelig en skikkelig god nyhet! Barcleys hever fra 120 til 140. Barclays höjer riktkursen för Tomra till 140 norska kronor (120), upprepar övervikt Rekyl i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    },
+    {
+      "key": "88b13cacc8fe6473",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 5 min siden · Endret",
+      "text": "Begge teoriene dine er jo veldig positivt. Da kan vi kanskje se en real økning i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

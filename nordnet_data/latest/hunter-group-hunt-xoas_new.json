@@ -1,23 +1,27 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-02T00:24:05.038139+00:00",
+  "scraped_at": "2026-10-02T06:29:41.473916+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 6,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "c225cfbcb2b8f493",
-      "author": "ballekanin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ballekanin",
-      "posted_relative": "for 2 t siden",
-      "text": "Tipper på pluss 4-5%",
+      "key": "44a4fa94ba8a83ca",
+      "author": "UnBanked",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/unbanked",
+      "posted_relative": "for 3 t siden",
+      "text": "Ny VLCC angrepet i Hormuzstredet i natt (https://www.qcintel.com/article/ukmto-reports-new-tanker-attack-in-strait-of-hormuz-74366.html) Hvordan vil dette påvirke ratene fremover, Hormuz er fortiden blokkert og kontrollert av IRGC.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 20,
-      "has_link": false
+      "engagement_numbers": [
+        8
+      ],
+      "links": [
+        "https://www.qcintel.com/article/ukmto-reports-new-tanker-attack-in-strait-of-hormuz-74366.html)"
+      ],
+      "char_count": 231,
+      "has_link": true
     }
   ]
 }

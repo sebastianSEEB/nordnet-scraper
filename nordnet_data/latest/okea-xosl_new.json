@@ -1,9 +1,23 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-02T00:23:09.986615+00:00",
+  "scraped_at": "2026-10-02T06:28:59.380841+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ac4102ed06a8a44f",
+      "author": "TouchDown007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/touchdown007",
+      "posted_relative": "for 5 t siden",
+      "text": "Kan Orlen prøve seg? De har vært aktive i det siste med blant annet kjøp i Goliat feltet. Mulig de vil jobbe seg opp enda mer?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    }
+  ]
 }

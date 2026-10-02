@@ -1,9 +1,25 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-02T00:20:38.376823+00:00",
+  "scraped_at": "2026-10-02T06:26:43.089917+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b2e209b91dcb8634",
+      "author": "stian1992",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stian1992",
+      "posted_relative": "for 1 t siden",
+      "text": "Forstår ikke hvorfor en aksje som ikke er oljeaskje  følger oljepris😂 Om noe får de rimeligere drivstoff ved lav oljepris.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    }
+  ]
 }

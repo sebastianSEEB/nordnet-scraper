@@ -1,22 +1,40 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-02T00:24:17.917860+00:00",
+  "scraped_at": "2026-10-02T06:29:52.719543+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6fce5abed3c5673b",
-      "author": "gmAnders",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gmanders",
-      "posted_relative": "for 3 t siden",
-      "text": "Bank er vel litt syklisk så på et eller annet tidspunkt blir vel spread på innskudd/utlån priset inn(pga konkurranse) og kanskje evt fallende rente. Usikker på hvor stor den korreksjonen blir. Utlånsspread er gått ned en del 👇",
+      "key": "8cecaed4edadd539",
+      "author": "SigmaBallestein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sigmaballestein",
+      "posted_relative": "for 5 t siden",
+      "text": "Blir et storkjøp når markedet åpner... tenkte å bla opp for 3 aksjer. Vi får se om det fører til store svingninger. #DNB #IkkeFinansieltRaad",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 226,
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "1f94874da0f039a8",
+      "author": "alexen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alexen",
+      "posted_relative": null,
+      "text": "28. sep. DNB: ABG Sundal Collier oppgraderer fra hold til kjøp og løfter kursmålet fra 298 kroner til 352 kroner. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        23,
+        3
+      ],
+      "links": [],
+      "char_count": 133,
       "has_link": false
     }
   ]
