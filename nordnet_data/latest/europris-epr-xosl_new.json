@@ -1,9 +1,38 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-01T20:42:09.839226+00:00",
+  "scraped_at": "2026-10-02T00:21:51.573709+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "55ecc9408855986f",
+      "author": "sokapi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sokapi",
+      "posted_relative": null,
+      "text": "24. sep. Hvorfor så mye nedgang ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    },
+    {
+      "key": "a78b75b70bebf37f",
+      "author": "Fiskebuljong",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskebuljong",
+      "posted_relative": "for 3 t siden",
+      "text": "· Temu",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

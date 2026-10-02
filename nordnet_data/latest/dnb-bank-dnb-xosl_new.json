@@ -1,9 +1,23 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-01T20:44:30.845224+00:00",
+  "scraped_at": "2026-10-02T00:24:17.917860+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6fce5abed3c5673b",
+      "author": "gmAnders",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gmanders",
+      "posted_relative": "for 3 t siden",
+      "text": "Bank er vel litt syklisk så på et eller annet tidspunkt blir vel spread på innskudd/utlån priset inn(pga konkurranse) og kanskje evt fallende rente. Usikker på hvor stor den korreksjonen blir. Utlånsspread er gått ned en del 👇",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 226,
+      "has_link": false
+    }
+  ]
 }

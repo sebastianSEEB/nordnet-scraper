@@ -1,9 +1,40 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-01T20:40:42.417323+00:00",
+  "scraped_at": "2026-10-02T00:20:26.371931+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "89de383822b57a9a",
+      "author": "GabW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg er langsiktig og tenker å holde i flere år fremover. Med flere fabrikker og høyere etterspørsel tipper jeg kitron bare vil vokse fremover. Ledelsen i kitron er gode på å posisjonere seg riktig vei.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 201,
+      "has_link": false
+    },
+    {
+      "key": "aa0d8cca70219e48",
+      "author": "Adrian08",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/adrian08",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvor tror dere denne kommer til å gå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }
