@@ -1,9 +1,23 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-03T01:37:34.987180+00:00",
+  "scraped_at": "2026-10-03T07:20:15.068940+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d551dae9148bb735",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Det er vel  kostnadsbrsparelser, hvis f.eks 1000 stk tjener 1 mill hver, så faller 1000 millioner bort fra lønnskostnader. Så kan de f.eks betale det i utbytte, istedenfor, som utgjør ca 1,5kr pr aksje",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 201,
+      "has_link": false
+    }
+  ]
 }

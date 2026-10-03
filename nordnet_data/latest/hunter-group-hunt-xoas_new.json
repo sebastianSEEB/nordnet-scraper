@@ -1,9 +1,23 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-03T01:37:15.920727+00:00",
+  "scraped_at": "2026-10-03T07:19:55.784063+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5d5f79cd61524abc",
+      "author": "nokar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvis vi ser på oljeprisen i går når børsen åpnet og til stengetid falt den hele tiden akkurat når den stengte vippet den opp over 100 slike vell klarte vi 1% 💪👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    }
+  ]
 }
