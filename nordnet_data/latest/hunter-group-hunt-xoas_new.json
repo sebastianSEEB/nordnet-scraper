@@ -1,39 +1,38 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-03T16:56:14.465243+00:00",
+  "scraped_at": "2026-10-03T19:40:12.252404+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "0d659296241fcc19",
-      "author": "CJSBird",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cjsbird",
-      "posted_relative": "for 4 min siden",
-      "text": "Jeg bruker å følge med her: https://ssr.finanstilsynet.no/ Håper noen vet hvorfor informasjon plutselig kan bli borte🤔",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://ssr.finanstilsynet.no/"
-      ],
-      "char_count": 118,
-      "has_link": true
-    },
-    {
-      "key": "9dcd07fe4e3024fa",
+      "key": "ea641926c6162af6",
       "author": "Proffen",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Et generelt spørsmål rundt shorting. For noen dager siden gikk jeg inn på Hunter aksjen i Nordnet under «Oversikt» og nøkkeltall. Nederst til høyre finner man «Short». Jeg trykket da på den og fikk opp 0,79%, som da var riktig. Etter den dagen har jeg prøvd å få fram samme info men nå ligger det ikke noe info der. Jeg har sjekket både når børsen er åpen og utenfor børsens åpningstider. Noen som vet hvorfor short info nå ikke dukker opp? Såvidt jeg vet skal short fremdeles ligge på 0,79%.",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Et generelt spørsmål rundt shorting. For noen dager siden gikk jeg inn på Hunter aksjen i Nordnet under «Oversikt» og nøkkeltall. Nederst til høyre finner man «Short». Jeg trykket da på den og fikk opp 0,79%, som da var riktig. Etter den dagen har jeg prøvd å få fram samme info men nå ligger det ikke noe info der. Jeg har sjekket både når børsen er åpen og utenfor børsens åpningstider. Noen som vet hvorfor short info nå ikke dukker opp? Såvidt jeg vet skal short fremdeles ligge på 0,79%. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        1,
+        3
       ],
       "links": [],
-      "char_count": 492,
+      "char_count": 512,
+      "has_link": false
+    },
+    {
+      "key": "f05f194268728821",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 2 t siden",
+      "text": "Det ligger fortsatt en short på ca 1,078 millioner aksjer",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
       "has_link": false
     }
   ]
