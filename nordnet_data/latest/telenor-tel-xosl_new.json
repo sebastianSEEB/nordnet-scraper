@@ -1,24 +1,58 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-03T19:40:35.424208+00:00",
+  "scraped_at": "2026-10-03T22:36:32.357900+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "7e3bd18ba9a97ee9",
-      "author": "rocketman84",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rocketman84",
+      "key": "cac4e7f0deac3512",
+      "author": "Chris442",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chris442",
       "posted_relative": null,
-      "text": "29. sep. Ser flere og flere som dytter ut AI genererte \"personlige meninger\" og \"anbefalinger\".. Gjør litt research selv heller, AI er en tilbakestående investeringsrådgiver som ALLTID klarer å spinne en eller annen positiv vinkel og kjøpsanbefaling uavhengig av hvilken aksje du spør om, bare for å gi oss kompis følelsen.",
+      "text": "29. sep. https://www.tv2.no/nyheter/telenor-problemer-20000-rammet/19273813/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        2,
+        1
+      ],
+      "links": [
+        "https://www.tv2.no/nyheter/telenor-problemer-20000-rammet/19273813/"
+      ],
+      "char_count": 76,
+      "has_link": true
+    },
+    {
+      "key": "fcd96da07628b459",
+      "author": "Øy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
+      "posted_relative": null,
+      "text": "30. sep. Tittet på Telenor en stund nå, men føler den skal mer ned pga alle rettssakene som kommer. Er selskaper forsikret mot eventuelle tap i forbindelse med søksmål?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
       ],
       "links": [],
-      "char_count": 323,
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "ecc6ef8fccde3f0c",
+      "author": "rocketman84",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rocketman84",
+      "posted_relative": null,
+      "text": "29. sep. Flaut 🫠",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 16,
       "has_link": false
     }
   ]

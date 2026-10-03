@@ -1,9 +1,54 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-03T19:35:14.214494+00:00",
+  "scraped_at": "2026-10-03T22:31:16.047917+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2017ec4909c02671",
+      "author": "Drakedreper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drakedreper",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://x.com/izakaminska/status/2106300157612425371",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/izakaminska/status/2106300157612425371"
+      ],
+      "char_count": 54,
+      "has_link": true
+    },
+    {
+      "key": "a81e661d9eed2140",
+      "author": "westviking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/westviking",
+      "posted_relative": "for 1 t siden",
+      "text": "Claude svarte meg på konsekvensen av frislipp av olje på markedet: \"Mulig oppside på sikt: Når lagrene skal fylles opp igjen, kommer det etterspørsel etter transport. Hvis frigivelsen i tillegg tipper markedet mot overskudd og kontango, kan det føre til flytende lagring, som historisk har vært sterkt positivt for ratene.\" Lærte meg et nytt ord i samme slengen; kontango🤓 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 392,
+      "has_link": false
+    },
+    {
+      "key": "c4cb53ff63f6ef5f",
+      "author": "mahdi_123g",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mahdi_123g",
+      "posted_relative": "for 59 min siden",
+      "text": "Solgte på ca 472😭",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }
