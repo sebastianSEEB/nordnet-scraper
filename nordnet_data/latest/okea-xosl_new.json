@@ -1,9 +1,23 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-03T12:54:05.433431+00:00",
+  "scraped_at": "2026-10-03T16:55:30.662960+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8b2647c6e13cf2fc",
+      "author": "El-toro",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/el-toro-2",
+      "posted_relative": null,
+      "text": "29. sep. Men om de har ambisjoner framover om vekst i antall fat videre, som sannsynligvis blir å kjøpe seg opp i noe felt i tillegg til nye funn de utvikler selv , da blir det fort litt dyrt å skulle love noe videre utbytte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 224,
+      "has_link": false
+    }
+  ]
 }

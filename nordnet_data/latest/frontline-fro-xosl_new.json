@@ -1,55 +1,37 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-03T12:50:01.478050+00:00",
+  "scraped_at": "2026-10-03T16:51:15.430000+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "3dbbd24bb0d4a682",
-      "author": "BRGN",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brgn",
-      "posted_relative": "for 1 t siden",
-      "text": "https://www.tradewindsnews.com/tankers/under-fire-with-rates-on-fire-vlcc-spot-market-surges-to-new-records-after-attacks/2-1-2053416 Vi snakker 1,3m for tur til China, ikke bare shuttletrafikk",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.tradewindsnews.com/tankers/under-fire-with-rates-on-fire-vlcc-spot-market-surges-to-new-records-after-attacks/2-1-2053416"
-      ],
-      "char_count": 193,
-      "has_link": true
-    },
-    {
-      "key": "209258a1f9b5d347",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 46 min siden",
-      "text": "https://x.com/christankerfund/status/2106351404751429885/photo/1 Afra ratene er nå fullstendig klin kokos. Vis 1 kommentar til",
+      "key": "d239073a333ab00c",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 36 min siden",
+      "text": "Hva tenkes det om å shorte på 510,- der ute?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4,
-        2
+        1
       ],
-      "links": [
-        "https://x.com/christankerfund/status/2106351404751429885/photo/1"
-      ],
-      "char_count": 126,
-      "has_link": true
+      "links": [],
+      "char_count": 44,
+      "has_link": false
     },
     {
-      "key": "560a8f28c92914e3",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 42 min siden",
-      "text": "70/130/270K Q er skipstypene afra/suezmax/vlcc. Fro eier alle disse skipstypene og seiler disse rutene med unntak av TD3C som er fra innsiden av stredet - Kina/Østen.",
+      "key": "de24d7b4d3b5062f",
+      "author": "BRGN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brgn",
+      "posted_relative": "for 2 min siden",
+      "text": "Lykke til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 166,
+      "char_count": 9,
       "has_link": false
     }
   ]

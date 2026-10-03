@@ -1,35 +1,24 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-03T12:55:05.969320+00:00",
+  "scraped_at": "2026-10-03T16:56:34.117490+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "dd040dc5eb9bb49b",
-      "author": "monkey76",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
-      "posted_relative": "for 1 t siden",
-      "text": "Vraker Aker BP – tar inn tre nye aksjer SB1 Markets slo Oslo Børs klart i september. Nå gjør analysesjef Petter Kongslie tre nye veddemål i porteføljen – og sender Aker BP ut.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 175,
-      "has_link": false
-    },
-    {
-      "key": "6b83c6c5ba4cdac2",
+      "key": "86cc70bb9399cac9",
       "author": "yaca",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yaca",
-      "posted_relative": "for 2 t siden",
-      "text": "Kan også være kynisk posisjonering i forkant av forhandlinger med myndighetene om en ny og gunstig \"skattepakke\".",
+      "posted_relative": "for 3 t siden",
+      "text": "Ja, men klimaet snur nok raskt når verftene begynner å permittere og utsiktene for skatteinntekter kollapser.",
       "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 113,
+      "char_count": 109,
       "has_link": false
     }
   ]

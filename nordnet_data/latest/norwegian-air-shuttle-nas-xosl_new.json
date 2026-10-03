@@ -1,9 +1,41 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-03T12:51:30.565630+00:00",
+  "scraped_at": "2026-10-03T16:52:48.386105+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ad36aef2828edb7b",
+      "author": "Bull_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bull_1",
+      "posted_relative": "for 3 t siden",
+      "text": "https://www.nrk.no/urix/transporten-av-olje-fra-midtosten-er-tilbake-til-normalen-1.18044297",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.nrk.no/urix/transporten-av-olje-fra-midtosten-er-tilbake-til-normalen-1.18044297"
+      ],
+      "char_count": 92,
+      "has_link": true
+    },
+    {
+      "key": "db5eea83230a7f7c",
+      "author": "kilkenny72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
+      "posted_relative": "for 1 min siden",
+      "text": "Råolje har det vært mye av. Men forstyrrelser og krig skaper lengere frakttid, og ikke minst risikopremier og mange andre ledd som har skapt dyrere olje, har skutt i været. Hvis de mente at det er massevis av olje, hvorfor frigjorde de nødlagre tidligere i år. Greit at det til tider går tankere gjennom stredet, men å påstå at flyten går som før, tror jeg man må ta med en klype salt. Men som de nevner, og skulle det være fakta, så er det hele en kostbar operasjon å få ut oljen, og tankselskapene tar seg godt betalt.  Så lenge krigen pågår, vil oljeprisen holde seg oppe. Jeg kommer kanskje til å investere i NAS, når det er fred. Men alt som er oljerelatert av aksjer, er for øyeblikket utsatt for store svingninger, og man vet ikke hva som skjer fra uke til uke, så det meste blir bare gambling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 801,
+      "has_link": false
+    }
+  ]
 }
