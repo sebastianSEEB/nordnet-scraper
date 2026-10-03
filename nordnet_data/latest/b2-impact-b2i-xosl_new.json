@@ -1,9 +1,26 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-03T07:17:34.730781+00:00",
+  "scraped_at": "2026-10-03T12:52:30.618864+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c934d5c7fe9b1621",
+      "author": "Sjøbakken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjbakken",
+      "posted_relative": null,
+      "text": "29. sep. Skal tro om det er Norges banks heving av styringsrenten som gjør at B2 Impact sliter med å ta igjen 25,95 Dvs den kursen B2 hadde dagen før nedsalget til Neverdal invest. Håper at vi ikke skal ned til 23.05 igjen. (Den kursen Neverdal solgte på)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 255,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-03T07:18:26.068214+00:00",
+  "scraped_at": "2026-10-03T12:53:19.734958+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "055cb2d3ff471c32",
+      "author": "Panzerhanzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
+      "posted_relative": null,
+      "text": "29. sep. Krysser fingrene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

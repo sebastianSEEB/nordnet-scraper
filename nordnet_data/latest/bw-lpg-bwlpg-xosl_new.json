@@ -1,9 +1,25 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-10-03T07:15:16.133894+00:00",
+  "scraped_at": "2026-10-03T12:50:17.404334+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a55793a01800e670",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": null,
+      "text": "29. sep. GASS: SAUDI ARAMCO SATT OPP LPG-PRISENE FOR OKTOBER Close i dag kl. 10:11 ∙ TDN Finans     BW LPG     −0,51%  Oslo (Infront TDN Direkt): Saudiarabiske Saudi Aramco har satt kontraktsprisene for propan og butan opp til henholdsvis 680 og 730 dollar pr tonn for oktober, melder Bloomberg News tirsdag. Kontraktsprisene for propan og butan var 625 og 660 dollar pr tonn for september.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 390,
+      "has_link": false
+    }
+  ]
 }

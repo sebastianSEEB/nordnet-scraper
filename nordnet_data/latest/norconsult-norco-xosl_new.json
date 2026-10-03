@@ -1,9 +1,25 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-10-03T07:17:42.853182+00:00",
+  "scraped_at": "2026-10-03T12:52:37.945104+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "00d3f5e50cfbdb7c",
+      "author": "Drwhat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drwhat",
+      "posted_relative": null,
+      "text": "29. sep. Ai blir nok å integreres i dem fleste jobbene,som bla økonomi,planlegging,m.m… er en selvfølge. Frykter ikke at AI blir å ta over. Mere som en stille kollega som jobber i bakgrunnen og ikke tar kaffepauser. Overdreven frykt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 233,
+      "has_link": false
+    }
+  ]
 }

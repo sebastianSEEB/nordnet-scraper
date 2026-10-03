@@ -1,9 +1,23 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-03T07:21:41.422273+00:00",
+  "scraped_at": "2026-10-03T12:56:31.419426+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5f2aa2af5415d13a",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 2 t siden",
+      "text": "Har selv kjøpt meg kraftig opp på 4 kr igår og økt beholdningen med 50%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

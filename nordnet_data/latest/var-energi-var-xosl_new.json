@@ -1,9 +1,27 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-03T07:20:30.580251+00:00",
+  "scraped_at": "2026-10-03T12:55:21.381727+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "57b962cad90e9124",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 3 t siden",
+      "text": "· Opptak viser den massive brannen som brøt ut ved et Saudi ARAMCO-raffineri i Riyadh. https://x.com/MoloWarMonitor/status/2106298886734201276",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://x.com/MoloWarMonitor/status/2106298886734201276"
+      ],
+      "char_count": 142,
+      "has_link": true
+    }
+  ]
 }
