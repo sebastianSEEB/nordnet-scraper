@@ -1,9 +1,26 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-04T09:01:56.012895+00:00",
+  "scraped_at": "2026-10-04T14:37:53.652658+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fc4c53e291baae4b",
+      "author": "ndnd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ndnd",
+      "posted_relative": null,
+      "text": "30. sep. Man må ha mye is i magen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        5
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

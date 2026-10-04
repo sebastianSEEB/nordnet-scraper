@@ -1,9 +1,40 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-10-04T08:59:27.127391+00:00",
+  "scraped_at": "2026-10-04T14:35:29.260882+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "eef582f6c5a95d95",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": null,
+      "text": "30. sep. \"Subsea 7 har anket Petrobras' beslutning i PLSV-anbudet om å erklære Seagems som vinner av Lot C1-BB med fartøyet Neptune, ifølge Fearnley Securities. Meglerhuset skriver at anken øker risikoen for Paratus' bud på Neptune, men at tildeling av kontrakt for Neptune fortsatt er basisscenariet.\" Merkelig dette?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 318,
+      "has_link": false
+    },
+    {
+      "key": "dd1674641130abd1",
+      "author": "vegvesen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vegvesen",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvilket tidsperspektiv har dere i PLSV?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-04T08:58:32.113992+00:00",
+  "scraped_at": "2026-10-04T14:34:35.504453+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cc66b5a360d00d8d",
+      "author": "ratata_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ratata-1",
+      "posted_relative": "for 4 t siden",
+      "text": "De vil bli fylt opp av de samme aktørene som «tømte den..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

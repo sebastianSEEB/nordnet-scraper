@@ -1,9 +1,25 @@
 {
   "slug": "sparebanken-norge-sbnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-norge-sbnor-xosl",
-  "scraped_at": "2026-10-04T09:01:08.939859+00:00",
+  "scraped_at": "2026-10-04T14:37:07.858952+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8fb91d49901576cd",
+      "author": "MisterOlsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/misterolsen",
+      "posted_relative": null,
+      "text": "30. sep. Norne legger ned sitt kontor i Litauen. https://www.dn.no/marked/meglerhus-avvikler-filial-i-utlandet-krevende-beslutning/2-1-2051621",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/marked/meglerhus-avvikler-filial-i-utlandet-krevende-beslutning/2-1-2051621"
+      ],
+      "char_count": 142,
+      "has_link": true
+    }
+  ]
 }

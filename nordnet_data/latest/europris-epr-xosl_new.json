@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-04T08:59:43.045869+00:00",
+  "scraped_at": "2026-10-04T14:35:44.613339+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fee8a9be40d89a25",
+      "author": "pennyinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennyinvest",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg tipper nok 4 utifra historikk og det som er guidet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

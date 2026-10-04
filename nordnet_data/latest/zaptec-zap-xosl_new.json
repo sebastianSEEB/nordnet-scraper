@@ -1,9 +1,36 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-04T08:58:24.239160+00:00",
+  "scraped_at": "2026-10-04T14:34:27.534424+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "95626abf61afa926",
+      "author": "Ebb1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ebb1",
+      "posted_relative": "for 5 t siden",
+      "text": "· Det som er interessant er kor mange som har gått over frå fossil til El. El. til El. er mindre viktig for Zaptec-marknadsdelen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "3db7540414d340c2",
+      "author": "Knut2345",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knut2345",
+      "posted_relative": "for 1 t siden",
+      "text": "Digg å ha solgt 9496 aksjer i november 2024 for ca 8,80,- 💀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }

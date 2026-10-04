@@ -1,9 +1,25 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-04T09:00:33.748106+00:00",
+  "scraped_at": "2026-10-04T14:36:33.630964+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d01015491e39346c",
+      "author": "TWOWS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
+      "posted_relative": null,
+      "text": "30. sep. Er det bare ned for å hente fart i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,26 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-04T08:56:49.420106+00:00",
+  "scraped_at": "2026-10-04T14:32:55.797213+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "65caef1caa5c35cb",
+      "author": "Uggenlaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uggenlaks",
+      "posted_relative": null,
+      "text": "30. sep. sjekk kursutviklingen i Torm,  opp 6.50% nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

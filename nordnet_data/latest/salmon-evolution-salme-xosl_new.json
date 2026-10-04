@@ -1,9 +1,25 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-04T09:04:17.309686+00:00",
+  "scraped_at": "2026-10-04T14:40:10.401499+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ef0bbd782471d7bd",
+      "author": "pnuttymayn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pnuttymayn",
+      "posted_relative": null,
+      "text": "30. sep. · Er shorterne borte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

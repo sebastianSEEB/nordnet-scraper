@@ -1,9 +1,39 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-10-04T08:59:23.284976+00:00",
+  "scraped_at": "2026-10-04T14:35:25.440605+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fda0c42c9039787e",
+      "author": "invest_all",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/invest_all",
+      "posted_relative": null,
+      "text": "30. sep. Knapt noe volum å snakke om.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "5f3c34ea6726cfc3",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": null,
+      "text": "30. sep. Merkelig utvikling🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

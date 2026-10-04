@@ -1,9 +1,39 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-04T08:57:02.215102+00:00",
+  "scraped_at": "2026-10-04T14:33:07.378208+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fd4e2c85e8abc39e",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": null,
+      "text": "30. sep. Tyskland beordrer SEFE til å kjøpe 8TWh LNG innen 15. desember. Ser ut som vi går fra stille panikk til full offentlig panikk.  India, lite hydrokraft, oversvømte kullgruver - må kjøpe dyr diesel eller litt billigere LNG. JKM / TTF arbitrasjen holder seg stabilt på rundt 1,34 USD siste 7 dager, vil presse båtene mot Asia i stedet for EU. Binder opp mer tonnasje. 24. september beordret Beijing sine tradere om å slutte å omdirigere last til øvrige markeder, all kontraktfestet LNG last skal heretter til Kina i stedet. EU utsetter med høy sannsynlighet metan avgiften med 1 år, dette vil gjøre det billigere for ALNG sine båter å losse innad i EU.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        5
+      ],
+      "links": [],
+      "char_count": 658,
+      "has_link": false
+    },
+    {
+      "key": "ce84d83049b502a1",
+      "author": "acpeters",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acpeters",
+      "posted_relative": null,
+      "text": "30. sep. Vi går inn i oktober. Er begge båter uten oppdrag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }

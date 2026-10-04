@@ -1,9 +1,23 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-04T09:00:10.465482+00:00",
+  "scraped_at": "2026-10-04T14:36:11.148862+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fee89c6be45b627a",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": null,
+      "text": "30. sep. Snart kan ikke komme snart nok. Her er det fritt fall 😅",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }

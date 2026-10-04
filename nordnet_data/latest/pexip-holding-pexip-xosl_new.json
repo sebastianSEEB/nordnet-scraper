@@ -1,9 +1,26 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-04T09:00:18.214536+00:00",
+  "scraped_at": "2026-10-04T14:36:18.624878+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "97def593f33ea98a",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "30. sep. Vi er fortsatt langt unna analytikernes laveste mål som er 88 kr.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

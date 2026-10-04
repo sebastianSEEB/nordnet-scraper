@@ -1,22 +1,55 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-04T08:56:40.489457+00:00",
+  "scraped_at": "2026-10-04T14:32:47.008716+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "bf1394c509a62665",
-      "author": "Korona",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
-      "posted_relative": "for 1 t siden",
-      "text": "· Trist",
+      "key": "04de1eb64108e596",
+      "author": "westviking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/westviking",
+      "posted_relative": "for 17 t siden",
+      "text": "Claude svarte meg på konsekvensen av frislipp av olje på markedet: \"Mulig oppside på sikt: Når lagrene skal fylles opp igjen, kommer det etterspørsel etter transport. Hvis frigivelsen i tillegg tipper markedet mot overskudd og kontango, kan det føre til flytende lagring, som historisk har vært sterkt positivt for ratene.\" Lærte meg et nytt ord i samme slengen; kontango🤓",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1,
+        3
+      ],
       "links": [],
-      "char_count": 7,
+      "char_count": 372,
+      "has_link": false
+    },
+    {
+      "key": "f89b25e4c576ba76",
+      "author": "Drakedreper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drakedreper",
+      "posted_relative": "for 3 t siden",
+      "text": "Forøvrig, at olje skal på grunn av dette frislippet bevege seg over i kontango er helt usannsynlig. Nå et det en ekstrem backwardation når vi tar med Dated Brent i regnestykket. Handles til over 126. Desember er på over 102, mens januar er på 98,71, mens februar er på litt under 96.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 283,
+      "has_link": false
+    },
+    {
+      "key": "eda287ba9c728668",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 3 t siden",
+      "text": "Iran anklager USA for å tale med to tunger og for å stille krav uten å gi noe tilbake. Uten endring er det uaktuelt å åpne Hormuzstredet, fastslår landets to viktigste forhandlere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 180,
       "has_link": false
     }
   ]

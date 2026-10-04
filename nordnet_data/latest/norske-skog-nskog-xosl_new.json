@@ -1,9 +1,26 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-04T09:01:01.101351+00:00",
+  "scraped_at": "2026-10-04T14:37:00.115480+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "57df19ae8cfae22a",
+      "author": "TomRe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tomre",
+      "posted_relative": null,
+      "text": "30. sep. SP1 har kommet med en analyse med BUY - TP 55",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }
