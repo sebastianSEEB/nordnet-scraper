@@ -1,9 +1,53 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-10-04T14:37:49.790457+00:00",
+  "scraped_at": "2026-10-04T18:31:59.408712+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "82bdfc779102793a",
+      "author": "kkkkkkkkkkk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kkkkkkkkkkk",
+      "posted_relative": "for 50 min siden",
+      "text": "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe Noen som kan dele hva det står her ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe"
+      ],
+      "char_count": 118,
+      "has_link": true
+    },
+    {
+      "key": "e3d4c5610dcdffaf",
+      "author": "Sailor69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sailor69",
+      "posted_relative": "for 3 t siden",
+      "text": "Teknisk analyse viser at det kan være en god ide å shorte denne nå. Tester ut til uken med warrant. For de som har aksjer i selskapet blir det å hedge investeringen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 165,
+      "has_link": false
+    },
+    {
+      "key": "742911d58681a01d",
+      "author": "Flatøyy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flatyy",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva er grunnen til nedgang?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

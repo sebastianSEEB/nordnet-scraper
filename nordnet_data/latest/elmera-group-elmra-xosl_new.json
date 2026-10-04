@@ -1,22 +1,38 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-10-04T14:38:55.093589+00:00",
+  "scraped_at": "2026-10-04T18:33:04.709880+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "eb26ecc5d6c906ea",
-      "author": "Nas-fan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nas-fan",
+      "key": "583f003db8595736",
+      "author": "Lohikeisari",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lohikeisari",
       "posted_relative": null,
-      "text": "30. sep. de kunne bare legge kjøp på 47 så kunne folk selge uten at man trenger å vente...",
+      "text": "30. sep. · Hva skjedde i auksjonen? Falt fra 46,8–>45,3 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "6153772812d578fb",
+      "author": "PEDER12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peder12",
+      "posted_relative": null,
+      "text": "30. sep. · Interessant",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 90,
+      "char_count": 22,
       "has_link": false
     }
   ]

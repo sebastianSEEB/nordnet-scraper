@@ -1,35 +1,68 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-04T14:34:27.534424+00:00",
+  "scraped_at": "2026-10-04T18:28:34.573370+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "95626abf61afa926",
-      "author": "Ebb1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ebb1",
-      "posted_relative": "for 5 t siden",
-      "text": "· Det som er interessant er kor mange som har gått over frå fossil til El. El. til El. er mindre viktig for Zaptec-marknadsdelen.",
+      "key": "c683fee08ca9f2c7",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 3 t siden",
+      "text": "ser vi 70-tallet i neste uke eller litt for tidlig kanskje? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        2
+      ],
       "links": [],
-      "char_count": 129,
+      "char_count": 79,
       "has_link": false
     },
     {
-      "key": "3db7540414d340c2",
+      "key": "4a81598181800607",
       "author": "Knut2345",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knut2345",
-      "posted_relative": "for 1 t siden",
-      "text": "Digg å ha solgt 9496 aksjer i november 2024 for ca 8,80,- 💀",
+      "posted_relative": "for 5 t siden",
+      "text": "Digg å ha solgt 9496 aksjer i november 2024 for ca 8,80,- 💀 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "e3ccbf992191ae5a",
+      "author": "Kejserk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kejserk",
+      "posted_relative": "for 15 min siden",
+      "text": "· Tror vi ser en pen stigning igjen i morgen. 🚀🧐",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 59,
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "2a0da3cec707f4b0",
+      "author": "j-jonsson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/j-jonsson",
+      "posted_relative": "for 50 min siden",
+      "text": "· Fint å ha kjøpt 3000 for 9,09 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 33,
       "has_link": false
     }
   ]

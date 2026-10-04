@@ -1,9 +1,25 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-10-04T14:40:06.714028+00:00",
+  "scraped_at": "2026-10-04T18:34:18.401863+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1f230ed9cefe68e0",
+      "author": "Jokerman01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jokerman01",
+      "posted_relative": "for 46 min siden",
+      "text": "Lurer på hvem som kan hjelpe til å fly over undervanns infrastruktur og sjekke? https://www.nrk.no/tromsogfinnmark/pst_-ber-folk-langs-kysten-vaere-oppmerksomme-1.18042551",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.nrk.no/tromsogfinnmark/pst_-ber-folk-langs-kysten-vaere-oppmerksomme-1.18042551"
+      ],
+      "char_count": 171,
+      "has_link": true
+    }
+  ]
 }

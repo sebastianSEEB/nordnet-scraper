@@ -1,9 +1,23 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-04T14:39:18.212557+00:00",
+  "scraped_at": "2026-10-04T18:33:28.565035+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0f2d2845efdbb3e8",
+      "author": "OnkelSkrue73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onkelskrue73",
+      "posted_relative": "for 36 min siden",
+      "text": "Et fall på 15% på 2 dager uten melding er vesentlig. Volumet steg voldsomt fra 0,31 mill. aksjer den 30/9 til 2,07 mill. aksjer den 01/10 og 7,47 mill. aksjer på fredag. Den eneste rasjonelle forklaringen på det er at en eller flere større aktører solgte seg ut og at flere sikringer røk og forsterket fallet. Vi får gjerne svar på det ila man/tir.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 348,
+      "has_link": false
+    }
+  ]
 }
