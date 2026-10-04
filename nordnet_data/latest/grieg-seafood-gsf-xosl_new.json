@@ -1,9 +1,23 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-10-04T02:16:54.121572+00:00",
+  "scraped_at": "2026-10-04T09:00:14.353719+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f108c4cba6f369b0",
+      "author": "MrRobot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot",
+      "posted_relative": "for 1 t siden",
+      "text": "GSF svikter aldri! Det kommer alltid en ny og verre PW! PAS forventer 5% nedgang på mandag. Tipper det blir minst det dobbelte.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    }
+  ]
 }

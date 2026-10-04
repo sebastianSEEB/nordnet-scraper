@@ -1,9 +1,26 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-10-04T02:15:58.686034+00:00",
+  "scraped_at": "2026-10-04T08:59:19.320976+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dcc246d1618f0b15",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "30. sep. LAKS: EKSPORTPRISEN VAR 73,59 KR/KILO I UKE 39 (+3,1%)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

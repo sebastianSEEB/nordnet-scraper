@@ -1,9 +1,43 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-10-04T02:15:42.525154+00:00",
+  "scraped_at": "2026-10-04T08:59:03.480640+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2714f24daba098d3",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": null,
+      "text": "30. sep. · Endret Hvem nevnes her? Kan noen dele hele? Vil tro at ODL burde nevnes her? https://e24.no/boers-og-finans/i/j0q0mo/forvalternes-favoritter-aatte-utbytteaksjer-du-boer-satse-paa-naa Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/j0q0mo/forvalternes-favoritter-aatte-utbytteaksjer-du-boer-satse-paa-naa"
+      ],
+      "char_count": 213,
+      "has_link": true
+    },
+    {
+      "key": "81638d9d3a8a55a0",
+      "author": "larsullern86",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsullern86",
+      "posted_relative": null,
+      "text": "30. sep. I tillegg trekker han frem Odfjell Drilling, som fondet nylig har kjøpt seg inn i. Han mener selskapet bør betale mye i utbytte. – Vi er opptatt av at prisen ligger godt under de underliggende verdiene i selskapet. Olje-, gass- og tankaksjer har gått mye. Men drilling og boring er priset rimeligere, sier Bryne. Oljeselskapene vil lete og utvikle felt, og der er Odfjell Drilling godt posisjonert, forklarer han. – Vi har solgt oss ut av Frontline, men kjøpt Odfjell Drilling. Vi beholder markedseksponeringen, men er et annet sted i verdikjeden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 556,
+      "has_link": false
+    }
+  ]
 }

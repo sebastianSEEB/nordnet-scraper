@@ -1,9 +1,38 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-04T02:17:34.129174+00:00",
+  "scraped_at": "2026-10-04T09:00:53.264873+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "eaa663f83a6569c1",
+      "author": "earnorlearn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/earnorlearn",
+      "posted_relative": null,
+      "text": "30. sep. Det er forward priser og nå er det backwardation i markedet. Det vil si at forward prisen er lavere jo lenger unna leveringen er. Så når prisen på skjermen din ruller over til neste måneds kontrakter så synker prisen. Men hør podcasten på finansavisen fra igår med paretos oljeanalytiker så får du et bildet på de faktiske dated prisene for nordsjøolje.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 362,
+      "has_link": false
+    },
+    {
+      "key": "1eb78cd0ba702767",
+      "author": "omeo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omeo",
+      "posted_relative": null,
+      "text": "30. sep. · Endret Brent olje ned over 10 dollar på er døgn, så hvor ender okea kursen i dag tro.....  ned 4-5 kr?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-04T02:14:49.651709+00:00",
+  "scraped_at": "2026-10-04T08:58:12.330031+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "756cb605d3492697",
+      "author": "BlakeMaxwell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blakemaxwell",
+      "posted_relative": "for 1 t siden",
+      "text": "We will be lucky to get back to 30kr 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }
