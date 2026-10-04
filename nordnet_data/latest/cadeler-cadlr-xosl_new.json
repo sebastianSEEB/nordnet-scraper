@@ -1,24 +1,69 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-04T18:29:44.332933+00:00",
+  "scraped_at": "2026-10-04T22:07:25.468006+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "ec4c5e0dad5af734",
-      "author": "Tenkern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tenkern",
-      "posted_relative": "for 3 t siden",
-      "text": "Rundt 60-61kr",
-      "reply_count": 2,
+      "key": "11af9998ecf4b75f",
+      "author": "Torro123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torro123",
+      "posted_relative": "for 2 t siden",
+      "text": "Jeg har nå lest gjennom Acceptance Form, og der står det jo ganske tydelig at dersom du har Cadeler A/S på ASK, kan de nye Cadeler plc-aksjene faktisk leveres inn på VPS-kontoen knyttet til ASK først. Siden Cadeler plc ikke er ASK-kvalifisert, må de nye aksjene imidlertid innen 10 dager etter levering enten: 1. Flyttes til en ordinær VPS-/aksjekonto, eller   2. Selges. Slik jeg tolker det, ser det også ut til at man kan selge de nye Cadeler plc-aksjene mens de fortsatt ligger på ASK i denne 10-dagersperioden, slik at salgssummen blir værende på ASK.  I prospektet står det at norske aksjonærer som aksepterer 1:1-byttet fra Cadeler A/S til Cadeler plc forventes å kunne gjennomføre dette uten skattemessig realisasjon. Så hvis man godtar blir de automatisk overfør til VPS konto uten at man realiserer gevinsten?  Syntes dette var sykt rotete.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 849,
+      "has_link": false
+    },
+    {
+      "key": "f76b287773a38b15",
+      "author": "Paris1789",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paris1789",
+      "posted_relative": "for 10 t siden",
+      "text": "Hvilken pris får en om man ikke godtar avtalen? Er det prisen før de annonserte børsnotering eller markedspris ved oppkjøp ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "3efb98e1476c5d83",
+      "author": "TaqiaDk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/taqiadk",
+      "posted_relative": "for 54 min siden",
+      "text": "· Du får dagskursen på dagen prosessen avsluttes. Det har ingenting med oppkjøp å gjøre, rent teknisk bytte 1:1 aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "d928780886a4e6f7",
+      "author": "Heltan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltan",
+      "posted_relative": "for 1 t siden",
+      "text": "Har sjekket dette med Nordnet. De bekrefter at aksjen kan stå på ASK etter byttet. Men du kan ikke kjøpe nye op ASK.",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 13,
+      "char_count": 116,
       "has_link": false
     }
   ]

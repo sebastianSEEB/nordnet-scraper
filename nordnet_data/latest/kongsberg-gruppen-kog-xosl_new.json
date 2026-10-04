@@ -1,52 +1,41 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-10-04T18:31:59.408712+00:00",
+  "scraped_at": "2026-10-04T22:09:39.377057+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "82bdfc779102793a",
+      "key": "b834153d1b91aefc",
       "author": "kkkkkkkkkkk",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kkkkkkkkkkk",
-      "posted_relative": "for 50 min siden",
-      "text": "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe Noen som kan dele hva det står her ?",
+      "posted_relative": "for 4 t siden",
+      "text": "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe Noen som kan dele hva det står her ? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [
         "https://e24.no/boers-og-finans/i/0BjbKB/pareto-bytter-kongsberg-aksjer-kan-skuffe"
       ],
-      "char_count": 118,
+      "char_count": 138,
       "has_link": true
     },
     {
-      "key": "e3d4c5610dcdffaf",
-      "author": "Sailor69",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sailor69",
-      "posted_relative": "for 3 t siden",
-      "text": "Teknisk analyse viser at det kan være en god ide å shorte denne nå. Tester ut til uken med warrant. For de som har aksjer i selskapet blir det å hedge investeringen.",
+      "key": "5af5259b50e13664",
+      "author": "spurtus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurtus",
+      "posted_relative": "for 1 t siden",
+      "text": "Q3 blir nok bra det!! Håper og tror det",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 165,
-      "has_link": false
-    },
-    {
-      "key": "742911d58681a01d",
-      "author": "Flatøyy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flatyy",
-      "posted_relative": "for 2 t siden",
-      "text": "Hva er grunnen til nedgang?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 27,
+      "char_count": 39,
       "has_link": false
     }
   ]

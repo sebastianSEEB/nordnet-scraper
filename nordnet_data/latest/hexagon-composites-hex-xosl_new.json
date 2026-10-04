@@ -1,9 +1,23 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-10-04T18:30:57.411079+00:00",
+  "scraped_at": "2026-10-04T22:08:38.448449+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6417ca1945f3f0c1",
+      "author": "Firefox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/firefox",
+      "posted_relative": null,
+      "text": "30. sep. jpm har vel solgt allt nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

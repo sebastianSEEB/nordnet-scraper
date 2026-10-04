@@ -1,81 +1,97 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-04T18:31:51.635525+00:00",
+  "scraped_at": "2026-10-04T22:09:31.624141+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 5,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "c8ca80c7679bb361",
+      "key": "3a1490ffd73868c9",
+      "author": "CGN7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cgn7",
+      "posted_relative": "for 3 t siden",
+      "text": "· Har prøvd å forstå forskellen mellom Abogen og Circio circRNA med hjelp av AI - da jeg har Novartis som min BF-favoritt også etter en del gravearbeid 🪏 🧬 Hvordan får Abogen circRNA inn i cellen? Den korte versjonen er: Abogen circRNA → pakkes i en lipidnanopartikel (LNP) → LNP-en kommer inn i cellen → circRNA frigjøres → ribosomene leser RNA-et → protein produseres. Altså: 💉 LNP ⬇️ 🫧 cellemembran ⬇️ 📦 circRNA inn i cellen ⬇️ 🔓 circRNA frigjøres fra LNP ⬇️ 🏭 ribosomer ⬇️ 💪 protein LNP fungerer litt som en leveringsboks som beskytter RNA-et og hjelper det gjennom cellemembranen. Og her blir Circio forskjellig 🪏 Circios circVec kan i stedet komme inn som DNA/informasjon via en vektor, for eksempel AAV: Circio: 💉 AAV → inn i cellen → DNA/circVec-konstruksjonen → cellens maskineri lager circRNA → circRNA blir i cellen → langvarig proteinproduksjon Så: Abogen: ferdig circRNA → inn i cellen Circio: DNA-instruksjon → cellen lager circRNA selv Det er en veldig viktig forskjell. Og det forklarer også hvorfor Circio potensielt kan være interessant i sykdommer hvor man ønsker svært langvarig ekspresjon. Man behøver ikke nødvendigvis levere en ny porsjon circRNA igjen og igjen — cellen kan selv fortsette å produsere det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13
+      ],
+      "links": [],
+      "char_count": 1229,
+      "has_link": false
+    },
+    {
+      "key": "f7d6b5108793d629",
       "author": "GreatReset",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/greatreset",
-      "posted_relative": "for 4 min siden · Endret",
-      "text": "Så dere tror dealer ikke skjer uten data i studier med mennesker? Frykten for å miste et asset / teknologi til en konkurrent driver markedet. Hvilke av big pharma selskapene mister circVec til en konkurrent? Western pharmas are now competing for Chinese assets when there's very little or any human data at all, because waiting for Phase 2 might mean losing the asset to a rival.  Se vedlegg",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Så dere tror dealer ikke skjer uten data i studier med mennesker? Frykten for å miste et asset / teknologi til en konkurrent driver markedet. Hvilke av big pharma selskapene mister circVec til en konkurrent? Western pharmas are now competing for Chinese assets when there's very little or any human data at all, because waiting for Phase 2 might mean losing the asset to a rival.  Se vedlegg Vis 1 kommentar til",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 391,
-      "has_link": false
-    },
-    {
-      "key": "f42853d418f72340",
-      "author": "Jhonnykuskus",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jhonnykuskus",
-      "posted_relative": "for 18 min siden",
-      "text": "· Det er jo ikke sikkert. Og han refererer til den avtalen mellom novartis og Abogen bioscience",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 95,
-      "has_link": false
-    },
-    {
-      "key": "48ccaf0a7d21b299",
-      "author": "Shortking123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shortking123",
-      "posted_relative": "for 1 t siden",
-      "text": "· I morgen blir så voldsomt Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
+        27,
         2
       ],
       "links": [],
-      "char_count": 47,
+      "char_count": 411,
       "has_link": false
     },
     {
-      "key": "9d69492ce3eee852",
-      "author": "Nico2345",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nico2345",
-      "posted_relative": "for 3 t siden",
-      "text": "· Det er sannelig lenge til den 27",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 34,
-      "has_link": false
-    },
-    {
-      "key": "b6a1008e1220ad89",
-      "author": "Alfur",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alfur",
-      "posted_relative": "for 28 min siden",
-      "text": "Drit lenge 😂",
+      "key": "7c98e674c640733c",
+      "author": "lillejohn1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
+      "posted_relative": "for 1 t siden",
+      "text": "Novartis avtalen på 75 milliarder kroner er en svært viktig  validering av Circio . Dette styrker Circio-caset betydelig på plattform-/markedssiden, spesielt foran Circios kommende in-vivo CAR-T- og sykdomsmodell-data som kommer nå snart.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 12,
+      "char_count": 238,
+      "has_link": false
+    },
+    {
+      "key": "adcf3e71764a5be0",
+      "author": "Båtsjefen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batsjefen",
+      "posted_relative": "for 1 t siden",
+      "text": "Dææven steike 🎉 💰💰 Det er jo innlysende at CRNA får rakettfart denne uka.  Synergier og markedet er  dokumentert. BIG  PHARMA. News vil vel og smelle inn nå i oktober... 🎊🎉💰💰💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 175,
+      "has_link": false
+    },
+    {
+      "key": "eac0dd573d8c319f",
+      "author": "Supertrikker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supertrikker",
+      "posted_relative": "for 3 t siden",
+      "text": "Novartis Abogen avtalen er et svært spennende signal for oss som følger Circio!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        18
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "2a90770930684010",
+      "author": "Alfur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alfur",
+      "posted_relative": "for 23 min siden · Endret",
+      "text": "Jau jau, sleng på en rakett også.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
       "has_link": false
     }
   ]
