@@ -1,9 +1,23 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-10-04T22:06:55.078051+00:00",
+  "scraped_at": "2026-10-05T01:25:10.893449+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e8ab598a828657d3",
+      "author": "Fjelldronning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjelldronning",
+      "posted_relative": "for 51 min siden",
+      "text": "Odfjell kan forøvrig ikke kjøpes på ASK, men du kan bruke IKZ.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }
