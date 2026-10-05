@@ -1,68 +1,37 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-10-05T15:15:18.017877+00:00",
+  "scraped_at": "2026-10-05T16:33:59.254622+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "e2ad3a4cf3bded7a",
-      "author": "ALLVIS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
-      "posted_relative": "for 8 t siden",
-      "text": "10.000 aksjer forsvant i en fart,  det fylles opp av fond,  og andre store akttører. Vis 1 kommentar til",
+      "key": "7fed1320a26358e4",
+      "author": "lundeljung",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lundeljung",
+      "posted_relative": "for 2 t siden",
+      "text": "· Skal sies at oppgangen har blitt barbert vekk Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        5
+        4
       ],
       "links": [],
-      "char_count": 104,
+      "char_count": 67,
       "has_link": false
     },
     {
-      "key": "1f5fedb2c2f7540c",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 32 min siden",
-      "text": "Motstanden gikk ikke idag,  krefter fikk presset den ned mot slutten",
+      "key": "60ecccea6accddb2",
+      "author": "knors",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knors",
+      "posted_relative": "for 1 t siden",
+      "text": "· Jeg kjøper bare, selger sjelden. Slik får man meravkastning",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 68,
-      "has_link": false
-    },
-    {
-      "key": "7e5d5848fe5195ea",
-      "author": "ALLVIS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
-      "posted_relative": "for 1 t siden",
-      "text": "· Programmert robothandel er forklaringen på det.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 49,
-      "has_link": false
-    },
-    {
-      "key": "eefd806b0a2e8aad",
-      "author": "lundeljung",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lundeljung",
-      "posted_relative": "for 1 t siden",
-      "text": "· Skal sies at oppgangen har blitt barbert vekk",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 47,
+      "char_count": 61,
       "has_link": false
     }
   ]
