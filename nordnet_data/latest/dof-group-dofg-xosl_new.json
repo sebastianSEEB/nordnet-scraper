@@ -1,9 +1,56 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-05T07:54:46.181418+00:00",
+  "scraped_at": "2026-10-05T15:17:01.907819+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e98137d0ab2793b3",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": null,
+      "text": "1. okt. https://www.finansavisen.no/finans/2026/10/01/8382563/investerer-sjomatformuen-pa-oslo-bors-utbyttefest-i-ny-bransje-for-mediesky-milliardaer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/01/8382563/investerer-sjomatformuen-pa-oslo-bors-utbyttefest-i-ny-bransje-for-mediesky-milliardaer"
+      ],
+      "char_count": 149,
+      "has_link": true
+    },
+    {
+      "key": "46bfe3c18a4241e4",
+      "author": "Diceman1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/diceman1",
+      "posted_relative": null,
+      "text": "1. okt. Hvem er som blir lurt her? Føler det er noen som ler bak ryggen til oss småsparere. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "4e63961fb2b4b8be",
+      "author": "Fisker94",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
+      "posted_relative": null,
+      "text": "1. okt. ·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,56 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-10-05T07:55:25.838173+00:00",
+  "scraped_at": "2026-10-05T15:17:41.703919+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "29d35b083268e3f7",
+      "author": "Shipediship",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shipediship",
+      "posted_relative": "for 1 t siden",
+      "text": "😂, bare ikke du mister hele suppa. Dollaren er med oss. Fortsetter det litt til nå er jeg igjen i null for denne.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "08de9414070e13ec",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": null,
+      "text": "1. okt. Ja men vi bør danne et solid gulv her, nå er vi i q4 og herifra pleier det gå Nordover",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "d1c6d181e230ddf3",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 3 døgn siden",
+      "text": "En så nedgang er kun Bakkafrost som får til fra 441,4 og rett ned 435 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        15
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

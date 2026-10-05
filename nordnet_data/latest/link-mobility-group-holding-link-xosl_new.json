@@ -1,39 +1,52 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-05T07:54:21.794617+00:00",
+  "scraped_at": "2026-10-05T15:16:37.960692+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "ceb7eb93d6c90fd4",
-      "author": "nieto",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "key": "beda9d9289417fe7",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
       "posted_relative": "for 1 t siden",
-      "text": "Hvis du blar tilbake til 11.september ser du at aksjen gikk opp ca 1,5-2% når meldingen kom om oppkjøp av Interactive 3G. Også det et spansk selskap til nesten samme pris. . Kjøpesum 2,4 mill euro. Tipper åpningskurs 24,20.",
+      "text": "· https://www.labsmobile.com/en",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
+      "engagement_numbers": [],
+      "links": [
+        "https://www.labsmobile.com/en"
       ],
+      "char_count": 31,
+      "has_link": true
+    },
+    {
+      "key": "5560c4f052f2226b",
+      "author": "Beyond-21",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
+      "posted_relative": "for 10 min siden",
+      "text": "Det kan være mye... Spania er ett mye mindre modent evt mindre utviklet marked enn Norge. Mobil er også hovedenheten for flertallet av brukere, dvs mobil er OFTE primærenhet (og eneste) som man  bruker for å få tilgang til internet med. Det er dessuten hardere segmentering mellom de økonomiske gruppene i samfunnet så det er potensielt enklere å angripe ett kundesegment i Spania vs Norge.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 223,
+      "char_count": 390,
       "has_link": false
     },
     {
-      "key": "5d211793a543ed45",
-      "author": "Payme2day",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
-      "posted_relative": "for 1 t siden",
-      "text": "Spennende å se om oppkjøpet av LabsMobile gir utslag i dag 🤞📈",
+      "key": "38e3e4ef436092f6",
+      "author": "syden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syden",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva ønsker Link med alle disse små selskapene dem kjøper opp? Er det for å få tilgang til flere markeder. For det er uten triv ett stort potensial i dem spansk talende land. Eller er dette ett systematiske oppkjøp for å selv bli oppkjøpt av ett stort fond. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        3
       ],
       "links": [],
-      "char_count": 61,
+      "char_count": 276,
       "has_link": false
     }
   ]

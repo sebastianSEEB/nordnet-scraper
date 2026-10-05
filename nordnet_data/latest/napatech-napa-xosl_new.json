@@ -1,25 +1,97 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-05T07:55:38.436935+00:00",
+  "scraped_at": "2026-10-05T15:17:54.170618+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "850ff0456432f35f",
-      "author": "Kjernekar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "key": "93dbef5971525e55",
+      "author": "havhol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/havhol",
       "posted_relative": null,
-      "text": "1. okt. Der utløste jeg fallet….",
+      "text": "1. okt. Hvilket fall tenker du på? Det er nok bare algoritmene som har følerne ute for uvanlige endringer i ordreboken?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "9102b89327399291",
+      "author": "Funbet777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funbet777",
+      "posted_relative": "for 1 t siden",
+      "text": "· Ja det er meningen å selge når vi kommer over 48 for å kjøpe igjen ved 40-41 har gjort det 2 gang nå 🤫🤫🤫",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        7
+        1
       ],
       "links": [],
-      "char_count": 32,
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "fe270fc1d25a361d",
+      "author": "gstandre1997",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gstandre1997",
+      "posted_relative": null,
+      "text": "1. okt. Stiger på potensial, tar av om ordrene kommer, går rett til bunn om ordrene uteblir.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "ce9be87679445e9a",
+      "author": "Killerbill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/killerbill",
+      "posted_relative": "for 3 t siden",
+      "text": "· Venter vi på en liten korreksjon før det går opp igjen? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "53fb2e1ecb54f0d1",
+      "author": "PolarBeear",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarbeear",
+      "posted_relative": null,
+      "text": "1. okt. Steget 6 % på en uke. Er det gode nyheter i anmarsj ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "e466bec91cc72b0b",
+      "author": "Barnemat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barnemat",
+      "posted_relative": null,
+      "text": "1. okt. · Det samme mener flere systemer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

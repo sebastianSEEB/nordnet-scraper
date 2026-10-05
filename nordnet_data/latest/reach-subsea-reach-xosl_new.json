@@ -1,9 +1,27 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-10-05T08:00:25.956523+00:00",
+  "scraped_at": "2026-10-05T15:22:40.535321+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "facd2a30b19d1574",
+      "author": "aleks269",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aleks269",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.h-avis.no/nar-1-000-dogn-uten-personell-om-bord/s/80-62-16401",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.h-avis.no/nar-1-000-dogn-uten-personell-om-bord/s/80-62-16401"
+      ],
+      "char_count": 73,
+      "has_link": true
+    }
+  ]
 }

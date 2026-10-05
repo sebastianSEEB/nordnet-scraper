@@ -1,9 +1,52 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-05T07:52:52.782677+00:00",
+  "scraped_at": "2026-10-05T15:15:09.285963+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3a13b3ce710602dc",
+      "author": "Count_Zero",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/count_zero",
+      "posted_relative": "for 2 t siden",
+      "text": "· Solgte min siste på 100. Den har sikkert mer å gå på, men jeg har tatt en god seier og vil ha likvider fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "b65369d173c7c669",
+      "author": "Johannes14",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johannes14",
+      "posted_relative": "for 2 t siden",
+      "text": "Der nådde vi tresifret kurs, blir spennende å se hvordan de går videre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "941227ad0b3e7d7e",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 2 t siden",
+      "text": "nå er Harto på G igjen, och roper kjøp på ATH",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

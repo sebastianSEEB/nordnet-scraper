@@ -1,9 +1,25 @@
 {
   "slug": "software-one-holding-ag-swon-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/software-one-holding-ag-swon-xosl",
-  "scraped_at": "2026-10-05T07:57:41.980510+00:00",
+  "scraped_at": "2026-10-05T15:19:57.417904+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d56d8145a6b7500b",
+      "author": "FrodeH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/frodeh",
+      "posted_relative": "for 2 t siden",
+      "text": "SoftwareOne – utnevnt til OpenAI Select Partner 5. oktober 2026 kl. 08:00 CEST – SoftwareOne/EQS. SoftwareOne meldte i morges at selskapet er blitt OpenAI Select Partner i OpenAI Partner Network. Fakta: Select-statusen gir SoftwareOne en formell posisjon til å bygge, selge og levere bedriftsløsninger basert på OpenAI-teknologi. SoftwareOne skal blant annet kombinere OpenAI-produkter med sine eksisterende tjenester innen cloud, data, digital workplace og sikkerhet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 468,
+      "has_link": false
+    }
+  ]
 }

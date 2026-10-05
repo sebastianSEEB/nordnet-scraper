@@ -1,9 +1,101 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-05T07:54:29.816899+00:00",
+  "scraped_at": "2026-10-05T15:16:46.041273+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "96cfec731d65e76d",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 57 min siden",
+      "text": "Citadel Advisors justerte litt opp  på shorten sin på fredag: 1 163 979 \t1,32% \t02.10.2026 1 124 219 \t1,28% \t01.10.2026 1 148 153 \t1,31% \t30.09.2026 1 062 023 \t1,21% \t25.09.2026 1 013 992 \t1,15% \t08.09.2026 https://ssr.finanstilsynet.no/Home/Details/NO0010713936",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/NO0010713936"
+      ],
+      "char_count": 262,
+      "has_link": true
+    },
+    {
+      "key": "e5cb150bdaa54d78",
+      "author": "CJSBird",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cjsbird",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://www.reuters.com/business/autos-transportation/european-ev-sales-hit-record-pivotal-year-for-affordable-cars-study-shows-2026-10-05/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [
+        "https://www.reuters.com/business/autos-transportation/european-ev-sales-hit-record-pivotal-year-for-affordable-cars-study-shows-2026-10-05/"
+      ],
+      "char_count": 141,
+      "has_link": true
+    },
+    {
+      "key": "c85b5f2f5799455f",
+      "author": "Jan Andersen.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-andersen-1",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg har summert tallene for Q3 og dem viser en økning i salg av elbiler på 38% for både Sverige og Danmark sammenlignet med Q3 i 2025. For Norge er tilsvarende tall opp 12%. Mest gledelig er utviklingen i Holland. Her er det registrert 45.070 nye elbiler i Q3 - 2026 mot 30.000 i Q3 - 2025. Dette gir en økning på 50%.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        18
+      ],
+      "links": [],
+      "char_count": 318,
+      "has_link": false
+    },
+    {
+      "key": "2b8e59f445e1baf4",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 3 t siden",
+      "text": "Harto roper kjøp i trading på ZAP, får se for idag går den ner 1,07% 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "94a6d9714c3b4984",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 t siden",
+      "text": "Linløkken slår på samme spiken 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "ce9dee09a8cd754a",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 1 t siden",
+      "text": "trenden fortsetter....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

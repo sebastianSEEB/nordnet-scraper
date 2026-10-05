@@ -1,35 +1,37 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-05T07:58:06.690377+00:00",
+  "scraped_at": "2026-10-05T15:20:21.586774+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
+  "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "fefae94a2af99b75",
-      "author": "Ophon",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
-      "posted_relative": "for 30 min siden",
-      "text": "På kort sikt er det jo positivt. På lang sikt så har vi jo lyst på flere prosjekter 😄 Nå skal vi høste fruktene av tidligere arbeid!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 132,
-      "has_link": false
-    },
-    {
-      "key": "b5560b4d3a162498",
+      "key": "61be73f4f91261c9",
       "author": "Rørleggeren777",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
-      "posted_relative": "for 12 min siden",
-      "text": "En uformell \"tippekonkurranse\"🙃 Hvem treffer best på utbytte og  utbetalingstidspunkt for Q3 utbyttet: 8,20kr    10. November",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen som har tilgang FA , og vil dele dette om finansdirektør D.Tønnes uttalelser om utbytte mm. Finansavisen 16. September? Aker BP-topp om utbytte: – Vi kommer ikke til å hamstre kontanter https://www.finansavisen.no/energi/2026/09/16/8380842/aker-bp-topp-om-utbytte-vi-kommer-ikke-til-a-hamstre-kontanter",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/09/16/8380842/aker-bp-topp-om-utbytte-vi-kommer-ikke-til-a-hamstre-kontanter"
+      ],
+      "char_count": 307,
+      "has_link": true
+    },
+    {
+      "key": "e412ac2c2f2dae89",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 3 t siden",
+      "text": "Det faste mønsteret vil gi 6,4- 6,5 kr avhengig av dollarkurs, men dette kan vel fravikes? De sier minimum 5% som mål....",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 125,
+      "char_count": 121,
       "has_link": false
     }
   ]

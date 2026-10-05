@@ -1,38 +1,39 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-05T07:58:30.857004+00:00",
+  "scraped_at": "2026-10-05T15:20:45.345963+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "932b78e0b9920f35",
-      "author": "Mortys",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortys",
-      "posted_relative": "for 31 min siden",
-      "text": "At aksjen kun har en eneste kjøpsanbefaling sier vel litt.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
-    },
-    {
-      "key": "55ee39b8aaf7ed66",
-      "author": "ronniz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronniz",
+      "key": "b13ac153f9998544",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
       "posted_relative": null,
-      "text": "1. okt. · Kjedelig bekjentskap etter hvert",
+      "text": "1. okt. · Tilbakekjøpsprogram er den mest tåpelige handlingen fra et selskap som ikke vet hva de skal gjøre med sine eiendeler... du har heller kontanter i banken enn å kjøpe og brenne din egen aksje!!!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        1
+        10
       ],
       "links": [],
-      "char_count": 42,
+      "char_count": 202,
+      "has_link": false
+    },
+    {
+      "key": "9cbc2d93a6781bca",
+      "author": "stoners58",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stoners58",
+      "posted_relative": null,
+      "text": "1. okt. Det er bare å følge tilbakekjøp programmet under nyheter her. De benytter sjansen til å handle med den lave kursen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 123,
       "has_link": false
     }
   ]

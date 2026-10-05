@@ -1,9 +1,54 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-10-05T07:57:34.163052+00:00",
+  "scraped_at": "2026-10-05T15:19:49.526305+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ca8be1da3f33c543",
+      "author": "LundS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lunds",
+      "posted_relative": "for 5 t siden",
+      "text": "Interessant at det er så mange aksjer på åpent kjøp på 12,94👍 Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "307eec9dc1f829dc",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 6 t siden",
+      "text": "HMH hentet inn store deler av forrige ukes fall på fredag.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "c96f1b207574e9f7",
+      "author": "osake",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osake",
+      "posted_relative": "for 2 t siden",
+      "text": "Var nok en \"strategisk\" ordre :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

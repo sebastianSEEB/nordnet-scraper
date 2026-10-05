@@ -1,22 +1,95 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-05T08:00:30.042044+00:00",
+  "scraped_at": "2026-10-05T15:22:44.427919+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "c8917e38ffbf302a",
-      "author": "Avro nil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
-      "posted_relative": "for 1 min siden",
-      "text": "Any wrong with this aksje?",
+      "key": "ba2d0bf021d52114",
+      "author": "Farfore",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/farfore",
+      "posted_relative": "for 2 t siden",
+      "text": "Han kommer stadig med ulike guidinger; fra 7000 til 6000. Veldig dårlig på kommunikasjon og målrettet visjoner. Eneste ting han er god på er finans-domain.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 26,
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "c4416cce484fd656",
+      "author": "Godfisk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/godfisk",
+      "posted_relative": "for 2 t siden",
+      "text": "Algeproblemer hos Grieg seafood gitt.. synd det ikke finnes aktører som er bedre rustet mot dette..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "57668de6e235bc49",
+      "author": "StoneColdTrader",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stonecoldtrader",
+      "posted_relative": "for 2 t siden",
+      "text": "Ja, det er bra dere finansierer dette selskapet. Uten investorene, så hadde det ikke overlevd lenge",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "ac82510ee8970379",
+      "author": "George Heisekran Jones",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/george-heisekran-jones",
+      "posted_relative": "for 4 t siden",
+      "text": "Noe konkret som tilsier det ? Skal de ha en presentasjon før kvartal ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "66644a7016ec432b",
+      "author": "HuginåMunin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huginamunin",
+      "posted_relative": "for 1 t siden",
+      "text": "Har vi en dobbel bunn under oppseiling?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "ba8007c5fca3421a",
+      "author": "Jeff96",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jeff96",
+      "posted_relative": "for 4 t siden",
+      "text": "Dette blir bra Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 34,
       "has_link": false
     }
   ]

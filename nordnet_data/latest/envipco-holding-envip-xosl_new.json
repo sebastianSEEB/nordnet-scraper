@@ -1,9 +1,39 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-05T08:00:02.495535+00:00",
+  "scraped_at": "2026-10-05T15:22:16.900549+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5d1fba6d2c9d3503",
+      "author": "GunnarHe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gunnarhe",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg begynte i forrige uke å undersøke et fenomen i åpningsauksjonen på Oslo Børs som jeg synes er ganske interessant. Det er mulig at dette er godt kjent blant dere allerede, men likevel. Nordnet har en egen side med overskriften «Hvorfor kan det kjøpes/selges kun en aksje i auksjonen?». Det betyr åpenbart at énaksje-handler i auksjoner er et kjent fenomen.  Jeg opplevde dette selv i Envipco 1. oktober. Jeg la inn 2 000 aksjer til 40,10 kl. 08:59:58. Oslo Børs opplyste i ettertid at det på dette tidspunktet var 118 aksjer som potensielt kunne matches mot ordren min. Så skjedde noe ganske spesielt: noen hundredeler før kl. 09 kom det inn én synlig salgsordre på nøyaktig 117 aksjer til 39,95. Dermed ble resultatet at akkurat 1 aksje av mine 2 000 ble omsatt.  Oslo Børs har bekreftet at dette var én ordre, og at den var synlig for hele markedet. De ønsker ikke å kommentere om det var tilfeldig at ordrestørrelsen var akkurat 117.  Det er selvfølgelig en helt legitim forklaring at noen rett og slett ønsket å selge 117 aksjer. Men jeg synes likevel kombinasjonen er påfallende: 118 potensielt matchbare → én ny ordre på 117 → akkurat 1 aksje omsatt.  Spørsmålet mitt er derfor ikke om énaksje-handler kan forekomme. Det vet vi at de kan. Spørsmålet er heller: Hvor ofte skjer det at store ordre i åpningsauksjonen ender med akkurat én aksje, og hvor ofte skjer dette etter at en ny, mer aggressiv ordre kommer inn helt på tampen og etterlater akkurat én aksje som rest?  Og enda mer interessant for meg som amatør: Hvor mye av ordrebildet har profesjonelle aktører tilgang til i åpningsauksjonen sammenlignet med det en vanlig Nordnet-kunde kan se?  Jeg har ikke grunnlag for å hevde at det foregår noe galt her. Jeg synes bare at dette er et fenomen som fortjener mer oppmerksomhet dersom det faktisk forekommer uvanlig ofte. Uansett, kurtasjen min var vel ca. 200% høyere enn beløpet det ble handlet for.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 1916,
+      "has_link": false
+    },
+    {
+      "key": "78dfc678d12ddf6d",
+      "author": "Altus Cumulus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/altus-cumulus",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg har dessverre ikke svar på spørsmålene dine, men vil legge til at handler på 1 eller svært få aksjer er vanlig å se ikke bare i åpningsauksjonen. Det er ingen tvil om at disse småhandlene, som er programmerte robothandler, bare kan gjennomføres av storkunder som har volumavtaler og det er lovlig selv om det i praksis fungerer slik at kursen stegvis «presses» (manipuleres) oppover eller nedover. Dette fungerer på aksjekurser når det er lav likviditet og der kjøper/selger er uprofesjonelle aktører som deg og meg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 520,
+      "has_link": false
+    }
+  ]
 }

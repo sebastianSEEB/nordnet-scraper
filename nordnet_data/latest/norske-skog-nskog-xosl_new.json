@@ -1,42 +1,52 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-05T07:57:09.751701+00:00",
+  "scraped_at": "2026-10-05T15:19:25.703701+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "01edc2efb1e9ac0b",
-      "author": "Trekkern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trekkern",
-      "posted_relative": null,
-      "text": "1. okt. https://www.finansavisen.no/borsmeldinger/2026/10/01/bea70c66-2231-5c16-9b0b-d2503045c0b5/nskog-norske-skog-completes-transaction-with-nnd Som forventet, men greit å få det stadfestet.",
+      "key": "8d71b8ad60fb1c9f",
+      "author": "Larsen132",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsen132",
+      "posted_relative": "for 17 min siden",
+      "text": "Det du skal være klar over er at det er mange her inne som ikke viser sine investeringer, jeg har hatt aksjer i Norske Skog i over 5 år. Men jeg er heller ikke interessert i å vise min beholdning til deg eller noen andre😉",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        5,
-        1
-      ],
-      "links": [
-        "https://www.finansavisen.no/borsmeldinger/2026/10/01/bea70c66-2231-5c16-9b0b-d2503045c0b5/nskog-norske-skog-completes-transaction-with-nnd"
-      ],
-      "char_count": 192,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 221,
+      "has_link": false
     },
     {
-      "key": "e07b6fd260ccfff1",
+      "key": "6d0a5990adda5b1c",
       "author": "birder72",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
       "posted_relative": null,
-      "text": "1. okt. Fint å få de inn i Q3. Kursen reagerte riktig opp i starten, men presses ned. Fin mulighet for å kjøpe når kurs presses ned.",
+      "text": "1. okt. 3 uker til Q3 og da kommer tallene på hvordan driften går.  Nedbetaling av gjeld for salg av tomt vil også hjelpe på bunnlinja.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 132,
+      "char_count": 135,
+      "has_link": false
+    },
+    {
+      "key": "a388e3f7427879d2",
+      "author": "optimisten12345",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimisten12345",
+      "posted_relative": null,
+      "text": "1. okt. et kjøp nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 19,
       "has_link": false
     }
   ]

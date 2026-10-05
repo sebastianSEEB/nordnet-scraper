@@ -1,55 +1,68 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-05T07:54:09.504147+00:00",
+  "scraped_at": "2026-10-05T15:16:25.486013+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "4831837c918fc475",
-      "author": "EspAsk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espask",
-      "posted_relative": null,
-      "text": "1. okt. · Endret Neida, den kommer. Spml gjalt det kvartalsvise utbyttet, 76,83 pr BNOR regnes som en kompensasjon for å jevne ut verdien på porteføljen før og etter «byttehandelen».",
+      "key": "002b5495afc2e824",
+      "author": "arkan1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arkan1234",
+      "posted_relative": "for 2 døgn siden",
+      "text": "er det fortsatt slik at hvis man kjøper aksjer her nå at man mottar cirka 9 aksjer av vår energi? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    },
+    {
+      "key": "a55d860170f2fccf",
+      "author": "PlanteraD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/planterad",
+      "posted_relative": "for 4 t siden",
+      "text": "· Hvor ofte vil denne aksjen betale utbytte? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "47fa52a598bee82f",
+      "author": "BulleDuppen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulleduppen",
+      "posted_relative": "for 5 t siden",
+      "text": "Har vi nøyaktigdato når dette vinduet lukker seg ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 182,
+      "char_count": 50,
       "has_link": false
     },
     {
-      "key": "b4f2daf60277e917",
-      "author": "vizzy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vizzy",
-      "posted_relative": null,
-      "text": "1. okt. Har noen regnet ut mulig contango scenario mot vår ifbm med fremtidig fusjon? Vis 1 kommentar til",
+      "key": "1259964b8098f7eb",
+      "author": "Quebrada",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quebrada",
+      "posted_relative": "for 1 t siden",
+      "text": "…….og penga kommer en gang før jul.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2,
-        5
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 105,
-      "has_link": false
-    },
-    {
-      "key": "a0af03e608eda496",
-      "author": "Foffo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/foffo",
-      "posted_relative": null,
-      "text": "1. okt. Muligens  Q3 utbytte fra Vår han mener.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 47,
+      "char_count": 35,
       "has_link": false
     }
   ]

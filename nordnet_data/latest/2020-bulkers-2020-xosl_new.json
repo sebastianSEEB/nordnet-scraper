@@ -1,22 +1,71 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-05T07:53:14.206217+00:00",
+  "scraped_at": "2026-10-05T15:15:29.944412+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "a3d3d2d80e90a91b",
-      "author": "offshore_wind",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/offshore_wind",
-      "posted_relative": "for 58 min siden",
-      "text": "Ser det ikke litt stygt ut for AHTS i Nordsjøen nå? Og ikke minst fremover. 2020 har ikke så mange av sine i Nordsjøen, men det er uansett den regionen som setter stemningen i dette segmentet. Tenker heller en inngang her når vinteren og AHTS er på sitt mørkeste.",
+      "key": "1adec9403910906a",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "1. okt. Da har de 11 av 15 på plass: https://osvnyheter.no/osv-nyheter-uke-40-28-september-4-oktober-2026",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://osvnyheter.no/osv-nyheter-uke-40-28-september-4-oktober-2026"
+      ],
+      "char_count": 105,
+      "has_link": true
+    },
+    {
+      "key": "d442ce0c56f9162a",
+      "author": "aa5en",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aa5en",
+      "posted_relative": "for 2 t siden",
+      "text": "Disse aksjene blir ikke «aktiv» før de er godkjent av Finanstilsynet. Så snart de er det vil de bli tradable «as soon as possible» i henhold til børsmeldingen i dag",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 263,
+      "char_count": 164,
+      "has_link": false
+    },
+    {
+      "key": "2189506d3faa156d",
+      "author": "ChrisDpro",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisdpro",
+      "posted_relative": null,
+      "text": "1. okt. · Planlegger å kjøpe denne, men jeg har ikke en posisjon. Kjøpe nå eller vente?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "12e988b36a36abf8",
+      "author": "Den ekte orginalen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/den-ekte-orginalen",
+      "posted_relative": "for 4 t siden",
+      "text": "Nå er det registrert 1 174 728 791 aksjer. Hvorfor er ikke aksjen på 2,99kr?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 76,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-10-05T07:58:39.030112+00:00",
+  "scraped_at": "2026-10-05T15:20:53.475493+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2ae6dbb72d7f261c",
+      "author": "VITO44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vito44",
+      "posted_relative": "for 4 t siden",
+      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }
