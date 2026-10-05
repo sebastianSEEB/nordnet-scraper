@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-05T16:38:51.845729+00:00",
+  "scraped_at": "2026-10-05T23:04:10.029193+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8dfc5fa861939433",
+      "author": "Lavprofil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lavprofil",
+      "posted_relative": "for 1 t siden",
+      "text": "7,5% årlig utbytte? Ikke værst!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

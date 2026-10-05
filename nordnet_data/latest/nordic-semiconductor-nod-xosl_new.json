@@ -1,9 +1,23 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-05T16:35:07.772303+00:00",
+  "scraped_at": "2026-10-05T23:00:22.577835+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "552487fcc239be9f",
+      "author": "Fattigstakkaren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattigstakkaren",
+      "posted_relative": "for 6 t siden",
+      "text": "Bra akkumulering om dagen, buen spennes",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

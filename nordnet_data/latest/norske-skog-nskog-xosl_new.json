@@ -1,9 +1,26 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-05T16:37:55.276205+00:00",
+  "scraped_at": "2026-10-05T23:03:11.923219+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b6170295aab266c0",
+      "author": "Fasadeendring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fasadeendring",
+      "posted_relative": null,
+      "text": "1. okt. Golbey-prosjektet er på vei mot full drift i 2027. Har folk mista troen? Hva tenker folk om kursmålet til pareto på 70kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    }
+  ]
 }

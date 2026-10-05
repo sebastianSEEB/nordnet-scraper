@@ -1,50 +1,40 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-05T16:37:06.090864+00:00",
+  "scraped_at": "2026-10-05T23:02:22.293298+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "50f34a88b0247d63",
-      "author": "tre010",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tre010",
-      "posted_relative": null,
-      "text": "1. okt. Ja, det har vært gjort decomm prosjekter i MA.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 54,
-      "has_link": false
-    },
-    {
-      "key": "af622fe9c52b777c",
-      "author": "tre010",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tre010",
-      "posted_relative": null,
-      "text": "1. okt. H2 prosjekter er \"musepiss i havet\"",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 43,
-      "has_link": false
-    },
-    {
-      "key": "c5f51ec24b7c3bef",
-      "author": "APE Invest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ape-invest",
-      "posted_relative": null,
-      "text": "1. okt. Skulle tatt pengene ja…",
+      "key": "647004fa08073017",
+      "author": "realize_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/realize_1",
+      "posted_relative": "for 5 t siden",
+      "text": "Ser North Sea Giant er i Limmasol i middelhavet. Marinetraffic. Hvem jobber de for der? Er det meldt noe i forbindelse med det?  Hvor skal Normand Vision nå? Skuta er på Stord. De er begge på kontrakt for Ocean Installer.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        2,
+        1
       ],
       "links": [],
-      "char_count": 31,
+      "char_count": 221,
+      "has_link": false
+    },
+    {
+      "key": "f49dc190216e9683",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Meldt i Q1  North sea giant ENI-kontrakt for en subsea tie-back i Middelhavet, med offshorekampanjer fra Q2 2026 og inn i Q1 2027.  Usikker på Normand vision",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 157,
       "has_link": false
     }
   ]

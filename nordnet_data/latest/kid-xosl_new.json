@@ -1,9 +1,23 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-10-05T16:38:14.465087+00:00",
+  "scraped_at": "2026-10-05T23:03:31.576125+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bd7efbe054971b7e",
+      "author": "Andyviking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andyviking",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg tror det bestemmes i q3 rapporten. Men det har pleid å være ex dato i midten av november og utbetalingsdato i slutten av november",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    }
+  ]
 }

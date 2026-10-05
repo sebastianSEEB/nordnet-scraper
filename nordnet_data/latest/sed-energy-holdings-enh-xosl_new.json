@@ -1,24 +1,57 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-05T16:36:35.928949+00:00",
+  "scraped_at": "2026-10-05T23:01:51.810891+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "92d7f2c9e21f125c",
+      "key": "bd3c9219bdb6e0e3",
+      "author": "pipsur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pipsur",
+      "posted_relative": null,
+      "text": "1. okt. · https://freightandbarrels.substack.com/p/sed-energy-holdings-update?r=1nk06d&utm_medium=ios",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        26
+      ],
+      "links": [
+        "https://freightandbarrels.substack.com/p/sed-energy-holdings-update?r=1nk06d&utm_medium=ios"
+      ],
+      "char_count": 101,
+      "has_link": true
+    },
+    {
+      "key": "ce71b4a30ad041d8",
       "author": "Stallgutt68",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stallgutt68",
-      "posted_relative": "for 1 t siden",
-      "text": "Salget gikk ikke gjennom, men prøver igjen i morgen.",
+      "posted_relative": "for 8 t siden",
+      "text": "For en tragisk aksje dette har vært å eie de siste månedene. Jeg prøver lykken min et annet sted   Ha dat bra og lykke til. Det kan hende at det at jeg selger endrer kursen.🤣 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    },
+    {
+      "key": "5afcfcad739ed2fb",
+      "author": "GabW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
+      "posted_relative": "for 3 t siden",
+      "text": "Smart å selge på bunn",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 52,
+      "char_count": 21,
       "has_link": false
     }
   ]

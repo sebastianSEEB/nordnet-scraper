@@ -1,9 +1,39 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-05T16:38:21.996007+00:00",
+  "scraped_at": "2026-10-05T23:03:39.146039+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "96b84f29bab14bee",
+      "author": "Øy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
+      "posted_relative": "for 3 døgn siden",
+      "text": "Rart den ikke er mer populær å investere i. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "f5d44d138e0cdcd7",
+      "author": "Sonypus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sonypus",
+      "posted_relative": "for 3 t siden",
+      "text": "Nei. Regionale sparebanker er mye mer interessant",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

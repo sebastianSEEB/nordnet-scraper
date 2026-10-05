@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-05T16:37:25.078229+00:00",
+  "scraped_at": "2026-10-05T23:02:41.345757+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8df3034a3dc5e24a",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "· Her er hva Kion sa angående sin Dematic-divisjon: KION indikerte at Q3-ordrer var omtrent flate YoY. Ifølge markedsrapporteringen var det omtrent 15% under konsensus.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    }
+  ]
 }

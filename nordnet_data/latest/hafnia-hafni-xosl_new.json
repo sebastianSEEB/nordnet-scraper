@@ -1,9 +1,40 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-05T16:33:51.864449+00:00",
+  "scraped_at": "2026-10-05T22:59:04.572968+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "589a338428c0bd32",
+      "author": "TJ INVEST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj-invest",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/10/05/8385375/saudi-aramco-sjefen-oljelagrene-er-skremmende-lave",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/05/8385375/saudi-aramco-sjefen-oljelagrene-er-skremmende-lave"
+      ],
+      "char_count": 104,
+      "has_link": true
+    },
+    {
+      "key": "b64a0d15954869e0",
+      "author": "nokar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva skjedde her etter 1530 mange som ville ut ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }
