@@ -1,9 +1,71 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-05T01:22:56.099895+00:00",
+  "scraped_at": "2026-10-05T07:52:47.980976+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "64575f4275b6bb4b",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "https://x.com/TankerTrackers/status/2106902205416518134 Ineffektivt opplegg. Og noen shuttlere blir midlertidig satt ut av spill hver uke..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/TankerTrackers/status/2106902205416518134"
+      ],
+      "char_count": 139,
+      "has_link": true
+    },
+    {
+      "key": "ec5d1ac4705f9ae4",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.seatrade-maritime.com/security/dynacom-newbuild-among-at-least-four-tankers-attacked-in-hormuz?linkId=1016852920",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [
+        "https://www.seatrade-maritime.com/security/dynacom-newbuild-among-at-least-four-tankers-attacked-in-hormuz?linkId=1016852920"
+      ],
+      "char_count": 126,
+      "has_link": true
+    },
+    {
+      "key": "510829a87ea2b1a5",
+      "author": "GiFre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gifre",
+      "posted_relative": "for 49 min siden",
+      "text": "· Skummel situasjon , ARAMCO også rammet igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "d9904ed52440b3b6",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 47 min siden · Endret",
+      "text": "NOK 950.- Kursmål kr 950.- Fearnley",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

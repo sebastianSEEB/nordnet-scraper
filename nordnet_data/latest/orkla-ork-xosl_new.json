@@ -1,9 +1,39 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-05T01:28:22.045811+00:00",
+  "scraped_at": "2026-10-05T07:58:30.857004+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "932b78e0b9920f35",
+      "author": "Mortys",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortys",
+      "posted_relative": "for 31 min siden",
+      "text": "At aksjen kun har en eneste kjøpsanbefaling sier vel litt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "55ee39b8aaf7ed66",
+      "author": "ronniz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronniz",
+      "posted_relative": null,
+      "text": "1. okt. · Kjedelig bekjentskap etter hvert",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

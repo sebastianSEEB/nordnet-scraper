@@ -1,9 +1,27 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-05T01:27:43.217525+00:00",
+  "scraped_at": "2026-10-05T07:57:50.467647+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6274ffc09db65b7a",
+      "author": "EriHof",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erihof",
+      "posted_relative": "for 45 min siden",
+      "text": "Interessant artikkel om det som skjer i biotek nå: https://www.finansavisen.no/helse/2026/10/04/8385012/gullrush-i-biotek Nykode er etter min mening strategisk plassert ganske midt i smørøyet. Hvis du, som meg, har stor tro på kombinasjonen kunstig intelligens og biotek, synes jeg Nykode er det mest interessante casene på Oslo Børs. Noe av det jeg synes er spesielt spennende, er dataene selskapet har bygget opp gjennom snart 20 år. Det gjelder ikke bare forsøkene som har lykkes. Også data fra eksperimenter som ikke ga ønsket resultat kan være verdifulle når man skal lære modeller hva som ikke fungerer. All historisk data er tatt vare på, og under Q&A etter Q2-presentasjonen ble Agnete Fredriksen spurt om nye data mates tilbake i NeoSELECT og brukes til å gjøre modellen bedre over tid. Svaret var ja. Det er nettopp dette Finansavisen beskriver som «lab-in-the-loop»: modellen foreslår, laboratoriet tester, resultatene mates tilbake, og neste runde kan bli bedre. Det betyr ikke at AI alene gjør Nykode til en vinner. Kliniske resultater er fortsatt det som teller. Men dersom Nykode klarer å kombinere 20 års biologiske data, NeoSELECT, egne laboratorieforsøk og kliniske data i en stadig bedre læringssløyfe, så kan det etter min mening bli en betydelig konkurransefordel. Det er en del av Nykode-caset jeg tror markedet foreløpig følger ganske lite med på. AI-modellene kan alle etter hvert få tilgang til. 20 år med egne biologiske og kliniske data kan du ikke bare laste ned.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/helse/2026/10/04/8385012/gullrush-i-biotek"
+      ],
+      "char_count": 1491,
+      "has_link": true
+    }
+  ]
 }

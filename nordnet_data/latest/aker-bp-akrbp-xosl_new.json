@@ -1,9 +1,36 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-05T01:27:59.536525+00:00",
+  "scraped_at": "2026-10-05T07:58:06.690377+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fefae94a2af99b75",
+      "author": "Ophon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
+      "posted_relative": "for 30 min siden",
+      "text": "På kort sikt er det jo positivt. På lang sikt så har vi jo lyst på flere prosjekter 😄 Nå skal vi høste fruktene av tidligere arbeid!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "b5560b4d3a162498",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 12 min siden",
+      "text": "En uformell \"tippekonkurranse\"🙃 Hvem treffer best på utbytte og  utbetalingstidspunkt for Q3 utbyttet: 8,20kr    10. November",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

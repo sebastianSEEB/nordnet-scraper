@@ -1,22 +1,52 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-10-05T01:25:10.893449+00:00",
+  "scraped_at": "2026-10-05T07:55:10.052012+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "e8ab598a828657d3",
-      "author": "Fjelldronning",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjelldronning",
-      "posted_relative": "for 51 min siden",
-      "text": "Odfjell kan forøvrig ikke kjøpes på ASK, men du kan bruke IKZ.",
+      "key": "fedc540745cb9996",
+      "author": "same-jacki",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/same-jacki",
+      "posted_relative": null,
+      "text": "1. okt. managementrig'n  'Deepsea Yantai' har forlenga oppdrag tel ut juli neste aar.",
       "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "7bf8b6cce00b5357",
+      "author": "Budlungen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/budlungen",
+      "posted_relative": "for 45 min siden · Endret",
+      "text": "Hvorfor kan jeg ikke kjøpe denne aksjen på vanlig aksjesparekonto?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "7e1d41996cbad924",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 30 min siden",
+      "text": "Bermudaregistrert.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 62,
+      "char_count": 18,
       "has_link": false
     }
   ]

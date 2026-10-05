@@ -1,9 +1,25 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-05T01:28:06.906590+00:00",
+  "scraped_at": "2026-10-05T07:58:14.544718+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2871877d5d059c80",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 19 min siden",
+      "text": "Virker som en \"røverhistorie\" att Nhy må ut på spott europa for kjøp av gass. Hadde oljefyring for ikke langt tilbake https://www.hydro.com/en/global/media/news/2024/alunorte-starts-alumina-production-using-natural-gas/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.hydro.com/en/global/media/news/2024/alunorte-starts-alumina-production-using-natural-gas/"
+      ],
+      "char_count": 219,
+      "has_link": true
+    }
+  ]
 }

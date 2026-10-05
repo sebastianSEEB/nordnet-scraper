@@ -1,9 +1,38 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-10-05T01:28:59.443026+00:00",
+  "scraped_at": "2026-10-05T07:59:10.838538+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4d8b113e70490df7",
+      "author": "Danielgull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/danielgull",
+      "posted_relative": "for 12 min siden",
+      "text": "Hva skjer når de blir tatt av børs ? Vill våre aksjer bli videreført inn i Fortum ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "d1bfb298d0d4d346",
+      "author": "Kaa31",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaa31",
+      "posted_relative": null,
+      "text": "28. sep. Hva kan vi forvente fremover? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

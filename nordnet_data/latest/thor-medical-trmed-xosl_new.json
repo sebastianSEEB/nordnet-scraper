@@ -1,9 +1,53 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-05T01:30:07.767423+00:00",
+  "scraped_at": "2026-10-05T08:00:22.036958+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "05aad576e834043f",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": "for 1 t siden",
+      "text": "AHLBOM HOLDING AS har kjøpt 863K aksjer. Smart å laste opp på disse nivåene, langt under emi-kursen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "6b642c62e22779f0",
+      "author": "novak123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/novak123",
+      "posted_relative": "for 1 t siden",
+      "text": "De er bare tilbake på top50 lista etter endringer hos andre aksjonærer…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "e74d73ec174a633f",
+      "author": "Barnemat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barnemat",
+      "posted_relative": "for 56 min siden",
+      "text": "Lastet så mye jeg tørr jeg også. Håper å nå ditt nivå 🏆",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "bevest-bint-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bevest-bint-xosl",
-  "scraped_at": "2026-10-05T01:29:52.278605+00:00",
+  "scraped_at": "2026-10-05T08:00:06.481369+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f5f0247c39c6eefb",
+      "author": "Pacman75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pacman75",
+      "posted_relative": "for 51 min siden",
+      "text": "Vil svinge som alt annet..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

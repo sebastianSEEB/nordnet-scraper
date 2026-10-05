@@ -1,9 +1,26 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-05T01:25:37.594265+00:00",
+  "scraped_at": "2026-10-05T07:55:38.436935+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "850ff0456432f35f",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": null,
+      "text": "1. okt. Der utløste jeg fallet….",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        7
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

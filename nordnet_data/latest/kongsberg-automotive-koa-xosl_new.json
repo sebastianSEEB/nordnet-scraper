@@ -1,9 +1,23 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-05T01:30:27.152852+00:00",
+  "scraped_at": "2026-10-05T08:00:42.509603+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "865b164563d512c6",
+      "author": "Bing Bing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bing-bing",
+      "posted_relative": "for 5 t siden",
+      "text": "Definisjonen på et solid selskap måles i utbytteevnen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

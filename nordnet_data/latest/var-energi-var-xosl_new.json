@@ -1,9 +1,54 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-05T01:28:14.664706+00:00",
+  "scraped_at": "2026-10-05T07:58:23.009936+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5875408e49e260da",
+      "author": "The Prophet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-prophet",
+      "posted_relative": "for 33 min siden",
+      "text": "Vår Energi produserer nå rundt 400.000 fat oljeekvivalenter per dag, og produksjonen skal opp videre. Hvis Brent holder seg rundt $100–110, samtidig som gassprisen holder seg på dagens nivå, kan vi fort få et ekstremt sterkt kvartal. Tipper $3 mrd+ i EBITDA og rundt $2 mrd+ i kontantstrøm etter skatt. Det betyr potensielt enorme mengder cash inn i selskapet. Og siden Vår Energi deler 25–30 % av kontantstrømmen etter skatt som utbytte, er dette veldig gledelig for oss som aksjonærer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 487,
+      "has_link": false
+    },
+    {
+      "key": "f6d9b26763eb6eb4",
+      "author": "Vincent70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vincent70",
+      "posted_relative": "for 1 t siden",
+      "text": "Barclays hever kursmålet på Vår Energi fra 58 til 60 kroner og gjentar overweight. Goldman gjentar kursmål 68 kroner og kjøpsanbefalingen. Finansavisen i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11
+      ],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    },
+    {
+      "key": "9bc1413d019b6665",
+      "author": "Alamo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo",
+      "posted_relative": "for 25 min siden · Endret",
+      "text": "Ikke usannsynlig med CFFO over $2mrd... Hvor lenge varer eventyret?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,56 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-05T01:28:03.250114+00:00",
+  "scraped_at": "2026-10-05T07:58:10.606117+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3b4f8af302369baf",
+      "author": "Android",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
+      "posted_relative": "for 1 t siden",
+      "text": "Altså Berenbergs kursmål virker å reflektere en forventning om at sannsynligheten for en avtale har økt (Tre), men vi har ikke fått noe informasjon om det fra Telenor, enda i hvert fall. I tillegg må dette godkjennes av konkurransetilsynet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 240,
+      "has_link": false
+    },
+    {
+      "key": "b1d7214b09bd08ad",
+      "author": "BB Investments",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bb-investments",
+      "posted_relative": null,
+      "text": "1. okt. Kjøpte meg selv inn no. Begynner å bli billig men frykter for at den skal lengre ned.  Men er skummelt å la ve når ting er på salg, plutselig er den for dyr at😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "d08b51de94b9d908",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": null,
+      "text": "1. okt. Berenberg oppgraderer anbefalingen på Telenor til kjøp fra hold. Bedre telekom sektor utsikter også og utbytte snart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        18,
+        12
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

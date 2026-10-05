@@ -1,9 +1,43 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-05T01:27:05.175138+00:00",
+  "scraped_at": "2026-10-05T07:57:09.751701+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "01edc2efb1e9ac0b",
+      "author": "Trekkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trekkern",
+      "posted_relative": null,
+      "text": "1. okt. https://www.finansavisen.no/borsmeldinger/2026/10/01/bea70c66-2231-5c16-9b0b-d2503045c0b5/nskog-norske-skog-completes-transaction-with-nnd Som forventet, men greit å få det stadfestet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/borsmeldinger/2026/10/01/bea70c66-2231-5c16-9b0b-d2503045c0b5/nskog-norske-skog-completes-transaction-with-nnd"
+      ],
+      "char_count": 192,
+      "has_link": true
+    },
+    {
+      "key": "e07b6fd260ccfff1",
+      "author": "birder72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
+      "posted_relative": null,
+      "text": "1. okt. Fint å få de inn i Q3. Kursen reagerte riktig opp i starten, men presses ned. Fin mulighet for å kjøpe når kurs presses ned.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    }
+  ]
 }

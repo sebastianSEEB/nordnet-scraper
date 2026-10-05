@@ -1,9 +1,56 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-05T01:24:13.419482+00:00",
+  "scraped_at": "2026-10-05T07:54:09.504147+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4831837c918fc475",
+      "author": "EspAsk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espask",
+      "posted_relative": null,
+      "text": "1. okt. · Endret Neida, den kommer. Spml gjalt det kvartalsvise utbyttet, 76,83 pr BNOR regnes som en kompensasjon for å jevne ut verdien på porteføljen før og etter «byttehandelen».",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 182,
+      "has_link": false
+    },
+    {
+      "key": "b4f2daf60277e917",
+      "author": "vizzy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vizzy",
+      "posted_relative": null,
+      "text": "1. okt. Har noen regnet ut mulig contango scenario mot vår ifbm med fremtidig fusjon? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "a0af03e608eda496",
+      "author": "Foffo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/foffo",
+      "posted_relative": null,
+      "text": "1. okt. Muligens  Q3 utbytte fra Vår han mener.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-05T01:30:15.317465+00:00",
+  "scraped_at": "2026-10-05T08:00:30.042044+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c8917e38ffbf302a",
+      "author": "Avro nil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
+      "posted_relative": "for 1 min siden",
+      "text": "Any wrong with this aksje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

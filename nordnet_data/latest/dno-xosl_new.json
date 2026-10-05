@@ -1,9 +1,36 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-05T01:26:30.975338+00:00",
+  "scraped_at": "2026-10-05T07:56:34.124510+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3c8d3616df81b5ae",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 17 min siden",
+      "text": "· Man opphører aldri å bli overrasket over hvor seig DNO er, i dag stiger alle oljeselskaper og som vanlig er DNO dårligst i ligaen, tvert imot ved nedgang da er DNO best i ligaen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 179,
+      "has_link": false
+    },
+    {
+      "key": "3f1e71d013e07345",
+      "author": "Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": "for 1 t siden",
+      "text": "Tar jeg feil smiler jeg fra øre til øre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }

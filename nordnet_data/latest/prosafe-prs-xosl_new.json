@@ -1,9 +1,40 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-05T01:30:18.991552+00:00",
+  "scraped_at": "2026-10-05T08:00:34.018601+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cc4166a63273609b",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 45 min siden",
+      "text": "At noen ikke forstår at kontrakter med historisk dags ratter kan komme når som helst. Ledelsen har selv sakt det under 2q presentasjon. Jeg selv tror det tok lang tid på grunnen av at de vil ikke selge seg rimelig og presser kundene til å betale langt over 150-160k pr dag. De må nok gi seg og betale til slutt. For det fins ikke noe annet ledig på markedet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 358,
+      "has_link": false
+    },
+    {
+      "key": "c8a41ff8c5a90fe9",
+      "author": "Libb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/libb",
+      "posted_relative": "for 34 min siden",
+      "text": "Er det ikke rart at ingen insidere kjøper?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

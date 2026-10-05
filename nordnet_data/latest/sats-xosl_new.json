@@ -1,9 +1,23 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-10-05T01:27:01.298232+00:00",
+  "scraped_at": "2026-10-05T07:57:05.690334+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "42f635fccc34ec93",
+      "author": "exbroker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/exbroker",
+      "posted_relative": "for 4 min siden",
+      "text": "Gapet fra Q2 rapport himmelspretten er nå closet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

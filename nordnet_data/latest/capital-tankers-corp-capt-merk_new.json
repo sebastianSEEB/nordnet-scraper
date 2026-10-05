@@ -1,9 +1,73 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-05T01:24:09.522496+00:00",
+  "scraped_at": "2026-10-05T07:54:05.649778+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "085157e66b757ec5",
+      "author": "aaakno",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aaakno",
+      "posted_relative": "for 55 min siden",
+      "text": "Det var en kraftig oppjustering :  Fearnley höjer riktkursen för Capital Tankers till 290 norska kronor (224), upprepar köp - BN https://www.nordnet.no/market/news/b8f2dcb9-006f-48a0-8597-d1b305bbe54a",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://www.nordnet.no/market/news/b8f2dcb9-006f-48a0-8597-d1b305bbe54a"
+      ],
+      "char_count": 200,
+      "has_link": true
+    },
+    {
+      "key": "699fca0daa34db42",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": "for 43 min siden",
+      "text": "Kursmålet ble høyd til 290 kr! 100 kr oppside!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "02edc94f2ef06e2f",
+      "author": "H.S.T",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hst-1",
+      "posted_relative": "for 51 min siden",
+      "text": "Oi hva skjedde her? Forventet ikke dette",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "e760850df2037d3d",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 51 min siden",
+      "text": "Og en saftig start på uka: 194,82",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

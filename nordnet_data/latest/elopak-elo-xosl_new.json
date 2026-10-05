@@ -1,9 +1,38 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-05T01:26:12.053325+00:00",
+  "scraped_at": "2026-10-05T07:56:14.362923+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e746239b99b2d1b8",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": null,
+      "text": "1. okt. · Endret Solid handel fra THE BANK OF NEW YORK   4 228 094 aksjer . Og grunnen er--- Samtidig siste tid ser vi algoritmene jobber får en lavest mulig kurs på aksjen fra børs start på lavt volum og drar nytte av dette senere . En mulighet som foreligger i Elopak , som er en lite påaktet aksje . Kjøpte i går og fortsetter kjøp på dette nivået .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 352,
+      "has_link": false
+    },
+    {
+      "key": "9015d2ab66508242",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 10 min siden",
+      "text": "· Ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

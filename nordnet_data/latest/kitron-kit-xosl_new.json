@@ -1,9 +1,86 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-05T01:24:35.833976+00:00",
+  "scraped_at": "2026-10-05T07:54:33.890016+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "859315f3ed11957f",
+      "author": "ertbert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ertbert",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Norne Securities høyner kursmål til 130kr, gjentar kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        2
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "cf4a66ea3484c10e",
+      "author": "PalB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/palb-1",
+      "posted_relative": "for 52 min siden",
+      "text": "Hva tenker vi kursen ender på denne uken?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "40f45982025e3982",
+      "author": "NoobieGains",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noobiegains",
+      "posted_relative": "for 29 min siden",
+      "text": "Satser på ny ath",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    },
+    {
+      "key": "f172465c8d69d658",
+      "author": "OzzyO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ozzyo",
+      "posted_relative": "for 26 min siden",
+      "text": "· ⬆️➡️⬆️➡️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    },
+    {
+      "key": "21a0849075299429",
+      "author": "erinho",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erinho",
+      "posted_relative": "for 1 t siden",
+      "text": "· 135 kr",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

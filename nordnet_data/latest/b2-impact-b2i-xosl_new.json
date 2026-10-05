@@ -1,9 +1,23 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-05T01:25:22.248803+00:00",
+  "scraped_at": "2026-10-05T07:55:21.901457+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1286df46da89f477",
+      "author": "Innbyttern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/innbyttern",
+      "posted_relative": null,
+      "text": "1. okt. de låner penger av investorene via en obligasjon for å kjøpe nye misligholdte låneportefølger etter det jeg har fått med meg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    }
+  ]
 }

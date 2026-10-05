@@ -1,9 +1,38 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-10-05T01:23:35.306073+00:00",
+  "scraped_at": "2026-10-05T07:53:30.209633+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5dbf49dd9686091b",
+      "author": "Donrup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donrup",
+      "posted_relative": null,
+      "text": "1. okt. · Mon ikke også betalinger for de bestilte skipene, som ble kunngjort like etter siste investor call, kan ha påvirket siste kvartals kontantstrøm?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 154,
+      "has_link": false
+    },
+    {
+      "key": "756a8f8fe59381f0",
+      "author": "PenniLane",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennilane",
+      "posted_relative": null,
+      "text": "1. okt. · Litt sent ute med å gå fra hold til kjøp etter en 10 måneders opptur 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ]
 }

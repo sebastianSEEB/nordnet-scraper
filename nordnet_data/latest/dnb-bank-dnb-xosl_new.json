@@ -1,9 +1,23 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-05T01:27:51.626595+00:00",
+  "scraped_at": "2026-10-05T07:57:58.431506+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "afb9e0b223c377ae",
+      "author": "EandL",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eandl",
+      "posted_relative": "for 10 min siden",
+      "text": "Tilbud liker jeg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }
