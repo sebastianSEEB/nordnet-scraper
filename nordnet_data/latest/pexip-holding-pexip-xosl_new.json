@@ -1,9 +1,42 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-06T02:46:04.081038+00:00",
+  "scraped_at": "2026-10-06T09:37:36.341664+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6131791044324f44",
+      "author": "Trekkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trekkern",
+      "posted_relative": null,
+      "text": "2. okt. https://www.finansavisen.no/finans/2026/10/02/8384586/anchora-forvalter-na-er-det-europa-for-europa-som-gjelder Europeiske sikkerhetsselskaper!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/02/8384586/anchora-forvalter-na-er-det-europa-for-europa-som-gjelder"
+      ],
+      "char_count": 151,
+      "has_link": true
+    },
+    {
+      "key": "a1dd251103848327",
+      "author": "Winxy34",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/winxy34",
+      "posted_relative": null,
+      "text": "2. okt. Har sittet i aksjen en stund og merker at støtte- og motstandsnivåer er sentrale for Pexip. Neste motstandsnivå: 79,0 kr Neste støttenivå: 73,5 kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 154,
+      "has_link": false
+    }
+  ]
 }

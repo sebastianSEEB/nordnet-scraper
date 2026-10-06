@@ -1,9 +1,42 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-06T02:43:47.188287+00:00",
+  "scraped_at": "2026-10-06T09:35:21.799372+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "688abb91ecbecf84",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 3 t siden",
+      "text": "En oppsummering av situasjonen i Hormuz per i dag. Merk imidlertid at dette er AI-generert materiale, jeg har ikke ettergått det for å verifisere opplysningene: https://www.shipfinder.com/special/hormuz",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.shipfinder.com/special/hormuz"
+      ],
+      "char_count": 202,
+      "has_link": true
+    },
+    {
+      "key": "2681c5808ec5ba55",
+      "author": "Volven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
+      "posted_relative": "for 2 t siden",
+      "text": "I så fall er Capital Tankers i pole position.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

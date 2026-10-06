@@ -1,9 +1,41 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-06T02:44:45.771937+00:00",
+  "scraped_at": "2026-10-06T09:36:19.763649+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d1537ca379a203fb",
+      "author": "Beyond-21",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
+      "posted_relative": null,
+      "text": "2. okt. Litt morro hvor mange NORDNET kunder som har solgt denne mens de profesjonelle skurkene bare har kjøpt og kjøpt. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "630a113f44d68666",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 2 t siden",
+      "text": "ABG Sundal Collier øker kursmålet på Elkem til 40 kroner fra 36 kroner og gjentar kjøpsanbefalingen, ifølge en oppdatering mandag kveld.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    }
+  ]
 }

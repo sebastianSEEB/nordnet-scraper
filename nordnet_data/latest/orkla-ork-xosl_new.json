@@ -1,9 +1,68 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-06T02:48:05.380394+00:00",
+  "scraped_at": "2026-10-06T09:39:35.822364+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "39415ceed1114a95",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 1 t siden",
+      "text": "Den går ikke under 90, så framover vil nok orkla bevege seg tilbake til den posisjonen den hadde før Q2. Det kommer nok en god del oppkjøp de neste ukene før Q3, og etter tidligere nyheter så virker det som at Q3 vil imponere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 226,
+      "has_link": false
+    },
+    {
+      "key": "aeeb233d53e442af",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 t siden",
+      "text": "i dag må jeg gå til Synsam og ta en kontroll på øyene mine 🤷🤷 det er noe blå farge, det har siste året kun vært rød farge 📉📉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    },
+    {
+      "key": "fa2ee603f172200d",
+      "author": "Thebrokebroker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thebrokebroker",
+      "posted_relative": "for 2 t siden",
+      "text": "Får håpe den har snudd nå da.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "17b0a38e1b61aa66",
+      "author": "CVS1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cvs1",
+      "posted_relative": "for 47 min siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

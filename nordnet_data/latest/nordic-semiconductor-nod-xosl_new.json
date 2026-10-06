@@ -1,9 +1,42 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-06T02:43:55.287738+00:00",
+  "scraped_at": "2026-10-06T09:35:29.565437+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5b8421ff7f32abac",
+      "author": "CarefulInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carefulinvest",
+      "posted_relative": null,
+      "text": "2. okt. Nå spørs det om det ikke klemmer litt rundt shortposisjonene? Det vil være en helt klassisk NOD-bevegelse å fyke raskt opp til en ny topp etter en periode med litt roligere oppgang, drevet av shortere som kaster kortene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        5
+      ],
+      "links": [],
+      "char_count": 228,
+      "has_link": false
+    },
+    {
+      "key": "35dcd914d4a4c897",
+      "author": "EdVgs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/edvgs",
+      "posted_relative": null,
+      "text": "2. okt. · Snart 200kr igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        1
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,100 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-06T02:47:46.001915+00:00",
+  "scraped_at": "2026-10-06T09:39:16.651854+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "60796b78d33048e2",
+      "author": "X_22",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/x_22",
+      "posted_relative": "for 1 t siden",
+      "text": "Folk selger i dag ca 1.8-2 kr lavere enn i går pga INGENTING. Bare fordi en megler har satt ned kurs. men men sånn er merkedet Jeg er komfortabel med TEL og bruker sånne dager til påfyll og bryr meg ikke om den stiger mot EX-dato eller ikke selv om jeg tror den kommer til å gjøre det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 284,
+      "has_link": false
+    },
+    {
+      "key": "db3a28df8e111aea",
+      "author": "Kjartan_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjartan-1",
+      "posted_relative": null,
+      "text": "2. okt. Føler egentlig Telenor sto i en umulig situasjon i denne saken her. Enten risikerte di sikkerheten til opprørerene og visst ikke sine egne ansatte. Det fantes ikke noe riktig svar på hva Telenor skulle/kunne gjort i denne situasjonen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    },
+    {
+      "key": "d0de639e7ab490db",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 2 t siden",
+      "text": "Laveste oppgitte kursmål for Telenor blant de ferske meglerhusvurderingene ligger på 135 kroner og høyeste på 191. Vi er nå på 126..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "df814cb566b18869",
+      "author": "NoobieGains",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noobiegains",
+      "posted_relative": "for 2 t siden",
+      "text": "Ikke i nærheten av bunnen. Bunnen ligger mellom 105-95",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "f2f6fd736862832d",
+      "author": "Lavprofil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lavprofil",
+      "posted_relative": "for 11 t siden",
+      "text": "7,5% årlig utbytte? Ikke værst! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        4
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "e6cf421bdef1d0aa",
+      "author": "NoobieGains",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noobiegains",
+      "posted_relative": "for 2 t siden",
+      "text": "Men -10% årlig nedgang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

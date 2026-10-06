@@ -1,9 +1,41 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-06T02:46:19.711798+00:00",
+  "scraped_at": "2026-10-06T09:37:51.793293+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ce5654d5dc91dcae",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": null,
+      "text": "2. okt. Goldman Sachs melder seg på, og anbefaler kjøp med et kursmål på 700kr. God fredag! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        2
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "cc2b43c226167ebe",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": null,
+      "text": "2. okt. · 🚀🚀🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

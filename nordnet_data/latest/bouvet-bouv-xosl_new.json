@@ -1,9 +1,40 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-06T02:45:44.651855+00:00",
+  "scraped_at": "2026-10-06T09:37:17.095609+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8e4aa9c7c5e89530",
+      "author": "Gråbein 44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
+      "posted_relative": "for 1 t siden",
+      "text": "· Denne lenkja legg eg inn for å vise kva enkelte meiner om utviklinga innan KI og kva me som investorar må være merksame på. https://simplywall.st/article/ai-agents-are-redrawing-competitive-moats",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://simplywall.st/article/ai-agents-are-redrawing-competitive-moats"
+      ],
+      "char_count": 197,
+      "has_link": true
+    },
+    {
+      "key": "6fbf1f8bd120ac2a",
+      "author": "Jeykey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jeykey",
+      "posted_relative": null,
+      "text": "2. okt. Accenture-rally etter at frykten for AI avtar :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

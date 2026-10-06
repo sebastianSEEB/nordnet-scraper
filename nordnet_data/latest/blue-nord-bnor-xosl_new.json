@@ -1,25 +1,55 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-06T02:43:51.195937+00:00",
+  "scraped_at": "2026-10-06T09:35:25.628964+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "40c7c29d6c02c2ca",
-      "author": "petar123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/petar123",
+      "key": "0997b044eb3cc8a0",
+      "author": "Brura",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brura",
       "posted_relative": null,
-      "text": "2. okt. · Verdt å investere?",
+      "text": "2. okt. Skal du investere i VÅR ser det ut som det er billigst å gå omveien om BNOR akkurat nå.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
+        3
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "20ba2ca20480dc90",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 1 t siden",
+      "text": "Beklager noen som var inne på siden min og skrev dette👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 28,
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "6de5bb4709ce3872",
+      "author": "PlanteraD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/planterad",
+      "posted_relative": "for 22 t siden",
+      "text": "· Hvor ofte vil denne aksjen betale utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        5
+      ],
+      "links": [],
+      "char_count": 44,
       "has_link": false
     }
   ]

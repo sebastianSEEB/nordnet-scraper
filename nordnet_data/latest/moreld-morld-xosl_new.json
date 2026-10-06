@@ -1,9 +1,23 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-06T02:45:56.450939+00:00",
+  "scraped_at": "2026-10-06T09:37:28.503023+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e0b02fd7802e366e",
+      "author": "Reder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reder",
+      "posted_relative": "for 2 t siden",
+      "text": "Har ingen betydning. Det er de ansattes aksjeprogram. Aksjene skal ikke slettes.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ]
 }

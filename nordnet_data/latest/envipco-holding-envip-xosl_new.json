@@ -1,9 +1,67 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-06T02:49:35.612547+00:00",
+  "scraped_at": "2026-10-06T09:41:03.672605+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "6c6924df0cda7b10",
+      "author": "atian88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atian88",
+      "posted_relative": "for 2 t siden",
+      "text": "Dette er ikke uvanlig. Jeg har mange slike 1-aksjesalg. Algoritmer som ser enslige ordre, og forsøker å få selger til å akseptere lavere pris for å fullføre salget, evt. kjøpere til å høyne prisen for å fullføre kjøpet. Veldig vanlig. Ikke alltid at det bare er 1 aksje, men kan like gjerne være 10 17, eller 300 avhengig av aksjestørrelser og kursverdier (samlet). Derfor bør man alltid være litt ekstra forsinktig i åpningsauksjoner i askjer med lav likviditet / handel.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 472,
+      "has_link": false
+    },
+    {
+      "key": "a5df29524e8edaeb",
+      "author": "MortenRev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortenrev",
+      "posted_relative": "for 24 min siden",
+      "text": "Er det ikke dette som kalles en omvendt hode/skulder formasjen innen teknisk analyse? Eller hva Investtech?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "732c9c8cdfd83a8f",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": "for 27 min siden",
+      "text": "Ordre på 24000 aksjer i single poster i dag. De dekker inn.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "860aa106e867753c",
+      "author": "MortenRev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortenrev",
+      "posted_relative": "for 2 t siden",
+      "text": "Moro å være short her fremover 😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

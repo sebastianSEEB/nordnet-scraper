@@ -1,9 +1,23 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-10-06T02:48:21.816121+00:00",
+  "scraped_at": "2026-10-06T09:39:51.044843+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d849380d2255e5ca",
+      "author": "TexasTS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texasts",
+      "posted_relative": null,
+      "text": "2. okt. · Endret Gevinstsikring? Det er ikke noen fundamental grunn. Den stanger mot 265.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

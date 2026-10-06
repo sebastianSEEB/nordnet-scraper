@@ -1,9 +1,52 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-06T02:44:10.784976+00:00",
+  "scraped_at": "2026-10-06T09:35:45.189315+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b94ce7209fac2983",
+      "author": "Jan Andersen.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-andersen-1",
+      "posted_relative": "for 22 t siden",
+      "text": "Jeg har summert tallene for Q3 og dem viser en økning i salg av elbiler på 38% for både Sverige og Danmark sammenlignet med Q3 i 2025. For Norge er tilsvarende tall opp 12%. Mest gledelig er utviklingen i Holland. Her er det registrert 45.070 nye elbiler i Q3 - 2026 mot 30.000 i Q3 - 2025. Dette gir en økning på 50%. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        21,
+        3
+      ],
+      "links": [],
+      "char_count": 338,
+      "has_link": false
+    },
+    {
+      "key": "117752f4c6303ee3",
+      "author": "Stefan007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
+      "posted_relative": "for 12 min siden",
+      "text": "· går ned litt noen dager, men hele tiden oppover til slutt. så jeg tror det kommer til å være sånn en god stund fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "773beaa6e1fc5135",
+      "author": "Stefan007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
+      "posted_relative": "for 8 min siden",
+      "text": "· synd at selv småbilene koster en halv million.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

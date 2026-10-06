@@ -1,9 +1,55 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-06T02:46:15.950889+00:00",
+  "scraped_at": "2026-10-06T09:37:47.846946+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ed4eb92eab3bdf85",
+      "author": "TradInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradinvest",
+      "posted_relative": null,
+      "text": "2. okt. Lovende. Den skyves foreløpig ikke av svært signifkant volum på brudd over 16,20, men dette kan være en god start.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "d72a01657aa98de8",
+      "author": "Dryppertalgo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dryppertalgo",
+      "posted_relative": "for 3 t siden",
+      "text": "Tilbakekjøpene fortsetter, men kursen bom fast på 16 kr. Noen grunn til å investere i AUTO nå eller er taket nådd?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "2affe3febeb7000b",
+      "author": "ackrite",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ackrite",
+      "posted_relative": "for 1 t siden",
+      "text": "Bom fast?  Siste 6mnd 60%↗️ Siste 3mnd 30%↗️ Kan du forklare hva du mener med «bom fast»?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

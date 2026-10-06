@@ -1,9 +1,39 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-06T02:45:25.411822+00:00",
+  "scraped_at": "2026-10-06T09:36:58.081651+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7d5f0b3dea870b69",
+      "author": "Helgemann2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/helgemann2",
+      "posted_relative": "for 1 t siden",
+      "text": "Enig med deg der, ikke mange kronene jeg har i disse, men føler at det blir mye et steg frem og to tilbake",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "cfe87becc629ac79",
+      "author": "the real Jensi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-real-jensi",
+      "posted_relative": null,
+      "text": "2. okt. · Med igjen fra 6.31 Dem tror jeg blir liggende en stund i skuffen Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    }
+  ]
 }

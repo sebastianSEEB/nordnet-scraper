@@ -1,9 +1,54 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-06T02:44:14.591843+00:00",
+  "scraped_at": "2026-10-06T09:35:49.061817+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e2be9c5fb74d2696",
+      "author": "hb15336",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hb15336",
+      "posted_relative": "for 2 t siden",
+      "text": "· Har du et perspektiv på under tre måneder, så tjaaa. Har du et perspektiv over tre år, så er det en svært attraktiv aksje i mine øyne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    },
+    {
+      "key": "a36f81ebcfb31053",
+      "author": "Tthorst3n",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tthorst3n",
+      "posted_relative": "for 19 t siden",
+      "text": "· Vits å kjøpe meir no? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "c3279690eb9f8f1a",
+      "author": "GorillaGOGO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gorillagogo",
+      "posted_relative": "for 30 min siden",
+      "text": "Kom igjen nå!!🚀🚀 den her kommer til å fly",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

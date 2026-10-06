@@ -1,9 +1,39 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-10-06T02:43:12.082746+00:00",
+  "scraped_at": "2026-10-06T09:34:47.552234+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "63b972bc1b275e72",
+      "author": "neutral14",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neutral14",
+      "posted_relative": "for 42 min siden",
+      "text": "· Har allerede solgt 20% av min beholdning som er det jeg satset fra starten. vil beholde resten for utbytte swn får man vurdere etter hvert",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "8f1934506f0cc1ce",
+      "author": "S4LM14K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/s4lm14k",
+      "posted_relative": "for 2 t siden",
+      "text": "Når vurderer dere gevinstsikring på denne aksjen? Den har gått bra, vil sikkert gå bra en stund til, men man vet jo aldri.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "constellation-oil-services-holding-cosh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/constellation-oil-services-holding-cosh-xosl",
-  "scraped_at": "2026-10-06T02:44:53.470256+00:00",
+  "scraped_at": "2026-10-06T09:36:27.301760+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "111f6e5ac403b6fc",
+      "author": "EspenSore",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espensore",
+      "posted_relative": null,
+      "text": "2. okt. Atea, Clas Ohlson, Sparebank1 Sør-Norge, Storebrand, Handelsbanken, Nordea, Kongsberg Maritime og Odfjell Drilling",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "d6fe8924012729e8",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 1 t siden",
+      "text": "Det var en dårlig spøk?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

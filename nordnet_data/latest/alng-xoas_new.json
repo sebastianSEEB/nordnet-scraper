@@ -1,9 +1,25 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-06T02:42:46.950448+00:00",
+  "scraped_at": "2026-10-06T09:34:23.520402+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b5d9f0c6fcdc79c4",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 1 t siden",
+      "text": "Grunnet frykt for høye gasspriser utsettes EUs metanforordning til 2028.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }
