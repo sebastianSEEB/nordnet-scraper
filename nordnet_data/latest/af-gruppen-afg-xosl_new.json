@@ -1,9 +1,25 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-10-06T13:41:26.030724+00:00",
+  "scraped_at": "2026-10-06T16:27:38.471406+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b06c29ced015b762",
+      "author": "VITO44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vito44",
+      "posted_relative": null,
+      "text": "2. okt. Hadde et håp om at 200-tallet ved ukens slutt…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

@@ -1,25 +1,55 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-06T13:39:29.040186+00:00",
+  "scraped_at": "2026-10-06T16:25:37.413817+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "1ea4d5ab46c10258",
-      "author": "tospann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
-      "posted_relative": null,
-      "text": "2. okt. Bare tull å se på oljepris dag for dag. Nå får tallenes tale komme med Q3. DNO får nok ikke gå på Q talla er jeg redd for  :-(",
+      "key": "efd46e3e83818799",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 16 t siden",
+      "text": "Aramco sjefen opptil 2 år for å bygge opp globale lagre igjen selv om alt hadde åpnet, og som vi vet krigen er langt fra ferdig. Markedet burde snart se at dette vil vare lengre enn de noen gang har tenkt .Katastrofen er langt større enn det noe hadde forestilt seg. https://www.aramco.com/en/news-media/speeches/2026/remarks-by-amin-h-nasser-at-energy-intelligence-2026?utm_source=chatgpt.com Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        5
+        2,
+        2
+      ],
+      "links": [
+        "https://www.aramco.com/en/news-media/speeches/2026/remarks-by-amin-h-nasser-at-energy-intelligence-2026?utm_source=chatgpt.com"
+      ],
+      "char_count": 413,
+      "has_link": true
+    },
+    {
+      "key": "bd15f62d55fd1195",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 2 t siden",
+      "text": "· Vil bare påpeke at tesa mi stemmer igjen, når oljeselskapene faller faller DNO mest, intet annet selskap faller over 2 prosent unntatt DNO",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "f3603f3add5bede1",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 2 t siden",
+      "text": "Forstår godt at personer står i \"kø\" for å få lov til å kjøpe på disse kursene nå, men synest det er rart at noen vil selge !!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
       "links": [],
-      "char_count": 134,
+      "char_count": 128,
       "has_link": false
     }
   ]

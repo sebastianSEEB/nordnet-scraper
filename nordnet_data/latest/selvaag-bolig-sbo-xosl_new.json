@@ -1,9 +1,56 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-10-06T13:42:37.526767+00:00",
+  "scraped_at": "2026-10-06T16:28:52.114266+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "386cd704e3237551",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": null,
+      "text": "2. okt. Litt nostalgi på tampen av uken... \"Brøt med datidens byggeforskrifter: Bli med Olav Selvaag inn i farfars hus Olav Selvaag ble utfordret til å bygge tomannsboligen på Ekeberg for å vise at man kunne bygge billigere, men likevel bra boliger.\" https://www.dn.no/video/m/ZUhLiU2D/brot-med-datidens-byggeforskrifter-bli-med-olav-selvaag-inn-i-farfars-hus",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://www.dn.no/video/m/ZUhLiU2D/brot-med-datidens-byggeforskrifter-bli-med-olav-selvaag-inn-i-farfars-hus"
+      ],
+      "char_count": 359,
+      "has_link": true
+    },
+    {
+      "key": "156144fa81d1e17e",
+      "author": "RogerJr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rogerjr",
+      "posted_relative": "for 8 min siden",
+      "text": "Jeg har regnet meg til 4-5mrd i inntekter fra salg i 27. Tror toget vil dra fra deg, men vi får se!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "c7154e57bc99afa6",
+      "author": "torstein v",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torstein-v",
+      "posted_relative": null,
+      "text": "2. okt. · Den var fin",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

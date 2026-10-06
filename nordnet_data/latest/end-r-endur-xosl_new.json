@@ -1,24 +1,39 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-06T13:39:47.564813+00:00",
+  "scraped_at": "2026-10-06T16:25:56.652393+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "06b3496eda21c511",
-      "author": "Vihaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
-      "posted_relative": "for 1 t siden",
-      "text": "· Sakte men sikkert..🤞",
+      "key": "30faaaac0502b90a",
+      "author": "espen_aa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espen_aa",
+      "posted_relative": "for 2 t siden",
+      "text": "Ikke så sakte  😄 men sikkert!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 22,
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "18a78b57f40b1b88",
+      "author": "Terrybob 76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terrybob-76",
+      "posted_relative": "for 14 min siden",
+      "text": "Takk for at du deler",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 20,
       "has_link": false
     }
   ]

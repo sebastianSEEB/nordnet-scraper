@@ -1,51 +1,50 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-06T13:37:17.034078+00:00",
+  "scraped_at": "2026-10-06T16:23:20.702656+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "bbb5508e478a2c80",
-      "author": "Segnis",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/segnis",
-      "posted_relative": null,
-      "text": "2. okt. Bare for gøy spurte jeg copilot hva de tre analytikerne som har selg/underperform legger til grunn. Her er svaret:  De analytikerne og meglerhusene som opprettholder en selg-anbefaling (eller Underperform/Underweight) på Nordic Semiconductor (NOD), baserer i hovedsak sitt negative syn på at markedet priser inn for mye optimisme for tidlig. Mens de norske meglerhusene fokuserer på den sykliske gjeninnhentingen, trekker de mer skeptiske, internasjonale aktørene (som blant annet [UBS](https://www.ubs.com) og [BNP Paribas Exane](https://bnpparibas.com)) frem følgende hovedargumenter: [1, 2, 3, 4]  ## 1. Bekymring rundt \"Double Ordering\" (Falsk etterspørsel) *  * Argument: Analytikerne mistenker at deler av den kraftige volumoppgangen skyldes at kunder forhåndsbestiller unødvendig mye brikker. * Risiko: De frykter at kundene sikrer seg kapasitet på forhånd av frykt for fremtidige flaskehalser, noe som kan bety at etterspørselen vil falle brått når lagrene igjen er fulle. [5]  *  ## 2. Høyt priset vekst (Verdivurdering) *  * Argument: Med en aksjekurs som har beveget seg opp mot 185 NOK, mener bjørnene at multiplene har strukket seg for langt. * Risiko: Aksjen prises på svært høye multipler mot kortsiktig inntjening. Dersom den globale veksten i forbrukerelektronikk flater ut eller marginene presses under 50 %, faller fundamentet for dagens prising. [3, 6, 7, 8]  *  ## 3. Marginpress og tøffere konkurranse på Bluetooth *  * Argument: Selv om Nordic Semi leder an på Bluetooth Low Energy (BLE), møter de økt konkurranse fra lavkostprodusenter. * Risiko: Det argumenteres for at bruttomarginene over tid vil presses nedover, og at kostnadene knyttet til satsinger innenfor Cellular IoT og Wi-Fi spiser opp for mye av lønnsomheten før disse segmentene blir store nok. [9]  *  ## 4. Makroøkonomisk motvind i sluttmarkedene *  * Argument: Store deler av brikkene til Nordic går inn i konsumentelektronikk (dingser, smarte hjem, PC-utstyr). * Risiko: Med svakere forbrukertillit globalt og potensielt vedvarende høyt rentenivå, mener de mer forsiktige analytikerne at den brede gjeninnhentingen i halvledersektoren kan ta lengre tid enn det markedet håper. [7]  *  [1] [https://www.nordicsemi.com](https://www.nordicsemi.com/Investor-Relations/Analyst-Coverage) [2] [https://www.finansavisen.no](https://www.finansavisen.no/teknologi/2026/04/29/8347585/gigantisk-sprik-mellom-norske-og-utenlandske-analytikere-i-nod) [3] [https://www.investing.com](https://www.investing.com/equities/nordic-semiconductor-asa-consensus-estimates) [4] [https://www.marketscreener.com](https://www.marketscreener.com/quote/stock/NORDIC-SEMICONDUCTOR-1413213/consensus/) [5] [https://www.finansavisen.no](https://www.finansavisen.no/tdn/2026/04/28/06558497/nod-ser-tydelig-at-markedet-forbedrer-seg-wollan) [6] [https://tradedesk.dk](https://tradedesk.dk/no/aksjer/nod.ol) [7] [https://paretosec.no](https://paretosec.no/manedsportefoljen/paretoportefoljen-oktober-2026) [8] [https://www.finansavisen […avkuttet, sannsynlig parsingfeil]",
+      "key": "8e044a9cff75b94c",
+      "author": "GLC",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glc",
+      "posted_relative": "for 2 t siden",
+      "text": "Punkt 1 er svært spekulativ, jeg har ikke sett noen legge frem konkrete bevis for dette.  Punk 3 er gammel informasjon, nå har vi endelig cellular design wins, og størsteparten av capex ligger bak oss.  Prispress på BLE er ikke en stor risiko fordi NODs eldre og enklere brikker er svært konkurransedyktige på pris for de prissensitive. Og som hos Nvidia har NOD en moat gjennom sine utviklerverkøy og programvare.  Det utlendingene kanskje sliter med er at de ikke ser de nye produktene med høyere omsetning per enhet i regnskapet ennå. Mens nordmenn følger mer med på design wins og hva de betyr.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [
-        "https://bnpparibas.com))",
-        "https://paretosec.no](https://paretosec.no/manedsportefoljen/paretoportefoljen-oktober-2026)",
-        "https://tradedesk.dk](https://tradedesk.dk/no/aksjer/nod.ol)",
-        "https://www.finansavisen",
-        "https://www.finansavisen.no](https://www.finansavisen.no/tdn/2026/04/28/06558497/nod-ser-tydelig-at-markedet-forbedrer-seg-wollan)",
-        "https://www.finansavisen.no](https://www.finansavisen.no/teknologi/2026/04/29/8347585/gigantisk-sprik-mellom-norske-og-utenlandske-analytikere-i-nod)",
-        "https://www.investing.com](https://www.investing.com/equities/nordic-semiconductor-asa-consensus-estimates)",
-        "https://www.marketscreener.com](https://www.marketscreener.com/quote/stock/NORDIC-SEMICONDUCTOR-1413213/consensus/)",
-        "https://www.nordicsemi.com](https://www.nordicsemi.com/Investor-Relations/Analyst-Coverage)",
-        "https://www.ubs.com)"
-      ],
-      "char_count": 3036,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 598,
+      "has_link": false
     },
     {
-      "key": "24bcdb68d7dd2c2a",
-      "author": "mohtallat",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohtallat",
-      "posted_relative": null,
-      "text": "2. okt. · Alt dette skjer fordi jeg selger aksjene mine i går , jeg går glipp av øyeblikket :)",
+      "key": "81dfad64a144c2ed",
+      "author": "Fattigstakkaren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattigstakkaren",
+      "posted_relative": "for 1 t siden",
+      "text": "Voldsom akkumulering på relativt greie kurser Jeg tror denne passerer 200 i løpet av et par uker",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "94cd3c102330f34b",
+      "author": "Maegs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maegs",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva tror folk, nytt opprykk, eller korrigering i løpet av uken?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
-        5
+        1
       ],
       "links": [],
-      "char_count": 94,
+      "char_count": 63,
       "has_link": false
     }
   ]
