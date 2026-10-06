@@ -1,9 +1,58 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-06T09:39:47.277311+00:00",
+  "scraped_at": "2026-10-06T13:41:30.026309+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3421be964247126e",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 54 min siden",
+      "text": "SOFF kjøper Normand Maximus fra SOMA https://osvnyheter.no/osv-nyheter-uke-41-5-11-oktober-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://osvnyheter.no/osv-nyheter-uke-41-5-11-oktober-2026"
+      ],
+      "char_count": 95,
+      "has_link": true
+    },
+    {
+      "key": "adff7f5cb5581511",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "2. okt. Skal på verft en tur om ikke lenge og så nærner det seg vel fort oppstart av 3-års kontrakten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "fb4018e92391a495",
+      "author": "HJB1987",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hjb1987",
+      "posted_relative": "for 46 min siden",
+      "text": "Hva vil dette ha å si for Soma?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

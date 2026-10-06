@@ -1,40 +1,73 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-06T09:37:51.793293+00:00",
+  "scraped_at": "2026-10-06T13:39:36.534407+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "ce5654d5dc91dcae",
+      "key": "443f2b1583637e04",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "2. okt. https://www.finansavisen.no/finans/2026/10/02/8384825/slar-oslo-bors-igjen-bytter-inn-bech-holte-favoritten-salmar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/02/8384825/slar-oslo-bors-igjen-bytter-inn-bech-holte-favoritten-salmar"
+      ],
+      "char_count": 122,
+      "has_link": true
+    },
+    {
+      "key": "c543192f26137211",
       "author": "MariusB",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
       "posted_relative": null,
-      "text": "2. okt. Goldman Sachs melder seg på, og anbefaler kjøp med et kursmål på 700kr. God fredag! Vis 1 kommentar til",
+      "text": "2. okt. https://www.finansavisen.no/sjomat/2026/10/02/8384895/goldman-sachs-slik-skal-lakseindustrien-inn-i-en-ny-aera",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9,
-        2
+        5,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/10/02/8384895/goldman-sachs-slik-skal-lakseindustrien-inn-i-en-ny-aera"
+      ],
+      "char_count": 118,
+      "has_link": true
+    },
+    {
+      "key": "73ca67ce0e22790e",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": "for 3 t siden",
+      "text": "Lakseprisene drar seg til idag og løfter seg med 5-7 kroner! Det handles idag på følgende priser levert Oslo: 2/3 62-63 3/4 69-70 4/5 71-72 5-6 74-75 6+ 80-85 Enorme volumer i de 9 første mnd begrenser volumene fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        6
       ],
       "links": [],
-      "char_count": 111,
+      "char_count": 220,
       "has_link": false
     },
     {
-      "key": "cc2b43c226167ebe",
-      "author": "Kalle1234",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": null,
-      "text": "2. okt. · 🚀🚀🚀",
+      "key": "345ed473b640bd7c",
+      "author": "Onarheim MD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onarheim-md",
+      "posted_relative": "for 2 t siden",
+      "text": "Hei Eddie! Noke liv på short siden?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 13,
+      "char_count": 35,
       "has_link": false
     }
   ]

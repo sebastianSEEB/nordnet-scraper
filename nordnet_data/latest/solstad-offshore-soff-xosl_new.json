@@ -1,9 +1,69 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-10-06T09:35:02.830904+00:00",
+  "scraped_at": "2026-10-06T13:36:50.729254+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "3421be964247126e",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 49 min siden",
+      "text": "SOFF kjøper Normand Maximus fra SOMA https://osvnyheter.no/osv-nyheter-uke-41-5-11-oktober-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://osvnyheter.no/osv-nyheter-uke-41-5-11-oktober-2026"
+      ],
+      "char_count": 95,
+      "has_link": true
+    },
+    {
+      "key": "040ee0c4a3c89314",
+      "author": "Halvorsen.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/halvorsen-1",
+      "posted_relative": "for 2 t siden",
+      "text": "Hei.  Har tenkt og kjøpe meg inn her 😁 Kan jeg få litt info? Om aksjen.  Du lærer av og forklare til andre også 🫡",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "387a8f64b4bcc836",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 43 min siden",
+      "text": "Hvordan anser dere denne nyheten? Må være posetivt og få kjøpt ut?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "f4e5b65dd47adca9",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 44 min siden",
+      "text": "Fin tirsdag nyhet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

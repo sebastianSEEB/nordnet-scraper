@@ -1,41 +1,52 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-06T09:35:21.799372+00:00",
+  "scraped_at": "2026-10-06T13:37:09.475757+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "688abb91ecbecf84",
-      "author": "PantaReiOgNåErJegLei",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
-      "posted_relative": "for 3 t siden",
-      "text": "En oppsummering av situasjonen i Hormuz per i dag. Merk imidlertid at dette er AI-generert materiale, jeg har ikke ettergått det for å verifisere opplysningene: https://www.shipfinder.com/special/hormuz",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [
-        "https://www.shipfinder.com/special/hormuz"
-      ],
-      "char_count": 202,
-      "has_link": true
-    },
-    {
-      "key": "2681c5808ec5ba55",
-      "author": "Volven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
-      "posted_relative": "for 2 t siden",
-      "text": "I så fall er Capital Tankers i pole position.",
+      "key": "47b844bb3c486179",
+      "author": "iMiko",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/imiko",
+      "posted_relative": "for 41 min siden",
+      "text": "Denne har langt mer å gå på. Tankmarkedet er inne i en syklus som det skal snakkes om i mange år.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 45,
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "a063dcfa9e248602",
+      "author": "T8",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/t8",
+      "posted_relative": "for 2 t siden",
+      "text": "Litt gevinstsikring, intet annet. Denne har nok mere å gå på.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "bd9c8ebdd59d4052",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 2 t siden",
+      "text": "Så, hva skjedde denne gangen? Nye rykter om forhandlinger?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
       "has_link": false
     }
   ]

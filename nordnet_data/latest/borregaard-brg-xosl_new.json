@@ -1,9 +1,39 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-06T09:38:45.836204+00:00",
+  "scraped_at": "2026-10-06T13:40:29.051661+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c1c6f53f83d9e48d",
+      "author": "Øy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
+      "posted_relative": null,
+      "text": "2. okt. Rart den ikke er mer populær å investere i. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "103db0e0b2113cba",
+      "author": "Babbai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/babbai",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvorfor så høye EPS-estimater for 2027/28? Rekordhøyt. Ref. Nordnet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

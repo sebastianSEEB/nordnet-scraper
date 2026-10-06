@@ -1,55 +1,50 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-06T09:35:25.628964+00:00",
+  "scraped_at": "2026-10-06T13:37:13.279589+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 7,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "0997b044eb3cc8a0",
-      "author": "Brura",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brura",
-      "posted_relative": null,
-      "text": "2. okt. Skal du investere i VÅR ser det ut som det er billigst å gå omveien om BNOR akkurat nå.",
+      "key": "a46103b3ad69e5d3",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 25 min siden",
+      "text": "Lurt å være her,skal over til Vår i løpet av året eller begynnelsen av 2027",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 95,
+      "char_count": 75,
       "has_link": false
     },
     {
-      "key": "20ba2ca20480dc90",
-      "author": "Pasjo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "key": "6be290133e77d9a2",
+      "author": "share 12345",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/share-12345",
       "posted_relative": "for 1 t siden",
-      "text": "Beklager noen som var inne på siden min og skrev dette👍",
+      "text": "Hvor lurt er det å holde på denne? Når skal den over til vår?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "2e30f0e6bd68e768",
+      "author": "Watermate",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/watermate",
+      "posted_relative": null,
+      "text": "2. okt. Er optimist og kjøpe litt til i dag .",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 55,
-      "has_link": false
-    },
-    {
-      "key": "6de5bb4709ce3872",
-      "author": "PlanteraD",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/planterad",
-      "posted_relative": "for 22 t siden",
-      "text": "· Hvor ofte vil denne aksjen betale utbytte?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        5
-      ],
-      "links": [],
-      "char_count": 44,
+      "char_count": 45,
       "has_link": false
     }
   ]

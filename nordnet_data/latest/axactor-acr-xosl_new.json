@@ -1,38 +1,9 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-06T09:40:37.059432+00:00",
+  "scraped_at": "2026-10-06T13:42:18.512922+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "c232d01a8594152b",
-      "author": "austre",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/austre",
-      "posted_relative": "for 1 t siden",
-      "text": "Volum tørket helt opp sammenlignet for ett par dager siden.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "bde83053d57263cd",
-      "author": "Rødswix",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rdswix",
-      "posted_relative": "for 1 døgn siden",
-      "text": "Stor krysning kl 0855, etter avtale :) Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
