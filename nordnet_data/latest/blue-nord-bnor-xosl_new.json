@@ -1,9 +1,26 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-05T23:00:18.695440+00:00",
+  "scraped_at": "2026-10-06T02:43:51.195937+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "40c7c29d6c02c2ca",
+      "author": "petar123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/petar123",
+      "posted_relative": null,
+      "text": "2. okt. · Verdt å investere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }
