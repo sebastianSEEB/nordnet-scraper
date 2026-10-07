@@ -1,0 +1,37 @@
+name: Ripple backtest
+
+on:
+  push:
+    branches: [ripple-backtest]
+    paths-ignore: ['results/**', 'data/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ripple-backtest
+  cancel-in-progress: false
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install
+        run: pip install -q yfinance pandas numpy requests matplotlib
+      - name: Run
+        run: bash run.sh
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data results
+          git diff --staged --quiet || git commit -m "Ripple backtest output $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull -q --rebase origin ripple-backtest || true
+          git push
