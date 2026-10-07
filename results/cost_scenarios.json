@@ -1,0 +1,277 @@
+{
+ "zero_cost": {
+  "avg_cost": 0.0,
+  "ripple": {
+   "net": 0.00164,
+   "t": 1.0,
+   "net_with_skip": 0.00164,
+   "t_skip": 1.0,
+   "trades_skip": 1584,
+   "by_bucket": {
+    "large": 0.0017,
+    "mid": 0.0029,
+    "small": 0.0003
+   }
+  },
+  "rebound": {
+   "net": -0.00705,
+   "t": -2.31,
+   "net_with_skip": -0.00705,
+   "t_skip": -2.31,
+   "trades_skip": 443,
+   "by_bucket": {
+    "large": -0.0034,
+    "mid": -0.0055,
+    "small": -0.0106
+   }
+  },
+  "drift_A": {
+   "net": 0.00311,
+   "t": 1.01,
+   "net_with_skip": 0.00311,
+   "t_skip": 1.01,
+   "trades_skip": 1541,
+   "by_bucket": {
+    "large": -0.0068,
+    "mid": -0.0012,
+    "small": 0.0056
+   }
+  },
+  "book_ripple_only": {
+   "trades": 1151,
+   "skipped_by_caps": 433,
+   "total_pnl": 14469.0,
+   "annual_return": 0.0383,
+   "sharpe": 0.46,
+   "max_drawdown": -0.0784
+  },
+  "book_ripple_rebound": {
+   "trades": 1419,
+   "skipped_by_caps": 608,
+   "total_pnl": -15688.0,
+   "annual_return": -0.0415,
+   "sharpe": -0.47,
+   "max_drawdown": -0.3047
+  }
+ },
+ "student (0.15%, min 1 kr)": {
+  "avg_cost": 0.0126,
+  "ripple": {
+   "net": -0.00945,
+   "t": -5.89,
+   "net_with_skip": -0.00337,
+   "t_skip": -1.18,
+   "trades_skip": 669,
+   "by_bucket": {
+    "large": -0.0049,
+    "mid": -0.0041,
+    "small": -0.0177
+   }
+  },
+  "rebound": {
+   "net": -0.01853,
+   "t": -5.69,
+   "net_with_skip": -0.01261,
+   "t_skip": -2.22,
+   "trades_skip": 101,
+   "by_bucket": {
+    "large": -0.0101,
+    "mid": -0.0125,
+    "small": -0.0286
+   }
+  },
+  "drift_A": {
+   "net": -0.01134,
+   "t": -5.11,
+   "net_with_skip": -0.01134,
+   "t_skip": -5.11,
+   "trades_skip": 1541,
+   "by_bucket": {
+    "large": -0.0127,
+    "mid": -0.0083,
+    "small": -0.0124
+   }
+  },
+  "book_ripple_only": {
+   "trades": 577,
+   "skipped_by_caps": 92,
+   "total_pnl": -22938.0,
+   "annual_return": -0.0607,
+   "sharpe": -1.01,
+   "max_drawdown": -0.2675
+  },
+  "book_ripple_rebound": {
+   "trades": 659,
+   "skipped_by_caps": 111,
+   "total_pnl": -33692.0,
+   "annual_return": -0.0892,
+   "sharpe": -1.4,
+   "max_drawdown": -0.3636
+  }
+ },
+ "normal (0.049%, min 79 kr)": {
+  "avg_cost": 0.0252,
+  "ripple": {
+   "net": -0.02197,
+   "t": -13.57,
+   "net_with_skip": -0.01136,
+   "t_skip": -2.36,
+   "trades_skip": 94,
+   "by_bucket": {
+    "large": -0.0167,
+    "mid": -0.0169,
+    "small": -0.0305
+   }
+  },
+  "rebound": {
+   "net": -0.03104,
+   "t": -9.32,
+   "net_with_skip": 0.01389,
+   "t_skip": 0.81,
+   "trades_skip": 6,
+   "by_bucket": {
+    "large": -0.0218,
+    "mid": -0.0253,
+    "small": -0.0414
+   }
+  },
+  "drift_A": {
+   "net": -0.02408,
+   "t": -10.56,
+   "net_with_skip": -0.02408,
+   "t_skip": -10.56,
+   "trades_skip": 1541,
+   "by_bucket": {
+    "large": -0.0247,
+    "mid": -0.0211,
+    "small": -0.0252
+   }
+  },
+  "book_ripple_only": {
+   "trades": 93,
+   "skipped_by_caps": 1,
+   "total_pnl": -8750.0,
+   "annual_return": -0.0233,
+   "sharpe": -1.0,
+   "max_drawdown": -0.1181
+  },
+  "book_ripple_rebound": {
+   "trades": 99,
+   "skipped_by_caps": 1,
+   "total_pnl": -7992.0,
+   "annual_return": -0.0213,
+   "sharpe": -0.93,
+   "max_drawdown": -0.1106
+  }
+ },
+ "new-customer (0.035%, min 1 kr)": {
+  "avg_cost": 0.011,
+  "ripple": {
+   "net": -0.00816,
+   "t": -5.09,
+   "net_with_skip": -0.00262,
+   "t_skip": -1.41,
+   "trades_skip": 836,
+   "by_bucket": {
+    "large": -0.0065,
+    "mid": -0.0019,
+    "small": -0.0155
+   }
+  },
+  "rebound": {
+   "net": -0.0173,
+   "t": -5.31,
+   "net_with_skip": -0.01041,
+   "t_skip": -2.39,
+   "trades_skip": 154,
+   "by_bucket": {
+    "large": -0.0117,
+    "mid": -0.0102,
+    "small": -0.0264
+   }
+  },
+  "drift_A": {
+   "net": -0.00926,
+   "t": -4.26,
+   "net_with_skip": -0.00926,
+   "t_skip": -4.26,
+   "trades_skip": 1541,
+   "by_bucket": {
+    "large": -0.0133,
+    "mid": -0.006,
+    "small": -0.0101
+   }
+  },
+  "book_ripple_only": {
+   "trades": 708,
+   "skipped_by_caps": 128,
+   "total_pnl": -22265.0,
+   "annual_return": -0.0589,
+   "sharpe": -0.92,
+   "max_drawdown": -0.2682
+  },
+  "book_ripple_rebound": {
+   "trades": 825,
+   "skipped_by_caps": 165,
+   "total_pnl": -37355.0,
+   "annual_return": -0.0989,
+   "sharpe": -1.4,
+   "max_drawdown": -0.422
+  }
+ },
+ "previous model (0.3/1/2%)": {
+  "avg_cost": 0.0139,
+  "ripple": {
+   "net": -0.01038,
+   "t": -6.45,
+   "net_with_skip": -0.00307,
+   "t_skip": -0.4,
+   "trades_skip": 653,
+   "by_bucket": {
+    "large": -0.0013,
+    "mid": -0.0071,
+    "small": -0.0197
+   }
+  },
+  "rebound": {
+   "net": -0.01933,
+   "t": -5.92,
+   "net_with_skip": -0.00915,
+   "t_skip": -1.9,
+   "trades_skip": 119,
+   "by_bucket": {
+    "large": -0.0064,
+    "mid": -0.0155,
+    "small": -0.0306
+   }
+  },
+  "drift_A": {
+   "net": -0.01327,
+   "t": -5.9,
+   "net_with_skip": -0.01327,
+   "t_skip": -5.9,
+   "trades_skip": 1541,
+   "by_bucket": {
+    "large": -0.0098,
+    "mid": -0.0112,
+    "small": -0.0144
+   }
+  },
+  "book_ripple_only": {
+   "trades": 550,
+   "skipped_by_caps": 103,
+   "total_pnl": -17401.0,
+   "annual_return": -0.0461,
+   "sharpe": -0.81,
+   "max_drawdown": -0.2411
+  },
+  "book_ripple_rebound": {
+   "trades": 643,
+   "skipped_by_caps": 129,
+   "total_pnl": -25169.0,
+   "annual_return": -0.0666,
+   "sharpe": -1.05,
+   "max_drawdown": -0.3115
+  }
+ }
+}

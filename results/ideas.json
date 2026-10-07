@@ -1,0 +1,794 @@
+{
+ "procedure": "Ideas 2-5, tested with a holdout.\n\nProcedure (fixed before looking at any result):\n  * Development period: signals 2023-01-01 .. 2025-12-31. Holdout: signals from 2026-01-01.\n  * Each idea has a small grid of settings, listed in GRIDS below.\n  * The setting with the highest t-statistic on the development period (min 30 trades) is\n    chosen per idea. Only that one setting is then evaluated on the holdout, once.\n  * t-statistics are clustered by signal month (holds overlap, so daily clustering overstates).\n  * Costs: Nordnet Student class (0.15% per side Nordic, min 1 kr; 0.2% min 49 kr elsewhere,\n    plus 0.15% currency) + bid-ask spread by liquidity (0.05% / 0.4% / 1.5% round trip).\n    A \"limit order\" sensitivity (half the spread) is reported for the chosen settings only.\n  * All trades: enter at the next trading day's open, exit at the close H trading days later,\n    hedged against the equal-weight market with the stock's beta (betas use past data only).\n\nIdeas\n  2 selective   ripple laggards, only big surprises / strong links, Nordic large+mid caps\n  3 drift_long  the news stock itself, held longer, Nordic large+mid caps\n  4 follow      peers that moved in sympathy without their own news, traded in the SAME direction\n  5 ann_type    the news stock itself, by Oslo B\u00f8rs announcement type (earnings / contract / M&A)\n",
+ "grids": {
+  "2 selective": [
+   {
+    "hold": 5,
+    "zmin": 2,
+    "link": "any"
+   },
+   {
+    "hold": 5,
+    "zmin": 2,
+    "link": "strong"
+   },
+   {
+    "hold": 5,
+    "zmin": 3,
+    "link": "any"
+   },
+   {
+    "hold": 5,
+    "zmin": 3,
+    "link": "strong"
+   },
+   {
+    "hold": 10,
+    "zmin": 2,
+    "link": "any"
+   },
+   {
+    "hold": 10,
+    "zmin": 2,
+    "link": "strong"
+   },
+   {
+    "hold": 10,
+    "zmin": 3,
+    "link": "any"
+   },
+   {
+    "hold": 10,
+    "zmin": 3,
+    "link": "strong"
+   },
+   {
+    "hold": 20,
+    "zmin": 2,
+    "link": "any"
+   },
+   {
+    "hold": 20,
+    "zmin": 2,
+    "link": "strong"
+   },
+   {
+    "hold": 20,
+    "zmin": 3,
+    "link": "any"
+   },
+   {
+    "hold": 20,
+    "zmin": 3,
+    "link": "strong"
+   }
+  ],
+  "3 drift_long": [
+   {
+    "hold": 10,
+    "zmin": 2
+   },
+   {
+    "hold": 10,
+    "zmin": 3
+   },
+   {
+    "hold": 20,
+    "zmin": 2
+   },
+   {
+    "hold": 20,
+    "zmin": 3
+   },
+   {
+    "hold": 40,
+    "zmin": 2
+   },
+   {
+    "hold": 40,
+    "zmin": 3
+   }
+  ],
+  "4 follow": [
+   {
+    "hold": 5,
+    "specific": true
+   },
+   {
+    "hold": 5,
+    "specific": false
+   },
+   {
+    "hold": 10,
+    "specific": true
+   },
+   {
+    "hold": 10,
+    "specific": false
+   },
+   {
+    "hold": 20,
+    "specific": true
+   },
+   {
+    "hold": 20,
+    "specific": false
+   }
+  ],
+  "5 ann_type": [
+   {
+    "hold": 10,
+    "type": "earnings"
+   },
+   {
+    "hold": 10,
+    "type": "contract"
+   },
+   {
+    "hold": 10,
+    "type": "m&a"
+   },
+   {
+    "hold": 20,
+    "type": "earnings"
+   },
+   {
+    "hold": 20,
+    "type": "contract"
+   },
+   {
+    "hold": 20,
+    "type": "m&a"
+   },
+   {
+    "hold": 40,
+    "type": "earnings"
+   },
+   {
+    "hold": 40,
+    "type": "contract"
+   },
+   {
+    "hold": 40,
+    "type": "m&a"
+   }
+  ]
+ },
+ "ideas": {
+  "2 selective": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "hold": 5,
+      "zmin": 2,
+      "link": "any"
+     },
+     "dev": {
+      "trades": 525,
+      "months": 36,
+      "gross": 0.0009,
+      "net": -0.0051,
+      "win": 0.444,
+      "t": -3.08
+     }
+    },
+    {
+     "setting": {
+      "hold": 5,
+      "zmin": 2,
+      "link": "strong"
+     },
+     "dev": {
+      "trades": 253,
+      "months": 35,
+      "gross": -0.0003,
+      "net": -0.0065,
+      "win": 0.443,
+      "t": -1.86
+     }
+    },
+    {
+     "setting": {
+      "hold": 5,
+      "zmin": 3,
+      "link": "any"
+     },
+     "dev": {
+      "trades": 276,
+      "months": 35,
+      "gross": -0.0008,
+      "net": -0.0067,
+      "win": 0.431,
+      "t": -2.19
+     }
+    },
+    {
+     "setting": {
+      "hold": 5,
+      "zmin": 3,
+      "link": "strong"
+     },
+     "dev": {
+      "trades": 131,
+      "months": 28,
+      "gross": -0.0007,
+      "net": -0.0068,
+      "win": 0.443,
+      "t": -0.37
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "zmin": 2,
+      "link": "any"
+     },
+     "dev": {
+      "trades": 525,
+      "months": 36,
+      "gross": 0.0045,
+      "net": -0.0015,
+      "win": 0.463,
+      "t": -0.53
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "zmin": 2,
+      "link": "strong"
+     },
+     "dev": {
+      "trades": 253,
+      "months": 35,
+      "gross": 0.0054,
+      "net": -0.0008,
+      "win": 0.466,
+      "t": 0.3
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "zmin": 3,
+      "link": "any"
+     },
+     "dev": {
+      "trades": 276,
+      "months": 35,
+      "gross": 0.0034,
+      "net": -0.0025,
+      "win": 0.504,
+      "t": -1.08
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "zmin": 3,
+      "link": "strong"
+     },
+     "dev": {
+      "trades": 131,
+      "months": 28,
+      "gross": 0.0059,
+      "net": -0.0002,
+      "win": 0.511,
+      "t": 0.33
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "zmin": 2,
+      "link": "any"
+     },
+     "dev": {
+      "trades": 525,
+      "months": 36,
+      "gross": 0.0074,
+      "net": 0.0014,
+      "win": 0.512,
+      "t": 0.24
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "zmin": 2,
+      "link": "strong"
+     },
+     "dev": {
+      "trades": 253,
+      "months": 35,
+      "gross": 0.0092,
+      "net": 0.0029,
+      "win": 0.522,
+      "t": 1.25
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "zmin": 3,
+      "link": "any"
+     },
+     "dev": {
+      "trades": 276,
+      "months": 35,
+      "gross": 0.0048,
+      "net": -0.0011,
+      "win": 0.525,
+      "t": -0.8
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "zmin": 3,
+      "link": "strong"
+     },
+     "dev": {
+      "trades": 131,
+      "months": 28,
+      "gross": 0.0088,
+      "net": 0.0027,
+      "win": 0.511,
+      "t": 0.44
+     }
+    }
+   ],
+   "chosen": {
+    "hold": 20,
+    "zmin": 2,
+    "link": "strong"
+   },
+   "dev": {
+    "trades": 253,
+    "months": 35,
+    "gross": 0.0092,
+    "net": 0.0029,
+    "win": 0.522,
+    "t": 1.25
+   },
+   "holdout": {
+    "trades": 74,
+    "months": 8,
+    "gross": 0.0017,
+    "net": -0.0042,
+    "win": 0.405,
+    "t": -1.26
+   },
+   "holdout_limit_orders": {
+    "trades": 74,
+    "months": 8,
+    "gross": 0.0017,
+    "net": -0.0028,
+    "win": 0.419,
+    "t": -1.18
+   },
+   "dev_limit_orders": {
+    "trades": 253,
+    "months": 35,
+    "gross": 0.0092,
+    "net": 0.0045,
+    "win": 0.526,
+    "t": 1.55
+   }
+  },
+  "3 drift_long": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "hold": 10,
+      "zmin": 2
+     },
+     "dev": {
+      "trades": 351,
+      "months": 36,
+      "gross": 0.0012,
+      "net": -0.0053,
+      "win": 0.45,
+      "t": -0.72
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "zmin": 3
+     },
+     "dev": {
+      "trades": 179,
+      "months": 34,
+      "gross": 0.0032,
+      "net": -0.0033,
+      "win": 0.48,
+      "t": 0.7
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "zmin": 2
+     },
+     "dev": {
+      "trades": 351,
+      "months": 36,
+      "gross": 0.0019,
+      "net": -0.0046,
+      "win": 0.456,
+      "t": -0.59
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "zmin": 3
+     },
+     "dev": {
+      "trades": 179,
+      "months": 34,
+      "gross": 0.0044,
+      "net": -0.0021,
+      "win": 0.441,
+      "t": 1.05
+     }
+    },
+    {
+     "setting": {
+      "hold": 40,
+      "zmin": 2
+     },
+     "dev": {
+      "trades": 351,
+      "months": 36,
+      "gross": -0.0,
+      "net": -0.0066,
+      "win": 0.473,
+      "t": 0.06
+     }
+    },
+    {
+     "setting": {
+      "hold": 40,
+      "zmin": 3
+     },
+     "dev": {
+      "trades": 179,
+      "months": 34,
+      "gross": 0.0074,
+      "net": 0.0009,
+      "win": 0.497,
+      "t": 1.46
+     }
+    }
+   ],
+   "chosen": {
+    "hold": 40,
+    "zmin": 3
+   },
+   "dev": {
+    "trades": 179,
+    "months": 34,
+    "gross": 0.0074,
+    "net": 0.0009,
+    "win": 0.497,
+    "t": 1.46
+   },
+   "holdout": {
+    "trades": 44,
+    "months": 7,
+    "gross": 0.0011,
+    "net": -0.0054,
+    "win": 0.523,
+    "t": 1.07
+   },
+   "holdout_limit_orders": {
+    "trades": 44,
+    "months": 7,
+    "gross": 0.0011,
+    "net": -0.0037,
+    "win": 0.523,
+    "t": 1.14
+   },
+   "dev_limit_orders": {
+    "trades": 179,
+    "months": 34,
+    "gross": 0.0074,
+    "net": 0.0027,
+    "win": 0.503,
+    "t": 1.55
+   }
+  },
+  "4 follow": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "hold": 5,
+      "specific": true
+     },
+     "dev": {
+      "trades": 186,
+      "months": 34,
+      "gross": 0.002,
+      "net": -0.004,
+      "win": 0.452,
+      "t": -1.07
+     }
+    },
+    {
+     "setting": {
+      "hold": 5,
+      "specific": false
+     },
+     "dev": {
+      "trades": 214,
+      "months": 34,
+      "gross": -0.0002,
+      "net": -0.0061,
+      "win": 0.43,
+      "t": -2.01
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "specific": true
+     },
+     "dev": {
+      "trades": 186,
+      "months": 34,
+      "gross": 0.0005,
+      "net": -0.0055,
+      "win": 0.484,
+      "t": 0.03
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "specific": false
+     },
+     "dev": {
+      "trades": 214,
+      "months": 34,
+      "gross": -0.0023,
+      "net": -0.0082,
+      "win": 0.458,
+      "t": -0.91
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "specific": true
+     },
+     "dev": {
+      "trades": 186,
+      "months": 34,
+      "gross": 0.0017,
+      "net": -0.0044,
+      "win": 0.452,
+      "t": 0.35
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "specific": false
+     },
+     "dev": {
+      "trades": 214,
+      "months": 34,
+      "gross": 0.0006,
+      "net": -0.0054,
+      "win": 0.449,
+      "t": -0.32
+     }
+    }
+   ],
+   "chosen": {
+    "hold": 20,
+    "specific": true
+   },
+   "dev": {
+    "trades": 186,
+    "months": 34,
+    "gross": 0.0017,
+    "net": -0.0044,
+    "win": 0.452,
+    "t": 0.35
+   },
+   "holdout": {
+    "trades": 76,
+    "months": 8,
+    "gross": 0.0026,
+    "net": -0.0031,
+    "win": 0.513,
+    "t": -0.5
+   },
+   "holdout_limit_orders": {
+    "trades": 76,
+    "months": 8,
+    "gross": 0.0026,
+    "net": -0.0017,
+    "win": 0.513,
+    "t": -0.32
+   },
+   "dev_limit_orders": {
+    "trades": 186,
+    "months": 34,
+    "gross": 0.0017,
+    "net": -0.0028,
+    "win": 0.462,
+    "t": 0.46
+   }
+  },
+  "5 ann_type": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "hold": 10,
+      "type": "earnings"
+     },
+     "dev": {
+      "trades": 179,
+      "months": 32,
+      "gross": 0.0013,
+      "net": -0.0055,
+      "win": 0.458,
+      "t": -0.56
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "type": "contract"
+     },
+     "dev": {
+      "trades": 20,
+      "months": 15,
+      "gross": 0.0174,
+      "net": 0.0105,
+      "win": 0.5,
+      "t": 0.96
+     }
+    },
+    {
+     "setting": {
+      "hold": 10,
+      "type": "m&a"
+     },
+     "dev": {
+      "trades": 11,
+      "months": 9,
+      "gross": -0.0072,
+      "net": -0.0135,
+      "win": 0.273,
+      "t": -1.4
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "type": "earnings"
+     },
+     "dev": {
+      "trades": 179,
+      "months": 32,
+      "gross": 0.0067,
+      "net": -0.0001,
+      "win": 0.469,
+      "t": 0.2
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "type": "contract"
+     },
+     "dev": {
+      "trades": 20,
+      "months": 15,
+      "gross": -0.0051,
+      "net": -0.0119,
+      "win": 0.45,
+      "t": -0.6
+     }
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "type": "m&a"
+     },
+     "dev": {
+      "trades": 11,
+      "months": 9,
+      "gross": 0.0149,
+      "net": 0.0086,
+      "win": 0.455,
+      "t": 0.13
+     }
+    },
+    {
+     "setting": {
+      "hold": 40,
+      "type": "earnings"
+     },
+     "dev": {
+      "trades": 179,
+      "months": 32,
+      "gross": 0.0012,
+      "net": -0.0056,
+      "win": 0.441,
+      "t": 0.25
+     }
+    },
+    {
+     "setting": {
+      "hold": 40,
+      "type": "contract"
+     },
+     "dev": {
+      "trades": 20,
+      "months": 15,
+      "gross": 0.0022,
+      "net": -0.0046,
+      "win": 0.4,
+      "t": -0.36
+     }
+    },
+    {
+     "setting": {
+      "hold": 40,
+      "type": "m&a"
+     },
+     "dev": {
+      "trades": 11,
+      "months": 9,
+      "gross": 0.0257,
+      "net": 0.0193,
+      "win": 0.364,
+      "t": 0.37
+     }
+    }
+   ],
+   "chosen": {
+    "hold": 40,
+    "type": "earnings"
+   },
+   "dev": {
+    "trades": 179,
+    "months": 32,
+    "gross": 0.0012,
+    "net": -0.0056,
+    "win": 0.441,
+    "t": 0.25
+   },
+   "holdout": {
+    "trades": 60,
+    "months": 6,
+    "gross": -0.0033,
+    "net": -0.0098,
+    "win": 0.5,
+    "t": -0.59
+   },
+   "holdout_limit_orders": {
+    "trades": 60,
+    "months": 6,
+    "gross": -0.0033,
+    "net": -0.008,
+    "win": 0.5,
+    "t": -0.43
+   },
+   "dev_limit_orders": {
+    "trades": 179,
+    "months": 32,
+    "gross": 0.0012,
+    "net": -0.0037,
+    "win": 0.447,
+    "t": 0.42
+   }
+  }
+ }
+}
