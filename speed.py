@@ -73,7 +73,8 @@ def build_trades(nw, bars, minutes, delays, daily_close, daily_mkt, adv):
     mkt = lr.mean(axis=1)
     mcum = mkt.fillna(0).cumsum()
     ends = bar_end(bars.index, minutes)
-    days = pd.Index(sorted(set(bars.index.strftime("%Y-%m-%d"))))
+    dstr = np.asarray(bars.index.strftime("%Y-%m-%d"))
+    days = pd.Index(sorted(set(dstr)))
     rows = []
     for _, m in nw.iterrows():
         tk = m.ticker
@@ -98,14 +99,20 @@ def build_trades(nw, bars, minutes, delays, daily_close, daily_mkt, adv):
         if ref.empty:
             continue
         ref_t, ref_px = ref.index[-1], ref.iloc[-1]
-        today = (bars.index.strftime("%Y-%m-%d") == day)
+        today = dstr == day
         day_s = s[today].ffill()
         if day_s.dropna().empty:
             continue
         close_t, close_px = day_s.index[-1], day_s.iloc[-1]
-        di = daily_close.index.searchsorted(day)
-        nxt = daily_close.index[di + 1] if di + 1 < len(daily_close.index) else None
-        d5 = daily_close.index[di + 5] if di + 5 < len(daily_close.index) else None
+        # every exit comes from the same intraday price series (daily prices are adjusted differently)
+        pos_d = days.get_loc(day)
+        exits = {}
+        for name, k in [("r_next", 1), ("r_5d", 5)]:
+            if pos_d + k < len(days):
+                dk = days[pos_d + k]
+                sk = s[dstr == dk].dropna()
+                if not sk.empty:
+                    exits[name] = (sk.index[-1], sk.iloc[-1])
         bk = bucket(adv.get(tk, pd.Series(dtype=float)).get(day, np.nan))
         for dl in delays:
             target = start + pd.Timedelta(minutes=dl)
@@ -122,10 +129,8 @@ def build_trades(nw, bars, minutes, delays, daily_close, daily_mkt, adv):
                        delay=dl, entry=e_t.strftime("%H:%M"), so_far=float(so_far), side=side, bucket=bk,
                        title=str(m.title)[:100])
             row["r_close"] = float(side * (np.log(close_px / e_px) - (mcum[close_t] - mcum[e_t])))
-            for name, dd in [("r_next", nxt), ("r_5d", d5)]:
-                if dd is not None and tk in daily_close and pd.notna(daily_close.at[dd, tk]):
-                    mk = (mcum[close_t] - mcum[e_t]) + daily_mkt.loc[day:dd].iloc[1:].sum()
-                    row[name] = float(side * (np.log(daily_close.at[dd, tk] / e_px) - mk))
+            for name, (x_t, x_px) in exits.items():
+                row[name] = float(side * (np.log(x_px / e_px) - (mcum[x_t] - mcum[e_t])))
             row["total_day"] = float(side * (np.log(close_px / ref_px) - (mcum[close_t] - mcum[ref_t])))
             rows.append(row)
     return pd.DataFrame(rows)
