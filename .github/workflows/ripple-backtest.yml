@@ -8,6 +8,10 @@ on:
 
 permissions:
   contents: write
+  actions: read
+
+env:
+  REUSE_RUN: '37680851939'   # earlier run whose downloaded news can be reused
 
 concurrency:
   group: ripple-backtest
@@ -22,6 +26,9 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
       - run: pip install -q yfinance pandas requests
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with: {name: data-base, path: data, run-id: "${{ env.REUSE_RUN }}", github-token: "${{ github.token }}"}
       - run: python -u fetch_data.py base
       - uses: actions/upload-artifact@v4
         with: {name: data-base, path: "data/*.*", retention-days: 3}
@@ -37,6 +44,9 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
       - run: pip install -q pandas requests
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with: {name: "gdelt-${{ matrix.part }}", path: data, run-id: "${{ env.REUSE_RUN }}", github-token: "${{ github.token }}"}
       - run: python -u fetch_data.py gdelt ${{ matrix.part }} 5
       - uses: actions/upload-artifact@v4
         if: always()
@@ -51,10 +61,12 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: '3.11'}
-      - run: pip install -q pandas numpy requests matplotlib
+      - run: pip install -q pandas numpy requests matplotlib yfinance
       - uses: actions/download-artifact@v4
         with: {path: data, merge-multiple: true}
       - run: mkdir -p results && python -u backtest.py 2>&1 | tee results/log.txt
+      - run: python -u intraday.py 2>&1 | tee results/intraday_log.txt
+        if: always()
       - name: Commit data and results
         if: always()
         run: |

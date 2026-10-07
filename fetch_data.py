@@ -44,16 +44,16 @@ def query_for(tk, name=""):
 def fetch_prices(universe):
     import yfinance as yf
     path = DATA / "prices.csv.gz"
-    if path.exists():
+    if path.exists() and "high" in pd.read_csv(path, nrows=1).columns:
         print("prices: cached"); return
     df = yf.download(list(universe), start=START, auto_adjust=True, progress=False, threads=True)
     parts = []
-    for f in ["Open", "Close", "Volume"]:
+    for f in ["Open", "High", "Low", "Close", "Volume"]:
         x = df[f].copy()
         x.index = pd.to_datetime(x.index).strftime("%Y-%m-%d")
         parts.append(x.stack().rename(f.lower()))
     out = pd.concat(parts, axis=1).reset_index()
-    out.columns = ["date", "ticker", "open", "close", "volume"]
+    out.columns = ["date", "ticker", "open", "high", "low", "close", "volume"]
     out = out.dropna(subset=["close"])
     out.to_csv(path, index=False)
     print("prices:", out.ticker.nunique(), "of", len(universe), "tickers,", out.date.min(), "to", out.date.max())
