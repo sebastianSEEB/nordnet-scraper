@@ -1,0 +1,33 @@
+name: Ripple share data
+
+on:
+  push:
+    branches: [ripple-backtest]
+    paths: ['.github/workflows/ripple-share-data.yml']
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  share:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: {name: data-base, path: data, run-id: '37686049932', github-token: "${{ github.token }}"}
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with: {pattern: 'gdelt-*', merge-multiple: true, path: data, run-id: '37686049932', github-token: "${{ github.token }}"}
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with: {name: gdelt-3, path: data-old, run-id: '37680851939', github-token: "${{ github.token }}"}
+      - run: |
+          [ -f data/gdelt_3.csv.gz ] || cp data-old/gdelt_3.csv.gz data/ 2>/dev/null || true
+          ls -la data
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Share downloaded data for local backtest" || true
+          git pull -q --rebase origin ripple-backtest || git rebase --abort || true
+          git push origin HEAD:ripple-backtest

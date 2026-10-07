@@ -1,9 +1,6 @@
 name: Ripple backtest
 
 on:
-  push:
-    branches: [ripple-backtest]
-    paths-ignore: ['results/**', 'data/**']
   workflow_dispatch:
 
 permissions:
