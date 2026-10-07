@@ -1,9 +1,70 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-07T01:08:12.160327+00:00",
+  "scraped_at": "2026-10-07T07:54:19.514676+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "0adeda6544c8d0bd",
+      "author": "bigstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bigstein",
+      "posted_relative": "for 1 t siden",
+      "text": "· Brent front month opp 3,7% siden stengetid i går  Og lenger ut begynner også å omprises https://www.ice.com/products/219/brent-crude-futures/data?marketId=6018442",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.ice.com/products/219/brent-crude-futures/data?marketId=6018442"
+      ],
+      "char_count": 164,
+      "has_link": true
+    },
+    {
+      "key": "f53765bdf46b2237",
+      "author": "Romeo og Klive",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/romeo-og-klive",
+      "posted_relative": "for 45 min siden",
+      "text": "I FA skrives det om at Oljeselskaper (Equinor) har en prising basert på 100USD /fat. Stemmer denne prisingen for PEN også? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    },
+    {
+      "key": "35784cf4d3274d5c",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 21 min siden",
+      "text": "Absolutt ikke… pen er nå priset til at olja er 55-60",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "36497fb13718b974",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 57 min siden",
+      "text": "Nei",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

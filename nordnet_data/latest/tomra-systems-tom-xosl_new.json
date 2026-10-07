@@ -1,9 +1,39 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-07T01:08:16.279800+00:00",
+  "scraped_at": "2026-10-07T07:54:23.335804+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "eba71f4086eefda4",
+      "author": "Acharyavision",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acharyavision",
+      "posted_relative": "for 11 min siden",
+      "text": "· Inntil videre, la shortselgerne handle med hverandre.😄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "c481d40f720f7fb0",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 28 min siden",
+      "text": "Bare et spørsmål om tid før Tomra er tilbake over 100+",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

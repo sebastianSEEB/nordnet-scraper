@@ -1,9 +1,39 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwib-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwib-xosl",
-  "scraped_at": "2026-10-07T01:07:16.805552+00:00",
+  "scraped_at": "2026-10-07T07:53:26.384720+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "977430e36710f7bf",
+      "author": "knirkmqsqueak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knirkmqsqueak",
+      "posted_relative": null,
+      "text": "30. sep. Se på den 3 måneders grafen da! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "a4947814933b0b1b",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": "for 1 t siden",
+      "text": "Ja 3 mnd graf var fin så lenge den varte.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

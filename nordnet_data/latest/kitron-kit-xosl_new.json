@@ -1,9 +1,39 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-07T01:08:08.249715+00:00",
+  "scraped_at": "2026-10-07T07:54:15.641797+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b748f3a96491658b",
+      "author": "Jawa1337",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawa1337",
+      "posted_relative": "for 45 min siden",
+      "text": "Finansavisens bjellesautjeneste viser at Aasulv Tveitereid, Marius Borthen og Ketil Skorstad gjør betydelige aksjesalg.  Noen som har oversikt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
+      ],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    },
+    {
+      "key": "4f67d14d49613524",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 29 min siden · Endret",
+      "text": "Såg det var \"store\" summer på kr 100,- på kjøp og salg siden i auksjonen i går. Kan det ha noe å sei? 1,2% i short nå",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-07T01:12:04.031626+00:00",
+  "scraped_at": "2026-10-07T07:57:59.594805+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6afc69aa75a42129",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 41 min siden",
+      "text": "Aksjekursen går ned fordi da kan Orkla kjøpe tilbake billige aksjer. Det er egentlig en WIN WIN for aksjonærer. Bare å smøre med tålmodighet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    }
+  ]
 }

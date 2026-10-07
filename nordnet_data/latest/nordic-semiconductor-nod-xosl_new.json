@@ -1,9 +1,56 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-07T01:07:48.394913+00:00",
+  "scraped_at": "2026-10-07T07:53:56.772581+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b9fa265b4efff972",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/tdn/2026/10/07/06601801/nod-abg-oppjusterer-kursmal-til-250-230-gjentar-kjop",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/10/07/06601801/nod-abg-oppjusterer-kursmal-til-250-230-gjentar-kjop"
+      ],
+      "char_count": 104,
+      "has_link": true
+    },
+    {
+      "key": "0c6bd1c6cf249f76",
+      "author": "Fattigstakkaren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattigstakkaren",
+      "posted_relative": "for 47 min siden",
+      "text": "Oslo (Infront TDN Direkt): ABG Sundal Collier oppjusterer kursmålet på Nordic Semiconductor til 250 kroner fra 230 kroner og gjentar en kjøpsanbefaling på aksjen. Det fremgår av en analyse onsdag. I analysen presenterer ABG et nytt egenutviklet verktøy for «design wins»-sporing, der 1.429 BLE-produkter lansert i perioden 2020-2026 har blitt undersøkt. Meglerhuset har identifisert brikkeprodusenten for 60 prosent av disse, og NOD har i dette utvalget en markedsandel på 55 prosent når det gjelder «design wins». «Dette tallet overvurderer sannsynligvis NODs reelle markedsandel noe, ettersom datasettet har en overvekt av vestlige produkter, men det viser likevel at NOD har opprettholdt sin sterke markedsposisjon», skriver meglerhuset. Videre skriver ABG at selskapet går inn i den største innhøstningsperioden i sin historie og ser potensial for at operasjonell giring kan drive sterk resultatvekst. -Måtte bare lime inn hele meldingen; Utrolig godt å site lastet her nå. Snakker vi da opp til 210 innen rimelig tid? Lykke til, alle sammen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1045,
+      "has_link": false
+    },
+    {
+      "key": "5414f76dd5b7ad6a",
+      "author": "Fattigstakkaren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattigstakkaren",
+      "posted_relative": "for 2 t siden",
+      "text": "Vel, for min del koker dette ned til stadig økt bruk av AI innen IOT. Følger trenden med et rimelig priset selskap innen et aggressivt voksende segment",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    }
+  ]
 }

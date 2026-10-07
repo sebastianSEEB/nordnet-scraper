@@ -1,9 +1,53 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-07T01:10:15.312452+00:00",
+  "scraped_at": "2026-10-07T07:56:17.408707+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "59aee2d5b0ebc9c5",
+      "author": "Lukcy Luke",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lukcy-luke",
+      "posted_relative": "for 35 min siden",
+      "text": "\"Salmar la tirsdag ettermiddag frem slaktevolumtall for tredje kvartal. Samtidig varslet selskapet at slaktevolumet i Midt-Norge mot slutten av kvartalet ble påvirket av uttak som følge av ILA og fiskevelferdsmessige hensyn, noe påvirket kostnadsutviklingen i perioden*",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 269,
+      "has_link": false
+    },
+    {
+      "key": "239798c5383f670a",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 2 t siden",
+      "text": "Tror du opp? Jeg er usikker på hvordan markedet reagerer på denne: \"noe som har påvirket kostnadsutviklingen i perioden\". Det er jo negativt, men kan det store volumet veie opp for det eventuelt?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 195,
+      "has_link": false
+    },
+    {
+      "key": "00ce6e03b6ccf8db",
+      "author": "AKF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akf",
+      "posted_relative": "for 51 min siden",
+      "text": "Forventet ikke at denne skulle synke såpass, noen som vet hvorfor?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-07T01:09:12.456812+00:00",
+  "scraped_at": "2026-10-07T07:55:17.064869+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0e3e28f3a101f645",
+      "author": "Blackfrog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blackfrog",
+      "posted_relative": "for 41 min siden",
+      "text": "Det skal den vise i dag å!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

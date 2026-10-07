@@ -1,9 +1,39 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-07T01:11:23.255282+00:00",
+  "scraped_at": "2026-10-07T07:57:22.009815+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3d2d7a48aecb14eb",
+      "author": "DonnieB.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donnieb-1",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Første gang jeg legger frem en positiv kommentar., eller husing som det oftes sies., her smeller det snart🫡 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "6f3ff7e13fb330f4",
+      "author": "Avkast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avkast",
+      "posted_relative": "for 43 min siden",
+      "text": "det som KAN skje anytime er akkurat det som skjedde med NANEXA for en drøy uke siden.. Partner avtale på VB10.NEO",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    }
+  ]
 }

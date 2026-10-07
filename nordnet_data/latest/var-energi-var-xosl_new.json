@@ -1,9 +1,25 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-07T01:11:55.708607+00:00",
+  "scraped_at": "2026-10-07T07:57:51.954580+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "62568fc6d9cbde2f",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Venezuelas Cardon-oljeraffineri, landets nest største på 310 000 fat per dag, har akkurat uventet eksplodert og tatt fyr, noe som tvinger fram en full nedstengning. Brannen startet ved en gassledning som forbinder raffineriets dieselhydrobehandler, og stanset hele anlegget, inkludert kjelene, opplyste åtte kilder til Reuters.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 329,
+      "has_link": false
+    }
+  ]
 }

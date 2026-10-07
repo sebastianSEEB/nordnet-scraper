@@ -1,9 +1,41 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-07T01:09:16.316024+00:00",
+  "scraped_at": "2026-10-07T07:55:20.777250+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ea6c6a4bd32ade79",
+      "author": "Jokerman01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jokerman01",
+      "posted_relative": "for 10 t siden",
+      "text": "Jo lenger krigen i Midtøsten varer, dess mer svekkes etterspørselen etter olje permanent. Sitat fra DN.no i dag. Og det er jeg enig i. Og derfor kommer vind til å bli den valgte løsningen. https://www.dn.no/energi/dnv/olje-og-gass/krig-i-midtosten/dnv-har-man-kjopt-elbil-hjelper-det-ikke-om-oljeprisen-faller/2-1-2054488 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://www.dn.no/energi/dnv/olje-og-gass/krig-i-midtosten/dnv-har-man-kjopt-elbil-hjelper-det-ikke-om-oljeprisen-faller/2-1-2054488"
+      ],
+      "char_count": 341,
+      "has_link": true
+    },
+    {
+      "key": "5303ac2ec885da3d",
+      "author": "Harries",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
+      "posted_relative": "for 25 min siden",
+      "text": "· Motargumentet er imidlertid at renten stiger på grunn av høy inflation, noe vindkraftprosjekter er ganske følsomme for på grunn av lange lån og høy CAPEX.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    }
+  ]
 }
