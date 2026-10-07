@@ -1,61 +1,48 @@
-source,signal_day,ticker,move,published,trade_entry,title
-newsweb,2026-06-25,ELMRA.OL,0.3435,2026-06-25 08:32 Oslo (pre-open),next open after 2026-06-25,Elmera Group ASA: Receipt of non-binding indication of interest
-newsweb,2026-06-25,ELMRA.OL,0.3435,2026-06-25 08:30 Oslo (pre-open),next open after 2026-06-25,Audax Renovables S.A. announces intention to launch a voluntary offer to acquire all shares in Elmera Group ASA 
-newsweb,2026-03-13,ZAL.OL,0.3179,2026-03-13 07:00 Oslo (pre-open),next open after 2026-03-13,Agreement with Norvestor on recommended voluntary cash tender offer of NOK 100 per share to the shareholders of Zalaris ASA
-newsweb,2026-04-29,ACR.OL,-0.2939,2026-04-28 23:30 Oslo (after-close),next open after 2026-04-29,Axactor ASA - Private placement successfully placed
-newsweb,2026-04-29,ACR.OL,-0.2939,2026-04-28 16:30 Oslo (after-close),next open after 2026-04-29,Axactor ASA - Contemplated Private Placement
-newsweb,2024-05-30,VEND.OL,0.3376,2024-05-29 17:14 Oslo (after-close),next open after 2024-05-30,Schibsted ASA (SCHA/SCHB) - First tranche of the special cash dividend approved
-newsweb,2026-02-03,LINK.OL,-0.2271,2026-02-02 17:24 Oslo (after-close),next open after 2026-02-03,LINK Mobility: Q4 2025 Trading Update
-newsweb,2023-03-14,KOA.OL,-0.1995,2023-03-14 07:03 Oslo (pre-open),next open after 2023-03-14,Kongsberg Automotive - Annual Report 2022
-newsweb,2023-03-14,KOA.OL,-0.1995,2023-03-14 07:00 Oslo (pre-open),next open after 2023-03-14,"Kongsberg Automotive's full-year results in line with guidance, despite strong headwinds from inflation, supply-chain challenges, and slower"
-newsweb,2026-04-24,TOM.OL,-0.2744,2026-04-24 07:00 Oslo (pre-open),next open after 2026-04-24,"TOMRA: 1Q26 - Strong growth in Collection and Food, profitability impacted by Recycling and short term product mix effects"
-newsweb,2026-03-23,ELO.OL,-0.2473,2026-03-22 14:36 Oslo (intraday),next open after 2026-03-23,Elopak ASA: Clarifications related to timing of trading update for first quarter 2026
-newsweb,2026-03-23,ELO.OL,-0.2473,2026-03-20 17:46 Oslo (after-close),next open after 2026-03-23,Elopak ASA: Trading update for first quarter 2026
-newsweb,2023-10-20,TOM.OL,-0.2436,2023-10-20 07:00 Oslo (pre-open),next open after 2023-10-20,Continued margin improvement and solid revenue growth in Collection and Recycling in the third quarter 2023
-newsweb,2024-11-14,ALNG.OL,-0.2813,2024-11-14 08:00 Oslo (pre-open),next open after 2024-11-14,Awilco LNG ASA – Third quarter 2024 results
-newsweb,2025-01-31,ELMRA.OL,-0.2318,2025-01-31 13:17 Oslo (intraday),next open after 2025-01-31,Statement regarding the Norwegian Government’s proposals for the power market 
-newsweb,2023-06-13,YAR.OL,0.1502,2023-06-12 19:57 Oslo (after-close),next open after 2023-06-13,Yara vedtar utbytte og velger styremedlemmer i tråd med valgkomiteens innstilling
-newsweb,2025-07-16,BAKKA.OL,-0.1722,2025-07-15 18:10 Oslo (after-close),next open after 2025-07-16,Preliminary results and profit warning for Q2 2025
-newsweb,2023-11-07,LINK.OL,0.266,2023-11-07 07:00 Oslo (pre-open),next open after 2023-11-07,LINK Mobility – Presentation related to Message Broadcast divestment
-newsweb,2023-11-07,LINK.OL,0.266,2023-11-07 04:35 Oslo (pre-open),next open after 2023-11-07,LINK Mobility - Third quarter 2023 trading update – Full results release postponed
-newsweb,2024-09-26,NOD.OL,-0.2748,2024-09-26 07:00 Oslo (pre-open),next open after 2024-09-26,"Nordic Semiconductor CMD – Driving growth, restoring profitability"
-newsweb,2025-10-30,KOG.OL,-0.1975,2025-10-30 08:50 Oslo (pre-open),next open after 2025-10-30,Presentation material to pressconference
-newsweb,2025-10-30,KOG.OL,-0.1975,2025-10-30 08:50 Oslo (pre-open),next open after 2025-10-30,Presentasjonsmateriale til pressekonferanse
-newsweb,2025-10-30,EPR.OL,-0.1286,2025-10-30 07:00 Oslo (pre-open),next open after 2025-10-30,Solid quarter driven by strong performance in Norway
-newsweb,2023-02-23,JIN.OL,-0.2385,2023-02-23 05:09 Oslo (pre-open),next open after 2023-02-23,PROFIT WARNING ANNOUNCEMENT
-newsweb,2024-02-15,TOM.OL,0.2689,2024-02-15 07:00 Oslo (pre-open),next open after 2024-02-15,TOMRA: 4Q 2023 - All-time high revenues with strong performance in Collection and Recycling; Food restructuring on track
-newsweb,2024-03-22,MING.OL,0.0966,2024-03-21 19:02 Oslo (after-close),next open after 2024-03-22,Vedtak i representantskapet
-newsweb,2024-03-22,MING.OL,0.0966,2024-03-21 19:02 Oslo (after-close),next open after 2024-03-22,Resoultion in the supervisory board
-newsweb,2024-07-12,BINT.OL,0.2108,2024-07-12 07:00 Oslo (pre-open),next open after 2024-07-12,KMC Properties ASA - Results for the second quarter and first half of 2024
-newsweb,2024-07-12,BINT.OL,0.2108,2024-07-11 18:00 Oslo (after-close),next open after 2024-07-12,KMC PROPERTIES ASA – AMENDMENTS TO THE BOARD OF DIRECTORS
-newsweb,2023-03-31,NONG.OL,0.1005,2023-03-31 08:59 Oslo (pre-open),next open after 2023-03-31,The Supervisory Board has at its meeting on 30 March 2023 adopted the following resolutions:
-newsweb,2023-03-31,NONG.OL,0.1005,2023-03-31 08:58 Oslo (pre-open),next open after 2023-03-31,SpareBank 1 Nord-Norge: Vedtak i representantskapet
-newsweb,2025-08-19,MULTI.OL,-0.1213,2025-08-19 07:00 Oslo (pre-open),next open after 2025-08-19,"Multiconsult second quarter and first half 2025 - a moderate second quarter, with increased M&A activity"
-newsweb,2025-02-12,STB.OL,-0.0957,2025-02-12 07:30 Oslo (pre-open),next open after 2025-02-12,STOREBRAND ASA: Results for the fourth quarter of 2024
-newsweb,2025-02-12,STB.OL,-0.0957,2025-02-12 07:30 Oslo (pre-open),next open after 2025-02-12,STOREBRAND ASA: Resultater for fjerde kvartal 2024
-newsweb,2022-12-23,ELMRA.OL,-0.2951,2022-12-23 07:30 Oslo (pre-open),next open after 2022-12-23,Elmera Group and Telia enters into cooperation on mobile customers
-newsweb,2022-12-23,ELMRA.OL,-0.2951,2022-12-23 07:30 Oslo (pre-open),next open after 2022-12-23,Elmera Group ASA – Trading update
-gdelt,2025-01-24,ERIC-B.ST,-0.1336,2025-01-25 00:15 UTC,next open after 2025-01-24,"Ericsson India sales fall 53 % to Rs 11 , 732 crore in 2024"
-gdelt,2025-01-24,ERIC-B.ST,-0.1336,2025-01-24 10:15 UTC,next open after 2025-01-24,"Ericsson posts 28 % on - year fall in Q4 sales in South East Asia , Oceania & India region , ET Telecom"
-gdelt,2023-11-03,MAERSK-B.CO,-0.1876,2023-11-04 00:00 UTC,next open after 2023-11-03,Maersk charters more tonnage to catch up with MSC
-gdelt,2023-11-03,MAERSK-B.CO,-0.1876,2023-11-04 00:00 UTC,next open after 2023-11-03,Import Reefer costs settlement process for port of Incheon container terminal
-gdelt,2024-09-10,BMW.DE,-0.11,2024-09-10 17:15 UTC,next open after 2024-09-10,BMW Shares Tumble After Brake Problem Sparks Outlook Cut
-gdelt,2024-09-10,BMW.DE,-0.11,2024-09-10 19:45 UTC,next open after 2024-09-10,BMW Shares Tumble After Brake Problem Sparks Outlook Cut
-gdelt,2025-10-28,NOKIA.HE,0.1908,2025-10-28 17:00 UTC,next open after 2025-10-28,Nvidia $1 Billion Bet Aims To Transform Nokia Into The West Answer To Huawei
-gdelt,2025-10-28,NOKIA.HE,0.1908,2025-10-28 21:00 UTC,next open after 2025-10-28,Nokia shares hit near 10 - year high
-gdelt,2024-10-04,HLAG.DE,-0.1834,2024-10-04 09:15 UTC,next open after 2024-10-04,Shipping Stocks Tumble After U . S . Port Workers Agree to End Strike
-gdelt,2024-10-04,HLAG.DE,-0.1834,2024-10-03 21:30 UTC,next open after 2024-10-04,Great Lakes cruise ship season winding down
-gdelt,2025-10-20,BNP.PA,-0.0868,2025-10-20 12:15 UTC,next open after 2025-10-20,BNP Paribas expresses firm intention to appeal after conviction in US
-gdelt,2025-10-20,BNP.PA,-0.0868,2025-10-19 00:00 UTC,next open after 2025-10-20,US jury issues $20M verdict against French bank BNP Paribas over Sudanese atrocities
-gdelt,2023-07-14,NOKIA.HE,-0.0923,2023-07-13 06:00 UTC,next open after 2023-07-14,Nokia to publish second - quarter and half - year financial
-gdelt,2023-07-14,NOKIA.HE,-0.0923,2023-07-13 06:00 UTC,next open after 2023-07-14,Nokia Oyj : Nokia to publish second - quarter and half - year financial report on 20 July 2023
-gdelt,2023-07-14,ERIC-B.ST,-0.1068,2023-07-14 09:30 UTC,next open after 2023-07-14,"Nokia , Ericsson Stocks Are Tumbling . U . S . Telecom Companies Are Cutting Back . "
-gdelt,2023-07-14,ERIC-B.ST,-0.1068,2023-07-13 16:15 UTC,next open after 2023-07-14,Delhi High Court sets aside anti - trust proceedings against Ericsson and Monsanto
-gdelt,2026-06-17,BMW.DE,-0.0861,2026-06-17 14:45 UTC,next open after 2026-06-17,BMW warns of  significant  profit decline as shares fall 7 % 
-gdelt,2026-06-17,BMW.DE,-0.0861,2026-06-17 11:30 UTC,next open after 2026-06-17,BMW warns of  significant  profit decline as shares fall 7 % 
-gdelt,2024-08-02,ASM.AS,-0.1039,2024-08-02 09:00 UTC,next open after 2024-08-02,"Asian , European Chip Stocks Slump After Intel Performance Disappoints"
-gdelt,2024-08-02,ASM.AS,-0.1039,2024-08-02 09:00 UTC,next open after 2024-08-02,"European tech stocks fall to six - month low , join in global sell - off"
-gdelt,2026-06-09,ERIC-B.ST,-0.0626,2026-06-08 05:30 UTC,next open after 2026-06-09,Josef Newgarden denies Marcus Ericsson and wins at WWT Raceway
-gdelt,2026-06-09,ERIC-B.ST,-0.0626,2026-06-08 08:15 UTC,next open after 2026-06-09,Share buybacks in Ericsson during the period June 1
-gdelt,2026-06-23,ASM.AS,-0.0791,2026-06-23 17:15 UTC,next open after 2026-06-23,"FinancialContent - Marvell Technology , Himax , and IPG Photonics Stocks Trade Down , What You Need To Know"
-gdelt,2026-06-23,ASM.AS,-0.0791,2026-06-23 17:15 UTC,next open after 2026-06-23,"FinancialContent - Analog Devices and Microchip Technology Shares Plummet , What You Need To Know"
+source,signal_day,ticker,move,published,title
+newsweb,2026-06-25,ELMRA.OL,0.3435,2026-06-25 08:32 Oslo (pre-open),Elmera Group ASA: Receipt of non-binding indication of interest
+newsweb,2026-06-25,ELMRA.OL,0.3435,2026-06-25 08:30 Oslo (pre-open),Audax Renovables S.A. announces intention to launch a voluntary offer to acquire all shares in Elmera Group ASA 
+newsweb,2026-03-13,ZAL.OL,0.3179,2026-03-13 07:00 Oslo (pre-open),Agreement with Norvestor on recommended voluntary cash tender offer of NOK 100 per share to the shareholders of Zalaris ASA
+newsweb,2026-04-29,ACR.OL,-0.2939,2026-04-28 23:30 Oslo (after-close),Axactor ASA - Private placement successfully placed
+newsweb,2026-04-29,ACR.OL,-0.2939,2026-04-28 16:30 Oslo (after-close),Axactor ASA - Contemplated Private Placement
+newsweb,2024-05-30,VEND.OL,0.3376,2024-05-29 17:14 Oslo (after-close),Schibsted ASA (SCHA/SCHB) - First tranche of the special cash dividend approved
+newsweb,2026-02-03,LINK.OL,-0.2271,2026-02-02 17:24 Oslo (after-close),LINK Mobility: Q4 2025 Trading Update
+newsweb,2023-03-14,KOA.OL,-0.1995,2023-03-14 07:03 Oslo (pre-open),Kongsberg Automotive - Annual Report 2022
+newsweb,2023-03-14,KOA.OL,-0.1995,2023-03-14 07:00 Oslo (pre-open),"Kongsberg Automotive's full-year results in line with guidance, despite strong headwinds from inflation, supply-chain challenges, and slower"
+newsweb,2026-04-24,TOM.OL,-0.2744,2026-04-24 07:00 Oslo (pre-open),"TOMRA: 1Q26 - Strong growth in Collection and Food, profitability impacted by Recycling and short term product mix effects"
+newsweb,2026-03-23,ELO.OL,-0.2473,2026-03-22 14:36 Oslo (intraday),Elopak ASA: Clarifications related to timing of trading update for first quarter 2026
+newsweb,2026-03-23,ELO.OL,-0.2473,2026-03-20 17:46 Oslo (after-close),Elopak ASA: Trading update for first quarter 2026
+newsweb,2023-10-20,TOM.OL,-0.2436,2023-10-20 07:00 Oslo (pre-open),Continued margin improvement and solid revenue growth in Collection and Recycling in the third quarter 2023
+newsweb,2024-11-14,ALNG.OL,-0.2813,2024-11-14 08:00 Oslo (pre-open),Awilco LNG ASA – Third quarter 2024 results
+newsweb,2025-01-31,ELMRA.OL,-0.2318,2025-01-31 13:17 Oslo (intraday),Statement regarding the Norwegian Government’s proposals for the power market 
+newsweb,2023-06-13,YAR.OL,0.1502,2023-06-12 19:57 Oslo (after-close),Yara vedtar utbytte og velger styremedlemmer i tråd med valgkomiteens innstilling
+newsweb,2025-07-16,BAKKA.OL,-0.1722,2025-07-15 18:10 Oslo (after-close),Preliminary results and profit warning for Q2 2025
+newsweb,2023-11-07,LINK.OL,0.266,2023-11-07 07:00 Oslo (pre-open),LINK Mobility – Presentation related to Message Broadcast divestment
+newsweb,2023-11-07,LINK.OL,0.266,2023-11-07 04:35 Oslo (pre-open),LINK Mobility - Third quarter 2023 trading update – Full results release postponed
+newsweb,2024-09-26,NOD.OL,-0.2748,2024-09-26 07:00 Oslo (pre-open),"Nordic Semiconductor CMD – Driving growth, restoring profitability"
+newsweb,2025-10-30,KOG.OL,-0.1975,2025-10-30 08:50 Oslo (pre-open),Presentation material to pressconference
+newsweb,2025-10-30,KOG.OL,-0.1975,2025-10-30 08:50 Oslo (pre-open),Presentasjonsmateriale til pressekonferanse
+newsweb,2025-10-30,EPR.OL,-0.1286,2025-10-30 07:00 Oslo (pre-open),Solid quarter driven by strong performance in Norway
+newsweb,2023-02-23,JIN.OL,-0.2385,2023-02-23 05:09 Oslo (pre-open),PROFIT WARNING ANNOUNCEMENT
+newsweb,2024-02-15,TOM.OL,0.2689,2024-02-15 07:00 Oslo (pre-open),TOMRA: 4Q 2023 - All-time high revenues with strong performance in Collection and Recycling; Food restructuring on track
+newsweb,2024-03-22,MING.OL,0.0966,2024-03-21 19:02 Oslo (after-close),Vedtak i representantskapet
+newsweb,2024-03-22,MING.OL,0.0966,2024-03-21 19:02 Oslo (after-close),Resoultion in the supervisory board
+newsweb,2024-07-12,BINT.OL,0.2108,2024-07-12 07:00 Oslo (pre-open),KMC Properties ASA - Results for the second quarter and first half of 2024
+newsweb,2024-07-12,BINT.OL,0.2108,2024-07-11 18:00 Oslo (after-close),KMC PROPERTIES ASA – AMENDMENTS TO THE BOARD OF DIRECTORS
+newsweb,2023-03-31,NONG.OL,0.1005,2023-03-31 08:59 Oslo (pre-open),The Supervisory Board has at its meeting on 30 March 2023 adopted the following resolutions:
+newsweb,2023-03-31,NONG.OL,0.1005,2023-03-31 08:58 Oslo (pre-open),SpareBank 1 Nord-Norge: Vedtak i representantskapet
+newsweb,2025-08-19,MULTI.OL,-0.1213,2025-08-19 07:00 Oslo (pre-open),"Multiconsult second quarter and first half 2025 - a moderate second quarter, with increased M&A activity"
+newsweb,2025-02-12,STB.OL,-0.0957,2025-02-12 07:30 Oslo (pre-open),STOREBRAND ASA: Results for the fourth quarter of 2024
+newsweb,2025-02-12,STB.OL,-0.0957,2025-02-12 07:30 Oslo (pre-open),STOREBRAND ASA: Resultater for fjerde kvartal 2024
+newsweb,2022-12-23,ELMRA.OL,-0.2951,2022-12-23 07:30 Oslo (pre-open),Elmera Group and Telia enters into cooperation on mobile customers
+newsweb,2022-12-23,ELMRA.OL,-0.2951,2022-12-23 07:30 Oslo (pre-open),Elmera Group ASA – Trading update
+gdelt,2025-01-24,ERIC-B.ST,-0.1336,2025-01-25 00:15 UTC,"Ericsson India sales fall 53 % to Rs 11 , 732 crore in 2024"
+gdelt,2025-01-24,ERIC-B.ST,-0.1336,2025-01-24 10:15 UTC,"Ericsson posts 28 % on - year fall in Q4 sales in South East Asia , Oceania & India region , ET Telecom"
+gdelt,2023-11-03,MAERSK-B.CO,-0.1876,2023-11-04 00:00 UTC,Maersk charters more tonnage to catch up with MSC
+gdelt,2023-11-03,MAERSK-B.CO,-0.1876,2023-11-04 00:00 UTC,Import Reefer costs settlement process for port of Incheon container terminal
+gdelt,2024-09-10,BMW.DE,-0.11,2024-09-10 17:15 UTC,BMW Shares Tumble After Brake Problem Sparks Outlook Cut
+gdelt,2024-09-10,BMW.DE,-0.11,2024-09-10 19:45 UTC,BMW Shares Tumble After Brake Problem Sparks Outlook Cut
+gdelt,2025-10-28,NOKIA.HE,0.1908,2025-10-28 17:00 UTC,Nvidia $1 Billion Bet Aims To Transform Nokia Into The West Answer To Huawei
+gdelt,2025-10-28,NOKIA.HE,0.1908,2025-10-28 21:00 UTC,Nokia shares hit near 10 - year high
+gdelt,2024-10-04,HLAG.DE,-0.1834,2024-10-04 09:15 UTC,Shipping Stocks Tumble After U . S . Port Workers Agree to End Strike
+gdelt,2024-10-04,HLAG.DE,-0.1834,2024-10-03 21:30 UTC,Great Lakes cruise ship season winding down
+gdelt,2023-07-14,NOKIA.HE,-0.0923,,(no articles returned)

@@ -1,0 +1,31 @@
+/home/runner/work/nordnet-scraper/nordnet-scraper/intraday.py:28: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  & nw.category.fillna("").str.contains(MATERIAL_CATS) & ~nw.title.fillna("").str.contains(ROUTINE)]
+intraday: 176 announcements during trading hours in the last ~57 days
+{
+ "mid": {
+  "n": 4,
+  "median_minutes_to_50": 37.225750000000005,
+  "median_minutes_to_80": 47.225750000000005,
+  "share_of_move_left_after": {
+   "5min": 0.489,
+   "10min": 0.406,
+   "15min": 0.349,
+   "30min": 0.235,
+   "60min": 0.123,
+   "120min": 0.106
+  }
+ },
+ "small": {
+  "n": 8,
+  "median_minutes_to_50": 56.207233333333335,
+  "median_minutes_to_80": 70.13357500000001,
+  "share_of_move_left_after": {
+   "5min": 1.1,
+   "10min": 0.992,
+   "15min": 0.92,
+   "30min": 0.829,
+   "60min": 0.398,
+   "120min": 0.171
+  }
+ }
+}
