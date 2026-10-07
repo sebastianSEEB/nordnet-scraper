@@ -1,9 +1,23 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-10-07T13:53:48.747772+00:00",
+  "scraped_at": "2026-10-07T14:52:40.763517+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "06b0f269dc26cd99",
+      "author": "Holder Kanskje",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holder-kanskje",
+      "posted_relative": "for 49 min siden",
+      "text": "Hvor er stolt notert i USA",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

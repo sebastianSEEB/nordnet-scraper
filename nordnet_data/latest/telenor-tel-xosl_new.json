@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-07T13:58:55.697033+00:00",
+  "scraped_at": "2026-10-07T14:57:43.227467+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "49a14152599dd8a2",
+      "author": "PetterMK",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pettermk",
+      "posted_relative": "for 1 min siden",
+      "text": "Hvordan ser vi trusselbildet i Telekom-sektoren nå mtp Starlink?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }
