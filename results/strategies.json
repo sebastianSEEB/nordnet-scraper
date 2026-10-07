@@ -1,0 +1,590 @@
+{
+ "procedure": "Four slow strategies for a student investor, tested with a holdout.\n\nSame rules for all (fixed before looking at any result):\n  * Long-only (no shorting, as on a normal Nordnet account).\n  * Development: signals 2023-01-01 .. 2025-12-31.  Holdout: signals from 2026-01-01.\n    Each strategy has a small grid of settings; the one with the highest t-statistic on the\n    development period (min 30 trades / 24 months) is chosen and then run ONCE on the holdout.\n  * Costs: Nordnet Student (0.15% per side Nordic; 0.2% min 49 kr elsewhere + 0.15% currency)\n    plus the bid-ask spread by liquidity (0.05% / 0.4% / 1.5% round trip), on a 10 000 kr position.\n  * Results are measured as excess return over the equal-weight market of all stocks in the data,\n    using each stock's beta from the previous 252 days (past data only).\n  * Event strategies enter at the first opening price after the announcement was public\n    (pre-open or after-close announcements: that session's open; intraday: next day's open)\n    and exit at the close H trading days later. t-statistics are clustered by month.\n\n  A insider_buy  Oslo B\u00f8rs insiders buying their own company's shares (excluding share programmes,\n                 options, rights issues and other non-voluntary trades)\n  B buyback      Announcement that a share buyback programme is starting\n  C factor       Monthly portfolio of Nordic large/mid caps: 12-1 month momentum, low volatility,\n                 or both; rebalanced at month-end closes\n  D freight      Freight-rate ETFs (BDRY dry bulk, BWET tankers; US close, after Oslo closes)\n                 as a signal for Oslo-listed shipping stocks the next day\n",
+ "strategies": {
+  "A_insider_buy": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "hold": 20,
+      "liq": "all",
+      "cluster": 1
+     },
+     "trades": 432,
+     "gross": 0.0103,
+     "net": -0.0043,
+     "t": 0.36
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "liq": "all",
+      "cluster": 2
+     },
+     "trades": 196,
+     "gross": 0.0036,
+     "net": -0.01,
+     "t": -1.72
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "liq": "lm",
+      "cluster": 1
+     },
+     "trades": 129,
+     "gross": 0.0069,
+     "net": 0.0002,
+     "t": 0.16
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "liq": "lm",
+      "cluster": 2
+     },
+     "trades": 77,
+     "gross": 0.0052,
+     "net": -0.0014,
+     "t": 0.08
+    },
+    {
+     "setting": {
+      "hold": 60,
+      "liq": "all",
+      "cluster": 1
+     },
+     "trades": 432,
+     "gross": 0.0095,
+     "net": -0.0051,
+     "t": 0.11
+    },
+    {
+     "setting": {
+      "hold": 60,
+      "liq": "all",
+      "cluster": 2
+     },
+     "trades": 196,
+     "gross": 0.0047,
+     "net": -0.0089,
+     "t": -0.69
+    },
+    {
+     "setting": {
+      "hold": 60,
+      "liq": "lm",
+      "cluster": 1
+     },
+     "trades": 129,
+     "gross": 0.0192,
+     "net": 0.0125,
+     "t": 0.03
+    },
+    {
+     "setting": {
+      "hold": 60,
+      "liq": "lm",
+      "cluster": 2
+     },
+     "trades": 77,
+     "gross": 0.0253,
+     "net": 0.0187,
+     "t": 0.67
+    },
+    {
+     "setting": {
+      "hold": 120,
+      "liq": "all",
+      "cluster": 1
+     },
+     "trades": 432,
+     "gross": 0.0297,
+     "net": 0.0151,
+     "t": 1.38
+    },
+    {
+     "setting": {
+      "hold": 120,
+      "liq": "all",
+      "cluster": 2
+     },
+     "trades": 196,
+     "gross": 0.017,
+     "net": 0.0034,
+     "t": 0.22
+    },
+    {
+     "setting": {
+      "hold": 120,
+      "liq": "lm",
+      "cluster": 1
+     },
+     "trades": 129,
+     "gross": 0.0185,
+     "net": 0.0119,
+     "t": 0.11
+    },
+    {
+     "setting": {
+      "hold": 120,
+      "liq": "lm",
+      "cluster": 2
+     },
+     "trades": 77,
+     "gross": 0.0195,
+     "net": 0.0129,
+     "t": 0.1
+    }
+   ],
+   "chosen": {
+    "hold": 120,
+    "liq": "all",
+    "cluster": 1
+   },
+   "dev": {
+    "setting": {
+     "hold": 120,
+     "liq": "all",
+     "cluster": 1
+    },
+    "trades": 432,
+    "gross": 0.0297,
+    "net": 0.0151,
+    "t": 1.38
+   },
+   "holdout": {
+    "trades": 21,
+    "gross": -0.0605,
+    "net": -0.0734,
+    "win": 0.381,
+    "raw": 0.0318,
+    "t": -2.76
+   }
+  },
+  "B_buyback": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "hold": 20,
+      "liq": "all"
+     },
+     "trades": 97,
+     "gross": 0.0115,
+     "net": -0.0028,
+     "t": -0.08
+    },
+    {
+     "setting": {
+      "hold": 20,
+      "liq": "lm"
+     },
+     "trades": 30,
+     "gross": 0.0218,
+     "net": 0.0158,
+     "t": 1.52
+    },
+    {
+     "setting": {
+      "hold": 60,
+      "liq": "all"
+     },
+     "trades": 97,
+     "gross": 0.0112,
+     "net": -0.0031,
+     "t": -0.39
+    },
+    {
+     "setting": {
+      "hold": 60,
+      "liq": "lm"
+     },
+     "trades": 30,
+     "gross": 0.0194,
+     "net": 0.0135,
+     "t": 0.67
+    },
+    {
+     "setting": {
+      "hold": 120,
+      "liq": "all"
+     },
+     "trades": 97,
+     "gross": 0.0278,
+     "net": 0.0136,
+     "t": -0.11
+    },
+    {
+     "setting": {
+      "hold": 120,
+      "liq": "lm"
+     },
+     "trades": 30,
+     "gross": 0.0321,
+     "net": 0.0262,
+     "t": 0.86
+    }
+   ],
+   "chosen": {
+    "hold": 20,
+    "liq": "lm"
+   },
+   "dev": {
+    "setting": {
+     "hold": 20,
+     "liq": "lm"
+    },
+    "trades": 30,
+    "gross": 0.0218,
+    "net": 0.0158,
+    "t": 1.52
+   },
+   "holdout": {
+    "trades": 11,
+    "gross": -0.028,
+    "net": -0.0343,
+    "win": 0.091,
+    "raw": -0.0222,
+    "t": -1.64
+   }
+  },
+  "C_factor": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "kind": "momentum",
+      "n": 10
+     },
+     "trades": 34,
+     "gross": -0.0036,
+     "net": -0.0054,
+     "t": -1.02
+    },
+    {
+     "setting": {
+      "kind": "momentum",
+      "n": 20
+     },
+     "trades": 34,
+     "gross": -0.004,
+     "net": -0.0051,
+     "t": -1.78
+    },
+    {
+     "setting": {
+      "kind": "lowvol",
+      "n": 10
+     },
+     "trades": 34,
+     "gross": 0.0032,
+     "net": 0.0022,
+     "t": 0.51
+    },
+    {
+     "setting": {
+      "kind": "lowvol",
+      "n": 20
+     },
+     "trades": 34,
+     "gross": 0.0043,
+     "net": 0.0038,
+     "t": 1.4
+    },
+    {
+     "setting": {
+      "kind": "both",
+      "n": 10
+     },
+     "trades": 34,
+     "gross": 0.0028,
+     "net": 0.0016,
+     "t": 0.37
+    },
+    {
+     "setting": {
+      "kind": "both",
+      "n": 20
+     },
+     "trades": 34,
+     "gross": 0.0022,
+     "net": 0.0014,
+     "t": 0.44
+    }
+   ],
+   "chosen": {
+    "kind": "lowvol",
+    "n": 20
+   },
+   "dev": {
+    "setting": {
+     "kind": "lowvol",
+     "n": 20
+    },
+    "trades": 34,
+    "gross": 0.0043,
+    "net": 0.0038,
+    "t": 1.4
+   },
+   "holdout": {
+    "trades": 8,
+    "gross": -0.0081,
+    "net": -0.0091,
+    "win": 0.375,
+    "raw": 0.0096,
+    "t": -1.12
+   }
+  },
+  "D_freight": {
+   "tried_on_dev": [
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 1,
+      "hold": 1,
+      "thr": 0.0
+     },
+     "trades": 490,
+     "gross": -0.0014,
+     "net": -0.0194,
+     "t": -21.93
+    },
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 1,
+      "hold": 1,
+      "thr": 0.02
+     },
+     "trades": 272,
+     "gross": -0.0008,
+     "net": -0.0188,
+     "t": -16.29
+    },
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 1,
+      "hold": 5,
+      "thr": 0.0
+     },
+     "trades": 171,
+     "gross": -0.0021,
+     "net": -0.0201,
+     "t": -8.04
+    },
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 1,
+      "hold": 5,
+      "thr": 0.02
+     },
+     "trades": 132,
+     "gross": -0.0034,
+     "net": -0.0214,
+     "t": -8.14
+    },
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 5,
+      "hold": 1,
+      "thr": 0.0
+     },
+     "trades": 474,
+     "gross": -0.0016,
+     "net": -0.0196,
+     "t": -18.03
+    },
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 5,
+      "hold": 1,
+      "thr": 0.02
+     },
+     "trades": 348,
+     "gross": -0.0008,
+     "net": -0.0188,
+     "t": -15.1
+    },
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 5,
+      "hold": 5,
+      "thr": 0.0
+     },
+     "trades": 127,
+     "gross": 0.0001,
+     "net": -0.0179,
+     "t": -5.78
+    },
+    {
+     "setting": {
+      "seg": "dry",
+      "k": 5,
+      "hold": 5,
+      "thr": 0.02
+     },
+     "trades": 106,
+     "gross": 0.0043,
+     "net": -0.0137,
+     "t": -4.44
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 1,
+      "hold": 1,
+      "thr": 0.0
+     },
+     "trades": 314,
+     "gross": 0.0003,
+     "net": -0.0101,
+     "t": -7.18
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 1,
+      "hold": 1,
+      "thr": 0.02
+     },
+     "trades": 147,
+     "gross": 0.0017,
+     "net": -0.0086,
+     "t": -5.66
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 1,
+      "hold": 5,
+      "thr": 0.0
+     },
+     "trades": 109,
+     "gross": 0.0022,
+     "net": -0.0081,
+     "t": -2.31
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 1,
+      "hold": 5,
+      "thr": 0.02
+     },
+     "trades": 79,
+     "gross": 0.0024,
+     "net": -0.0079,
+     "t": -2.33
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 5,
+      "hold": 1,
+      "thr": 0.0
+     },
+     "trades": 322,
+     "gross": 0.0005,
+     "net": -0.0098,
+     "t": -12.8
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 5,
+      "hold": 1,
+      "thr": 0.02
+     },
+     "trades": 244,
+     "gross": 0.0007,
+     "net": -0.0096,
+     "t": -11.87
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 5,
+      "hold": 5,
+      "thr": 0.0
+     },
+     "trades": 91,
+     "gross": 0.003,
+     "net": -0.0073,
+     "t": -2.3
+    },
+    {
+     "setting": {
+      "seg": "tank",
+      "k": 5,
+      "hold": 5,
+      "thr": 0.02
+     },
+     "trades": 70,
+     "gross": 0.0055,
+     "net": -0.0048,
+     "t": -1.56
+    }
+   ],
+   "chosen": {
+    "seg": "tank",
+    "k": 5,
+    "hold": 5,
+    "thr": 0.02
+   },
+   "dev": {
+    "setting": {
+     "seg": "tank",
+     "k": 5,
+     "hold": 5,
+     "thr": 0.02
+    },
+    "trades": 70,
+    "gross": 0.0055,
+    "net": -0.0048,
+    "t": -1.56
+   },
+   "holdout": {
+    "trades": 35,
+    "gross": 0.0118,
+    "net": 0.0057,
+    "win": 0.6,
+    "raw": 0.0167,
+    "t": 0.66
+   }
+  }
+ },
+ "insider_classification": {
+  "messages": 8406,
+  "with_text": 8406,
+  "classified_buys": 2748,
+  "sample_buys": [
+   "RomReal: Mandatory notification of insider trade - Chairman and CEO of RomReal Kjetil Gronskag",
+   "Mandatory notification of trade",
+   "Meldepliktig handel",
+   "Techstep ASA - Primary insider notification",
+   "Meldepliktig handel",
+   "BerGenBio - Mandatory notification of trade by Primary Insiders",
+   "Fr\u00f8y ASA: Mandatory notification of trade by primary insider",
+   "Fr\u00f8y ASA: Mandatory notification of trade by primary insider"
+  ]
+ },
+ "buyback_classification": {
+  "announcements": 334,
+  "tradable": 207,
+  "sample": [
+   "Hexagon Composites ASA initiates share buy-back program",
+   "Huddly AS - The board of directors of Huddly AS has resolved a programme for repurchase of own shares",
+   "CANOPY HOLDINGS AS - Initiation of Share Buyback Program",
+   "Sparebanken M\u00f8re \u2013 Initiate share buyback program",
+   "Nordea announces ECB approval of share buy-back application",
+   "Initiation of share repurchase program",
+   "Rana Gruber AS \u2013 Initiation of share buyback program",
+   "Pexip Holding ASA - Initiation of Share Buyback Program",
+   "Equinor commences first tranche of the 2022 share buy-back programme",
+   "AF Gruppen ASA initiates share buyback program"
+  ]
+ }
+}
