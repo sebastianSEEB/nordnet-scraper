@@ -11,22 +11,51 @@ permissions:
 
 concurrency:
   group: ripple-backtest
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
-  backtest:
+  base:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install
-        run: pip install -q yfinance pandas numpy requests matplotlib
-      - name: Run
-        run: bash run.sh
-      - name: Commit results
+        with: {python-version: '3.11'}
+      - run: pip install -q yfinance pandas requests
+      - run: python -u fetch_data.py base
+      - uses: actions/upload-artifact@v4
+        with: {name: data-base, path: "data/*.*", retention-days: 3}
+
+  gdelt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix: {part: [0, 1, 2, 3, 4]}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q pandas requests
+      - run: python -u fetch_data.py gdelt ${{ matrix.part }} 5
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: "gdelt-${{ matrix.part }}", path: "data/gdelt_${{ matrix.part }}.csv.gz", retention-days: 3, if-no-files-found: ignore}
+
+  backtest:
+    needs: [base, gdelt]
+    if: always() && needs.base.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q pandas numpy requests matplotlib
+      - uses: actions/download-artifact@v4
+        with: {path: data, merge-multiple: true}
+      - run: mkdir -p results && python -u backtest.py 2>&1 | tee results/log.txt
+      - name: Commit data and results
         if: always()
         run: |
           git config user.name "github-actions[bot]"
