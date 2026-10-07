@@ -1,0 +1,717 @@
+{
+ "params": {
+  "lookback": 252,
+  "rebuild": 21,
+  "min_link": 0.25,
+  "max_links": 8,
+  "news_min": 3,
+  "news_vz": 2.0,
+  "tone_dev": 0.75,
+  "price_z": 1.5,
+  "newsweb_z": 2.0,
+  "min_expected": 0.004,
+  "lag_frac": 0.5,
+  "min_peers": 2,
+  "max_peers": 5,
+  "hold": 5,
+  "cost": 0.003,
+  "red_day": -0.01,
+  "bad_ret": 0.4,
+  "close_local": "16:20"
+ },
+ "sanity": {
+  "tickers": 146,
+  "dropped_short_history": [
+   "CAPT.OL",
+   "CMBTO.OL",
+   "GENO.OL",
+   "KMAR.OL"
+  ],
+  "days": 1223,
+  "first": "2022-01-03",
+  "last": "2026-10-07",
+  "weekend_dates": 0,
+  "missing_open_share": 0.0516,
+  "extreme_moves_removed": [
+   [
+    "2022-06-22",
+    "TRMED.OL",
+    -0.808
+   ],
+   [
+    "2022-07-06",
+    "TRMED.OL",
+    -0.511
+   ],
+   [
+    "2022-08-01",
+    "TRMED.OL",
+    0.463
+   ],
+   [
+    "2022-08-23",
+    "HUNT.OL",
+    -0.529
+   ],
+   [
+    "2022-08-24",
+    "HUNT.OL",
+    1.018
+   ],
+   [
+    "2023-01-30",
+    "HUNT.OL",
+    -1.075
+   ],
+   [
+    "2023-02-02",
+    "HUNT.OL",
+    0.559
+   ],
+   [
+    "2023-06-07",
+    "TRMED.OL",
+    0.499
+   ],
+   [
+    "2023-06-08",
+    "TRMED.OL",
+    0.576
+   ],
+   [
+    "2023-06-12",
+    "TRMED.OL",
+    -0.433
+   ],
+   [
+    "2023-06-13",
+    "TRMED.OL",
+    0.472
+   ],
+   [
+    "2023-10-03",
+    "CRNA.OL",
+    3.347
+   ],
+   [
+    "2023-10-04",
+    "CRNA.OL",
+    -3.383
+   ],
+   [
+    "2023-11-09",
+    "HUNT.OL",
+    0.693
+   ],
+   [
+    "2023-12-22",
+    "TRMED.OL",
+    0.405
+   ],
+   [
+    "2024-04-17",
+    "CRNA.OL",
+    -0.532
+   ],
+   [
+    "2024-05-23",
+    "CRNA.OL",
+    0.586
+   ],
+   [
+    "2024-05-24",
+    "CRNA.OL",
+    0.588
+   ],
+   [
+    "2024-05-29",
+    "CRNA.OL",
+    -0.716
+   ],
+   [
+    "2024-08-21",
+    "NYKD.OL",
+    -0.636
+   ],
+   [
+    "2024-10-24",
+    "CRNA.OL",
+    1.378
+   ],
+   [
+    "2024-11-08",
+    "NYKD.OL",
+    -0.581
+   ],
+   [
+    "2024-11-25",
+    "AKSO.OL",
+    -0.525
+   ],
+   [
+    "2024-11-25",
+    "TRMED.OL",
+    -0.494
+   ],
+   [
+    "2025-01-09",
+    "PRS.OL",
+    0.492
+   ],
+   [
+    "2025-01-13",
+    "HUNT.OL",
+    0.456
+   ],
+   [
+    "2025-02-07",
+    "BINT.OL",
+    0.437
+   ],
+   [
+    "2025-02-12",
+    "BINT.OL",
+    0.983
+   ],
+   [
+    "2025-02-14",
+    "BINT.OL",
+    -0.478
+   ],
+   [
+    "2025-02-17",
+    "BINT.OL",
+    -1.046
+   ],
+   [
+    "2025-02-18",
+    "BINT.OL",
+    0.644
+   ],
+   [
+    "2025-04-28",
+    "BINT.OL",
+    0.45
+   ],
+   [
+    "2025-05-13",
+    "PRS.OL",
+    0.436
+   ],
+   [
+    "2025-05-26",
+    "BINT.OL",
+    0.818
+   ],
+   [
+    "2025-05-27",
+    "BINT.OL",
+    -0.435
+   ],
+   [
+    "2025-06-03",
+    "BINT.OL",
+    0.667
+   ],
+   [
+    "2025-10-02",
+    "BINT.OL",
+    0.441
+   ],
+   [
+    "2025-10-08",
+    "CRNA.OL",
+    0.715
+   ],
+   [
+    "2025-11-18",
+    "CRNA.OL",
+    0.501
+   ],
+   [
+    "2026-04-29",
+    "2020.OL",
+    -3.307
+   ]
+  ],
+  "n_extreme": 44,
+  "newsweb_messages": 37110,
+  "newsweb_material": 16215,
+  "newsweb_tickers": 118,
+  "newsweb_after_close_share": 0.161,
+  "gdelt_tickers": 25,
+  "top_categories": {
+   "ADDITIONAL REGULATED INFORMATION REQUIRED TO BE DISCLOSED UNDER THE LAWS OF A MEMBER STATE": 12326,
+   "ADJUSTMENT OF INTEREST RATE": 4568,
+   "NON-REGULATORY PRESS RELEASES": 4500,
+   "MANAGERS\u2019 TRANSACTION": 3827,
+   "ACQUISITION OR DISPOSAL OF AN ISSUER'S OWN SHARES": 3206,
+   "HALF YEAR FINANCIAL REPORT": 2538,
+   "MAJOR SHAREHOLDINGS NOTIFICATION": 1843,
+   "INSIDE INFORMATION": 1467,
+   "EX DATE": 1050,
+   "ANNUAL FINANCIAL REPORT": 801,
+   "TOTAL NUMBER OF VOTING RIGHTS AND CAPITAL": 554,
+   "CHANGES IN THE RIGHTS ATTACHING TO SHARES OR SECURITIES OTHER THAN SHARES": 174
+  }
+ },
+ "n_events": 1541,
+ "n_placebo_events": 476,
+ "modes": {
+  "ripple": {
+   "trades": 1584,
+   "signal_days": 327,
+   "mean_gross": 0.00219,
+   "mean_net": -0.00081,
+   "win": 0.473,
+   "t_stat": -0.53,
+   "yearly": {
+    "2022": {
+     "n": 2,
+     "mean_net": -0.00832
+    },
+    "2023": {
+     "n": 430,
+     "mean_net": -0.00363
+    },
+    "2024": {
+     "n": 350,
+     "mean_net": -0.00069
+    },
+    "2025": {
+     "n": 481,
+     "mean_net": -0.00264
+    },
+    "2026": {
+     "n": 321,
+     "mean_net": 0.00563
+    }
+   }
+  },
+  "rebound": {
+   "trades": 443,
+   "signal_days": 119,
+   "mean_gross": -0.00705,
+   "mean_net": -0.01005,
+   "win": 0.411,
+   "t_stat": -3.2,
+   "yearly": {
+    "2023": {
+     "n": 89,
+     "mean_net": -0.01059
+    },
+    "2024": {
+     "n": 92,
+     "mean_net": -0.02143
+    },
+    "2025": {
+     "n": 129,
+     "mean_net": -0.00791
+    },
+    "2026": {
+     "n": 133,
+     "mean_net": -0.00388
+    }
+   }
+  },
+  "drift_A": {
+   "trades": 1541,
+   "signal_days": 630,
+   "mean_gross": 0.00311,
+   "mean_net": 0.00011,
+   "win": 0.495,
+   "t_stat": -0.27,
+   "yearly": {
+    "2022": {
+     "n": 1,
+     "mean_net": -0.02131
+    },
+    "2023": {
+     "n": 392,
+     "mean_net": -0.00399
+    },
+    "2024": {
+     "n": 411,
+     "mean_net": 0.00299
+    },
+    "2025": {
+     "n": 410,
+     "mean_net": 0.00229
+    },
+    "2026": {
+     "n": 327,
+     "mean_net": -0.00128
+    }
+   }
+  }
+ },
+ "placebo": {
+  "ripple": {
+   "trades": 383,
+   "signal_days": 108,
+   "mean_gross": 0.0046,
+   "mean_net": 0.0016,
+   "win": 0.496,
+   "t_stat": 0.78,
+   "yearly": {
+    "2023": {
+     "n": 94,
+     "mean_net": 0.00481
+    },
+    "2024": {
+     "n": 102,
+     "mean_net": -0.00067
+    },
+    "2025": {
+     "n": 114,
+     "mean_net": -0.00065
+    },
+    "2026": {
+     "n": 73,
+     "mean_net": 0.00414
+    }
+   }
+  },
+  "rebound": {
+   "trades": 277,
+   "signal_days": 71,
+   "mean_gross": 0.00822,
+   "mean_net": 0.00522,
+   "win": 0.531,
+   "t_stat": 0.87,
+   "yearly": {
+    "2023": {
+     "n": 36,
+     "mean_net": 0.01181
+    },
+    "2024": {
+     "n": 55,
+     "mean_net": -0.00156
+    },
+    "2025": {
+     "n": 87,
+     "mean_net": -0.00283
+    },
+    "2026": {
+     "n": 99,
+     "mean_net": 0.01367
+    }
+   }
+  },
+  "drift_A": {
+   "trades": 476,
+   "signal_days": 341,
+   "mean_gross": -0.0023,
+   "mean_net": -0.0053,
+   "win": 0.45,
+   "t_stat": -1.59,
+   "yearly": {
+    "2022": {
+     "n": 1,
+     "mean_net": 0.03306
+    },
+    "2023": {
+     "n": 122,
+     "mean_net": -0.00849
+    },
+    "2024": {
+     "n": 141,
+     "mean_net": -0.00682
+    },
+    "2025": {
+     "n": 121,
+     "mean_net": -0.00306
+    },
+    "2026": {
+     "n": 91,
+     "mean_net": -0.00206
+    }
+   }
+  }
+ },
+ "ripple_by_source": {
+  "gdelt": {
+   "trades": 114,
+   "signal_days": 28,
+   "mean_gross": -0.0017,
+   "mean_net": -0.0047,
+   "win": 0.447,
+   "t_stat": -1.76,
+   "yearly": {
+    "2023": {
+     "n": 30,
+     "mean_net": 0.00527
+    },
+    "2024": {
+     "n": 23,
+     "mean_net": -0.00407
+    },
+    "2025": {
+     "n": 54,
+     "mean_net": -0.00889
+    },
+    "2026": {
+     "n": 7,
+     "mean_net": -0.01719
+    }
+   }
+  },
+  "newsweb": {
+   "trades": 1470,
+   "signal_days": 307,
+   "mean_gross": 0.00249,
+   "mean_net": -0.00051,
+   "win": 0.475,
+   "t_stat": -0.3,
+   "yearly": {
+    "2022": {
+     "n": 2,
+     "mean_net": -0.00832
+    },
+    "2023": {
+     "n": 400,
+     "mean_net": -0.0043
+    },
+    "2024": {
+     "n": 327,
+     "mean_net": -0.00045
+    },
+    "2025": {
+     "n": 427,
+     "mean_net": -0.00185
+    },
+    "2026": {
+     "n": 314,
+     "mean_net": 0.00614
+    }
+   }
+  }
+ },
+ "red_day": {
+  "good_news_red_day": {
+   "trades": 36,
+   "signal_days": 9,
+   "mean_gross": 0.00247,
+   "mean_net": -0.00053,
+   "win": 0.444,
+   "t_stat": -0.0,
+   "yearly": {
+    "2023": {
+     "n": 11,
+     "mean_net": 0.01487
+    },
+    "2024": {
+     "n": 12,
+     "mean_net": -0.00681
+    },
+    "2025": {
+     "n": 7,
+     "mean_net": -0.01088
+    },
+    "2026": {
+     "n": 6,
+     "mean_net": -0.0041
+    }
+   }
+  },
+  "good_news_other_days": {
+   "trades": 776,
+   "signal_days": 183,
+   "mean_gross": -0.00038,
+   "mean_net": -0.00338,
+   "win": 0.432,
+   "t_stat": -2.13,
+   "yearly": {
+    "2023": {
+     "n": 186,
+     "mean_net": -0.01008
+    },
+    "2024": {
+     "n": 175,
+     "mean_net": -0.00154
+    },
+    "2025": {
+     "n": 240,
+     "mean_net": -0.00658
+    },
+    "2026": {
+     "n": 175,
+     "mean_net": 0.00628
+    }
+   }
+  },
+  "bad_news": {
+   "trades": 772,
+   "signal_days": 187,
+   "mean_gross": 0.00476,
+   "mean_net": 0.00176,
+   "win": 0.516,
+   "t_stat": 0.56,
+   "yearly": {
+    "2022": {
+     "n": 2,
+     "mean_net": -0.00832
+    },
+    "2023": {
+     "n": 233,
+     "mean_net": 0.00064
+    },
+    "2024": {
+     "n": 163,
+     "mean_net": 0.00067
+    },
+    "2025": {
+     "n": 234,
+     "mean_net": 0.00163
+    },
+    "2026": {
+     "n": 140,
+     "mean_net": 0.00523
+    }
+   }
+  }
+ },
+ "rebound_split": {
+  "after_bad_news": {
+   "trades": 223,
+   "signal_days": 64,
+   "mean_gross": -0.00521,
+   "mean_net": -0.00821,
+   "win": 0.435,
+   "t_stat": -1.92,
+   "yearly": {
+    "2023": {
+     "n": 40,
+     "mean_net": -0.01096
+    },
+    "2024": {
+     "n": 53,
+     "mean_net": -0.02311
+    },
+    "2025": {
+     "n": 59,
+     "mean_net": -0.00823
+    },
+    "2026": {
+     "n": 71,
+     "mean_net": 0.00447
+    }
+   }
+  },
+  "after_good_news": {
+   "trades": 220,
+   "signal_days": 65,
+   "mean_gross": -0.0089,
+   "mean_net": -0.0119,
+   "win": 0.386,
+   "t_stat": -2.93,
+   "yearly": {
+    "2023": {
+     "n": 49,
+     "mean_net": -0.0103
+    },
+    "2024": {
+     "n": 39,
+     "mean_net": -0.01913
+    },
+    "2025": {
+     "n": 70,
+     "mean_net": -0.00765
+    },
+    "2026": {
+     "n": 62,
+     "mean_net": -0.01343
+    }
+   }
+  }
+ },
+ "alignment": {
+  "newsweb_pre-open": {
+   "n": 7575,
+   "mapped": {
+    "-3": 1.52,
+    "-2": 1.543,
+    "-1": 1.6,
+    "0": 2.982,
+    "1": 1.885,
+    "2": 1.72,
+    "3": 1.591
+   },
+   "naive_calendar_date": {
+    "-3": 1.52,
+    "-2": 1.544,
+    "-1": 1.598,
+    "0": 2.962,
+    "1": 1.904,
+    "2": 1.723,
+    "3": 1.591
+   }
+  },
+  "newsweb_intraday": {
+   "n": 6264,
+   "mapped": {
+    "-3": 1.399,
+    "-2": 1.41,
+    "-1": 1.391,
+    "0": 1.684,
+    "1": 1.547,
+    "2": 1.447,
+    "3": 1.405
+   },
+   "naive_calendar_date": {
+    "-3": 1.399,
+    "-2": 1.41,
+    "-1": 1.391,
+    "0": 1.684,
+    "1": 1.547,
+    "2": 1.447,
+    "3": 1.405
+   }
+  },
+  "newsweb_after-close": {
+   "n": 2376,
+   "mapped": {
+    "-3": 1.652,
+    "-2": 1.621,
+    "-1": 1.858,
+    "0": 2.81,
+    "1": 1.748,
+    "2": 1.677,
+    "3": 1.664
+   },
+   "naive_calendar_date": {
+    "-3": 1.775,
+    "-2": 1.652,
+    "-1": 1.617,
+    "0": 1.886,
+    "1": 2.766,
+    "2": 1.765,
+    "3": 1.679
+   }
+  },
+  "newsweb_routine_messages": {
+   "n": 20895,
+   "mapped": {
+    "-3": 1.514,
+    "-2": 1.531,
+    "-1": 1.672,
+    "0": 1.873,
+    "1": 1.571,
+    "2": 1.523,
+    "3": 1.506
+   }
+  },
+  "gdelt_spikes": {
+   "n": 878,
+   "mapped": {
+    "-3": 1.398,
+    "-2": 1.376,
+    "-1": 1.533,
+    "0": 2.042,
+    "1": 1.527,
+    "2": 1.338,
+    "3": 1.336
+   }
+  }
+ }
+}
