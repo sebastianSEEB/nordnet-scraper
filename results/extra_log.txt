@@ -1,0 +1,18 @@
+freight: {'BDRY': 2148, 'BWET': 861, 'SPY': 2203} 2018-01-02 2026-10-07
+  500 bodies
+  1000 bodies
+  1500 bodies
+  2000 bodies
+  2500 bodies
+  3000 bodies
+  3500 bodies
+  4000 bodies
+  4500 bodies
+  5000 bodies
+  5500 bodies
+  6000 bodies
+  6500 bodies
+  7000 bodies
+  7500 bodies
+  8000 bodies
+insider bodies: 8406 | sample raw: {"header":{"OB_REQUEST_ID":"194508ad-d9d7-49dc-a0d4-bd6fed21c2fa","result.val":0,"http.code":200,"result.text":"OK"},"data":{"message":{"id":550708,"messageId":550708,"newsId":502198,"title":"Salmon Evolution ASA: Exercise of options by primary insiders and PDMR notifications","body":"Reference is made to the employee share option program in Salmon Evolution ASA\n(the \"Company\") implemented in 2020 in connection to the Company's admission to\ntrading on Euronext Growth and involving a total of 1,625,000 share options with\nan average strike price of NOK 4.80 (the \"2020 Program\").\n\nAll 1,
