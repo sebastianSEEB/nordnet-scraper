@@ -1,54 +1,38 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-07T14:54:10.364169+00:00",
+  "scraped_at": "2026-10-07T20:19:09.328715+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "629d721278a36747",
-      "author": "zappaphone",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Ny short økning fra Citadel Advisors: 1 248 877 \t1,42% \t06.10.2026 1 163 979 \t1,32% \t02.10.2026 1 124 219 \t1,28% \t01.10.2026 https://ssr.finanstilsynet.no/Home/Details/NO0010713936 Vis 1 kommentar til",
+      "key": "5be1a04678014417",
+      "author": "Sebastian LF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sebastian-lf",
+      "posted_relative": "for 5 t siden",
+      "text": "For min egen lærings skyld: idag har det vært en dip og jeg ser at det ligger en del kjøpsordre i øvre sjiktet for imorgen på 64-65.  Er det typisk metodikk som skjer hver dag blant spekulanter, hvor noen rett og slett bare prøver seg eller kan det tyde på at noen leser at Zaptec skal åpne med rekyl imorgen? Eller så klart, av andre grunner som jeg ikke vet om. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        1,
         2
       ],
-      "links": [
-        "https://ssr.finanstilsynet.no/Home/Details/NO0010713936"
-      ],
-      "char_count": 200,
-      "has_link": true
+      "links": [],
+      "char_count": 383,
+      "has_link": false
     },
     {
-      "key": "d5abaa135c4b5906",
-      "author": "Sebastian LF",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sebastian-lf",
-      "posted_relative": "for 1 min siden",
-      "text": "For min egen lærings skyld: idag har det vært en dip og jeg ser at det ligger en del kjøpsordre i øvre sjiktet for imorgen på 64-65.  Er det typisk metodikk som skjer hver dag blant spekulanter, hvor noen rett og slett bare prøver seg eller kan det tyde på at noen leser at Zaptec skal åpne med rekyl imorgen? Eller så klart, av andre grunner som jeg ikke vet om.",
+      "key": "dbd83e4dab039a54",
+      "author": "Znote",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/znote",
+      "posted_relative": "for 1 t siden",
+      "text": "· Kan ikke klage på en nedgang på 5% etter en økning på 150% YTD",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 363,
-      "has_link": false
-    },
-    {
-      "key": "e95251c0fe123667",
-      "author": "jack h",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jack-h",
-      "posted_relative": "for 55 min siden",
-      "text": "hvordan skal dem klare det uten et hopp???",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 42,
+      "char_count": 64,
       "has_link": false
     }
   ]

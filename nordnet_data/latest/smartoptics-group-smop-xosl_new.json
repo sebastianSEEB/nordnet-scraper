@@ -1,9 +1,27 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-10-07T14:59:00.739581+00:00",
+  "scraped_at": "2026-10-07T20:23:54.602283+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d239d1fba25ccecb",
+      "author": "Finansfranz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/finansfranz",
+      "posted_relative": null,
+      "text": "3. okt. https://www.finansavisen.no/teknologi/2026/10/03/8385067/satser-milliarder-pa-ai-kabler-under-havet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/10/03/8385067/satser-milliarder-pa-ai-kabler-under-havet"
+      ],
+      "char_count": 107,
+      "has_link": true
+    }
+  ]
 }

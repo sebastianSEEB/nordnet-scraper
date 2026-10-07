@@ -1,40 +1,9 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-07T14:56:25.657659+00:00",
+  "scraped_at": "2026-10-07T20:21:22.990638+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "76d44b464fa2181a",
-      "author": "anderssol",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anderssol",
-      "posted_relative": "for 41 min siden",
-      "text": "Kommer til å overgå estimatene i morgen + positive til markedet. 5-10% pluss i morgen. Burde handles til en tidlig oppstyklus 150-200kr området.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 144,
-      "has_link": false
-    },
-    {
-      "key": "014bd5064a34e327",
-      "author": "Backtrader",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/backtrader",
-      "posted_relative": "for 32 min siden",
-      "text": "Det var jo uvanlig optimistisk til DNB å være.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 46,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

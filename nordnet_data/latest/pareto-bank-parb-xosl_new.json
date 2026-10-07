@@ -1,9 +1,23 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-07T14:58:52.949608+00:00",
+  "scraped_at": "2026-10-07T20:23:47.098730+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8cbe539cb57e14eb",
+      "author": "Dantor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dantor",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva tenker dere om denne på langt sikt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

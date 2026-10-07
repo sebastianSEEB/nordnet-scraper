@@ -1,9 +1,25 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-07T14:55:43.240267+00:00",
+  "scraped_at": "2026-10-07T20:20:41.428277+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "960564266aeb9663",
+      "author": "BurgerKing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/burgerking",
+      "posted_relative": null,
+      "text": "3. okt. Jeg vil anta det. Tror ikke etterspørselen etter kompetanse kommer til å minke med inntoget av AI, men det er min spådom. Når en ser på 10 års historikk på en rekke parametere så ser Bouvet ut som et kvalitetsselskap",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 224,
+      "has_link": false
+    }
+  ]
 }

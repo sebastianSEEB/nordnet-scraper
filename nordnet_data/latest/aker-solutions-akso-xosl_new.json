@@ -1,9 +1,25 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-07T14:54:56.821868+00:00",
+  "scraped_at": "2026-10-07T20:19:55.212075+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "185fdfd513b10c7c",
+      "author": "Herobrain4x",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herobrain4x",
+      "posted_relative": "for 2 t siden",
+      "text": "Entr har fått en ny kontrakt i Canada knyttet til utvikling av transmisjonsløsninger for fremtidige havvindprosjekter i Nova Scotia. Økonomisk er kontrakten trolig begrenset i seg selv, men den er interessant som inngang til et nytt marked og kan potensielt gi større oppdrag senere. Link til nyheten under for de som vil lese mer. https://energynews.pro/en/aker-solutions-entr-wins-its-first-offshore-wind-study-contract-in-canada",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://energynews.pro/en/aker-solutions-entr-wins-its-first-offshore-wind-study-contract-in-canada"
+      ],
+      "char_count": 431,
+      "has_link": true
+    }
+  ]
 }

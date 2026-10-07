@@ -1,50 +1,96 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-07T14:57:19.839024+00:00",
+  "scraped_at": "2026-10-07T20:22:16.035937+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "d141b22caeeef2b8",
-      "author": "heltOK",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltok",
-      "posted_relative": "for 6 min siden",
-      "text": "Ikke ironisk. I en såpass bull aksje som Hunter er det ikke uvanlig at det blir satt store blokker for å holde kursen nede slik at man kan komme seg inn med større volum. De store handler sånn noen ganger, mens vi ser på det som utelukkende negativt. Tror ikke man skal se på dette som en negativ greie- bare min mening da",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 322,
-      "has_link": false
-    },
-    {
-      "key": "5b4757fec580f1d5",
-      "author": "bahiom",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
-      "posted_relative": "for 1 t siden",
-      "text": "@Shippinganalytiker; hva er det mest sammenlignbare selskapet til Hunter som kan handles på børs? Vis 1 kommentar til",
+      "key": "72c529e06d1adf9f",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Her satses det og den gamle ringreven Fredriksen  selger i SFL syv tankskip til råvaregiganten Trafigura og får inn over 2,6 milliarder kroner netto. https://www.finansavisen.no/shipping/2026/10/07/8386125/amerikansk-oljetrader-vil-kjope-tankskip-for-19-milliarder",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        1,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/10/07/8386125/amerikansk-oljetrader-vil-kjope-tankskip-for-19-milliarder"
+      ],
+      "char_count": 264,
+      "has_link": true
+    },
+    {
+      "key": "722546e98046108c",
+      "author": "Skvepsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skvepsen",
+      "posted_relative": "for 2 t siden",
+      "text": "Kan noen svare meg på hvorfor folk er villige til å betale 20,3 kr per aksje for et selskap som ikke eier noe, hvor den en av to båter går av kontrakt i Q4 og den andre i Q1 27? Jeg får det ikke til å gå opp? Selv om de vinner voldgiftssaken mot Mercuria 100% vil det utgjøre 3,5 kr. Og la oss si de tjener 15kr hvis ratene holder seg på disse nivåene til kontraktene går ut, så mangler det fortsatt minst 2 kr og det er hvis alt går optimalt. Hva er det jeg ikke ser?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
       ],
       "links": [],
-      "char_count": 117,
+      "char_count": 468,
       "has_link": false
     },
     {
-      "key": "72122db2a3217fac",
-      "author": "Ingoinst",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ingoinst",
-      "posted_relative": "for 33 min siden",
-      "text": "· Eller OMC.",
-      "reply_count": 1,
+      "key": "fb97bac3c0d4695b",
+      "author": "bahiom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
+      "posted_relative": "for 12 min siden",
+      "text": "Var en av de som dumpet på 12/13 pga høydeskrekk, men kom inn igjen på 17/18 og er rimelig komfortabel med det nå",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 12,
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "433c9a63bf27d96a",
+      "author": "Proffen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
+      "posted_relative": "for 4 t siden",
+      "text": "Noen benytter alltid anledningen til å ta gevinst…ikke noe galt i det.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "df9960083c5fcfbf",
+      "author": "nokar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
+      "posted_relative": "for 1 t siden",
+      "text": "kommer ikke til og gå ned med det første dette senario her ,,,,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "65e1a40880a89058",
+      "author": "Biocash",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/biocash",
+      "posted_relative": "for 45 min siden",
+      "text": "Hvis du vil ha det nærmeste du kommer HUNT så kjøper du BWET",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 60,
       "has_link": false
     }
   ]

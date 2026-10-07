@@ -1,9 +1,39 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-07T14:52:56.141481+00:00",
+  "scraped_at": "2026-10-07T20:17:57.305622+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c349360d85d50242",
+      "author": "amaf2345",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amaf2345",
+      "posted_relative": "for 1 døgn siden",
+      "text": "hvor kjøper du unotert? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "27dd763bccabdaba",
+      "author": "Den ekte orginalen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/den-ekte-orginalen",
+      "posted_relative": "for 31 min siden",
+      "text": "Notc.. google it. Du må ringe inn til dem",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

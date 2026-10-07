@@ -1,9 +1,54 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-07T14:54:29.622183+00:00",
+  "scraped_at": "2026-10-07T20:19:28.308290+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c85851a5e74f8f0f",
+      "author": "Shesai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shesai",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/bjellesauer",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/bjellesauer"
+      ],
+      "char_count": 39,
+      "has_link": true
+    },
+    {
+      "key": "b9ff2fbdf4a4d085",
+      "author": "Shesai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shesai",
+      "posted_relative": "for 14 t siden",
+      "text": "Nå har Sverre Bjerkeli begynt å kjøpe Protector igjen. Han er ikke innsider lenger, men han kjenner fortsatt selskapet og bransjen godt. Får håpe det har noe for seg. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        4
+      ],
+      "links": [],
+      "char_count": 186,
+      "has_link": false
+    },
+    {
+      "key": "3573c84ec96a9648",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 t siden",
+      "text": "@olavk99 når Harto skriver at PROT øverst på listen over salgskandidater på investtech må man stole på gutten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    }
+  ]
 }
