@@ -1,22 +1,41 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-07T07:57:29.584181+00:00",
+  "scraped_at": "2026-10-07T13:58:43.933046+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "e059e83fbdb54ceb",
-      "author": "Hr Dust",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
-      "posted_relative": "for 49 min siden",
-      "text": "· Enda en; Pareto høyer riktkursen for DNB til 350 norske kroner, opprepar kjøp",
+      "key": "ad401d40071f8c06",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 6 t siden",
+      "text": "https://www.finansavisen.no/tdn/2026/10/07/06601916/dnb-pareto-securities-oppjusterer-kursmal-til-350-320-gjentar-kjop",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/10/07/06601916/dnb-pareto-securities-oppjusterer-kursmal-til-350-320-gjentar-kjop"
+      ],
+      "char_count": 118,
+      "has_link": true
+    },
+    {
+      "key": "c037d2eacdb94999",
+      "author": "Glencell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glencell",
+      "posted_relative": "for 1 t siden",
+      "text": "Positivt for DNB. Rundt 400 årsverk kuttes gjennom effektivisering, AI og automatisering. Gir en kostnad i Q4, men bør bidra til lavere kostnader og bedre lønnsomhet fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 79,
+      "char_count": 175,
       "has_link": false
     }
   ]

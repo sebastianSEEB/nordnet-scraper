@@ -1,24 +1,38 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-07T07:52:40.853055+00:00",
+  "scraped_at": "2026-10-07T13:53:43.845513+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "7d27917dba42bf72",
+      "key": "67c0f4d7eee018f7",
       "author": "A20",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
-      "posted_relative": "for 9 min siden",
-      "text": "Produktlast er i medfart. Tror faktisk på 115 som Fearnly legger frem.",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Produktlast er i medfart. Tror faktisk på 117 som Fearnly legger frem.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        5,
         1
       ],
       "links": [],
       "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "b21057c882c3bd5b",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 8 min siden",
+      "text": "Har vært en fin dag å kjøpe litt mer..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
       "has_link": false
     }
   ]

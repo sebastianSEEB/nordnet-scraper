@@ -1,24 +1,40 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-07T07:55:17.064869+00:00",
+  "scraped_at": "2026-10-07T13:56:26.554784+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "0e3e28f3a101f645",
-      "author": "Blackfrog",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blackfrog",
-      "posted_relative": "for 41 min siden",
-      "text": "Det skal den vise i dag å!",
+      "key": "2de0379759690b9d",
+      "author": "Augustavesta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/augustavesta",
+      "posted_relative": "for 23 t siden",
+      "text": "· Napatech viste styrke i dag Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "b35a5936a53de081",
+      "author": "Olsen72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olsen72",
+      "posted_relative": "for 1 t siden",
+      "text": "Kan dere slutte å jinxe aksjen?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 26,
+      "char_count": 31,
       "has_link": false
     }
   ]

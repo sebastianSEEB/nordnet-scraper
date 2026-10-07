@@ -1,9 +1,36 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-07T07:59:52.557537+00:00",
+  "scraped_at": "2026-10-07T14:01:13.275428+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1d5f5fcc01df16f4",
+      "author": "Fjellklatreren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjellklatreren",
+      "posted_relative": "for 1 t siden",
+      "text": "Trodde ikke den ble å treffe 8kr, 7kr, 6kr, 5kr, 4kr værtfall ikke 3,5kr, åj har du sett, 3,1kr. Trenger 177% stigning for å gå i null. Denne aksjen er ikke noe å skrive hjem om",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    },
+    {
+      "key": "47e8d9e564e0af77",
+      "author": "MrPoopenstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrpoopenstein",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hvorfor er bunnen nådd?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

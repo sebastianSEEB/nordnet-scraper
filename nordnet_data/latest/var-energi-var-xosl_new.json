@@ -1,24 +1,53 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-07T07:57:51.954580+00:00",
+  "scraped_at": "2026-10-07T13:59:07.745192+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "62568fc6d9cbde2f",
+      "key": "ad1685b18875a1a5",
       "author": "matsnil",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
-      "posted_relative": "for 1 t siden",
-      "text": "· Venezuelas Cardon-oljeraffineri, landets nest største på 310 000 fat per dag, har akkurat uventet eksplodert og tatt fyr, noe som tvinger fram en full nedstengning. Brannen startet ved en gassledning som forbinder raffineriets dieselhydrobehandler, og stanset hele anlegget, inkludert kjelene, opplyste åtte kilder til Reuters.",
+      "posted_relative": "for 5 t siden",
+      "text": "· USAs gasslagre har gått tilbake til det som er nesten normalt for årstiden, og har dermed eliminert det tidligere overskuddet, etter at eksporten akselererte og opprettholdt lave priser i andre og tredje kvartal, noe som oppmuntret til en økning i gasskraftproduksjon. Arbeidsgassbeholdningene i underjordisk lagring utgjorde 3 415 milliarder kubikkfot den 25. september sammenlignet med 3 544 bcf på samme dato året før, ifølge data publisert av U.S. Energy Information Administration. Lagrene var fortsatt 54 bcf (+2% eller +0,20 standardavvik) over det tiårige sesongmessige gjennomsnittet, men overskuddet hadde sunket kraftig fra toppnoteringen på 200 bcf (+7% eller +0,57σ) i begynnelsen av juli ...",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        5
       ],
       "links": [],
-      "char_count": 329,
+      "char_count": 707,
+      "has_link": false
+    },
+    {
+      "key": "4d36d0ed0f3e3739",
+      "author": "Bullelull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bullelull",
+      "posted_relative": "for 5 t siden",
+      "text": "Oljepris opp nesten 3$ og vi er ned idag. Hva er det markedet senser? Gjelder jo de andre oljeselskapene også..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "5602be138dfa5e0c",
+      "author": "Adi Vedan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/adi-vedan",
+      "posted_relative": "for 4 t siden",
+      "text": "Det er rykter om at mye olje slipper ut Hormuz",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
       "has_link": false
     }
   ]

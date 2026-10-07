@@ -1,9 +1,38 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-07T07:55:24.502511+00:00",
+  "scraped_at": "2026-10-07T13:56:34.267372+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5da196ec5cddaf66",
+      "author": "@Stallgutt68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stallgutt68",
+      "posted_relative": null,
+      "text": "Takk for at du offrer deg for det større gode. 🙇🏼‍♂️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "e1448abdec765aad",
+      "author": "Ouzou",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ouzou",
+      "posted_relative": "for 4 t siden",
+      "text": "·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1,
+      "has_link": false
+    }
+  ]
 }

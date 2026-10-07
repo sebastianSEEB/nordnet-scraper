@@ -1,9 +1,23 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-07T07:58:48.908777+00:00",
+  "scraped_at": "2026-10-07T14:00:06.251646+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9c0b210a8c0880e8",
+      "author": "lumpo capital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lumpo-capital",
+      "posted_relative": "for 1 t siden",
+      "text": "· Denne ser ekstremt tung ut, men handles nå rundt 0.75 på Book value, lurer på om kommende nedskrivninger kan bli så store at vi får negativ eps for hele året?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    }
+  ]
 }

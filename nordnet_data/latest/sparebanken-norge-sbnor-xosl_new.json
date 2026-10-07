@@ -1,9 +1,38 @@
 {
   "slug": "sparebanken-norge-sbnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-norge-sbnor-xosl",
-  "scraped_at": "2026-10-07T07:56:51.590383+00:00",
+  "scraped_at": "2026-10-07T13:58:05.031330+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "77657ee32d90b4c2",
+      "author": "lklars1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lklars1",
+      "posted_relative": "for 12 min siden",
+      "text": "Solgte halvparten av beholdningen på 208. Kjøper tilbake i morgen om den holder seg under 200.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "c4c2eb0fd564a97d",
+      "author": "Mario1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mario1",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Er denne blitt helt død eller ? Renten har jo akkurat gått opp ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    }
+  ]
 }

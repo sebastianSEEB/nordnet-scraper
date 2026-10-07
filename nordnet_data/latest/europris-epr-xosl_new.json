@@ -1,9 +1,38 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-07T07:55:28.168217+00:00",
+  "scraped_at": "2026-10-07T13:56:38.093862+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "51254baccabbb0ce",
+      "author": "The Normal One",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-normal-one",
+      "posted_relative": null,
+      "text": "3. okt. Kanskje litt tidlig å spørre om dette nå før Q3 men kan man ha noe formening om hva man kan forvente av utbytte til våren? De investerer jo mye i Sverige nå (og i Norge) så utbytte rundt NOK 3.5 er vel ikke veldig sannsynlig?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "8ac22b0baff22863",
+      "author": "hanenog4høner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanenog4hner",
+      "posted_relative": "for 4 t siden",
+      "text": "Se på historikken for utbytte, Sverige ligger allerede i budsjettene og har vært planlagt i mange år.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }

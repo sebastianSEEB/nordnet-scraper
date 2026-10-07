@@ -1,9 +1,54 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-10-07T07:55:05.877066+00:00",
+  "scraped_at": "2026-10-07T13:56:14.652016+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "0da2d9338666ba04",
+      "author": "splashell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/splashell",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Aksjen vil oppover, men den kontinuerlige svake resultatutviklingen for den skotske virksomheten fortsetter å forsinke det. Uansett bør den gå over 500 neste år/når nyhetene snur fra negative til positive.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 207,
+      "has_link": false
+    },
+    {
+      "key": "c95485949dc33d6f",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": "for 5 t siden",
+      "text": "Videre oppgang på prisene idag! Handles idag på følgende priser lev Oslo for fisk som skaktes denne uke: 2/3 64-65 3/4 71-72 4/5 74-75 5/6 77-78 6/7 85 7+ 95 Kina på full fart tilbake etter Golden Week!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 202,
+      "has_link": false
+    },
+    {
+      "key": "4ca735bfc3ca3ec6",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 1 t siden",
+      "text": "Er nå ikke så sikker på om det får noe ringvirkninger her laksen er jo dø før den kommer opp av merrene 😉😒",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    }
+  ]
 }

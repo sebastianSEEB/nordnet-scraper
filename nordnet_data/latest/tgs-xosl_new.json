@@ -1,9 +1,25 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-07T07:56:24.972685+00:00",
+  "scraped_at": "2026-10-07T13:57:37.556710+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cf5bb21b7505c2d5",
+      "author": "Spartak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spartak",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Fra dagens børs kommenar: Torsdag morgen legger TGS frem en kvartalsoppdatering for tredje kvartal før den fullstendige rapporten publiseres 22. oktober. DNB Carnegie forventer at selskapet vil rapportere om foreløpige omsetningstall på 373 millioner dollar, mot konsensus på 384 millioner dollar. Vi får se i  morgen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 318,
+      "has_link": false
+    }
+  ]
 }

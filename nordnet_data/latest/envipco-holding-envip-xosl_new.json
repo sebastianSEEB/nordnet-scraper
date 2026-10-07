@@ -1,9 +1,66 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-07T07:59:26.277030+00:00",
+  "scraped_at": "2026-10-07T14:00:46.069817+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "663af9a53e1dbba6",
+      "author": "Altus Cumulus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/altus-cumulus",
+      "posted_relative": "for 5 t siden",
+      "text": "Sover Nordnet eller dårlig QC? Shortposisjoner i Envip er nå 4,76% i følge https://shortaksjer.netlify.app og Envip er dermed en av de mest shortede aksjene på Oslo Børs. Mer enn 2200 Nordnetkunder er aksjonærer i Envip. Hvorfor viser ikke Nordnet denne betydelige shortposisjoneringen i sin plattform?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://shortaksjer.netlify.app"
+      ],
+      "char_count": 302,
+      "has_link": true
+    },
+    {
+      "key": "26df61b65bcdfa1c",
+      "author": "Harries",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
+      "posted_relative": "for 2 t siden",
+      "text": "· som det står i disse kommer data fra Factset og Nordnet fraskriver seg ansvaret. du får ingenting ut av å klage til nordnet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "0a5fc5fed2d295e1",
+      "author": "monkey76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Var ikke denne friskmeldt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "a6740a69d1331375",
+      "author": "@NordnetRasmus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordnetrasmus",
+      "posted_relative": null,
+      "text": "Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

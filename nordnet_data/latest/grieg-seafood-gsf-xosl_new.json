@@ -1,9 +1,41 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-10-07T07:55:58.561476+00:00",
+  "scraped_at": "2026-10-07T13:57:10.382789+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0ee85232282866f7",
+      "author": "carrlo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er ganske utrolig at GSF velger å finjustere slakteguidingen opp og ned med 1.000 tonn flere ganger gjennom året, når erfaringen viser hvor asymmetrisk markedet reagerer. Oppjusteringer blir knapt belønnet, mens nedjusteringer blir brutalt straffet. Oppdrett vil alltid ha biologisk usikkerhet. Derfor bør guiding ha en fornuftig sikkerhetsmargin. Det er bedre å levere 31.000 tonn mot guiding på 30.000 enn først å oppjustere forventningene og kort tid senere nedjustere igjen. Troverdighet og forutsigbarhet er også verdier i aksjemarkedet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 546,
+      "has_link": false
+    },
+    {
+      "key": "c95485949dc33d6f",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": "for 5 t siden",
+      "text": "Videre oppgang på prisene idag! Handles idag på følgende priser lev Oslo for fisk som skaktes denne uke: 2/3 64-65 3/4 71-72 4/5 74-75 5/6 77-78 6/7 85 7+ 95 Kina på full fart tilbake etter Golden Week!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 202,
+      "has_link": false
+    }
+  ]
 }

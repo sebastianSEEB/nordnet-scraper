@@ -1,9 +1,54 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-07T07:54:27.336553+00:00",
+  "scraped_at": "2026-10-07T13:55:36.019213+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8a33693525a28870",
+      "author": "Monsig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/monsig",
+      "posted_relative": "for 10 min siden",
+      "text": "· Har akkurat kjøpt 1 000 stk så sier den 1 %",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "f97eb3807235d355",
+      "author": "Zozo6",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zozo6",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hva skjer her 👀 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "fdae1a96d6b58119",
+      "author": "Fisker94",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
+      "posted_relative": "for 2 t siden",
+      "text": "DOF auser inn med dollars",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

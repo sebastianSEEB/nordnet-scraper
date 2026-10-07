@@ -1,9 +1,36 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-10-07T07:53:30.175902+00:00",
+  "scraped_at": "2026-10-07T13:54:37.118430+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a69fe89b9991cab0",
+      "author": "VestInVestment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vestinvestment",
+      "posted_relative": "for 4 t siden",
+      "text": "· \"Du skal ikke gå forbi!\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "c0d2bcc4fd56a9aa",
+      "author": "Kaisovski",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaisovski",
+      "posted_relative": "for 1 t siden",
+      "text": "· Positiv, men ventet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }
