@@ -359,9 +359,13 @@ def finish(t):
     t = t.copy()
     stop = t["mode"].map(P["default_stop"])
     t["gross"] = np.where(stop == 0.05, t.gross_stop5, np.where(stop == 0.03, t.gross_stop3, t.gross_nostop))
-    t["net"] = t.gross - t.cost
-    t["net_stress"] = t.gross - t.cost_stress
-    t["skip"] = (t["mode"] != "drift_A") & (t.cost > P["skip_ratio"] * t.expected)
+    # Main cost model: round-trip cost by liquidity bucket (0.3% / 1% / 2%). The Corwin-Schultz
+    # spread estimate is biased upward by volatility on daily data (it gave ~0.5% for both Equinor
+    # and small caps), so it is kept only as an alternative ("net_cs").
+    t["net"] = t.gross - t.cost_stress
+    t["net_cs"] = t.gross - t.cost
+    t["net_stress"] = t.gross - 2 * t.cost_stress
+    t["skip"] = (t["mode"] != "drift_A") & (t.cost_stress > P["skip_ratio"] * t.expected)
     return t
 
 
@@ -501,15 +505,16 @@ def main():
     S = dict(params=P, sanity=sanity, n_events=len(events))
     S["modes"] = {m: stats(M(trades, m)) for m in modes}
     S["placebo"] = {m: stats(M(p_trades, m)) for m in modes}
-    S["costs"] = {m: dict(gross=stats(M(trades, m), "gross"), spread_cost=stats(M(trades, m)),
-                          stress_cost=stats(M(trades, m), "net_stress"),
+    S["costs"] = {m: dict(gross=stats(M(trades, m), "gross"), bucket_cost=stats(M(trades, m)),
+                          spread_estimate_cost=stats(M(trades, m), "net_cs"),
+                          double_cost=stats(M(trades, m), "net_stress"),
                           with_skip_rule=stats(M(trades, m)[~M(trades, m).skip]),
                           skipped_share=round(float(M(trades, m).skip.mean()), 3) if len(M(trades, m)) else None)
                   for m in modes}
-    S["stops"] = {m: {name: stats(M(trades, m).assign(x=lambda df, c=col: df[c] - df.cost), "x")
+    S["stops"] = {m: {name: stats(M(trades, m).assign(x=lambda df, c=col: df[c] - df.cost_stress), "x")
                       for name, col in [("none", "gross_nostop"), ("stop_3pct", "gross_stop3"), ("stop_5pct", "gross_stop5")]}
                   for m in modes}
-    S["liquidity"] = {m: {bk: dict(spread_cost=stats(g), stress_cost=stats(g, "net_stress"),
+    S["liquidity"] = {m: {bk: dict(spread_cost=stats(g), gross=stats(g, "gross"),
                                    median_spread=round(float(g.spread.median()), 4))
                           for bk, g in M(trades, m).groupby("bucket")} for m in ["ripple", "rebound"]}
     sm = trades[(trades.bucket == "small") & (trades.side > 0)]
