@@ -1,0 +1,239 @@
+/home/runner/work/nordnet-scraper/nordnet-scraper/speed.py:34: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+  nw = nw[nw.category.fillna("").str.contains(MATERIAL_CATS) & ~nw.title.fillna("").str.contains(ROUTINE)]
+/home/runner/work/nordnet-scraper/nordnet-scraper/speed.py:58: Pandas4Warning: Sorting by default when concatenating all DatetimeIndex is deprecated.  In the future, pandas will respect the default of `sort=False`. Specify `sort=True` or `sort=False` to silence this message. If you see this warnings when not directly calling concat, report a bug to pandas.
+  c = pd.concat(frames, axis=1)
+{
+ "window": "2026-07-16 to 2026-10-07",
+ "events": 580,
+ "moves_over_1pct": {
+  "intraday/large": {
+   "15min": {
+    "n": 2,
+    "left_to_close": 0.0015,
+    "left_to_next_close": -0.0018,
+    "after_student_costs": -0.002
+   },
+   "30min": {
+    "n": 2,
+    "left_to_close": 0.001,
+    "left_to_next_close": -0.0023,
+    "after_student_costs": -0.0025
+   }
+  },
+  "intraday/mid": {
+   "5min": {
+    "n": 8,
+    "left_to_close": -0.0035,
+    "left_to_next_close": -0.0136,
+    "after_student_costs": -0.0105
+   },
+   "10min": {
+    "n": 7,
+    "left_to_close": 0.001,
+    "left_to_next_close": 0.0025,
+    "after_student_costs": -0.006
+   },
+   "15min": {
+    "n": 6,
+    "left_to_close": -0.0046,
+    "left_to_next_close": -0.0032,
+    "after_student_costs": -0.0116
+   },
+   "30min": {
+    "n": 8,
+    "left_to_close": -0.008,
+    "left_to_next_close": -0.0093,
+    "after_student_costs": -0.015
+   },
+   "60min": {
+    "n": 11,
+    "left_to_close": -0.0065,
+    "left_to_next_close": -0.0101,
+    "after_student_costs": -0.0135
+   }
+  },
+  "intraday/small": {
+   "5min": {
+    "n": 14,
+    "left_to_close": -0.0076,
+    "left_to_next_close": 0.0031,
+    "after_student_costs": -0.0256
+   },
+   "10min": {
+    "n": 16,
+    "left_to_close": -0.0036,
+    "left_to_next_close": 0.0078,
+    "after_student_costs": -0.0216
+   },
+   "15min": {
+    "n": 17,
+    "left_to_close": -0.0147,
+    "left_to_next_close": -0.0099,
+    "after_student_costs": -0.0327
+   },
+   "30min": {
+    "n": 24,
+    "left_to_close": 0.0006,
+    "left_to_next_close": 0.005,
+    "after_student_costs": -0.0174
+   },
+   "60min": {
+    "n": 30,
+    "left_to_close": -0.0032,
+    "left_to_next_close": 0.0022,
+    "after_student_costs": -0.0212
+   }
+  },
+  "pre-open/large": {
+   "5min": {
+    "n": 15,
+    "left_to_close": 0.0002,
+    "left_to_next_close": 0.0034,
+    "after_student_costs": -0.0033
+   },
+   "10min": {
+    "n": 21,
+    "left_to_close": -0.001,
+    "left_to_next_close": 0.005,
+    "after_student_costs": -0.0045
+   },
+   "15min": {
+    "n": 21,
+    "left_to_close": 0.0004,
+    "left_to_next_close": 0.0064,
+    "after_student_costs": -0.0031
+   },
+   "30min": {
+    "n": 21,
+    "left_to_close": 0.0029,
+    "left_to_next_close": 0.0101,
+    "after_student_costs": -0.0006
+   },
+   "60min": {
+    "n": 21,
+    "left_to_close": 0.0025,
+    "left_to_next_close": 0.0098,
+    "after_student_costs": -0.001
+   }
+  },
+  "pre-open/mid": {
+   "5min": {
+    "n": 47,
+    "left_to_close": 0.0002,
+    "left_to_next_close": 0.0099,
+    "after_student_costs": -0.0068
+   },
+   "10min": {
+    "n": 45,
+    "left_to_close": -0.006,
+    "left_to_next_close": 0.0002,
+    "after_student_costs": -0.013
+   },
+   "15min": {
+    "n": 49,
+    "left_to_close": -0.002,
+    "left_to_next_close": 0.0063,
+    "after_student_costs": -0.009
+   },
+   "30min": {
+    "n": 60,
+    "left_to_close": -0.0046,
+    "left_to_next_close": 0.0007,
+    "after_student_costs": -0.0116
+   },
+   "60min": {
+    "n": 70,
+    "left_to_close": -0.0049,
+    "left_to_next_close": 0.0008,
+    "after_student_costs": -0.0119
+   }
+  },
+  "pre-open/small": {
+   "5min": {
+    "n": 116,
+    "left_to_close": -0.0033,
+    "left_to_next_close": -0.0118,
+    "after_student_costs": -0.0213
+   },
+   "10min": {
+    "n": 125,
+    "left_to_close": -0.001,
+    "left_to_next_close": -0.0084,
+    "after_student_costs": -0.019
+   },
+   "15min": {
+    "n": 131,
+    "left_to_close": -0.0002,
+    "left_to_next_close": -0.0098,
+    "after_student_costs": -0.0182
+   },
+   "30min": {
+    "n": 140,
+    "left_to_close": 0.0031,
+    "left_to_next_close": -0.0049,
+    "after_student_costs": -0.0149
+   },
+   "60min": {
+    "n": 150,
+    "left_to_close": 0.004,
+    "left_to_next_close": -0.0043,
+    "after_student_costs": -0.014
+   }
+  }
+ }
+}
+$NORCO.OL: 1h data not available for startTime=1699603200 and endTime=1791408925. The requested range must be within the last 730 days.
+
+1 Failed download:
+['NORCO.OL']: 1h data not available for startTime=1699603200 and endTime=1791408925. The requested range must be within the last 730 days.
+$PLSV.OL: 1h data not available for startTime=1719558000 and endTime=1791408929. The requested range must be within the last 730 days.
+
+1 Failed download:
+['PLSV.OL']: 1h data not available for startTime=1719558000 and endTime=1791408929. The requested range must be within the last 730 days.
+/home/runner/work/nordnet-scraper/nordnet-scraper/speed.py:58: Pandas4Warning: Sorting by default when concatenating all DatetimeIndex is deprecated.  In the future, pandas will respect the default of `sort=False`. Specify `sort=True` or `sort=False` to silence this message. If you see this warnings when not directly calling concat, report a bug to pandas.
+  c = pd.concat(frames, axis=1)
+{
+ "window": "2023-11-07 to 2026-10-07",
+ "chosen": {
+  "sess": "intraday",
+  "thr": 0.02,
+  "exit": "r_close",
+  "longonly": true
+ },
+ "dev": {
+  "setting": {
+   "sess": "intraday",
+   "thr": 0.02,
+   "exit": "r_close",
+   "longonly": true
+  },
+  "trades": 140,
+  "gross": -0.0035,
+  "net": -0.0202,
+  "t": -4.38
+ },
+ "holdout": {
+  "trades": 38,
+  "gross": -0.0087,
+  "net": -0.0241,
+  "win": 0.211,
+  "t": -3.69,
+  "by_bucket": {
+   "large": -0.0107,
+   "mid": -0.0097,
+   "small": -0.0279
+  }
+ },
+ "holdout_wider_spread": {
+  "trades": 38,
+  "gross": -0.0087,
+  "net": -0.0303,
+  "win": 0.105,
+  "t": -4.89,
+  "by_bucket": {
+   "large": -0.0107,
+   "mid": -0.0097,
+   "small": -0.0279
+  }
+ }
+}
