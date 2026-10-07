@@ -1,0 +1,33 @@
+name: Ripple extra data
+
+on:
+  push:
+    branches: [ripple-backtest]
+    paths: ['fetch_extra.py', '.github/workflows/ripple-extra.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ripple-extra
+  cancel-in-progress: true
+
+jobs:
+  extra:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q pandas requests yfinance
+      - run: mkdir -p results && python -u fetch_extra.py 2>&1 | tee results/extra_log.txt
+      - name: Commit data
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/insider_bodies.csv.gz data/freight.csv.gz results/extra_log.txt 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Extra data: insider message texts, freight ETFs"
+          for i in 1 2 3; do git pull -q --rebase origin ripple-backtest && git push origin HEAD:ripple-backtest && break; sleep 5; done
