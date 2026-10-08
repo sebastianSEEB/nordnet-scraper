@@ -1,9 +1,43 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-08T14:10:22.692804+00:00",
+  "scraped_at": "2026-10-08T20:19:53.141917+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1899a244f14d7590",
+      "author": "Freeland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/freeland",
+      "posted_relative": "for 5 t siden",
+      "text": "Anbefaler alle og høre på denne sangen idag og fremover. https://youtu.be/HMuYfScGpbE?is=vsJhAi1ykiftit8N",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [
+        "https://youtu.be/HMuYfScGpbE?is=vsJhAi1ykiftit8N"
+      ],
+      "char_count": 105,
+      "has_link": true
+    },
+    {
+      "key": "c047ec4698e729f4",
+      "author": "Holder Kanskje",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holder-kanskje",
+      "posted_relative": "for 5 t siden",
+      "text": "Veldig hyggelig overraskelse Freeland, det gjør alt bedre!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

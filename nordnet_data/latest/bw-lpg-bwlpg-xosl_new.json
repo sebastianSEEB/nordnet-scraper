@@ -1,9 +1,38 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-10-08T14:10:30.412829+00:00",
+  "scraped_at": "2026-10-08T20:20:01.805628+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "27a525cf412d188e",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Antall Kjøp 246,80 Selg Antall 246,80 Sjekk dette, samme pris, på kjøps side, som selger side,  null handler og null under dette.. en og samme boot? eller feil på nettsidene, dette har hendt flere ganger denne uken. I slutt minuttene, 8 min før stenging.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 254,
+      "has_link": false
+    },
+    {
+      "key": "7d5c15340eb8b93c",
+      "author": "Rich_Booker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rich_booker",
+      "posted_relative": "for 4 t siden",
+      "text": "· Dette refererer til sluttauksjonen, der aksjens offisielle sluttkurs blir fastsatt. Den varer i omtrent fem minutter, men aldri i en fast varighet, for å forhindre at handelsroboter manipulerer auksjonens utfall.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 214,
+      "has_link": false
+    }
+  ]
 }

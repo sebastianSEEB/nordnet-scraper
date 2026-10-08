@@ -1,9 +1,68 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-08T14:14:04.524376+00:00",
+  "scraped_at": "2026-10-08T20:23:24.212447+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "fac2cb282ed79b00",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 5 t siden",
+      "text": "Enig i at det hadde vært gullkort, men foreløpig ikke helt der.  DNO ledelsen sa vel så sent som Q2 at de jobber kontinuerlig for å få tilgang til markeds/ eksportpris, men at det fortsatt er politisk og kommersielt komplisert og at de ikke kunne gi  datoen for dette  helt enda.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 279,
+      "has_link": false
+    },
+    {
+      "key": "7abd896f0b0aca1e",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 12 t siden",
+      "text": "Helt enig med COP- det er helt utrolig at kursen ikke er over 20 kr med de olje/gasspriser som er og de markedsutsiktene som råder !!! I tidligere lærdommer lærte jeg at PE på 5-6 generelt var gunstige kjøpe aksjer !!! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 238,
+      "has_link": false
+    },
+    {
+      "key": "c201c9bc11ce1c01",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 5 t siden",
+      "text": "· Aksjen har svært vanskelig for å slutte på dagens høyeste, samme i dag, hadde håpet på over 19,50 men neida",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "6cee74e25a325641",
+      "author": "LSAS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lsas",
+      "posted_relative": "for 9 t siden",
+      "text": "Åssen er det med DNO og eksport via Tyrkia for tiden. Dette må jo være et gullkort nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    }
+  ]
 }

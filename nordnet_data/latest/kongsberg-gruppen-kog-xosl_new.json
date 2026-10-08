@@ -1,24 +1,101 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-10-08T14:15:29.073342+00:00",
+  "scraped_at": "2026-10-08T20:24:48.985231+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "927337ac3ddb2d1c",
-      "author": "blega",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blega",
-      "posted_relative": "for 5 min siden",
-      "text": "· 290,28",
-      "reply_count": 1,
+      "key": "596c1de13f39370a",
+      "author": "Jupixx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jupixx",
+      "posted_relative": "for 5 t siden",
+      "text": "· https://www.patriagroup.com/newsroom/news/2026/patria-laajentaa-valmieran-tuotantolaitostaan-latviassa",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [
+        "https://www.patriagroup.com/newsroom/news/2026/patria-laajentaa-valmieran-tuotantolaitostaan-latviassa"
+      ],
+      "char_count": 104,
+      "has_link": true
+    },
+    {
+      "key": "d62eb473887f704b",
+      "author": "LDA",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lda",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.regjeringen.no/no/aktuelt/oker-produksjonskapasiteten-i-norsk-forsvarsindustri/id3174290/",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
+      "links": [
+        "https://www.regjeringen.no/no/aktuelt/oker-produksjonskapasiteten-i-norsk-forsvarsindustri/id3174290/"
+      ],
+      "char_count": 101,
+      "has_link": true
+    },
+    {
+      "key": "f28f3651ad7c8f59",
+      "author": "Helgenen1963",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/helgenen1963",
+      "posted_relative": "for 6 t siden",
+      "text": "Sitter med 23.000 aksjer i Kog med en Gav på 313,8 og  har overhodet ingen bekymringer fremover 🤷🏼‍♂️😃 solgte hele porteføljen for knapt 2 uker siden for 331 og vet vi er der iløpet av 3-4 uker 🚀😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        5
+      ],
       "links": [],
-      "char_count": 8,
+      "char_count": 196,
+      "has_link": false
+    },
+    {
+      "key": "92f7a28a1e699eeb",
+      "author": "ticket2the_moon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ticket2the_moon",
+      "posted_relative": "for 5 t siden",
+      "text": "Går bra det, er en tålmodig så bør 500 være innenfor rekkevidde 🥳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "58ec13e2d72e844d",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Hva står det i artikkelen, ny ordre?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "dc161239cc37b3d6",
+      "author": "BasNor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/basnor",
+      "posted_relative": "for 2 t siden",
+      "text": "· 48.91 ☺️",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 10,
       "has_link": false
     }
   ]

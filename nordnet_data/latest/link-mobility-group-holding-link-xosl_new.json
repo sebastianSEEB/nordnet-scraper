@@ -1,9 +1,82 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-08T14:11:56.489990+00:00",
+  "scraped_at": "2026-10-08T20:21:18.762604+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "4103c1830b6996bf",
+      "author": "BjMoOs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjmoos",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Hva bety egentlig at Folketrygdfondet har fått tilbakelevert 400.000 aksjer i LINK Mobility Group Holding ASA? Er dette short som kjøpes tilbake? Og hvorfor går kursen da ned?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 175,
+      "has_link": false
+    },
+    {
+      "key": "7ea74ea769877646",
+      "author": "Midlang86",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/midlang86",
+      "posted_relative": "for 5 t siden",
+      "text": "· Fordi nokon absorberer aksjer lågt- på meldingen skal ikkje dette vere negativt, nei.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "8b2b54a2bbf68212",
+      "author": "hei1234576",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hei1234576",
+      "posted_relative": "for 5 t siden",
+      "text": "Burde ikke avsluttet shortposisjon slå positivt ut på aksjen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "6e4e3de3f4fcc6a1",
+      "author": "Bravado",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bravado",
+      "posted_relative": "for 6 t siden",
+      "text": "Bare ned 4%, det er jo en relativt god Link dag på markedet😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "fed5182f3fe8348f",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 5 t siden",
+      "text": "Ble påfyll gitt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

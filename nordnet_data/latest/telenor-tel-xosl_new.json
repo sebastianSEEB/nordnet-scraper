@@ -1,51 +1,109 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-08T14:15:36.972678+00:00",
+  "scraped_at": "2026-10-08T20:24:56.635303+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 7,
   "posts": [
     {
-      "key": "51d1e0cff1990ae8",
-      "author": "James Harris Simons",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/james-harris-simons",
-      "posted_relative": "for 55 min siden · Endret",
-      "text": "Telenor AI Factory Telenor lanserte AI Factory i november 2024 med en første investering på 100 millioner kroner. Satsingen er bygget på Nvidias teknologi og skal gi norske virksomheter tilgang til kraftige AI-systemer uten at dataene må behandles utenfor Norge. Telenor har blant annet fått 11 kunder ved utgangen av 2025, hvorav ni eksterne. De har utviklet tjenester som lar bedrifter bygge, trene og kjøre egne AI-modeller. Inngått samarbeid med Nvidia, Red Hat, Accenture, Capgemini og KPMG. Og bygget AI-infrastruktur på to lokasjoner i Norge.",
+      "key": "b051f2791269911a",
+      "author": "Sal83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sal83",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Kan være positivt på sikt at sånne ting skjer. Telenor er jo veldig opptatt av sikkerhet og da vil jo denne type hendelser vise at behovet er der. Begynner å nærme seg påfyll prismessig å.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9,
+        1
+      ],
+      "links": [],
+      "char_count": 188,
+      "has_link": false
+    },
+    {
+      "key": "feb4fbf42348f289",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 30 min siden",
+      "text": "Sikkert en ansatt som 100% bør få sparken. Dårlig konfigurering i core-network eller sentral database feil. Du kan ikke gjøre endringer i kritiske systemer uten fall-back solutions..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 182,
+      "has_link": false
+    },
+    {
+      "key": "71c19784a9929abb",
+      "author": "simonnomis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simonnomis",
+      "posted_relative": "for 5 t siden",
+      "text": "Så fint at Telenor er nede for telling i dag. Kjekt når det som er deres sterke side mot konkurrenter viser seg å være så svak",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "ad24532682e5dcc0",
+      "author": "Iswat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iswat",
+      "posted_relative": "for 5 t siden",
+      "text": "Fantastisk at Telenor kan drive så store tilbakekjøp på dette nivået",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         3
       ],
       "links": [],
-      "char_count": 549,
+      "char_count": 68,
       "has_link": false
     },
     {
-      "key": "b5bbcbe7afe68ec2",
-      "author": "Iswat",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iswat",
-      "posted_relative": "for 7 min siden",
-      "text": "Utenfor eller innenfor Telenor nordisk satsning: Teoretisk mulig om økonomisk involvering i utskytninger fra Andøya og dra nytte av space fremover?",
+      "key": "92f4b136cdfc4d9f",
+      "author": "littlecaeser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littlecaeser",
+      "posted_relative": "for 4 t siden",
+      "text": "Kombiner dette med IOT segmentet som ble omtalt tidligere i år 😉",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 147,
+      "char_count": 64,
       "has_link": false
     },
     {
-      "key": "5f66c8f757fe9bbe",
-      "author": "Jak0b",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jak0b",
-      "posted_relative": "for 9 min siden",
-      "text": "Ja, har ingen påvirkning på kursen",
+      "key": "ad1390d373f4f10a",
+      "author": "Gatornor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gatornor",
+      "posted_relative": "for 5 t siden",
+      "text": "dette kan fort bli veldig dyrt for Telenor",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        5
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "be84cf88fd3414b0",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 37 min siden",
+      "text": "Lurt å teste systemet, ja",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 34,
+      "char_count": 25,
       "has_link": false
     }
   ]
