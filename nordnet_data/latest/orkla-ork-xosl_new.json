@@ -1,9 +1,39 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-08T06:53:06.777421+00:00",
+  "scraped_at": "2026-10-08T14:05:53.333934+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "af51ad1905a8d0db",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "Nytt kursmål for Orkla 140 NOK. Oppsiden på hele 50%. Med tilbakekjøp på 4 milliarder kroner er dette helt realistisk kursmål!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        9
+      ],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "d09360adea879257",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er også et kursmål på 89 NOK.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

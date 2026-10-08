@@ -1,9 +1,81 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-08T06:49:38.075748+00:00",
+  "scraped_at": "2026-10-08T14:02:22.590798+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "0f5f775ba001d7b7",
+      "author": "Joachimandersen1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joachimandersen1",
+      "posted_relative": "for 5 t siden",
+      "text": "Kommenterer sjeldent inne i forumer, men tenkte det var verdt å kanskje få et annet synspunk:  I følge mine analyser er Norbit et svært solid selskap, som leverer gode marginer og har gode fremtidsutsikter. Jeg ser ingen logikk i hvorfor kursen oppfører seg på den måten den gjør nå, er det noen som har et godt svar?  Seriøse svar tas imot med glede 🫱🏻‍🫲🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11
+      ],
+      "links": [],
+      "char_count": 356,
+      "has_link": false
+    },
+    {
+      "key": "92e4fcafb930b170",
+      "author": "Bill Bradely",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bill-bradely",
+      "posted_relative": "for 4 t siden",
+      "text": "Etter min vurdering fortsetter Norbit ned mot 130–150 kroner, et nivå jeg lenge har ansett som en mer naturlig verdsettelse. Ved en global børskorreksjon mener jeg kursen fort kan falle videre til 110–120 kroner.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 212,
+      "has_link": false
+    },
+    {
+      "key": "62e3c116f228a86a",
+      "author": "Unknowm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/unknowm",
+      "posted_relative": "for 1 t siden",
+      "text": "Etter min vurdering så skal denne til 1000 i morgen, fordi jeg har vurdert det sånn. Så fordi fordi derfor fordi. Denne påstanden skal jeg komme med igjen om få dager, uten ytterligere begrunnelse:) bare fordi",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 209,
+      "has_link": false
+    },
+    {
+      "key": "8d7a4250ca6f0277",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": "for 4 t siden",
+      "text": "Short har nok bidratt med å dempe kursutviklingen den siste tiden",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "413db1fe336c95dc",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 6 t siden",
+      "text": "Det ruller og går mot 3 milliarder i omsetning med EBIT på 25 %",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

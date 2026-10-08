@@ -1,9 +1,68 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-08T06:50:21.796365+00:00",
+  "scraped_at": "2026-10-08T14:03:04.441722+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "e76aa1f2d258bf8f",
+      "author": "stoners58",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stoners58",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er politisk støtte for Utsira nord og havvind etter at det er gjort eksterne analyser av flere aktører.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "a90de246fe0031f1",
+      "author": "A320",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a320",
+      "posted_relative": "for 10 min siden",
+      "text": "Noen som har fått med seg når siste frist er for å kjøpe på AKS kontoen ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "cde21d77b10dddff",
+      "author": "draanvine",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/draanvine",
+      "posted_relative": "for 3 t siden",
+      "text": "Du kommer ikke til å få det billigere etter min mening",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "90029f68d0e8f6f3",
+      "author": "cab4me",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cab4me",
+      "posted_relative": "for 5 min siden",
+      "text": "· 29/11 mener jeg det var.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "western-bulk-chartering-west-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/western-bulk-chartering-west-merk",
-  "scraped_at": "2026-10-08T06:48:38.028666+00:00",
+  "scraped_at": "2026-10-08T14:01:11.085995+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4e7c7f84f87fc082",
+      "author": "fondly",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fondly",
+      "posted_relative": "for 6 t siden",
+      "text": "· Hvis de fremdeles ikke klarer å betale ut utbytte, vil det være et ytterligere bevis på at forretningsmodellen deres ikke fungerer. Det siste rimelige utbyttet var for Q4 2022..!!",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    },
+    {
+      "key": "ca5e90bac071f235",
+      "author": "Skrukork",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skrukork",
+      "posted_relative": "for 6 t siden",
+      "text": "Western Bulk har pleid å komme med en markedsoppdatering og info om de utbetaler utbytte omtrent på denne tiden i oktober tidligere år. Hva tror dere i år? Blir det noe utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-08T06:51:04.743682+00:00",
+  "scraped_at": "2026-10-08T14:03:46.200605+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "98561d5bf65b4a13",
+      "author": "gstandre1997",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gstandre1997",
+      "posted_relative": "for 50 min siden",
+      "text": "Skal Pexip mangedobles fra dagens kurs. Ja Hvor lang tid det tar. 2-10 år. Takk for meg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "020a72f2cb22bc1e",
+      "author": "heltOK",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltok",
+      "posted_relative": "for 4 t siden",
+      "text": "· 🚀🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

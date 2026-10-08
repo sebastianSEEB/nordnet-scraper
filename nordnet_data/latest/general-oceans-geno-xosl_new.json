@@ -1,9 +1,65 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-08T06:54:16.732089+00:00",
+  "scraped_at": "2026-10-08T14:07:02.119723+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "6b5b09d4cc8e280d",
+      "author": "Altus Cumulus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/altus-cumulus",
+      "posted_relative": "for 5 t siden",
+      "text": "Du bør kjøpe litt mer når den ligger under 20, så blir dette en god investering på sikt 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    },
+    {
+      "key": "f6bb647803dd572f",
+      "author": "Holder Kanskje",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holder-kanskje",
+      "posted_relative": "for 3 t siden",
+      "text": "Tror det er god aksje og jeg tenker at jeg kjøper noen ved neste anledning.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "7ebbdf894d996404",
+      "author": "fiskebåt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskebat",
+      "posted_relative": "for 3 t siden",
+      "text": "Fint med påfyll etter gårsdagens nedgang🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "5ba39b85c565be70",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 5 t siden",
+      "text": "Er denne preget av mye shorting?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

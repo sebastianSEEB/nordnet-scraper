@@ -1,9 +1,55 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-08T06:51:16.436214+00:00",
+  "scraped_at": "2026-10-08T14:03:57.726626+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "80b3ed33367ae799",
+      "author": "Kystfondet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kystfondet",
+      "posted_relative": "for 4 t siden",
+      "text": "· Nøyaktig 4 veker til Q3 rapporten skal leggast fram. Hadde vore interesant å hørt kva folk tenker om den neste månaden og forventingar til rapporten. Sjølv tipper eg rapporten blir omtrent som forventa og at ein kan få ein ok positiv reaktion, med påfølgande gevinstsikring frå kortsiktige investorar.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 303,
+      "has_link": false
+    },
+    {
+      "key": "6d8d4a0237116552",
+      "author": "GabrielSv16",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabrielsv16",
+      "posted_relative": "for 5 t siden",
+      "text": "Noen grunn for de røde tallene..? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "3f41c62ce8b5cd58",
+      "author": "Rampeline",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rampeline",
+      "posted_relative": "for 3 t siden",
+      "text": "Mye rødt på alt som ikke har med olje å gjøre i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

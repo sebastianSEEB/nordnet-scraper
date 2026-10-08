@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-08T06:47:47.171900+00:00",
+  "scraped_at": "2026-10-08T14:00:17.737667+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "52430b3d34ab6068",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 1 t siden",
+      "text": "Ren spekulasjon: Wilpride styrer vest mot Sri Lanka uten en innlagt destinasjon. Det kan hende at de prøver på å kjøpe en last fra en terminal i Oman og levere denne til et nærliggende asiatisk land, muligens India som sliter med kullmangel og har nå rullerende strømbrudd. India er 3-4 dager seiletid unna Oman. Bruttofortjenesten kan ligge opp mot 15 mill USD på lasten. Fraktfortjenesten blir dog minimal.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 408,
+      "has_link": false
+    }
+  ]
 }

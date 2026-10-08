@@ -1,9 +1,66 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-08T06:51:31.793270+00:00",
+  "scraped_at": "2026-10-08T14:04:13.482915+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "a0957f4cef2d1831",
+      "author": "baleros",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baleros",
+      "posted_relative": "for 1 t siden",
+      "text": "den som ikke skjønner at Endur går til 120,4 ganske kjapt - før aksjen tar en kort kvil .... bør holde seg unna trading.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "3c346dd8258e4580",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": "for 3 t siden",
+      "text": "Ja da var den oppgangen hvisket ut. Gøy",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "294aa447d920fdc4",
+      "author": "siggenekkdk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/siggenekkdk",
+      "posted_relative": "for 5 t siden",
+      "text": "Hvor langt ned før vi snur igjen tro🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "6010c96607b25a65",
+      "author": "Tom_Peng_Pung",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tom_peng_pung",
+      "posted_relative": "for 4 t siden",
+      "text": "Det går opp og ned her i livet 🙄😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

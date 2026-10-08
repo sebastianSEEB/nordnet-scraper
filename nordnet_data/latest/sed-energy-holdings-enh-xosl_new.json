@@ -1,52 +1,84 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-08T06:50:25.605061+00:00",
+  "scraped_at": "2026-10-08T14:03:08.216749+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "825297de2853b69a",
-      "author": "yousif 1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yousif-1",
-      "posted_relative": "for 11 t siden",
-      "text": "· Jeg tror at vi kommer til å få se 3 og 4 kroner igjen. Vis 1 kommentar til",
+      "key": "9affbe42b5a78024",
+      "author": "pipsur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pipsur",
+      "posted_relative": "for 3 t siden",
+      "text": "· https://substack.com/@freightandbarrels/note/c-354072772?r=1nk06d&utm_medium=ios&utm_source=notes-share-action",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        2,
+        6
       ],
-      "links": [],
-      "char_count": 76,
-      "has_link": false
+      "links": [
+        "https://substack.com/@freightandbarrels/note/c-354072772?r=1nk06d&utm_medium=ios&utm_source=notes-share-action"
+      ],
+      "char_count": 112,
+      "has_link": true
     },
     {
-      "key": "da97b4df8be5e0d8",
-      "author": "Per3",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/per3",
-      "posted_relative": "for 5 min siden",
-      "text": "· Eg trur me fort kan sjå 7-8 kroner igjen.",
+      "key": "40fca4d3b6285ee6",
+      "author": "The pope",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pope",
+      "posted_relative": "for 48 min siden",
+      "text": "Her inne er det veldig mange u tolmodige som ikke ser « the big picture» Ok , det er positivt for de rett troende .  Lykke til .",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 43,
+      "char_count": 128,
       "has_link": false
     },
     {
-      "key": "2103e477e46ed49e",
-      "author": "Jaff92",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
-      "posted_relative": "for 41 min siden",
-      "text": "· Tro kan du gjøre i kyrkja!",
+      "key": "2b8f10a68f83d373",
+      "author": "The pope",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pope",
+      "posted_relative": "for 4 t siden",
+      "text": "Blir denne notert i USA , eller når den blir .  Kan bli meget bra på sikt 👍",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 28,
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "358f3b976b25b24e",
+      "author": "Per3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/per3",
+      "posted_relative": "for 7 t siden",
+      "text": "· Eg trur me fort kan sjå 7-8 kroner igjen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        2
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "9f23add96ba65cbf",
+      "author": "The pope",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pope",
+      "posted_relative": "for 1 t siden",
+      "text": "Han investerer egne penger i hvertfall",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
       "has_link": false
     }
   ]

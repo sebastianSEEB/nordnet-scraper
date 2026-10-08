@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-08T06:48:50.191167+00:00",
+  "scraped_at": "2026-10-08T14:01:26.827175+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3118ecdf5e19b153",
+      "author": "Tuner71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tuner71",
+      "posted_relative": "for 35 min siden",
+      "text": "Tenk om Vår kjøper Ekofiskfeltet!😍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }
