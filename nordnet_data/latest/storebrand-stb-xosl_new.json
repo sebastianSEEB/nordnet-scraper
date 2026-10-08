@@ -1,9 +1,38 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-07T20:23:01.824106+00:00",
+  "scraped_at": "2026-10-08T00:38:32.017247+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "286a20308f849494",
+      "author": "Ramseier",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ramseier",
+      "posted_relative": "for 14 t siden",
+      "text": "Hvor lenge skal Storebrand fortsette å falle?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "9b67c786b02e857e",
+      "author": "Sal83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sal83",
+      "posted_relative": "for 3 t siden",
+      "text": "Aldri dumt å kjøpe billige aksjee",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

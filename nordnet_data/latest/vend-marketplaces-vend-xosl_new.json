@@ -1,50 +1,24 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-07T20:19:05.556153+00:00",
+  "scraped_at": "2026-10-08T00:34:27.351951+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "910a5dabc5e7bc13",
-      "author": "MagnusFB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magnusfb",
-      "posted_relative": "for 37 min siden",
-      "text": "Falt ut i redigeringa😊 Tomra og Vend kan gi stor oppside Blant favorittene er det Finn-eier Vend og panteselskapet Tomra som har falt mest det siste året. Aksjene er ned henholdsvis rundt 45 og 36 prosent. Samtidig ser analytikerne stor oppside i aksjene. For Vend ligger snittet av kursmålene rundt 60 prosent over dagens kurs. Analytikerne har anbefalinger fra 130 til 440 kroner. Tirsdag nedgraderte Nordea Vend til salg, med et kursmål på 130 kroner, viser tall fra Bloomberg.  Aksjen falt nesten 9 prosent samme morgen. – Vend har falt mye på grunn av AI-frykt, blant annet at AI-agenter skal forstyrre forretningsmodellen. Vi tror denne frykten er overdrevet, og at aksjekursen kan få en hyggelig rekyl utover høsten, forklarte forvalter Alf Inge Gjerde i Storebrand Asset Management. Tidlig september i år fikk Tomra en kalddusj på børsen, etter franske nyhetsmeldinger om at regjeringen dropper planer om en nasjonal panteordning. Aksjen falt over åtte prosent like etter nyheten. Det gjennomsnittlige kursmålet ligger nå rundt 39 prosent over dagens kurs.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 1064,
-      "has_link": false
-    },
-    {
-      "key": "08eae095acb469e8",
-      "author": "ruuno88",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuno88",
-      "posted_relative": "for 4 t siden",
-      "text": "De kjøper jo tilbake.... Ikke en nyhet",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 38,
-      "has_link": false
-    },
-    {
-      "key": "acb67a6f384a57d8",
-      "author": "MagnusFB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magnusfb",
-      "posted_relative": "for 1 t siden",
-      "text": "Fra E24 i dag:",
+      "key": "3c06e4d88916c9d7",
+      "author": "offstock",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/offstock",
+      "posted_relative": "for 3 t siden",
+      "text": "AI trenger ikke automatisk å bli en katastrofe for FINN/Vend. Vend kan blokkere AI-crawlere, begrense scraping og styre tilgang til annonsebasen gjennom API-er eller kommersielle avtaler. En AI agent kan være veldig god til å forstå at jeg vil ha en bil under 200k innen 150 km, men uten tilgang til FINNs ferske annonser vet den ikke hvilke biler som faktisk er til salgs. Det avgjørende er derfor ikke bare hvor god AI blir, men hvem som kontrollerer dataene og tilbudssiden. Hvis FINN fortsatt sitter på inventoryen, kan AI like gjerne ende opp som en ny distribusjonskanal som sender trafikk tilbake til FINN eller må betale for tilgang.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 14,
+      "char_count": 641,
       "has_link": false
     }
   ]

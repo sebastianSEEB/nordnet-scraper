@@ -1,9 +1,25 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-07T20:22:42.513245+00:00",
+  "scraped_at": "2026-10-08T00:38:12.395483+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b6db383edfadfa2f",
+      "author": "Elon2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elon2",
+      "posted_relative": "for 3 t siden",
+      "text": "Nå er det hyperinflasjon på å melde nye kursmål på Hydro! 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }
