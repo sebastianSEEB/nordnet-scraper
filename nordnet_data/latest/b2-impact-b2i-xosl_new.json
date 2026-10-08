@@ -1,9 +1,39 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-08T00:35:22.614929+00:00",
+  "scraped_at": "2026-10-08T06:50:01.796747+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "85418b6256e11820",
+      "author": "Boffa72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/boffa72",
+      "posted_relative": "for 17 t siden",
+      "text": "Ble litt mer i dag. Nu må da vell oppggangen før Q3 starte. 4 uker igjen Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "c66d241262d66170",
+      "author": "hjulgransskakning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hjulgransskakning",
+      "posted_relative": "for 2 t siden",
+      "text": "· Det finnes ingen må-ha-er",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-08T00:36:49.368316+00:00",
+  "scraped_at": "2026-10-08T06:51:27.871369+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ffb3e36c7f26b21d",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 1 t siden",
+      "text": "Seismikkselskapet TGS fikk lavere flåteutnyttelse enn ventet i tredje kvartal på grunn av driftsproblemer på et prosjekt i Nordsjøen som ble fullført i september. Det uttaler TGS-sjef Kristian Johansen i selskapets kvartalsvise driftsoppdatering. – Fremover venter vi at utnyttelsen av streamer 3D-skipene holder seg høy, og hele kapasiteten er booket for fjerde kvartal, sier han. Skipene brukte 18 prosent av kapasiteten på seiling mellom oppdrag, mot 10 prosent i samme kvartal i fjor. Selskapet venter å investere rundt 63 millioner amerikanske dollar i seismikkdata for flere kunder, ned fra 85,9 millioner amerikanske dollar i fjor.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 638,
+      "has_link": false
+    },
+    {
+      "key": "b497d0ac475b10eb",
+      "author": "anderssol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anderssol",
+      "posted_relative": "for 1 t siden",
+      "text": "Kontraktsarbeid gikk fra 19% i q2 til 53% i q3 og de ér fullbooket i q4",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

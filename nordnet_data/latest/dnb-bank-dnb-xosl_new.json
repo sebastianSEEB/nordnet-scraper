@@ -1,9 +1,23 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-08T00:37:56.438097+00:00",
+  "scraped_at": "2026-10-08T06:52:35.261671+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "762e85bb3efa54f5",
+      "author": "Fluesnapper1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fluesnapper1",
+      "posted_relative": "for 2 t siden",
+      "text": "Kan bli spennende å se hvilke fintech bedrifter som spretter ut av disse 400 etter at de må gå...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

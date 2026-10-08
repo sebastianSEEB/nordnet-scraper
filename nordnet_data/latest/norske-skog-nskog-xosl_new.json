@@ -1,9 +1,41 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-08T00:37:09.126559+00:00",
+  "scraped_at": "2026-10-08T06:51:47.559834+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9457be1a3d5dc7da",
+      "author": "birder72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
+      "posted_relative": "for 42 min siden",
+      "text": "https://www.nordnet.no/market/news/66f5d78e-21b3-4a99-84db-0c8d3dfc1f82",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.nordnet.no/market/news/66f5d78e-21b3-4a99-84db-0c8d3dfc1f82"
+      ],
+      "char_count": 71,
+      "has_link": true
+    },
+    {
+      "key": "c2a175bb16a68b22",
+      "author": "birder72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
+      "posted_relative": "for 43 min siden",
+      "text": "Positiv til PM06  NSKOG vil investere i PM06 som blir en avansert maskin som kan produsere magasinpapir og avansert hard papp bl.a. for mat. Den vil også kreve redusert bemanning og lavere produksjon kostnader.  I tillegg åpner de for datalagring senter på tomta samt salg av administrasjon bygg osv.  Da landet de på den løsningen jeg antok med datalagring senter samt PM06. Dette går nok gjennom politisk.  Så gjenstår det å se hvordan markedet reagerer. Dette var løsningen Pareto hadde med kursmål kr 70.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 508,
+      "has_link": false
+    }
+  ]
 }

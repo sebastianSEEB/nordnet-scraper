@@ -1,9 +1,27 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-08T00:35:18.688079+00:00",
+  "scraped_at": "2026-10-08T06:49:57.797065+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e2f57a3f61e7faa8",
+      "author": "Herobrain4x",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herobrain4x",
+      "posted_relative": "for 40 min siden",
+      "text": "Aker Solutions har fått en ny kontrakt med Hafslund Kraft innen vannkraft. Ikke nødvendigvis en kontrakt som alene flytter nålen for AKSO, men positivt med nye oppdrag innen vannkraft og videre diversifisering mot energimarkedet. Link til nyheten under for de som vil lese mer: https://news.cision.com/aker-solutions-asa/r/aker-solutions-awarded-nes-hydropower-upgrade-by-hafslund-kraft,c4405977",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://news.cision.com/aker-solutions-asa/r/aker-solutions-awarded-nes-hydropower-upgrade-by-hafslund-kraft,c4405977"
+      ],
+      "char_count": 395,
+      "has_link": true
+    }
+  ]
 }

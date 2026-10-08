@@ -1,9 +1,27 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-08T00:35:38.452763+00:00",
+  "scraped_at": "2026-10-08T06:50:17.885306+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4fd9d76a1fe704cf",
+      "author": "NorthbyNorthwest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
+      "posted_relative": "for 57 min siden",
+      "text": "· https://www.arista.com/en/company/news/press-release/24818-pr-20261007?utm_source=chatgpt.com Arista markedsverdi: USD 270 mrd",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://www.arista.com/en/company/news/press-release/24818-pr-20261007?utm_source=chatgpt.com"
+      ],
+      "char_count": 128,
+      "has_link": true
+    }
+  ]
 }

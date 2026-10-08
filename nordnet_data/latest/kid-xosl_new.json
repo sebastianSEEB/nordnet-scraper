@@ -1,9 +1,25 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-10-08T00:37:28.750146+00:00",
+  "scraped_at": "2026-10-08T06:52:07.873970+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "05902f3d891fc7db",
+      "author": "InvestorNJ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investornj",
+      "posted_relative": "for 53 min siden",
+      "text": "Interiørkjeden fikk inntekter på 1,01 millliarder kroner i tredje kvartal, et hopp på 15 prosent fra 879 millioner kroner i tilsvarende kvartal i fjor. Det viser Kids foreløpige tall for kvartalet. Nettsalgets andel av salget falt til 11,9 prosent fra 14,4 prosent i perioden. Like-for-like-salget økte med 14,6 prosent. I segmentet Kid interiør var salgsveksten på 14,3 prosent til 656 millioner kroner, mens den var på 17 prosent til 362 millioner svenske kroner i Hemtex. Kid legger frem den fullstendige kvartalsrapporten 5. november.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 538,
+      "has_link": false
+    }
+  ]
 }
