@@ -1,43 +1,9 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-08T14:03:00.635624+00:00",
+  "scraped_at": "2026-10-08T14:13:10.593084+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "15a341f24a3a277c",
-      "author": "NorthbyNorthwest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
-      "posted_relative": "for 8 t siden",
-      "text": "· https://www.arista.com/en/company/news/press-release/24818-pr-20261007?utm_source=chatgpt.com Arista markedsverdi: USD 270 mrd Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        9,
-        3
-      ],
-      "links": [
-        "https://www.arista.com/en/company/news/press-release/24818-pr-20261007?utm_source=chatgpt.com"
-      ],
-      "char_count": 148,
-      "has_link": true
-    },
-    {
-      "key": "47e0df175608e065",
-      "author": "Giskaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Arista-meldingen er etter min mening positivt for caset NAPA på lengre sikt.  Industrien bygger nå rack-scale AI rundt den typen arkitektur NAPA allerede er posisjonert med D- matrix. D-Matrix samarbeider med Arista, bruker NAPA-teknologi i JetStream og har nå Corsair i full produksjon. NAPA har dermed ikke bare en AI-design win – de kan være posisjonert som en liten, men kritisk komponent i en arkitektur som kan skaleres til enorme volumer. Men selvsagt, dette må bevises i ordrer. 🤞",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 488,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

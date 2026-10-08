@@ -1,38 +1,9 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-10-08T14:04:55.794412+00:00",
+  "scraped_at": "2026-10-08T14:14:58.535713+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "04a353873f6f475d",
-      "author": "heldigg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heldigg",
-      "posted_relative": "for 2 t siden",
-      "text": "Kan det komme noen spennende kursmål imorgen da?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 48,
-      "has_link": false
-    },
-    {
-      "key": "4e958328e0ebd44f",
-      "author": "Terskeltrening",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terskeltrening",
-      "posted_relative": "for 7 t siden",
-      "text": "Sterkt!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 7,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
