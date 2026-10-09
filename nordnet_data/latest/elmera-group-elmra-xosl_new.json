@@ -1,9 +1,25 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-10-09T13:50:06.959295+00:00",
+  "scraped_at": "2026-10-09T14:07:30.910632+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "107029164019d2ec",
+      "author": "Magdalon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magdalon",
+      "posted_relative": null,
+      "text": "5. okt. Noen som vet til hvilken pris de må kjøpe ut de siste aksjene til? 47?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    }
+  ]
 }

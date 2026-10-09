@@ -1,41 +1,9 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-09T13:45:09.800507+00:00",
+  "scraped_at": "2026-10-09T14:02:45.161923+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "8abe8a44587a4dc5",
-      "author": "BulleDuppen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulleduppen",
-      "posted_relative": null,
-      "text": "5. okt. Har vi nøyaktigdato når dette vinduet lukker seg ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
-    },
-    {
-      "key": "43a65cd513647a35",
-      "author": "PlanteraD",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/planterad",
-      "posted_relative": null,
-      "text": "5. okt. · Hvor ofte vil denne aksjen betale utbytte?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        5
-      ],
-      "links": [],
-      "char_count": 52,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
