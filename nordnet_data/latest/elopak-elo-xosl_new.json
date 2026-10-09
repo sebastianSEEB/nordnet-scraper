@@ -1,9 +1,87 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-09T06:59:29.998476+00:00",
+  "scraped_at": "2026-10-09T13:47:12.425481+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "92b80facc7dde350",
+      "author": "Tech1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech1",
+      "posted_relative": "for 5 t siden",
+      "text": "Fin flyt med produktnyheter: https://www.elopak.com/news/2026/cartons-capture-new-consumers-for-rapps/ https://www.elopak.com/news/2026/quick-and-mess-free-eggs-chefs-say-yes-to-st.-ewe-quality-in-ready-to-pour-cartons/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.elopak.com/news/2026/cartons-capture-new-consumers-for-rapps/",
+        "https://www.elopak.com/news/2026/quick-and-mess-free-eggs-chefs-say-yes-to-st.-ewe-quality-in-ready-to-pour-cartons/"
+      ],
+      "char_count": 219,
+      "has_link": true
+    },
+    {
+      "key": "f32143dba0afa73a",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "5. okt. · Endret Da synes jeg at denne var blitt såpass billig at beholdningen ble økt 50% på 34,30. I disse tider er det farlig å si at man synes en aksje er billig men med tanke på det forestående utbyttet på 70 øre synes jeg at Elopak virker som en ganske trygg aksje. ....og så får tiden vise om 34,30 er billig eller dyrt :-) Men det er nå litt spesielt å sende en aksje 3-3,5% basert på en kjøpsanbefaling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 412,
+      "has_link": false
+    },
+    {
+      "key": "4920e6ca9b3ba676",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 5 t siden",
+      "text": "Fine tendenser idag for kursen så langt idag men volumet er jo beskjedent. Tenkte kanskje at noen flere ville inn og sitte med aksjen før eks.dato 15.oktober......",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 163,
+      "has_link": false
+    },
+    {
+      "key": "321a34bc39ef9fd6",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 53 min siden",
+      "text": "Uansett blir det meget spennende å se q3 nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "fa79103c4b3a2f53",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": null,
+      "text": "5. okt. · Ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

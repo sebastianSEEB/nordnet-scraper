@@ -1,9 +1,39 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-10-09T07:03:05.936243+00:00",
+  "scraped_at": "2026-10-09T13:50:49.720300+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "208395b213a5333d",
+      "author": "BBBTRH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbbtrh",
+      "posted_relative": null,
+      "text": "5. okt. Usolgte boliger hoper seg opp i Oslo.  Det tar 40 dager å selge en bolig.  Kjøpers marked. Ligner på finanskrisen iflg megler.  Svakere salg enn i fjor og omsetningstiden bare øker på.  Vær forsiktig, denne kan falle mye og november er historisk den svakeste måneden for Selvaag i året.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        7
+      ],
+      "links": [],
+      "char_count": 294,
+      "has_link": false
+    },
+    {
+      "key": "bb97b28ec63a1625",
+      "author": "RogerJr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rogerjr",
+      "posted_relative": "for 4 t siden",
+      "text": "Jo. De små sliter, de store gjør det bra. Selvaag vil levere rekord omsetning fy26, 27 og 28. men virker ikke som det bryr markedet. Marginene ser også bra ut.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    }
+  ]
 }

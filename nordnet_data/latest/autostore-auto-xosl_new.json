@@ -1,9 +1,43 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-09T06:59:53.645265+00:00",
+  "scraped_at": "2026-10-09T13:47:36.081950+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "27d69f46874bec8f",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 6 t siden",
+      "text": "https://www.autostoresystem.com/news/villoid-selects-autostore-for-worlds-largest-pio-installation Ser jeg ikke har fått automatisk mail på denne, deler denne nyheten her i tilfellet noen ikke har fått den med seg. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        23,
+        2
+      ],
+      "links": [
+        "https://www.autostoresystem.com/news/villoid-selects-autostore-for-worlds-largest-pio-installation"
+      ],
+      "char_count": 234,
+      "has_link": true
+    },
+    {
+      "key": "2385851b13cc1480",
+      "author": "Det kan alltid bli verre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/det-kan-alltid-bli-verre",
+      "posted_relative": "for 3 t siden",
+      "text": "Ja, og kunder kommer tilbake til AutoStore og ønsker mer og større... Har troen på selskapet fremover og er innstilt på å sitte langsiktig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    }
+  ]
 }

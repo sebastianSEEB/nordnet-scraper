@@ -1,9 +1,36 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-09T07:02:46.842465+00:00",
+  "scraped_at": "2026-10-09T13:50:30.406704+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a1e5f8566fd0a3f1",
+      "author": "Jackpoot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpoot",
+      "posted_relative": "for 6 t siden",
+      "text": "Ser ut som den vil holde seg rundt 4 blank frem til q3, blir spennende hvordan det går Som sagt tidligere venter jeg med inngang til rapporten har kommet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "fff0371d481b2662",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "Jeg tror aksjen vil korigerer pent opp idag. Sterk støtte på rundt 4. kjøpere bygger seg opp og selgere har stoppet opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    }
+  ]
 }

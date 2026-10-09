@@ -1,22 +1,38 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-09T07:00:05.217682+00:00",
+  "scraped_at": "2026-10-09T13:47:47.628804+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6065a7bbc69a4222",
-      "author": "Superinnvest1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/superinnvest1",
-      "posted_relative": "for 4 min siden",
-      "text": "Neste stopp 109.-",
+      "key": "de58ecc4d45b463b",
+      "author": "keyb9",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keyb9",
+      "posted_relative": "for 4 t siden",
+      "text": "Latterlig kursmål fra DNB på nytt? Forsøker de å kjøpe den selv og presse kurs ned? Se på forward P/E og Eps estimater og at selskapet selv sier at de ser positive ting fremover. Ett lite tilbake rykk at flåte utnyttelsen ikke ble helt som forespeilet, men det ligger flere kontrakter fremover. Oljeprisen holder seg over 100 dollar. Jeg mener aksjen er underpriset og kommer til å holde til minst 180 - 190. Gjør en egen vurdering. Jeg fyller heller ikke på, men er fornøyd med min eksponering.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 495,
+      "has_link": false
+    },
+    {
+      "key": "6e90a92fdef74698",
+      "author": "keyb9",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keyb9",
+      "posted_relative": "for 4 t siden",
+      "text": "Denne kommentaren gjør meg bull: -Til tross for høy ordreinngang for 3D-streamerfartøyer inn mot tredje kvartal, ble utnyttelsesgraden lavere enn ventet. Dette skyldtes operasjonelle utfordringer i et multiklientprosjekt i Nordsjøen som ble fullført i september. Fremover forventer vi fortsatt høy utnyttelse av 3D-streamerfartøyene, ettersom all kapasitet er booket for fjerde kvartal, sier konsernsjef Kristian Johansen i TGS.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 17,
+      "char_count": 428,
       "has_link": false
     }
   ]

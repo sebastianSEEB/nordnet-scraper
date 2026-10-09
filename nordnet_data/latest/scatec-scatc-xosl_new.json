@@ -1,9 +1,56 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-10-09T06:58:20.712931+00:00",
+  "scraped_at": "2026-10-09T13:46:01.292717+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b16d75479ede4234",
+      "author": "Revisor257",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revisor257",
+      "posted_relative": "for 3 t siden",
+      "text": "Dette er et fantastisk selskap som bidrar til billig energi til fattige land som samtidig tjener gode penger på det. Selskap å eie for evigheten :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 147,
+      "has_link": false
+    },
+    {
+      "key": "caf6d9425e8454c4",
+      "author": "Niels57k",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/niels57k",
+      "posted_relative": "for 2 t siden",
+      "text": "· så må den bare stige 196,93% for at jeg er i null :)",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "aa443be6b61312a2",
+      "author": "Theo.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/theo-1",
+      "posted_relative": "for 2 t siden",
+      "text": "Fint å se +4% i dag😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

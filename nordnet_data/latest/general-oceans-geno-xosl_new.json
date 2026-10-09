@@ -1,9 +1,55 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-09T07:02:54.309642+00:00",
+  "scraped_at": "2026-10-09T13:50:38.032204+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "fcde80985cde5ea1",
+      "author": "Gellenen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gellenen",
+      "posted_relative": null,
+      "text": "5. okt. Ja prat aktjen ned,for nå skal jeg hamstre.denne her er en ny verden for meg,men greit det er en mygg,,der omsetningen er stort sett mini mini.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "2bce7b2bd05bad75",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
+      "posted_relative": null,
+      "text": "5. okt. Konsensus på analyser er rundt 30,- Det er +45%  IPO var på 21,- og vi har hatt ebit vekst siden. Dette er en gullgruve 🫡",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        5
+      ],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "ba8b1d03018a037e",
+      "author": "moneyglitch69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moneyglitch69",
+      "posted_relative": null,
+      "text": "5. okt. Debuterer her på 20,40",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

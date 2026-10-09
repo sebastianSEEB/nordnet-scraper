@@ -1,9 +1,53 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-09T07:01:47.802274+00:00",
+  "scraped_at": "2026-10-09T13:49:32.107642+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3152b9c73da4ae2a",
+      "author": "Mithrox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mithrox",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Så vidt jeg kan se har ingenting fundamentalt endret seg, Storebrand har en veldig god cashflow, de har en høy solvensgrad, de gjør tilbakekjøp og de betaler et helt OK utbytte i tillegg til tilbakekjøpene. Med høyere renter vil også produktene med garantert avkastning være mer lønnsomme enn tidligere, så jeg har vanskelig for å se at Storebrand skal slite i tiden fremover, og dermed bør heller ikke verdivuderingen gå negativ vei. Storebrand er min forever-investering (inntil eventuelt noe stort skjer som gjør at jeg må selge), og jeg har benyttet muligheten til å kjøpe mer siste uken.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 592,
+      "has_link": false
+    },
+    {
+      "key": "d4b5bd6a259734a4",
+      "author": "børsmannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brsmannen",
+      "posted_relative": "for 23 t siden",
+      "text": "Nei, vanskelig å finne noe som skulle trigge denne nedgangen, annet enn noen som har fått det for seg at de må ut av aksjen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "0d0d86b6bb7d7090",
+      "author": "Bondsofoslo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bondsofoslo",
+      "posted_relative": "for 4 t siden",
+      "text": "· 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }
