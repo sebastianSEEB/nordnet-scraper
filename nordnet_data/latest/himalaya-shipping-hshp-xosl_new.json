@@ -1,97 +1,51 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-10-08T20:20:17.255547+00:00",
+  "scraped_at": "2026-10-09T00:48:22.930768+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 6,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "453ba21af3b80742",
-      "author": "Buggie1971",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buggie1971",
-      "posted_relative": "for 12 t siden · Endret",
-      "text": "Aner ikke om noen andre enn meg er interessert i dette, men jeg legger det ut likevel. Har laget en oversikt over hvor de 12 skipene til Himalaya Shipping til enhver tid er, historikk til skipene m.m. i tillegg har jeg kvartalsoversikt over utbytter, og estimat for kommende kvartal. Jeg har en rutine som kjører om morgenen hver dag og henter ut data for hvert skip via marine traffic, samt hva jeg legger inn av kurshistorikk, rater og FFA (litt mer irregulær oppdatering) Har laget et delbart claude-artifakt: https://claude.ai/artifact/K39GwKN6SxBDbBZ1JDZYd2",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        19,
-        10
-      ],
-      "links": [
-        "https://claude.ai/artifact/K39GwKN6SxBDbBZ1JDZYd2"
-      ],
-      "char_count": 562,
-      "has_link": true
-    },
-    {
-      "key": "d2eac4a20ff9ef1a",
-      "author": "Dansören",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dansoren",
-      "posted_relative": "for 1 t siden",
-      "text": "· GAV på 83.2 NOK og skulle ønske jeg hadde kjøpt mye mer for lenge siden. Det er lett når man har fasiten. Men må være fornøyd likevel.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 136,
-      "has_link": false
-    },
-    {
-      "key": "beef029fcd894192",
-      "author": "Dansören",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dansoren",
-      "posted_relative": "for 1 t siden",
-      "text": "· Tusen takk for den fine informasjonen. Jeg får se nærmere på den i morgen for den er omfattende.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 98,
-      "has_link": false
-    },
-    {
-      "key": "c9d9c00be5e03f28",
-      "author": "Zozo6",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zozo6",
-      "posted_relative": "for 2 t siden",
-      "text": "· Er det på tide at denne dingsen faller, eller skal skipet enda høyere?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 72,
-      "has_link": false
-    },
-    {
-      "key": "8597ea16ad168b89",
+      "key": "b5a715954feeddd6",
       "author": "lammat1245",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lammat1245",
-      "posted_relative": "for 1 t siden",
-      "text": "Jeg har GAV på 113 og synes denne utbyttebetalingen er raus!",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg har GAV på 113 og synes denne utbyttebetalingen er raus! Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        1
+        2,
+        2
       ],
       "links": [],
-      "char_count": 60,
+      "char_count": 80,
       "has_link": false
     },
     {
-      "key": "edbad6c94be57058",
-      "author": "SnippSnappSnute",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snippsnappsnute",
-      "posted_relative": "for 2 t siden",
-      "text": "Utrolig sterkt. En fryd å være Himalaya aksjonær om dagen",
+      "key": "d0c4ba1354ee3666",
+      "author": "svendm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svendm",
+      "posted_relative": "for 3 t siden",
+      "text": "· Virkelig smart og god oppstilling - spennende å se hvor skipene seiler 😉",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 57,
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "8114f47c5cd26821",
+      "author": "TheDude303",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thedude303",
+      "posted_relative": "for 2 t siden",
+      "text": "GAV på 126, skulle også hatt mer =)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
       "has_link": false
     }
   ]
