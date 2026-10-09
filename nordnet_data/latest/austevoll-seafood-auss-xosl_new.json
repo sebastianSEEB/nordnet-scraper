@@ -1,9 +1,27 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-10-09T14:04:28.011966+00:00",
+  "scraped_at": "2026-10-09T19:56:09.092222+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f0e5ad7fea3ca226",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": null,
+      "text": "5. okt. https://ilaks.no/fem-utstyrsleverandorer-flagges-ut-men-det-er-en-vesentlig-mellom-de-to-nye-eierne/ Nå har utlandet begynt å kjøpe opp norske oppdrettsrelaterte virksomheter. Veldig spent på om disse også vil gå for hele verdikjeden etterhvert? Da sitter noen av oss, godt posisjonert her....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://ilaks.no/fem-utstyrsleverandorer-flagges-ut-men-det-er-en-vesentlig-mellom-de-to-nye-eierne/"
+      ],
+      "char_count": 301,
+      "has_link": true
+    }
+  ]
 }

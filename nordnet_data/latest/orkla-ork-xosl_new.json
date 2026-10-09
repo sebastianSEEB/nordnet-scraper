@@ -1,9 +1,41 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-09T14:06:53.083967+00:00",
+  "scraped_at": "2026-10-09T19:58:38.310334+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8be6757df621f516",
+      "author": "Porteføljebyggeren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/portefljebyggeren",
+      "posted_relative": "for 4 t siden",
+      "text": "Godt poeng, Aksjeulven 🙂 Nordea opprettholder faktisk sin hold anbefaling med kursmål 99 kroner. De nedjusterer omsetningsestimatene for 2027-2028 med rundt 1 %, men uten vesentlige endringer i forventet resultat per aksje. Det tyder på at inntjeningsforventningene foreløpig holder seg relativt stabile. Q2 viste flat organisk vekst, men samtidig 2,5 % vekst i underliggende driftsresultat og et sterkt resultatbidrag fra Jotun. Q3 blir derfor interessant, særlig med tanke på volumvekst, marginutvikling og kontantstrøm. Enig i at 100 kroner innen desember absolutt er mulig dersom resultatene overrasker positivt. Og som dere er inne på, er ikke en analytikernedgradering nødvendigvis ensbetydende med videre kursfall. På lengre sikt er det fundamentale forhold som bør veie tyngst. Jeg mener fortsatt Orkla har et interessant langsiktig investeringscase 🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 859,
+      "has_link": false
+    },
+    {
+      "key": "d1d7e60a9566b3e9",
+      "author": "Aksjeulven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeulven",
+      "posted_relative": "for 7 t siden",
+      "text": "Nedgradering til 99kr fra Nordea, men egentlig veldig lite regnskapsmessige justeringer fra analytikeren. Tror Q3 blir bra og vi ser 100kr innen desember Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 173,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-09T14:04:16.805259+00:00",
+  "scraped_at": "2026-10-09T19:55:57.646906+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ad1ef24f98c7cfc6",
+      "author": "LordRupertEverton",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lordruperteverton",
+      "posted_relative": "for 5 t siden",
+      "text": "· Hvorfor er den kommende x-dagen ikke opprettet her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "9eea125fc74de5ca",
+      "author": "Panzerhanzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
+      "posted_relative": "for 4 t siden",
+      "text": "Lurer jeg også på",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

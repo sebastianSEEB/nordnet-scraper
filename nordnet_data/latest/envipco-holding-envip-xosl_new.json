@@ -1,66 +1,67 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-09T14:08:20.059428+00:00",
+  "scraped_at": "2026-10-09T20:00:09.407109+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 9,
   "new_posts_count": 4,
   "posts": [
     {
-      "key": "5635778c11522efe",
+      "key": "919ba9ecb44cb946",
       "author": "Vulkansen",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vulkansen",
-      "posted_relative": "for 11 min siden · Endret",
-      "text": "Det er en oppdatert news frs DRS Moldovia fra 12 sept som sier: Target selection decision: October 15th. Så fortsatt 5-6 dager til vi får vite noe https://ecoretsda.md/en/noutati/",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://ecoretsda.md/en/noutati/"
-      ],
-      "char_count": 179,
-      "has_link": true
-    },
-    {
-      "key": "7798bf90bf99a79a",
-      "author": "MKS1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mks1",
-      "posted_relative": "for 5 min siden · Endret",
-      "text": "Det jeg synes er svært positivt med Envipco, er at shorten nå har falt fra 4,76 % til 4,12 %. Det interessante er at shortaktørene reduserer når kursen er over 40 kroner, ikke da aksjen stod i 33 kroner. En av aktørene reduserte faktisk posisjonen sin da aksjen stod i 41,70 kroner! At de dekker inn på såpass mye høyere kursnivåer, synes jeg er et meget positivt signal. Spennende om flere følger etter!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 404,
-      "has_link": false
-    },
-    {
-      "key": "eb2cd4c0e492aeee",
-      "author": "Upsidedown1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upsidedown1",
-      "posted_relative": "for 6 min siden",
-      "text": "Det vinkles mot vekst, men tjener de penger? Har en lang rekke med røde tall og Q2 var en del av en lang rekke..",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 112,
-      "has_link": false
-    },
-    {
-      "key": "60429df68a4e188c",
-      "author": "Vulkansen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vulkansen",
-      "posted_relative": "for 13 min siden",
-      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "Det er en oppdatert news frs DRS Moldovia fra 12 sept som sier: Target selection decision: October 15th. Så fortsatt 5-6 dager til vi får vite noe https://ecoretsda.md/en/noutati/ Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4,
         2
       ],
+      "links": [
+        "https://ecoretsda.md/en/noutati/"
+      ],
+      "char_count": 199,
+      "has_link": true
+    },
+    {
+      "key": "61c04ba05302e81a",
+      "author": "Upsidedown1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upsidedown1",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Det vinkles mot vekst, men tjener de penger? Har en lang rekke med røde tall og Q2 var også nedslående… Det er en viss mulighet for at de vinner kontrakter ved å underby de andre i markedet på pris for tiden.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 41,
+      "char_count": 208,
+      "has_link": false
+    },
+    {
+      "key": "f12d82dce68ccfb5",
+      "author": "Harries",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
+      "posted_relative": "for 5 t siden",
+      "text": "· Den operasjonelle giringen vil jo stige i takt med omsetningen. Det er de siste omsette kronene man tjener på, ikke de første.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "5200710a1c3a38c1",
+      "author": "Vulkansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vulkansen",
+      "posted_relative": "for 3 t siden",
+      "text": "Du har rett, da er det info fra 26 august med RVM dato award notice 9 oktober som gjelder",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 89,
       "has_link": false
     }
   ]

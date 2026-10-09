@@ -1,9 +1,25 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-09T14:05:21.333191+00:00",
+  "scraped_at": "2026-10-09T19:57:03.796348+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "29d8294e8afed0eb",
+      "author": "Blackfrog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blackfrog",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva mener du med \"hvor mye tror vi dette har å si\", hva er \"dette\"?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

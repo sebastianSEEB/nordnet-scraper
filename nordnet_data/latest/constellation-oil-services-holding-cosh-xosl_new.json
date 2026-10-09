@@ -1,9 +1,38 @@
 {
   "slug": "constellation-oil-services-holding-cosh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/constellation-oil-services-holding-cosh-xosl",
-  "scraped_at": "2026-10-09T14:03:45.702641+00:00",
+  "scraped_at": "2026-10-09T19:55:26.182821+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5ae6f0efc3b00939",
+      "author": "N00bish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/n00bish",
+      "posted_relative": "for 5 t siden",
+      "text": "Ser jo ut som systematisk dumping. Dere som følger med - noen som store fisker som er på vei ut?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "4f9b1504cf02dbfa",
+      "author": "Olavlad",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olavlad",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Som det ble skrevet et par poster under, 500.000 aksjer selges av en større investor.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

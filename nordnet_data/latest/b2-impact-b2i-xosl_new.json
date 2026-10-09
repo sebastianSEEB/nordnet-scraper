@@ -1,9 +1,23 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-09T14:03:53.745020+00:00",
+  "scraped_at": "2026-10-09T19:55:34.199493+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "24b9ce89bf56a435",
+      "author": "SimonAkt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simonakt",
+      "posted_relative": "for 57 min siden",
+      "text": "· Alt grønt unntatt b2i",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

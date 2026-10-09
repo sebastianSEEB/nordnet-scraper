@@ -1,9 +1,39 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-09T14:05:02.346410+00:00",
+  "scraped_at": "2026-10-09T19:56:44.244074+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1391cc537635aa1f",
+      "author": "Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": "for 4 t siden",
+      "text": "Tror du selv på våset du lirer av deg? Hva du mener DNO er verdt og hva markedet er villig til å betale er to forskjellige anliggender. Akkurat samme gnålet har jeg hørt fra DNO aksjonærer på SOME siden 2005. Sterk spiller? Mener du Trump? Om noen manipulerer DNO-kursen må det være Trump, som har oljeprisen i sin hule hånd.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 325,
+      "has_link": false
+    },
+    {
+      "key": "336bc9dff9902d0d",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 12 t siden",
+      "text": "· Er vel ganske tydelig at en eller annen sterk spiller holder DNO-kursen nede, minste lille ting senker aksjen med en gang, normalt burde vi være på mellom 25 og 30 kan man ty og tenke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 185,
+      "has_link": false
+    }
+  ]
 }

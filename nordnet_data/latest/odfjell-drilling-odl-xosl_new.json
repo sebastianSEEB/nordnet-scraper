@@ -1,9 +1,25 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-10-09T14:03:41.952375+00:00",
+  "scraped_at": "2026-10-09T19:55:22.324435+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fb1cb627d8a7bd84",
+      "author": "baleros",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baleros",
+      "posted_relative": "for 5 t siden",
+      "text": "Nå er vi på vei - rent teknisk - mot 106,4. Etter det så spørs det hvor vi lander når resultatet for q3 blir lagt frem 03.10.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

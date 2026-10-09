@@ -1,9 +1,53 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-09T14:08:46.578560+00:00",
+  "scraped_at": "2026-10-09T20:00:37.233328+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "9e477b4c7bc9adf0",
+      "author": "TottenhamHotspur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tottenhamhotspur",
+      "posted_relative": "for 3 t siden",
+      "text": "Aksjen har støtte ved midtlinjen i den fallende trendkanalen som ble etablert tilbake i februar 2022.  Vi får håpe aksjen ikke skal videre ned til 2-tallet for da blir det nye kjøpsmuligheter. Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 212,
+      "has_link": false
+    },
+    {
+      "key": "819013ca402ecbeb",
+      "author": "pustmedmagen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pustmedmagen",
+      "posted_relative": "for 3 t siden",
+      "text": "Teste ut Salmon laksen da 🙏🫶",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    },
+    {
+      "key": "06639d753c1315c1",
+      "author": "StoneColdTrader",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stonecoldtrader",
+      "posted_relative": "for 12 min siden",
+      "text": "Det er ikke noe støtte 😂",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

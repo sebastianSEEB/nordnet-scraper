@@ -1,9 +1,55 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-09T14:01:29.532162+00:00",
+  "scraped_at": "2026-10-09T19:53:07.859385+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "76a0e4b51ec42128",
+      "author": "Revolutionen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revolutionen",
+      "posted_relative": "for 5 t siden",
+      "text": "· Blandet utvikling for Hafnia i Baltic Exchanges siste ukentlige rapport. LR2 holder fortsatt svært høye nivåer, med TC1 (Midtøsten–Japan) på cirka 267 600 USD/dag og TC20 (Midtøsten–Europa) på 281 800 USD/dag. Samtidig har MR-markedet svekket seg, med Atlantic MR Basket ned fra 64 200 til 46 300 USD/dag. Fortsatt sterke LR-rater, men jeg vil se at også MR stabiliserer seg før man snakker om en bred henting for produkttankere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 431,
+      "has_link": false
+    },
+    {
+      "key": "643dd4eb42f36df9",
+      "author": "TT1964",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tt1964",
+      "posted_relative": "for 5 t siden",
+      "text": "· hvis du tror den stiger er det aldri dumt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "80430da460075401",
+      "author": "Kevin 1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kevin-1234",
+      "posted_relative": "for 5 t siden",
+      "text": "· Er det dumt å hoppe på vognen nå 😬😬",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }
