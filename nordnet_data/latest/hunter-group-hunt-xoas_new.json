@@ -1,39 +1,66 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-09T00:52:42.397883+00:00",
+  "scraped_at": "2026-10-09T07:01:00.607305+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "c0255a8941d4c8f7",
-      "author": "Money gang",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/money-gang",
-      "posted_relative": "for 3 t siden",
-      "text": "...Og her ser vi hvorfor ikke AI funker på HUNT..",
-      "reply_count": null,
+      "key": "8a7c047cfa99ff34",
+      "author": "zmefc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zmefc",
+      "posted_relative": "for 29 min siden",
+      "text": "· For å være rettferdig nsker jeg å si at dere alle har gjort en ganske god avtale, og bra jobbet; på dette prisnivået ser det imidlertid ikke ut til å være den mest attraktive eller bærekraftige investeringen. Men det avhenger i svært stor grad av ens egen porteføljestrategi - vil jeg hevde.",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 49,
+      "char_count": 293,
       "has_link": false
     },
     {
-      "key": "897169dfb19bc4d3",
-      "author": "TRD 100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
-      "posted_relative": "for 3 t siden",
-      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "key": "8cea711ab1add334",
+      "author": "Axelrod1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Mercuria betaler mer og mer etter som ruter rundt TD3C stiger. Fra oppdatering i dag - høyeste betaling siden starten på kontraktsbruddet, kun ca. 20 % av full betaling (totalt) mangler sammenlignet med tidligere reduserte betalinger i intervallet 30-60 % av total TCE.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        5
+      ],
+      "links": [],
+      "char_count": 271,
+      "has_link": false
+    },
+    {
+      "key": "cd4f3bc10524f20c",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 13 min siden",
+      "text": "Gårsdagens \"våre\" rater. Rater som vi får betalt efter. Stort sett da! Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina          1.318,75     1.412.594",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         4
       ],
       "links": [],
-      "char_count": 41,
+      "char_count": 171,
+      "has_link": false
+    },
+    {
+      "key": "252d397dfacf8cdc",
+      "author": "Klesh99",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klesh99",
+      "posted_relative": "for 1 t siden",
+      "text": "· hva betyr dette?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
       "has_link": false
     }
   ]

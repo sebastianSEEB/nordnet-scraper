@@ -1,9 +1,23 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-09T00:50:07.709935+00:00",
+  "scraped_at": "2026-10-09T06:58:24.537179+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "82dad3c8320c095a",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 49 min siden",
+      "text": "Noen som har noe oppdatert info omkring mulig salg av Island-fabrikken til feks datasenter-formål ? Bruke salgsbeløpet til nedbetaling av gjeld, nyinvesteringer eller  kanskje litt mer utbytteutbetaling ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    }
+  ]
 }

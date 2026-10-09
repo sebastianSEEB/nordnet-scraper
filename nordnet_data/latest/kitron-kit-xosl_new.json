@@ -1,9 +1,68 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-09T00:49:36.371043+00:00",
+  "scraped_at": "2026-10-09T06:57:53.688849+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "c5dab2849fc7f2be",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 16 min siden",
+      "text": "Forvalter Per Mehol Stenersen Et eksempel er Kitron, som tjener på flere makrotrender med sin brede forsvarseksponering og økende inntekter fra datasentre. Kitrons virksomheter utenfor forsvar har vært mer eksponert mot makro- og renteforhold, men nå begynner datasentre å dominere denne delen, hvilket gjør inntjeningen ekstremt robust, ifølge forvalteren.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 357,
+      "has_link": false
+    },
+    {
+      "key": "73519e16baee9235",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 30 min siden",
+      "text": "Forvalter Per Mehol Stenersen mener vi er på vei mot en børskorreksjon, men ser likevel god oppside for fem aksjer, blant annet Kitron",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "e1e4423f35ca9e84",
+      "author": "Tafjord1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tafjord1",
+      "posted_relative": "for 47 min siden",
+      "text": "God morgen ! Hva kan grunnen være at ordredybden ligger der den gjør ! Er det kommet noen nyheter som jeg ikke har fått med ????",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "30547e6e5dea1144",
+      "author": "Jawa1337",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawa1337",
+      "posted_relative": "for 37 min siden",
+      "text": "· 103,9 ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
+      "has_link": false
+    }
+  ]
 }

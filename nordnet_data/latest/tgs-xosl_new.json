@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-09T00:51:48.639584+00:00",
+  "scraped_at": "2026-10-09T07:00:05.217682+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6065a7bbc69a4222",
+      "author": "Superinnvest1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/superinnvest1",
+      "posted_relative": "for 4 min siden",
+      "text": "Neste stopp 109.-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

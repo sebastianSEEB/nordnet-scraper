@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-09T00:51:44.898775+00:00",
+  "scraped_at": "2026-10-09T07:00:01.301306+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "91c61add9daf356d",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 1 t siden",
+      "text": "Etter hva dette viser fra Fact set på siden her på Nordnet,  kan en kanskje regne med omtrent dette de estimerer for 2026, utbetalt våren 27.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "9d41af8313848903",
+      "author": "MJPNor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mjpnor",
+      "posted_relative": "for 12 t siden",
+      "text": "· Er det noe snakk om utbytte her? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

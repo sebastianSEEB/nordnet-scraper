@@ -1,9 +1,40 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-09T00:48:11.308267+00:00",
+  "scraped_at": "2026-10-09T06:56:27.169710+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4ba13340e98b307f",
+      "author": "acpeters",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acpeters",
+      "posted_relative": "for 4 min siden",
+      "text": "Lavere produksjon og lave lager & samme antal båter tilgjengelig i markedet > nytt fall i ratene i går. https://fearnpulse.com/fearnleys-weekly-report#3 Ja enig, denne må vurderes som et helt nytt selskap",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://fearnpulse.com/fearnleys-weekly-report#3"
+      ],
+      "char_count": 204,
+      "has_link": true
+    },
+    {
+      "key": "33cb4da2b3566d36",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 14 t siden",
+      "text": "· Litt skummelt når man går inn på et forum og veldig mange er positive, men nesten alle har stengte porteføljer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    }
+  ]
 }

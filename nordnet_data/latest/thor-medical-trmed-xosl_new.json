@@ -1,9 +1,23 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-09T00:55:13.251585+00:00",
+  "scraped_at": "2026-10-09T07:03:33.032598+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b6c217642938e239",
+      "author": "Pilen oppover",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pilen-oppover",
+      "posted_relative": "for 12 min siden",
+      "text": "Gode nyheter. Men påvirker det aksjekursen? Neppe",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

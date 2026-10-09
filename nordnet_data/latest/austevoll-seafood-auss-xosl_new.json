@@ -1,9 +1,27 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-10-09T00:50:58.446914+00:00",
+  "scraped_at": "2026-10-09T06:59:14.904026+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0b1c134b07c3581d",
+      "author": "Skoggy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skoggy",
+      "posted_relative": null,
+      "text": "5. okt. Gode nyheter: https://www.nrk.no/nordland/nye-eksporttall-fra-sjomatradet_-aldri-har-vi-eksportert-mer-laks-1.18043798",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.nrk.no/nordland/nye-eksporttall-fra-sjomatradet_-aldri-har-vi-eksportert-mer-laks-1.18043798"
+      ],
+      "char_count": 126,
+      "has_link": true
+    }
+  ]
 }

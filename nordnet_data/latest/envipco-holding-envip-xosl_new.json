@@ -1,9 +1,39 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-09T00:54:54.344176+00:00",
+  "scraped_at": "2026-10-09T07:03:13.903355+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0c5ffbc03c0bb869",
+      "author": "MKS1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mks1",
+      "posted_relative": "for 17 t siden",
+      "text": "Pareto kommer med noen ganske interessante signaler nå. De kutter kursmålet på TOMRA fra 193 til 173 kr, samtidig som de peker på at Envipco tar større markedsandeler enn tidligere ventet. Ser vi på større offentlig annonserte RVM-avtaler de siste månedene med oppgitt volum, har Envipco rundt 6.750 maskiner mot TOMRAs 3.900. Det tilsvarer omtrent 63 % til Envipco og 37 % til TOMRA, altså rundt 73 % høyere annonsert volum for Envipco. Og dette er før vi tar med SPAR Portugal og den større britiske grossistavtalen, hvor volumene ennå ikke er offentliggjort. I UK lå Pareto tidligere på rundt 30 % forventet markedsandel for Envipco, mens nyere estimater peker mot rundt 47 % av hittil tildelt kontraktsverdi. Synes det begynner å bli ganske tydelig at Envipco tar mer og mer av de nye markedene – og mer enn mange hadde regnet med. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 855,
+      "has_link": false
+    },
+    {
+      "key": "64b1027d448bdf85",
+      "author": "MortenRev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortenrev",
+      "posted_relative": "for 24 min siden",
+      "text": "Også verdt å huske at mange av Envipcos ordrer i UK er på mindre maskiner enn Tomras. Så 63 % av antallet maskiner er ikke det samme som 63 % av markedet i økonomisk forstand. Men hvis realiteten er at Envipco sikrer seg i overkant av 40 % av markedet økonomisk sett, som kanskje er det vi styrer mot, ville det uansett være veldig bra!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 337,
+      "has_link": false
+    }
+  ]
 }

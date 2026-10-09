@@ -1,38 +1,100 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-09T00:49:28.522063+00:00",
+  "scraped_at": "2026-10-09T06:57:45.861627+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "7af5f038fcca07b4",
-      "author": "Middagsbuffet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
-      "posted_relative": "for 5 min siden · Endret",
-      "text": "Han har 100 mill i egenkapital i selskapet, med 67 mill av dette nå i VEND? Dette er jo veldig bullish? Han frykter ikke AI i hvert fall..",
+      "key": "f61c751a6b9d7f69",
+      "author": "JanTei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jantei",
+      "posted_relative": "for 33 min siden · Endret",
+      "text": "https://www.finansavisen.no/finans/2026/10/09/7806953/ai-aksjer-faller-positive-futures-rentefall-aker-korreksjon-telekom-smell-og-gode-vend-tall-i-sikte Leste jeg gode Vend tall i sikte👀 Noen som har tilgang🥺 https://www.finansavisen.no/finans/2026/10/09/8386338/en-borskorreksjon-vil-vaere-sunt. Har ikke tilgang til denne heller, men satser på at Vend er en de 5 aksjene likevel «ser god oppside for fem aksjer»",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 138,
-      "has_link": false
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/09/7806953/ai-aksjer-faller-positive-futures-rentefall-aker-korreksjon-telekom-smell-og-gode-vend-tall-i-sikte",
+        "https://www.finansavisen.no/finans/2026/10/09/8386338/en-borskorreksjon-vil-vaere-sunt."
+      ],
+      "char_count": 414,
+      "has_link": true
     },
     {
-      "key": "04eb3ba38b2fce80",
-      "author": "Marcus1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marcus1",
-      "posted_relative": "for 3 t siden",
-      "text": "Huse kjører vell nesten all inn her nå",
-      "reply_count": 1,
+      "key": "dd4207e3a2389b6b",
+      "author": "JanTei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jantei",
+      "posted_relative": "for 24 min siden",
+      "text": "https://www.finansavisen.no/teknologi/2026/10/09/8386429/rekordtall-i-vente-for-taperaksje",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         3,
         1
       ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/10/09/8386429/rekordtall-i-vente-for-taperaksje"
+      ],
+      "char_count": 90,
+      "has_link": true
+    },
+    {
+      "key": "685ea96e3e954bcf",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": "for 17 min siden",
+      "text": "Ebitda-vekst på 13% er ikke verst for et selskap som til gjengjeld har falt 38% på ett år. Da snakker vi marginbedring",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 38,
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "7ea41baf5f07731d",
+      "author": "Bastus68",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
+      "posted_relative": "for 14 min siden",
+      "text": "Pareto Securities senker kursmålet på Vend til 305 fra 370, og gjentar Kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "c955e8426664db23",
+      "author": "Marcus1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marcus1",
+      "posted_relative": "for 10 t siden",
+      "text": "Huse kjører vell nesten all inn her nå Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "4d9803b74d654d85",
+      "author": "Tunis97",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tunis97",
+      "posted_relative": "for 3 min siden",
+      "text": "Huse er en trader. Han er ute igjen før vi har nådd 200,-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
       "has_link": false
     }
   ]

@@ -1,9 +1,96 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-09T00:47:51.315572+00:00",
+  "scraped_at": "2026-10-09T06:56:06.855279+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "77119e00b9fc330f",
+      "author": "Korona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
+      "posted_relative": "for 15 min siden",
+      "text": "https://www.finansavisen.no/shipping/2026/10/09/8386537/goldman-sachs-venter-tankrater-pa-200.000-dollar-neste-ar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/10/09/8386537/goldman-sachs-venter-tankrater-pa-200.000-dollar-neste-ar"
+      ],
+      "char_count": 113,
+      "has_link": true
+    },
+    {
+      "key": "2a301606a1a69ed6",
+      "author": "Robert 71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/robert-71",
+      "posted_relative": "for 11 t siden",
+      "text": "Hvilken utslag får fro aksjene etter uttalelsen Donald Trumf kom med i kveld? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "f73c6b7d95a45c20",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 12 min siden",
+      "text": "Til info har jeg vel aldri sett noe luft i brunost kontra gulost!😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "c076297223f522d4",
+      "author": "Robert 71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/robert-71",
+      "posted_relative": "for 2 t siden",
+      "text": "Ja aksjen går jo veldig bra. Er et eventyr å være med på dette😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "d9fa88e2d1fd66a5",
+      "author": "Josr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josr",
+      "posted_relative": "for 14 min siden · Endret",
+      "text": "FRO sluttet på NYSE ca. kr. 540 i går...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "f96709bfb9abe537",
+      "author": "Rattus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rattus",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen tanker om åpningskursen FRO i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }
