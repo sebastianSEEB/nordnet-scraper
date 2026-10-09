@@ -1,40 +1,22 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-09T19:56:48.146408+00:00",
+  "scraped_at": "2026-10-09T23:43:55.497269+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "0fa5ae493ddfb063",
-      "author": "Kanick",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
-      "posted_relative": "for 12 t siden",
-      "text": "https://www.autostoresystem.com/news/villoid-selects-autostore-for-worlds-largest-pio-installation Ser jeg ikke har fått automatisk mail på denne, deler denne nyheten her i tilfellet noen ikke har fått den med seg.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        26,
-        3
-      ],
-      "links": [
-        "https://www.autostoresystem.com/news/villoid-selects-autostore-for-worlds-largest-pio-installation"
-      ],
-      "char_count": 214,
-      "has_link": true
-    },
-    {
-      "key": "18af5dd6caa06ab7",
-      "author": "wololo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wololo",
-      "posted_relative": "for 3 t siden",
-      "text": "Fy flate, det satses",
-      "reply_count": null,
+      "key": "4a4e1e00016f444d",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": null,
+      "text": "5. okt. · Endret · Her er hva Kion sa angående sin Dematic-divisjon: KION indikerte at Q3-ordrer var omtrent flate YoY. Ifølge markedsrapporteringen var det omtrent 15% under konsensus.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 20,
+      "char_count": 185,
       "has_link": false
     }
   ]

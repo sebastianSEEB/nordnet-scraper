@@ -1,66 +1,35 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-09T19:58:18.856474+00:00",
+  "scraped_at": "2026-10-09T23:45:25.002105+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "fa99ad2bbc9accb7",
-      "author": "Lica948",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lica948",
-      "posted_relative": "for 11 min siden",
-      "text": "· Jeg ga just opp deres fiber 500Mb som bare ga meg 95Mb i nedlastingshastighet og jeg betalte 1150Nok/ et røveri. Starlink er på vei. Jeg ser bare nedsider her. Jeg kjenner noen som gjorde det samme uten anger.",
+      "key": "9f152dc60e8763ec",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Er det risiko forbundet med Telenor i forhold til tilbydere av satellitt telefoni tror dere. Telenor er vel nødt til å få til samarbeid med fremtidige tilbydere, ellers er det vel fare for at de mister kunder vil jeg tro. Noen som har tanker rundt dette?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 211,
+      "char_count": 254,
       "has_link": false
     },
     {
-      "key": "2a56a29431772213",
-      "author": "alexen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alexen",
-      "posted_relative": "for 3 t siden",
-      "text": "Adm dir i Telenor på Dags 18 - salgsargument i seg selv….",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 57,
-      "has_link": false
-    },
-    {
-      "key": "0ea8a83b491d2c0f",
-      "author": "SuperHansen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/superhansen",
-      "posted_relative": "for 3 t siden",
-      "text": "Mange sterke og velbegrunnede analyser i denne tråden..",
+      "key": "efecc25df169a935",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 1 t siden",
+      "text": "Man skal aldri selge når andre er redde det er da man skal kjøpe",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 55,
-      "has_link": false
-    },
-    {
-      "key": "9ac166ce33351f56",
-      "author": "RedShield",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/redshield",
-      "posted_relative": "for 2 t siden",
-      "text": "Utdyp",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 5,
+      "char_count": 64,
       "has_link": false
     }
   ]

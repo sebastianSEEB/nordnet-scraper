@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-09T20:00:48.842660+00:00",
+  "scraped_at": "2026-10-09T23:47:51.957152+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cffbe295a26a49e9",
+      "author": "Vil du bli millionær",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vil-du-bli-millionr",
+      "posted_relative": "for 1 t siden",
+      "text": "Og brått vises at det nå er 19.987 aksjonærer i KOA 👍 De som frustrert har solgt seg ut de siste tre dagene denne uka er ikke med i det tallet. Mandag var siste dag over 20.... og ble avsluttet med 20.002 aksjonærer. God helg til alle medaksjonærer 🍻 🤝",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 252,
+      "has_link": false
+    },
+    {
+      "key": "f39811db2f7188f4",
+      "author": "Backflip360",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/backflip360",
+      "posted_relative": "for 39 min siden",
+      "text": "BNY kontoer forsetter å øke, siste komplette aksjonærliste fra 06.10 viste: 46 875 109\t28\t4,93%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    }
+  ]
 }

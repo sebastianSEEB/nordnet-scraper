@@ -1,9 +1,23 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-09T19:55:30.079617+00:00",
+  "scraped_at": "2026-10-09T23:42:37.850481+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c749f57ad6df3c53",
+      "author": "EspAsk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espask",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvor langt er et tau ? Hvor mye veier en fisk? Hvor mange runder er det på Bislet ? Hvordan i huleste skal vi estimere et utbytte om 6 mnd??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    }
+  ]
 }
