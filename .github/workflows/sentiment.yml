@@ -1,7 +1,7 @@
 name: Sentiment mot avkastning
 
 on:
-  # Temporary bootstrap trigger; validate retries for malformed model responses.
+  # Temporary bootstrap trigger for the one-time full run.
   push:
     branches: [main]
     paths: ['.github/workflows/sentiment.yml']
@@ -40,7 +40,7 @@ jobs:
       - name: Score nye innlegg (Claude Haiku)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python score_sentiment.py --max-posts "${{ github.event_name == 'push' && '300' || github.event.inputs.max_posts || '0' }}"
+        run: python score_sentiment.py --max-posts "${{ github.event.inputs.max_posts || '0' }}"
 
       - name: Hent kurser (Yahoo Finance)
         run: python fetch_prices.py
