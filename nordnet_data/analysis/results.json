@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "generated_at": "2026-10-10T01:12:41.683521+00:00",
+    "n_posts_scored": 514,
+    "n_stock_days": 0,
+    "n_stocks": 0,
+    "n_days": 0,
+    "first_day": null,
+    "last_day": null,
+    "oos_rows": 0,
+    "market": "OSEBX",
+    "cutoff_oslo": "16:00",
+    "relevance_threshold": 0.5
+  },
+  "correlations": {
+    "same_day": {
+      "n": 0
+    },
+    "next_day": {
+      "n": 0
+    },
+    "next_5d": {
+      "n": 0
+    },
+    "attention_next_abs": {
+      "n": 0
+    }
+  },
+  "binned": {
+    "same_day": [],
+    "next_day": []
+  },
+  "ic": {
+    "days": 0,
+    "mean": null,
+    "t_stat": null,
+    "share_positive": null
+  },
+  "ic_series": {},
+  "permutation": {
+    "p_value": null,
+    "real_ic": null
+  },
+  "model_labels": {
+    "zero": "Gjett 0 (nullmodell)",
+    "train_mean": "Gjett snittet",
+    "linear_sentiment": "Lineær: kun snitt-sentiment",
+    "ridge_all": "Ridge: alle features",
+    "gbm": "Gradient boosting (grunne trær)"
+  },
+  "oos": {
+    "zero": {},
+    "train_mean": {},
+    "linear_sentiment": {},
+    "ridge_all": {},
+    "gbm": {}
+  },
+  "in_sample": {},
+  "feature_labels": {
+    "sent_w": "Snitt-sentiment (relevansvektet)",
+    "sent_sum": "Sum sentiment (styrke × antall)",
+    "pos_share": "Andel positive innlegg",
+    "neg_share": "Andel negative innlegg",
+    "n_rel_log": "Antall relevante innlegg (log)",
+    "attention_z": "Uvanlig mye aktivitet (z-score)",
+    "sent_change": "Endring i sentiment vs. siste dager",
+    "news_share": "Andel nyheter/analyser",
+    "sent_eng": "Sentiment vektet med likes",
+    "ret_same": "Dagens meravkastning (kontroll)"
+  },
+  "caveats": [
+    "Scraperen ser bare de ~10 nyeste innleggene per aksje per kjøring, og GitHub hopper over noen timer. Travle dager er derfor underrepresentert.",
+    "Tidspunkt er estimert fra «for N t siden» (presisjon ~1 time, «for N døgn siden» ~1 døgn). Vi bruker seneste mulige tidspunkt, så signaler kan komme en dag for sent, aldri for tidlig.",
+    "Meravkastning = aksje minus indeks (ingen beta-justering). Aksjer med høy beta ser bedre ut i stigende marked.",
+    "Kurser fra Yahoo Finance; noen småaksjer kan mangle eller ha hull.",
+    "Ingen handelskostnader i long–short-tallet. Spread i småaksjer kan alene spise et svakt signal.",
+    "Sentiment er scoret av en språkmodell – den kan feiltolke ironi og forum-slang."
+  ],
+  "verdict": "For lite data til tilfeldighetstesten ennå. Ingen modell slår «gjett 0» på ukjente data ennå – det vanligste utfallet med lite data. Med 0 handelsdager er alt dette foreløpig; ca. 6–12 måneder data trengs før konklusjonene blir solide."
+}
