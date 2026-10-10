@@ -1,0 +1,60 @@
+name: Sentiment mot avkastning
+
+on:
+  schedule:
+    # Hverdager etter børsslutt. 15:35 UTC = 17:35 sommertid / 16:35 vintertid,
+    # begge etter Oslo Børs stenger (16:20), så dagens sluttkurs er med.
+    - cron: '35 15 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      max_posts:
+        description: 'Maks innlegg å score denne kjøringen (0 = alle som mangler). Test gjerne med 300 først.'
+        default: '0'
+        required: false
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full historikk, så arkivet kan fylles fra tidligere commits
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer avhengigheter
+        run: pip install -r requirements-sentiment.txt
+
+      - name: Fyll arkivet fra git-historikken (tetter hull, trygt å gjenta)
+        run: python archive_posts.py --backfill-from-git --since-days 14
+
+      - name: Score nye innlegg (Claude Haiku)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python score_sentiment.py --max-posts "${{ github.event.inputs.max_posts || '0' }}"
+
+      - name: Hent kurser (Yahoo Finance)
+        run: python fetch_prices.py
+
+      - name: Analyse og modeller
+        run: python sentiment_analysis.py
+
+      - name: Commit og push resultater
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nordnet_data/archive nordnet_data/sentiment nordnet_data/prices nordnet_data/analysis 2>/dev/null || true
+          git diff --staged --quiet && exit 0
+          git commit -m "Sentimentanalyse $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Scraper-workflowen pusher hver time - hent den inn og prøv igjen ved kollisjon
+          for i in 1 2 3 4 5; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1

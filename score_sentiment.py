@@ -97,6 +97,18 @@ def load_scored_keys(data_dir: str) -> set:
         return {json.loads(line)["key"] for line in f if line.strip()}
 
 
+def sample_posts_across_period(posts: List[dict], max_posts: int) -> List[dict]:
+    """Velg et deterministisk utvalg over hele perioden, inkludert endepunktene."""
+    if max_posts < 0:
+        raise ValueError("max_posts må være 0 eller større")
+    if max_posts == 0 or len(posts) <= max_posts:
+        return posts
+    ordered = sorted(posts, key=lambda p: (p.get("posted_at") or p["scraped_at"], p["key"]))
+    if max_posts == 1:
+        return ordered[-1:]
+    return [ordered[i * (len(ordered) - 1) // (max_posts - 1)] for i in range(max_posts)]
+
+
 def append_scores(data_dir: str, rows: List[dict]) -> None:
     if not rows:
         return
@@ -203,12 +215,14 @@ def main() -> None:
     ap.add_argument("--since", help="Kun innlegg skrevet etter denne datoen (YYYY-MM-DD)")
     ap.add_argument("--dry-run", action="store_true", help="Bare tell og estimer, ingen API-kall")
     args = ap.parse_args()
+    if args.max_posts < 0:
+        ap.error("--max-posts må være 0 eller større")
 
     scored = load_scored_keys(args.data_dir)
     todo = [p for p in iter_archive(args.data_dir) if p["key"] not in scored]
     if args.since:
         todo = [p for p in todo if (p.get("posted_at") or p["scraped_at"]) >= args.since]
-    # Nyeste først, så et tak (--max-posts) bruker pengene på det mest relevante
+    # Nyeste først ved full kjøring; begrensede kjøringer spres over hele perioden.
     todo.sort(key=lambda p: p.get("posted_at") or p["scraped_at"], reverse=True)
 
     # Regel-scoring uten API: tomme, ultrakorte og slettede innlegg
@@ -221,8 +235,7 @@ def main() -> None:
                               "category": "offtopic", "model": "regel", "scored_at": now})
         else:
             api_posts.append(p)
-    if args.max_posts:
-        api_posts = api_posts[: args.max_posts]
+    api_posts = sample_posts_across_period(api_posts, args.max_posts)
 
     chars = sum(len(clean_text(p["text"])) for p in api_posts)
     n_batches = 0

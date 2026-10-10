@@ -74,5 +74,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add nordnet_data
-          git diff --staged --quiet || git commit -m "Auto-oppdatering av forumdata $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "Auto-oppdatering av forumdata $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # Sentiment-workflowen pusher også - hent den inn og prøv igjen ved kollisjon
+          for i in 1 2 3 4 5; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
