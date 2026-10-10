@@ -1,9 +1,25 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-10T16:01:12.802257+00:00",
+  "scraped_at": "2026-10-10T19:52:50.202378+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d9feecfa4b29ceb8",
+      "author": "andga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andga",
+      "posted_relative": "for 2 t siden",
+      "text": "· CAPE ARMATHIA er på vei for en lasting på BW Adolo i Gabon. Ser ut som lastingen vil starte mandag 11.10. https://www.marinetraffic.com/en/ais/home/shipid:10635565/zoom:10",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.marinetraffic.com/en/ais/home/shipid:10635565/zoom:10"
+      ],
+      "char_count": 173,
+      "has_link": true
+    }
+  ]
 }

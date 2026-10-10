@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-10T16:03:03.482307+00:00",
+  "scraped_at": "2026-10-10T19:54:44.420700+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "87bf6e3455826178",
+      "author": "Huskis56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
+      "posted_relative": "for 29 min siden",
+      "text": "Får håpe at Disel / Thrumpen ikke forstyrrer msrkede kortsiktig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }

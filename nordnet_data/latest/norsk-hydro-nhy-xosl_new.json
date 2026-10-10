@@ -1,9 +1,25 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-10T16:04:40.075455+00:00",
+  "scraped_at": "2026-10-10T19:56:22.393300+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "da6c179a2b807a1d",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "6. okt. Harto roper selg 🙂 Nordnet sine kunder roper kjøp",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }
