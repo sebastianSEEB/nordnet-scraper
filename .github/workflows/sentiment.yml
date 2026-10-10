@@ -1,7 +1,7 @@
 name: Sentiment mot avkastning
 
 on:
-  # Temporary bootstrap trigger; removed after the initial runs.
+  # Temporary bootstrap trigger; retry after fixing the API request.
   push:
     branches: [main]
     paths: ['.github/workflows/sentiment.yml']

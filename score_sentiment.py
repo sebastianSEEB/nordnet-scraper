@@ -141,7 +141,6 @@ def call_claude(prompt: str, n_expected: int, retries: int = 5) -> (List[dict], 
     body = {
         "model": MODEL,
         "max_tokens": 120 + 40 * n_expected,
-        "temperature": 0,
         "thinking": {"type": "disabled"},
         "messages": [{"role": "user", "content": prompt}],
     }
@@ -282,6 +281,8 @@ def main() -> None:
 
     print(f"\nFerdig: {done} scoret, {failed} mangler (prøves neste gang). "
           f"Tokens brukt: {tok_in:,} inn / {tok_out:,} ut")
+    if failed:
+        sys.exit(f"{failed} innlegg kunne ikke scores; vellykkede scorer er lagret.")
 
 
 if __name__ == "__main__":
