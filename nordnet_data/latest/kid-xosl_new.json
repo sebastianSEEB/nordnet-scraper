@@ -1,9 +1,25 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-10-10T10:17:34.310265+00:00",
+  "scraped_at": "2026-10-10T16:03:57.611288+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "eae8b3d9dab73ca6",
+      "author": "Gatornor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gatornor",
+      "posted_relative": null,
+      "text": "6. okt. i fjord var det 28. nov. 2025 18. nov. 2025",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

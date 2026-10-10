@@ -1,9 +1,41 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-10T10:20:29.288772+00:00",
+  "scraped_at": "2026-10-10T16:06:49.688000+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "88f644bcdb33de21",
+      "author": "Feskarna",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/feskarna",
+      "posted_relative": "for 2 t siden",
+      "text": "Smakt den flere ganger selv, super kvalitet 💪 ingenting å pirke på",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "537b885c948d372c",
+      "author": "pustmedmagen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pustmedmagen",
+      "posted_relative": "for 23 t siden",
+      "text": "Teste ut Salmon laksen da 🙏🫶 Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        3
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

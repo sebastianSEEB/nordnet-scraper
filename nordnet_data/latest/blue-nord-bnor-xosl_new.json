@@ -1,24 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-10T10:14:20.412368+00:00",
+  "scraped_at": "2026-10-10T16:00:46.550011+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "7efd0859c7e3dc04",
+      "key": "b66b4a8657556992",
       "author": "Pasjo",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
       "posted_relative": null,
-      "text": "6. okt. Beklager noen som var inne på siden min og skrev dette👍",
+      "text": "6. okt. Lurt å være her,skal over til Vår i løpet av året eller begynnelsen av 2027",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        4,
+        3
       ],
       "links": [],
-      "char_count": 63,
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "edca1faf9aa8bcde",
+      "author": "share 12345",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/share-12345",
+      "posted_relative": null,
+      "text": "6. okt. Hvor lurt er det å holde på denne? Når skal den over til vår?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-10T10:15:53.584317+00:00",
+  "scraped_at": "2026-10-10T16:02:17.726663+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d62a49d4c8779720",
+      "author": "The pope",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pope",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg har ikke skrevet det ovenfor.   Vet ikke hvorfor det er plassert der.  Beklager  Det er noe som ikke stemmer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    }
+  ]
 }

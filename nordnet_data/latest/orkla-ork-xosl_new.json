@@ -1,22 +1,56 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-10T10:18:32.586522+00:00",
+  "scraped_at": "2026-10-10T16:04:55.259479+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "1c10a8ac6c7ecc4a",
-      "author": "Spinners",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spinners",
-      "posted_relative": "for 3 t siden",
-      "text": "Vi får se hva markedet sier inn i 2027 osv...",
+      "key": "a7ecbd2e511daf16",
+      "author": "Mortys",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortys",
+      "posted_relative": null,
+      "text": "6. okt. Nei, i prosent blir den effekten relativt liten. Dersom nåværende program på 4 mrd skjer på snittkurs ca 90 kr så vil utbyttet kunne bli ca 4-5 % større. Om planen blir et utbytte på 5 kr så kan det istedet bli på ca 5,25 kr.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 45,
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "7d0eb387c2a2ef12",
+      "author": "Erinor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erinor",
+      "posted_relative": null,
+      "text": "6. okt. Når Orkla sletter så mye aksjer som de har gjort (og kommer til å gjøre), vil ikke utbytte kunne bli mye større da?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "57dc358e03fe89cb",
+      "author": "rebull2000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rebull2000",
+      "posted_relative": null,
+      "text": "6. okt. Matprisene stiger hele tiden. Hvorfor går aksjekursen ned når de tar seg bedre betalt hele tiden?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 105,
       "has_link": false
     }
   ]

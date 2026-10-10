@@ -1,9 +1,25 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-10T10:17:14.834677+00:00",
+  "scraped_at": "2026-10-10T16:03:38.139984+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e136e4744f027df7",
+      "author": "Vihaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
+      "posted_relative": null,
+      "text": "6. okt. · Noen grunn til de siste dagers fall på -15%..??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }
