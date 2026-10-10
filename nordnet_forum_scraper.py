@@ -27,6 +27,7 @@ Alt lagres under --data-dir (default: ./nordnet_data):
     nordnet_data/state/<slug>.json       -> alt som noen gang er sett (for dedup)
     nordnet_data/latest/<slug>_new.json  -> KUN nye innlegg fra denne kjøringen
     nordnet_data/latest/all_new.json     -> samlet, alle aksjer, denne kjøringen
+    nordnet_data/archive/posts_YYYY-MM.jsonl -> PERMANENT arkiv, alle innlegg noensinne
 
 Slug finner du i URL-en når du er inne på aksjen, f.eks. "equinor-eqnr-xosl"
 fra https://www.nordnet.no/aksjer/kurser/equinor-eqnr-xosl
@@ -46,6 +47,8 @@ from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
+
+from archive_posts import append_to_archive, load_archive_keys
 
 BASE_URL = "https://www.nordnet.no/aksjer/kurser/{slug}"
 HEADERS = {
@@ -316,6 +319,9 @@ def main():
     os.makedirs(latest_dir, exist_ok=True)
 
     all_new = {}
+    # Permanent arkiv (nordnet_data/archive/) - leses én gang per kjøring
+    archive_keys = load_archive_keys(args.data_dir)
+    archived_total = 0
 
     for i, stock in enumerate(args.stocks):
         url = resolve_url(stock)
@@ -344,6 +350,9 @@ def main():
         new_posts.sort(key=lambda p: (not p.has_link, -p.char_count))
         seen_keys.update(p.key for p in posts)
         save_state(state_path, seen_keys, now_iso)
+        # Arkiver alt som er synlig på siden (dedup på key skjer i arkivet)
+        archived_total += append_to_archive(args.data_dir, slug, [asdict(p) for p in posts],
+                                            now_iso, archive_keys)
 
         output_posts = posts if args.include_old else new_posts
         out_path = os.path.join(latest_dir, f"{slug}_new.json")
@@ -392,6 +401,7 @@ def main():
     with open(combined_path, "w", encoding="utf-8") as f:
         json.dump(all_new, f, ensure_ascii=False, indent=2)
     print(f"\nSamlet resultat (nye innlegg per aksje): {combined_path}")
+    print(f"Arkivert {archived_total} nye innlegg i {os.path.join(args.data_dir, 'archive')}")
 
 
 if __name__ == "__main__":

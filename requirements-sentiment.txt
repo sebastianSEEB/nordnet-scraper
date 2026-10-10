@@ -1,0 +1,12 @@
+# Sentimentanalyse (score_sentiment.py, fetch_prices.py, sentiment_analysis.py)
+requests
+pandas>=2.2
+numpy
+scipy
+scikit-learn
+matplotlib
+yfinance
+tzdata
+# Kun for dashboardet på egen PC:
+# streamlit>=1.50
+# plotly

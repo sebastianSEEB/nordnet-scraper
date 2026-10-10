@@ -1,0 +1,3 @@
+{
+  "_comment": "Overstyr Yahoo-symbol for aksjer der slug -> ticker ikke stemmer. Format: \"nordnet-slug\": \"SYMBOL.OL\". Sjekk loggen fra fetch_prices.py for hvilke som mangler."
+}
