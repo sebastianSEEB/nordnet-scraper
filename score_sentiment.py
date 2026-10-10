@@ -160,12 +160,28 @@ def call_claude(prompt: str, n_expected: int, retries: int = 5) -> (List[dict], 
                 data = resp.json()
                 text = "".join(b["text"] for b in data.get("content", []) if b.get("type") == "text")
                 m = re.search(r"\[.*\]", text, re.DOTALL)
-                if not m:
-                    raise ValueError(f"Fant ingen JSON-liste i svaret: {text[:200]}")
-                return json.loads(m.group(0), strict=False), data.get("usage", {})
-            err = f"HTTP {resp.status_code}: {resp.text[:200]}"
-            if resp.status_code not in (429, 500, 502, 503, 504, 529):
-                raise RuntimeError(err)
+                try:
+                    if not m:
+                        raise ValueError("Fant ingen JSON-liste i svaret")
+                    result = json.loads(m.group(0), strict=False)
+                    if not isinstance(result, list) or len(result) != n_expected:
+                        raise ValueError("Svaret har feil antall innlegg")
+                    ids = [item.get("id") for item in result if isinstance(item, dict)]
+                    if len(ids) != n_expected or set(ids) != set(range(1, n_expected + 1)):
+                        raise ValueError("Svaret mangler entydige innlegg-ID-er")
+                    for item in result:
+                        for field in ("s", "r"):
+                            value = float(item[field])
+                            if not (-1 <= value <= 1) or (field == "r" and value < 0):
+                                raise ValueError("Ugyldig score i svaret")
+                except (ValueError, TypeError, KeyError) as e:
+                    err = f"Ugyldig modellrespons: {e}"
+                else:
+                    return result, data.get("usage", {})
+            else:
+                err = f"HTTP {resp.status_code}: {resp.text[:200]}"
+                if resp.status_code not in (429, 500, 502, 503, 504, 529):
+                    raise RuntimeError(err)
         print(f"  forsøk {attempt + 1} feilet ({err}), venter {delay:.0f}s", file=sys.stderr)
         time.sleep(delay)
         delay *= 2
