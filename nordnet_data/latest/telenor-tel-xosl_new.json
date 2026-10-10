@@ -1,9 +1,38 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-10T03:18:38.184038+00:00",
+  "scraped_at": "2026-10-10T10:18:13.459106+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "43eedcc6fad3d74b",
+      "author": "PedroPorro",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pedroporro",
+      "posted_relative": "for 1 min siden",
+      "text": "Lytter gjerne til de som mener dømmer aksjen nord og ned. Problemet er at det sjeldent kommer noe med særlig substans. Kun synsing og ubegrunnede løse påstander som skytes fra hofta. «Denne skal ned» osv.  Helt verdiløst.  Uansett merket meg at DNB mener SpaceX hysteriet kun var kjøpsmulighet for Telenor aksjen. God helg !",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 324,
+      "has_link": false
+    },
+    {
+      "key": "c96b49c047847168",
+      "author": "Bocajacob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bocajacob",
+      "posted_relative": "for 1 t siden",
+      "text": "Neeeeeeeeeeeida, ingen blinkende røde lys på horisonten. God helg!",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

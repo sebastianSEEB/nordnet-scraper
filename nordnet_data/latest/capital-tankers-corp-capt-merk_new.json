@@ -1,9 +1,25 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-10T03:14:39.576519+00:00",
+  "scraped_at": "2026-10-10T10:14:16.563335+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "403fdaac5184c7ac",
+      "author": "fjell3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjell3",
+      "posted_relative": "for 1 t siden",
+      "text": "En bra plass å være😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

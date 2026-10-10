@@ -1,9 +1,39 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-10-10T03:17:00.153738+00:00",
+  "scraped_at": "2026-10-10T10:16:36.193204+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b95a0fbd2d8db471",
+      "author": "BCL",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bcl",
+      "posted_relative": null,
+      "text": "6. okt. skulle vært avvikla hele greia",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "e04c6ac8fcf17c1e",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": null,
+      "text": "6. okt. Dagens aksje investtech:",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        6
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

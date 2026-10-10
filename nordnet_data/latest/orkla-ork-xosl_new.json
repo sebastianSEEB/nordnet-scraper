@@ -1,9 +1,23 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-10T03:18:58.120167+00:00",
+  "scraped_at": "2026-10-10T10:18:32.586522+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1c10a8ac6c7ecc4a",
+      "author": "Spinners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spinners",
+      "posted_relative": "for 3 t siden",
+      "text": "Vi får se hva markedet sier inn i 2027 osv...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

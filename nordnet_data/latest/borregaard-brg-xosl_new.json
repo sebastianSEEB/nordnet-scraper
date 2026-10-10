@@ -1,9 +1,23 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-10T03:18:06.824472+00:00",
+  "scraped_at": "2026-10-10T10:17:42.110152+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5ed4c5f3cb8def2d",
+      "author": "Paraske",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paraske",
+      "posted_relative": "for 5 t siden",
+      "text": "Jepp, et fall på 40% siden august må være verdt et smil for oss som skal inn snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }

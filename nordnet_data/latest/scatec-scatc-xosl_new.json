@@ -1,9 +1,52 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-10-10T03:15:33.982135+00:00",
+  "scraped_at": "2026-10-10T10:15:10.666906+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "72eac26fddd6eb32",
+      "author": "Solbakken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solbakken",
+      "posted_relative": "for 4 t siden",
+      "text": "Ser ut til at trenden er snudd med nå stadig høyere bunner og høyere topper. Er også et stort gap som skal fylles.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "ecdb37bfa5671ea9",
+      "author": "Solbakken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solbakken",
+      "posted_relative": "for 4 t siden",
+      "text": "Ligger en solid analyse ute med kursmål kr 140 pr. aksje. Nesten bare oppside her med en meget god R/R.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "c54548d5755edd48",
+      "author": "brrrrrrrrski",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brrrrrrrrski",
+      "posted_relative": "for 18 t siden",
+      "text": "Fy så digg❤️ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

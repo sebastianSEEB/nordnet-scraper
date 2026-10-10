@@ -1,9 +1,27 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-10T03:16:36.938155+00:00",
+  "scraped_at": "2026-10-10T10:16:13.023759+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8915677ce7d122e3",
+      "author": "Gråbein 44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
+      "posted_relative": null,
+      "text": "6. okt. · Denne lenkja legg eg inn for å vise kva enkelte meiner om utviklinga innan KI og kva me som investorar må være merksame på. https://simplywall.st/article/ai-agents-are-redrawing-competitive-moats",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://simplywall.st/article/ai-agents-are-redrawing-competitive-moats"
+      ],
+      "char_count": 205,
+      "has_link": true
+    }
+  ]
 }

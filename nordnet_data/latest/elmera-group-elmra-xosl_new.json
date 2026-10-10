@@ -1,9 +1,25 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-10-10T03:19:37.344017+00:00",
+  "scraped_at": "2026-10-10T10:19:11.937350+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "aeca42165f127f99",
+      "author": "RonniAndreKapital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ronniandrekapital",
+      "posted_relative": null,
+      "text": "6. okt. · Ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

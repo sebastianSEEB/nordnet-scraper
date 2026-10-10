@@ -1,9 +1,54 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-10-10T03:15:26.265134+00:00",
+  "scraped_at": "2026-10-10T10:15:02.701978+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3a3ed46c50351dee",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": null,
+      "text": "6. okt. Lakseprisene drar seg til idag og løfter seg med 5-7 kroner! Det handles idag på følgende priser levert Oslo: 2/3 62-63 3/4 69-70 4/5 71-72 5-6 74-75 6+ 80-85 Enorme volumer i de 9 første mnd begrenser volumene fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 228,
+      "has_link": false
+    },
+    {
+      "key": "4e598e61ba4e834b",
+      "author": "Zafado",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zafado",
+      "posted_relative": null,
+      "text": "6. okt. Lakseaksjer har en tendens til å stige frem mot Jul",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "ccfd5a15567da9b1",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": null,
+      "text": "6. okt. Hvilken side leser du på?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }
