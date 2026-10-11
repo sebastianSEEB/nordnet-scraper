@@ -1,9 +1,25 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-11T02:48:47.975281+00:00",
+  "scraped_at": "2026-10-11T09:30:00.796562+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dbd817487af5575f",
+      "author": "Harries",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
+      "posted_relative": null,
+      "text": "7. okt. · Motargumentet er imidlertid at renten stiger på grunn av høy inflation, noe vindkraftprosjekter er ganske følsomme for på grunn av lange lån og høy CAPEX.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 164,
+      "has_link": false
+    }
+  ]
 }

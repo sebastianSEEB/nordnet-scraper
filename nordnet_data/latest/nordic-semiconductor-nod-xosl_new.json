@@ -1,9 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-11T02:47:20.708636+00:00",
+  "scraped_at": "2026-10-11T09:28:35.871932+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0e405551a97a5ba8",
+      "author": "Selskapslek",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Til info, ny short-aktør inne:  Short nå er 3,10 %, fordelt på 3 aktører. Det gir 8. plass av de 37 aksjene som har offentlig short nå. Nivået er under snittet for siste år, som er 3,26 %. Høyest har den vært på 5,86 %, 4. feb. 2026. Siste endring kom 8. oktober, da AHL Partners LLP meldte seg inn med 0,50 %. Hentet herifra, der du kan følge med på short-utviklingen på Oslo Børs: https://shortaksjer.netlify.app/ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://shortaksjer.netlify.app/"
+      ],
+      "char_count": 435,
+      "has_link": true
+    },
+    {
+      "key": "6d981dbfbbc4adaa",
+      "author": "terje84",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terje84",
+      "posted_relative": "for 3 t siden",
+      "text": "dere vet dere kan bare klikke \"om selskapet\" over grafen å få opp short ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

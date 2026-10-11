@@ -1,9 +1,39 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-11T02:49:57.990659+00:00",
+  "scraped_at": "2026-10-11T09:31:10.162266+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "37faaea1b820781e",
+      "author": "Kind",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kind",
+      "posted_relative": "for 2 t siden",
+      "text": "Jeg kjøpte ENDUR etter at Aksjestrategi.no tok aksjen inn i porteføljen sin for 13 dager siden.  Så langt er avkastningen min 8,33 %.  Aksjestrategi.no har levert 23,3 % avkastning hittil i år. Blir spennende å se hvordan ENDUR og resten av porteføljen utvikler seg videre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 273,
+      "has_link": false
+    },
+    {
+      "key": "9723c7b4f42983fe",
+      "author": "InnlandsOter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/innlandsoter",
+      "posted_relative": "for 17 min siden",
+      "text": "Er ikke det rookie numbers? Tror porteføljen på snikreklame.no har gått 550% i år",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

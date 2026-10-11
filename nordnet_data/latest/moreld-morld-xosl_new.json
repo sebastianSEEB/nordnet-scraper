@@ -1,9 +1,25 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-11T02:49:23.140384+00:00",
+  "scraped_at": "2026-10-11T09:30:35.084733+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b7ac7d01a92027f5",
+      "author": "softbed",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/softbed",
+      "posted_relative": null,
+      "text": "7. okt. · Endret Tror du ikke at det er priset inn allerede da? Du har jo sett hvor ekstremt prisen har steget siste 3 månedene Ut i fra grafen, så tipper jeg at kontrakten ble tegnet i august",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 192,
+      "has_link": false
+    }
+  ]
 }
