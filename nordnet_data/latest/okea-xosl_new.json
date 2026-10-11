@@ -1,9 +1,40 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-11T09:31:17.867888+00:00",
+  "scraped_at": "2026-10-11T16:06:21.585285+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "288f9d89e7143323",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvem liker han? Hva mener han om okea? https://www.finansavisen.no/energi/2026/10/07/8385791/teodor-sveen-nilsens-evige-favoritt-aksjen-jeg-ville-eid-resten-av-livet?internal_source=aksjeanalyse",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/07/8385791/teodor-sveen-nilsens-evige-favoritt-aksjen-jeg-ville-eid-resten-av-livet?internal_source=aksjeanalyse"
+      ],
+      "char_count": 194,
+      "has_link": true
+    },
+    {
+      "key": "ef70c37c9675b47a",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": null,
+      "text": "7. okt. · Endret Fra/om  det amerikanske energibyrået Energy Information Administration (EIA) månedsraport, i går tirsdag 6. Oktober: <<Videre har EIA oppjustert anslaget for Brent-oljeprisen i fjerde kvartal 2026 til 105 dollar pr fat, opp 14 dollar fatet sammenlignet med forrige månedsrapport>>",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 297,
+      "has_link": false
+    }
+  ]
 }

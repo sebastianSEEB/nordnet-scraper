@@ -1,40 +1,22 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-11T09:32:23.297116+00:00",
+  "scraped_at": "2026-10-11T16:07:28.128705+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "91fa6078e8486a0c",
-      "author": "Stakern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stakern",
+      "key": "6aaadb33ab42c08b",
+      "author": "Vincent70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vincent70",
       "posted_relative": "for 3 t siden",
-      "text": "Nei, det er svært usannsynlig at SpaceX får kjøpt eller tildelt egne nasjonale mobilfrekvenser i Norge på samme måte som i USA. Markedsstrukturen, lovverket og politikken rundt frekvenser i Norge og Europa er helt annerledes enn i USA. I USA kan selskaper kjøpe private frekvenslisenser fra andre kommersielle aktører i et fritt bruktmarked (slik SpaceX gjorde med 800 MHz-porteføljen fra Grain Management). I Norge forvaltes frekvensspekteret strengt av Nasjonal kommunikasjonsmyndighet (Nkom): De verdifulle lave frekvensbåndene (som 700 MHz og 800 MHz, som rekker langt og fungerer godt til mobil) er allerede auksjonert bort og eies/leies i mange år fremover av Telenor, Telia og Ice.",
+      "text": "Hvor skal Telenor nå? - Den lange konsolideringen fra juli til oktober på 130 tallet virket solid som bunn i en lang nedgangsperiode. Jeg har ventet på inngang her, men holder tilbake, og glad for det, for nå er den ca 10 kroner ned per aksje fra der jeg tenkte vi var på bunn. Hvor langt ned skal vi? Jeg har satt 105 kroner som en teknisk bunn der jeg gjør ny vurdering. Inntil da velger jeg å stå utenfor denne.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1,
-        4
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 688,
-      "has_link": false
-    },
-    {
-      "key": "95b89710d799c2f6",
-      "author": "Stakern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stakern",
-      "posted_relative": "for 2 t siden",
-      "text": "Å \"kjøpe seg bakveien inn\" via oppkjøp av en norsk mobiloperatør er stoppet av statlig eierskap, kommunalt eierskap og Sikkerhetsloven. SpaceX er derfor i praksis henvist til å være en teknologipartner for de eksisterende norske mobilselskapene.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 245,
+      "char_count": 414,
       "has_link": false
     }
   ]

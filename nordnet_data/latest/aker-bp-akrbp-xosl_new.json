@@ -1,9 +1,57 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-11T09:32:19.416615+00:00",
+  "scraped_at": "2026-10-11T16:07:24.288692+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "632e77f2f7ba13f4",
+      "author": "Aksjelady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjelady",
+      "posted_relative": null,
+      "text": "7. okt. https://www.finansavisen.no/energi/2026/10/07/8385992/prissjokk-for-sverdrup-oljen-aldri-vaert-hoyere-premie Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/07/8385992/prissjokk-for-sverdrup-oljen-aldri-vaert-hoyere-premie"
+      ],
+      "char_count": 136,
+      "has_link": true
+    },
+    {
+      "key": "7b6ce40ae9fe160b",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": null,
+      "text": "7. okt. · Endret Fra/om  det amerikanske energibyrået Energy Information Administration (EIA) månedsraport, i går tirsdag 6. Oktober: <<Videre har EIA oppjustert anslaget for Brent-oljeprisen i fjerde kvartal 2026 til 105 dollar pr fat, opp 14 dollar fatet sammenlignet med forrige månedsrapport>> Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 317,
+      "has_link": false
+    },
+    {
+      "key": "cf904e05cc0aa4d4",
+      "author": "Utbytteinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbytteinvest",
+      "posted_relative": null,
+      "text": "7. okt. Bra regjeringen ikke gjorde noe med Norgespris da😜 Økningen på en inntektspost spiser opp hele letten av en annen inntektspost. Pølsene i slatetiden viste seg å være sosisser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 183,
+      "has_link": false
+    }
+  ]
 }

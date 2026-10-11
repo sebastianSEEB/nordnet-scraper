@@ -1,9 +1,41 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-10-11T09:27:53.418643+00:00",
+  "scraped_at": "2026-10-11T16:02:50.628998+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ee788081d3a40795",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": null,
+      "text": "7. okt. WAW kunngjorde i dag rettet emisjon og kursen falt som stein ca kl 10:15. Dette er fullt forståelig. Samme tidspunkt falt imidlertid også HAUTO også som en stein. For meg ikke like forståelig. Noen som våger seg på en forklaring?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 237,
+      "has_link": false
+    },
+    {
+      "key": "9b96d4329560fbb7",
+      "author": "SabelSnabel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sabelsnabel",
+      "posted_relative": null,
+      "text": "7. okt. Ikke fyll på ennå gutta. Kjøpt og solgt denne aksjen i over 3 år. Vent rolig Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        4
+      ],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    }
+  ]
 }

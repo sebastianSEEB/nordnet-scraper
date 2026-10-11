@@ -1,25 +1,27 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-11T09:30:00.796562+00:00",
+  "scraped_at": "2026-10-11T16:05:01.945724+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "dbd817487af5575f",
-      "author": "Harries",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
+      "key": "e32252cabbe1bae9",
+      "author": "HelloSpaceboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hellospaceboy",
       "posted_relative": null,
-      "text": "7. okt. · Motargumentet er imidlertid at renten stiger på grunn av høy inflation, noe vindkraftprosjekter er ganske følsomme for på grunn av lange lån og høy CAPEX.",
+      "text": "7. okt. · FYI , Det er en interessant artikkel i danske Børsen i dag med sjefen for Ørsted. Imidlertid låst bak betalingsmur, men jeg leser poenget hans som om havvind er på vei fra krise til vekst…. https://borsen.dk/nyheder/virksomheder/havvind-er-ved-at-rejse-sig-fra-asken-rasmus-errboe-star-centralt-i-et-habefuldt-comeback?b_source=borsen&b_medium=row_0&b_campaign=andrelaeser_news_list_5",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        5
       ],
-      "links": [],
-      "char_count": 164,
-      "has_link": false
+      "links": [
+        "https://borsen.dk/nyheder/virksomheder/havvind-er-ved-at-rejse-sig-fra-asken-rasmus-errboe-star-centralt-i-et-habefuldt-comeback?b_source=borsen&b_medium=row_0&b_campaign=andrelaeser_news_list_5"
+      ],
+      "char_count": 394,
+      "has_link": true
     }
   ]
 }

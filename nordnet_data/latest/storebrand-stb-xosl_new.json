@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-11T09:32:45.992598+00:00",
+  "scraped_at": "2026-10-11T16:07:52.399207+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b68eeeb996a620ab",
+      "author": "Ramseier",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ramseier",
+      "posted_relative": null,
+      "text": "7. okt. Hvor lenge skal Storebrand fortsette å falle?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

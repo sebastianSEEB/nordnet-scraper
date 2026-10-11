@@ -1,9 +1,81 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-11T09:32:00.146181+00:00",
+  "scraped_at": "2026-10-11T16:07:04.666193+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "c4d01635437f09c0",
+      "author": "TRD 100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.finansavisen.no/shipping/2026/10/11/8386936/vlcc-i-flammer-etter-iransk-minetreff",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/10/11/8386936/vlcc-i-flammer-etter-iransk-minetreff"
+      ],
+      "char_count": 93,
+      "has_link": true
+    },
+    {
+      "key": "c104399672923235",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 2 t siden",
+      "text": "· En råoljesupertanker eksploderte etter å ha truffet en mine oktober  11 nær HormuzstredetFartøyet hadde slått av navigasjon og GPS før det traff sjøminenIran advarte om at uautoriserte tankskip møter alvorlige konsekvenser i hele regionen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 240,
+      "has_link": false
+    },
+    {
+      "key": "4abb6a76a1c41c68",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": "for 23 t siden",
+      "text": "Mulig nytt angrep på en ny tanker utenfor UAE i natt. Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "b1f0c891283cf731",
+      "author": "M-R",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/m-r",
+      "posted_relative": "for 5 t siden",
+      "text": "· vi er oppe i 100nok",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "6e4374cd9574c797",
+      "author": "Rattus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rattus",
+      "posted_relative": "for 5 t siden",
+      "text": "· Hei, forklar?🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }
