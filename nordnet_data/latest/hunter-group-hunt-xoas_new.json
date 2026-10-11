@@ -1,9 +1,23 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-10T23:08:33.906835+00:00",
+  "scraped_at": "2026-10-11T02:50:48.540926+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "913eb191d99df781",
+      "author": "90174022",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/90174022",
+      "posted_relative": "for 2 t siden",
+      "text": "· Ok, er berre ein enkel  enkel  lærarson som gjekk ut på 20.10. Andre får bedømme",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }
