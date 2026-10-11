@@ -1,9 +1,38 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-11T16:03:54.513729+00:00",
+  "scraped_at": "2026-10-11T20:42:39.743171+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1bbac265c7e6216b",
+      "author": "nqtrades",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nqtrades",
+      "posted_relative": "for 52 min siden",
+      "text": "Verdt å investere i ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "e714b480833b81cf",
+      "author": "kal--el",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
+      "posted_relative": "for 36 min siden",
+      "text": "· ja..sef..langsiktig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

@@ -1,24 +1,54 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-11T16:04:38.161325+00:00",
+  "scraped_at": "2026-10-11T20:43:22.869349+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "1d4fd49c9e29cca7",
-      "author": "tospann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "key": "58182fec1b158a9b",
+      "author": "Herobrain4x",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herobrain4x",
       "posted_relative": null,
-      "text": "7. okt. CNBC i dag Google går for kjernekraft (Constellation)",
+      "text": "7. okt. Entr har fått en ny kontrakt i Canada knyttet til utvikling av transmisjonsløsninger for fremtidige havvindprosjekter i Nova Scotia. Økonomisk er kontrakten trolig begrenset i seg selv, men den er interessant som inngang til et nytt marked og kan potensielt gi større oppdrag senere. Link til nyheten under for de som vil lese mer. https://energynews.pro/en/aker-solutions-entr-wins-its-first-offshore-wind-study-contract-in-canada",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        7
+      ],
+      "links": [
+        "https://energynews.pro/en/aker-solutions-entr-wins-its-first-offshore-wind-study-contract-in-canada"
+      ],
+      "char_count": 439,
+      "has_link": true
+    },
+    {
+      "key": "0f2cb48fdce93e0b",
+      "author": "yousif 1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yousif-1",
+      "posted_relative": "for 2 døgn siden",
+      "text": "· Hva er det forventede utbyttet for april? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
       ],
       "links": [],
-      "char_count": 61,
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "3d98eea53305b36a",
+      "author": "Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": "for 4 t siden",
+      "text": "Sånn passe…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 11,
       "has_link": false
     }
   ]

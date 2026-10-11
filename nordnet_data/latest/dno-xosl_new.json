@@ -1,9 +1,53 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-11T16:05:53.558801+00:00",
+  "scraped_at": "2026-10-11T20:44:37.695647+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2a79973c05f69f60",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Gode  grunner for de som ønsker kjøpe DNO før Q3 https://norwaystocks.substack.com/p/five-reasons-dno-looks-like-a-strong",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://norwaystocks.substack.com/p/five-reasons-dno-looks-like-a-strong"
+      ],
+      "char_count": 121,
+      "has_link": true
+    },
+    {
+      "key": "2c20891f1e19678c",
+      "author": "Barcabert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
+      "posted_relative": "for 4 t siden",
+      "text": "Forstyrrer markedet kortsiktig? Det gjør da Trump hele tiden. Han har en egen SOME-kanal til nettopp det formålet, og sper på i alle andre medier samtidig. Det som er underlig er at markedet faktisk velger å stole på en dude som lyver gjennomsnittlig 600 ganger i døgnet. Hans omgang med sannheten er såpass lemfeldig at det er umulig å huske sist han sa noe som faktisk var sant. Selv ikke det Allmektige Spaghettimonsteret vet om dieseldyret Trump snakker sant om denne dieseldealen. Vær likevel trygg på at forbannede markedet tar ham på orde.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 546,
+      "has_link": false
+    },
+    {
+      "key": "a750b41513722360",
+      "author": "Huskis56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Får håpe at Disel / Thrumpen ikke forstyrrer msrkede kortsiktig. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    }
+  ]
 }
