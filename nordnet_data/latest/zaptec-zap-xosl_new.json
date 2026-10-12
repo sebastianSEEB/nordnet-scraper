@@ -1,9 +1,23 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-12T16:18:17.541981+00:00",
+  "scraped_at": "2026-10-12T23:21:57.749859+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "30e89bf223aad33c",
+      "author": "Aktierforsjov",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aktierforsjov",
+      "posted_relative": "for 6 t siden",
+      "text": "· Tålmodighet er en dyd, så fikk Citadel den ned med nakken og ingen tør å kjøpe 🙃",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }

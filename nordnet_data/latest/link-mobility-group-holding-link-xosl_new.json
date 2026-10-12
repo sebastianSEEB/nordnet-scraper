@@ -1,9 +1,41 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-12T16:18:09.901208+00:00",
+  "scraped_at": "2026-10-12T23:21:49.437610+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "08b839d97dc22157",
+      "author": "Sistemann inn..",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
+      "posted_relative": null,
+      "text": "8. okt. Det hopper og spretter som vanlig i LINK. Solgte selv alt på 25 forrige uke og kjøpte samme antall tilbake dagen efter. For 24. Fikk gevinst - men tenker at dette langt fra er noe som minner om bærekraftig økonomi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 222,
+      "has_link": false
+    },
+    {
+      "key": "d431b1207a773f0e",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 3 t siden",
+      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

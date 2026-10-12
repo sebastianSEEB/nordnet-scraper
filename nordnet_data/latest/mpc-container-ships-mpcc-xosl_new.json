@@ -1,9 +1,56 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-10-12T16:17:16.669505+00:00",
+  "scraped_at": "2026-10-12T23:20:55.327393+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8ad0064adcc86e71",
+      "author": "TompeSpeedy2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tompespeedy2",
+      "posted_relative": null,
+      "text": "9. okt. · MPCC-eiere vil betale for en flåte som MPCs eiere tjener penger på, via OPEX. Mpc 75 % privateid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "67cb165cba36fd76",
+      "author": "neffets",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neffets",
+      "posted_relative": null,
+      "text": "8. okt. Den siste emisjonen, noen som hvet hvem den var rettet mot? Har vi en trend nå med  ny emisjon?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "16f39cbb7408f507",
+      "author": "aksjeinvestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeinvestor",
+      "posted_relative": "for 3 t siden",
+      "text": "Sant nok,men jeg reinv. Utbyttene og selskapet,vil tjene mer med flere skip(forhåpentligvis)",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    }
+  ]
 }

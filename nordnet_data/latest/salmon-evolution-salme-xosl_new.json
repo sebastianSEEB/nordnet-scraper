@@ -1,9 +1,51 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-12T16:23:59.074573+00:00",
+  "scraped_at": "2026-10-12T23:27:43.712580+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a7eced407f9e5637",
+      "author": "Bjørn1984",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjrn1984",
+      "posted_relative": "for 11 t siden",
+      "text": "Ikke mange som er i pluss på denne….",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "0b3de37a7375fa62",
+      "author": "7ri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/7ri",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er mange som vil komme i pluss;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "503acc027da16714",
+      "author": "SilliB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sillib",
+      "posted_relative": "for 4 t siden",
+      "text": "Samme🥳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

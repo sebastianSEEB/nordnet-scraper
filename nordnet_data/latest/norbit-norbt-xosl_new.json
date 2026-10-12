@@ -1,9 +1,42 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-12T16:18:44.644616+00:00",
+  "scraped_at": "2026-10-12T23:22:24.865489+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0e2d33d104d0a3cb",
+      "author": "Bill Bradely",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bill-bradely",
+      "posted_relative": "for 5 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/10/12/8386978/dette-er-de-mest-shortede-aksjene-pa-oslo-bors Ikke overraskende er Norbit blant de mest shortede aksjer på Oslo Børs.  Gratis penger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/12/8386978/dette-er-de-mest-shortede-aksjene-pa-oslo-bors"
+      ],
+      "char_count": 188,
+      "has_link": true
+    },
+    {
+      "key": "3f6e92db9fa067df",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": "for 5 t siden",
+      "text": "Etter å ha sjekka profilen din er jeg fristet til å tro at du kanskje er en eller annen plass på spekteret. Virker til å  ha en eller annen form for hyperfiksering på å kommentere negativt rundt kursutviklingen i Norbit. Siden i mai har du holdt på nesten daglig med diverse uppgulp. Meget spesielt spør du meg. Hva har skjedd med deg egentlig? Jeg skulle ønske du kunne dele porteføljen siden du mener å ha sånn teft for \"gratis penger\". Du må jo være søkkrik.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 461,
+      "has_link": false
+    }
+  ]
 }
