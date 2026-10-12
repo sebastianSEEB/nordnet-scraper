@@ -1,9 +1,39 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-12T00:10:10.260491+00:00",
+  "scraped_at": "2026-10-12T06:48:57.222486+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "457066c9302b5177",
+      "author": "Glencell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glencell",
+      "posted_relative": null,
+      "text": "7. okt. Positivt for DNB. Rundt 400 årsverk kuttes gjennom effektivisering, AI og automatisering. Gir en kostnad i Q4, men bør bidra til lavere kostnader og bedre lønnsomhet fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [],
+      "char_count": 183,
+      "has_link": false
+    },
+    {
+      "key": "036815dcb625e923",
+      "author": "Marsboer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marsboer",
+      "posted_relative": "for 1 t siden",
+      "text": "Spennende å se om «AI» prosjektene leverer som ønsket etter de 400 🤨 ansatte må ut. Skal ikke undervurdere de kostnadene som påløper i overgang til automatisering. Spennende, indeed",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    }
+  ]
 }

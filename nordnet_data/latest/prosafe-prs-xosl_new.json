@@ -1,9 +1,25 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-12T00:12:41.558811+00:00",
+  "scraped_at": "2026-10-12T06:51:29.638102+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4217514d3243cbec",
+      "author": "Morrissey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morrissey",
+      "posted_relative": "for 1 t siden",
+      "text": "Investtech poster Prosafe som dagens aksje (9. okt). Motstand ved ca 15👍",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }

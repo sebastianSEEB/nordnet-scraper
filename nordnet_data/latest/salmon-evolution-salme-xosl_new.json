@@ -1,9 +1,23 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-12T00:12:37.760239+00:00",
+  "scraped_at": "2026-10-12T06:51:25.781693+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f8810342d9fa791c",
+      "author": "Zlatter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zlatter",
+      "posted_relative": "for 2 min siden",
+      "text": "· 6,75% 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
+      "has_link": false
+    }
+  ]
 }

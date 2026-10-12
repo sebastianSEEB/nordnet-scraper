@@ -1,9 +1,26 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-12T00:06:48.543276+00:00",
+  "scraped_at": "2026-10-12T06:45:35.026909+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0cc640dcf3950389",
+      "author": "Glennski",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glennski",
+      "posted_relative": null,
+      "text": "8. okt. · Endret Vil selges mye elbiler og ladere frem til nytt år. Se bilde fra E24 i dag.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

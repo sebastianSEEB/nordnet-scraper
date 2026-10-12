@@ -1,9 +1,36 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-10-12T00:05:53.491909+00:00",
+  "scraped_at": "2026-10-12T06:44:40.613454+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e8fdbc00d4c7121e",
+      "author": "olto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
+      "posted_relative": "for 28 min siden · Endret",
+      "text": "Typisk for Spetalen emisjoner å dumpe så snart han har 5 til 10%. Ofte for enda mindre. Få av de du nevner er kjent for å være langsiktige.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "98a934674230fa7a",
+      "author": "HeikenHei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heikenhei",
+      "posted_relative": "for 47 min siden · Endret",
+      "text": "Eu setter tak på biler fra Kina og WAWi tikker opp ? Og var det noe ikke sånn at EU skulle redde kloden allikevel?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    }
+  ]
 }

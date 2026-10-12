@@ -1,9 +1,26 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-12T00:08:01.522804+00:00",
+  "scraped_at": "2026-10-12T06:46:48.757696+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8a81ef9e34dbc6c5",
+      "author": "Per3",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/per3",
+      "posted_relative": null,
+      "text": "8. okt. · Eg trur me fort kan sjå 7-8 kroner igjen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        2
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }
