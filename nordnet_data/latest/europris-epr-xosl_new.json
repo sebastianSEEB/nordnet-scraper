@@ -1,9 +1,25 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-12T06:46:52.614392+00:00",
+  "scraped_at": "2026-10-12T16:07:45.020896+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a9681b16a32370c8",
+      "author": "Thebrokebroker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thebrokebroker",
+      "posted_relative": "for 7 t siden",
+      "text": "Kjøper litt idag. Hermanrud holder fortsatt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

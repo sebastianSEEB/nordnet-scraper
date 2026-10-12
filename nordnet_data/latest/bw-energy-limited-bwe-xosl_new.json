@@ -1,9 +1,52 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-10-12T06:48:22.109193+00:00",
+  "scraped_at": "2026-10-12T16:09:16.188922+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "857d5a26b47eaea4",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": null,
+      "text": "8. okt. Er vel tidenes røverkjøp dagens prising av BWE om de kun dobler produksjonen i løpet av 2027 og ikke når guidet firedobling før i 2028 📈🚀🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "fe716b923c75db95",
+      "author": "kosen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kosen",
+      "posted_relative": null,
+      "text": "8. okt. Tangering av ATH kr 61.40 sluttkurs. Kan være et brudd opp nå etter lang tids sideleie.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "130e2a86a53a97d1",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 8 t siden",
+      "text": "Sort gull denne 💰💰💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

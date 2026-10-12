@@ -1,25 +1,55 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-12T06:45:35.026909+00:00",
+  "scraped_at": "2026-10-12T16:06:25.482446+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "0cc640dcf3950389",
-      "author": "Glennski",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glennski",
-      "posted_relative": null,
-      "text": "8. okt. · Endret Vil selges mye elbiler og ladere frem til nytt år. Se bilde fra E24 i dag.",
-      "reply_count": 1,
+      "key": "e14b1c4ebee19b1a",
+      "author": "Teehuh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/teehuh",
+      "posted_relative": "for 2 t siden",
+      "text": "· Skjituke..får se hvor bunnen er?",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4,
-        3
+        2
       ],
       "links": [],
-      "char_count": 91,
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "078fefcbefc16fc8",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 4 t siden",
+      "text": "kjedelig.... Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "7462807b0a6ea4a3",
+      "author": "Johnnyfive",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johnnyfive",
+      "posted_relative": "for 39 min siden",
+      "text": "Denne skal opp!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
       "has_link": false
     }
   ]

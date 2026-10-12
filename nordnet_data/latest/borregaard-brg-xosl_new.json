@@ -1,22 +1,71 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-12T06:48:37.622357+00:00",
+  "scraped_at": "2026-10-12T16:09:31.698474+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "6985a57c3d4b7a31",
+      "key": "87923f538e039123",
       "author": "Sky is the limit",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
-      "posted_relative": "for 4 min siden",
-      "text": "God inngang nå. Har økt/kommer til å øke mer den nærmeste fremtid.",
+      "posted_relative": null,
+      "text": "8. okt. Nylige data fra aksjonærregisteret på Oslo Børs viser endringer i eierskapet i Borregaard. Varner Equities AS har økt sin posisjon i selskapet gjennom nylige transaksjoner. De har nå en beholdning i Borregaard med 16 000 aksjer. Investorens samlede eierandel i Borregaard er nå på 725 389 aksjer, som utgjør 0,7 % av selskapets totale aksjer.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 66,
+      "char_count": 350,
+      "has_link": false
+    },
+    {
+      "key": "2da98abd98887770",
+      "author": "Redeemer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/redeemer",
+      "posted_relative": null,
+      "text": "8. okt. Her er det jaggu tregt, solgte mesteparten(2/3 deler) i februar og tenker det snart er på tide å kjøpe igjen. Selskapet er bunnsolid og kommer til å fortsette å tjene gode penger fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 196,
+      "has_link": false
+    },
+    {
+      "key": "951ff8f185c5ea15",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "8. okt. En undervurdert aksje som markedet ikke har fått med seg. Stort smilefjes for oss som er aksjonærer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "457e9dedceefd245",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva tenker dere om kommende Q3-tall ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 37,
       "has_link": false
     }
   ]

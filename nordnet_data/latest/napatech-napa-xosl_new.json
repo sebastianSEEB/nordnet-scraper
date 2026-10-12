@@ -1,28 +1,38 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-12T06:46:40.694108+00:00",
+  "scraped_at": "2026-10-12T16:07:33.053793+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "226f363f2d0ad69c",
-      "author": "NorthbyNorthwest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/northbynorthwest",
-      "posted_relative": null,
-      "text": "8. okt. · https://www.arista.com/en/company/news/press-release/24818-pr-20261007?utm_source=chatgpt.com Arista markedsverdi: USD 270 mrd",
+      "key": "817a0c65bbb8164b",
+      "author": "HKP",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hkp",
+      "posted_relative": "for 2 t siden",
+      "text": "· Interessant at Nvidia planlegger å investere i Dmatrix. En direkte investering i Napatech hadde imidlertid vært enda bedre. ✌️",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9,
-        5
+        2
       ],
-      "links": [
-        "https://www.arista.com/en/company/news/press-release/24818-pr-20261007?utm_source=chatgpt.com"
-      ],
-      "char_count": 136,
-      "has_link": true
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "2183a4e567b01cc6",
+      "author": "Funbet777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funbet777",
+      "posted_relative": "for 8 t siden",
+      "text": "· Så kom vi under 46",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
     }
   ]
 }

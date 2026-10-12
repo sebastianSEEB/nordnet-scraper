@@ -1,9 +1,55 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-10-12T06:49:51.974539+00:00",
+  "scraped_at": "2026-10-12T16:10:47.126151+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c58bd67e35e1ebf7",
+      "author": "Gussern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gussern",
+      "posted_relative": null,
+      "text": "8. okt. · Endret HENT, et datterselskap av Sentia, er innstilt av Oslo kommune som entreprenør for Fornebubanen K5B. Kontrakten omfatter tekniske installasjoner og innvendige arbeider for Fornebu stasjon og base. Est verdi ca 1,2 Milliard NOK hvis den går til kontrakt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        5
+      ],
+      "links": [],
+      "char_count": 268,
+      "has_link": false
+    },
+    {
+      "key": "d190d8489b1af499",
+      "author": "Gussern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gussern",
+      "posted_relative": null,
+      "text": "8. okt. Tror de som kom inn på 81,5 i dag gjorde et greit kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "17e269f1ca23dc51",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": null,
+      "text": "8. okt. Snart på tide å kjøpe igjen her",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,52 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-10-12T06:49:24.286607+00:00",
+  "scraped_at": "2026-10-12T16:10:19.572646+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "dd4ad9190d8512f5",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg vurderer å kjøpe en større post i Yara, men er litt usikker på hvordan aksjen kan utvikle seg før og etter Q3-rapporten. Er det noen her som kjenner selskapet og aksjen godt, og som har noen tanker om hvorvidt dagens kursnivå er attraktivt for kjøp? Tar gjerne imot både positive og negative vurderinger, spesielt med tanke på forventningene til Q3 og risikoen på kort sikt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 378,
+      "has_link": false
+    },
+    {
+      "key": "29934ea682b76633",
+      "author": "Iwin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iwin",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Faller den under 400 raser den fort et godt stykke lenger. Er klar til å doble om den når kanskje 360",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "2b3567a17f6bfb1d",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": "for 2 t siden",
+      "text": "for 3% fall volum er ganske lite! (det betyr noen presser den ned)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

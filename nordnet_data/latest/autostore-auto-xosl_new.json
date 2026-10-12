@@ -1,9 +1,97 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-12T06:47:39.047902+00:00",
+  "scraped_at": "2026-10-12T16:08:32.331607+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "751623ed14c826bb",
+      "author": "Kystfondet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kystfondet",
+      "posted_relative": null,
+      "text": "8. okt. · Nøyaktig 4 veker til Q3 rapporten skal leggast fram. Hadde vore interesant å hørt kva folk tenker om den neste månaden og forventingar til rapporten. Sjølv tipper eg rapporten blir omtrent som forventa og at ein kan få ein ok positiv reaktion, med påfølgande gevinstsikring frå kortsiktige investorar.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 311,
+      "has_link": false
+    },
+    {
+      "key": "71db5f076580013e",
+      "author": "GabrielSv16",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabrielsv16",
+      "posted_relative": null,
+      "text": "8. okt. Noen grunn for de røde tallene..? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "e1cfd9c9749e7721",
+      "author": "Rampeline",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rampeline",
+      "posted_relative": null,
+      "text": "8. okt. Mye rødt på alt som ikke har med olje å gjøre i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "09c2f510bb262056",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 1 t siden",
+      "text": "AUTO er litt for glad i å følge olja. Rart?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "b0bacf860bd7a37b",
+      "author": "TradInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradinvest",
+      "posted_relative": "for 1 t siden",
+      "text": "Satser på ny inngang i sluttauksjonen:)",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "5ebd4ae5140b7717",
+      "author": "Rampeline",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rampeline",
+      "posted_relative": null,
+      "text": "8. okt. Tenker rapporten blir solid👌🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,64 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-12T06:45:54.329214+00:00",
+  "scraped_at": "2026-10-12T16:06:45.255231+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "784788a69ceeca65",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 7 t siden",
+      "text": "Svak utvikling idag, særlig sett i lys av at den beveger seg motsatt av de øvrige forsikringsselskapene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "2522cb041885929f",
+      "author": "natur1337",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/natur1337",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "Handlet i dag, meget attraktive nivåer nå. Gleder meg til rapport, tvi tvi!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "b86a9edc79e86f98",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 5 t siden",
+      "text": "når Bjellesuer handler går PROT. . . .. :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "282200ea9deb029e",
+      "author": "Vihaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
+      "posted_relative": "for 1 t siden",
+      "text": "· Igen..🤦‍♂️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

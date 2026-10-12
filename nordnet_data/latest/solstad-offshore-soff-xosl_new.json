@@ -1,9 +1,40 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-10-12T06:44:52.164587+00:00",
+  "scraped_at": "2026-10-12T16:05:42.577633+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e20edc941e480940",
+      "author": "VestInVestment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vestinvestment",
+      "posted_relative": "for 2 t siden",
+      "text": "Tror noen prøvde å holde den under 70...satser på den tid er forbi💪",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "0e792cfaf0af9ed6",
+      "author": "VestInVestment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vestinvestment",
+      "posted_relative": null,
+      "text": "7. okt. · \"Du skal ikke gå forbi!\" Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

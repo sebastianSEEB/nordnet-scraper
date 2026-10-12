@@ -1,9 +1,72 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-12T06:45:11.444161+00:00",
+  "scraped_at": "2026-10-12T16:06:02.139194+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "eca99c6da2444b0a",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": null,
+      "text": "8. okt. Hvem er det snakk om her? Capital? Kan noen dele: https://e24.no/boers-og-finans/i/vlWkMV/tar-veddemaal-i-tankfersking",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        6
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/vlWkMV/tar-veddemaal-i-tankfersking"
+      ],
+      "char_count": 126,
+      "has_link": true
+    },
+    {
+      "key": "28cec8a97ef3beb4",
+      "author": "tbrx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tbrx",
+      "posted_relative": "for 3 døgn siden",
+      "text": "· Trade Winds;Vi forventer ytterligere oppadgående press på rater og priser fremover i oktober,\" sa Fearnleys. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    },
+    {
+      "key": "912e554b782a7f92",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": null,
+      "text": "8. okt. Ja....hvor langt ned skal vi denne gangen da",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "c45cc7b3920ee81f",
+      "author": "Søren BP",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sren-bp",
+      "posted_relative": "for 27 min siden",
+      "text": "· Ja takk til Trump, den s… s….",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,53 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-12T06:45:42.674273+00:00",
+  "scraped_at": "2026-10-12T16:06:33.565901+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4fb3fd2b1fd026af",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Hvem liker han? Hva mener han om PEN? https://www.finansavisen.no/energi/2026/10/07/8385791/teodor-sveen-nilsens-evige-favoritt-aksjen-jeg-ville-eid-resten-av-livet?internal_source=aksjeanalyse Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/07/8385791/teodor-sveen-nilsens-evige-favoritt-aksjen-jeg-ville-eid-resten-av-livet?internal_source=aksjeanalyse"
+      ],
+      "char_count": 213,
+      "has_link": true
+    },
+    {
+      "key": "1b81c944bc760ca7",
+      "author": "eagleeagle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eagleeagle",
+      "posted_relative": "for 8 t siden",
+      "text": "Det er også én utvikling Sveen-Nilsen selv trekker frem som overraskende. Frem til juni beveget de store og små oljeselskapene seg nokså likt på børsen. Så skjedde det noe. – Fra juni til nå har det vært et markert skifte, sier han. De store har stukket fra de mindre. Og det er nettopp blant småselskapene Sveen-Nilsen nå finner flere av aksjene han faktisk vil kjøpe. – Vi liker Panoro, vi liker DNO og vi liker IPC Okea har også kjøpsanbefaling, med kursmål på 41 kroner. Favoritten er imidlertid den samme som før – International Petroleum Corp., eller IPC. – Hvis jeg måtte eie én aksje resten av livet, er det fortsatt IPC. Den har gått sinnssykt bra de siste årene, heldigvis, men det er fortsatt oppside.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 712,
+      "has_link": false
+    },
+    {
+      "key": "01dd6af801746e7e",
+      "author": "andga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andga",
+      "posted_relative": "for 5 t siden",
+      "text": "· Ut fra det jeg kan se, ble den lastet i Angola før den ankom EG. Basert på dypgående ved ankomst tror jeg det er estimert 1M fat lastet i EG. Så 540k fat til panoro? Lastingen i Gabon er mest sannsynlig for BWE.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 213,
+      "has_link": false
+    }
+  ]
 }

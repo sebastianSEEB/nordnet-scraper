@@ -1,9 +1,38 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-10-12T06:49:16.612509+00:00",
+  "scraped_at": "2026-10-12T16:10:11.578786+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "131145860bf41e0e",
+      "author": "mini_85",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mini_85",
+      "posted_relative": "for 7 t siden",
+      "text": "mer tro på at den snur mot 300",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "c6653347580656d6",
+      "author": "Vargas12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vargas12",
+      "posted_relative": "for 7 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

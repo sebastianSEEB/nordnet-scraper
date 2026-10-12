@@ -1,9 +1,25 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwib-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwib-xosl",
-  "scraped_at": "2026-10-12T06:44:48.286144+00:00",
+  "scraped_at": "2026-10-12T16:05:38.708961+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "36204fb336dbde3f",
+      "author": "mpaets",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mpaets",
+      "posted_relative": null,
+      "text": "8. okt. Jeg tror ikke kursfallet i går hovedsaklig handlet om emisjonen, men det at EU vurderer toll på kinesiske hybridbiler. Noe av fallet handlet trolig også om emisjonen. HAUTO begynte opp i går, men falt godt utover dagen, etter at nyheten ble kjent.  Nå vet vi hvor avhengige WAWI er på frakt av kinesiskebiler for å opprettholde volum og dersom det innføres ytterligere tollbarrierer på dette, blir det mindre igjen på bunnlinja.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 436,
+      "has_link": false
+    }
+  ]
 }
