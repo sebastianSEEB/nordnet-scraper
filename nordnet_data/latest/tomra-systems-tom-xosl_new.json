@@ -1,9 +1,36 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-11T20:42:47.719014+00:00",
+  "scraped_at": "2026-10-12T00:07:00.010526+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0dcc917f1523442b",
+      "author": "Villbekk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/villbekk",
+      "posted_relative": "for 2 t siden",
+      "text": "· Og denne",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    },
+    {
+      "key": "a57560ef5c10fffe",
+      "author": "Villbekk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/villbekk",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· TOM",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }
