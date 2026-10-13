@@ -1,9 +1,56 @@
 {
   "slug": "sparebank-1-nord-norge-nong-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-nord-norge-nong-xosl",
-  "scraped_at": "2026-10-13T04:29:18.228767+00:00",
+  "scraped_at": "2026-10-13T12:22:22.401302+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1672cbd2151d8be8",
+      "author": "SeaPony66",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/seapony66",
+      "posted_relative": "for 4 t siden",
+      "text": "Bunnsolid og driftssikker bank. På tide at folk får øynene opp. Hilsen en som har jobbet i konsernet😎",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "f00e90373141a7b8",
+      "author": "Nugatti Boy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nugatti-boy",
+      "posted_relative": "for 1 t siden",
+      "text": "Nå snakker vi, dette er en ekte pengeprinter. 🤝",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "3d826d378fd36707",
+      "author": "tingling",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tingling",
+      "posted_relative": "for 4 t siden",
+      "text": "Stiger på høyt volum :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

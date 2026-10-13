@@ -1,9 +1,38 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-13T04:31:23.446798+00:00",
+  "scraped_at": "2026-10-13T12:24:24.514103+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "40e9cc01e7b98b7d",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 37 min siden",
+      "text": "Parb har tatt tap på 2-300 millioner, og de har mistet mcap på mer enn 3 milliarder. Så ikke overrasket. More to come.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "5a4098c2c2165d57",
+      "author": "Hakkebakke123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hakkebakke123",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva skylder den store oppgangen idag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

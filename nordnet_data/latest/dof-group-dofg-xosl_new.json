@@ -1,9 +1,38 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-13T04:26:54.935815+00:00",
+  "scraped_at": "2026-10-13T12:20:00.331306+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cdf596bbfe080956",
+      "author": "expertrader",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/expertrader",
+      "posted_relative": "for 2 t siden",
+      "text": ". «DOF definerer en \"large\"-kontrakt til å ha en verdi mellom 50 og 100 millioner dollar. i midten av november» dette kan bety kortsiktig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "dffae07ae6aceef0",
+      "author": "Willern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willern",
+      "posted_relative": "for 2 t siden",
+      "text": "Langsiktig eller kortsiktig?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

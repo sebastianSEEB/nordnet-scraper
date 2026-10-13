@@ -1,9 +1,87 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-13T04:27:45.965125+00:00",
+  "scraped_at": "2026-10-13T12:20:50.165075+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "0e5f65188787bd91",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": null,
+      "text": "9. okt. · https://www.theinformation.com/articles/nvidia-invest-chip-rival-d-matrix-challengers-choose-partnership?utm_campaign=article_email&utm_content=article-17959&utm_medium=email&utm_source=sg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.theinformation.com/articles/nvidia-invest-chip-rival-d-matrix-challengers-choose-partnership?utm_campaign=article_email&utm_content=article-17959&utm_medium=email&utm_source=sg"
+      ],
+      "char_count": 198,
+      "has_link": true
+    },
+    {
+      "key": "260b6bebb5ce1e69",
+      "author": "Cheapo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
+      "posted_relative": null,
+      "text": "9. okt. · Sparebank 1 Markets i morges: \"Ifølge Information planlegger Nvidia å investere i d-Matrix, med henvisning til tre personer som kjenner saken. Den rapporterte investeringen kommer i fotsporene på partnerskapet som ble kunngjort mellom Nvidia og d-Matrix i forrige måned. Størrelsen og vilkårene for den potensielle investeringen er ikke oppgitt, men dette ser åpenbart ut som en sterk validering av d-Matrix. For Napatech er nyheten positiv da den øker sannsynligheten for at d-Matrix skaleres kommersielt. Imidlertid gjenstår det å bekrefte Napatechs potensielle rolle i Raptor (2nd gen).\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        4
+      ],
+      "links": [],
+      "char_count": 600,
+      "has_link": false
+    },
+    {
+      "key": "a6a3ea7556f91d50",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": null,
+      "text": "9. okt. Har kjøpt meg opp her idag. Denne aksjen kan plutselig gå. Har testet 50 kr siste dagene og falt tilbake til 45-46 igjen. Men, bryter den gjennom 50. Er veien opp til 60+ ikke langt. Det spekuleres noe om NVIDIA greier her som kan være veldig bra for selskapet. Forstår ikke hva det er. Men, at produktet dems har stor etterspørsel er fint å vite. De vokser med AI utviklingen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 384,
+      "has_link": false
+    },
+    {
+      "key": "42af2dbefca1230c",
+      "author": "Augustavesta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/augustavesta",
+      "posted_relative": null,
+      "text": "9. okt. · Den tester 46.10 kr igjen og det er et positivt tegn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "3467a17f89dbc0d4",
+      "author": "Funbet777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funbet777",
+      "posted_relative": "for 5 t siden",
+      "text": "· Ja vi skal nok ned på 40 igjen 👍👍",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

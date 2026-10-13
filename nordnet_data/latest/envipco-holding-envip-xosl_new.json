@@ -1,9 +1,84 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-13T04:32:01.664829+00:00",
+  "scraped_at": "2026-10-13T12:25:02.631809+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "a92f7fc37a2ef6a7",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/10/12/8386978/dette-er-de-mest-shortede-aksjene-pa-oslo-bors Skulle ønske man kunne se de under 0.5",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/12/8386978/dette-er-de-mest-shortede-aksjene-pa-oslo-bors"
+      ],
+      "char_count": 139,
+      "has_link": true
+    },
+    {
+      "key": "a8a5cbe9c45d83e2",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": "for 33 min siden",
+      "text": "😂😂 Var i Hellas for to uker siden. Vurderte å spørre på lokale supern, men dro meg aldri til det..  Men at det trengs; ingen tvil",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "2ba5bf3cff6e8d16",
+      "author": "Marnar King",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marnar-king-1",
+      "posted_relative": "for 1 t siden",
+      "text": "· Noen her i forumet med en onkel i Hellas eller Moldova som kan komme med litt nyheter derfra?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "4d665d5e60a3da31",
+      "author": "Marnar King",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marnar-king-1",
+      "posted_relative": "for 5 t siden",
+      "text": "· Short redusert litt igjen. 4,04%.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "0c2953c6d730f7a7",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 6 t siden",
+      "text": "· 4,04% i dag på de største i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

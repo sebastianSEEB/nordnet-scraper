@@ -1,9 +1,38 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-13T04:31:42.223054+00:00",
+  "scraped_at": "2026-10-13T12:24:43.414279+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ebf69f05cff86f09",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
+      "posted_relative": "for 17 t siden",
+      "text": "Tror vi ser 30+ til Jul. Regner med overraskende tall neste Q rapport. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "f6a8474f1139d91f",
+      "author": "ABC Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/abc-invest",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Mulig oppkjøpskandidat, etterspurt teknologi for tiden..",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

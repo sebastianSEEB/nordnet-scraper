@@ -1,9 +1,108 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-13T04:27:49.848028+00:00",
+  "scraped_at": "2026-10-13T12:20:53.945626+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 7,
+  "posts": [
+    {
+      "key": "e43099791b6fb693",
+      "author": "Wesleypies",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wesleypies",
+      "posted_relative": "for 1 t siden",
+      "text": "Cadeler skriver i børsmeldingen fra 21. september at kontantvederlaget skal baseres på aksjekursen på Oslo Børs før tilbudet ble igangsatt….dvs 61,40kr. I tillegg får man beholde aksjene på ASK…hvorfor selge nå? Beholde aksjene uten å godta flytt ser ut til å ha betydelig oppside vs dagens kurs. Dette burde også påvirke kursen positivt for aksjonærer som beholder aksjene og godtar flytten. Så hvorfor selge nå?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 413,
+      "has_link": false
+    },
+    {
+      "key": "388f68265ac64ab4",
+      "author": "Gorvita",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gorvita",
+      "posted_relative": "for 39 min siden",
+      "text": "Hei hvordan blir skattereglene hvis man selger aksjene etterat de er overført til England? Gjelder fritaksmodellen fortsatt både hvis man eier private aksjer og f.eks aksjer i et selskap?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "8147e307543498fb",
+      "author": "MsDowYounes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/msdowyounes",
+      "posted_relative": "for 8 min siden",
+      "text": "Får noen til å akseptere tilbudet når aksjene står på ASK? Får opp feilmeldingen «du har ingen gyldige kontoer som kan svare på denne meldingen»",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "eeb7f5e301e705ca",
+      "author": "jpm.norge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jpmnorge",
+      "posted_relative": "for 2 t siden",
+      "text": "Dumt spørsmål: Hvor og hvordan godt tar jeg for å beholde aksjene mine på ASK konto. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "ca210714461965d1",
+      "author": "gartnern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gartnern",
+      "posted_relative": "for 5 min siden",
+      "text": "Det kan vel ikke bli så mye skatt da selskapet er tilbake der det sto",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "8af4fe93565b13f9",
+      "author": "gartnern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gartnern",
+      "posted_relative": "for 6 min siden",
+      "text": "Jeg tok kontakt med DnB og fikk hjelp",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "d9a2609090b4abdd",
+      "author": "MsDowYounes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/msdowyounes",
+      "posted_relative": "for 9 min siden",
+      "text": "Men det går ikke fra ASK?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

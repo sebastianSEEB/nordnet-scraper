@@ -1,9 +1,38 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-10-13T04:28:35.638896+00:00",
+  "scraped_at": "2026-10-13T12:21:40.209641+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4c104dc37a8ea296",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 4 t siden",
+      "text": "Da er vel toppen nådd på en stund, når de kommer inn i bildet;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "bcf109897b5468e9",
+      "author": "Travellingman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/travellingman",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvem er de?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

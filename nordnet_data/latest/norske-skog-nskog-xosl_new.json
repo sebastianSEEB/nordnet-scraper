@@ -1,9 +1,38 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-13T04:29:14.521381+00:00",
+  "scraped_at": "2026-10-13T12:22:18.654638+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "436594cda5b56ac5",
+      "author": "Horisont35",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/horisont35",
+      "posted_relative": "for 14 min siden",
+      "text": "Er det noen som tør selge før Q3 tallene. Tror fort man blir stående igjen på perrongen da.......",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "6415e9008fb8074d",
+      "author": "OAST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oast",
+      "posted_relative": "for 3 t siden",
+      "text": "hei hu hvor det går",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

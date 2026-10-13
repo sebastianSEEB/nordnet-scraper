@@ -1,9 +1,38 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-13T04:25:05.126395+00:00",
+  "scraped_at": "2026-10-13T12:18:11.452787+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e7eae4a9ad7e127d",
+      "author": "Raul38",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raul38",
+      "posted_relative": "for 8 min siden · Endret",
+      "text": "500000 tonn Diesel er en dråpe i havet.  Og husk densiteten er ca 0,84-0.85, 1000 L er ca 850kg. Bare runde tall enkelt å forstå: 5000 biler x 100L pr bil:  5000 X 100 L= 500000 Tonn eller 10000 X 50 L = 500000 Tonn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "19add47c2e933781",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 3 t siden",
+      "text": "Se også Torm estimater for år 2026 rekord resultat !!! (Stor eierandel- utbytte !!)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-13T04:28:47.069922+00:00",
+  "scraped_at": "2026-10-13T12:21:51.810715+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f7999202af99b912",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": null,
+      "text": "9. okt. Hjelper jo lite med oppgang i prisene ser det ut for😆",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "f0e45019e62b3629",
+      "author": "@Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": null,
+      "text": "Har du noe info om priser?😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

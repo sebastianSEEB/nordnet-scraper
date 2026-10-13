@@ -1,9 +1,56 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-13T04:28:59.121506+00:00",
+  "scraped_at": "2026-10-13T12:22:03.517871+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "31e2026877f30464",
+      "author": "anderspanders",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anderspanders",
+      "posted_relative": "for 36 min siden",
+      "text": "Endur har gått 30% i år, ser vi 30% til neste år er vi rundt 150. Kursmål 180 er tilfeldigvis opp 30% fra dagens kursmål fra DNB. EBITA var opp 33% i 2025, så hvorfor ikke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 172,
+      "has_link": false
+    },
+    {
+      "key": "c51e6f623d166fa9",
+      "author": "HeikenHei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heikenhei",
+      "posted_relative": "for 4 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "a0ed79dffae8d767",
+      "author": "HeikenHei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heikenhei",
+      "posted_relative": "for 4 t siden",
+      "text": "Sorry . Min feil",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

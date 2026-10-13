@@ -1,9 +1,39 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-13T04:28:55.287980+00:00",
+  "scraped_at": "2026-10-13T12:21:59.672991+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "69af4fa59a1a699f",
+      "author": "keyb9",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keyb9",
+      "posted_relative": null,
+      "text": "9. okt. Latterlig kursmål fra DNB på nytt? Forsøker de å kjøpe den selv og presse kurs ned? Se på forward P/E og Eps estimater og at selskapet selv sier at de ser positive ting fremover. Ett lite tilbake rykk at flåte utnyttelsen ikke ble helt som forespeilet, men det ligger flere kontrakter fremover. Oljeprisen holder seg over 100 dollar. Jeg mener aksjen er underpriset og kommer til å holde til minst 180 - 190. Gjør en egen vurdering. Jeg fyller heller ikke på, men er fornøyd med min eksponering. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 523,
+      "has_link": false
+    },
+    {
+      "key": "a2a2b072ab9e783a",
+      "author": "Superinnvest1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/superinnvest1",
+      "posted_relative": null,
+      "text": "9. okt. Neste stopp 109.-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

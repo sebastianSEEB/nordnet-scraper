@@ -1,9 +1,68 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-13T04:30:24.631516+00:00",
+  "scraped_at": "2026-10-13T12:23:27.421048+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "3568f42b764ab08b",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 32 min siden",
+      "text": "· https://x.com/ed_fin/status/2109846124047872313 Har du tankers ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://x.com/ed_fin/status/2109846124047872313"
+      ],
+      "char_count": 66,
+      "has_link": true
+    },
+    {
+      "key": "7aed4ca20070be49",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 7 t siden · Endret",
+      "text": "· HFI Research i morges: I slutningen av september skrev jeg at markedet feilaktig antok at Oman Lane-flytningene ville fortsette. Finansskribenter var så ivrige etter å proklamere at 1) Iran mistet kontrollen og 2) oljestrømmene går tilbake til det normale. Det viste seg å være en svært dårlig vurdering. Realiteten akkurat nå er at Oman Lane-transittstrømmene fortsetter. I følge de siste tallene jeg har sett, er den antydede Hormuz-stredet-flyten et sted mellom 8 og 9 millioner fat per dag, ned fra 13-14 millioner fat per dag. Den framtidige antydede flyten (over de neste 10 dagene) er ventet å falle til 6-7 millioner fat per dag. For øyeblikket fortsetter oljehandlere å se på de siste angrepene som midlertidige. Vi ser ikke noen vesentlig panikk i det fysiske markedet ennå. Oppgangen i råoljevolum ut av Hormuz-stredet i midten av september er nok til å roe ting ned litt akkurat i det globale raffinerier går inn i vedlikehold på denne tiden av året, men jeg mistenker at forhøyede tankskiprater maskerer noe av den iboende panikken som vil komme. Ganske mange VLCC-er har nok endret kurs og ikke gått inn i stredet etter Irans eskalering",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 1152,
+      "has_link": false
+    },
+    {
+      "key": "8b399a48aefb2902",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 44 min siden",
+      "text": "· Kinesiske raffinerier bremser nedtapping av lagre når importen tar seg opp Kinesiske raffinerier vil bremse uttaket av olje fra reserver denne måneden ettersom råoljeimporten henter seg inn, ifølge Energy Aspects. Mer utenlandsk råolje er ventet å ankomme fra november, noe som gjør at Kina kan bevare lagerbufferen mot ytterligere forsyningsforstyrrelser, sier Jianan Sun, analytiker i Energy Aspects. I løpet av de neste tre månedene er 96 supertankere med kapasitet til å frakte om lag 2 millioner fat hver ventet å ankomme — det høyeste antallet siden Iran-krigene startet i slutten av februar, ifølge data for tankskipsporing samlet av Bloomberg. Raffinaderier har trappet opp spotkjøp etter at Beijing utstedte nye råoljeimportkvoter til private aktører. (Bloomberg)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 774,
+      "has_link": false
+    },
+    {
+      "key": "d08978f913a5a711",
+      "author": "Gjøkur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gjkur",
+      "posted_relative": "for 1 t siden",
+      "text": "TTF 86+, Brent kjør andre veien men det er egentligen bare bra, man kan glømme demand destruction, vi trenger mye høyere pris for det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,86 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-13T04:26:38.360596+00:00",
+  "scraped_at": "2026-10-13T12:19:44.851758+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "9e68c7bb57ac25c3",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 4 t siden",
+      "text": "· \"Hvordan et kjøpesenter i Lisboa bygde elbil-lading for 1 000 elbiler, uten å bygge om strømnettet sitt\" https://youtu.be/UcQE__02qMs?si=_Et7w9pzBF1f3zRP",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14,
+        1
+      ],
+      "links": [
+        "https://youtu.be/UcQE__02qMs?si=_Et7w9pzBF1f3zRP"
+      ],
+      "char_count": 155,
+      "has_link": true
+    },
+    {
+      "key": "12c4f75892c45c46",
+      "author": "Junkeren59",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junkeren59",
+      "posted_relative": "for 5 t siden",
+      "text": "Riktig, denne skal nok nedom 54-57 intervallet for å teste nivået, før vi evt ser videre oppgang. I mine øyne er 65 kr relativt høy pris å betale for ZAP pr.idag, så det er en sunn korreksjon på prisen. Q3 må nesten overprestere hvis vi skal videre opp. Eller det må komme noen større nyheter, nye samarbeider, ny produksjon ved fabrikken som overgår forventninger osv.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 369,
+      "has_link": false
+    },
+    {
+      "key": "f658f430f54a56cc",
+      "author": "SilverDragon81",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/silverdragon81",
+      "posted_relative": "for 3 t siden",
+      "text": "Disse løsningene skal inn i utallige kontorbygg, leilighetskomplekser og kjøpesentere i hele Europa. Et vellykket prosjekt som eksempelet viser danner grunnlaget for mange slike prosjekter. «Best practice» Vi er akkurat i startfasen så bare å glede seg til hva som kommer…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 272,
+      "has_link": false
+    },
+    {
+      "key": "322c00a148eab2e7",
+      "author": "Glennski",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glennski",
+      "posted_relative": "for 5 t siden",
+      "text": "Det er vel nå de proffe begynner å kjøpe etter noen dagers nedgang. Da pleier det og snu og de tjener penger. Typisk 😀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "411a2d334e91cd02",
+      "author": "KiimKong",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kiimkong",
+      "posted_relative": "for 6 t siden",
+      "text": "Tolmodighet? Aksjen er opp 140% i år....",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }
