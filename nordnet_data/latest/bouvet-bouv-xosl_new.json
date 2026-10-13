@@ -1,23 +1,27 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-13T14:36:41.098308+00:00",
+  "scraped_at": "2026-10-13T19:40:49.464304+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "c75a944812e270d0",
-      "author": "EB1996",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eb1996",
-      "posted_relative": "for 1 t siden",
-      "text": "Ser vi et lite trend skifte📈 AI frykten lagt seg?",
+      "key": "9cd85957293782c7",
+      "author": "AksjeSondre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjesondre",
+      "posted_relative": null,
+      "text": "9. okt. https://techwatch.no/nyheter/resultater/article19721641.ece Har dere sett denne?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 49,
-      "has_link": false
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://techwatch.no/nyheter/resultater/article19721641.ece"
+      ],
+      "char_count": 88,
+      "has_link": true
     }
   ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "western-bulk-chartering-west-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/western-bulk-chartering-west-merk",
-  "scraped_at": "2026-10-13T14:34:39.126112+00:00",
+  "scraped_at": "2026-10-13T19:38:43.829598+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "128b272cf8ff6963",
+      "author": "Allstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allstein",
+      "posted_relative": "for 2 t siden",
+      "text": "· De skriver  This resulted in a solid third quarter result and positive net earnings year to date. Betyr vel at resultatet for Q3 er bedre 6,6 millioner USD \"There is a very positive momentum in the organization and we expect the results to keep strengthening throughout the year,\" says Torbjørn Gjervik, CEO of Western Bulk. Mener han at resultatet blir enda bedre i Q4 ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 373,
+      "has_link": false
+    },
+    {
+      "key": "b95040857fef2067",
+      "author": "W0nder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/w0nder",
+      "posted_relative": "for 3 t siden",
+      "text": "· Western Bulk erklærer et utbytte for Q3 2026 på NOK 1,39 per aksje, totalt USD 4,9 millioner",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    }
+  ]
 }

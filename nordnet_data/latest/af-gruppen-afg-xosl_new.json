@@ -1,9 +1,38 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-10-13T14:39:05.096426+00:00",
+  "scraped_at": "2026-10-13T19:43:15.737695+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5943153ea24e3d43",
+      "author": "jaystank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaystank",
+      "posted_relative": "for 2 t siden",
+      "text": "Ja, men ikke av utbytte den dagen du mottar. Utsatt skatt. Dessuten skal man (hvert fall med dagens regjering) ikke ta ut noe mer enn innskutt på ASK.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "5688f6a6441e4b80",
+      "author": "Turbokrutt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turbokrutt",
+      "posted_relative": null,
+      "text": "23. sep. Hvorfor betaler AF gruppen mye dårligere utbytte i forhold til Veidekke  ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

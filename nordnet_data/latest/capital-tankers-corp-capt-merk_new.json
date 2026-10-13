@@ -1,9 +1,27 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-13T14:34:47.055623+00:00",
+  "scraped_at": "2026-10-13T19:38:51.532607+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "764a7a3894dae4a9",
+      "author": "TJ INVEST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj-invest",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/10/13/8387413/opec-spar-oljerekord-i-2027",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/13/8387413/opec-spar-oljerekord-i-2027"
+      ],
+      "char_count": 81,
+      "has_link": true
+    }
+  ]
 }

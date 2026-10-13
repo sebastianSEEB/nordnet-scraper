@@ -1,130 +1,85 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-13T14:38:23.609963+00:00",
+  "scraped_at": "2026-10-13T19:42:33.571337+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 8,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "07826df3b1d8b445",
-      "author": "Hulten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
-      "posted_relative": "for 2 min siden",
-      "text": "ESGCT 27.–30. oktober – hva vet vi egentlig om Circio-abstraktene? Fakta Circio har tre abstrakter på ESGCT i Hamburg: - Ett muntlig foredrag - To postere Det muntlige heter «circVec: A DNA Vector Platform Harnessing Intracellular Circular RNA Biogenesis for Next-Generation T Cell Therapies» og holdes onsdag 28. oktober kl. 10:00 i sesjonen om non-viral vectors / nanotechnology and RNA therapeutics. De to posterne: - P0089: circVec Reduces AAV Vector Dose Through Durable and Potent Circular RNA Expression - P0604: AAV-circVec Enhances Cardiac Expression While Minimizing Dose and Cellular Stress Fullstendige abstrakttekster slippes ifølge Circio 27. oktober. Neste R&D-oppdatering er ifølge Q2-samtalen varslet til siste halvdel av november. Mine tanker Postertitlene ligner sterkt på det vi så på ASGCT i mai. Jeg forventer derfor oppdaterte AAV-data (dose, uttrykk og cellulært stress), ikke et helt nytt spor. Det muntlige er det mer spennende. Tittelen peker mot T-celleterapi, men sier ingenting konkret om in vivo, LNP eller CAR. Det kan like gjerne være in vitro-data i humane T-celler som tidlige in vivo-resultater. Circio har selv guidet in vivo T-celle-levering, og CAR-uttrykk og varighet i humane T-celler, som milepæler over de neste 6–12 månedene. Derfor tar jeg ikke for gitt at de tyngste dataene kommer allerede nå. Det jeg vil se etter - Er uttrykket vist i faktiske T-celler (CD3/CD4/CD8), eller bare som totalsignal i milt? - Er det CAR, eller bare reporter-gen? - Hvor lenge holder det, og hva skjer når cellene deler seg? - Sammenlignes det mot en sterk kontroll, eller bare egen mVec? Kort sagt: Interessant program, men jeg holder forventningene i sjakk til abstraktene faktisk er ute.",
+      "key": "b64199ef36a42056",
+      "author": "Flammen2010",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flammen2010",
+      "posted_relative": "for 28 min siden",
+      "text": "Jeg stiller et spørsmål bare. Har vært så mye snakk her om det som skjedde i april, og hvis det skal stemme med det så kom vel meldinga rundt kl 22:30 den gang…",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 1717,
+      "char_count": 160,
       "has_link": false
     },
     {
-      "key": "ac92c4ec16e5486e",
+      "key": "47cac5847530eef9",
       "author": "Fattigstakkaren",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattigstakkaren",
-      "posted_relative": "for 45 min siden",
-      "text": "OBS: AI: Circio – mulige ESGCT-scenarier 27.–28. oktober Utgangspunkt: 10,78 kr. Anslått kursreaksjon innen 1–5 handelsdager etter offentliggjøring. Svake eller uklare data\t20 %\t8–10 kr Positive, men begrensede data\t30 %\t11–13 kr Sterke T-celledata og funksjonell effekt\t30 %\t14–18 kr Gjennombrudd: effekt, varighet og lavere dose\t15 %\t19–25 kr Eksepsjonelt gjennombrudd og kommersiell interesse\t5 %\t26–35 kr Samlet sannsynlighet: - 50 % for kurs på 14 kr eller høyere. - 20 % for kurs på 19 kr eller høyere. - 20 % for svake eller uklare data. Viktigste kursdriver: Dokumentasjon på at circVec ikke bare gir langvarig genuttrykk, men også målrettet og funksjonell CAR-T-aktivitet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        9
-      ],
-      "links": [],
-      "char_count": 681,
-      "has_link": false
-    },
-    {
-      "key": "cb69250d50e9f5fd",
-      "author": "lillejohn1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Novartis:  Avtale på opptil ca. 78 mrd. NOK – viser verdipotensialet i RNA-teknologi. Circio: Stort potensial innen in-vivo CAR-T, hjerte og CNS. Triggere: Nye sykdomsdata, ESGCT i slutten av oktober og mulige nye samarbeid. Soliditet: Betydelig egenkapital og runway til utgangen av 2030. 800 mill Svært lav mcap: Ca. 2–3 mrd. NOK – betydelig reprising mulig ved positive data.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        20,
-        3
-      ],
-      "links": [],
-      "char_count": 378,
-      "has_link": false
-    },
-    {
-      "key": "aa14c77b5412eca3",
-      "author": "lillejohn1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
-      "posted_relative": "for 59 min siden · Endret",
-      "text": "ESGCT 27. oktober 27. oktober: Tre abstracts offentliggjøres – ett muntlig og to posterpresentasjoner. ￼ 28. oktober kl. 10: Muntlig presentasjon om circVec og neste generasjons T-celleterapi, relevant for in-vivo CAR-T. ￼ Selskapet holder info om nye data og ev avtaler tett pr nå.",
+      "posted_relative": "for 2 t siden",
+      "text": "Bruker GPT, men da med assistentmodus og etter mitt syn komplekst instruksverk. Litt slitsomt med oppdateringer 24/7, men (tror) det er verdt tidsbruken",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 282,
+      "char_count": 152,
       "has_link": false
     },
     {
-      "key": "3fea2236918284fd",
-      "author": "zonnoe",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zonnoe",
-      "posted_relative": "for 15 min siden",
-      "text": "Vil tro det er HOLD som er greia fortiden. Og derav lav omsetning og lite aksjer som flyttes mellom hendene på andre. Kun daytraderene som lurer til seg noen kr seg i mellom de som ikke holder💥",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 193,
-      "has_link": false
-    },
-    {
-      "key": "a7ae4d289dd34477",
+      "key": "3c332fb23e4a5aa2",
       "author": "ThesisTulling",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thesistulling",
-      "posted_relative": "for 51 min siden",
-      "text": "Se der ja, syntes jeg så noe som gjorde at jeg fylte på. Noen begynte å fiske litt......",
+      "posted_relative": "for 5 t siden",
+      "text": "Se der ja, syntes jeg så noe som gjorde at jeg fylte på. Noen begynte å fiske litt...... Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         4,
-        1
-      ],
-      "links": [],
-      "char_count": 88,
-      "has_link": false
-    },
-    {
-      "key": "f1ba3f94ef4301ce",
-      "author": "ping pong",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ping-pong",
-      "posted_relative": "for 24 min siden",
-      "text": "Øker litt. Skal i hverfall ikke selge Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6,
         3
       ],
       "links": [],
-      "char_count": 57,
+      "char_count": 108,
       "has_link": false
     },
     {
-      "key": "69ced9cb2f80f6e3",
-      "author": "huge80",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huge80",
-      "posted_relative": "for 2 min siden",
-      "text": "· Kanskje",
+      "key": "6de6a2996c767450",
+      "author": "Flammen2010",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flammen2010",
+      "posted_relative": "for 1 t siden",
+      "text": "Kommer det børsmelding om to timer…? 🧐",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        4
+      ],
       "links": [],
-      "char_count": 9,
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "b98eca5d0601533a",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
+      "posted_relative": "for 1 t siden",
+      "text": "· Udyret i Hamburg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 18,
       "has_link": false
     }
   ]

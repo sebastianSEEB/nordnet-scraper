@@ -1,22 +1,25 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-13T14:36:22.331913+00:00",
+  "scraped_at": "2026-10-13T19:40:29.873614+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "7c37a0ef2bff0308",
-      "author": "Capt Willy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capt-willy",
-      "posted_relative": "for 1 t siden",
-      "text": "er det gitt en x dag ?  eller ennå ikke satt ?",
-      "reply_count": 2,
+      "key": "b75b4ae4c392db24",
+      "author": "LordRupertEverton",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lordruperteverton",
+      "posted_relative": null,
+      "text": "9. okt. · Hvorfor er den kommende x-dagen ikke opprettet her?",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        10
+      ],
       "links": [],
-      "char_count": 46,
+      "char_count": 61,
       "has_link": false
     }
   ]

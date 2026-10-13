@@ -1,52 +1,67 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-13T14:33:38.891772+00:00",
+  "scraped_at": "2026-10-13T19:37:40.925898+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "350fc697ca5f39d6",
+      "key": "764a7a3894dae4a9",
+      "author": "TJ INVEST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj-invest",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/10/13/8387413/opec-spar-oljerekord-i-2027",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/13/8387413/opec-spar-oljerekord-i-2027"
+      ],
+      "char_count": 81,
+      "has_link": true
+    },
+    {
+      "key": "8750a9f0913e320e",
+      "author": "Revolutionen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revolutionen",
+      "posted_relative": "for 3 t siden",
+      "text": "· MR – Atlanteren • TC14 USA–Europa: 32 600 USD/dag (−37 %) • TC21 USA–Karibia: 29 900 USD/dag (−48 %) • Atlantic Basket: 46 300 USD/dag (−28 %) LR2 – Midtøsten • TC1 Midtøsten–Japan: 267 600 USD/dag (−0,7 %) • TC20 Midtøsten–Europa: 281 800 USD/dag (+3,8 %) LR2-ratene ligger på ekstraordinært høye nivåer, mens MR-markedet i Atlanteren har svekket seg kraftig. Hafnias brede flåte gir eksponering mot begge segmenter. Det sterke LR2-markedet er positivt, men en oppgang i MR vil gi bredere støtte til inntjeningen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 516,
+      "has_link": false
+    },
+    {
+      "key": "a146c867db767f5f",
+      "author": "nokar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
+      "posted_relative": "for 32 min siden",
+      "text": "går nok ikke så dårlig i noen år fremover dette",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "1f210e369b73501d",
       "author": "harald44",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harald44",
-      "posted_relative": "for 1 t siden",
-      "text": "· Du har en kommafeil, 500 000 er ikke det samme som 500 000 tonn. 500 000 tonn er 500 000 000 ltr",
+      "posted_relative": "for 3 t siden",
+      "text": "Kommentaren er slettet.",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 98,
-      "has_link": false
-    },
-    {
-      "key": "325cba5c6dc6b4b8",
-      "author": "NRH1970",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nrh1970",
-      "posted_relative": "for 59 min siden",
-      "text": "· Så går det oppover resten av dagen",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 36,
-      "has_link": false
-    },
-    {
-      "key": "c6c91e08a1abac18",
-      "author": "Raul38",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raul38",
-      "posted_relative": "for 1 t siden",
-      "text": "Innlegget er slettet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 21,
+      "char_count": 23,
       "has_link": false
     }
   ]

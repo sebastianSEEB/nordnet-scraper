@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-13T14:33:50.290094+00:00",
+  "scraped_at": "2026-10-13T19:37:53.814418+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "350e1d7c1662ddd1",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 1 t siden",
+      "text": "Kommentaren er slettet.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

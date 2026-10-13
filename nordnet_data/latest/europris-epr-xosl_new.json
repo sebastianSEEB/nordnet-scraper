@@ -1,9 +1,25 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-13T14:36:26.049505+00:00",
+  "scraped_at": "2026-10-13T19:40:33.721159+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f142417370d4320d",
+      "author": "pennyinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennyinvest",
+      "posted_relative": "for 4 t siden",
+      "text": "Virker som det snur litt her nå🙂 var akkurat innom min lokale europris, det er mange gode tilbud å jeg liker konseptet deres🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

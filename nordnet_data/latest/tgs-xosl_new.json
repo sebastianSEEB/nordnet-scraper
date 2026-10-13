@@ -1,9 +1,25 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-13T14:37:23.057644+00:00",
+  "scraped_at": "2026-10-13T19:41:31.845695+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ce979a5373f40cf5",
+      "author": "Lind2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lind2",
+      "posted_relative": null,
+      "text": "9. okt. · 200 her kommer vi ..... før jul .... analytikere leker med denne aksjen. Jeg er i den høye enden ... og har aksjer i TGS",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    }
+  ]
 }
