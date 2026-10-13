@@ -1,37 +1,52 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-13T12:18:11.452787+00:00",
+  "scraped_at": "2026-10-13T14:33:38.891772+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "e7eae4a9ad7e127d",
-      "author": "Raul38",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raul38",
-      "posted_relative": "for 8 min siden · Endret",
-      "text": "500000 tonn Diesel er en dråpe i havet.  Og husk densiteten er ca 0,84-0.85, 1000 L er ca 850kg. Bare runde tall enkelt å forstå: 5000 biler x 100L pr bil:  5000 X 100 L= 500000 Tonn eller 10000 X 50 L = 500000 Tonn",
-      "reply_count": null,
+      "key": "350fc697ca5f39d6",
+      "author": "harald44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harald44",
+      "posted_relative": "for 1 t siden",
+      "text": "· Du har en kommafeil, 500 000 er ikke det samme som 500 000 tonn. 500 000 tonn er 500 000 000 ltr",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 215,
+      "char_count": 98,
       "has_link": false
     },
     {
-      "key": "19add47c2e933781",
-      "author": "Moment",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
-      "posted_relative": "for 3 t siden",
-      "text": "Se også Torm estimater for år 2026 rekord resultat !!! (Stor eierandel- utbytte !!)",
+      "key": "325cba5c6dc6b4b8",
+      "author": "NRH1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nrh1970",
+      "posted_relative": "for 59 min siden",
+      "text": "· Så går det oppover resten av dagen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 83,
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "c6c91e08a1abac18",
+      "author": "Raul38",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raul38",
+      "posted_relative": "for 1 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 21,
       "has_link": false
     }
   ]

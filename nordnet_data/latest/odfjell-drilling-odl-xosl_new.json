@@ -1,9 +1,43 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-10-13T12:20:23.284074+00:00",
+  "scraped_at": "2026-10-13T14:35:47.791425+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fc007fad146ddf5e",
+      "author": "Streetglide2016",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/streetglide2016",
+      "posted_relative": "for 16 min siden",
+      "text": "https://www.finansavisen.no/energi/2026/10/13/8387428/analytiker-om-riggmarkedet-har-tatt-seg-kraftig-opp-i-ar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/13/8387428/analytiker-om-riggmarkedet-har-tatt-seg-kraftig-opp-i-ar"
+      ],
+      "char_count": 110,
+      "has_link": true
+    },
+    {
+      "key": "c671ddb31db49a0a",
+      "author": "baleros",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baleros",
+      "posted_relative": null,
+      "text": "9. okt. Nå er vi på vei - rent teknisk - mot 106,4. Etter det så spørs det hvor vi lander når resultatet for q3 blir lagt frem 03.10.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    }
+  ]
 }

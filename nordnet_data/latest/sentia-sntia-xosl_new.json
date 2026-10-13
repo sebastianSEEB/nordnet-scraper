@@ -1,9 +1,23 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-10-13T12:23:57.767446+00:00",
+  "scraped_at": "2026-10-13T14:39:19.886500+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1a672e70a51ef764",
+      "author": "Shaqz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shaqz",
+      "posted_relative": null,
+      "text": "9. okt. Lagt inn i kursen allerede?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

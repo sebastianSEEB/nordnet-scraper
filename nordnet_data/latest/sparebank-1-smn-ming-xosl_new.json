@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-10-13T12:21:13.182576+00:00",
+  "scraped_at": "2026-10-13T14:36:37.234014+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "529ae1ab65ef2ce6",
+      "author": "OldNick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oldnick",
+      "posted_relative": "for 1 t siden",
+      "text": "ABG Sundal Collier har blitt mer konstruktiv til finans sektoren og har oppgradert både SpareBank 1 SMN og SpareBank 1 Nord-Norge til kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    }
+  ]
 }

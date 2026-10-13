@@ -1,9 +1,40 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-13T12:20:30.853856+00:00",
+  "scraped_at": "2026-10-13T14:35:55.386854+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "641825fa3d608107",
+      "author": "VanTwin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vantwin",
+      "posted_relative": null,
+      "text": "9. okt. Enda en kontrakt til AKSO! Kanskje ikke en avtale som flytter kursen alene, men det er summen av slike oppdrag som bygger styrke over tid. Ingen store endringer i det fundamentale siden sist kvartalsrapport – bare enda et positivt bidrag til ordreboken og satsingen på flere energimarkeder. For oss langsiktige aksjonærer er det slike signaler som gir grunn til fortsatt tro på caset.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 392,
+      "has_link": false
+    },
+    {
+      "key": "b0cd38feba4a77ce",
+      "author": "yousif 1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yousif-1",
+      "posted_relative": null,
+      "text": "9. okt. · Hva er det forventede utbyttet for april?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }
