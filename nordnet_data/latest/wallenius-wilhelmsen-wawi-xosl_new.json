@@ -1,25 +1,25 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-10-12T23:21:03.077505+00:00",
+  "scraped_at": "2026-10-13T04:25:43.885172+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "ee43cf84d6fa067a",
-      "author": "kdb1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kdb1",
-      "posted_relative": null,
-      "text": "8. okt. Takk for tips!",
+      "key": "835284878b4f4dc4",
+      "author": "Calvat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/calvat",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://open.spotify.com/podcast-chapter/0eVigvHOrzOhhAmslbdpZi?si=JpvngTl-SgmKYwx3MnBOqQ&utm_source=copy-link",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
+      "engagement_numbers": [],
+      "links": [
+        "https://open.spotify.com/podcast-chapter/0eVigvHOrzOhhAmslbdpZi?si=JpvngTl-SgmKYwx3MnBOqQ&utm_source=copy-link"
       ],
-      "links": [],
-      "char_count": 22,
-      "has_link": false
+      "char_count": 112,
+      "has_link": true
     }
   ]
 }

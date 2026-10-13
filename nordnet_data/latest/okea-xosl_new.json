@@ -1,9 +1,41 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-12T23:24:24.641465+00:00",
+  "scraped_at": "2026-10-13T04:29:06.681725+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b5028ba0d47c9d4d",
+      "author": "Caramba83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/caramba83",
+      "posted_relative": "for 43 min siden",
+      "text": "Framdeles mye å gå på denne. Innen få måneder skal produksjonen øke betraktelig mens capex synker, oljeprisen fortsetter å stige. Det har vært lenge å vente, men akkurat nå er det mye å glede seg til :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 203,
+      "has_link": false
+    },
+    {
+      "key": "f5f4eaca9bf9e483",
+      "author": "Nilsbyen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nilsbyen",
+      "posted_relative": "for 12 t siden",
+      "text": "Vi klokket vel inn til en ATH i dag? 👏👏👏😎 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

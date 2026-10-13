@@ -1,24 +1,52 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-12T23:21:53.578621+00:00",
+  "scraped_at": "2026-10-13T04:26:34.601771+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "494597167c12bc58",
-      "author": "CapitalLogic",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capitallogic",
-      "posted_relative": "for 5 t siden",
-      "text": "Jeg har kjørt en DCF på Vend: Kurs: 204.4 kr DCF (WACC 8,5 %, g 2,5 %): Bear: 182 kr Base: 279 kr Bull: 439 kr Q2: EBITDA +16 %, margin 40 %. Kostnadskutt og tilbakekjøp pågår. Adevinta-andelen er verdt ~36 kr per aksje. Risiko: Mobility og at marginløftet uteblir.",
+      "key": "297b595d95bb935b",
+      "author": "Calvat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/calvat",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://open.spotify.com/podcast-chapter/3HhZf92CdZOLvifdvkPi5c?si=Mw7ElLVVQyC6iy_3S0lnfw&utm_source=copy-link",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://open.spotify.com/podcast-chapter/3HhZf92CdZOLvifdvkPi5c?si=Mw7ElLVVQyC6iy_3S0lnfw&utm_source=copy-link"
+      ],
+      "char_count": 112,
+      "has_link": true
+    },
+    {
+      "key": "d79a44e5c7e50ff8",
+      "author": "Rockeseller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rockeseller",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Dette er interessant…….IT-selskapet Salesforce steg 2 prosent i kveld etter at Bank of America oppgraderte aksjen til en kjøpsanbefaling, og hevet kursmålet fra 160 til 285 dollar. Banken tror ikke lenger at AI utgjør en stor trussel, men at det kan øke kundenes avhengighet til plattformen, skriver Barron’s.   Denne erkjennelsen kan også overføres til selskaper som Vend som har en sterk API struktur og markedsdominerende plattform. For slike selskaper er AI en stor mulighet. Flere og flere begynner nå å ta dette inn over seg.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9
+        1
       ],
       "links": [],
-      "char_count": 265,
+      "char_count": 531,
+      "has_link": false
+    },
+    {
+      "key": "0e532c5becea72d7",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": "for 2 t siden",
+      "text": "Igjen har AI narrativet begynt å slå sprekker flere steder. 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
       "has_link": false
     }
   ]
