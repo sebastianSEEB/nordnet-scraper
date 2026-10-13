@@ -1,9 +1,25 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-13T19:39:23.598342+00:00",
+  "scraped_at": "2026-10-13T23:31:33.983771+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "211c95a06156eecf",
+      "author": "mestned",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mestned",
+      "posted_relative": "for 3 t siden",
+      "text": "· https://www.reuters.com/business/energy/saudi-led-coalition-orders-evacuation-yemen-oil-facility-sanaa-ahead-operation-2026-10-13/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.reuters.com/business/energy/saudi-led-coalition-orders-evacuation-yemen-oil-facility-sanaa-ahead-operation-2026-10-13/"
+      ],
+      "char_count": 132,
+      "has_link": true
+    }
+  ]
 }
