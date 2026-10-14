@@ -1,41 +1,9 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-14T08:11:14.889716+00:00",
+  "scraped_at": "2026-10-14T12:23:41.693647+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "1b82b90c3a2fdd0d",
-      "author": "Giskaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
-      "posted_relative": "for 10 t siden",
-      "text": "D - Matrix kommer med informasjon ganske tett. Nok en interessant nyhet: https://www.d-matrix.ai/accelerating-ai-inference-with-attention-ffn-disaggregation/ Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        8,
-        3
-      ],
-      "links": [
-        "https://www.d-matrix.ai/accelerating-ai-inference-with-attention-ffn-disaggregation/"
-      ],
-      "char_count": 177,
-      "has_link": true
-    },
-    {
-      "key": "3e814a0812e8d27b",
-      "author": "havhol",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/havhol",
-      "posted_relative": "for 18 min siden",
-      "text": "Se på tegningen/animasjonen under \"Implementing Corsair and JetStream to massively accelerate AI inference\" ;)",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 110,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

@@ -1,9 +1,25 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-14T08:15:56.898836+00:00",
+  "scraped_at": "2026-10-14T12:28:22.754532+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0d73399dcdc33275",
+      "author": "Rådyrbukken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/radyrbukken",
+      "posted_relative": "for 1 t siden",
+      "text": "- 35 % . Tør ikke å selge nå 😳😳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

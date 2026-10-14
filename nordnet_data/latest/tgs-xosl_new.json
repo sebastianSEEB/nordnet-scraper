@@ -1,9 +1,41 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-14T08:12:24.594795+00:00",
+  "scraped_at": "2026-10-14T12:24:50.781735+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d5b5312ff5ac3553",
+      "author": "vikpat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikpat",
+      "posted_relative": null,
+      "text": "8. okt. · Handelsvolumet på denne oppdateringen sier mye. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "742d2bda8eb796aa",
+      "author": "vikpat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikpat",
+      "posted_relative": "for 3 t siden",
+      "text": "· Vel vel short.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

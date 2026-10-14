@@ -1,24 +1,35 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-14T08:15:02.868627+00:00",
+  "scraped_at": "2026-10-14T12:27:28.276292+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 11,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b8458e00c140429b",
-      "author": "alex70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
-      "posted_relative": "for 33 min siden",
-      "text": "Det er store kjøps ordrer på kjøper siden. Mens, selger siden er tynt. Utviklingen ser bra ut.",
+      "key": "cfa50ee260a3769e",
+      "author": "beckenbauer7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beckenbauer7",
+      "posted_relative": "for 22 min siden",
+      "text": "Hvis fredriksen er en luring, hvorfor har han da valgt å investere i axactor i utgangspunktet. Han har jo tapt hundrevis av millioner på dette, og måtte stille opp i krise emisjon",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 94,
+      "char_count": 179,
+      "has_link": false
+    },
+    {
+      "key": "d71bbc1dd0f409cf",
+      "author": "Ergate",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ergate",
+      "posted_relative": "for 1 t siden",
+      "text": "Se kjøpsordre på 986 251 aksjer nå kl 13:05",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
       "has_link": false
     }
   ]

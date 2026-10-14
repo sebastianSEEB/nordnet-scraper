@@ -1,22 +1,40 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-14T08:08:31.344603+00:00",
+  "scraped_at": "2026-10-14T12:20:56.404701+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "d66373c5582d4dbb",
+      "key": "b69d95e2a4b313c9",
       "author": "Not close to FIRE",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/not-close-to-fire",
-      "posted_relative": "for 5 min siden",
-      "text": "· Det gjelder om å ta vare på et bilde når man har fått oppleve en slik stor oppgang. Og likevel kjøpte jeg på meg litt ekstra på 250kr....",
+      "posted_relative": "for 4 t siden",
+      "text": "· Det gjelder om å ta vare på et bilde når man har fått oppleve en slik stor oppgang. Og likevel kjøpte jeg på meg litt ekstra på 250kr.... Vis 1 kommentar til",
       "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        4
+      ],
       "links": [],
-      "char_count": 139,
+      "char_count": 159,
+      "has_link": false
+    },
+    {
+      "key": "75b0043300584588",
+      "author": "TRGO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trgo",
+      "posted_relative": "for 2 t siden",
+      "text": "Tror det kommer av at du har mottatt mer utbytter(tilbakebetaling) enn du har betalt for aksjene, da blir det slike rare miustall.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 130,
       "has_link": false
     }
   ]
