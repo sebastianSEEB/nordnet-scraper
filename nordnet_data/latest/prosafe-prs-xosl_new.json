@@ -1,9 +1,23 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-14T14:17:05.195080+00:00",
+  "scraped_at": "2026-10-14T19:09:39.706764+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9e97a9016d8a64d6",
+      "author": "tybring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tybring",
+      "posted_relative": "for 1 t siden",
+      "text": "Blir bare et hopp på 4 kroner per kontrakt i følge ekspertene her inne 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }

@@ -1,63 +1,80 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-14T14:09:41.016994+00:00",
+  "scraped_at": "2026-10-14T19:01:58.346605+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "a3e26f63ae0ebfcb",
+      "key": "ef5eaaed4f0f61e3",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 6 min siden",
+      "text": "Ratene viser ikke noe demand destruction. Snarere har skipene til Okeanis aldri hatt høyere demand.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "e9cb4f13879e7c11",
+      "author": "Leffe junior",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leffe-junior",
+      "posted_relative": "for 3 t siden",
+      "text": "· Ingen panik i mitt syn - de trykker fortsatt penger i mengder som fluer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "fcf7bd9d88e2cce7",
+      "author": "Mjtab",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mjtab",
+      "posted_relative": "for 3 t siden",
+      "text": "· Jaha, 90% av USAs aksjer er røde? Why?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "01594ba132d3e8b6",
       "author": "Mr Brolin",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
-      "posted_relative": "for 55 min siden",
-      "text": "· Rødt er det nye grønt. Det plutselig vil jeg ha kjempe mye rødt",
-      "reply_count": null,
+      "posted_relative": "for 2 t siden",
+      "text": "· US CPI i dag slik jeg oppfatter det.",
+      "reply_count": 2,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 65,
+      "char_count": 38,
       "has_link": false
     },
     {
-      "key": "028d5b86f9f8152b",
+      "key": "84686eba4ce75e91",
       "author": "HeikenHei",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heikenhei",
-      "posted_relative": "for 8 min siden",
-      "text": "Inflasjonstall usa. Nå skal FED kjøre dette i grøfta med renter",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 63,
-      "has_link": false
-    },
-    {
-      "key": "18fdf0ae023a0814",
-      "author": "langvandre",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langvandre",
-      "posted_relative": "for 18 min siden",
-      "text": "· Kjøp dippen ?",
+      "posted_relative": "for 4 t siden",
+      "text": "· Etterspørselsødeleggelse. Hilsen FED",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         4
       ],
       "links": [],
-      "char_count": 15,
-      "has_link": false
-    },
-    {
-      "key": "a559e79250594297",
-      "author": "Johnnyfive",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johnnyfive",
-      "posted_relative": "for 7 min siden",
-      "text": "· Fyll på 😀",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 11,
+      "char_count": 38,
       "has_link": false
     }
   ]

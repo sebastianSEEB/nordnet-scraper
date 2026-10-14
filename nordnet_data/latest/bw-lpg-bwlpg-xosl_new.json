@@ -1,22 +1,54 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-10-14T14:09:52.577765+00:00",
+  "scraped_at": "2026-10-14T19:02:11.541604+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "a0e9b2bd1620f8e0",
+      "key": "6ae8b92d2831dfe8",
+      "author": "Spitsbergen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spitsbergen",
+      "posted_relative": null,
+      "text": "10. okt. Når skal man « kaste kortene» ? Slik det ser ut i dag vil det ikke forsette. Det er nå 31% av flåten i ny bestillinger , Pris for et nytt LPG fartøy er USD 115 mill, rater som forsvarer dette er approx. USD 40 k  For egen del velger jeg å holde på denne aksjen til Q3 , men kan jo aldri være feil å ta litt penger bordet, har vært inne og ute de siste 10 årene , og husker en topp på kr. 80 som endte i kr. 26 ganske raskt 😀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        7
+      ],
+      "links": [],
+      "char_count": 433,
+      "has_link": false
+    },
+    {
+      "key": "906760cc8b871d2f",
       "author": "ALLVIS",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
-      "posted_relative": "for 11 min siden",
-      "text": "Voldsomt fall, men ingen nyheter?",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Voldsomt fall, men ingen nyheter? Skulle ikke være noen grunn for det. Nå begynner det nerme seg nivået kursen lå på,da Pareto satte kursmål 262.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "b58e3a9f1ae44624",
+      "author": "HansNorval",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hansnorval",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Dårlige tall fra USA i dag. Inflasjon og sånt...  Samt Iran stanser all trafikk gjennom Hormuzstredet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 33,
+      "char_count": 101,
       "has_link": false
     }
   ]

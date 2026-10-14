@@ -1,9 +1,41 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-10-14T14:13:05.743963+00:00",
+  "scraped_at": "2026-10-14T19:05:31.161923+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8dabc044ef9510c9",
+      "author": "vinterlandskap",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vinterlandskap",
+      "posted_relative": "for 4 t siden",
+      "text": "Var adferdsendring på ordrene idag i forhold til hva jeg har sett på lenge i hvert fall. Vi får se. Mulig bunnindikator?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "3ced70f3f096f52c",
+      "author": "offshore_wind",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/offshore_wind",
+      "posted_relative": "for 4 t siden",
+      "text": "Ser da ut som det er litt shortdekning i denne idag. Kanskje noen begynner å svette litt pga. den artikkelen i FA.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    }
+  ]
 }

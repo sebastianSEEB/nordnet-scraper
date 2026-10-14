@@ -1,9 +1,25 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-14T14:13:09.434207+00:00",
+  "scraped_at": "2026-10-14T19:05:35.326358+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "93c06d83f0d35002",
+      "author": "gstandre1997",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gstandre1997",
+      "posted_relative": "for 1 t siden",
+      "text": "Kilder: google, pexip.com, LinkedIn, chatgpt osv",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

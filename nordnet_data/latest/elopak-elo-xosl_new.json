@@ -1,9 +1,25 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-14T14:12:58.146052+00:00",
+  "scraped_at": "2026-10-14T19:05:23.252503+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e709f0b056e3c78a",
+      "author": "bjasom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjasom",
+      "posted_relative": "for 4 t siden",
+      "text": "tar et lodd jeg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

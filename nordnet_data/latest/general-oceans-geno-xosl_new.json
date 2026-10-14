@@ -1,9 +1,23 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-14T14:16:15.361349+00:00",
+  "scraped_at": "2026-10-14T19:08:48.514977+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8e5fa0300c35fcee",
+      "author": "Oxion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
+      "posted_relative": "for 2 t siden",
+      "text": "Kongsberg kjøper utstyr fra Nortek (general oceans)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

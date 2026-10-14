@@ -1,9 +1,38 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-14T14:14:47.712992+00:00",
+  "scraped_at": "2026-10-14T19:07:18.308664+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "29a9465a47a6a303",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 4 t siden",
+      "text": "Vi må bli kvitt Microsoft, Google, Facebook. EU skal være selvstendig og ikke styrt av USA",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "bcbc4db7c1b0a95b",
+      "author": "EspAsk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espask",
+      "posted_relative": "for 4 t siden",
+      "text": "Vi snakker jo milliarder ut av konto. Klart det påvirker kurs.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }
