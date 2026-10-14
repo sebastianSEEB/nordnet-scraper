@@ -1,9 +1,56 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-14T02:36:39.566420+00:00",
+  "scraped_at": "2026-10-14T08:09:49.678699+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "0e9bf741a8333c1f",
+      "author": "Even Tjosaas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/even-tjosaas",
+      "posted_relative": "for 56 min siden",
+      "text": "i tillegg til Vår-aksjene og 76 i kontant så sier de følgende: \"Should the transaction complete after the record date for the third quarter dividend, the cash consideration payable to BlueNord shareholders will be adjusted to compensate for the value of the third quarter distribution and any potential further distribution prior to closing. \" https://varenergi.no/no/nyheter-og-media/borsmeldinger/?release=DF4E57ADD9866580",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://varenergi.no/no/nyheter-og-media/borsmeldinger/?release=DF4E57ADD9866580"
+      ],
+      "char_count": 424,
+      "has_link": true
+    },
+    {
+      "key": "c19ec92910a0a09c",
+      "author": "Haakon81",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/haakon81",
+      "posted_relative": "for 14 min siden",
+      "text": "Men er det noen god grunn til at denne skal videre opp?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "6583eafd42052796",
+      "author": "Gammel rotte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gammel-rotte",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· tror den krysser 600 i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        5
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

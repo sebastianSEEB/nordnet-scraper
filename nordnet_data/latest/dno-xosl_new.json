@@ -1,9 +1,81 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-14T02:39:02.368614+00:00",
+  "scraped_at": "2026-10-14T08:12:09.257715+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "1cd3c77c3cf73abb",
+      "author": "fosa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fosa",
+      "posted_relative": "for 6 min siden",
+      "text": "Dno med begrenset info i finansavisen, de greier nå å berøre aksjen med ildtang. Det må vel være slik siden den er veldig het for tiden og bugner over av penger og olje/gass. 😇",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 176,
+      "has_link": false
+    },
+    {
+      "key": "a974a81826de6a0d",
+      "author": "Vikingen88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikingen88",
+      "posted_relative": "for 51 min siden",
+      "text": "Jeg har diskutert litt med Gemini i dag og kom til slutt frem til disse tallene for Q3 2026. 2,25 NOK EPS for ett enkelt kvartal. Kvartalsrapporten blir spennende.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 163,
+      "has_link": false
+    },
+    {
+      "key": "e76a718a887504ab",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 41 min siden",
+      "text": "Kan vi også få noen høyere kursmål i løpet av dagen morgen dagen  etter update tro. Husa ligger vel samlet rundt 22-25 så vidt jeg vet .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    },
+    {
+      "key": "a35a74df0543f2e0",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 24 min siden",
+      "text": "· Bedre sent enn aldri",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "70cd1ef8aae1b2de",
+      "author": "JujuX",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jujux",
+      "posted_relative": "for 10 min siden",
+      "text": "· Massivt!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }

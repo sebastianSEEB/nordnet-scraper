@@ -1,9 +1,41 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-14T02:41:02.949289+00:00",
+  "scraped_at": "2026-10-14T08:14:05.182189+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "263a16ff7dd03426",
+      "author": "Kjartan_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjartan-1",
+      "posted_relative": "for 1 t siden",
+      "text": "Forsiktig optimist, så lenge vi greier å holde guidingen ser ting lyst ut fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "da546fb679593b64",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva kan vi forvente av Q3 rapport?🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

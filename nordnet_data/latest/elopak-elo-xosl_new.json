@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-14T02:38:42.476365+00:00",
+  "scraped_at": "2026-10-14T08:11:49.999527+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a13b116137fa6009",
+      "author": "Spinners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spinners",
+      "posted_relative": null,
+      "text": "10. okt. Tenker at denne kan bruke litt tid før signaler kommer om kurser nær 47 igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    }
+  ]
 }

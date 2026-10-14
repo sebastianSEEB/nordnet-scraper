@@ -1,9 +1,38 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-14T02:35:44.165083+00:00",
+  "scraped_at": "2026-10-14T08:08:55.798007+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "027ca68210a71127",
+      "author": "vikasal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikasal",
+      "posted_relative": "for 19 t siden",
+      "text": "Jeg spør sikkert dumt. Men dumme spørsmål får man sikkert dumme svar. Men vennligst svar ordentlig.. er denne aksje operariv? Holdes det på å omorganiseres for å starte på\"nytt\" eller hva? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 208,
+      "has_link": false
+    },
+    {
+      "key": "b2e25c3cb3e9ee65",
+      "author": "triggly",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/triggly",
+      "posted_relative": "for 14 min siden",
+      "text": "Ja, det er en omorganisering. Akkurat nå finnes det 1,2 milliarder nye aksjer som snart skal på børs, de handles nå som unoterte aksjer på kurs 3,40 kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    }
+  ]
 }

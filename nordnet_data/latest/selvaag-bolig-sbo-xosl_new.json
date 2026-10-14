@@ -1,9 +1,23 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-10-14T02:42:22.036180+00:00",
+  "scraped_at": "2026-10-14T08:15:22.094187+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a25d421ac26b9ed5",
+      "author": "Langodds",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langodds",
+      "posted_relative": "for 57 min siden",
+      "text": "Blir vel mellom 200-250 overleveringer i q4 27?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

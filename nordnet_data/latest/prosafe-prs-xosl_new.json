@@ -1,9 +1,41 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-14T02:43:01.534813+00:00",
+  "scraped_at": "2026-10-14T08:16:00.725961+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b88f0947df610340",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 51 min siden",
+      "text": "Satser på at ukene nede på 4-tallet er et lukket kapittel 📈👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "9f4019df1d6ee78d",
+      "author": "Viddami",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viddami",
+      "posted_relative": "for 40 min siden",
+      "text": "Med en forventet kontrakt nå så et også 5 tallet lukket",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-14T02:40:07.334437+00:00",
+  "scraped_at": "2026-10-14T08:13:11.019006+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "afce9007b5dbee4e",
+      "author": "Brainhart",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brainhart",
+      "posted_relative": "for 5 min siden",
+      "text": "CNC kan muligens disrupte aluminiummarkedet. Jeg er usikker på hvor Borregaard gjør innen dette området. Noen som vet? Se også https://www.facebook.com/share/v/1C1jfsDobA/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.facebook.com/share/v/1C1jfsDobA/"
+      ],
+      "char_count": 171,
+      "has_link": true
+    },
+    {
+      "key": "8513425b04cd18e1",
+      "author": "Paraske",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paraske",
+      "posted_relative": null,
+      "text": "10. okt. Jepp, et fall på 40% siden august må være verdt et smil for oss som skal inn snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

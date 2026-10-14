@@ -1,9 +1,51 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-14T02:40:19.358666+00:00",
+  "scraped_at": "2026-10-14T08:13:22.593932+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "7571b97547cd75a8",
+      "author": "Gordon Gekko5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
+      "posted_relative": "for 13 min siden",
+      "text": "Hadde vært gøy med litt medvind i denne - se Michael E. stolt på kvartalspresentasjonen og at selskapet lykkes",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "8c55a66d7932b611",
+      "author": "mr.parker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrparker-1",
+      "posted_relative": "for 42 min siden",
+      "text": "· Absolutt fristende å kjøpe på disse nivåene. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "fee6869bbaad0a83",
+      "author": "TapperExtra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tapperextra",
+      "posted_relative": "for 36 min siden",
+      "text": "Hvorfor Nykode faller over 10 % på en uke uten nyheter???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-10-14T02:35:56.384112+00:00",
+  "scraped_at": "2026-10-14T08:09:07.432147+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "33844309abe4b325",
+      "author": "LSAS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lsas",
+      "posted_relative": "for 19 min siden",
+      "text": "Et blaff eller vil vi stige noe nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "f3efe7f62e072ec3",
+      "author": "Woice",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/woice",
+      "posted_relative": "for 24 min siden",
+      "text": "· Gav mener du vel 🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    },
+    {
+      "key": "3722e499e357adfb",
+      "author": "VebjørnS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vebjrns",
+      "posted_relative": "for 59 min siden",
+      "text": "· 30 🤘🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        3
+      ],
+      "links": [],
+      "char_count": 7,
+      "has_link": false
+    }
+  ]
 }

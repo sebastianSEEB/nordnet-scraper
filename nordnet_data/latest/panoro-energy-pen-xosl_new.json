@@ -1,9 +1,25 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-14T02:37:07.061569+00:00",
+  "scraped_at": "2026-10-14T08:10:16.453799+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "91acba21759b4e13",
+      "author": "blacktime",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blacktime",
+      "posted_relative": "for 50 min siden",
+      "text": "Hva skjer her? Er det økning på rene krigsnyheter?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

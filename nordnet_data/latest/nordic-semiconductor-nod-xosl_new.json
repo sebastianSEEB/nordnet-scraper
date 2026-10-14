@@ -1,9 +1,39 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-14T02:36:43.635846+00:00",
+  "scraped_at": "2026-10-14T08:09:53.500599+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c9b6ddd570130a15",
+      "author": "Maegs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maegs",
+      "posted_relative": "for 1 t siden",
+      "text": "Full uke med gode nyheter og kursen er 7% ned make it make sense",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "80deaaa367a4998d",
+      "author": "Belf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/belf",
+      "posted_relative": "for 9 min siden",
+      "text": "Nå stiger den",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

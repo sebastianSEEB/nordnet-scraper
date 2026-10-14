@@ -1,9 +1,27 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-14T02:38:46.333236+00:00",
+  "scraped_at": "2026-10-14T08:11:53.807892+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "82f3f224035eeffd",
+      "author": "Gallopp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gallopp",
+      "posted_relative": "for 1 t siden",
+      "text": "Fearnley Securities oppjusterer kursmålet på Moreld til 30 kroner fra 27 kroner og gjentar en kjøpsanbefaling på aksjen. https://www.finansavisen.no/tdn/2026/10/14/06603634/moreld-fearnley-hever-kursmal-til-30-27-gjentar-kjop",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/10/14/06603634/moreld-fearnley-hever-kursmal-til-30-27-gjentar-kjop"
+      ],
+      "char_count": 225,
+      "has_link": true
+    }
+  ]
 }

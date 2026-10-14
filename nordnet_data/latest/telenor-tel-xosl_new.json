@@ -1,9 +1,55 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-14T02:40:39.294833+00:00",
+  "scraped_at": "2026-10-14T08:13:42.092074+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e16a86c786fcdd18",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 2 t siden",
+      "text": "Tenker jeg bare lar det gå sin gang og ikke tenker så mye hvilken vei det går. Det kommer utbytter og ex dato er i morgen. Med  snitt på 135 kr gidder jeg ikke å selge uansett.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 176,
+      "has_link": false
+    },
+    {
+      "key": "0f27f98b35dad222",
+      "author": "rocketman84",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rocketman84",
+      "posted_relative": "for 3 t siden",
+      "text": "Staten har for mye investert i Telenor til å la det gå dunken. Vurderer å fylle på litt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "e2f6bfbf9ce35441",
+      "author": "Ceandem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ceandem",
+      "posted_relative": "for 2 t siden",
+      "text": "· Denne aksjen har endelig dannet en bunn rundt 125.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

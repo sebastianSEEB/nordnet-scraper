@@ -1,9 +1,39 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-14T02:37:19.045965+00:00",
+  "scraped_at": "2026-10-14T08:10:27.962068+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "122874cb2ab659c9",
+      "author": "Shesai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shesai",
+      "posted_relative": "for 3 t siden",
+      "text": "Litt mindre poster kjøpt av Hermanrud og Skorstad",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "8fdaeb4d6ff658e2",
+      "author": "Thebrokebroker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thebrokebroker",
+      "posted_relative": "for 2 t siden",
+      "text": "· 420 i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }
