@@ -1,25 +1,9 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-13T23:32:31.738555+00:00",
+  "scraped_at": "2026-10-14T02:38:07.180814+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 1,
-  "posts": [
-    {
-      "key": "83ddc961ff6da29c",
-      "author": "Giskaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
-      "posted_relative": "for 2 t siden",
-      "text": "D - Matrix kommer med informasjon ganske tett. Nok en interessant nyhet: https://www.d-matrix.ai/accelerating-ai-inference-with-attention-ffn-disaggregation/",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.d-matrix.ai/accelerating-ai-inference-with-attention-ffn-disaggregation/"
-      ],
-      "char_count": 157,
-      "has_link": true
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
