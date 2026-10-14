@@ -1,52 +1,67 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-10-14T12:21:33.607680+00:00",
+  "scraped_at": "2026-10-14T14:10:16.691297+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "f38e9f159f3b0120",
+      "key": "de5c49f37c259e36",
       "author": "HugoBoss",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hugoboss",
-      "posted_relative": "for 33 min siden",
-      "text": "Vurderer å selge meg helt ut. Synes dette har blitt mindre interessant, nå som utbytte har blitt så lavt. Vil se meg om etter andre selskapet som betaler ut bedre utbytter.",
+      "posted_relative": "for 2 t siden",
+      "text": "Vurderer å selge meg helt ut. Synes dette har blitt mindre interessant, nå som utbytte har blitt så lavt. Vil se meg om etter andre selskapet som betaler ut bedre utbytter. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 192,
+      "has_link": false
+    },
+    {
+      "key": "14fa17e6973d749d",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Er ikke bra nok med over 50% i år nei? Og ett tightere containermarked enn på all den tid.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "13f5fc42d061fde8",
+      "author": "Steffen NoJo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffen-nojo",
+      "posted_relative": "for 2 min siden",
+      "text": "Hva skjer nå???",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 172,
+      "char_count": 15,
       "has_link": false
     },
     {
-      "key": "f47f52cff0402739",
-      "author": "secretmonocle",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/secretmonocle",
-      "posted_relative": "for 34 min siden",
-      "text": "Bare å holde! Går godt om dagen - MPC er en 30kr++ aksje nå, bare å vende seg til!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 82,
-      "has_link": false
-    },
-    {
-      "key": "1e59f0d5abc3ddaf",
-      "author": "Lottomannen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lottomannen",
-      "posted_relative": "for 4 min siden",
-      "text": "· WAWI?",
+      "key": "59e7098416d713e9",
+      "author": "Motorisert",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/motorisert",
+      "posted_relative": "for 3 min siden",
+      "text": "· Javel...",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 7,
+      "char_count": 10,
       "has_link": false
     }
   ]

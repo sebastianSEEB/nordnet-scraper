@@ -1,9 +1,23 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-14T12:26:38.527059+00:00",
+  "scraped_at": "2026-10-14T14:15:17.766222+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f9fa0ee891f98e81",
+      "author": "Atlantis 42",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atlantis-42",
+      "posted_relative": "for 13 min siden",
+      "text": "🤞 For videre oppgang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }
