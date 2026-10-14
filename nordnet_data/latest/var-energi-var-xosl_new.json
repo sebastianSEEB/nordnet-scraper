@@ -1,37 +1,55 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-14T19:07:30.125245+00:00",
+  "scraped_at": "2026-10-14T22:54:14.519476+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "e0a9def32d75d784",
-      "author": "Mr-Mister",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-mister",
+      "key": "85eb234c16813901",
+      "author": "Xlan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xlan",
       "posted_relative": "for 1 t siden",
-      "text": "· Er vi heldige faller den 50% igjen slik at man kan fylle på litt billigere 😀",
+      "text": "https://www.finansavisen.no/finans/2026/10/14/8387832/milliardtap-for-var-energi-i-hoyesterett",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 78,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/14/8387832/milliardtap-for-var-energi-i-hoyesterett"
+      ],
+      "char_count": 94,
+      "has_link": true
     },
     {
-      "key": "85ea916729426d6a",
-      "author": "SANBAN",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sanban",
-      "posted_relative": "for 7 t siden",
-      "text": "men snart kan gå ned ?  Ojle aksje er farlig. Vis 1 kommentar til",
+      "key": "e7d781e02fc242de",
+      "author": "EmilVS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emilvs",
+      "posted_relative": "for 1 t siden",
+      "text": "Markedet hadde neppe regna med seier. Vår Energi hadde allerede tapt både i tingretten og i lagmannsretten. Dommen bekrefter bare dagens fordeling. Ingen produksjon forsvinner, og selskapet har trolig aldri bokført den omstridte gevinsten uansett.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 65,
+      "char_count": 247,
+      "has_link": false
+    },
+    {
+      "key": "29b87e7a51fcc7df",
+      "author": "Rent Danger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rent-danger",
+      "posted_relative": "for 1 t siden",
+      "text": "Finansavisen: Milliardtap for Vår Energi i Høyesterett Høyesterett avviser Vår Energis krav på en større andel av Breidablikk-feltet. Verdien av striden er anslått til nær ti milliarder kroner. Dette var ikke bra😳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 213,
       "has_link": false
     }
   ]

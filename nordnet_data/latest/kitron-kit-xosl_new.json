@@ -1,35 +1,24 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-14T19:03:44.658808+00:00",
+  "scraped_at": "2026-10-14T22:50:28.829958+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "e7fedfdc2c96c430",
-      "author": "steffson",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffson",
-      "posted_relative": "for 4 t siden",
-      "text": "· Det er vel fortsatt begrenset kapasitet på kretskort (PCB) i Europa. Markedet frykter kanskje fortsatt at disse komponentforsinkelsene vil begrense Kitrons evne til å omdanne sin store ordrereserve til reell omsetning.. også for Q3? Derfor litt usikkerhet i aksjekursen - akkurat nå opp til 22. okt. - til tross for de 2 oppgraderingene.. tenker jeg.. må vel bare ha is i magen... 🌿",
+      "key": "2cba3130d64a4075",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen kilder til påstandene? Selskapet skriver selv følgende (datert 25.08): <<Fortsatt sterk etterspørsel og mindre usikkerhet i forsyningskjedene for elektronikk gjør at selskapet nå oppjusterer utsiktene>>, skriver Kitron i meldingen mandag. De oppjusterte nylig guidingen. Da er det jo merkelig om denne  begrensningen i forsyningskjeden vedvarer…",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 384,
-      "has_link": false
-    },
-    {
-      "key": "23dfe7251b3f0c23",
-      "author": "Gnx",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
-      "posted_relative": "for 4 t siden",
-      "text": "Utfordringen er om markedets forventning samsvarer med tall og vurderinger selskapet legger fram i Q3. Q3 må rett og slett overgå markedsforventningene for at det skal slå positivt ut. Hvilke forventninger selskapet har til seg selv har svært liten betydning.",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 259,
+      "char_count": 350,
       "has_link": false
     }
   ]

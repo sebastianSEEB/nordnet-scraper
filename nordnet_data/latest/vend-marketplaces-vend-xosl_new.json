@@ -1,42 +1,57 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-14T19:03:36.088597+00:00",
+  "scraped_at": "2026-10-14T22:50:20.860785+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "9851dce75ff2e433",
+      "key": "45d538a17e85199b",
       "author": "Tobiasaa",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tobiasaa",
-      "posted_relative": "for 4 t siden",
-      "text": "https://www.finansavisen.no/finans/2026/10/14/8387523/gaute-eie-aldri-opplevd-en-slik-storm-i-et-vannglass Vis 1 kommentar til",
+      "posted_relative": "for 8 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/10/14/8387523/gaute-eie-aldri-opplevd-en-slik-storm-i-et-vannglass",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6,
-        2
+        8,
+        4
       ],
       "links": [
         "https://www.finansavisen.no/finans/2026/10/14/8387523/gaute-eie-aldri-opplevd-en-slik-storm-i-et-vannglass"
       ],
-      "char_count": 126,
+      "char_count": 106,
       "has_link": true
     },
     {
-      "key": "c7ab405116574f4f",
-      "author": "clanz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/clanz",
-      "posted_relative": "for 2 t siden",
-      "text": "Hva forventer man når man spør en som eier millioner i Vend... at han skal argumentere for noe annet enn sin syke mor?",
+      "key": "a55b6217fb694ab4",
+      "author": "Kapellanen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kapellanen",
+      "posted_relative": "for 30 min siden",
+      "text": "Det som er  komisk er Gaute Eies analyser av norske oljeaksjer. Pilkast og astrologi er bedre veivisere.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 118,
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "933b36ee1dc659ea",
+      "author": "Rockeseller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rockeseller",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Kraftig fall blandt AI aksjer i USA i kveld,  blir det nok en vakker grønn dag for Vend i morgen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 97,
       "has_link": false
     }
   ]
