@@ -1,9 +1,67 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-15T12:19:01.630845+00:00",
+  "scraped_at": "2026-10-15T17:31:50.055010+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "a58fa2489cbc8e2a",
+      "author": "saksbehandleren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saksbehandleren",
+      "posted_relative": "for 55 min siden",
+      "text": "Som jeg kommenterte tidligere ser vi en helt ny approach fra markedet nå mot både kvartalsrapporter og ex dato. Selskapet har jo ikke levert dårligere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "b9ee1581bcb5836b",
+      "author": "Upsidedown1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upsidedown1",
+      "posted_relative": "for 4 t siden",
+      "text": "Ca 135k omsatt så langt i dag. Det som har foregått siste to timer er press, mulig fra short da volumet på postene er svært små.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "900120671c36d6ab",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "ELO fair eller underpriset? Når ebit er opp 130% og aksjekurs er opp 20% siden IPO, er svar opplagt. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "db0a5b8fc47aea11",
+      "author": "Hugoil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hugoil",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser 32 blankl rett før eller rett etter Q.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

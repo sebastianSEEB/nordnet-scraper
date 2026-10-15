@@ -1,9 +1,23 @@
 {
   "slug": "sparebank-1-nord-norge-nong-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-nord-norge-nong-xosl",
-  "scraped_at": "2026-10-15T12:19:59.458193+00:00",
+  "scraped_at": "2026-10-15T17:32:49.964182+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b17ce4a6a1acb6e5",
+      "author": "tingling",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tingling",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvorfor i all verden faller bankaksjene i Norge ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

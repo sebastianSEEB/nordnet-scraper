@@ -1,9 +1,80 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-15T12:17:36.822900+00:00",
+  "scraped_at": "2026-10-15T17:30:21.966273+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "078c4ba123678b90",
+      "author": "Hifidude",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hifidude",
+      "posted_relative": "for 4 t siden",
+      "text": "Rett å slett ikke helt til å forstå, faller tildels kraftig på relativt godt volum.  SOFF er i pluss. Kontrakt i går. Shake-out? Merkelig. Vel, solgte i går, så bra for meg, ny inngang. Men logikken? Ser den ikke helt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        7
+      ],
+      "links": [],
+      "char_count": 218,
+      "has_link": false
+    },
+    {
+      "key": "a973244317d42d02",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": "for 2 t siden",
+      "text": "Påfyll her i dag, fin kjøprsmulighet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "16aedb87849166d2",
+      "author": "Gsutev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gsutev",
+      "posted_relative": "for 2 t siden",
+      "text": "· Første gang her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    },
+    {
+      "key": "57f20d9f36b035a1",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": "for 2 t siden",
+      "text": "· 💯",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    },
+    {
+      "key": "9fa535828ed96cf9",
+      "author": "Bull_dog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bull_dog",
+      "posted_relative": "for 5 t siden",
+      "text": "· 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

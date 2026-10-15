@@ -1,9 +1,38 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-15T12:21:12.805286+00:00",
+  "scraped_at": "2026-10-15T17:34:05.721904+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fe2a38af7138e91a",
+      "author": "Kajton Islands",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kajton-islands",
+      "posted_relative": "for 2 t siden",
+      "text": "· Mitt syn på Orkla er stabilt 100kr, under 100 kjøp. Over 100 avvent. Enkelt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "1a97f9cdad8ef917",
+      "author": "CVS1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cvs1",
+      "posted_relative": "for 1 t siden",
+      "text": "Ikke lenge før vi får 110 tenker jeg meg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }

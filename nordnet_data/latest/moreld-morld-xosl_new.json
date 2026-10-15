@@ -1,9 +1,53 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-15T12:19:05.480054+00:00",
+  "scraped_at": "2026-10-15T17:31:54.009114+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "fe6cb781c0a03ea4",
+      "author": "Linjemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/linjemannen",
+      "posted_relative": "for 3 t siden",
+      "text": "De tøffeste gutten i gaten tar kanskje frem lommeboka og handler litt nå før 16.20?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "226f40ef8b0291ec",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 2 t siden",
+      "text": "Jaja..over 20 hvertfall. Så lenge ut som det var umulig også👌",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "de889767495774be",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 3 t siden",
+      "text": "Ja ja ,gøy så lenge det varte 🫢",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

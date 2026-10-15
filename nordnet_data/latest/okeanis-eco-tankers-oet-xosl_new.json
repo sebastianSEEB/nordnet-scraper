@@ -1,9 +1,53 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-15T12:15:43.740769+00:00",
+  "scraped_at": "2026-10-15T17:28:24.162222+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b8b688729e76fc09",
+      "author": "madsen1988",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/madsen1988",
+      "posted_relative": "for 3 t siden",
+      "text": "· Fikk akkurat fordoblet beholdningen min i bunnen. Viste seg å være en god beslutning",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "fc5b575210f047c7",
+      "author": "Barcelona1986",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcelona1986",
+      "posted_relative": "for 36 min siden",
+      "text": "Stygt nå----under NOK 850 kl 18:36",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "d3576f2274951702",
+      "author": "TJ INVEST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj-invest",
+      "posted_relative": "for 3 t siden",
+      "text": "Waow vi er i pluss! 💲🥳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

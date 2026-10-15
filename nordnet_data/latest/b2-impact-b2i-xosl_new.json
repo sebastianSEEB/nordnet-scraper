@@ -1,9 +1,25 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-15T12:18:11.302941+00:00",
+  "scraped_at": "2026-10-15T17:30:57.714500+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b89bc8701676d14e",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": "for 2 t siden",
+      "text": "Påfyll her da min ønskede pris for mer kjøp traff inn.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-15T12:18:30.415182+00:00",
+  "scraped_at": "2026-10-15T17:31:18.166825+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e9e14d01ef82bfa7",
+      "author": "MrJasp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrjasp",
+      "posted_relative": "for 2 t siden",
+      "text": "· Du burde ha fått en lenke i meldingene dine fra Nordnet hvis du da har dem som din plattform. Fikk lenken min for ca 10 dager siden",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "d30c3a8634a4e336",
+      "author": "Vikingen88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikingen88",
+      "posted_relative": "for 3 t siden",
+      "text": "· Der er vi faen meg under 50. Snakk om elendig utvikling. Jeg er så lei...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "61be29a6ef0f996e",
+      "author": "kad79",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kad79",
+      "posted_relative": "for 2 t siden",
+      "text": "Hei. Jeg skal beholde min cadeler aksje . Hva skal jeg gjøre?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

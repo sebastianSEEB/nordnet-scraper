@@ -1,9 +1,54 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-15T12:17:17.501060+00:00",
+  "scraped_at": "2026-10-15T17:30:01.689210+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "9b75d96c6d79b6f7",
+      "author": "scoopintheloop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/scoopintheloop",
+      "posted_relative": "for 2 t siden",
+      "text": "Aksjen er først trykt ned. Helt super kjøpsanledning. Takker og bukker til Nordea 👏🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "6acf7ba8eaa6dd1b",
+      "author": "Aksjefugelen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjefugelen",
+      "posted_relative": "for 4 t siden",
+      "text": "Vend er opverhypa i Finansavisen... Skulle trodd de fikk betalt av Gaute Eie",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        11
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "2a61df4ce52b4581",
+      "author": "Trading 123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trading-123",
+      "posted_relative": "for 2 t siden",
+      "text": "· 🚀🚀🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }
