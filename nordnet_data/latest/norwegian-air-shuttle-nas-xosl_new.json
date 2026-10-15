@@ -1,35 +1,129 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-15T06:42:32.223449+00:00",
+  "scraped_at": "2026-10-15T12:06:40.513514+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 8,
   "posts": [
     {
-      "key": "6c9f39883d8911f9",
-      "author": "PH1223",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden Geveran bommer sjelden. Hedgingen for 2026 er 55%. For 2027 er den 25%. Fredriksen driver ikke Blåkors.",
+      "key": "da4dbd7e097a4bdd",
+      "author": "GunnarHe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gunnarhe",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Geveran kjøper tungt, men NAS faller likevel nesten hver dag – det sier sitt om salgspresset. Så lenge markedet klarer å absorbere selv disse kjøpene uten at kursen snur, er det for tidlig å snakke om en bunn. Det kan synes som om veldig mange her mener det ligger en garanti om opptur pga. Geveran.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1,
+        5
+      ],
       "links": [],
-      "char_count": 131,
+      "char_count": 299,
       "has_link": false
     },
     {
-      "key": "db004539207626f3",
-      "author": "Paraske",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paraske",
+      "key": "f076ee1ebb0b169f",
+      "author": "VicAnt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vicant",
+      "posted_relative": "for 4 t siden",
+      "text": "Tja......Gevran klarte å kjøpe 6,5 mill aksjer samtidig som kursen gikk ned, så vet ikke det....men du kjøper kanskje mer en Gevran Flowmanager? 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "3c566283cef433a4",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": "for 5 t siden",
+      "text": "Geveran bommer sjelden. Hedgingen for 2026 er 55%. For 2027 er den 25%. Fredriksen driver ikke Blåkors. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        5
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "90fd15b061f7c1ca",
+      "author": "sQruf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sqruf",
       "posted_relative": "for 1 t siden",
-      "text": "Neste gang toalettpapir er på tilbud skal jeg selge det jeg har..",
+      "text": "Jeg kjøper ikke før den er på 9 tallet. Jeg tar ikke noe sjanse på å kjøpe før q3. Kan bli stygt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "d1c76b5623d3a68f",
+      "author": "Flowmanager",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flowmanager",
+      "posted_relative": "for 4 t siden",
+      "text": "Vanskelig å komme inn på dagens nivå uten å drive prisen selv om olja er over 100 USD",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "271a354a170eaa31",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": "for 4 t siden",
+      "text": "Breikjeften går på en ny smell😆😂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 65,
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "00340c1fc2f6e9a0",
+      "author": "isastr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isastr",
+      "posted_relative": "for 2 t siden",
+      "text": "Nærmer seg tiden for kjøp....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "f5b0a24889c59dd3",
+      "author": "arse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arse",
+      "posted_relative": "for 9 min siden",
+      "text": "Gribber maken til tull .🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
       "has_link": false
     }
   ]

@@ -1,37 +1,52 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-15T06:43:11.229574+00:00",
+  "scraped_at": "2026-10-15T12:07:18.530495+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "a08677e652f692c8",
-      "author": "Tikamp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
-      "posted_relative": "for 5 t siden",
-      "text": "Jeg hadde likt å vite hvor mange av NORBITS flinke konsulenter som jobber for Kongsberg Gruppen med å raskt få på plass kritisk forsvars-teknologi.",
+      "key": "d5fd21d558521db1",
+      "author": "Ben Bisk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ben-bisk",
+      "posted_relative": "for 1 t siden",
+      "text": "Per Jørgen Weisethaunet gjester StockUp 👀 https://open.spotify.com/episode/5J6QkTPXtT5q40mxcCXy3K?si=_rhVGhHjQZG2gkg7YehkZA&utm_source=copy-link",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        4
       ],
-      "links": [],
-      "char_count": 147,
-      "has_link": false
+      "links": [
+        "https://open.spotify.com/episode/5J6QkTPXtT5q40mxcCXy3K?si=_rhVGhHjQZG2gkg7YehkZA&utm_source=copy-link"
+      ],
+      "char_count": 144,
+      "has_link": true
     },
     {
-      "key": "98526687e329608d",
-      "author": "Svinges",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svinges",
-      "posted_relative": "for 1 t siden",
-      "text": "0 Norbit har ingen konsulenter som de leier ut!  Norbit kan ta utviklingsoppdrag for eksterne, men ikke på konsulentbasis.",
+      "key": "52207fdad80b0810",
+      "author": "Vihaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· 155-160 er sterk bunn..??",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 122,
+      "char_count": 27,
+      "has_link": false
+    },
+    {
+      "key": "26f227c2262b170f",
+      "author": "run65",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/run65",
+      "posted_relative": "for 4 t siden",
+      "text": "Stopplosser som ryker?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
       "has_link": false
     }
   ]

@@ -1,9 +1,56 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-10-15T06:41:32.986244+00:00",
+  "scraped_at": "2026-10-15T12:05:43.528417+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e0c3c57120e95d3d",
+      "author": "Cool Hand",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cool-hand",
+      "posted_relative": "for 1 t siden",
+      "text": "· Ja kanskje du har rett. Nå kan man diskutere om man kan og bør benytte teknisk analyse på en indeks og på en indeks som BDI. Se ev. her for den oversikten jeg opererer ut fra: https://www.tradingview.com/x/spIJqsxv/ Men jeg vil ikke bli overrasket om vi kjører oppover igjen snart? Jeg kan naturligvis ingenting vite om hva som skjer fremover. Jeg er lang i aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.tradingview.com/x/spIJqsxv/"
+      ],
+      "char_count": 367,
+      "has_link": true
+    },
+    {
+      "key": "8c6f52db426e3a55",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": "for 2 t siden",
+      "text": "I glem de makroforhold. Lite nybygg før tidligst 2030, eldre flåte på generelle basis som skal inn på lengre docking framover. Blir et strammere tilbud de neste 2 årene hvis ikke hele verdens økonomien går til helvete...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 220,
+      "has_link": false
+    },
+    {
+      "key": "7100981a5d2c33ff",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 4 t siden",
+      "text": "Har nok enda mer å gå på sørover sett i lys av FFA.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

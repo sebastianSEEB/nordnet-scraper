@@ -1,9 +1,40 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-10-15T06:46:54.363202+00:00",
+  "scraped_at": "2026-10-15T12:10:55.444872+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3fc7d1e6c21fa8a9",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 t siden",
+      "text": "Mr. Brøymer har for ca. 640 mill. NOK i Bonheur. Sikkert en grunn for det.....Jeg har sanns samme grunn......",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "2ac8865538ead9f3",
+      "author": "hanjiando",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanjiando",
+      "posted_relative": "for 1 t siden",
+      "text": "Ble spist opp av fallet idag, men q3 må imponere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

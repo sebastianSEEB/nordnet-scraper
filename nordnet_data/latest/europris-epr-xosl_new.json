@@ -1,9 +1,39 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-15T06:44:02.210072+00:00",
+  "scraped_at": "2026-10-15T12:08:08.007249+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "60d939dcb0e0bd3c",
+      "author": "Marivar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marivar",
+      "posted_relative": "for 3 t siden",
+      "text": "Ref Simply Wall Street's Analyse Concensus på NOK93,75 (11,0% undervurdert) og Discounted Cash Flow Value på NOK201,95 (58,7% undervurdert) pr. 13/10-'26. Hva kan gå galt ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 172,
+      "has_link": false
+    },
+    {
+      "key": "851d4c97d4ee41d5",
+      "author": "Hansepansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hansepansen",
+      "posted_relative": "for 1 t siden",
+      "text": "Går bare langsom fremover, avhengig av Sverige",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

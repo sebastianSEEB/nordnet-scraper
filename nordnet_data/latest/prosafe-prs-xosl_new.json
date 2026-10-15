@@ -1,9 +1,69 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-15T06:48:38.366717+00:00",
+  "scraped_at": "2026-10-15T12:12:39.806602+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "28be17eab467f61e",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser kommentaren min fra i morges står seg godt: \"Hver gang aksjen stiger eller synker 3-4% så blir to personer veldig aktive på tråden\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 135,
+      "has_link": false
+    },
+    {
+      "key": "43f88cd3942fa573",
+      "author": "KFKF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kfkf",
+      "posted_relative": "for 1 t siden",
+      "text": "Caius redusert med ca 700K aksjer siste uke. Har fremdeles 50M + gjennom GS. Få aksjene på norske hender!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "94f40a6a6e863b5f",
+      "author": "Isklump",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isklump",
+      "posted_relative": "for 4 t siden",
+      "text": "Får komme oss ned til 4,8 og tette gap. Greit å få tettet dette.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        10
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "31c68010845458d3",
+      "author": "KFKF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kfkf",
+      "posted_relative": "for 3 t siden",
+      "text": "BareTap12 Pass på Dolphin Øk i Norse!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

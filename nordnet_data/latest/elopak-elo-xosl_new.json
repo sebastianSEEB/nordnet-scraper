@@ -1,38 +1,39 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-15T06:44:25.292628+00:00",
+  "scraped_at": "2026-10-15T12:08:30.524177+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 7,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "75eda88631830b7f",
+      "key": "14a3231c70ff082d",
       "author": "nieto",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
-      "posted_relative": "for 54 min siden",
-      "text": "Det var ikke akkurat noe kjemperush for handle aksjen frem mot dette utbyttet.  Alltid litt spennende med utbytteaksjer å se hvor raskt de henter seg inn etter fallet på ex-dato.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 178,
-      "has_link": false
-    },
-    {
-      "key": "acfc064e8277e98e",
-      "author": "PayDude",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paydude",
-      "posted_relative": "for 1 døgn siden",
-      "text": "En dag nærmere utbytte 💰🤩 Vis 1 kommentar til",
+      "posted_relative": "for 1 t siden",
+      "text": "Tydeligvis endel som velger å selge etter å ha sikret seg retten til utbyttet. Da får vi prøve på litt bunnfiske under 34. Litt frem i tid håper jeg iallfall at det fremstår som bunnfiske :)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        2
+        1
       ],
       "links": [],
-      "char_count": 45,
+      "char_count": 190,
+      "has_link": false
+    },
+    {
+      "key": "3a2236652a327f58",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 37 min siden · Endret",
+      "text": "ELO fair eller underpriset? Når ebit er opp 130% og aksjekurs er opp 20% siden IPO, er svar opplagt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 100,
       "has_link": false
     }
   ]

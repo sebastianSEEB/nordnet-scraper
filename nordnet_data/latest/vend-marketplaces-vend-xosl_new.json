@@ -1,9 +1,53 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-15T06:42:39.963665+00:00",
+  "scraped_at": "2026-10-15T12:06:47.978257+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "215ff31fc305b65f",
+      "author": "Marcus1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marcus1",
+      "posted_relative": "for 1 t siden",
+      "text": "Recommerce er i dag ikke lønnsom. Men det er satt mål om lavt et sifret EBITDA margin på recommerce. Så i hvilken grad vend påvirkes av recommerce er nokk blandet av utsikter til profitt og en sterk nettverks effekt gjennom recommerce",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 234,
+      "has_link": false
+    },
+    {
+      "key": "fcc2bc6a7779633a",
+      "author": "Terrier123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terrier123",
+      "posted_relative": "for 3 t siden",
+      "text": "I hvilken grad påvirkes Vend-verdien av recommerce (finn/torget).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "0736014e2de21db3",
+      "author": "Vihaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
+      "posted_relative": "for 4 t siden",
+      "text": "· Bare denne er grønn i dag i porteføljen min😄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

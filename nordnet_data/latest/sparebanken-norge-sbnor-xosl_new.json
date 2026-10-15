@@ -1,9 +1,25 @@
 {
   "slug": "sparebanken-norge-sbnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-norge-sbnor-xosl",
-  "scraped_at": "2026-10-15T06:45:29.094670+00:00",
+  "scraped_at": "2026-10-15T12:09:31.553984+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1e07696bcae39449",
+      "author": "8bold",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/8bold",
+      "posted_relative": "for 50 min siden",
+      "text": "· Når renten går opp er det en fordel for banken på kort sikt. På lengre sikt er det flere kunder som får det vanskeligere med å betale avdrag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    }
+  ]
 }

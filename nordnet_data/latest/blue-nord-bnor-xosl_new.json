@@ -1,9 +1,64 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-15T06:42:24.448757+00:00",
+  "scraped_at": "2026-10-15T12:06:33.056595+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "466dffaade6d68f6",
+      "author": "Marivar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marivar",
+      "posted_relative": "for 4 t siden",
+      "text": "Heller til Analyser på Simply Wallstreet; \"Future Cash Flow value\" med \"Discounted Cash Flow\" modell for BlueNord antas å være 1.594,69 , dvs 62,2% undervurdert pr. 14/10-'26 Sånn sett en meget bra fremtid ;-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 209,
+      "has_link": false
+    },
+    {
+      "key": "cc84ea5f6aae0222",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Goldman Sachs sitter på 5,3% eller 25567202 aksjer totalt på egen og klientkontoer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "8f6e0f3fbae87617",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 4 t siden",
+      "text": "Skal vi ned nå da?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    },
+    {
+      "key": "c771086281435a3e",
+      "author": "Jpeace",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jpeace",
+      "posted_relative": "for 3 t siden",
+      "text": "· Ja,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

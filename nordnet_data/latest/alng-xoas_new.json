@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-15T06:41:20.852996+00:00",
+  "scraped_at": "2026-10-15T12:05:32.079436+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "440834b577b3f741",
+      "author": "Miguel.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miguel-1",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvor mye aksjer har folk her og til hvilken gav? Selv har jeg 18300 til 3.4kr gav Jeg tenker på videre innkjøps muligheter og til hvilken pris.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-15T06:45:48.178012+00:00",
+  "scraped_at": "2026-10-15T12:09:50.627689+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "513ee86415415b39",
+      "author": "Babbai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/babbai",
+      "posted_relative": "for 4 t siden",
+      "text": "Tenker at de kommer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-15T06:47:40.509938+00:00",
+  "scraped_at": "2026-10-15T12:11:41.186858+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5488fad3de2e551b",
+      "author": "LEMME",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lemme",
+      "posted_relative": null,
+      "text": "11. okt. · Endret Jeg skjønner ikke at dere bryr dere om @Baretap12 - synes ikke det er så mye fornuftig fra den kanten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    }
+  ]
 }
