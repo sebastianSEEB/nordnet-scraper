@@ -1,108 +1,24 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-14T22:48:40.895032+00:00",
+  "scraped_at": "2026-10-15T01:04:01.600051+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 7,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "70bfd039ffefe82f",
-      "author": "Sasha15",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
-      "posted_relative": "for 51 min siden",
-      "text": "Sluttkursen for Frontline (FRO) på New York-børsen (NYSE) onsdag 14. oktober 2026 ble 56,27 USD. Omregnet til norske kroner basert på kveldens valutakurs på Euronext / TradingView (ca. 9,53 NOK per USD) tilsvarer dette omtrent 536,27 kroner per aksje",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 250,
-      "has_link": false
-    },
-    {
-      "key": "2bde81a33b0e1d31",
-      "author": "Aframaks",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
-      "posted_relative": "for 5 t siden",
-      "text": "· ECO spretter opp igjen nå... ja Vis 1 kommentar til",
+      "key": "e09900f7fedd37ba",
+      "author": "ansgar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ansgar",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Hvorfor denne brå svingen nedover i dag (14. okt) i halv tre-tida? Utrolig at US KPI hadde en slik innvirkning, 0,1% høyere enn ventet! Tenkte like før på å kjøpe kortere ( Mini S ) men kjøpte i stedet noen Mini L. Tenkte det var så godt drag og hadde til hensikt å avvente en nedgang senere.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 53,
-      "has_link": false
-    },
-    {
-      "key": "a6b88d0cebc62cc6",
-      "author": "@pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": null,
-      "text": "- er det bare is i magen .. ?  INSW av",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 38,
-      "has_link": false
-    },
-    {
-      "key": "117d32dcbf3104bf",
-      "author": "Xlan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xlan",
-      "posted_relative": "for 1 t siden",
-      "text": "Greit å være litt lett på labben nå.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 36,
-      "has_link": false
-    },
-    {
-      "key": "0da4ab6a2489c22d",
-      "author": "oliverfuglseth",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oliverfuglseth",
-      "posted_relative": "for 3 t siden",
-      "text": "God aksje og kjøpe nå?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4,
-        8
-      ],
-      "links": [],
-      "char_count": 22,
-      "has_link": false
-    },
-    {
-      "key": "0255c1eaf7baa8ad",
-      "author": "Båtsjefen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batsjefen",
-      "posted_relative": "for 1 t siden",
-      "text": "Innlegget er slettet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        9
-      ],
-      "links": [],
-      "char_count": 21,
-      "has_link": false
-    },
-    {
-      "key": "3fbfb6d0a1ffc8c1",
-      "author": "GiFre",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gifre",
-      "posted_relative": "for 2 t siden",
-      "text": "Av for den",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 10,
+      "char_count": 294,
       "has_link": false
     }
   ]
