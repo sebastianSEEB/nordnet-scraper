@@ -1,9 +1,36 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-10-15T01:04:50.071245+00:00",
+  "scraped_at": "2026-10-15T06:41:48.764371+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a66709abd261ff46",
+      "author": "ShippingFond",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond",
+      "posted_relative": "for 1 t siden",
+      "text": "· Nordea høyer kursmålet for Wallenius Wilhelmsen til 200 norske kroner (171), gjentar kjøp Close i dag kl. 07:30 ∙ Finwire Wallenius Wilhelmsen Nordea høyer kursmålet for Wallenius Wilhelmsen til 200 norske kroner (171), gjentar kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 234,
+      "has_link": false
+    },
+    {
+      "key": "e2d006c4ba21a99a",
+      "author": "olto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
+      "posted_relative": "for 1 t siden",
+      "text": "Spetalen solgte 79,19% den 12. Tipper at resten også er borte. :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

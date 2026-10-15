@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-15T01:09:16.083206+00:00",
+  "scraped_at": "2026-10-15T06:46:19.577719+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e6e3013f766ddcc1",
+      "author": "Charta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/charta",
+      "posted_relative": "for 5 min siden",
+      "text": "Norske myndigheter er nok interessert i nasjonale alternativer som lettere kan reguleres av nasjonalt lovverk enn akkurat det Starlink viser seg å være.  Teknologisamarbeid med EU og på tvers av Atlanteren må være forankret i en virksomhet for å sikre etterlevelse av lover og regler. Min antagelse er at Telenor blir sett på som typisk et slikt alternativ for norsk kontroll.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 376,
+      "has_link": false
+    }
+  ]
 }

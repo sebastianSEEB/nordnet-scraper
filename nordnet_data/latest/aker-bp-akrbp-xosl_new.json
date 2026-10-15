@@ -1,9 +1,23 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-15T01:09:12.266268+00:00",
+  "scraped_at": "2026-10-15T06:46:15.592022+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bb43884b918f1e82",
+      "author": "Ibehold",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ibehold",
+      "posted_relative": "for 23 min siden",
+      "text": "Iht Aker BPs hjemmeside handles aksjen ex dividende 3.11. Dvs du må eie aksjene 2.11 for å få utbytte. Utbytte utbetales 12.11. Hvor stort det blir, kunngjøres 29.10.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 166,
+      "has_link": false
+    }
+  ]
 }

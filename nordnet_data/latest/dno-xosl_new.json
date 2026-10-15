@@ -1,9 +1,54 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-15T01:07:43.497684+00:00",
+  "scraped_at": "2026-10-15T06:44:45.073829+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bfd3228c9a485116",
+      "author": "Harry Klein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harry-klein",
+      "posted_relative": "for 12 min siden",
+      "text": "https://www.finansavisen.no/tdn/2026/10/15/06604114/irak-somo-har-startet-betaling-av-tilleggsbelop-til-ioc-er?internal_source=markedsnytt_frontpage_widget",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/10/15/06604114/irak-somo-har-startet-betaling-av-tilleggsbelop-til-ioc-er?internal_source=markedsnytt_frontpage_widget"
+      ],
+      "char_count": 155,
+      "has_link": true
+    },
+    {
+      "key": "83c296fc27ab9076",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 37 min siden",
+      "text": "DNOs aksjekurs steg kraftig etter en solid oppdatering for tredje kvartal som overgikk markedets forventninger. Selskapet nøt godt av sterk produksjon og høye realiserte priser i Nordsjøen, i tillegg til en betydelig innhenting i virksomheten i Kurdistan. Fullførte transaksjoner i Norge og Vest-Afrika, kombinert med vellykket leteboring, styrket selskapets strategiske posisjon ytterligere. Nettoproduksjon i Nordsjøen nådde 85 364 fat oljeekvivalenter per dag (boepd), noe som slo analytikernes estimater med 3 % til 6 %, med en realisert oljepris på 99,6 dollar per fat. Analytikere anslår at den sterke operasjonelle utviklingen kan sende omsetningen i tredje kvartal over 1 milliard dollar, noe som overgår konsensusestimatene med 25 % til 30 %. Nettoproduksjonen i Kurdistan økte kraftig til 54 914 boepd fra bare 273 boepd i forrige kvartal, etter gjenåpningen av Tawke- og Peshkabir-feltene. DNO fullførte salget av sin virksomhet på Elfenbenskysten til Panoro Energy for 86,5 millioner dollar, og sluttførte et bytte av eiendeler med Vår Energi, der de mottok 20,3 millioner dollar i nettokontanter. En pilotbrønn på Symra-feltet økte de estimerte utvinnbare volumene med opptil 25 %, noe som tilfører anslagsvis 8 til 15 millioner fat oljeekvivalenter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1263,
+      "has_link": false
+    },
+    {
+      "key": "cfc3d7a584092d20",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Over Arctic Securities og Fearnley Securities sine estimater. Det viser at DNO ikke bare slo produksjonsestimatene, men også kan ha levert vesentlig høyere omsetning enn markedet ventet. DNO steg 6,2 prosent etter å ha kommet med det som omtales av meglerhus som en solid kvartalsoppdatering i morges. Selskapet meldte om en nettoproduksjon på 85.364 fat oljeekvivalenter pr dag (foepd) i tredje kvartal, som var rundt 3-6 prosent over Arctic Securities og Fearnley Securities sine estimater. Videre var realisert oljepris i Nordsjøen 99,6 dollar pr fat i kvartalet, sammenlignet med Factset-konsensus på 80,0 dollar pr fat, ifølge Fearnley Securities. <<Basert på realiserte priser anslår vi foreløpig omsetning på rundt 967 millioner dollar i tredje kvartal, over både Fearnley- og konsensus-estimater på henholdsvis 850 og 777 millioner dollar. Justert for overløft på 9.400 foepd i Nordsjøen, vil estimert omsetning være nærmere 913 millioner dollar, rundt 17 prosent over konsensus>>, skriver Fearnley Securities.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 1018,
+      "has_link": false
+    }
+  ]
 }

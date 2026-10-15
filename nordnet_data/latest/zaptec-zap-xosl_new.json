@@ -1,9 +1,40 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-15T01:05:43.827629+00:00",
+  "scraped_at": "2026-10-15T06:42:43.760665+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "361a80d8e1d0730e",
+      "author": "Sunnyhill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnyhill",
+      "posted_relative": "for 15 min siden",
+      "text": "At den har fått en korreksjon etter så mye oppgang er helt normalt og sunt for en aksje. Svigninger i aksjen å makrobilde er noe jeg personlig ikke henger meg opp i. Enkleste og mest lønnsomme er langsiktighet,. Bruk dippene på å kjøpe mer om du er trygg i caset.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 263,
+      "has_link": false
+    },
+    {
+      "key": "e44b00f935725d5b",
+      "author": "Raskungfyr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raskungfyr",
+      "posted_relative": "for 35 min siden",
+      "text": "· Dårlig uke, men for oss som sitter langsiktig er dette bare støy. Denne casen har alt for mye potensialet så bare hold fast. Bedre tider i vente",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    }
+  ]
 }

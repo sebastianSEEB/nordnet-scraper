@@ -1,9 +1,39 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-15T01:07:24.152497+00:00",
+  "scraped_at": "2026-10-15T06:44:25.292628+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "75eda88631830b7f",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 54 min siden",
+      "text": "Det var ikke akkurat noe kjemperush for handle aksjen frem mot dette utbyttet.  Alltid litt spennende med utbytteaksjer å se hvor raskt de henter seg inn etter fallet på ex-dato.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 178,
+      "has_link": false
+    },
+    {
+      "key": "acfc064e8277e98e",
+      "author": "PayDude",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paydude",
+      "posted_relative": "for 1 døgn siden",
+      "text": "En dag nærmere utbytte 💰🤩 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

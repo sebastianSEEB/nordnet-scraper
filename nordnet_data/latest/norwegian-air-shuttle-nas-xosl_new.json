@@ -1,9 +1,36 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-15T01:05:32.318203+00:00",
+  "scraped_at": "2026-10-15T06:42:32.223449+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6c9f39883d8911f9",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Geveran bommer sjelden. Hedgingen for 2026 er 55%. For 2027 er den 25%. Fredriksen driver ikke Blåkors.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "db004539207626f3",
+      "author": "Paraske",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paraske",
+      "posted_relative": "for 1 t siden",
+      "text": "Neste gang toalettpapir er på tilbud skal jeg selge det jeg har..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }
