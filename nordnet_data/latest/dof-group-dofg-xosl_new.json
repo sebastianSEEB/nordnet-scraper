@@ -1,9 +1,25 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-16T07:40:29.378699+00:00",
+  "scraped_at": "2026-10-16T11:55:05.636316+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "053f713c8ce5090d",
+      "author": "Aksjeminister",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeminister",
+      "posted_relative": "for 2 t siden",
+      "text": "Når toalettpapir er på tilbud, hamstrer folk. Når aksjer er på tilbud, får folk panikk og selger. God helg!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    }
+  ]
 }

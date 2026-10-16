@@ -1,9 +1,70 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-16T07:42:16.409518+00:00",
+  "scraped_at": "2026-10-16T11:56:53.689959+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "6a2270abd1de7931",
+      "author": "TradInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradinvest",
+      "posted_relative": "for 1 t siden",
+      "text": "Det må i så fall være vedtak på Amazon-anlegg, og da ser vi vel 17-tallet umiddelbart igjen. Foreløpig er volumet for lite til at slike rykter har nådd langt, og volumet er også vesentlig under gårsdagens på samme tidspunkt. Mistanke om at kursen ble pleiet i går kan jo forsterkes da det synes som det er lite selgere som tilbyr seg selv om aksjen er vesentlig opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 366,
+      "has_link": false
+    },
+    {
+      "key": "8394dcdfa864647e",
+      "author": "TradInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradinvest",
+      "posted_relative": "for 2 t siden",
+      "text": "Lundahl tenker på \"i forhold til hva som vil komme fremover\" :)",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "964bd6a346124063",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 1 t siden",
+      "text": "Lurer det rykter om Amazon i buskene igjen mon tro?? 🚀💰💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "f516a292d0bac73e",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 3 t siden",
+      "text": "Pen stigning 💵💵💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        5
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

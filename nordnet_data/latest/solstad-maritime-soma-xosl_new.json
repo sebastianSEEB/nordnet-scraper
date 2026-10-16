@@ -1,9 +1,52 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-16T07:44:15.034442+00:00",
+  "scraped_at": "2026-10-16T11:58:53.085121+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f05e994255b0872c",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 48 min siden",
+      "text": "· SOFF eller SOMA Bli medlem av Nordnet Social for å gi din stemme Logg inn SOFF SOMA 3 stemmer • 2 dager 23 timer igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "d66a2d176ef68cc2",
+      "author": "VestInVestment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vestinvestment",
+      "posted_relative": "for 1 t siden",
+      "text": "Var god omsetning i sluttauksjonen i soff igår også💪 Har nok en sammenheng.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "4be0e938d61a377d",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 21 t siden",
+      "text": "Grei omsetning i sluttauksjonen i dag 💵💵💵 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        4
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

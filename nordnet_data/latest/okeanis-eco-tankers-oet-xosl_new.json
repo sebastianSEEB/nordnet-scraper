@@ -1,52 +1,98 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-16T07:38:37.115547+00:00",
+  "scraped_at": "2026-10-16T11:53:14.483920+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "aaf8accc322c8cb8",
-      "author": "Myr79",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myr79",
-      "posted_relative": "for 1 t siden",
-      "text": "Størrelse  Strekning          WS-rate      TCE($) 270        AG/Kina          1.281,25     1.370.193 260        V-Afr/Kina         711,88       720.400 =================================",
+      "key": "7af5e657930b9d10",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 3 t siden",
+      "text": "Nissos Sifnos (den droneutsatte) ser omsider ut til å forlate verftet https://www.marinetraffic.com/en/ais/home/centerx:56.4/centery:26.4/zoom:8 Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        3,
+        2
       ],
-      "links": [],
-      "char_count": 185,
-      "has_link": false
+      "links": [
+        "https://www.marinetraffic.com/en/ais/home/centerx:56.4/centery:26.4/zoom:8"
+      ],
+      "char_count": 164,
+      "has_link": true
     },
     {
-      "key": "e0c8cfd9826c7c4b",
-      "author": "Raputin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raputin",
-      "posted_relative": "for 31 min siden",
-      "text": "Trump vil lette på sanksjoner over for skygge flåten til russerne for å få bukt med de høye ratene. Ikke mye prinsipper der i gården  !",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 135,
-      "has_link": false
-    },
-    {
-      "key": "0428a42aad791280",
+      "key": "83b8a62249e9ca02",
       "author": "pryp",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 23 min siden",
-      "text": "Det blir ikke noe effektivisering av olje frakt med det første. Uansett vil ikke de ratene vi ser nå vare til evig tid.",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://x.com/MakaiMarine/status/2111024944217764012 Surpompen Makai caller topp i TD20.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://x.com/MakaiMarine/status/2111024944217764012"
+      ],
+      "char_count": 90,
+      "has_link": true
+    },
+    {
+      "key": "baf7e74d1459c803",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 1 t siden",
+      "text": "For første gang? :p Blir spennende å se ikke bare om futures nå får rett (har de ikke vist lavere rater fremover i nesten hele år?), men spesielt hvor raskt eller sakte ratene synker/kollapser - normalt har vi jo ekstremt raske ratekorreksjoner, men *insert mer gnål om Sinokor here* :)",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 286,
+      "has_link": false
+    },
+    {
+      "key": "006cd4674bcbf25f",
+      "author": "tintinsoldat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tintinsoldat",
+      "posted_relative": "for 2 t siden",
+      "text": "· Desperasjon før valget. Etter valget gjeninnfører han sanksjonene.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 119,
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "491ed10237954446",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 3 t siden",
+      "text": "Okeanis Eco Tankers USD 3,16% (2,81) Førhandel kl. 10:18:26",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "f98b92b873a56388",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 2 t siden",
+      "text": "· Grymt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
       "has_link": false
     }
   ]

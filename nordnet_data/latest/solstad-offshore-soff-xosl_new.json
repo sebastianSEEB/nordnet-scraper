@@ -1,9 +1,23 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-10-16T07:39:31.705374+00:00",
+  "scraped_at": "2026-10-16T11:54:08.334142+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ea87a7a82eac93fd",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 43 min siden",
+      "text": "· SOMA eller SOFF Bli medlem av Nordnet Social for å gi din stemme Logg inn SOMA SOFF Ingen stemmer • 2 dager 23 timer igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

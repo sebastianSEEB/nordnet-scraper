@@ -1,9 +1,51 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-16T07:43:25.257629+00:00",
+  "scraped_at": "2026-10-16T11:58:02.499565+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "9a6e26cb9a7c41ab",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare sover tror jeg. Våkner nok når man minst aner det og da er det ofte litt for sent.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "c29d7fd09061b8de",
+      "author": "Avro nil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avro-nil",
+      "posted_relative": "for 1 t siden",
+      "text": "· Er den død?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    },
+    {
+      "key": "c0536b9b47b12b17",
+      "author": "zenbird",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zenbird",
+      "posted_relative": "for 47 min siden",
+      "text": "· laster inn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

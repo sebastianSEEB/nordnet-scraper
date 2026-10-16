@@ -1,9 +1,38 @@
 {
   "slug": "jinhui-shipping-transportation-jin-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/jinhui-shipping-transportation-jin-xosl",
-  "scraped_at": "2026-10-16T07:39:08.652574+00:00",
+  "scraped_at": "2026-10-16T11:53:45.672849+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "21fcf44ea217a9d1",
+      "author": "Skov 64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skov-64",
+      "posted_relative": "for 1 t siden",
+      "text": "· Min forventning til årets resultat etter det siste skipssalget er 35-40 mio usd. Hva tenker dere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "1e24b51874fc9f66",
+      "author": "Skov 64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skov-64",
+      "posted_relative": "for 55 min siden",
+      "text": "· Det svarer ca. til P/E på 2😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

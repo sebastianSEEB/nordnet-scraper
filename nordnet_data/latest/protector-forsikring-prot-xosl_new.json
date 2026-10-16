@@ -1,9 +1,25 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-16T07:40:33.215178+00:00",
+  "scraped_at": "2026-10-16T11:55:09.385888+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7c11b8cb569bffc2",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 t siden",
+      "text": "2Shesai _ er det fler Bjellesuer som lasta opp siste tiden ?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    }
+  ]
 }

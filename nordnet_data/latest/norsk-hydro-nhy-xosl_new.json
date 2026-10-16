@@ -1,9 +1,25 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-16T07:43:48.016139+00:00",
+  "scraped_at": "2026-10-16T11:58:26.291638+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "67de9778bf8639a4",
+      "author": "MrPoopenstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrpoopenstein",
+      "posted_relative": null,
+      "text": "12. okt. · Hvorfor ikke kjøpe ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

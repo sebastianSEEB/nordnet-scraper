@@ -1,39 +1,70 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-16T07:40:06.524719+00:00",
+  "scraped_at": "2026-10-16T11:54:42.612450+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "916609152c43bdf7",
-      "author": "Bellmann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
-      "posted_relative": "for 39 min siden",
-      "text": "Jeg tipper opp i dag, heller ikke så lenge til kvartal 3. da tror jeg det smeller videre opp.",
+      "key": "9b91a850144e72ac",
+      "author": "MissMami",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missmami",
+      "posted_relative": "for 2 t siden",
+      "text": "https://shortaksjer.netlify.app/ (Jeg husker ikke hvem som står bak - hvis noen andre gjør plis tag han- vedkomne fortjener cred-  dette er en side hvor noen legger ned mange hobby timer. Selv syns jeg den er interessant å browse.) Til deg som lagde den- takk! :D",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://shortaksjer.netlify.app/"
+      ],
+      "char_count": 263,
+      "has_link": true
+    },
+    {
+      "key": "a2254cdeb9ef5239",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 4 t siden",
+      "text": "Interessant vending i shorttallene for 14.10.  Både Arrowstreet og Citadel reduserte sine netto shortposisjoner med 250-300k aksjer hver. Særlig interessant er det at Arrowstreet reduserer da de i lange tider har vært den mest standhaftige og seiglivede shorteren av alle. De har stort sittet med uendrede posisjoner siden mars -26 men de siste ukene har de økt litt. På onsdag startet de en viss inndekning. Skal bli spennende å følge dette videre i dagene som kommer om det er starten på en varig inndekningsprosess. Omsetningen i aksjen er iallfall tilbake.........",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
         1
       ],
       "links": [],
-      "char_count": 93,
+      "char_count": 568,
       "has_link": false
     },
     {
-      "key": "f6b3956b5d8b6fa7",
-      "author": "Bellmann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
-      "posted_relative": "for 25 min siden",
-      "text": "Ryker 25, slett ikke umulig.",
+      "key": "e18e2618bc223802",
+      "author": "Bunnfisken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bunnfisken",
+      "posted_relative": "for 3 t siden",
+      "text": "Holder dette nivået i dag? Eller kommer duppen ned etter lunsj? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 28,
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "10b559b78136e420",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 28 min siden",
+      "text": "Alt bra så langt Høy 25,18 Lav 24,44 Omsetning  13,8 MNOK Antall 551 796",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
       "has_link": false
     }
   ]
