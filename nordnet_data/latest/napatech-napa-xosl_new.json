@@ -1,48 +1,50 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-16T11:55:55.307280+00:00",
+  "scraped_at": "2026-10-16T12:51:56.703881+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 8,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "d1fcfb836ee7db78",
-      "author": "Gallopp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gallopp",
-      "posted_relative": "for 1 t siden",
-      "text": "For dere som har fulgt Napatech en stund: d-Matrix bekrefter vel i større grad Napatechs relevans innen AI-datasentre enn mange kanskje hadde forventet for få år siden. Hvilke andre aktører mener dere kan være aktuelle kandidater for Napatech fremover dersom d-Matrix bare er starten? Tenker på selskaper som utvikler AI-akseleratorer eller annen infrastruktur for AI-datasentre, ikke nødvendigvis de tradisjonelle telekom- og nettverkskundene. Finnes det indikasjoner fra presentasjoner, partnerskap eller teknologivalg som peker mot andre potensielle kunder eller samarbeidspartnere? Interessant å høre hva dere som har fulgt selskapet lenge tenker.",
+      "key": "b44e56de7ce777f4",
+      "author": "Benjamin Aune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Min \"tese\" er at når D-matrix begynner å få ordre på deres Squadron så kan det komme litt action hos Napatech. Den er relativt nypubliser så her får vi bare være tålmodige! https://www.d-matrix.ai/announcements/squadron-compute-clusters/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 651,
-      "has_link": false
+      "links": [
+        "https://www.d-matrix.ai/announcements/squadron-compute-clusters/"
+      ],
+      "char_count": 265,
+      "has_link": true
     },
     {
-      "key": "926b9e09b43294a6",
-      "author": "A20",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
-      "posted_relative": "for 1 t siden",
-      "text": "Ikke stort med nyheter rundt denne casen, ABG  har en kurs på 87 i fra 26 August,  ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 84,
-      "has_link": false
-    },
-    {
-      "key": "e17ac48e94c40897",
+      "key": "bd83f135a1c38b06",
       "author": "sorrysoldout",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sorrysoldout",
-      "posted_relative": "for 4 t siden · Endret",
-      "text": "Sammenlignes med NVIDIA. Nå snakker vi",
+      "posted_relative": "for 47 min siden",
+      "text": "DNB Bjørnsen 65?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    },
+    {
+      "key": "7ddd030808f84f03",
+      "author": "vistien",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vistien",
+      "posted_relative": "for 6 min siden",
+      "text": "· neppe",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 38,
+      "char_count": 7,
       "has_link": false
     }
   ]

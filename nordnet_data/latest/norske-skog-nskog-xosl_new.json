@@ -1,22 +1,24 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-16T11:57:24.172672+00:00",
+  "scraped_at": "2026-10-16T12:53:26.311927+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "529797d38a91aaa2",
-      "author": "Skjorta",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skjorta",
-      "posted_relative": "for 22 min siden",
-      "text": "Mener du at NSKOG kan være en oppkjøpskandidat? Har Pareto nevnt noe om det?",
+      "key": "abc06920257680ba",
+      "author": "Arve P",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arve-p",
+      "posted_relative": null,
+      "text": "12. okt. Per i dag er P/B på 0,64, noe som fortsatt er veldig lavt, til tross for sterk kursoppgang hittil i år. Hvis kursen går til 70-80 kroner, kommer vi på et mer \"normalt\" P/B-nivå rundt 1, og jeg tror ikke det er urealistisk.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 76,
+      "char_count": 231,
       "has_link": false
     }
   ]

@@ -1,9 +1,23 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-10-16T11:59:19.574751+00:00",
+  "scraped_at": "2026-10-16T12:55:22.446762+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "268cfba8c00e5704",
+      "author": "norsemangrey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/norsemangrey",
+      "posted_relative": "for 10 min siden",
+      "text": "Lurer på det samme.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,58 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-16T11:56:57.591870+00:00",
+  "scraped_at": "2026-10-16T12:52:59.266316+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "950041d8c6dc2249",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 30 min siden",
+      "text": "https://www.intrafish.no/priser/uvar-i-nord-norge-og-sterkere-krone-slik-gar-det-med-prisene/2-1-2060007 Virker som prisene tikker sakte oppover👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.intrafish.no/priser/uvar-i-nord-norge-og-sterkere-krone-slik-gar-det-med-prisene/2-1-2060007"
+      ],
+      "char_count": 145,
+      "has_link": true
+    },
+    {
+      "key": "f858700556d2e001",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 23 min siden",
+      "text": "https://ilaks.no/prisloft-pa-industristorrelsene-men-stabilt-for-storlaksen/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://ilaks.no/prisloft-pa-industristorrelsene-men-stabilt-for-storlaksen/"
+      ],
+      "char_count": 76,
+      "has_link": true
+    },
+    {
+      "key": "5e1442d0df3eebe5",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": "for 26 min siden",
+      "text": "Utdrag fra Ilaks. – Det er oppgang i euro, men flat pris på norske kroner. Kunde og konsument betaler mer for fisken, sier en oppdretter. – 68-70 kroner på 3-5, 71-71,50 kroner på 5-6 og 78+ kroner på 6 + i Europa. På 6+ får du et eller annet på 80-tallet til Asia.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 265,
+      "has_link": false
+    }
+  ]
 }
