@@ -1,9 +1,38 @@
 {
   "slug": "sparebanken-more-morg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-more-morg-xosl",
-  "scraped_at": "2026-10-16T12:55:14.934701+00:00",
+  "scraped_at": "2026-10-16T17:09:07.289019+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0a840ee2ed2d5d8f",
+      "author": "cueclub",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cueclub",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvis en ikke tar ut pengene fra ASK blir det vel lavere skatt her? En får jo renters effekt av det også må jo betale skatt til slutt da, men av ett høyere beløp. I tillegg slipper en unna med 20% mindre formue skatt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 216,
+      "has_link": false
+    },
+    {
+      "key": "b0b38a1ccd646cdf",
+      "author": "ASAPNordnet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/asapnordnet",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Hvorfor detter denne så voldsomt ?  Nesten 15 % ned fra historisk topp.  Disse sparebanken går som et urverk.  Møre inkl Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    }
+  ]
 }

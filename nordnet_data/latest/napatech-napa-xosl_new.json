@@ -1,50 +1,57 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-16T12:51:56.703881+00:00",
+  "scraped_at": "2026-10-16T17:05:52.169075+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "b44e56de7ce777f4",
+      "key": "6b3c66c563b1496e",
       "author": "Benjamin Aune",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden Min \"tese\" er at når D-matrix begynner å få ordre på deres Squadron så kan det komme litt action hos Napatech. Den er relativt nypubliser så her får vi bare være tålmodige! https://www.d-matrix.ai/announcements/squadron-compute-clusters/",
+      "posted_relative": "for 4 t siden",
+      "text": "Min \"tese\" er at når D-matrix begynner å få ordre på deres Squadron så kan det komme litt action hos Napatech. Den er relativt nypubliser så her får vi bare være tålmodige! https://www.d-matrix.ai/announcements/squadron-compute-clusters/",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        6
+      ],
       "links": [
         "https://www.d-matrix.ai/announcements/squadron-compute-clusters/"
       ],
-      "char_count": 265,
+      "char_count": 237,
       "has_link": true
     },
     {
-      "key": "bd83f135a1c38b06",
-      "author": "sorrysoldout",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sorrysoldout",
-      "posted_relative": "for 47 min siden",
-      "text": "DNB Bjørnsen 65?",
-      "reply_count": 2,
+      "key": "efb3d01672c97976",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 6 t siden",
+      "text": "Ikke stort med nyheter rundt denne casen, ABG  har en kurs på 87 i fra 26 August,  ? Vis 1 kommentar til",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1,
+        4
+      ],
       "links": [],
-      "char_count": 16,
+      "char_count": 104,
       "has_link": false
     },
     {
-      "key": "7ddd030808f84f03",
-      "author": "vistien",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vistien",
-      "posted_relative": "for 6 min siden",
-      "text": "· neppe",
+      "key": "14b90532de3f75bb",
+      "author": "MissMami",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missmami",
+      "posted_relative": "for 3 t siden",
+      "text": "Napatech ble omtalt på børs og økonominyhetene (Finansavisen sin pod) i går. #Hockeykølle 😏😉🤓",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 7,
+      "char_count": 93,
       "has_link": false
     }
   ]

@@ -1,9 +1,41 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-16T12:56:50.537362+00:00",
+  "scraped_at": "2026-10-16T17:10:43.043772+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2c19c900cfe871f8",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 6 t siden",
+      "text": "Betryggende å se utviklingen i dag. Tror nok det vi har sett de siste dagene er noen som ville inn og har vært litt kreativ. Uansett takker jeg vedkommende for aksjene jeg kjøpte disse dagene:)  God helg, nå kan vi se frem til torsdag og alle dager før og etter det:) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        2
+      ],
+      "links": [],
+      "char_count": 287,
+      "has_link": false
+    },
+    {
+      "key": "cc4b0eed52b05963",
+      "author": "Isklump",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isklump",
+      "posted_relative": "for 2 t siden",
+      "text": "Blir helt klart spennende å se utviklingen neste uke inn mot rapport. God helg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }

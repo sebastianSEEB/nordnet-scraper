@@ -1,22 +1,40 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-16T12:53:10.897507+00:00",
+  "scraped_at": "2026-10-16T17:07:05.279116+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ab7b35a795140486",
-      "author": "austre",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/austre",
-      "posted_relative": "for 31 min siden · Endret",
-      "text": "Tja, ledelsen har allerede ordnet opp, kursen er opp 1.8 % i dag..",
+      "key": "a2f917702823f103",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": null,
+      "text": "12. okt. DnB øker fra 135kr til 140kr",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        24,
+        4
+      ],
       "links": [],
-      "char_count": 66,
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "9b66d2bb515443b0",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "12. okt. her sier Harto kjøøøøp",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 31,
       "has_link": false
     }
   ]
