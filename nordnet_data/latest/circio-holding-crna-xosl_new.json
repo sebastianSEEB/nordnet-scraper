@@ -1,112 +1,117 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-16T17:08:02.246980+00:00",
+  "scraped_at": "2026-10-16T20:18:00.040119+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 7,
   "posts": [
     {
-      "key": "446ca2f5209f3891",
+      "key": "0c31d634bf699d8c",
       "author": "MrSmile",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrsmile",
-      "posted_relative": "for 1 t siden",
-      "text": "· En virkelig god video om hva circio er, og hvor de er på vei, se den før naboen din 😊 https://youtu.be/wPDms7uBzU4?is=UHT7wGBnGLSTiMBG",
+      "posted_relative": "for 4 t siden",
+      "text": "· En virkelig god video om hva circio er, og hvor de er på vei, se den før naboen din 😊 https://youtu.be/wPDms7uBzU4?is=UHT7wGBnGLSTiMBG Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7,
-        1
+        13,
+        2
       ],
       "links": [
         "https://youtu.be/wPDms7uBzU4?is=UHT7wGBnGLSTiMBG"
       ],
-      "char_count": 136,
+      "char_count": 156,
       "has_link": true
     },
     {
-      "key": "51c00559e038a079",
+      "key": "0b14fd8e34a406a7",
       "author": "Hulten",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
-      "posted_relative": "for 2 t siden",
-      "text": "Circio – oppdatering om ssDNA-formater og mulige alternativer Jeg stilte nylig Lubor Gaal (CFO) et teknisk spørsmål om hvilke faktorer Circio vektlegger når de vurderer ulike ssDNA-formater til in vivo-programmet sitt. Legger ved skjermbilde av svaret. Lubor bekrefter at de undersøker flere kilder og typer enkelttrådet DNA (ssDNA). Han fremhever særlig to hovedkriterier: - Formatet må ikke utløse en sterk immunrespons. - Det må samtidig gi tilstrekkelig uttrykk av ønsket protein (payload). Produksjonsmetode, renhet og skalerbarhet er selvsagt også relevante faktorer, men ifølge svaret kommer immunogenisitet og uttrykk først i rekken.  Dybde og kontekst rundt partnere: Lubor presiserer at de undersøker flere kilder og typer ssDNA, men at ikke alle kan omtales offentlig av hensyn til en partner. Det er derfor mulig at det finnes alternativer eller testresultater vi ikke kjenner til. Mulige teknologier å følge med på: Full Circles’ C4DNA (sirkulært ssDNA via fage/M13-system) er allerede kjent gjennom deres offentlige samarbeid. Utover dette finnes det aktører som leverer enzymatisk, cellefri produksjon av ssDNA (både sirkulært og lineært) som teoretisk kan gi høyere renhet og lavere immunrespons.  Presisering: Moligo og 4basebio er kun mine egne faglige forslag til relevante teknologier i dette rommet som det kan være verdt å følge med på – dette er IKKE bekreftede Circio-partnere. Min vurdering: Det viktigste for Circio i denne fasen er ikke nødvendigvis hvilket format som gir absolutt høyest uttrykk isolert sett, men hvilken løsning som gir den beste kombinasjonen av lav immunaktivering, tilstrekkelig uttrykk og en praktisk, skalerbar produksjonsvei. Lubors svar bekrefter at en bred screening av ssDNA-formater pågår, men gir ingen informasjon om hvilken kandidat som presterer best så langt, eller om de har valgt en endelig løsning. Det blir interessant å se hva videre data viser. Vis 1 kommentar til",
-      "reply_count": 1,
+      "posted_relative": "for 41 min siden",
+      "text": "Circio – gjennomgang (Del 2/4): In vivo CAR-T og ssDNA 3. In vivo CAR-T – langvarig circVec-uttrykk i milten Dette er et av de mest interessante prekliniske resultatene i celleterapiprogrammet. Circio har vist langvarig circVec-uttrykk i milten hos mus etter intravenøs levering av DNA-vektorer formulert i T-cellesøkende lipidnanopartikler (LNP). Q4-presentasjonen viser signal ved alle tre testede doser: - 0,05 mg/kg - 0,10 mg/kg - 0,20 mg/kg Signalet var fortsatt til stede på dag 64, altså over to måneder etter dosering. Selskapet oppgir også at miltspesifikt circVec-uttrykk er bekreftet i over tre måneder. Den konvensjonelle mVec-kontrollen ga i den viste forsøksserien et kortvarig signal i milten ved høyeste dose, observert på dag 7. Dette støtter at circVec kan gi betydelig mer langvarig uttrykk etter ikke-viral levering enn den konvensjonelle kontrollvektoren. Men her er det viktig å skille mellom hva som faktisk er vist, og hva som fortsatt gjenstår. LNP-formuleringen var T-cellesøkende uten aktiv målretting, og kartleggingen av hvilke celletyper i milten som står for uttrykket, pågår fortsatt. Det er derfor ikke dokumentert gjennom disse resultatene at funksjonelle CAR-T-celler er produsert med samme varighet, eller at det er oppnådd behandlingseffekt mot kreft. Ledelsen omtaler et mulig uttrykksvindu på tre til seks måneder, og presentasjonen trekker frem potensialet for enda lengre varighet. Dette må ikke forveksles med dokumentert funksjonell CAR-T-effekt over tilsvarende tidsrom. Den neste viktige bekreftelsen blir etter min vurdering å vise langvarig uttrykk i identifiserte T-celler, etterfulgt av funksjonell CAR-aktivitet. 4. DNA-formater og leveringssystemer I BioHub forklarer Thomas at Circio undersøker flere ulike DNA-formater, blant annet enkelttrådet DNA (ssDNA), dobbelttrådet DNA (dsDNA), doggybone og nanoplasmider. Samtidig tester de forskjellige LNP-formuleringer og vurderer også alternative leveringssystemer utenfor LNP. Det betyr at utviklingsarbeidet omfatter flere komponenter som må fungere sammen: - Selve circVec-konstruksjonen. - DNA-formatet som bærer konstruksjonen. - Leveringssystemet som skal få DNA-et inn i de riktige cellene. Erik bekrefter i BioHub at selskapet samarbeider med biotekselskaper i både USA og Europa innen ssDNA-teknologi. Han nevner også at Circio, med den nye finansieringen, på sikt kan vurdere oppkjøp eller innlisensiering av komplementær teknologi. Full Circles Therapeutics og deres C4DNA er en offentlig kjent samarbeidspartner. Andre konkrete ssDNA-selskaper kan ikke identifiseres ut fra intervjuene. Dette passer også med svaret jeg nylig fikk fra Lubor Gaal på spørsmål om hvordan Circio vurderer DNA-formatene. Han bekreftet at de undersøker flere kilder og typer ssDNA, men at ikke alle kan omtales offentlig av hensyn til en partner. Han fremhevet at det viktigste først er å finne et DNA-format som ikke utløser en sterk immunrespons, samtidig som det gir tilstrekkelig uttrykk av det ønskede genet […avkuttet, sannsynlig parsingfeil]",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [
-        14,
         2
       ],
       "links": [],
-      "char_count": 1931,
+      "char_count": 3036,
       "has_link": false
     },
     {
-      "key": "a572089195fbb3dc",
-      "author": "A2Z",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a2z",
-      "posted_relative": "for 1 min siden · Endret",
-      "text": "De kommende dagene og ukene kan bli helt ville for Circio! Jeg tror toget snart kommer til å akselerere kraftig – og når det først setter fart, vil mange slite med å henge med. Fest setebeltene – toget kan snart gå! 🚂💥",
+      "key": "4567b3a4011b76d3",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 41 min siden",
+      "text": "Circio – gjennomgang av Q4-presentasjonen og de to siste intervjuene (Del 1/4) Har gått gjennom Circios nye selskapspresentasjon for Q4 2026 og intervjuene i The BioHub med Erik Wiklund og Thomas Hansen, samt What's Up Life Science? med Erik Wiklund. Mye er kjent fra tidligere presentasjoner, men intervjuene gir flere interessante presiseringer om teknologiutviklingen, samarbeidene og veien videre. 1. circVec 5.0 – potensial for over 200× genuttrykk I den nye presentasjonen viser Circio resultater fra to ulike designforbedringer, med henholdsvis omtrent 90× og 170× høyere genuttrykk enn konvensjonell mRNA-basert AAV i de aktuelle forsøkene. De nye elementene skal kombineres i circVec 5.0, med et potensial for over 200× høyere uttrykk. I BioHub-intervjuet omtaler Erik over 200× som vist in vivo. I det andre intervjuet er formuleringen mer forsiktig, og han forklarer at de arbeider med å kombinere de beste designelementene. Det er derfor fortsatt noe uklart om den endelige, kombinerte Gen 5-konstruksjonen allerede har demonstrert denne forbedringen, eller om tallet bygger på resultater fra separate optimaliseringer. Thomas bekrefter også at de ennå ikke har testet om de nye forbedringene gir tilsvarende effekt i CNS og øye. Dette blir interessant å få avklart gjennom videre data. 2. Hjerteprogrammet – fra høyere genuttrykk til behandlingseffekt Circio har vist opptil 40× høyere genuttrykk i hjertet med circVec-AAV sammenlignet med en konvensjonell mRNA-basert AAV. De har også vist betydelig økt uttrykk av det terapeutisk relevante proteinet LAMP2B, som er knyttet til Danons sykdom. I en annen analyse ble det målt 96× mer RNA i hjertevev, uten signifikant forskjell i antall vektorkopier mellom circVec og kontrollvektoren. Dette støtter at forbedringen skyldes selve genuttrykkssystemet, og ikke bare mer vektormateriale i vevet. Laboratoriebesøket i What's Up Life Science? viser at selskapet arbeider med flere terapeutiske gener og ulike circVec-design. Forskerne tester konstruksjonene i laboratoriet før de mest lovende variantene undersøkes videre i dyremodeller. Thomas forteller i BioHub at de har en kortliste over genetiske hjertesykdommer som kan være aktuelle for videre utvikling. De etablerer sykdomsmodeller hvor de ønsker å undersøke faktisk funksjonell forbedring, blant annet hjerterytme og venstre ventrikkels ejeksjonsfraksjon. Ledelsen forventer resultater fra enkelte sykdomsmodeller tidlig i 2027. Dette blir etter min mening en viktig milepæl. Høyere genuttrykk er positivt, men det avgjørende er om dette også kan gi bedre sykdomsutfall.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        8,
         3
       ],
       "links": [],
-      "char_count": 218,
+      "char_count": 2588,
       "has_link": false
     },
     {
-      "key": "620381794f51cb5d",
-      "author": "Retiro",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/retiro",
-      "posted_relative": "for 25 min siden · Endret",
-      "text": "I denne svært opplysende videoen lansert i dag sier Wiklund klart og tydelig at de ikke har noen globale konkurrenter innen sitt felt.  Jeg tror ikke markedet har forstått det ennå😅",
+      "key": "8a1f076faeea78af",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 5 t siden",
+      "text": "Circio – oppdatering om ssDNA-formater og mulige alternativer Jeg stilte nylig Lubor Gaal (CFO) et teknisk spørsmål om hvilke faktorer Circio vektlegger når de vurderer ulike ssDNA-formater til in vivo-programmet sitt. Legger ved skjermbilde av svaret. Lubor bekrefter at de undersøker flere kilder og typer enkelttrådet DNA (ssDNA). Han fremhever særlig to hovedkriterier: - Formatet må ikke utløse en sterk immunrespons. - Det må samtidig gi tilstrekkelig uttrykk av ønsket protein (payload). Produksjonsmetode, renhet og skalerbarhet er selvsagt også relevante faktorer, men ifølge svaret kommer immunogenisitet og uttrykk først i rekken.  Dybde og kontekst rundt partnere: Lubor presiserer at de undersøker flere kilder og typer ssDNA, men at ikke alle kan omtales offentlig av hensyn til en partner. Det er derfor mulig at det finnes alternativer eller testresultater vi ikke kjenner til. Mulige teknologier å følge med på: Full Circles’ C4DNA (sirkulært ssDNA via fage/M13-system) er allerede kjent gjennom deres offentlige samarbeid. Utover dette finnes det aktører som leverer enzymatisk, cellefri produksjon av ssDNA (både sirkulært og lineært) som teoretisk kan gi høyere renhet og lavere immunrespons.  Presisering: Moligo og 4basebio er kun mine egne faglige forslag til relevante teknologier i dette rommet som det kan være verdt å følge med på – dette er IKKE bekreftede Circio-partnere. Min vurdering: Det viktigste for Circio i denne fasen er ikke nødvendigvis hvilket format som gir absolutt høyest uttrykk isolert sett, men hvilken løsning som gir den beste kombinasjonen av lav immunaktivering, tilstrekkelig uttrykk og en praktisk, skalerbar produksjonsvei. Lubors svar bekrefter at en bred screening av ssDNA-formater pågår, men gir ingen informasjon om hvilken kandidat som presterer best så langt, eller om de har valgt en endelig løsning. Det blir interessant å se hva videre data viser.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        20,
+        4
+      ],
+      "links": [],
+      "char_count": 1911,
+      "has_link": false
+    },
+    {
+      "key": "3ef8138a08ff46a3",
+      "author": "egpml",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egpml",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg trur det kommer til å akselere noe voldsomt når de faktisk ser at dette fungerer vannvitig bedre. De store sitter nå å venter på bevis det, som mange andre ikke klarer. Se på filmen, en avslappet wiklund som er sikker",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 221,
+      "has_link": false
+    },
+    {
+      "key": "8390cc3b1c454d4d",
+      "author": "ahb1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ahb1",
+      "posted_relative": "for 3 t siden",
+      "text": "Husk at Aksjer kan gå opp og ned men aldri la moralen din svinge, hold dere ut det blir spennende framover",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 181,
+      "char_count": 106,
       "has_link": false
     },
     {
-      "key": "dcd7662c1845edaf",
-      "author": "Jon Hansen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jon-hansen",
+      "key": "c8ed6bb60396fc22",
+      "author": "hgsd300",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hgsd300",
       "posted_relative": "for 2 t siden",
-      "text": "Spennende aksje på sikt, er ofte drevet positivt av resultater eller nyheter",
+      "text": "Takk for deling.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 76,
-      "has_link": false
-    },
-    {
-      "key": "8ff5049960757697",
-      "author": "GreatReset",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/greatreset",
-      "posted_relative": "for 27 min siden",
-      "text": "4Basebio er partner fra 2025 de har også nå ssDNA syntetisk",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "711a1f3a2e912d0d",
-      "author": "Nordic semi investor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordic-semi-investor",
-      "posted_relative": "for 52 min siden",
-      "text": "Joda en del gjør det",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 20,
+      "char_count": 16,
       "has_link": false
     }
   ]

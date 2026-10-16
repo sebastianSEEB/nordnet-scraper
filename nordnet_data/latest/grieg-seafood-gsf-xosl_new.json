@@ -1,23 +1,28 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-10-16T17:06:34.546711+00:00",
+  "scraped_at": "2026-10-16T20:16:30.486418+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "2e496ce51a45b528",
-      "author": "Jadevadeja",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "key": "67540149d455fc5b",
+      "author": "carrlo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
       "posted_relative": null,
-      "text": "12. okt. Hjelper så lite når de ikke tjener penger på det. jeg tror denne blir flat eller negativ de neste uker og mnd.",
-      "reply_count": 2,
+      "text": "12. okt. GSF er nå den mest shortede aksjen på Oslo Børs: https://www.finansavisen.no/finans/2026/10/12/8386978/dette-er-de-mest-shortede-aksjene-pa-oslo-bors",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 119,
-      "has_link": false
+      "engagement_numbers": [
+        7,
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/12/8386978/dette-er-de-mest-shortede-aksjene-pa-oslo-bors"
+      ],
+      "char_count": 158,
+      "has_link": true
     }
   ]
 }

@@ -1,38 +1,40 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-16T17:04:54.178589+00:00",
+  "scraped_at": "2026-10-16T20:14:49.220201+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "ea4c8cf19d8f062f",
-      "author": "The Pmk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pmk",
-      "posted_relative": "for 2 t siden",
-      "text": "Ja, flott. Synd med nedgangen i går. Det måtte jo være en overreaksjon, deluxe.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 79,
-      "has_link": false
-    },
-    {
-      "key": "b1aa4355733fef42",
+      "key": "141b4961605afcac",
       "author": "Rattus",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rattus",
-      "posted_relative": "for 2 t siden",
-      "text": "Meget fornøyd med enda en uke med grønn kurs👌",
+      "posted_relative": "for 5 t siden",
+      "text": "Meget fornøyd med enda en uke med grønn kurs👌 Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "321ac791d7032a7f",
+      "author": "Divinesia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/divinesia",
+      "posted_relative": "for 2 t siden",
+      "text": "· Oljebevegelsen i kveld gir håp om en fin ny uke også.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 45,
+      "char_count": 55,
       "has_link": false
     }
   ]

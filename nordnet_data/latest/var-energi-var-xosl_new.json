@@ -1,52 +1,55 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-16T17:08:28.853929+00:00",
+  "scraped_at": "2026-10-16T20:18:28.324412+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "41705b1d63f8f666",
-      "author": "godgammel",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/godgammel",
-      "posted_relative": "for 3 t siden",
-      "text": "Innlegget er slettet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 21,
-      "has_link": false
-    },
-    {
-      "key": "de20915c73ab468b",
-      "author": "tesk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
-      "posted_relative": "for 4 t siden",
-      "text": "· ???",
+      "key": "d8831213e650aa25",
+      "author": "TORtheTYR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torthetyr",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er flere som tror på oppskalering av krigen mot Iran. Ser mange mene det er sannsynlig for nye angrep nå i helgen.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 5,
+      "char_count": 118,
       "has_link": false
     },
     {
-      "key": "0925cd499d98a1dd",
-      "author": "FatBobx",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fatbobx",
-      "posted_relative": "for 2 t siden",
-      "text": "· Ja🤑",
+      "key": "18214d4d6894d234",
+      "author": "Haraldisius",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/haraldisius",
+      "posted_relative": "for 1 t siden",
+      "text": "Nei, har gått litt inn og ut, men blir sittende videre. Er vel q4 vi får vite eventuelt ekstraordinært utbytte",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 5,
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "44e7b74525279cc0",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 3 t siden",
+      "text": "· Jesus olje flyr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 17,
       "has_link": false
     }
   ]

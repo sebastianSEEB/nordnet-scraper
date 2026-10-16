@@ -1,22 +1,39 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-16T17:08:13.559394+00:00",
+  "scraped_at": "2026-10-16T20:18:12.039249+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "e5896345fdfe4548",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "key": "df2ab91139d8444c",
+      "author": "sjokoladen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjokoladen",
       "posted_relative": "for 2 t siden",
-      "text": "Det er teknisk motstand på 374,1  Lite sannsynlig med overgang her før q3, men hvem vet.",
+      "text": "Oljeprisen bykser opp over 109 dollar https://www.dn.no/investor/nyhetsstudio/179642 Ser ut til at ikke alle tror på at Donald får ned oljeprisen. Vi for se om det blir videre oppgang for Aker Bp spå mandag💵🤑💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.dn.no/investor/nyhetsstudio/179642"
+      ],
+      "char_count": 209,
+      "has_link": true
+    },
+    {
+      "key": "721c31879b631798",
+      "author": "SlEmMiNg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/slemming",
+      "posted_relative": "for 2 t siden",
+      "text": "Er det noe fornuft i at 366 har vært tenkisk motstand en stund? Synes det har ramlet ned etter det de siste månedene.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 88,
+      "char_count": 117,
       "has_link": false
     }
   ]
