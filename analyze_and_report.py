@@ -25,6 +25,8 @@ NTFY_TOPIC = "Sebastian_Nordnet_Seeb"
 PENDING_PATH = "nordnet_data/latest/pending_for_claude.json"
 SEGMENTS_PATH = "maritime_segments.json"
 REPORT_PATH = "nordnet_data/latest/report.md"
+SIGNALS_PATH = "nordnet_data/signals.jsonl"  # maskinlesbar logg, brukes av Ripple
+SIGNALS_KEEP = 5000
 MODEL = "claude-sonnet-5"  # full nyansert klassifisering på tvers av mange aksjer
 
 # Billig grovfilter - portvakt FØR vi bruker et API-kall i det hele tatt.
@@ -83,8 +85,20 @@ Svar KUN med gyldig JSON på dette eksakte formatet, ingenting annet:
       "signal_strength": "Sterkt signal" eller "Signal" eller "Svakt signal",
       "reasoning": "1-2 setninger som begrunner vurderingen, med konkrete fakta (hvem, hva, tall)"
     }}
+  ],
+  "signals": [
+    {{
+      "slug": "nøyaktig slug fra input, f.eks. frontline-fro-xosl",
+      "sentiment": tall fra -1.0 (klart negativt) til 1.0 (klart positivt), 0 = nøytralt/blandet,
+      "signal_strength": "Sterkt signal" eller "Signal" eller "Svakt signal",
+      "summary": "Hovedsaken på maks 15 ord"
+    }}
   ]
 }}
+
+"signals" skal ha ÉN rad per aksje med nye innlegg som du klassifiserte som
+Positivt, Negativt eller Blandet (hopp over "Ingenting nevneverdig"). Den
+leses maskinelt av et annet program, så bruk slugen nøyaktig som i input.
 
 "alerts" skal være TOM LISTE hvis urgent er false. Hvis flere selskaper
 kvalifiserer, sorter listen med det VIKTIGSTE funnet først. "signal_strength"
@@ -159,6 +173,33 @@ def send_ntfy(body: str, title: str) -> None:
     print(f"ntfy svarte med HTTP {result.stdout}")
 
 
+def append_signals(signals: list, timestamp: str) -> None:
+    """Lagrer strukturerte sentiment-signaler (én JSON per linje) som Ripple
+    leser automatisk. Beholder kun de siste SIGNALS_KEEP linjene."""
+    rows = []
+    for s in signals:
+        try:
+            rows.append({
+                "analyzed_at": timestamp,
+                "slug": str(s["slug"]),
+                "sentiment": max(-1.0, min(1.0, float(s.get("sentiment", 0)))),
+                "signal_strength": s.get("signal_strength", "Signal"),
+                "summary": s.get("summary", ""),
+            })
+        except (KeyError, TypeError, ValueError):
+            continue
+    if not rows:
+        return
+    old = []
+    if os.path.exists(SIGNALS_PATH):
+        with open(SIGNALS_PATH, "r", encoding="utf-8") as f:
+            old = f.read().splitlines()
+    lines = old + [json.dumps(r, ensure_ascii=False) for r in rows]
+    with open(SIGNALS_PATH, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines[-SIGNALS_KEEP:]) + "\n")
+    print(f"La til {len(rows)} signaler i {SIGNALS_PATH}")
+
+
 def main():
     if not os.path.exists(PENDING_PATH):
         print("Ingen pending-fil funnet.")
@@ -202,6 +243,8 @@ def main():
     with open(REPORT_PATH, "w", encoding="utf-8") as f:
         f.write(f"# Nordnet-rapport ({timestamp})\n\n{result['report_markdown']}\n")
     print(f"Rapport skrevet til {REPORT_PATH}")
+
+    append_signals(result.get("signals") or [], timestamp)
 
     if result.get("urgent") and result.get("alerts"):
         n = len(result["alerts"])
