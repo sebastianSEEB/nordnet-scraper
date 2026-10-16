@@ -1,9 +1,40 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-16T02:10:21.691370+00:00",
+  "scraped_at": "2026-10-16T07:41:19.120716+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ff7592f12fe94d33",
+      "author": "Giskaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
+      "posted_relative": "for 24 min siden",
+      "text": "Jojo- svingstang. Oppe på 47-48+i løpet av neste uke?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "ae90301a550eea78",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 37 min siden",
+      "text": "Den skal nok nå ny topp notering før året er slutt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

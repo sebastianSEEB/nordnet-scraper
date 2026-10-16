@@ -1,9 +1,39 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-16T02:09:17.072039+00:00",
+  "scraped_at": "2026-10-16T07:40:17.853345+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "be7c3e7305fcc2f9",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 1 t siden",
+      "text": "Er spent på rapporten,  sist gang raste de 11% på en dag, og nå har de oppjustert guiding sin selv, noe som viser at Peter Nilsson er comfy, jeg har alltid kjøpt kitron, i q3 og q4 går du inn og ser på tekniske bilde så har den steget på disse rapporten hver gang, ikke en kjøpsanbefaling men synes den har tendenser til og vise seg syklisk f.eks. treff 94kr og så mot 100kr ned mot 94 tilbake til 104kr.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 404,
+      "has_link": false
+    },
+    {
+      "key": "3aba4fefcbc24a09",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 29 min siden",
+      "text": "· Har du hørt om tradere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-16T02:11:46.939842+00:00",
+  "scraped_at": "2026-10-16T07:42:39.363346+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cbfccc0fe1bed814",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.bangchak.co.th/en/newsroom/bangchak-news/2031/bangchak-group-okea-and-japex-explore-business-collaboration-opportunities",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.bangchak.co.th/en/newsroom/bangchak-news/2031/bangchak-group-okea-and-japex-explore-business-collaboration-opportunities"
+      ],
+      "char_count": 134,
+      "has_link": true
+    }
+  ]
 }

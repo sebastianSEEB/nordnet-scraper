@@ -1,9 +1,23 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-16T02:10:05.872297+00:00",
+  "scraped_at": "2026-10-16T07:41:03.668230+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6862a3714452bff4",
+      "author": "spurtus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurtus",
+      "posted_relative": "for 35 min siden",
+      "text": "Lurt! Opp i dag, håper vi ser litt stigning fremover nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

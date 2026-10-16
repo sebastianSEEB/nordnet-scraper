@@ -1,9 +1,40 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-16T02:11:18.341423+00:00",
+  "scraped_at": "2026-10-16T07:42:12.698209+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7eaf2077ea364779",
+      "author": "solb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solb",
+      "posted_relative": "for 11 min siden",
+      "text": "Full internasjonal pris. GKP og ShaMaran bekreftet begge samtidig. Come on DNO!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "c21bc78ca65f15c6",
+      "author": "Huskis56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
+      "posted_relative": "for 9 min siden",
+      "text": "Håper ikke det er flere humper i veien. Vi bør dompe fort over 22.00",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

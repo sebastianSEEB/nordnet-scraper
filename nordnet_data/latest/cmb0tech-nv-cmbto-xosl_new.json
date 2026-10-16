@@ -1,9 +1,52 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-10-16T02:08:45.058871+00:00",
+  "scraped_at": "2026-10-16T07:39:47.149845+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "de61e37df0ba65ed",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 33 min siden · Endret",
+      "text": "3 månaders avkasting radert bort på 3 dager… er det virkelig så ille må være en kraftig overreaksjon.. ja Baltic dry er ned mye men bulk er jo spåd lyse tider fremover.. og tank er krut sterkt.. + en del deals som closer nå i q4 og med den potensielle kjempe dealen på di 4 vlcc som ligger og ulmer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 298,
+      "has_link": false
+    },
+    {
+      "key": "a20f09c5bbeb1cfe",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Sterkt undervurdert nå. Kjøper med begge hender.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "2812c8e5d757f3dc",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 17 min siden",
+      "text": "Det var nok en korreksjon men gi det litt tid så er vi back on track",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

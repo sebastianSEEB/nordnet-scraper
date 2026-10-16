@@ -1,9 +1,41 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-16T02:13:15.993314+00:00",
+  "scraped_at": "2026-10-16T07:44:03.520608+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1efdc3c5fe50979b",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 36 min siden · Endret",
+      "text": "Aksjen utløste et kjøpssignal på økende volum ved bruddet opp gjennom motstanden ved 94.30 kroner i en dobbel-bunn-formasjon. En videre oppgang til 98+ kroner eller mer indikeres. Ikke rart når Orkla skal kjøpe tilbake egne aksjer for 4 milliarder kroner!! A no brainer!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 270,
+      "has_link": false
+    },
+    {
+      "key": "8a83aeeb7f7f8aa7",
+      "author": "Gexte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gexte",
+      "posted_relative": "for 21 min siden",
+      "text": "Stemmer, det går opp og ned viser min analyse og",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

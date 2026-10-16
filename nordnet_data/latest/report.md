@@ -1,89 +1,93 @@
-# Nordnet-rapport (2026-10-12T06:52:37.151916+00:00)
+# Nordnet-rapport (2026-10-16T07:47:53.755968+00:00)
 
-# Nordnet Aksjeforum - Signalrapport
+# Daglig sentimentrapport – maritime aksjer og øvrige Oslo Børs-selskaper
 
-## Shipping - Tank (råolje)
+## TANK RÅOLJE
 
-### Frontline (FRO) - Blandet/Positivt signal
-Omfattende diskusjon om eskalerende Hormuz-krise: Iransk revolusjonsgarde hevder å ha angrepet LPG-skipet NV Sunshine og en VLCC har eksplodert etter å ha truffet en mine i Hormuzstredet (11. okt, bekreftet av finansavisen.no/Reuters). IRGC hevder nå kontroll over stredet og varsler angrep på "uautoriserte" fartøy. Parallelt meldes om angrep mot flyplass i Saudi-Arabia og mulig orkan-bortfall i Mexicogulfen (ubekreftet/spekulativt fra enkeltbruker). VLCC-rater er ifølge Bloomberg oppe i ca. 80 mill USD - dyrere enn en SpaceX-oppskyting. Teknisk omtales RSI rundt 75 (overkjøpt), kursmål 560-600 kr nevnt av forumbruker. DHT guider Q4 neste uke - relevant som bransjeindikator. Ceasefire-signaler (energi) mellom Russland/Ukraina og Trump-uttalelser om russisk diesel skaper usikkerhet om oljepris fremover.
+### Frontline (FRO) – Blandet (sterkt volatil)
+Ekstrem volatilitet denne perioden. VLCC-rater har vært på rekordnivåer (opp mot 1,4 mill USD/dag i Midtøsten-bukta ifølge TradeWinds), og Front Gander ble fixed til svært høye rater (803-997k USD/dag i ulike meldinger). Samtidig kom et kraftig fall i tankaksjer drevet av: (1) rykter om at USA vurderer sanksjonslettelser for "skyggeflåten" for å dempe rekordhøye fraktrater (bekreftet av Infront TDN Direkt-melding: Frontline, OET og Capital Tankers falt hhv. 3,3%, 2,3% og 2,8%), (2) FFA-fall indikert på 7-11% for nærtid, og (3) generell markedsuro (US CPI, rentefrykt). Kpler-analyse nevnt i forumet antyder at kun ~24 av 160 sanksjonerte skip realistisk kan returnere til markedet, og at "sanksjonslettelse vil gjøre lite for å lette rekordrater" siden krisen hovedsakelig skyldes krigsrisiko i Midtøsten, ikke skipsmangel. Iran har eskalert angrep i Hormuz-stredet (flere skip angrepet, inkl. containerskip som sank). Oljepris stiger på sterk etterspørsel (EIA-lagerfall på -8,557 mill fat, mye over forventet).
 
-### Okeanis Eco Tankers (OET) - Positivt signal
-Samme Hormuz-eskalering som FRO (delt eksponering, tank_raaolje-segment). Diskusjon om fallhøyde ved normalisering - aksjen er priset for vedvarende høye rater. Økt behov for villige redere i Arabiske gulf nevnt (TankerTrackers-lenke).
+### Okeanis Eco Tankers (OET) – Positivt signal
+Samme kryssegment-dynamikk som FRO. Svært sterke TCE-rater rapportert (Nissos Kea 750k faktisk; rater generelt over 1,3 mill WS for AG/Kina-ruten). DHT nevnt med spot-skip til 500k+ for Q4, og det spekuleres i enda høyere for OET sine VLCC-er (700k+). Falt også i sympati med sektorfallet rundt skyggeflåte-nyheten, men presentert som kjøpsmulighet av flere («Buy the dip»-kommentarer, TJ INVEST kjøpte mer). Ingen konkrete negative selskapsspesifikke nyheter.
 
-### Hunter Group (HUNT) - Positivt signal
-Flere bekreftede hendelser: VLCC truffet av mine i Hormuzstredet (11. okt), mulig nytt angrep på tanker utenfor UAE, rettssak Mercuria vs Baltic Exchange starter 26. oktober (15 dager). Detaljert scenario-analyse fra bruker: kursmål 22-40 kr avhengig av utfall på rater/tvist/ny forretningsmodell. Egenkapital anslått til over 1 mrd ved årsslutt.
+## TANK PRODUKT/KJEMIKALIER
 
-### Hafnia (HAFNI) - Blandet signal
-Baltic Exchange-data: LR2-rater fortsatt svært sterke (TC1 ~267.600 USD/dag, TC20 ~281.800 USD/dag), men MR-markedet svekkes kraftig (Atlantic MR Basket ned fra 64.200 til 46.300 USD/dag). Blandet bilde mellom segmentene.
+### Hafnia (HAFNI) – Blandet
+LR2-ratene fortsatt ekstremt høye (TC1 Midtøsten-Japan 267-281k USD/dag), men Atlanterhavs-MR-ratene har falt kraftig (TC14 USA-Europa ned 37%, TC21 ned 48%). IEA-rapport viser at dieseleksport fra Midtøsten/Russland falt 1,3 mill fat/dag i september, med raffineringsmarginer nær 95 USD/fat - potensielt positivt for lengre transportruter. Samme sanksjonslettelse-usikkerhet som i råoljesegmentet presser sentimentet negativt kortsiktig.
 
-### BW LPG - Positivt signal (med risiko)
-LPG-skipet NV Sunshine (tidligere BW-eid) angrepet i Hormuz-regionen. Sterke rater: BLPG1 (Ras Tanura-Chiba) 265 USD/tonn (+8,1%), TCE 258.182 USD/dag (+8,5%); BLPG3 (Houston-Chiba) 344,71 USD/tonn, TCE 214.030 USD/dag. Amerikansk propaneksport +47,6% uke-over-uke. Advarsel fra bruker om 31% av flåten i nybestillinger - fallhøyde ved normalisering.
+### Stolt-Nielsen (SNI) – Ingenting nevneverdig
+Ett forumintstup fremhever selskapet som "glemt" tankrederi med oppside fra sterke kjemikalierater, men ingen konkrete nye analytiker- eller resultatnyheter denne perioden.
 
-### Klaveness Combination Carriers (KCC) - Positivt signal
-ABG Sundal Collier oppjusterer kursmål til 122 kr fra 115 kr (fredag), gjentar kjøp. Oppjusterer EBITDA-estimater 2026-2028 med hhv. 6%, 17%, 15%. Q3-estimat 5% over konsensus.
+## GASS
 
-### Capital Tankers Corp (CAPT) - Sterkt positivt signal
-SB1 Markets oppjusterer kursmål kraftig fra 200 til 280 kroner (onsdag), gjentar kjøp. EBITDA-estimater 2026/2027 oppjustert med hhv. 39% og 19%, ligger 41%/19% over konsensus. Viser til stramt tankmarked, handles med 30%+ rabatt til NAV.
+### BW LPG (BWLPG) – Blandet
+VLGC-rater fortsatt sterke (BLPG1/BLPG3 opp 7-8% i siste ukesrapport, propaneksport fra USA opp 47,6% uke-over-uke). Men kraftig kursfall samtidig med resten av tanksektoren pga. skyggeflåte-sanksjonsnyheten. Iran skal ha angrepet LPG-skipet NV Sunshine (tidligere BW-skip) nær Oman - øker sikkerhetsrisiko i regionen. Betydelig nybyggingsaktivitet (31% av flåten i nye bestillinger) nevnt som langsiktig bekymring for overkapasitet.
 
-## Tørrbulk
+### ALNG (ALNG) – Svakt positivt signal
+Onarheim (innsider) kjøpte 1,7 mill aksjer og CCO kjøpte 371k aksjer etter emisjon, nær dagens kurs - tolkes positivt av forumet. Trading-desk-satsing fremheves som mulig kurstrigger ved første handel ventet mot slutten av året.
 
-### 2020 Bulkers - Ingenting nevneverdig (transformasjon bort fra bulk)
-Selskapet har gjennomført oppkjøp av Anchor Australia og beveger seg mot AHTS/offshore-case, bort fra tradisjonell tørrbulk-eksponering.
+### Klaveness Combination Carriers (KCC) – Positivt signal
+ABG Sundal Collier oppjusterte kursmål til 122 kr (fra 115) med gjentatt kjøp, og hevet EBITDA-estimater for 2026-2028 med hhv. 6%, 17% og 15% grunnet høyere forventede tankrater. Q3-TCE kom innenfor/i øvre del av guiding (36 116 USD/dag flåtesnitt). Kursfall senere i perioden forklares med smitte fra svakere capesize-rater i tørrbulk (falt 9,1% på én dag), ikke selskapsspesifikke forhold.
 
-### Himalaya Shipping / CMB.TECH - Positivt signal
-Shippinganalytiker Eirik Haavaldsen (Pareto, kåret beste shippinganalytiker 2025) trekker frem begge som favoritter i podkast, med CMB.TECH som øverste valg hvis kun én aksje. Kvalifisert analytiker-omtale, men ingen konkret kurstrigger.
+## TØRRBULK
 
-### Jinhui Shipping - Ingenting nevneverdig
-Kun regnskapstekniske kommentarer om urealiserte tap i Q3 på finansplasseringer.
+### 2020 Bulkers (2020) – Ingenting nevneverdig (strukturell endring)
+Selskapet gjennomgår større omorganisering til offshore/AHTS-fokus med kapitalinnhenting; nye aksjer («2020T») handles midlertidig unotert på Euronext NOTC til ca. 3,20-3,40 kr mens gamle aksjer handles på Oslo Børs rundt 6 kr. Ren strukturell/teknisk sak, ikke markedssignal.
 
-## Bilfrakt/RoRo
+### Himalaya Shipping (HSHP) – Negativt signal
+FFA for okt/nov ned ca. 30% uten tilsvarende kursfall ennå - forumet venter ytterligere nedgang. Spotrater falt til under 37 000 USD i oktober. Noen peker på sterke strukturelle forhold (lite nybygg før 2030, eldre flåte som skal på docking) som langsiktig positivt, men kortsiktig sentiment er svakt.
 
-### Wallenius Wilhelmsen (WAWI) - Blandet signal
-Flere profilerte investorer (Arne Fredly, Øystein Stray Spetalen, Ketil Skorstad, Magnus Halvorsen, Snorre Erik Øverland) har tatt nye posisjoner ifølge Finansavisens Bjellesau-oversikt. Samtidig gjennomført rettet emisjon på ca. 3 mrd NOK - kursen falt markant ved kunngjøring. EU forbereder begrensninger på import av kinesiske hybridbiler - negativt for hele bilfrakt-segmentet.
+### Jinhui Shipping (JIN) – Svakt positivt signal
+Selskapet solgte et 2007-bygget supramax-skip for over 14,5 mill USD mot bokført verdi på ~8 mill USD - betydelig gevinst som indikerer at bokførte skipsverdier er lave i forhold til markedsverdi. Fire søsterskip nevnt med tilsvarende skjult merverdi. Dog pekes det på at gevinster historisk ikke har tilfalt aksjonærene direkte.
 
-### Höegh Autoliners (HAUTO) - Negativt signal (kryssegment-effekt)
-Falt kraftig samtidig med WAWI ved emisjonskunngjøring 7. okt, uten egen åpenbar årsak - sannsynlig smitteeffekt fra segmentet. EU-tiltak mot kinesisk bileksport (hybridbiler) er en direkte negativ kryssegment-driver for hele RoRo-segmentet.
+## CONTAINER
 
-## Offshore/spesialisert
+### MPC Container Ships (MPCC) – Positivt signal
+TradeWinds-artikkel bekrefter sterkt fraktmarked: MPCC kjøpte feederskipet Nordmaas for 35 mill USD (over referanseverdier), og AS Carolina sikret 3-årskontrakt med OOCL til ~30 000 USD/dag (gjenspeiler vedvarende mangel på tonnasje). New Contex-indeksen satte sin 53. årsrekord på rad. Short-andelen er lav (0,72%) og uendret i over 4,5 måneder - unormalt lenge ifølge erfaren forumbruker. Containerskip sank i Hormuz-stredet (GFS Pride), men MPCC har ingen skip i området ifølge forumet, så kursfallet virker makrodrevet (sammen med generelt tanksektorfall og US CPI-overraskelse).
 
-### Solstad Offshore (SOFF) - Positivt signal
-SOFF kjøper Normand Maximus fra Solstad Maritime (SOMA) - konkret transaksjon innad i konsernet.
+## BILFRAKT/RORO
 
-### Capital Tankers - se tank-seksjon over.
+### Høegh Autoliners (HAUTO) – Positivt signal
+Nordea hevet kursmål til 210 kr (fra 190) med gjentatt kjøp. September-handelsoppdatering viste stabile volum/rater i Q3 (brutto fraktrate 99,0 USD/cbm, +0,2% vs. Q2-snitt). Noe press fra forhøyede kostnader knyttet til Midtøsten-tjeneste.
 
-## Kryssegment-funn
+### Wallenius Wilhelmsen (WAWI) – Sterkt positivt signal
+Nordea hevet kursmål kraftig til 200 kr (fra 171) med gjentatt kjøp. Flere kjente norske investorer (Arne Fredly, Øystein Stray Spetalen, Ketil Skorstad, Magnus Halvorsen, Snorre Erik Øverland via Trapesa) har tatt nye/økte posisjoner ifølge Finansavisens Bjellesau-oversikt. Spetalen skal imidlertid ha solgt 79,19% av sin posisjon kort tid etter. EU vurderer toll på kinesiske hybridbiler - kan påvirke hele segmentet negativt på sikt siden WAWI er avhengig av kinesisk bileksportvolum (jf. kryssegment-analyse under).
 
-**Hormuz-eskalering (urgent-vurdert):** Flere bekreftede hendelser helgen 10.-11. oktober: (1) LPG-skipet NV Sunshine angrepet av iransk revolusjonsgarde i Hormuz-regionen, (2) VLCC eksploderte etter minetreff i Hormuzstredet (bekreftet av finansavisen.no), (3) IRGC erklærer kontroll over stredet og varsler angrep på uautoriserte fartøy, (4) rapportert angrep på flyplass i Saudi-Arabia. Dette er en klassisk kryssegment-hendelse som rammer både råoljetank (FRO, OET, HUNT) og LPG/gass (BW LPG) direkte gjennom høyere rater og økt risikopremie. VLCC-rater er allerede på historisk høye nivåer (~80 mill USD for en US-Kina reise). Samtidig skaper Trump/Putin-diesel-avtale og mulig energi-ceasefire Ukraina/Russland motstridende signaler for oljepris fremover - stor usikkerhet om retning inn i uke 42.
+### Wilh. Wilhelmsen Holding (WWI/WWIB) – Ingenting nevneverdig
+Ingen nye innlegg denne runden, men gitt tett korrelasjon med WAWI (jf. segment-notat) er Nordeas oppgradering og EU-tollfrykten trolig relevant også her.
 
-**EU-tiltak mot kinesisk bileksport:** Rammer hele bilfrakt/RoRo-segmentet (HAUTO, WAWI, WWI, WWIB) samtidig - bekreftet av forumbrukere som årsak til kursfall 7. oktober.
+## OFFSHORE SPESIALISERT
 
-## Andre selskaper med nevneverdige funn
+### Solstad Offshore (SOFF) – Positivt signal
+Aksjen i stigende trendkanal, teknisk kjøpssignal fra Investtech. Ingen konkrete fundamentale nyheter, men positivt sentiment.
 
-**Hexagon Composites (HEX):** Fortsatt omtalt som gjenopprettingscase med hevet EBITDA-guiding for 2026 (~300 MNOK) og rekordordre innen Mobile Pipeline knyttet til datasenter-energiforsyning.
+### CMB.TECH (CMBTO) – Blandet/volatilt
+Solgte Suezmax-tanker «Stella» (2011) med gevinst på 59,6 mill USD, og solgte capesize-bulker «Golden Myrtalia» for 40 mill USD. Pareto estimerer H2-DPS på nesten 1,7 USD/aksje (8% av aksjekurs) og ser NAV på ~260 NOK/aksje (0,77x). Samtidig falt aksjen kraftig (6-8%) samme dag pga. kombinasjon av kraftig capesize-ratefall (BDI ned 4,78% til 2667, Capesize ned 9,1% til 3630) og forventet ex-dag-effekt. Rykter om at Bruton har solgt hele VLCC-flåten sin, ventet å gi nyhetseffekt for CMBTO også.
 
-**Kongsberg Maritime (KMAR):** Arctic Securities (analytiker Lukas Daul) gjentar kjøp med kursmål opprettholdt, viser til rekordhøy ordrereserve på 28,4 mrd kr og global nybyggsyklus opp 36-60%. SB1 Markets-forvalter (Alphaspar) trekker også frem selskapet positivt i Finansavisen-artikkel.
+### Western Bulk Chartering (WEST) – Positivt signal
+Q3 2026-utbytte erklært: 1,39 NOK/aksje, totalt 4,9 mill USD - første nevneverdige utbytte på lenge (sist rimelig utbytte var Q4 2022). CEO Torbjørn Gjervik melder om «svært positiv momentum» og forventer styrkede resultater videre i året.
 
-**Kongsberg Gruppen (KOG):** Mulig stor droneordre fra Polen under forhandling (USV-fartøy), ifølge Pareto. Norsk delegasjon med KOG-sjef Eirik Lie deltar på sikkerhetskonferanse i Warszawa.
+### Capital Tankers Corp (CAPT) – Positivt signal
+Falt i sympati med resten av tanksektoren på skyggeflåte-nyheten (ned 2,8%), men kjøpsinteresse fremheves pga. eksponering mot nye VLCC-er under bygging/levering. Rykter om at Bruton selger VLCC-flåte til rekordpriser nevnes som mulig katalysator for lignende verdsettelse av CAPT sin flåte.
 
-**Aker Solutions (AKSO):** Ny kontrakt med Hafslund Kraft innen vannkraft (mindre, men positiv diversifisering) og ny offshore vind-studiekontrakt i Canada (Nova Scotia) gjennom Entr.
+---
 
-**DNB:** Kostnadsgrad økt fra 32% til over 40% siden 2024 ifølge kritisk forumbruker. ~400 årsverk kuttes (bekreftet), gir engangskostnad i Q4 men forventet lavere kostnader fremover. Pareto oppjusterer kursmål til 350 fra 320, gjentar kjøp.
+## KRYSSEGMENT-OBSERVASJONER
 
-**Akastor (AKAST):** Arctic Securities (Lukas Daul) gjentar kjøp med kursmål 19 kr, estimerer NAV over 20 kr mot børskurs 13,28 kr (~35% rabatt). Mottatt 57,4 mill USD utbytte fra NES Fircroft.
+**Hormuz/Midtøsten-eskalering** er den dominerende kryssegment-driveren denne perioden. Iran har trappet opp angrep på skip i Hormuz-stredet (rekordhøyt antall angrep på én dag ifølge NRK, containerskip sunket), noe som driver råoljetank-rater til uhørte nivåer (VLCC opptil 1,4 mill USD/dag), men påvirker også gass (LPG-skip angrepet) og indirekte produkttank. Samtidig kom en kraftig motvind fra nyheten om at USA vurderer å lette sanksjoner mot «skyggeflåten» for å dempe rekordratene - dette rammet FRO, OET og CAPT samtidig (bekreftet i Infront TDN Direkt-melding), og spredte seg til hele tanksektoren. Kpler-analyse tyder på at effekten av en slik lettelse vil være begrenset (kun ~24 skip reelt tilgjengelige), noe som gir støtte til at dagens rallynivåer kan vedvare.
 
-**Moreld (MORLD):** SB1 Markets (Erik Aspen Fosså) gjentar kjøp med kursmål 30 kr, ser 75% sannsynlighet for å vinne Venus-kontrakt i Namibia (potensielt 10-12 mrd kr, kan løfte EBITDA 30-40%).
+**Bilfrakt/RoRo-segmentet** fikk samtidig oppgradering fra Nordea for både HAUTO og WAWI samme dag - et tydelig tegn på at meglerhuset er positive til hele segmentet, ikke bare enkeltselskap. Samtidig henger en mulig EU-toll på kinesiske hybridbiler som et bakteppe-risikomoment for hele RoRo-segmentet siden kinesisk bileksport er en nøkkeldriver.
 
-**Nykode Therapeutics (NYKD):** Moderna opp 12% på nyheter om mulig nasjonal kreftvaksinesatsing i USA - potensiell positiv smitteeffekt for Nykode som partner/sammenlignbart selskap.
+**Tørrbulk** fikk et bredt ratefall (Capesize -9,1% på én dag, BDI ned til 2667) som smittet over på flere aksjer utenfor rent tørrbulk-segmentet også, bl.a. KCC (kombinasjonsskip) og CMBTO (diversifisert flåte med tørrbulk-eksponering).
 
-**TGS:** Lavere flåteutnyttelse enn ventet i Q3 pga. driftsproblemer i Nordsjøen, men kontraktsarbeid økte fra 19% (Q2) til 53% (Q3) og fullbooket i Q4.
+---
 
-**Norske Skog (NSKOG):** Positiv på investering i PM06-maskin for emballasjepapir/avansert papp, samt mulig datalagringssenter på tomt - Pareto kursmål 70 kr nevnt.
+## ØVRIGE SELSKAPER AV INTERESSE
 
-**Elkem (ELK):** ABG Sundal Collier øker kursmål til 40 kr fra 36 kr, gjentar kjøp.
-
-**Vend Marketplaces (VEND):** Pareto mener markedet priser inn 54% sannsynlighet for "AI-kollaps"-scenario, men ser dette som for pessimistisk. Nordea har nedgradert fra kjøp til salg.
-
-## Oppsummering
-Hovedbildet denne perioden domineres av eskalerende Hormuz-konflikt som skaper betydelig oppside-momentum for råoljetank- og gass-segmentene, samtidig som geopolitisk usikkerhet (Trump/Putin-diesel, mulig ceasefire) skaper motstridende signaler for oljepris fremover. Flere konkrete analytiker-oppgraderinger (CAPT, KCC, DNB, Akastor, Elkem, Moreld) gir positive signaler for enkeltaksjer. Bilfrakt-segmentet rammes negativt av EU-tiltak mot kinesisk bileksport.
+- **Kongsberg Gruppen (KOG)**: Sterkt positivt sentiment. Ny fabrikk i Polen (SAN-luftvernsystem, ~16 mrd kr kontrakt), Nordea hevet kursmål til 400 (fra 387), Arctic Securities spår syvdobling av resultat innen 2035 med kursmål 400. Tsjekkia vurderer samme antidrone-system som Polen (potensielt 2,7-5,3 mrd kr i tillegg ifølge Pareto).
+- **DNO**: Sterk Q3-produksjonsoppdatering slo analytikerestimater (143 kbd total, 7% over estimat), Pareto gjentok kjøp med kursmål 25 kr. Irak har startet betaling av etterslepsbeløp til internasjonale oljeselskaper (IOC-er) - positivt signal for hele Kurdistan-eksponerte selskaper.
+- **Vend Marketplaces**: Flere kjente investorer (Stordalen, Midelfart, Steensland) kjøpte aggressivt etter kursfall. Mulig krav på 10+ mrd kr fra Google-søksmål via Prisjakt.
+- **Norwegian Air Shuttle (NAS)**: John Fredriksen/Geveran har kjøpt aksjer aggressivt i oktober (5,5 mill aksjer totalt), men kursen har likevel falt - tolkes som tegn på sterkt underliggende salgspress.
+- **Norbit (NORBT)**: AlphaSpar fremhever som undervurdert med spesielt fokus på forsvar/subsea. Ny leveranse til colombianske DIMAR.
 
 Dette er en signalrapport basert på forumaktivitet, ikke en kjøps- eller salgsanbefaling.
