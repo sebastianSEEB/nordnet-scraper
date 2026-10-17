@@ -1,9 +1,27 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-10-16T23:07:38.432897+00:00",
+  "scraped_at": "2026-10-17T02:01:53.622600+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "226cdaa1fe427a0e",
+      "author": "Calvat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/calvat",
+      "posted_relative": null,
+      "text": "13. okt. · https://open.spotify.com/podcast-chapter/0eVigvHOrzOhhAmslbdpZi?si=JpvngTl-SgmKYwx3MnBOqQ&utm_source=copy-link",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://open.spotify.com/podcast-chapter/0eVigvHOrzOhhAmslbdpZi?si=JpvngTl-SgmKYwx3MnBOqQ&utm_source=copy-link"
+      ],
+      "char_count": 121,
+      "has_link": true
+    }
+  ]
 }
