@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-17T14:37:48.656368+00:00",
+  "scraped_at": "2026-10-17T17:37:41.696427+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0216b312c6105f8c",
+      "author": "StaaleD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/staaled",
+      "posted_relative": "for 12 t siden",
+      "text": "God morgen Noen som har sett noen nærmere dato for når aksjene konverteres til Vår aksjer, eneste jeg finner er at det skal skje mot slutten av 2026 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "3f68896baeaa7fb5",
+      "author": "Eirik1992",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eirik1992",
+      "posted_relative": "for 2 t siden",
+      "text": "Så du mener at resultatet til et selskap som skal inn i vår energi ikke er relevant? Interressant",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

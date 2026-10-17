@@ -1,9 +1,36 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-10-17T14:41:36.294759+00:00",
+  "scraped_at": "2026-10-17T17:41:25.909647+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b3370ced9f2c1e59",
+      "author": "kal--el",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
+      "posted_relative": "for 2 t siden",
+      "text": "Skal vi se...Krystal kulen min sier litt ned på mandag og opp senere i uken..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "c28ac10a99a97d40",
+      "author": "InnlandsOter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/innlandsoter",
+      "posted_relative": "for 1 t siden",
+      "text": "· Gratulerer, du blir en storspiller på no-time nå😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }
