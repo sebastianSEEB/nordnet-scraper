@@ -1,9 +1,25 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-17T17:43:48.419708+00:00",
+  "scraped_at": "2026-10-17T19:56:29.853313+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "20abe46398e3170b",
+      "author": "caddy2010",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/caddy2010",
+      "posted_relative": null,
+      "text": "13. okt. · Samme her, fekk handlet på 3,10😇",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

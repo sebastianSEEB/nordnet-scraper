@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-17T17:44:00.162322+00:00",
+  "scraped_at": "2026-10-17T19:56:42.015336+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "13890b26d1d77ebb",
+      "author": "denada lol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/denada-lol",
+      "posted_relative": "for 1 t siden",
+      "text": "En kjent aksjonær i KOA pleier å si følgende: «matematikken stemmer til slutt».  Det er tilfellet med en hver aktiva - bortsett fra bitcoin og Tesla. Så - matematikken vil stemme til slutt for KOA og - det er bare spørsmål om tid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 230,
+      "has_link": false
+    }
+  ]
 }

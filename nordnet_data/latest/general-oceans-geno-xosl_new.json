@@ -1,9 +1,23 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-17T17:43:02.461355+00:00",
+  "scraped_at": "2026-10-17T19:55:43.365951+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4830b31045cf0e7f",
+      "author": "Oxion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
+      "posted_relative": "for 17 min siden",
+      "text": "Kongsberg integrerer Norteks Doppler Velocity Log (DVL) i navigasjonssystemene på HUGIN-farkostene. En DVL er en spesialisert type akustisk sensor (akustisk sonar) som sender lydbølger mot havbunnen for å måle nøyaktig hastighet og retning over bunnen, noe som er helt kritisk for robotens treghetsnavigasjon (INS) når den dykker dypt uten GPS-signal. • Kongsberg og Nortek Group har samarbeidet tett om å teste og validere Norteks DVL-teknologi (f.eks. DVL500) om bord på HUGIN.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 479,
+      "has_link": false
+    }
+  ]
 }
