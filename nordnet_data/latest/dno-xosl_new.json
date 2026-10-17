@@ -1,9 +1,25 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-17T11:53:04.158522+00:00",
+  "scraped_at": "2026-10-17T14:40:09.768995+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c55d90bd512fc16f",
+      "author": "Mattias Karlsson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mattias-karlsson",
+      "posted_relative": "for 37 min siden",
+      "text": "· Lekte litt med min AI og den utrolige økningen med DNO DNO - Q3 2026 vs Q3 2024 (mitt siste store kjøp) •••                                         Q3 2024          Q3 2026       Endring NCS production.        11.2k boepd 85.4k boepd +660% Kurdistan prod.           17.6k boepd 54.9k boepd +212% NCS realised oilpr.     $84.9/boe.   $99.6/boe.    +17% NCS realised gaspr.   $64.3/boe.  $122.9/boe.  +91% Share price.                 ~NOK 11.      NOK 22.         +100% Theoretical share price*. ~NOK 139. (+1,160%) Rent teoretisk, basert på endringen i NCS-produksjon og realisert gasspris. Fortsatt tidlig…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 609,
+      "has_link": false
+    }
+  ]
 }

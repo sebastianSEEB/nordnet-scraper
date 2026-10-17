@@ -1,9 +1,26 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-17T11:52:36.285298+00:00",
+  "scraped_at": "2026-10-17T14:39:42.440422+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a4b3acac3dc0861b",
+      "author": "EB1996",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eb1996",
+      "posted_relative": null,
+      "text": "13. okt. Ser vi et lite trend skifte📈 AI frykten lagt seg?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }
