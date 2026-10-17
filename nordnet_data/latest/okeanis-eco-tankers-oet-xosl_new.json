@@ -1,9 +1,40 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-17T02:01:09.385619+00:00",
+  "scraped_at": "2026-10-17T07:16:40.776232+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7dadec817d653556",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://x.com/joeriwestland/status/2111061505475056014 Joeri fra shiptweet er på linje m pryp invest for Q3Q4. Eps 30usd...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://x.com/joeriwestland/status/2111061505475056014"
+      ],
+      "char_count": 125,
+      "has_link": true
+    },
+    {
+      "key": "6e97e8e3fcf08f15",
+      "author": "Rasmussn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rasmussn",
+      "posted_relative": "for 2 t siden",
+      "text": "· Går vi ut fra at det shuttles som tidligere? Alt tatt i betraktning ser det ut til at antall angrep mot sivile skip i Hormuzstredet har intensivert seg her i oktober. Sist leste jeg at ST3 ansees å ha blitt angrepet for nordgående i løpet av det siste døgnet, og ST1 har blitt bekreftet angrepet d. 6. oktober (jeg nevner spesielt disse to skipene fordi de har hatt astronomiske fixtures nevnt på TI). Jeg forestiller meg at det i så fall foregår med økt risiko og stor innsats. Ikke minst fordi OET, så vidt meg bekjent, er det eneste børsnoterte rederiet som har vært sysselsatt med shuttletrafikk. I tillegg skiller OET seg vel ut ved å gjøre det med noen av de mest moderne skipene i verden, hvor ST1 (2004) og ST3 (2002) nærmere passer på \"profilen\" å være noen mer aldrende damer.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 788,
+      "has_link": false
+    }
+  ]
 }

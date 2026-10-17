@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-17T02:04:51.120362+00:00",
+  "scraped_at": "2026-10-17T07:20:24.949395+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8aee6c69280282d3",
+      "author": "tulostin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tulostin",
+      "posted_relative": "for 11 min siden",
+      "text": "· Brent 110$. Ha en hyggelig helg og sitt stille i båten. Pengene kommer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

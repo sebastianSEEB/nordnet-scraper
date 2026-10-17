@@ -1,9 +1,25 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-10-17T02:04:39.612654+00:00",
+  "scraped_at": "2026-10-17T07:20:13.366427+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d067f86c71987c8e",
+      "author": "Kenny71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kenny71",
+      "posted_relative": "for 1 t siden",
+      "text": "Hatteland og Folketrygdfondet  helt ute etter to store blokkhandler til 23,- onsdag. Kjøper er Hauglandgruppen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    }
+  ]
 }
