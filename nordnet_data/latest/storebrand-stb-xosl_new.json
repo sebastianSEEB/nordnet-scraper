@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-17T07:22:24.214821+00:00",
+  "scraped_at": "2026-10-17T11:55:00.305654+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ff0305e74a84f952",
+      "author": "Balder Viking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/balder-viking",
+      "posted_relative": null,
+      "text": "13. okt. Meglerhusene: Kjøp 10 Hold 1 Selg 2 Snitt kursmål 206 kr. 🙌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        20
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

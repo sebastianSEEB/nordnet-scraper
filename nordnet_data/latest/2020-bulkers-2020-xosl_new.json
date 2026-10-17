@@ -1,9 +1,25 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-17T07:17:05.931604+00:00",
+  "scraped_at": "2026-10-17T11:49:48.315583+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "14b33e2139d9824c",
+      "author": "Hilde Elisabeth",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hilde-elisabeth",
+      "posted_relative": null,
+      "text": "13. okt. Skal prøve å forklare det 😊 Det er aksjer i samme selskap. Forskjellen er at de nye aksjene, 2020T, foreløpig har et eget, midlertidig ISIN, altså en egen identifikasjonskode, og handles på NOTC. Hos meg viser det at jeg har kjøpt aksjer, men verdien blir foreløpig ikke oppdatert på samme måte som for børsnoterte aksjer. Jeg ser heller ikke antallet jeg har kjøpt.  Grunnen til at de handles på ulike markedsplasser, er at de gamle aksjene allerede er notert på Oslo Børs, mens de nye må vente på at et prospekt blir godkjent og publisert. NOTC er en markedsplass for unoterte aksjer, hvor de nye aksjene kan handles i mellomtiden. Du kan derfor ikke kjøpe 2020T til 3,20 kroner og selge dem direkte på Oslo Børs til 6 kroner. Foreløpig handles de separat, og kjøpere og selgere setter prisen i hvert sitt marked. Når prospektet er godkjent og publisert, skal de nye aksjene kunne handles sammen med de gamle på Oslo Børs. Men vi vet ikke hva kursen vil være da. Den gamle kursen kan falle, den nye kan stige, eller begge kan endre seg. Prisforskjellen i dag er derfor ingen garanti for gevinst.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 1106,
+      "has_link": false
+    }
+  ]
 }

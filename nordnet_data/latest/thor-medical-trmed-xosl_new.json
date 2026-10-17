@@ -1,9 +1,38 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-17T07:24:12.088686+00:00",
+  "scraped_at": "2026-10-17T11:56:45.014577+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "658beefc322622d2",
+      "author": "Supertrikker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supertrikker",
+      "posted_relative": "for 56 min siden",
+      "text": "Two Sigma har ikke dekket inn short posisjonen på 1,03% - Med åpning mandag og kanskje noe oppdateringer kan det bli gøy 🥳 God helg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "278a082c6676bffb",
+      "author": "Glovarm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glovarm",
+      "posted_relative": "for 36 min siden",
+      "text": "Sist oppdatert 09.09. Har nok dekket inn, bare ikke oppdatert enda",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

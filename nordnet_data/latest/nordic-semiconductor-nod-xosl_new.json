@@ -1,9 +1,25 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-17T07:18:06.090622+00:00",
+  "scraped_at": "2026-10-17T11:50:46.518704+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cc131e788e05fe7a",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 2 t siden",
+      "text": "Spennende å høre siste episoden av DNB utbytte podcast. Han ene som kan mye om sektoren sier interessante ting om NOD der 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    }
+  ]
 }

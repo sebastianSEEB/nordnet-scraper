@@ -1,9 +1,26 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-17T07:23:12.981732+00:00",
+  "scraped_at": "2026-10-17T11:55:47.662298+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "66599d251c516728",
+      "author": "Hakkebakke123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hakkebakke123",
+      "posted_relative": null,
+      "text": "13. okt. Hva skylder den store oppgangen idag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

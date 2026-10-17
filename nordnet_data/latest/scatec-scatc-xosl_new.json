@@ -1,9 +1,25 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-10-17T07:18:54.548052+00:00",
+  "scraped_at": "2026-10-17T11:51:33.670823+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "54ac174c4322236d",
+      "author": "rocketball",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rocketball",
+      "posted_relative": null,
+      "text": "13. okt. Gleder meg til Q3😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

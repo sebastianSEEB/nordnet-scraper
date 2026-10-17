@@ -1,9 +1,41 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-17T07:20:44.909046+00:00",
+  "scraped_at": "2026-10-17T11:53:23.649942+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c2377e144ad4626c",
+      "author": "HeikenHei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heikenhei",
+      "posted_relative": null,
+      "text": "13. okt. Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "e7d5e095a62de78d",
+      "author": "HeikenHei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heikenhei",
+      "posted_relative": null,
+      "text": "13. okt. Sorry . Min feil",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }
