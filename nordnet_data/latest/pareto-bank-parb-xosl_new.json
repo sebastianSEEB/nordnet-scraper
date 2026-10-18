@@ -1,9 +1,25 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-18T12:21:32.595689+00:00",
+  "scraped_at": "2026-10-18T16:18:46.120946+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f4e2bbf081ab0f7e",
+      "author": "mikemode",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikemode",
+      "posted_relative": null,
+      "text": "14. okt. Hva skylder den store nedgangen i dag?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,51 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-10-18T12:16:15.523634+00:00",
+  "scraped_at": "2026-10-18T16:13:26.053204+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ad162ae83af554ca",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Er det noe man må gjøre iforhold til utbytte på skattemeldingen? Har denne på ikz Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "531c15304e243e91",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 3 t siden",
+      "text": "Jo var det ikke sånn at man fikk tilbake et beløp hvis man fører det på skattemeldingen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "4a36cad5038ec17b",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 3 t siden",
+      "text": "Om ikke neste uke så vil den ihvertfall stige iløpet av månedene som kommer tror jeg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    }
+  ]
 }

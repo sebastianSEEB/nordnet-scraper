@@ -1,9 +1,25 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-18T12:18:55.310154+00:00",
+  "scraped_at": "2026-10-18T16:16:06.429085+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e629096cda878846",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 4 min siden",
+      "text": "\" Norge inngår frihandelsavtale med Vietnam Norsk sjømatnæring jubler over nye vilkår som gir bedre vilkår for eksportører.\" https://e24.no/hav-og-sjoemat/i/31KMg9/norge-inngaar-frihandelsavtale-med-vietnam",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/hav-og-sjoemat/i/31KMg9/norge-inngaar-frihandelsavtale-med-vietnam"
+      ],
+      "char_count": 206,
+      "has_link": true
+    }
+  ]
 }

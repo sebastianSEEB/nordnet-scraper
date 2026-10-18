@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-18T12:22:51.484041+00:00",
+  "scraped_at": "2026-10-18T16:20:05.453756+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "31d3653e3998031d",
+      "author": "Paven777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paven777",
+      "posted_relative": null,
+      "text": "14. okt. Årets laveste sluttkurs. Skuffende, må stå dårlig til med selskapet 🤷‍♂️ Vi får håpe Mr.Market tar feil denne gang, og at Q3-resultatene blir bra.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "dbc5120721157c7d",
+      "author": "Furuan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/furuan",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Artig at tesla legger vekt på sbw ved presentasjon av flyvende bil.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }
