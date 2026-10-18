@@ -1,9 +1,26 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-18T07:30:53.455017+00:00",
+  "scraped_at": "2026-10-18T12:15:20.014217+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ac49f4e93c12dfaa",
+      "author": "peabob",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob",
+      "posted_relative": null,
+      "text": "14. okt. Begynner vi nå å se en gradvis endring i utsiktene til ALNG. Har fått fra 4gule og 2 rød signal til 4 gule og 2 grønne. Særlig mest interessante er trading delen da den kan gi betydelig inntjening for ALNG Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 234,
+      "has_link": false
+    }
+  ]
 }

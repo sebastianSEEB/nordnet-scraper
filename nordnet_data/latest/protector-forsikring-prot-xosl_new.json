@@ -1,25 +1,38 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-18T07:32:36.962460+00:00",
+  "scraped_at": "2026-10-18T12:17:04.372022+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6e2cc468513211ed",
+      "key": "0091ddd6ed743d22",
       "author": "Shesai",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shesai",
-      "posted_relative": null,
-      "text": "14. okt. Litt mindre poster kjøpt av Hermanrud og Skorstad Vis 1 kommentar til",
+      "posted_relative": "for 51 min siden",
+      "text": "Ca 300 av 900 på Oslo børs. Tror han dog har andre investeringer i resten av Norden som ikke er med her",
       "reply_count": 1,
       "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "5b718e3f5241413e",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": null,
+      "text": "14. okt. Misunner de som fikk denne til 400",
+      "reply_count": null,
+      "is_reply": false,
       "engagement_numbers": [
-        9,
-        8
+        3,
+        6
       ],
       "links": [],
-      "char_count": 78,
+      "char_count": 43,
       "has_link": false
     }
   ]

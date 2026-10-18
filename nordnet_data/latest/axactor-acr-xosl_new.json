@@ -1,9 +1,26 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-18T07:37:16.780484+00:00",
+  "scraped_at": "2026-10-18T12:21:45.014973+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c2f4af448cd515c8",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": null,
+      "text": "14. okt. Det er store kjøps ordrer på kjøper siden. Mens, selger siden er tynt. Utviklingen ser bra ut.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        4
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }
