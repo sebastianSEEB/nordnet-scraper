@@ -1,9 +1,26 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-18T16:19:53.485362+00:00",
+  "scraped_at": "2026-10-18T19:11:34.345931+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cb572c04eb54a9db",
+      "author": "Agenez",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/agenez",
+      "posted_relative": null,
+      "text": "14. okt. · -71.5%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        6
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

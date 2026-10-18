@@ -1,35 +1,55 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-18T16:17:17.830690+00:00",
+  "scraped_at": "2026-10-18T19:08:59.562884+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "fb0f72f0f3e1d049",
-      "author": "MrSmile",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrsmile",
-      "posted_relative": "for 46 min siden",
-      "text": "· Jeg har tillatt meg å dele innlegget ditt, gi meg bare beskjed hvis det ikke er i orden :-)",
+      "key": "3bb6bdc6b386c950",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 2 t siden",
+      "text": "CIRCIO OG CNS – VITENSKAPELIG DYPDYKK (DEL 1/4) Resultatene og hvorfor uttrykket varer Circio Holding har vist betydelig høyere genuttrykk med circVec i hjerte, øye og sentralnervesystemet (CNS). CNS-resultatene er særlig interessante fordi genterapi i hjernen møter to forskjellige utfordringer: Man må få en vektor fram til riktig celle, og deretter produsere nok funksjonelt protein over tilstrekkelig tid. CircVec retter seg først og fremst mot den andre utfordringen. En konvensjonell AAV-vektor leverer DNA som normalt uttrykker protein gjennom lineært mRNA. CircVec benytter i stedet et DNA-basert uttrykkssystem der cellen lager sirkulært RNA: DNA → sirkulært RNA → protein. Sirkulært RNA mangler frie ender og kan være mer stabilt mot bestemte nedbrytningsmekanismer. Dette kan gi mer langvarig og høyere proteinuttrykk fra en DNA-konstruksjon som allerede er levert. Men circVec gjør ikke i seg selv at et AAV-kapsid lettere krysser blod-hjerne-barrieren eller treffer bestemte nevroner. FRA 4× I 2025 TIL OPPTIL 60× I 2026 I webcasten 24. november 2025 viste Circio rundt 4× høyere rapportørsignal med circVec 2.1 enn med konvensjonell mVec etter ICV-injeksjon hos mus. Presentasjonen opplyste samtidig at testing av circVec 3.2 skulle starte. I webcasten 1. september 2026 presenterte selskapet tre separate museforsøk: - ICM (cisterna magna): 1 × 10¹¹ vg/mus → omtrent 10×. - ICV (hjerneventrikkel): 9 × 10¹⁰ vg/mus → omtrent 30×. - IT (intratekalt): 1 × 10¹¹ vg/mus → omtrent 60×. Tallene sammenligner rapportøruttrykk fra circVec mot mVec innen hvert forsøk. De betyr ikke at IT nødvendigvis er seks ganger bedre enn ICM som leveringsmetode. Vi kan heller ikke uten videre tolke økningen fra 4× i 2025 til 30× ICV i 2026 som en eksakt teknologiforbedring: forsøksdesign og tidspunkt må sammenlignes fullt ut. ET VIKTIG VERSJONSAVVIK Figurlegendene på side 10 i september-PDF-en er merket circVec 3.2. På side 12 omtales imidlertid CNS-fordelen som circVec 4.0. Den norske 26-siderspresentasjonen viser også 3.2 ved de tre CNS-grafene. Dette ser ut som et mulig avvik i oppsummeringen, men forklaringen er ikke bekreftet. Vi bør derfor ikke regne en konkret forbedring fra generasjon 3.2 til 4.0 ut fra disse CNS-tallene. Hva er dermed bevist? Et betydelig uttrykksfortrinn i prekliniske museforsøk, etter tre administrasjonsmetoder. Ikke funksjonell behandling av en nevrologisk sykdom. VARIGHETEN KAN VÆRE LIKE VIKTIG SOM UTTRYKKSNIVÅET Det kanskje mest interessante i CNS-figurene er ikke bare størrelsen på uttrykksforskjellen, men hvordan signalene utvikler seg over tid. I intratekalforsøket ligger mVec og circVec forholdsvis nær hverandre tidlig. Senere avtar signalet fra den konvensjonelle konstruksjonen, mens circVec-signalet holder seg høyere og i perioder øker. Mot slutten av forsøket omtales forskjellen som rundt 60×. Thomas Hansen beskriver den samme utviklingen i webcasten 1. september: mVec-signalet faller, mens circVec er vedvarende og kan øke noe. Dette passer m […avkuttet, sannsynlig parsingfeil]",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        19,
+        3
+      ],
       "links": [],
-      "char_count": 93,
+      "char_count": 3036,
       "has_link": false
     },
     {
-      "key": "ba81dd91844a9034",
-      "author": "Janke P",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/janke-p",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "· Nordlys eller rødbeterøv?",
+      "key": "66d89476cce77b2f",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 2 t siden",
+      "text": "CIRCIO OG CNS – VITENSKAPELIG DYPDYKK (DEL 2/4) Leveringsmetoder, primatdata, dose og DRG-sikkerhet HVORFOR TRE ADMINISTRASJONSMETODER? Blod-hjerne-barrieren gjør det vanskelig for mange genbehandlinger å nå sentralnervesystemet via blodet. Administrasjon til cerebrospinalvæsken kan omgå deler av barrieren: - ICM: injeksjon i cisterna magna ved overgangen mellom hjerne og ryggmarg. - ICV: injeksjon i hjernens ventrikkelsystem. - IT: injeksjon til det intratekale rommet, ofte via ryggmargskanalen. Alle metodene kan gi CNS-eksponering, men de gir ikke nødvendigvis lik fordeling til hjernebark, dype hjerneområder, ryggmarg, gliaceller og nevroner. UAVHENGIG PRIMATFORSKNING Okai og kolleger (2025) sammenlignet fire AAV-serotyper etter ICM-injeksjon i ikke-menneskelige primater. De fant ingen signifikant forskjell i biodistribusjon mellom de undersøkte serotypene. Levering til ryggmarg og dorsalrotsganglier var god, men fordelingen til dype hjerneregioner var begrenset. ICM-prosedyren var godt tolerert i denne studien. Amaral og kolleger (2026) undersøkte AAV9-GBA1. I primater ga ICM betydelig uttrykk i ryggmarg og dorsalrotsganglier, men begrenset uttrykk og enzymaktivitet i hjernen. De observerte også uønskede mikroskopiske funn. Direkte injeksjon i hjernevev ga et annet fordelingsmønster, men også egne sikkerhetsutfordringer. Disse studiene er ikke forsøk med circVec. De viser hvilke leveringsproblemer circVec må fungere innenfor. Hovedpoenget: Høyere proteinuttrykk kan ikke alene kompensere for at AAV ikke når riktig målcelletype. En viktig neste milepæl er derfor kartlegging av hvor circVec-DNA, RNA og protein faktisk befinner seg i CNS. LAVERE AAV-DOSE – MULIGHET OG SIKKERHETSUTFORDRING En av Circios viktigste hypoteser er at høyere proteinuttrykk per vektorgenom kan redusere nødvendig AAV-dose. Dette kan potensielt gjøre genterapi mindre belastende og billigere å produsere. I hjertemodeller har Circio vist en betydelig dose-responsfordel med rapportørprotein. Men slike funn dokumenterer ennå ikke at man kan gi 10×, 40× eller 60× lavere terapeutisk dose i hjernen. For å bevise dette må et faktisk sykdomsgen testes i en relevant CNS-modell: Hvor lav dose gir tilstrekkelig korreksjon, hvor lenge varer den, og hvilke bivirkninger oppstår? En 60× forskjell i lysuttrykk betyr ikke automatisk 60× lavere behandlingsdose. Proteinets funksjon, cellene som rammes, behandlingsterskelen og biodistribusjonen avgjør hvor mye dose som faktisk kan reduseres. DRG-TOKSISITET – ET VIKTIG FORBEHOLD Dorsalrotsgangliene (DRG) inneholder sensoriske nerveceller. Disse kan eksponeres kraftig etter AAV-levering til cerebrospinalvæsken, og det er rapportert nervecelle- og nervefiberskader i flere primatmodeller. Grubor og kolleger (2025) fant økt betennelsesrelatert genaktivitet, cytokiner og immuncelleinfiltrasjon før senere DRG- og nerveskader. Forebyggende immundemping med deksametason og takrolimus reduserte skadene i de undersøkte modellene. Men forskernes innledning […avkuttet, sannsynlig parsingfeil]",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 3036,
+      "has_link": false
+    },
+    {
+      "key": "8b779b0b549f0df0",
+      "author": "lillejohn1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
+      "posted_relative": "for 1 t siden",
+      "text": "Takk Hulten for faglig strålende innlegg. Circio (CRNA) – tidslinje fremover. 27.–30. oktober – ESGCT Hamburg - Presentasjon om neste generasjons circVec-basert T-celleterapi. Circio har fått plass til et muntlig innlegg om circVec-basert T-celleterapi, vises frem til ledende forskere og potensielle Big Pharma-partnere.  Nye, sterke data vil validere Circvec plattformen.. H2 2026 – sykdomsmodeller: Første effektdata fra AAV-circVec i relevante sykdomsmodeller, særlig innen våt AMD og hjerte. Også CNS-data fra Big Pharma-samarbeidet. Dato ukjent. 9.–11. november – BIO-Europe Andre halvdel av november – forskningsoppdatering H2 2026 – løpende triggere - Data innen CNS, hjerte og våt AMD. - Mulige nye partneravtaler eller oppdateringer fra eksisterende samarbeid.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 27,
+      "char_count": 770,
       "has_link": false
     }
   ]
