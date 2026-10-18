@@ -1,9 +1,40 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-18T02:01:47.925464+00:00",
+  "scraped_at": "2026-10-18T07:32:05.332537+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "89ae11c1d45144cd",
+      "author": "Analytikeren77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/analytikeren77",
+      "posted_relative": "for 32 min siden · Endret",
+      "text": "Den store dronekrigen på vei? De baltiske landene forbereder seg på krig.  De øver. Bygger lagre, tilfluktsrom etc. Første tegn til at noe svært alvorlig er på gang: https://www.dagbladet.no/nyheter/putin-avslort-gigantprosjekt-ved-grensa/85302425 For ordens skyld, dette scenarioet rammet NAS spesielt hardt.  Fly blir satt på bakken.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.dagbladet.no/nyheter/putin-avslort-gigantprosjekt-ved-grensa/85302425"
+      ],
+      "char_count": 335,
+      "has_link": true
+    },
+    {
+      "key": "b6d945bc3bbda338",
+      "author": "sanoj1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sanoj1",
+      "posted_relative": "for 7 min siden",
+      "text": "Er dette noe nytt? Russland har mange slike utskytingsbaser rundt Ukraina.  Den store dronekrigen? Den har vel pågått en stund.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    }
+  ]
 }

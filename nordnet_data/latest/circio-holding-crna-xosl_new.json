@@ -1,9 +1,56 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-18T02:05:22.069102+00:00",
+  "scraped_at": "2026-10-18T07:35:39.884735+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "d4efa3e6d86d84e2",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 1 t siden",
+      "text": "CircVec og hjerteterapi – hva er dokumentert, og hva må Circio bevise? (Del 1/2) Jeg har gått gjennom Circios ASGCT-data, webcastpresentasjoner og intervjuer, og sammenlignet med klinisk AAV-genterapi. Første del gjelder Circios egne data. Alt under er fra prekliniske forsøk, ikke behandling av mennesker. 1. Hva viser museforsøkene?    AAV9-circVec 3.2 mot Circios egen mVec-kassett, med samme hjertespesifikke cTnT-promotor og Firefly-luciferase som rapportør. Etter intravenøs dose på 5×10¹² vg/kg: - Opptil 40× høyere lyssignal i levende mus, fulgt til dag 71, og omtrent 35× fra isolerte hjerter. - RNAscope: 34–58× mer rapportør-RNA i positive celler, og rundt 80 % av undersøkte hjertemuskelceller var RNA-positive. - RT-qPCR: ca. 96× mer RNA i hjertevev, uten statistisk signifikant forskjell i antall AAV-vektorkopier. ASGCT-abstraktet omtaler også opptil 200× RNA i en annen analyse. Det er ikke samme måletall som 96× fra RT-qPCR-figuren, og bør ikke blandes sammen. De ulike målemetodene støtter økt uttrykk etter levering, men noen grupper hadde bare fire mus. Ingen av disse tallene viser bedre hjertefunksjon. 2. Dosefordel – hva betyr minst 10×?    Et separat museforsøk undersøkte 5×10¹² til 1×10¹⁴ vg/kg. Dosekurvene indikerte potensial for sammenlignbart rapportøruttrykk ved minst ti ganger lavere AAV-dose med circVec enn mVec. Dette gjelder målt genuttrykk i mus, ikke dokumentert ti ganger lavere dose for å behandle Danon eller arytmogen kardiomyopati. PKP2 i dosefiguren er et illustrativt terapeutisk referansenivå, ikke dokumentert behandlingseffekt fra PKP2. 3. LAMP2B – et viktig skritt    I september viste Circio Western blot fra musehjerter på dag 57. CircVec 3.2 ga tydelig sterkere LAMP2B-bånd enn mVec. LAMP2B er relevant ved Danons sykdom, men det ble ikke oppgitt en presis foldforbedring for dette proteinet. Forsøket viser heller ikke riktig lokalisering, gjenopprettet autofagi eller forbedret funksjon i sykt hjerte. Danon er heller ikke bekreftet som endelig klinisk indikasjon for Circio. 4. Lever og mulig stressrespons    CircVec ga lavere uønsket rapportøruttrykk i leveren. Men mindre proteinuttrykk i leveren betyr ikke nødvendigvis at færre AAV-partikler havnet der. En analyse av UPR-relaterte gener som gruppe viste lavere aktivering i circVec-behandlede musehjerter enn med mVec (p=0,003). Dette er et interessant tidlig signal, ikke dokumentert redusert immunrisiko eller toksisitet hos mennesker. 5. CircVec 5.0    Circio har vist separate designforbedringer på rundt 90× og 170× uttrykk mot mVec. Disse skal kombineres i Gen 5. I BioHub-intervjuet omtalte Erik Wiklund over 200× in vivo, mens den skriftlige presentasjonen beskriver samlet Gen 5-effekt som potensial. Vi trenger konkrete kombinasjonsdata med et terapeutisk gen før dette kan regnes som bekreftet. 200× uttrykk betyr uansett ikke 200× lavere nødvendig behandlingsdose. Kilder del 1: Circio ASGCT-poster: https://storage.mfn.se/21fac811-bd25-419d-ab49-20c47ecc5bfb/2026-asgct-pos […avkuttet, sannsynlig parsingfeil]",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://storage.mfn.se/21fac811-bd25-419d-ab49-20c47ecc5bfb/2026-asgct-pos"
+      ],
+      "char_count": 3036,
+      "has_link": true
+    },
+    {
+      "key": "d7f65ef8214d2eb8",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 1 t siden",
+      "text": "CircVec og hjerteterapi – klinisk sammenligning og veien videre (Del 2/2) Denne delen sammenligner Circios prekliniske funn med pasientdata og ser på AaviGen-samarbeidet. De kliniske resultatene nedenfor gjelder Rocket og Tenaya, ikke circVec. 6. Rocket: Danon og konkrete behandlingsmål    Rocket utvikler RP-A501 (AAV9-LAMP2B) og har rapportert langvarige kliniske tegn til effekt ved Danons sykdom. Programmet har samtidig hatt alvorlige sikkerhetshendelser. Etter endret dose, immunbehandling og oppfølging rapporterte Rocket ingen tegn til trombotisk mikroangiopati (TMA) eller kapillærlekkasje hos de tre første pasientene i den innledende observasjonsperioden på revidert protokoll. Dette er kort oppfølging; forbedringen kan ikke tilskrives dosen alene. Rockets fase 2-opplegg er avstemt med FDA: Minst 7 av 12 mannlige pasienter må etter 12 måneder ha både påvisbart LAMP2-protein i hjertevev (minst grad 1) og minst 10 % reduksjon i venstre ventrikkels masseindeks (LVMI). Kriteriene er behandlingsmål for Rocket, ikke bevis på at circVec kan oppnå dem. 7. Tenaya: PKP2 og hjerterytme    Tenaya undersøker TN-401 for PKP2-relatert arytmogen kardiomyopati. Ved 3×10¹³ og 6×10¹³ vg/kg rapporterte selskapet gjennomsnittlig 64 % reduksjon i PVC-belastning (premature ventrikkelslag) hos seks pasienter. Individuelle reduksjoner var 31–84 %. I hjertebiopsier fra fem pasienter varierte endringen i målt PKP2-protein fra −4 % til +15 %, normalisert mot myosin. Tenaya understreker at prøvene påvirkes av sammensetningen av sykt hjertevev. Begge programmene benytter immundempende behandling. Små, ukontrollerte studier: interessant biologisk aktivitet, ikke bevis på kur. 8. AaviGen: to mulige forbedringer    AaviGen utvikler hjertemålrettede AAV-kapsider, mens circVec skal øke uttrykket etter levering. Samarbeidet går i tre trinn: produksjon av kombinerte vektorer, in vitro-testing og in vivo-analyser av biodistribusjon og genuttrykk. Det er foreløpig ikke offentlig vist funksjonell sykdomseffekt eller en samlet terapeutisk dosefordel. Lubor Gaal sa i Circios webcast 1. september at AaviGen også har et eget proprietært gen de ønsker å levere til hjertet, ved siden av kapsidet. Dette fremgår av en offentlig tredjepartstranskripsjon, ikke av pressemeldingen, og genets identitet er ikke oppgitt. Opplysningen viser at samarbeidet kan være relevant for et konkret partnerprogram, men dokumenterer ikke vellykket behandling. 9. Hva sa de nyere intervjuene?    I The BioHub omtalte Erik Wiklund og Thomas Hansen funksjonelle sykdomsmodeller, blant annet hjerterytme og ejeksjonsfraksjon, med tidlige data rundt 2027 som mål. What's Up Life Science viste laboratoriearbeid og analysemetoder, men ingen dokumentert sykdomskorreksjon. Intervjuene beskriver planer og arbeid, ikke ferdige behandlingsresultater. Min vurdering Circio har vist betydelig uttrykksfordel, dose-respons og mer LAMP2B i musehjerter. Den avgjørende testen er samme kapsid og terapeutiske gen, circVec mot mVec, flere […avkuttet, sannsynlig parsingfeil]",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 3036,
+      "has_link": false
+    },
+    {
+      "key": "25348d2a87ed53d8",
+      "author": "Ztrejfer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ztrejfer",
+      "posted_relative": "for 2 t siden",
+      "text": "· Mener ikke det vil være nytteløst. Nå kjenner jeg ikke særlig mye til de norske børsreglene, men med de eksemplene på gjennomført kursmanipulasjon som jeg jevnlig ser her, og som tilsynelatende bare får lov til å passere, vil en omregistrering til f.eks. Nasdaq sannsynligvis være å foretrekke. Naturligvis vil man ha et annet synspunkt, dersom man foretrekker tingenes nåværende tilstand.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 391,
+      "has_link": false
+    }
+  ]
 }

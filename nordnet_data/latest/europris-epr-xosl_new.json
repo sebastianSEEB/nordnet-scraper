@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-18T02:03:19.577715+00:00",
+  "scraped_at": "2026-10-18T07:33:36.881328+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d3accacdcdd2c632",
+      "author": "Spinners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spinners",
+      "posted_relative": "for 4 t siden",
+      "text": "Først å fremst må kundene velge Öob...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

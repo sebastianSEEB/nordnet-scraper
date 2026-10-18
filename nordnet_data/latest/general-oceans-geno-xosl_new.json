@@ -1,9 +1,38 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-18T02:07:09.079672+00:00",
+  "scraped_at": "2026-10-18T07:37:24.767658+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a9d8aba10d66ccb1",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": null,
+      "text": "14. okt. Må huske at konkuransen er jo med Kongsberg. Å er denne casen solid nok til den konkurransen for vekst, Jeg så at de har fått en ordre fra US Navy men er Trump å stole på...?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 183,
+      "has_link": false
+    },
+    {
+      "key": "3a7ef43b05f340bf",
+      "author": "Barbarossa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barbarossa",
+      "posted_relative": null,
+      "text": "14. okt. Hvis det er noe du regner med, så er det vel ikke så veldig overraskende?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }

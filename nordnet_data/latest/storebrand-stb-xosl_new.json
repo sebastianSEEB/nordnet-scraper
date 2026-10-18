@@ -1,9 +1,26 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-18T02:06:01.897466+00:00",
+  "scraped_at": "2026-10-18T07:36:18.823443+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c2d403c12dd587c2",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": null,
+      "text": "14. okt. Hva kan vi forvente av Q3 rapport?🤔 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }
