@@ -1,23 +1,25 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-18T22:02:44.646409+00:00",
+  "scraped_at": "2026-10-19T00:36:37.221145+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "3838a7090a94d73c",
-      "author": "Panzerhanzen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
+      "key": "31cfbf067eb989a8",
+      "author": "Shaqz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shaqz",
       "posted_relative": "for 2 t siden",
-      "text": "Espedal Hamstrer også",
-      "reply_count": 1,
+      "text": "SAS-oppkjøp kan gi Norwegian flere ruter og norske passasjerer billigere flybilletter https://share.google/wyShcdy6dC4fvH6Ct",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 21,
-      "has_link": false
+      "links": [
+        "https://share.google/wyShcdy6dC4fvH6Ct"
+      ],
+      "char_count": 124,
+      "has_link": true
     }
   ]
 }
