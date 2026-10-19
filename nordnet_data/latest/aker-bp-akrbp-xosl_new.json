@@ -1,9 +1,39 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-19T14:00:43.618792+00:00",
+  "scraped_at": "2026-10-19T18:00:13.345038+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bc11aa3687bd59e5",
+      "author": "Relax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/relax",
+      "posted_relative": "for 8 t siden",
+      "text": "· Opp, opp og vekk? Nytt kursmål fra Nordea er 420 NOK",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "3c1a86b035a5b280",
+      "author": "Coke_dude",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coke_dude",
+      "posted_relative": "for 3 t siden",
+      "text": "At det er såpass skulle bare mangle😅👌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

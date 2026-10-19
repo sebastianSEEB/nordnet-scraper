@@ -1,38 +1,53 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-19T13:59:24.925484+00:00",
+  "scraped_at": "2026-10-19T17:58:54.939806+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "e7b7adfc4240159b",
-      "author": "Toen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toen",
+      "key": "d4a99b681dec50fe",
+      "author": "Porteføljebyggeren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/portefljebyggeren",
       "posted_relative": "for 1 t siden",
-      "text": "Må vel være ulovlig det DnB holder på med? Kursmanipulasjon Vis 1 kommentar til",
+      "text": "Skjønner at DNB Carnegies analyser kan skape frustrasjon, men jeg ville vært forsiktig med å kalle dette kursmanipulasjon uten konkrete holdepunkter 🙂 DNB nedgraderte faktisk Kongsberg Maritime fra hold til selg den 16 oktober, samtidig som de økte kursmålet fra 50 til 55 kroner. Begrunnelsen er blant annet at de mener markedets inntjeningsestimater for 2026-2027 er for optimistiske, særlig grunnet valutamotvind og bortfall av tidligere høymarginaktivitet. Samtidig har de oppjustert EBITDA estimatene for 2027-2028 med 4-5 % etter oppkjøpet av Berg Propulsion. Det er altså en fundamental vurdering, ikke i seg selv dokumentasjon på manipulasjon. Andre meglerhus er dessuten mer positive, blant annet SB1 Markets med kursmål 70 kroner. Personlig mener jeg Kongsberg Maritime fortsatt har et interessant langsiktig potensial, men marginutvikling, ordreinngang og lønnsomhet blir viktige fremover. Q3 rapporten den 30 oktober kan gi oss bedre svar 🙂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
-        2
+        1
       ],
       "links": [],
-      "char_count": 79,
+      "char_count": 952,
       "has_link": false
     },
     {
-      "key": "426f51fbec88b10d",
-      "author": "_Cryptics",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cryptics",
-      "posted_relative": "for 31 min siden",
-      "text": "De økte kursmålet sitt fra 50 til 55kr?",
+      "key": "f31c289ecd01c3e2",
+      "author": "PimpFunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden · Endret 3 enkle regler i livet; låner aldri bort bilen min, leiligheten min, dama mi og når det kommer pengene mine, mitt valg!  synd at DNB som er norsk selskap skal \"prise ned\" ett norsk selskap, samtidig som dem sier selg , så øker dem sin pris...",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 39,
+      "char_count": 279,
+      "has_link": false
+    },
+    {
+      "key": "080d80a7c9b4c100",
+      "author": "Toen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toen",
+      "posted_relative": "for 5 t siden",
+      "text": "Må vel være ulovlig det DnB holder på med? Kursmanipulasjon",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 59,
       "has_link": false
     }
   ]

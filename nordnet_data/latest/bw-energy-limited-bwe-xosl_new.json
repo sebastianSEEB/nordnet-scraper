@@ -1,9 +1,25 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-10-19T13:59:59.559729+00:00",
+  "scraped_at": "2026-10-19T17:59:30.225129+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "aab404b9dd604ac1",
+      "author": "MrRobot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot",
+      "posted_relative": null,
+      "text": "15. okt. Rart den ikke falt mer i dag, med den skuffende updaten. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

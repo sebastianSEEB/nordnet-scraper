@@ -1,9 +1,23 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-19T14:00:51.372233+00:00",
+  "scraped_at": "2026-10-19T18:00:21.461348+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cca66b22dede21dc",
+      "author": "Aksje1234567",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksje1234567",
+      "posted_relative": "for 46 min siden",
+      "text": "Burde jeg kjøpe nå eller vente?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

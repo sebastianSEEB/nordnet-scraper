@@ -1,22 +1,63 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-19T13:56:01.734448+00:00",
+  "scraped_at": "2026-10-19T17:55:30.524245+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "a0671579a5edae8e",
-      "author": "saggiz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
-      "posted_relative": "for 20 min siden",
-      "text": "Skal ikke denne dumpes til rudt 3 kroner om 1 mnd? Hvorfor handles det til denne prisen?",
+      "key": "c38adc5de024f908",
+      "author": "osake",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osake",
+      "posted_relative": "for 3 t siden",
+      "text": "Merkelig dette. Trodde jeg var heldig når jeg solgte for over 11 den 17/9. For halvannen uke siden kjøpte jeg tilbake pluss enda mer på NOTC for 3,20. Var det dumt? Begynner nesten å lure på om det er noe jeg har misforstått...",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 88,
+      "char_count": 227,
+      "has_link": false
+    },
+    {
+      "key": "a7335a8b1e82e0c5",
+      "author": "saggiz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
+      "posted_relative": "for 4 t siden",
+      "text": "Skal ikke denne dumpes til rudt 3 kroner om 1 mnd? Hvorfor handles det til denne prisen? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "d096c099e235dd1e",
+      "author": "Gold4Ever",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gold4ever",
+      "posted_relative": "for 3 t siden",
+      "text": "Fortsatt mulig å handle den til 3,2? Eller er den fulltegnet?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "f64931fd62b937fd",
+      "author": "Jaffa816",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaffa816",
+      "posted_relative": null,
+      "text": "15. okt. er det fortrinnsrett på emisjon?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

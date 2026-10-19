@@ -1,9 +1,40 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-19T14:02:36.088726+00:00",
+  "scraped_at": "2026-10-19T18:02:07.249805+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3cd40608884bd7f4",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": "for 2 t siden",
+      "text": "Skal vel ned til bunnen av trenden…… Er så håpløst svak utvikling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "7158a1365edf71cb",
+      "author": "naidra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/naidra",
+      "posted_relative": "for 3 t siden",
+      "text": "Quch, nå begynner det å gjøre vondt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

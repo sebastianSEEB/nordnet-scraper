@@ -1,51 +1,38 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-19T13:57:26.533117+00:00",
+  "scraped_at": "2026-10-19T17:56:55.353223+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "24b44c3b4f3a4d3c",
+      "key": "707a58afd0200473",
+      "author": "gribbern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gribbern",
+      "posted_relative": "for 2 t siden",
+      "text": "Har ikke vært meldt om noen større kontrakter av betydning for kursen i Q3, hvis de ikke har noe nytt på kontraktstiden  når q3 presenteres ja da tror jeg kursen faller en god del ned på 70/80 tallet her,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    },
+    {
+      "key": "0a899e240b13f239",
       "author": "akmg",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Q3 26 kan bli et vendepunkt for Tomra. Da kan aksjen fort komme forbi 100 NOK. Tomra vil mest sannsynlig slå konsensus. Det meste av negativitet er bakt inn i kursen. Tror Q3 vil overraske positivt. Vis 1 kommentar til",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Q3 26 kan bli et vendepunkt for Tomra. Da kan aksjen fort komme forbi 100 NOK. Tomra vil mest sannsynlig slå konsensus. Det meste av negativitet er bakt inn i kursen. Tror Q3 vil overraske positivt.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4,
-        2
+        7,
+        3
       ],
       "links": [],
-      "char_count": 218,
-      "has_link": false
-    },
-    {
-      "key": "e5b8c576337a3648",
-      "author": "akmg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "· Basert på fundamentalanalyse av Tomra og dens aksjekurs.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
-    },
-    {
-      "key": "3436b00532521b49",
-      "author": "MORTEN R",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morten-r",
-      "posted_relative": "for 27 min siden",
-      "text": "Pleier ikke aksjene å snu hvis alle er negative ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 49,
+      "char_count": 198,
       "has_link": false
     }
   ]
