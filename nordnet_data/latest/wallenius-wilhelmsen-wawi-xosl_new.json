@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-10-19T00:35:52.996626+00:00",
+  "scraped_at": "2026-10-19T05:28:02.630870+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "271eedb82b5c5e61",
+      "author": "olto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
+      "posted_relative": null,
+      "text": "15. okt. Spetalen solgte 79,19% den 12. Tipper at resten også er borte. :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

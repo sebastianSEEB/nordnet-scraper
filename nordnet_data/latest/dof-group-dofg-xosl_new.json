@@ -1,9 +1,25 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-19T00:37:03.806383+00:00",
+  "scraped_at": "2026-10-19T05:29:10.878141+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ca77c15010e1e943",
+      "author": "mohalj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
+      "posted_relative": "for 6 min siden",
+      "text": "https://www.finansavisen.no/finans/2026/10/19/8388472/venter-17-prosent-avkastning-fra-glemt-aksje Noen med tilgang?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/19/8388472/venter-17-prosent-avkastning-fra-glemt-aksje"
+      ],
+      "char_count": 116,
+      "has_link": true
+    }
+  ]
 }

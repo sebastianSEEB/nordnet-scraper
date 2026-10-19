@@ -1,9 +1,38 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-19T00:37:15.380081+00:00",
+  "scraped_at": "2026-10-19T05:29:22.508082+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4d9567aceb4d398e",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": null,
+      "text": "15. okt. Jeg hadde likt å vite hvor mange av NORBITS flinke konsulenter som jobber for Kongsberg Gruppen med å raskt få på plass kritisk forsvars-teknologi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "f2bd4e28f2c32c29",
+      "author": "Svinges",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svinges",
+      "posted_relative": null,
+      "text": "15. okt. 0 Norbit har ingen konsulenter som de leier ut!  Norbit kan ta utviklingsoppdrag for eksterne, men ikke på konsulentbasis.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ]
 }

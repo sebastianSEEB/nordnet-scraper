@@ -11,21 +11,35 @@
   "jinhui-shipping-transportation-jin-xosl": [],
   "mpc-container-ships-mpcc-xosl": [],
   "hoegh-autoliners-hauto-xosl": [],
-  "wallenius-wilhelmsen-wawi-xosl": [],
-  "wilh0-wilhelmsen-holding-ser0-wwi-xosl": [],
-  "wilh0-wilhelmsen-holding-ser0-wwib-xosl": [],
-  "solstad-offshore-soff-xosl": [
+  "wallenius-wilhelmsen-wawi-xosl": [
     {
-      "key": "e7a865f74a1046e6",
-      "author": "Inbestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 2 døgn siden",
-      "text": "· SOMA eller SOFF Bli medlem av Nordnet Social for å gi din stemme Logg inn SOMA SOFF 5 stemmer • 10 timer igjen",
+      "key": "271eedb82b5c5e61",
+      "author": "olto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
+      "posted_relative": null,
+      "text": "15. okt. Spetalen solgte 79,19% den 12. Tipper at resten også er borte. :)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 112,
+      "char_count": 74,
+      "has_link": false
+    }
+  ],
+  "wilh0-wilhelmsen-holding-ser0-wwi-xosl": [],
+  "wilh0-wilhelmsen-holding-ser0-wwib-xosl": [],
+  "solstad-offshore-soff-xosl": [
+    {
+      "key": "0809fe16727753de",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 2 døgn siden",
+      "text": "· SOMA eller SOFF Bli medlem av Nordnet Social for å gi din stemme Logg inn SOMA SOFF 5 stemmer • 5 timer igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
       "has_link": false
     }
   ],
@@ -36,33 +50,62 @@
   "capital-tankers-corp-capt-merk": [],
   "blue-nord-bnor-xosl": [],
   "nordic-semiconductor-nod-xosl": [],
-  "norwegian-air-shuttle-nas-xosl": [
-    {
-      "key": "31cfbf067eb989a8",
-      "author": "Shaqz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shaqz",
-      "posted_relative": "for 2 t siden",
-      "text": "SAS-oppkjøp kan gi Norwegian flere ruter og norske passasjerer billigere flybilletter https://share.google/wyShcdy6dC4fvH6Ct",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://share.google/wyShcdy6dC4fvH6Ct"
-      ],
-      "char_count": 124,
-      "has_link": true
-    }
-  ],
+  "norwegian-air-shuttle-nas-xosl": [],
   "link-mobility-group-holding-link-xosl": [],
   "vend-marketplaces-vend-xosl": [],
   "zaptec-zap-xosl": [],
   "kitron-kit-xosl": [],
   "panoro-energy-pen-xosl": [],
   "tomra-systems-tom-xosl": [],
-  "dof-group-dofg-xosl": [],
+  "dof-group-dofg-xosl": [
+    {
+      "key": "ca77c15010e1e943",
+      "author": "mohalj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
+      "posted_relative": "for 6 min siden",
+      "text": "https://www.finansavisen.no/finans/2026/10/19/8388472/venter-17-prosent-avkastning-fra-glemt-aksje Noen med tilgang?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/10/19/8388472/venter-17-prosent-avkastning-fra-glemt-aksje"
+      ],
+      "char_count": 116,
+      "has_link": true
+    }
+  ],
   "protector-forsikring-prot-xosl": [],
   "leroy-seafood-group-lsg-xosl": [],
-  "norbit-norbt-xosl": [],
+  "norbit-norbt-xosl": [
+    {
+      "key": "4d9567aceb4d398e",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": null,
+      "text": "15. okt. Jeg hadde likt å vite hvor mange av NORBITS flinke konsulenter som jobber for Kongsberg Gruppen med å raskt få på plass kritisk forsvars-teknologi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "f2bd4e28f2c32c29",
+      "author": "Svinges",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svinges",
+      "posted_relative": null,
+      "text": "15. okt. 0 Norbit har ingen konsulenter som de leier ut!  Norbit kan ta utviklingsoppdrag for eksterne, men ikke på konsulentbasis.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ],
   "scatec-scatc-xosl": [],
   "elkem-elk-xosl": [],
   "odfjell-drilling-odl-xosl": [],
@@ -75,21 +118,7 @@
   "napatech-napa-xosl": [],
   "cadeler-cadlr-xosl": [],
   "sed-energy-holdings-enh-xosl": [],
-  "europris-epr-xosl": [
-    {
-      "key": "ff00ef49640813a5",
-      "author": "Doubt",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/doubt",
-      "posted_relative": "for 1 t siden",
-      "text": "Mennesket inneboende behov for å akkumulere skrot påvirkes ikke av økonomisk klima, men lommeboka bestemmer hvor det skal skje, her kommer europris inn i bilde. Anser ikke et oppkjøp som helt usannsynelig selv om det er personlig mening og kun basert på min tro om at smart money vil spre litt risiko vekk fra Ai. Kjøper du europris er rusta også en fin kandidat.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 363,
-      "has_link": false
-    }
-  ],
+  "europris-epr-xosl": [],
   "sparebank-1-ostlandet-spol-xosl": [],
   "austevoll-seafood-auss-xosl": [],
   "sparebank-1-smn-ming-xosl": [],
@@ -105,7 +134,25 @@
   "sal-mar-salm-xosl": [],
   "kongsberg-maritime-kmar-xosl": [],
   "tgs-xosl": [],
-  "end-r-endur-xosl": [],
+  "end-r-endur-xosl": [
+    {
+      "key": "81f1d16069f9bf23",
+      "author": "Cod Master",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cod-master",
+      "posted_relative": "for 17 min siden",
+      "text": "Repstad til Sverige for å bidra hos Marcon må vel være en vinner 👊 https://live.euronext.com/nb/product/equities/NO0012555459-XOSL#CompanyPressRelease-12916908",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://live.euronext.com/nb/product/equities/NO0012555459-XOSL#CompanyPressRelease-12916908"
+      ],
+      "char_count": 159,
+      "has_link": true
+    }
+  ],
   "hexagon-composites-hex-xosl": [],
   "okea-xosl": [],
   "sats-xosl": [],
@@ -118,7 +165,25 @@
   "akastor-akast-xosl": [],
   "borregaard-brg-xosl": [],
   "software-one-holding-ag-swon-xosl": [],
-  "hunter-group-hunt-xoas": [],
+  "hunter-group-hunt-xoas": [
+    {
+      "key": "4f22a19b40587346",
+      "author": "r0cketman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/r0cketman",
+      "posted_relative": "for 43 min siden · Endret",
+      "text": "Oljetanker i brann etter sammenstøt med en mine natt til mandag: https://www.finansavisen.no/energi/2026/10/19/8388561/iran-oljetanker-gikk-pa-mine-i-hormuzstredet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/19/8388561/iran-oljetanker-gikk-pa-mine-i-hormuzstredet"
+      ],
+      "char_count": 163,
+      "has_link": true
+    }
+  ],
   "nykode-therapeutics-nykd-xosl": [],
   "circio-holding-crna-xosl": [],
   "dnb-bank-dnb-xosl": [],
@@ -134,16 +199,16 @@
   "af-gruppen-afg-xosl": [],
   "solstad-maritime-soma-xosl": [
     {
-      "key": "36a66cb593db3a91",
+      "key": "2c85352c36219db2",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
       "posted_relative": "for 2 døgn siden",
-      "text": "· SOFF eller SOMA Bli medlem av Nordnet Social for å gi din stemme Logg inn SOFF SOMA 8 stemmer • 10 timer igjen",
+      "text": "· SOFF eller SOMA Bli medlem av Nordnet Social for å gi din stemme Logg inn SOFF SOMA 8 stemmer • 5 timer igjen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 112,
+      "char_count": 111,
       "has_link": false
     }
   ],

@@ -1,9 +1,27 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-19T00:39:58.927011+00:00",
+  "scraped_at": "2026-10-19T05:32:02.882679+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4f22a19b40587346",
+      "author": "r0cketman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/r0cketman",
+      "posted_relative": "for 43 min siden · Endret",
+      "text": "Oljetanker i brann etter sammenstøt med en mine natt til mandag: https://www.finansavisen.no/energi/2026/10/19/8388561/iran-oljetanker-gikk-pa-mine-i-hormuzstredet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/19/8388561/iran-oljetanker-gikk-pa-mine-i-hormuzstredet"
+      ],
+      "char_count": 163,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,27 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-19T00:39:08.514154+00:00",
+  "scraped_at": "2026-10-19T05:31:13.240282+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "81f1d16069f9bf23",
+      "author": "Cod Master",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cod-master",
+      "posted_relative": "for 17 min siden",
+      "text": "Repstad til Sverige for å bidra hos Marcon må vel være en vinner 👊 https://live.euronext.com/nb/product/equities/NO0012555459-XOSL#CompanyPressRelease-12916908",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://live.euronext.com/nb/product/equities/NO0012555459-XOSL#CompanyPressRelease-12916908"
+      ],
+      "char_count": 159,
+      "has_link": true
+    }
+  ]
 }
