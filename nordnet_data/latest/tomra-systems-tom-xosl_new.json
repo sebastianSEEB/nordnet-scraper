@@ -1,9 +1,39 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-19T05:29:07.015661+00:00",
+  "scraped_at": "2026-10-19T11:32:02.580570+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6fd55e11c3b08afb",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Mine lodd TOM og YARA begge skal gå inn den 23.okt :) . Begge ligger på bunn akkurat nå. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "005394204eea20ee",
+      "author": "Mino-Vega",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mino-vega",
+      "posted_relative": "for 3 t siden",
+      "text": "Så du satser alt på dårlige q3-resultater og dårlige signaler om fremtiden? Q3-res på fredag.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    }
+  ]
 }

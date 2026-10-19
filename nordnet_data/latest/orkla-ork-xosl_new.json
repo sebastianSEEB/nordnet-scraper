@@ -1,9 +1,53 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-19T05:32:45.164680+00:00",
+  "scraped_at": "2026-10-19T11:35:48.966102+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b31ca908a153a372",
+      "author": "Outo Sijoittaja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/outo-sijoittaja",
+      "posted_relative": "for 3 t siden",
+      "text": "Om kronen blir svagare, så Orkla får mer för sin försäljning av åländska Taffel chips som jag betalar med euro :( men eftersom Jotun säljer mer färg inom Europa så hoppas jag att jag får mer i dividend :d haha",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 209,
+      "has_link": false
+    },
+    {
+      "key": "a56387862ec4bcc7",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 4 t siden",
+      "text": "Ser ikke så lyst ut for kronen, med tanke på svekkelsen frem mot Q3. Tror folk at dette vil ha mye å si for resultatet til Orkla?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "539b1ecb15a317fe",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 3 t siden",
+      "text": "Dobbel bunn?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,69 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-19T05:34:41.348658+00:00",
+  "scraped_at": "2026-10-19T11:37:50.913263+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "bd98ec880dc67935",
+      "author": "AlphaTrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alphatrade",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Vi ønsker selvfølgelig blokksalgene velkommen, det skulle skjedd for lenge siden. Caius Capital var en av kreditorene, så jo raskere de er ute, jo bedre. De som tar imot blokkene har visst seg å være langsiktige investorer, flere av de er milliardærer. Så dette med å skremme med blokksalg bla bla bla blir for dumt... Ber folk tenke selv og slutte å høre på oppgulpet som kommer hver gang aksjen er i rødt.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 407,
+      "has_link": false
+    },
+    {
+      "key": "b9a45c44401ae407",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 4 t siden",
+      "text": "Noen spesifikk grunn til at denne faller såpass med knallsterk oljepris og stramt marked i ryggen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "ab39405a6c2bd180",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 13 min siden",
+      "text": "Kommer snart på skjermen din, NRK Brennpunkt: Shareville svindeleren",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "6fc24c6291102a6a",
+      "author": "Megselv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/megselv",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Facsimile fra 9. oktober. Motstand ved 3 og 15 kroner: Investtech.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        6
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

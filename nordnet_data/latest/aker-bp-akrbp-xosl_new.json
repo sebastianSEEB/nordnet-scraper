@@ -1,9 +1,56 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-19T05:32:22.302909+00:00",
+  "scraped_at": "2026-10-19T11:35:25.375327+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1c46911441441030",
+      "author": "Newbie55",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/newbie55",
+      "posted_relative": null,
+      "text": "15. okt. · https://www.upstreamonline.com/finance/front-runner-emerges-for-conocophillips-norway-takeover/2-1-2058179 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [
+        "https://www.upstreamonline.com/finance/front-runner-emerges-for-conocophillips-norway-takeover/2-1-2058179"
+      ],
+      "char_count": 137,
+      "has_link": true
+    },
+    {
+      "key": "8c56abd3858fcb9f",
+      "author": "Relax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/relax",
+      "posted_relative": "for 2 t siden",
+      "text": "· Opp, opp og vekk? Nytt kursmål fra Nordea er 420 NOK Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "bd17dc08bdba2434",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 20 min siden",
+      "text": "Det er den veien vinden blåser...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-10-19T05:31:40.314183+00:00",
+  "scraped_at": "2026-10-19T11:34:41.995538+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "582fc1c967565dcd",
+      "author": "Tiger-Boy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiger-boy",
+      "posted_relative": null,
+      "text": "15. okt. Det er 7 analytikere som har dekning på selskapet. Snitt kursmål er 15% over dagens nivå. Kan naturligvis ikke ta alt for god fisk, men de fleste analytikerne ligger inne med en veldig konservativ oljepris i sine prognoser (+/- 70 USD).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 245,
+      "has_link": false
+    },
+    {
+      "key": "726f054fef6bc063",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 2 t siden",
+      "text": "Calvat _  vet du hva Harto og Linløkken sa om Magnora og Norbit 😎",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,83 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-19T05:31:55.461762+00:00",
+  "scraped_at": "2026-10-19T11:34:57.938605+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "46ac306bdd474fda",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 t siden",
+      "text": "Dette sier DNB Carnegie i FA idag om BRG; \"Samtidig ryker Borregaard ut etter valutamotvind. Borregaard har levert null avkastning siden den ble tatt inn i porteføljen for nesten fire måneder siden.\" Det betyr jo da at Q3-tallene den 28. okt. mest sanns blir dårlige eller hur ? Har BRG salgsinntekter i annet enn NOK ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 319,
+      "has_link": false
+    },
+    {
+      "key": "7f0f58c00ec8562d",
+      "author": "Terskeltrening",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terskeltrening",
+      "posted_relative": "for 58 min siden · Endret",
+      "text": "Dette lover ikke godt - hadde/har troen på selskapet! Varner økte nylig posisjonen, så helt håpløst kan det ikke være. Tror vi må tenke langsiktig...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    },
+    {
+      "key": "ac10208563bd669e",
+      "author": "shippinglover",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinglover",
+      "posted_relative": "for 17 min siden",
+      "text": "Mange som kom seg inn på 145 tallet? Bør da være en god inngang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "53c8dbeb70f31903",
+      "author": "Babbai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/babbai",
+      "posted_relative": null,
+      "text": "15. okt. Tenker at de kommer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    },
+    {
+      "key": "5fea3514b94c6e25",
+      "author": "Terskeltrening",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terskeltrening",
+      "posted_relative": "for 5 min siden",
+      "text": "· I fritt fall!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-10-19T05:31:24.861314+00:00",
+  "scraped_at": "2026-10-19T11:34:26.389356+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "905deff5533ef8a1",
+      "author": "JoKrSt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jokrst",
+      "posted_relative": null,
+      "text": "15. okt. Pareto sier «kjøp» og oppjusterer kursmål til kr. 53,-. Skal vi komme på «riktig» side av 50 etter kvartalsrapporten legges frem? 🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "af48f700365498fd",
+      "author": "Michi13",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michi13",
+      "posted_relative": null,
+      "text": "15. okt. Hadde vært veldig moro etter lang ventetid. Håper vi bare børskrakket lar vente på seg 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

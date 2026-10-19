@@ -1,9 +1,38 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-19T05:31:28.591176+00:00",
+  "scraped_at": "2026-10-19T11:34:30.253212+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6d6681e222547a57",
+      "author": "cardiff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cardiff",
+      "posted_relative": null,
+      "text": "15. okt. Er det nettogjelda som får markedet til å straffe Skogen langt mer enn snittnedgangen på Oslo Børs i dag mon tro?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "f4bb0d60457e3603",
+      "author": "Larsen132",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsen132",
+      "posted_relative": "for 2 t siden",
+      "text": "Ser jo bare røde tall her, noen som har troen på grønne tall etter kvartalsrapporten?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

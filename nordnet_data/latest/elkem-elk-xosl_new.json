@@ -1,9 +1,69 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-19T05:29:30.022385+00:00",
+  "scraped_at": "2026-10-19T11:32:26.753441+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "c3abb570411350c6",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": null,
+      "text": "15. okt. Liten HS nå. Brudd på 32,50 kan gi potensiale for fall til 28,5 gitt at HS slår til...",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "2089bdfd9962b46c",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "15. okt. Fyller på nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "2c0d207c71937e10",
+      "author": "Tor01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tor01",
+      "posted_relative": "for 57 min siden",
+      "text": "Hva skjer i dag?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    },
+    {
+      "key": "b0a9a1d2c6d280ae",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Laster opp mer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

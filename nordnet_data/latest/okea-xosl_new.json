@@ -1,9 +1,23 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-19T05:31:21.065604+00:00",
+  "scraped_at": "2026-10-19T11:34:22.438761+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "15b8643d2be42c23",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 6 min siden",
+      "text": "Olja og gass er opp og okea går ned, merkelig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-10-19T05:27:55.006652+00:00",
+  "scraped_at": "2026-10-19T11:30:46.693979+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fe8eeeb2f13d22c0",
+      "author": "NisseGranat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nissegranat",
+      "posted_relative": "for 9 min siden",
+      "text": "· https://youtube.com/shorts/LQzNaVFHFRY?si=gOpLZTPCQcYHyWNA",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://youtube.com/shorts/LQzNaVFHFRY?si=gOpLZTPCQcYHyWNA"
+      ],
+      "char_count": 60,
+      "has_link": true
+    },
+    {
+      "key": "5af58f7ff1c9cf69",
+      "author": "iceteam",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iceteam",
+      "posted_relative": null,
+      "text": "15. okt. MPCC (MPC Container Ships) falt 3,60 % onsdag 14. oktober 2026, fra 29,70 til 28,63 kroner. Aksjen var oppe i 30,14 kroner tidligere på dagen før den falt tilbake Jeg finner ikke dokumentasjon på én bestemt nyhet som forklarer fallet. Gevinstsikring og salgspress er mulige forklaringer, men det er ikke bekreftet at dette var årsaken. Det avgjørende er om fallet skyldtes selskapsspesifikke forhold eller en bredere bevegelse i shippingaksjer. Jeg har ikke nok dokumentasjon til å fastslå det sikkert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        4
+      ],
+      "links": [],
+      "char_count": 511,
+      "has_link": false
+    }
+  ]
 }

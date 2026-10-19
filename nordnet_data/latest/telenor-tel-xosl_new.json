@@ -1,9 +1,25 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-19T05:32:26.211087+00:00",
+  "scraped_at": "2026-10-19T11:35:29.245476+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3e54db3b81f5e784",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 1 t siden",
+      "text": "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge"
+      ],
+      "char_count": 93,
+      "has_link": true
+    }
+  ]
 }

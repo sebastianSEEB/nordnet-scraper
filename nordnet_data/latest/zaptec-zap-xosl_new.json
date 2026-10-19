@@ -1,9 +1,51 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-19T05:28:55.752919+00:00",
+  "scraped_at": "2026-10-19T11:31:50.461584+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "49c35fcb014ca6dd",
+      "author": "Martins-share",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/martins-share",
+      "posted_relative": "for 2 t siden",
+      "text": "· God morgen☀️  Lagde denne lille TA-en til hjemmebruk🙃 Hvis noen har lyst, kunne det være gøy å høre hvilke tanker som gjøres når man ser den🤓 Hvis det er noen FA-er som har lyst til å kommentere ut fra FA, kunne det være interessant.  God Dag 😎",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 246,
+      "has_link": false
+    },
+    {
+      "key": "f1302b749af089a7",
+      "author": "zachry250",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zachry250",
+      "posted_relative": "for 3 t siden",
+      "text": "Ser ut til at vi kan ha funnet nivået frem til hva Q3 vil si. 2 uker igjen 😇 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "dd8a027899eff73f",
+      "author": "zachry250",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zachry250",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen spørsmål jeg ikke tror vi vil få svar på innen og valget i USA hjelper ikke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

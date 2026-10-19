@@ -1,27 +1,39 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-19T05:31:13.240282+00:00",
+  "scraped_at": "2026-10-19T11:34:14.762545+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "81f1d16069f9bf23",
-      "author": "Cod Master",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cod-master",
-      "posted_relative": "for 17 min siden",
-      "text": "Repstad til Sverige for å bidra hos Marcon må vel være en vinner 👊 https://live.euronext.com/nb/product/equities/NO0012555459-XOSL#CompanyPressRelease-12916908",
+      "key": "bf0b5b410c6a3243",
+      "author": "WolfofFrogner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wolfoffrogner",
+      "posted_relative": "for 3 t siden",
+      "text": "Pareto med kursmål 140kr Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        3,
+        4
       ],
-      "links": [
-        "https://live.euronext.com/nb/product/equities/NO0012555459-XOSL#CompanyPressRelease-12916908"
-      ],
-      "char_count": 159,
-      "has_link": true
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    },
+    {
+      "key": "310f0d90b75a8597",
+      "author": "WolfofFrogner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wolfoffrogner",
+      "posted_relative": "for 2 t siden",
+      "text": "Nei, dette sendte de ut i dag",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
     }
   ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-19T05:33:52.916298+00:00",
+  "scraped_at": "2026-10-19T11:37:00.330177+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ea8b6fe32548e93c",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
+      "posted_relative": null,
+      "text": "14. okt. Norbit og Kmar opp. De fleste sover fortsatt på GENO 😉 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "c35d58702433f11b",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": "for 1 t siden",
+      "text": "Alt under 23 er gode kjøpsmuligheter slik jeg ser det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

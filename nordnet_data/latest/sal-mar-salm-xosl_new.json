@@ -1,9 +1,25 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-19T05:31:01.608559+00:00",
+  "scraped_at": "2026-10-19T11:34:03.022509+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cde3d933960f628b",
+      "author": "refsky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/refsky",
+      "posted_relative": "for 5 t siden",
+      "text": "Kjemperesultat for Movi sier nok også noe om resultetet for Salmar. Løp og kjøp!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-10-19T05:33:41.503938+00:00",
+  "scraped_at": "2026-10-19T11:36:48.130567+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1b9768997bc01869",
+      "author": "IndexKumulativ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/indexkumulativ",
+      "posted_relative": "for 40 min siden",
+      "text": "Nissen kom tidlig... nivå for julegave igjen....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "b66920ec86934c14",
+      "author": "HeldigFyr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heldigfyr",
+      "posted_relative": "for 1 t siden",
+      "text": "10 dager igjen for Q3, tanker?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }
