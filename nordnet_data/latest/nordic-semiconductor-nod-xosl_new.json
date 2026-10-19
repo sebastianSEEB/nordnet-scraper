@@ -1,9 +1,23 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-19T17:56:28.183426+00:00",
+  "scraped_at": "2026-10-19T21:51:42.690233+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5cfa430017487a72",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": "for 38 min siden",
+      "text": "Ble fhplv grei inngang i dag…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

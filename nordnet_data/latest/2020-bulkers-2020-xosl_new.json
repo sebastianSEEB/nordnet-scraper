@@ -1,63 +1,66 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-19T17:55:30.524245+00:00",
+  "scraped_at": "2026-10-19T21:50:43.915784+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 4,
   "posts": [
     {
-      "key": "c38adc5de024f908",
-      "author": "osake",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osake",
+      "key": "ea913825e2a0f41b",
+      "author": "Ludde321",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ludde321",
       "posted_relative": "for 3 t siden",
-      "text": "Merkelig dette. Trodde jeg var heldig når jeg solgte for over 11 den 17/9. For halvannen uke siden kjøpte jeg tilbake pluss enda mer på NOTC for 3,20. Var det dumt? Begynner nesten å lure på om det er noe jeg har misforstått...",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 227,
-      "has_link": false
-    },
-    {
-      "key": "a7335a8b1e82e0c5",
-      "author": "saggiz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
-      "posted_relative": "for 4 t siden",
-      "text": "Skal ikke denne dumpes til rudt 3 kroner om 1 mnd? Hvorfor handles det til denne prisen? Vis 1 kommentar til",
+      "text": "Jeg prøver å forstå prisingen av 2020 Bulkers akkurat nå. Den vanlige aksjen handles til rundt 8,60 kr på Oslo Børs, mens de nye aksjene (2020T) kan kjøpes for rundt 3,20 kr på NOTC. Det er en enorm forskjell på omtrent 63 %. Hvorfor kjøper folk den vanlige aksjen til 8,60 kr? Hva er det jeg ikke har fått med meg? Noen spørsmål jeg lurer på: Skal de gamle og nye aksjene etter hvert samles under samme ISIN? Er det noen forskjell i de økonomiske rettighetene mellom aksjene? Finnes det noen grunn til at den gamle aksjen skal være verdt 8,60 kr når de nye aksjene kan kjøpes for rundt 3,20 kr? Jeg skjønner at kursene kan nærme seg hverandre i begge retninger, og at det ikke nødvendigvis er NOTC-aksjen som skal opp. Det kan like gjerne være den vanlige aksjen som skal ned. Er det noen her som har satt seg grundig inn i emisjonen, aksjestrukturen og hva som skjer når de nye aksjene blir børsnotert? Hvorfor betale 8,60 kr for en aksje når man tilsynelatende kan kjøpe de nye aksjene mfor 3,20 kr?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        1,
+        1
       ],
       "links": [],
-      "char_count": 108,
+      "char_count": 1002,
       "has_link": false
     },
     {
-      "key": "d096c099e235dd1e",
-      "author": "Gold4Ever",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gold4ever",
+      "key": "df2eb48857258d0a",
+      "author": "Kimkimkim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim",
+      "posted_relative": "for 2 t siden",
+      "text": "Tipper det er samme mekanisme man ser hver gang et flyselskap går konkurs. Mange nok som ikke forstår hva som skjer til å presse prisen opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "9145a794f8e0be98",
+      "author": "Evenmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/evenmann",
       "posted_relative": "for 3 t siden",
-      "text": "Fortsatt mulig å handle den til 3,2? Eller er den fulltegnet?",
+      "text": "Tradere gjør hva tradere gjør. Er du verdiinvestor kan du nok med fordel vente litt.  My 5cents",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 61,
+      "char_count": 95,
       "has_link": false
     },
     {
-      "key": "f64931fd62b937fd",
-      "author": "Jaffa816",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaffa816",
-      "posted_relative": null,
-      "text": "15. okt. er det fortrinnsrett på emisjon?",
-      "reply_count": 2,
+      "key": "685852d4b202ad26",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 2 t siden",
+      "text": "Finanstilsynet må godkjenne når de setter dato er det bare de som vet og da faller kursen 65%",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 41,
+      "char_count": 93,
       "has_link": false
     }
   ]
