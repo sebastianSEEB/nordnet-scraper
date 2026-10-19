@@ -1,25 +1,39 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-19T11:35:29.245476+00:00",
+  "scraped_at": "2026-10-19T14:00:47.498368+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "3e54db3b81f5e784",
-      "author": "akmg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "key": "54fb76c613eb4abe",
+      "author": "Kjetil K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjetil-k",
       "posted_relative": "for 1 t siden",
-      "text": "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge",
+      "text": "Jeg har et noob spørsmål hvis man har en aksje på x dag og så selger det før utbetalingsdatoen.  Får man utbytte da eller ikke? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 147,
+      "has_link": false
+    },
+    {
+      "key": "cd5f1ee1e1caf4d9",
+      "author": "fizban",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fizban",
+      "posted_relative": "for 33 min siden",
+      "text": "Du må eie den dagen FØR ex-dag, så kan du selge og likevel få utbytte.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge"
-      ],
-      "char_count": 93,
-      "has_link": true
+      "links": [],
+      "char_count": 70,
+      "has_link": false
     }
   ]
 }

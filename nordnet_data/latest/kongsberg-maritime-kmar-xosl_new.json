@@ -1,68 +1,38 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-19T11:34:06.831476+00:00",
+  "scraped_at": "2026-10-19T13:59:24.925484+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "94d906de212a71e4",
-      "author": "Brumle-88",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brumle-88",
-      "posted_relative": "for 4 t siden",
-      "text": "https://www.finansavisen.no/finans/2026/10/19/8388472/venter-17-prosent-avkastning-fra-glemt-aksje",
+      "key": "e7b7adfc4240159b",
+      "author": "Toen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toen",
+      "posted_relative": "for 1 t siden",
+      "text": "Må vel være ulovlig det DnB holder på med? Kursmanipulasjon Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        12
+        3,
+        2
       ],
-      "links": [
-        "https://www.finansavisen.no/finans/2026/10/19/8388472/venter-17-prosent-avkastning-fra-glemt-aksje"
-      ],
-      "char_count": 98,
-      "has_link": true
+      "links": [],
+      "char_count": 79,
+      "has_link": false
     },
     {
-      "key": "0ca6d4f3a72d32ad",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 24 min siden",
-      "text": "De bommet jo brutalt på kr 50 sist. Så det er et forsøk på å redde seg inn. Kmar går mot veldig gode tider som selskap og det gjør kursen sannsynlig også. Regner med DnB kommer løpende etter som tidligere",
+      "key": "426f51fbec88b10d",
+      "author": "_Cryptics",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cryptics",
+      "posted_relative": "for 31 min siden",
+      "text": "De økte kursmålet sitt fra 50 til 55kr?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 204,
-      "has_link": false
-    },
-    {
-      "key": "04984a166d55a959",
-      "author": "CVS1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cvs1",
-      "posted_relative": "for 2 t siden",
-      "text": "Lurer på hvor dnb cardiganen hoster opp 55kr i kursmål.  Virker jo nesten som de prøver og presse prisen ned for og komme seg inn igjen under 60. La de få motstand! Ikke la dere lure",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        7,
-        1
-      ],
-      "links": [],
-      "char_count": 182,
-      "has_link": false
-    },
-    {
-      "key": "cdfd61c59f926eba",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Neste gang DnB kommer med en oppdatering har de nok økt kursmål til kr 60 og bedyrer salg. Analytikeren her har kostet kundene sine mye penger så langt",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 151,
+      "char_count": 39,
       "has_link": false
     }
   ]

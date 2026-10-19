@@ -1,37 +1,50 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-19T11:34:30.253212+00:00",
+  "scraped_at": "2026-10-19T13:59:48.121010+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "6d6681e222547a57",
-      "author": "cardiff",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cardiff",
-      "posted_relative": null,
-      "text": "15. okt. Er det nettogjelda som får markedet til å straffe Skogen langt mer enn snittnedgangen på Oslo Børs i dag mon tro?",
+      "key": "1728f5e11fcb8d20",
+      "author": "Larsen132",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsen132",
+      "posted_relative": "for 4 t siden",
+      "text": "Ser jo bare røde tall her, noen som har troen på grønne tall etter kvartalsrapporten? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        2
       ],
       "links": [],
-      "char_count": 122,
+      "char_count": 105,
       "has_link": false
     },
     {
-      "key": "f4bb0d60457e3603",
+      "key": "c5623a18689820e9",
       "author": "Larsen132",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsen132",
-      "posted_relative": "for 2 t siden",
-      "text": "Ser jo bare røde tall her, noen som har troen på grønne tall etter kvartalsrapporten?",
+      "posted_relative": "for 22 min siden",
+      "text": "Ja det får vi håpe, noen her inne håper på 70-80  også😂😂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 85,
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "61bf79ee9db92ac7",
+      "author": "aspeløv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
+      "posted_relative": null,
+      "text": "15. okt. hvis 20 aktører har mellom 0,4 og 0.49% short?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-19T11:33:03.038769+00:00",
+  "scraped_at": "2026-10-19T13:58:23.682848+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0c6548345c7c0f9d",
+      "author": "Vikingen88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikingen88",
+      "posted_relative": null,
+      "text": "15. okt. · Der er vi faen meg under 50. Snakk om elendig utvikling. Jeg er så lei...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    }
+  ]
 }
