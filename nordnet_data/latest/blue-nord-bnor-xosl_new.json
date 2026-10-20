@@ -1,38 +1,54 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-20T15:28:06.431084+00:00",
+  "scraped_at": "2026-10-20T19:44:35.842419+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "80f7343dda51c79a",
-      "author": "Karve",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karve",
-      "posted_relative": null,
-      "text": "16. okt. Ryker 610 i dag er det årsbeste 😜 Teknisk ifølge Investtech er det oppover som gjelder nå 🍾🥂",
+      "key": "260ccbbda5e92b2c",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": "for 7 t siden",
+      "text": "Det jeg lurer på er hvor lenge det tar for myndighetene i Norge, Danmark og eventuelt EU har sagt sitt om fusjonen. Dersom noen av de setter seg på bakbeins så blir det ingen fusjon. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        10,
-        3
+        2,
+        2
       ],
       "links": [],
-      "char_count": 101,
+      "char_count": 202,
       "has_link": false
     },
     {
-      "key": "59b92e7e466101ce",
-      "author": "Inbestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "key": "6ecfcb7745bb593e",
+      "author": "Ditech",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ditech",
       "posted_relative": null,
-      "text": "16. okt. Kommentaren er slettet.",
-      "reply_count": 2,
+      "text": "16. okt. Beste aksjen jeg noen gang har hatt 😃",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "dd6eed60e58e1fed",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er vedtatt med fusjon🙏👍",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 32,
+      "char_count": 27,
       "has_link": false
     }
   ]

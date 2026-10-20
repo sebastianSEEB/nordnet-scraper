@@ -1,22 +1,39 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-20T15:30:30.533077+00:00",
+  "scraped_at": "2026-10-20T19:47:03.293699+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9a79b36f5676d4e5",
-      "author": "OnklSkrue",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
-      "posted_relative": "for 1 t siden",
-      "text": "· Lolz",
+      "key": "bad1d756bffdfd71",
+      "author": "WarrenBoy73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warrenboy73",
+      "posted_relative": "for 35 min siden",
+      "text": "· Nordea gjentar sin kjøpsanbefaling på det norske lagerautomatiseringsselskapet Autostore med et kursmål på 18,5 norske kroner før tredjekvartalsrapporten. Banken venter en ordreinngang på 180 millioner USD, en økning på 18 prosent fra året før og 6 prosent over konsensus. Ebitda-marginen er ventet å være 42,9 prosent, sammenlignet med konsensus på 42,7 prosent. Nordea fortsetter å se sterk etterspørsel etter fleksible automatiseringsløsninger, drevet av stigende lagerkostnader og mangel på arbeidskraft.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 6,
+      "char_count": 510,
+      "has_link": false
+    },
+    {
+      "key": "f9e1025e2aa2a29b",
+      "author": "LongAS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longas",
+      "posted_relative": "for 1 t siden",
+      "text": "Støtter denne 1000%!!!! 20kr ila 2026, 30-40kr før Q2 2027!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 60,
       "has_link": false
     }
   ]

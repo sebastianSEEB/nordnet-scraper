@@ -1,43 +1,25 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-20T15:32:00.184769+00:00",
+  "scraped_at": "2026-10-20T19:48:33.745908+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "57873e03fc7675e5",
-      "author": "zappaphone",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "\"Telenor om satellitt og geopolitisk uro Gjesteintervju med Torbjørn Wist, Finansdirektør\" https://www.youtube.com/watch?v=kZ2x20FSbuE",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [
-        "https://www.youtube.com/watch?v=kZ2x20FSbuE"
-      ],
-      "char_count": 134,
-      "has_link": true
-    },
-    {
-      "key": "44c08a0346fefcff",
-      "author": "jdjddjdhe",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jdjddjdhe",
+      "key": "7eccb447c76e4ecd",
+      "author": "PimpFunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
       "posted_relative": null,
-      "text": "16. okt. Noen som vet hvilken teknologi telenor mener utløst feilen i forrige uke? ss7, bgp eller hva",
+      "text": "16. okt. · Endret https://nkom.no/aktuelt/slik-folger-nkom-opp-mobilfeilen-hos-telenor Det som er ute av info, og kommer fra Nkom. Har ikke hørt noe om når rapporten kommer ut ang feilen, men blir nok en gjennomgang av alt, og tiltak deretter.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1,
-        6
+      "engagement_numbers": [],
+      "links": [
+        "https://nkom.no/aktuelt/slik-folger-nkom-opp-mobilfeilen-hos-telenor"
       ],
-      "links": [],
-      "char_count": 101,
-      "has_link": false
+      "char_count": 243,
+      "has_link": true
     }
   ]
 }

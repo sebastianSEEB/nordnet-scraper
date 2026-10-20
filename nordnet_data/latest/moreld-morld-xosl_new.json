@@ -1,9 +1,23 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-20T15:30:10.500558+00:00",
+  "scraped_at": "2026-10-20T19:46:43.616251+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6191651d5f606c9a",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen som har grunnlaget til Pareto sin kurs heving som ble publisert i dag ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    }
+  ]
 }

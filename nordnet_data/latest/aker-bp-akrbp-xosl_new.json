@@ -1,22 +1,55 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-20T15:31:56.379684+00:00",
+  "scraped_at": "2026-10-20T19:48:29.823202+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "c24898b6d0604867",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 1 t siden",
-      "text": "Hvordan føltes knekken fra 385 til 377",
+      "key": "940755bbc34eff0e",
+      "author": "sjokoladen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjokoladen",
+      "posted_relative": null,
+      "text": "16. okt. Oljeprisen bykser opp over 109 dollar https://www.dn.no/investor/nyhetsstudio/179642 Ser ut til at ikke alle tror på at Donald får ned oljeprisen. Vi for se om det blir videre oppgang for Aker Bp spå mandag💵🤑💵",
       "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [
+        "https://www.dn.no/investor/nyhetsstudio/179642"
+      ],
+      "char_count": 218,
+      "has_link": true
+    },
+    {
+      "key": "c53492f619877239",
+      "author": "ndnd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ndnd",
+      "posted_relative": "for 3 t siden",
+      "text": "Følelser kan man ha til psykologen",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 38,
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "64c1f47276ce877b",
+      "author": "Ophon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
+      "posted_relative": "for 8 t siden",
+      "text": "Ro! Ro! Ro! 🤩 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 33,
       "has_link": false
     }
   ]
