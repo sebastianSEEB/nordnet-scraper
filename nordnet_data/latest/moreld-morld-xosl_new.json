@@ -1,38 +1,22 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-20T10:39:02.179623+00:00",
+  "scraped_at": "2026-10-20T12:12:10.886644+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "ec2d88fecd997a02",
-      "author": "jbrn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
-      "posted_relative": "for 3 t siden",
-      "text": "Selv ikke dette gjorde noe for kursen. Her er det alt for mange som vil ut",
-      "reply_count": null,
+      "key": "63c15ddeabc1f9a8",
+      "author": "Reder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reder",
+      "posted_relative": "for 33 min siden",
+      "text": "Det var jo for en uke siden.",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 74,
-      "has_link": false
-    },
-    {
-      "key": "db867781fd10f5b6",
-      "author": "jbrn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
-      "posted_relative": "for 6 t siden",
-      "text": "Pareto klarer kanskje å puste liv i denne med  nytt kursmål på 30 kroner.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        5
-      ],
-      "links": [],
-      "char_count": 73,
+      "char_count": 28,
       "has_link": false
     }
   ]

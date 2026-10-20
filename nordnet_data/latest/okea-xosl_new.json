@@ -1,98 +1,37 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-20T10:39:44.001753+00:00",
+  "scraped_at": "2026-10-20T12:12:52.945824+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 6,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "211aeb7f9aed853a",
-      "author": "KMWD",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
-      "posted_relative": null,
-      "text": "16. okt. · https://www.bangchak.co.th/en/newsroom/bangchak-news/2031/bangchak-group-okea-and-japex-explore-business-collaboration-opportunities",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [
-        "https://www.bangchak.co.th/en/newsroom/bangchak-news/2031/bangchak-group-okea-and-japex-explore-business-collaboration-opportunities"
-      ],
-      "char_count": 143,
-      "has_link": true
-    },
-    {
-      "key": "04dfb47e06ff4982",
-      "author": "kribbo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kribbo",
-      "posted_relative": "for 1 min siden",
-      "text": "Rolig nå. Over 100 % i år.  Hvis de bekrefter utbytte, så vil kursen bevege seg på nytt. Fortsatt ekstremt lav MCap med tanke på hvor mye de produserer.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 152,
-      "has_link": false
-    },
-    {
-      "key": "58f370686b375b33",
-      "author": "Tiger-Boy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiger-boy",
-      "posted_relative": null,
-      "text": "16. okt. Spennende. Kanskje en allianse med flere selskaper gjør det enklere å lykkes i Norge for Okea...",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 105,
-      "has_link": false
-    },
-    {
-      "key": "c4b0bfc1bb4cf188",
-      "author": "tesk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
-      "posted_relative": "for 23 t siden",
-      "text": "Olja og gass er opp og okea går ned, merkelig Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4,
-        2
-      ],
-      "links": [],
-      "char_count": 65,
-      "has_link": false
-    },
-    {
-      "key": "cd57e036c11bdde9",
-      "author": "Beyond-21",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
-      "posted_relative": "for 30 min siden",
-      "text": "Synes OKEA har holdt seg bemerkelsesverdig bra i det siste",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
-    },
-    {
-      "key": "b846502b400ef8c1",
+      "key": "db5db024b65657ed",
       "author": "B87",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
-      "posted_relative": "for 3 t siden",
-      "text": "Det er Q3 rapport snart, denne skal en del over 50🍂☀️",
+      "posted_relative": "for 5 min siden",
+      "text": "Q3 blir så langt i år den desidert sterkeste rapporten, jeg ser også en reprising av selskapet på osebx den siste uken.  Om oppkjøp eller utbytte kommer frem i presentasjonen så vil denne gå høyt etter min oppfatning",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        3
+        1
       ],
       "links": [],
-      "char_count": 53,
+      "char_count": 216,
+      "has_link": false
+    },
+    {
+      "key": "227a769c543a4999",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 14 min siden",
+      "text": "Svak produksjon og stor andel hedge i Q3 så tror ikke man skal håpe på for mye",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
       "has_link": false
     }
   ]

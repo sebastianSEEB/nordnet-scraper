@@ -1,9 +1,42 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-10-20T10:36:18.482322+00:00",
+  "scraped_at": "2026-10-20T12:09:22.232153+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f6735d8f372cce9c",
+      "author": "ivid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ivid",
+      "posted_relative": null,
+      "text": "16. okt. · Endret 16.10. kl. 14.30 Live sending nå Tank er veldig interessant - har også tro på MPCC. Se: https://www.finansavisen.no/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://www.finansavisen.no/"
+      ],
+      "char_count": 134,
+      "has_link": true
+    },
+    {
+      "key": "fc6c2b8843a02a13",
+      "author": "Cruiser 75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cruiser-75",
+      "posted_relative": null,
+      "text": "16. okt. Fulle ordrebøker og videre kjøp/vekst tror jeg skremmer.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

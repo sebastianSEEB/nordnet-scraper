@@ -1,71 +1,51 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-10-20T10:39:40.249904+00:00",
+  "scraped_at": "2026-10-20T12:12:48.954398+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 4,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "980ff6ddcf6b0c23",
-      "author": "Oleoleksander",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oleoleksander",
-      "posted_relative": "for 3 t siden",
-      "text": "https://e24.no/i/4OQEG9?utm_source=androidapp&utm_medium=share",
+      "key": "fa4dc4b41e43cfda",
+      "author": "Jo4more",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jo4more",
+      "posted_relative": "for 4 min siden",
+      "text": "Makro som gjør at mange aksjonærer for tiden velger å sikre seg og rebalansere investeringsporteføljen. Q3 rapport og spennende guiding setter forhåpentligvis litt fart på kursen igjen.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://e24.no/i/4OQEG9?utm_source=androidapp&utm_medium=share"
-      ],
-      "char_count": 62,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 185,
+      "has_link": false
     },
     {
-      "key": "423d6b452b817c46",
-      "author": "Denerikkelangmendenertynn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/denerikkelangmendenertynn",
+      "key": "457186ece85ee5bd",
+      "author": "MrSaxobeat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrsaxobeat",
       "posted_relative": "for 1 t siden",
-      "text": "Minner meg om Statoil fuel and retail hvor kursen ble presset ned i lang tid, før det ble til CirkleK.",
+      "text": "Noen som har en nøytral analyse og forventninger til kommende rapport? Er dere bear/bull? Jeg har selv en del aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    },
+    {
+      "key": "0b2910581a9bb2ae",
+      "author": "BGTOR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bgtor",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Gode nyheter gir folk håp, men aksjen siger stadig nedover!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        2,
         3
       ],
       "links": [],
-      "char_count": 102,
-      "has_link": false
-    },
-    {
-      "key": "acdcc4a02883a483",
-      "author": "Simondyr",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simondyr",
-      "posted_relative": "for 1 t siden",
-      "text": "· Dessverre blir den dyr igjen i dag. Vanskelig å helt regne ut hva som kommer til å skje.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 90,
-      "has_link": false
-    },
-    {
-      "key": "df6dd130eb6f44ac",
-      "author": "BGTOR",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bgtor",
-      "posted_relative": "for 34 min siden",
-      "text": "Gode nyheter gir folk håp, men aksjen siger stadig nedover 🤣",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 60,
+      "char_count": 59,
       "has_link": false
     }
   ]

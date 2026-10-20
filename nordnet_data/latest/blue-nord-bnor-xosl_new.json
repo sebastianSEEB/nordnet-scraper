@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-20T10:36:59.940092+00:00",
+  "scraped_at": "2026-10-20T12:10:07.110091+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f8cb5115f04d8d14",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": "for 6 min siden",
+      "text": "Det jeg lurer på er hvor lenge det tar for myndighetene i Norge, Danmark og eventuelt EU har sagt sitt om fusjonen. Dersom noen av de setter seg på bakbeins så blir det ingen fusjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 182,
+      "has_link": false
+    }
+  ]
 }

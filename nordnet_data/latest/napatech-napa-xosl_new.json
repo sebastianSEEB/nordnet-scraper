@@ -1,9 +1,26 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-20T10:38:23.385302+00:00",
+  "scraped_at": "2026-10-20T12:11:32.613954+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "87c67efe2188ca60",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": null,
+      "text": "16. okt. Ikke stort med nyheter rundt denne casen, ABG  har en kurs på 87 i fra 26 August,  ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    }
+  ]
 }
