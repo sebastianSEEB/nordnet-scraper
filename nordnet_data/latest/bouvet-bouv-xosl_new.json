@@ -1,9 +1,23 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-20T05:34:13.833974+00:00",
+  "scraped_at": "2026-10-20T10:38:50.003693+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dd039da2a2cc53d3",
+      "author": "Gråbein 44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
+      "posted_relative": null,
+      "text": "16. okt. · Andre har lagt ut link her som truleg viser kvifor? 🤑",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }

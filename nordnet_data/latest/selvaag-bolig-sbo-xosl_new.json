@@ -1,9 +1,23 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-10-20T05:38:02.374808+00:00",
+  "scraped_at": "2026-10-20T10:42:27.115935+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b72d5cd9ec0eb58a",
+      "author": "NQ-Luckystrike",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nq-luckystrike",
+      "posted_relative": "for 1 t siden",
+      "text": "Nyboligsalget stuper videre, men folk har fortsatt trua?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

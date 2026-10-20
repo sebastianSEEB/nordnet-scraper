@@ -1,9 +1,52 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-10-20T05:36:35.594362+00:00",
+  "scraped_at": "2026-10-20T10:41:03.607240+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bd52d83dd2b8d650",
+      "author": "steppa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steppa",
+      "posted_relative": null,
+      "text": "16. okt. Noen som har gjort noen tanker om hvordan El Niño vil påvirke Yara? Gjødselprisene bør vel gå greit opp?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "81a5fe87eb8d48e0",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": null,
+      "text": "16. okt. Skjønner lite hvorfor kursen er i minus idag ?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "a7efd0b8ad40e7ac",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": null,
+      "text": "16. okt. Skal kursen tilbake til 450 snart ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

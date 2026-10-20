@@ -1,9 +1,66 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-20T05:33:30.010196+00:00",
+  "scraped_at": "2026-10-20T10:38:08.157638+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "7cf4c25c4071414f",
+      "author": "Sevishare",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sevishare",
+      "posted_relative": "for 1 min siden",
+      "text": "Tragisk? til denne prisen snakker man 10% direkteavkastning rett i lomma i mai/juni neste år :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "3441fd1101d8fb5a",
+      "author": "saggiz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
+      "posted_relative": "for 1 t siden",
+      "text": "FML-denne har vært tragisk for min del",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "cc436bc0bed54e37",
+      "author": "Notisblokka",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/notisblokka",
+      "posted_relative": "for 1 t siden",
+      "text": "Muligheter for å kjøpe mer 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    },
+    {
+      "key": "ed5297d5d93a4cba",
+      "author": "Boffa72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/boffa72",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjer her??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

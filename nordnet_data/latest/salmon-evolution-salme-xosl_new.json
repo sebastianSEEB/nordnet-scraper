@@ -1,9 +1,39 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-20T05:38:38.467032+00:00",
+  "scraped_at": "2026-10-20T10:43:01.475972+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bc9a758dc7c414af",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 1 t siden",
+      "text": "November nærmer seg og jeg må helt ærlig si jeg trodde ikke vi ville komme så langt ned, men for meg er det snart påfylling igjen for juletider. Tid for laks på julebordet osv, Jeg trøster meg på at det er dårlige tider i markedet og min tro på salme er ikke forvitrett, jeg håper jeg kan se til ake som pensjonist at dette var en av mi e gode valg. Ha ei go uke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 363,
+      "has_link": false
+    },
+    {
+      "key": "e3336975368199fa",
+      "author": "MrPoopenstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrpoopenstein",
+      "posted_relative": "for 5 min siden · Endret",
+      "text": "· Norsk laks spises hele året rundt i hele verden . Tror ikke julebordet vil forandre mye. Håper du har rett likevel : )",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    }
+  ]
 }

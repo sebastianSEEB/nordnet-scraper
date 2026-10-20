@@ -1,9 +1,36 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-20T05:33:06.218411+00:00",
+  "scraped_at": "2026-10-20T10:37:45.480177+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d1883743a73cff7b",
+      "author": "Bill Bradely",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bill-bradely",
+      "posted_relative": "for 58 min siden",
+      "text": "De som har fulgt innleggene mine på dette forumet, har nok fått med seg at jeg lenge har vært svært skeptisk til de mildt sagt absurde påstandene fra såkalte analytikere om verdsettelsen av Norbit. DNBs nedjustering av kursmålet i dag bekrefter bare det jeg har påpekt over lengre tid. Det er nesten imponerende hvor feil det er mulig å ta. En apekatt hadde sannsynligvis gjort en bedre jobb!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 392,
+      "has_link": false
+    },
+    {
+      "key": "632043993dcb6a49",
+      "author": "Aruhoff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aruhoff",
+      "posted_relative": "for 3 t siden",
+      "text": "Lenke?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

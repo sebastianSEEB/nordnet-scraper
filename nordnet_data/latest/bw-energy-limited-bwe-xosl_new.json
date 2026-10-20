@@ -1,9 +1,25 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-10-20T05:35:31.487340+00:00",
+  "scraped_at": "2026-10-20T10:40:02.944195+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2fa1d5facc2ef8b6",
+      "author": "OEVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oevis",
+      "posted_relative": null,
+      "text": "16. okt. Var vel heller blandet update vil jeg si. Kunne vært bedre realisert pris i q3, og litt nedjustert produksjon i år som følge av fortsatt tekniske problemer er ikke bra. Men oljefunn er topp, og mye løftet usolgt olje som antagelig realiseres til priser på 110-130 dollar dated (eller høyere) i q4 vil jeg si oppveier, eller styrker caset fremover. Fortsatt vesentlig undervurdert i mine øyne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 401,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-10-20T05:34:30.601427+00:00",
+  "scraped_at": "2026-10-20T10:39:05.969985+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "03ea7a3a013422a7",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "16. okt. Liker utviklingen i dag. Jevnlige relativt store kjøp som hver gang driver kursen et lite trinn oppover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "984a9cc63d931229",
+      "author": "Tpbraut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tpbraut",
+      "posted_relative": null,
+      "text": "16. okt. De som kjøper på disse nivåene kan takke seg selv om noen år!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

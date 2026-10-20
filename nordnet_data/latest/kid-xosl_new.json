@@ -1,9 +1,23 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-10-20T05:35:39.390647+00:00",
+  "scraped_at": "2026-10-20T10:40:10.369707+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5f935b628e1e3b89",
+      "author": "iok",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iok",
+      "posted_relative": "for 2 t siden",
+      "text": "Er det flere her inne som også er med i Bohus? Bare spør fordi jeg lurer :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }

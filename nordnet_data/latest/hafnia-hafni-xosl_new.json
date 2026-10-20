@@ -1,9 +1,51 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-10-20T05:31:01.597018+00:00",
+  "scraped_at": "2026-10-20T10:35:46.762867+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2dc2ce7870ccff02",
+      "author": "NRH1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nrh1970",
+      "posted_relative": "for 15 min siden",
+      "text": "· Tror bunnen er nådd nå, forventer stigning i løpet av de neste dagene og rundt kurs 102 midt i november. Det ligger forventet også et utbytte på rundt NOK 4",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    },
+    {
+      "key": "6eb22ad21dcd156e",
+      "author": "NRH1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nrh1970",
+      "posted_relative": "for 2 t siden",
+      "text": "· Absolutt, tendensen tyder på rundt kurs 102 i slututen av november vil jeg si",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "c93e4102187a08d9",
+      "author": "Fesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fesk",
+      "posted_relative": "for 2 t siden",
+      "text": "Tror dere HAFNIA skal langt ned nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

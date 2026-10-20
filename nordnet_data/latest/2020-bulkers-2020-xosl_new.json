@@ -1,9 +1,53 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-20T05:31:21.417170+00:00",
+  "scraped_at": "2026-10-20T10:36:06.803785+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "7feb3cd1355cc4fe",
+      "author": "osake",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osake",
+      "posted_relative": "for 20 t siden",
+      "text": "Merkelig dette. Trodde jeg var heldig når jeg solgte for over 11 den 17/9. For halvannen uke siden kjøpte jeg tilbake pluss enda mer på NOTC for 3,20. Var det dumt? Begynner nesten å lure på om det er noe jeg har misforstått... Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 247,
+      "has_link": false
+    },
+    {
+      "key": "88c7956447061890",
+      "author": "CRJtrader",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/crjtrader",
+      "posted_relative": null,
+      "text": "16. okt. · Kommer garantert til å bli en kjøretur opp her før de nye aksjene kommer. Innsiderne passer alltid på å pushe opp den lave floaten før nye aksjer skal slippes. Ikke umulig vi ser 12 nok igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 203,
+      "has_link": false
+    },
+    {
+      "key": "b8de079183e7ce79",
+      "author": "W0nder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/w0nder",
+      "posted_relative": "for 12 min siden",
+      "text": "Er vel bare å selge igjen i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

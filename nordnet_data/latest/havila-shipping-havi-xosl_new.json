@@ -1,9 +1,25 @@
 {
   "slug": "havila-shipping-havi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/havila-shipping-havi-xosl",
-  "scraped_at": "2026-10-20T05:31:58.197499+00:00",
+  "scraped_at": "2026-10-20T10:36:41.092072+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9be0690bb80f4e9d",
+      "author": "patron72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/patron72",
+      "posted_relative": "for 2 t siden",
+      "text": "Mulig fortgang i strategisk gjennomgang i Hav Group nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

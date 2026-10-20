@@ -1,9 +1,36 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-20T05:35:48.195877+00:00",
+  "scraped_at": "2026-10-20T10:40:18.118043+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "55438a90943ba2bb",
+      "author": "Warp10",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/warp10",
+      "posted_relative": "for 16 min siden",
+      "text": "I og med at Berenberg hevet kursmålet dagen etter at de solgte aksjene sine og Q3 kommer opp snart, så tror jeg at DNB Carnegie kanskje burde vært litt mer tålmodige. De skriver jo at de solgte seg ut pga valuta gir motstand i selskapet, men det gjelder vel alle selskaper som eksporterer til utlandet. Jeg forstår ikke helt argumentet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 336,
+      "has_link": false
+    },
+    {
+      "key": "42cd00194ece7146",
+      "author": "jakamo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jakamo",
+      "posted_relative": "for 2 t siden",
+      "text": "· Det er ni dager til regnskap, jeg vil vente og se hva det sier..￼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

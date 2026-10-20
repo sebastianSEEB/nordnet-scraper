@@ -1,9 +1,121 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-20T05:36:19.709009+00:00",
+  "scraped_at": "2026-10-20T10:40:48.443096+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 7,
+  "posts": [
+    {
+      "key": "26574d71691b42ba",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 1 døgn siden",
+      "text": "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/6qV9Ar/spacex-solgte-starlink-nett-for-831-millioner-i-norge"
+      ],
+      "char_count": 113,
+      "has_link": true
+    },
+    {
+      "key": "737afe00430bd0d7",
+      "author": "LArgh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/largh",
+      "posted_relative": "for 4 t siden",
+      "text": "Ja, du kan selge fra og med eks. dag og fortsatt motta utbytte. Legg merke til at åpningskursen på eks. dag vil justeres ned tilsvarende utbytte, så det er ikke nødvendigvis noe å tjene på å gjøre dette.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 203,
+      "has_link": false
+    },
+    {
+      "key": "3202cdc0ef1340be",
+      "author": "Android",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Ja USA vil at EU skal bli avhengig at Starlink, slik at USA kan diktere ved behov, slik de gjør i Ukraina når de kutter/reduserer internettforbindelsen, alt etter humøret til narsissisten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 188,
+      "has_link": false
+    },
+    {
+      "key": "036c9c78441b716c",
+      "author": "Kjetil K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjetil-k",
+      "posted_relative": "for 21 t siden",
+      "text": "Jeg har et noob spørsmål hvis man har en aksje på x dag og så selger det før utbetalingsdatoen.  Får man utbytte da eller ikke?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "1ad621e3fe5893b5",
+      "author": "littlecaeser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littlecaeser",
+      "posted_relative": "for 2 t siden",
+      "text": "Du kan banne på at de vil inn i TEL selv å det er stort.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "1c09e4b845e86b78",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 3 t siden",
+      "text": "TELENOR: BARCLAYS NEDJUSTERER KURSMÅL TIL 125 FRA 135",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "28aeb9717cb93af6",
+      "author": "hphill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hphill",
+      "posted_relative": null,
+      "text": "16. okt. · 🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }
