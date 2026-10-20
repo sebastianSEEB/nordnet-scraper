@@ -1,9 +1,23 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-10-20T00:47:44.724027+00:00",
+  "scraped_at": "2026-10-20T05:31:09.590343+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3b261f56be402012",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 15 min siden",
+      "text": "Opp til en selv om man tar risken, ikke alltid kan man gjøre det, kan ta lengre tid å kjøpe inn igjen, så dagslønn kan bli månedslønn, eller utebli.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 148,
+      "has_link": false
+    }
+  ]
 }

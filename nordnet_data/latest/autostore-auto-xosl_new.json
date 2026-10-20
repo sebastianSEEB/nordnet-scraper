@@ -1,9 +1,25 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-20T00:51:14.324652+00:00",
+  "scraped_at": "2026-10-20T05:34:46.581821+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "86ffa32e358e21c8",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 39 min siden",
+      "text": "Fearnley med selg og kursmål 13kr. Skal man gråte eller skal man le, eventuelt som meg «trekke på skuldrene». Tipper de er idioterklært ved q3 om to uker, men vi får se. Selv tror jeg på enda et bunnsolid kvartal, og også 20kr før nyttår📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 238,
+      "has_link": false
+    }
+  ]
 }
