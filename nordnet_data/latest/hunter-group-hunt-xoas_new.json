@@ -1,51 +1,44 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-20T19:48:09.941020+00:00",
+  "scraped_at": "2026-10-20T22:52:32.180387+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c3170aa0ec050e3f",
+      "key": "9aa70faa880f8608",
       "author": "nopetter",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "Ny nedtur på 35000 usd fra topp ned 94000 usd VLCC TD3C FFA Nov/Dec down 4%, Q1 down 6%⬇️    TD3C TCE (AG >CN) -35k to 1,318k↘️ TD22 TCE (US>CN) -24k to 491k⬇️ SUEZ TCE -13k to 668k➡️ AFRA TCE -3k to 320k➡️  BWET down 8%⏬",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 221,
-      "has_link": false
-    },
-    {
-      "key": "2f27b33220fd5980",
-      "author": "TRD 100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
-      "posted_relative": "for 2 t siden",
-      "text": "· VLCC TD3C FFA Nov/Dec ned 4%, Q1 ned 6%⬇️    TD3C TCE (AG >CN) -35k til 1,318k↘️ TD22 TCE (US>CN) -24k til 491k⬇️ SUEZ TCE -13k til 668k➡️ AFRA TCE -3k til 320k➡️  BWET ned 8%⏬",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Asiatiske gass priser opptil  5 års ATH. Gir et håp om at TD3C raten snart snur, legg merke til i linken at en liknende dupp i raten som vi har nå  var når den gikk over 1,2 mill nivået  Asian LNG prices are SKYROCKETING: Asian LNG spot prices surged to $30.4 per million British thermal units, the highest since December 2022. This is TRIPLE the levels seen before the Iran war, amid attacks on energy vessels in the Middle East that threaten supplies. The war has trapped most Qatari LNG production behind the Strait of Hormuz, disrupting supplies from a country that previously accounted for ~20% of global LNG supply. As a result, Asian buyers are increasingly competing for expensive spot cargoes as contracted deliveries fall short, just as demand rises ahead of the Northern Hemisphere winter. This is intensifying competition with Europe, where gas storage is only 75% full, compared with the 5-year seasonal average of 89%. The unprecedented energy crunch is driving up household electricity bills and fueling inflation across the globe. https://www.reuters.com/business/energy/asian-refiners-use-smaller-tankers-buy-delivered-crude-freight-rates-soar-2026-10-20/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [],
-      "char_count": 178,
-      "has_link": false
+      "links": [
+        "https://www.reuters.com/business/energy/asian-refiners-use-smaller-tankers-buy-delivered-crude-freight-rates-soar-2026-10-20/"
+      ],
+      "char_count": 1172,
+      "has_link": true
     },
     {
-      "key": "2e5db5aaa17ac58c",
-      "author": "Holder Kanskje",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holder-kanskje",
-      "posted_relative": "for 1 t siden",
-      "text": "Tror jeg tar meg noen dager på ryggen jeg, greier ikke å finne på no' bedre!",
+      "key": "827d35c6f5f91a0e",
+      "author": "phor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.breakwaveadvisors.com/insights/102026wetreportju87-pp-09 Breakwave virker mer positiv til VLCC-markedet på kort sikt enn fallet i BWET skulle tilsi ifølge rapporten.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 76,
-      "has_link": false
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.breakwaveadvisors.com/insights/102026wetreportju87-pp-09"
+      ],
+      "char_count": 177,
+      "has_link": true
     }
   ]
 }
