@@ -1,9 +1,23 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-20T12:10:46.716679+00:00",
+  "scraped_at": "2026-10-20T15:28:45.495183+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b8eb31c6e2276487",
+      "author": "Thebrokebroker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thebrokebroker",
+      "posted_relative": "for 2 t siden",
+      "text": "· men den faller....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

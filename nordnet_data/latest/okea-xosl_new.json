@@ -1,37 +1,68 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-20T12:12:52.945824+00:00",
+  "scraped_at": "2026-10-20T15:30:53.718692+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "db5db024b65657ed",
-      "author": "B87",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
-      "posted_relative": "for 5 min siden",
-      "text": "Q3 blir så langt i år den desidert sterkeste rapporten, jeg ser også en reprising av selskapet på osebx den siste uken.  Om oppkjøp eller utbytte kommer frem i presentasjonen så vil denne gå høyt etter min oppfatning",
-      "reply_count": null,
+      "key": "666892a6b5c640c8",
+      "author": "Tiger-Boy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiger-boy",
+      "posted_relative": null,
+      "text": "16. okt. Frem til 2Q så var gassprisene hedget til lavere priser enn de er for 2H (snittpris i 2Q var 78 USD/fat). Spennende å se på effekten fra 3Q når roof prisene er på 127-314 USD/fat.  Oljen er fortsatt sikret på lavere priser ut 2026 (roof priser på 75% av volumet i 3Q til 75-85 USD)...  Fra Q127 når volumene øker har de i praksis ingen sikringsvolum per utgangen av 2Q.",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 216,
+      "char_count": 378,
       "has_link": false
     },
     {
-      "key": "227a769c543a4999",
-      "author": "KMWD",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
-      "posted_relative": "for 14 min siden",
-      "text": "Svak produksjon og stor andel hedge i Q3 så tror ikke man skal håpe på for mye",
+      "key": "004684f3a477101b",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": null,
+      "text": "16. okt. Syntes OKEA får lite betalt for den rekordhøye gassprisen, uavhengig om my er i faste kontrakter så vil de utløpe fortløpende, og markedet skal vel se fremover ...:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "0b0b890c5ed1ba01",
+      "author": "earnorlearn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/earnorlearn",
+      "posted_relative": "for 3 t siden",
+      "text": "Garn west south er endelig i gang. Innledende produksjon er på 19000 fat dagen. Dette dobler produksjonen på Draugen. Okea sin andel er 44,55%.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    },
+    {
+      "key": "2fa0aa13932e68b3",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "ja ihvertfall hvis den prises tilsvarende Bluenord, da er prisen godt over 100 per aksje",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 78,
+      "char_count": 88,
       "has_link": false
     }
   ]

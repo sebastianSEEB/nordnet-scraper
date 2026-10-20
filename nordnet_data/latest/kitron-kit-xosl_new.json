@@ -1,22 +1,94 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-20T12:10:30.168532+00:00",
+  "scraped_at": "2026-10-20T15:28:29.762700+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "4055f33cd78664d4",
-      "author": "StormPåBørsen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stormpabrsen",
-      "posted_relative": "for 2 min siden",
-      "text": "· 🤣",
+      "key": "db774ccee639c4ba",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 1 t siden",
+      "text": "Du må ikke være så kortsiktig, og husk at analytikere ofte har en agenda som ikke er å gi best mulig objektive vurderinger.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 3,
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "5df449df99629fd6",
+      "author": "Skurken1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skurken1",
+      "posted_relative": "for 2 t siden",
+      "text": "Jeg ligger langt i minus på min portefølge her på nordnet, men jeg har også investert kapital andre plasser",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    },
+    {
+      "key": "82cbe23995b7aac5",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Hva skjer? Stort kjøpstrykk med god omsetning nå på slutten av dagen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        10
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "43b183967821b26e",
+      "author": "Halspulsåre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/halspulsare",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva kan vi forvente av Q3 rapporten?🧐 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "6f12745099fa31f9",
+      "author": "Johnny2608",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johnny2608",
+      "posted_relative": "for 53 min siden",
+      "text": "· Kom en positiv nyhet kl 1430",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "c627c4f274a77fee",
+      "author": "nqtrades",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nqtrades",
+      "posted_relative": "for 2 t siden",
+      "text": "Verdt å kjøpe nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
       "has_link": false
     }
   ]

@@ -1,22 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-20T12:10:07.110091+00:00",
+  "scraped_at": "2026-10-20T15:28:06.431084+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "f8cb5115f04d8d14",
-      "author": "Salmo Salar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
-      "posted_relative": "for 6 min siden",
-      "text": "Det jeg lurer på er hvor lenge det tar for myndighetene i Norge, Danmark og eventuelt EU har sagt sitt om fusjonen. Dersom noen av de setter seg på bakbeins så blir det ingen fusjon.",
+      "key": "80f7343dda51c79a",
+      "author": "Karve",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karve",
+      "posted_relative": null,
+      "text": "16. okt. Ryker 610 i dag er det årsbeste 😜 Teknisk ifølge Investtech er det oppover som gjelder nå 🍾🥂",
       "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        3
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "59b92e7e466101ce",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "16. okt. Kommentaren er slettet.",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 182,
+      "char_count": 32,
       "has_link": false
     }
   ]

@@ -1,38 +1,35 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-20T12:15:46.038900+00:00",
+  "scraped_at": "2026-10-20T15:33:47.554607+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 7,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "a42b5e169e91d359",
-      "author": "StortTap 2.0",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
-      "posted_relative": null,
-      "text": "16. okt. Jeg har fortsatt troen på selskapet. Får satse på noen gode nyheter 20. Okt fra Moldova! Vis 1 kommentar til",
+      "key": "330608bc98169cd4",
+      "author": "Nas-fan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nas-fan",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen som vt kofor den går ned 4% hver dag?",
       "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5,
-        4
-      ],
-      "links": [],
-      "char_count": 117,
-      "has_link": false
-    },
-    {
-      "key": "051b761c1baa9d97",
-      "author": "Pengesluk 2.0",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
-      "posted_relative": "for 28 min siden",
-      "text": "· Noen nyheter?",
-      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 15,
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "90b7023a499dd3ae",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": "for 2 min siden",
+      "text": "Synker på stort volum! Ikke et godt tegn.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

@@ -1,82 +1,101 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-20T12:14:10.201635+00:00",
+  "scraped_at": "2026-10-20T15:32:11.739108+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 5,
+  "total_posts_on_page": 7,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "756a29a53d9f66fa",
-      "author": "tesk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
-      "posted_relative": "for 1 t siden",
-      "text": "går Vår Energi forbi AKRBP i omsetning ved Q3 eller Q4",
+      "key": "fb71b7781347459a",
+      "author": "BenRedicFyFazan26",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
+      "posted_relative": "for 3 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/10/20/8389180/gassprisen-bikker-90-euro-hoyeste-siden-2022",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         4
       ],
-      "links": [],
-      "char_count": 54,
-      "has_link": false
-    },
-    {
-      "key": "81d4a06a79c6ce2e",
-      "author": "LSAS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lsas",
-      "posted_relative": "for 14 min siden",
-      "text": "111,52 e en pris VÅR ikke kan leve med mener du?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/20/8389180/gassprisen-bikker-90-euro-hoyeste-siden-2022"
       ],
-      "links": [],
-      "char_count": 48,
-      "has_link": false
+      "char_count": 98,
+      "has_link": true
     },
     {
-      "key": "4f486a553f02ee0c",
-      "author": "BenRedicFyFazan26",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
-      "posted_relative": "for 1 t siden",
-      "text": "Norge AS går som det griner Vis 1 kommentar til",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 47,
-      "has_link": false
-    },
-    {
-      "key": "f3925d12d09429a8",
-      "author": "BenRedicFyFazan26",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
-      "posted_relative": "for 50 min siden",
-      "text": "90 euro gass er passert",
+      "key": "470aea518eb3dd31",
+      "author": "MaxRaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxraven",
+      "posted_relative": "for 29 min siden",
+      "text": "· https://youtu.be/BpwuUf5ykqI?is=rGw6NQA5ekBGpZy8",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://youtu.be/BpwuUf5ykqI?is=rGw6NQA5ekBGpZy8"
+      ],
+      "char_count": 50,
+      "has_link": true
+    },
+    {
+      "key": "5294e68c574bc537",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": "for 1 t siden",
+      "text": "Har ikke folk troen på god rapport siden den falt så mye i slutten av dagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 23,
+      "char_count": 76,
       "has_link": false
     },
     {
-      "key": "71ad8861cb4e2e13",
+      "key": "bea993d753c3d893",
+      "author": "BenRedicFyFazan26",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
+      "posted_relative": "for 4 t siden",
+      "text": "Norge AS går som det griner",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    },
+    {
+      "key": "efe4d112644e4422",
       "author": "AignerInvest",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aignerinvest",
-      "posted_relative": "for 23 min siden",
-      "text": "SELG SELG SELG",
+      "posted_relative": "for 3 t siden",
+      "text": "Innlegget er slettet.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 14,
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "9a43db4a2846fcb9",
+      "author": "Coinflipper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coinflipper",
+      "posted_relative": "for 1 t siden",
+      "text": "Olje ned 2%",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 11,
       "has_link": false
     }
   ]

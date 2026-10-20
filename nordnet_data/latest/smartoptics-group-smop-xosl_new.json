@@ -1,9 +1,25 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-10-20T12:15:15.519078+00:00",
+  "scraped_at": "2026-10-20T15:33:17.073442+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a26a2bda5d0cffca",
+      "author": "birkmarring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birkmarring",
+      "posted_relative": "for 1 t siden",
+      "text": "Et kjøp nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

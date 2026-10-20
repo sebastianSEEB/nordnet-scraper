@@ -1,53 +1,42 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-20T12:13:58.592327+00:00",
+  "scraped_at": "2026-10-20T15:32:00.184769+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a6ef8b639a7cfe08",
-      "author": "akmg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
-      "posted_relative": "for 5 t siden",
-      "text": "TELENOR: BARCLAYS NEDJUSTERER KURSMÅL TIL 125 FRA 135 Vis 1 kommentar til",
+      "key": "57873e03fc7675e5",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "\"Telenor om satellitt og geopolitisk uro Gjesteintervju med Torbjørn Wist, Finansdirektør\" https://www.youtube.com/watch?v=kZ2x20FSbuE",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
         2
       ],
-      "links": [],
-      "char_count": 73,
-      "has_link": false
+      "links": [
+        "https://www.youtube.com/watch?v=kZ2x20FSbuE"
+      ],
+      "char_count": 134,
+      "has_link": true
     },
     {
-      "key": "69f48c0173951173",
-      "author": "Snopdog",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snopdog",
+      "key": "44c08a0346fefcff",
+      "author": "jdjddjdhe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jdjddjdhe",
       "posted_relative": null,
-      "text": "16. okt. · Skulle hatt meir å handle for i går😔",
+      "text": "16. okt. Noen som vet hvilken teknologi telenor mener utløst feilen i forrige uke? ss7, bgp eller hva",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        1,
+        6
       ],
       "links": [],
-      "char_count": 47,
-      "has_link": false
-    },
-    {
-      "key": "651d0b59af52b492",
-      "author": "Beginnerslucky",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
-      "posted_relative": "for 21 min siden",
-      "text": "· 🤡",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 3,
+      "char_count": 101,
       "has_link": false
     }
   ]

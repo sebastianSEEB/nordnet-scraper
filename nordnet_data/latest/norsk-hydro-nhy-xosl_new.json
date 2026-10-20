@@ -1,22 +1,25 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-20T12:14:02.547088+00:00",
+  "scraped_at": "2026-10-20T15:32:04.141509+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "7ea57a1b301ff0eb",
+      "key": "7518ec6655ea72c9",
       "author": "Denver",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/denver",
-      "posted_relative": "for 5 min siden",
-      "text": "Resultat fredag vil trolig legge føringen på kort sikt.",
+      "posted_relative": null,
+      "text": "16. okt. Alcoa med bedre enn ventet Q3 med 6% stigning foreløpig i dag etter at de steg 2% i går. Dersom det gir en pekepinn på resultat NH så ligger det et løft i lufta.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1,
+        1
+      ],
       "links": [],
-      "char_count": 55,
+      "char_count": 170,
       "has_link": false
     }
   ]

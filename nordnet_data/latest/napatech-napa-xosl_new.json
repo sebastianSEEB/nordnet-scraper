@@ -1,25 +1,41 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-20T12:11:32.613954+00:00",
+  "scraped_at": "2026-10-20T15:29:31.885948+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "87c67efe2188ca60",
-      "author": "A20",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "key": "2642a196bd6403bc",
+      "author": "Benjamin Aune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
       "posted_relative": null,
-      "text": "16. okt. Ikke stort med nyheter rundt denne casen, ABG  har en kurs på 87 i fra 26 August,  ? Vis 1 kommentar til",
+      "text": "16. okt. Min \"tese\" er at når D-matrix begynner å få ordre på deres Squadron så kan det komme litt action hos Napatech. Den er relativt nypubliser så her får vi bare være tålmodige! https://www.d-matrix.ai/announcements/squadron-compute-clusters/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        4
+        8
+      ],
+      "links": [
+        "https://www.d-matrix.ai/announcements/squadron-compute-clusters/"
+      ],
+      "char_count": 246,
+      "has_link": true
+    },
+    {
+      "key": "4a205e56d9f1f844",
+      "author": "MissMami",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missmami",
+      "posted_relative": null,
+      "text": "16. okt. Napatech ble omtalt på børs og økonominyhetene (Finansavisen sin pod) i går. #Hockeykølle 😏😉🤓",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
       ],
       "links": [],
-      "char_count": 113,
+      "char_count": 102,
       "has_link": false
     }
   ]

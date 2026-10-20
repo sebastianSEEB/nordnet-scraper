@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-20T12:09:02.628160+00:00",
+  "scraped_at": "2026-10-20T15:27:04.553084+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c130a0b430f90d6f",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
+      "posted_relative": null,
+      "text": "16. okt. 10k til 3,44 Er dere fortsatt positive her? ser det er en som uttrykker seg negativt om gamle båter....",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    }
+  ]
 }

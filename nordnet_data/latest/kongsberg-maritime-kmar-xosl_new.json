@@ -1,9 +1,51 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-20T12:12:37.510727+00:00",
+  "scraped_at": "2026-10-20T15:30:38.131299+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2c2c83cf75fff313",
+      "author": "otbmaster",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/otbmaster",
+      "posted_relative": "for 1 t siden",
+      "text": "· Eg har ingen ide om kursen e riktig eller ikkje , men når det gjelder fremtiden så er feks autonome skip i vinden gjennom safeguard prosjektet til Ntnu . Felles mykje av teknologien og kommuniakjsonen ( satelittene ) er det kongsberg som har.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 244,
+      "has_link": false
+    },
+    {
+      "key": "8f4541872fb5fcbf",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er lov å prøve få kundene sine inn til billigst mulig pris. Kan irritere noen kortsiktig tradere sikkert. Men DnB kundene skal jo kjøpe",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "e17eaa7a9be0321a",
+      "author": "CVS1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cvs1",
+      "posted_relative": "for 15 min siden",
+      "text": "Trist og se de fikk den under 60kr. Da pakker jeg snippen . Vi ses snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }
