@@ -1,22 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-19T21:51:42.690233+00:00",
+  "scraped_at": "2026-10-20T00:48:54.475173+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "5cfa430017487a72",
-      "author": "ALLTI",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
-      "posted_relative": "for 38 min siden",
-      "text": "Ble fhplv grei inngang i dag…",
+      "key": "f607cb9c114537de",
+      "author": "GLC",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glc",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvem vet, klart det er spennende. Men jeg er ikke så opptatt av kvartalstall i NOD. Her gjelder det å sitte rolig og la syklusen for de nye produktene spille seg ut. Det er først når 54 serien blir betydelig del av omsetningen at hockeykølla dukker opp i grafen.  Det sagt tror jeg avslutningen på året blir veldig bra.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 29,
+      "char_count": 319,
+      "has_link": false
+    },
+    {
+      "key": "c0291b59bf32575f",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 14 t siden",
+      "text": "3 dg til Q3-tallene. Bikker vi da 180-tallet mon tro ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        6
+      ],
+      "links": [],
+      "char_count": 74,
       "has_link": false
     }
   ]
