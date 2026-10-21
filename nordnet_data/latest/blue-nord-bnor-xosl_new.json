@@ -1,24 +1,39 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-21T01:07:36.171436+00:00",
+  "scraped_at": "2026-10-21T06:46:18.337005+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ef6f869eda9fd126",
-      "author": "Quebrada",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quebrada",
+      "key": "72af6b9dd6df2321",
+      "author": "StaaleD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/staaled",
       "posted_relative": null,
-      "text": "17. okt. · Endret Hadde på salg i dag på 613 men heldigvis gikk den ikke inn. Se på olje og gass prisen nå",
+      "text": "17. okt. God morgen Noen som har sett noen nærmere dato for når aksjene konverteres til Vår aksjer, eneste jeg finner er at det skal skje mot slutten av 2026",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        13
       ],
       "links": [],
-      "char_count": 106,
+      "char_count": 157,
+      "has_link": false
+    },
+    {
+      "key": "c94496b399e78e8a",
+      "author": "tintinsoldat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tintinsoldat",
+      "posted_relative": "for 22 min siden",
+      "text": "DNB er et klovneforetagende. De ved ikke engang, at BNOR nu er VAR aktier: DNB Carnegie sänker Bluenord till sälj (behåll), riktkurs 525 norska kronor (560)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 156,
       "has_link": false
     }
   ]

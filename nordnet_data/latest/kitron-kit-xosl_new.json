@@ -1,9 +1,25 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-21T01:07:59.175997+00:00",
+  "scraped_at": "2026-10-21T06:46:41.677353+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bc72fb1153bd8a03",
+      "author": "klementiner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/klementiner",
+      "posted_relative": "for 16 min siden",
+      "text": "· I fjor gjekk den opp ca kr 20 etter dippen før Q3 og dagene etter. Så får me sjå kva rapporten i morgon viser, heile 38 analytikere har reknet seg fram til høyere resultat. Kitron selv har hauka guidingen og fått nye produksjonslokkaler for å møte etterspørselen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 265,
+      "has_link": false
+    }
+  ]
 }

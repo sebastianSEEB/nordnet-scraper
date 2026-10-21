@@ -1,9 +1,38 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-21T01:13:41.154076+00:00",
+  "scraped_at": "2026-10-21T06:52:20.007413+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5710493f195ca182",
+      "author": "3D",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/3d",
+      "posted_relative": "for 57 min siden",
+      "text": "· Nå må de brette opp ermene og bevise at de kan tjene penger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "b9b86fda06b94d8b",
+      "author": "GeitPåBadeland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/geitpabadeland",
+      "posted_relative": "for 10 min siden",
+      "text": "For en opptur vi har i vente 🫢🍿",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

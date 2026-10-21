@@ -1,9 +1,38 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-21T01:07:40.128598+00:00",
+  "scraped_at": "2026-10-21T06:46:22.411183+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7209f41376a2fed2",
+      "author": "Maegs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maegs",
+      "posted_relative": "for 2 min siden",
+      "text": "Enig med Karma. Jeg blir alltid skeptisk når et selskap setter forventningene høye. Nåla rører seg ikke på forventede nyheter, og når forventningene blir satt høyt må nyhetene være eksepsjonelle for å bevege kursen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "5a36c3338ebf2bcd",
+      "author": "Ultimo4000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ultimo4000",
+      "posted_relative": "for 16 t siden · Endret",
+      "text": "Overvekt akkurat nå på at q3 slår forventninger med god margin ser det ut til. Morgendagen blir spennende,  fortsetter dagens trend!? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    }
+  ]
 }

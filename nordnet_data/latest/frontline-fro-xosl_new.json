@@ -1,9 +1,101 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-21T01:06:13.524382+00:00",
+  "scraped_at": "2026-10-21T06:44:53.980939+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "8f1ea7ed4cca75ca",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 11 min siden",
+      "text": "· In case you have not noticed, siden Kina kom tilbake fra Golden Week-ferien, har de kjøpt råolje uavbrutt i løpet av nattens handelssesjon før minions våkner og gjør det de gjør best https://x.com/DarioCpx/status/2112745811838976117",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/DarioCpx/status/2112745811838976117"
+      ],
+      "char_count": 234,
+      "has_link": true
+    },
+    {
+      "key": "ec2afe3b2d1f3629",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "https://x.com/TankerTrackers/status/2112667312876671453 Det ser ut til å være mye olje tilgjengelig for transport i og rundt Gulfen. Med forferdelig ineffektive transport mønstre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/TankerTrackers/status/2112667312876671453"
+      ],
+      "char_count": 179,
+      "has_link": true
+    },
+    {
+      "key": "2389dcf555f7be62",
+      "author": "Korona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
+      "posted_relative": "for 10 min siden",
+      "text": "Goldman Sachs syn på 5 drivere: https://www.finansavisen.no/shipping/2026/10/21/8389333/goldman-sachs-dette-har-sendt-tankratene-til-vaers",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/10/21/8389333/goldman-sachs-dette-har-sendt-tankratene-til-vaers"
+      ],
+      "char_count": 138,
+      "has_link": true
+    },
+    {
+      "key": "cb1ef1a9a1ade70f",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "https://x.com/CRUDEOIL231/status/2112599479971172670 Verdt å lese igjennom til børs kaffen på morran.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [
+        "https://x.com/CRUDEOIL231/status/2112599479971172670"
+      ],
+      "char_count": 101,
+      "has_link": true
+    },
+    {
+      "key": "1014ae22b74059f0",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 1 min siden",
+      "text": "Denne gangen var det også basert på et bredere market, og ikke bare slutninger fra Brasil f.eks.  Fortsatt ikke noe brått fall, slik vi alltid har (unntatt i fjor høst), så vi får se om ratene fortsetter å dale, om vi får en kraftig knekk, eller om hva som skjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 262,
+      "has_link": false
+    },
+    {
+      "key": "34aeefd01c0d57f4",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 1 t siden",
+      "text": "Å ratefall 7. dagen på rad",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

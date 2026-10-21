@@ -1,9 +1,54 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-21T01:11:15.480131+00:00",
+  "scraped_at": "2026-10-21T06:49:56.099214+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "861e798fb6edab87",
+      "author": "Solelborg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solelborg",
+      "posted_relative": "for 11 t siden",
+      "text": "· Jeg har stor tro på Circio de neste par månedene. Jeg vil anbefale folk å være tålmodige, dette kommer til å bli en bra en Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        28,
+        2
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "5ecd15b66556c1d6",
+      "author": "Hainzez",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hainzez",
+      "posted_relative": "for 36 min siden",
+      "text": "Er til å få gåsehud av. Aldri opplevd mer spennende case enn dette!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "1e8743e9905365bd",
+      "author": "mrbull_run",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrbull_run",
+      "posted_relative": "for 57 min siden",
+      "text": "Jeg vil tørre å påstå at det allerede er en bra en!🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

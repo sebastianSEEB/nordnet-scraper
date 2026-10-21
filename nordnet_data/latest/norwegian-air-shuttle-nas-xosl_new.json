@@ -1,9 +1,52 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-21T01:07:43.942215+00:00",
+  "scraped_at": "2026-10-21T06:46:26.378292+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1b4ec37c74b1f48c",
+      "author": "kilkenny72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kilkenny72",
+      "posted_relative": "for 1 t siden",
+      "text": "Trani, når sluttet finansdirektøren under Kjos's ledelse, og hvilket år?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "97dfacd768e73561",
+      "author": "hallohallo123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hallohallo123",
+      "posted_relative": "for 20 min siden",
+      "text": "Hva klarer vi å utrette i dag? Lander vi på 10,38 eller 11,5?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "87fa5a9a36fe3ae8",
+      "author": "hallohallo123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hallohallo123",
+      "posted_relative": "for 20 min siden",
+      "text": "Noen som vet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

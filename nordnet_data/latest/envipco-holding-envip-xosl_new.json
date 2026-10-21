@@ -1,9 +1,41 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-21T01:13:22.021485+00:00",
+  "scraped_at": "2026-10-21T06:52:00.328471+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cb11a9379600dd78",
+      "author": "naidra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/naidra",
+      "posted_relative": "for 46 min siden",
+      "text": "Dnb ut i E24 med anbefaling av Envipco og kursmål på 70kr, https://e24.no/boers-og-finans/i/9kWXOp/ekspertene-avsloerer-disse-aksjene-boer-du-foelge-med-paa-naa",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/9kWXOp/ekspertene-avsloerer-disse-aksjene-boer-du-foelge-med-paa-naa"
+      ],
+      "char_count": 160,
+      "has_link": true
+    },
+    {
+      "key": "65dd4343245aa258",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 14 min siden",
+      "text": "Har ikke tilgang. Sender du utklipp av hva de skriver (kun det som er relevant for envipco)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }
