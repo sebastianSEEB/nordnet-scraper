@@ -1,9 +1,41 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-21T06:47:55.396217+00:00",
+  "scraped_at": "2026-10-21T12:25:12.291476+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e44a13fcb772e3de",
+      "author": "wrapitaround",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wrapitaround",
+      "posted_relative": "for 2 t siden",
+      "text": "Oda Djupvik om Europris i Fondsfinans Fokus: https://tv.finansavisen.no/nb/watch/8901",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://tv.finansavisen.no/nb/watch/8901"
+      ],
+      "char_count": 85,
+      "has_link": true
+    },
+    {
+      "key": "08dba4b6419233f2",
+      "author": "pennyinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennyinvest",
+      "posted_relative": "for 1 t siden",
+      "text": "Dette blir bra👌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-21T06:46:37.845379+00:00",
+  "scraped_at": "2026-10-21T12:23:52.455006+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "64846a5a22de6aa6",
+      "author": "Jyde",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jyde",
+      "posted_relative": null,
+      "text": "16. okt. · Præcis hadde også 56 som mål for å supplere litt ekstra før 2027",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "73800d9b8fe1abe7",
+      "author": "HuginåMunin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huginamunin",
+      "posted_relative": "for 4 min siden",
+      "text": "Blir som Tomra denne....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

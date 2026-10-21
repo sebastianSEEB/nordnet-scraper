@@ -1,9 +1,25 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-21T06:48:30.323214+00:00",
+  "scraped_at": "2026-10-21T12:25:48.624871+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c396dce7dfc358e8",
+      "author": "Aksjehandler_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjehandler-2",
+      "posted_relative": "for 34 min siden",
+      "text": "https://techcommunity.microsoft.com/blog/microsoftteamsblog/cross-platform-meeting-connect-great-in-room-meeting-experiences-across-teams-an/4564608?utm_source=chatgpt.com Ikke bra for Pexip",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://techcommunity.microsoft.com/blog/microsoftteamsblog/cross-platform-meeting-connect-great-in-room-meeting-experiences-across-teams-an/4564608?utm_source=chatgpt.com"
+      ],
+      "char_count": 190,
+      "has_link": true
+    }
+  ]
 }

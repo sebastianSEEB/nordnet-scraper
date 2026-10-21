@@ -1,9 +1,41 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-21T06:52:27.600544+00:00",
+  "scraped_at": "2026-10-21T12:29:52.244314+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "72c5ce7720d6fc25",
+      "author": "Ljå",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lja-2",
+      "posted_relative": "for 3 t siden",
+      "text": "Vi er enda i en oppstartfasen og må regne med at aksjen svinger en del.Det som blir viktig er om annlegg fungerer slik som forventet. Tror at det vil bli flere anlegg som legges på land i fremtiden. 5/11 blir en interessann merkedag. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 253,
+      "has_link": false
+    },
+    {
+      "key": "c653374208036ce2",
+      "author": "Ljå",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lja-2",
+      "posted_relative": "for 2 t siden",
+      "text": "Du har nok rett i at nedgangen har vært nedadgående.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

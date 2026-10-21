@@ -1,9 +1,38 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-21T06:49:40.223631+00:00",
+  "scraped_at": "2026-10-21T12:27:00.157287+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c8500d069091f68f",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 3 t siden",
+      "text": "Pareto Securities nedjusterer kursmålet på Borregaard til 148 kroner fra 196 kroner og gjentar en holdanbefaling på aksjen. Det fremgår av en analyse onsdag. Meglerhuset anslår en netto kostnadsøkning på 242 millioner kroner i 2027, noe som vil kreve prisøkninger på rundt 9 prosent for å innfri konsensusforventningene om en ebitda-vekst på 310 millioner kroner. Pareto mener at svakere sluttmarkeder og et mindre gunstig prisingsmiljø gjør slike økninger utfordrende, noe som innebærer en nedsiderisiko i forhold til konsensus. «Selv om Borregaard tidligere har overrasket oss med sin prissettingsevne, legger vi til grunn prisøkninger på 4 prosent. Dette innebærer uendret ebitda fra året før, og en nedsiderisiko på 19 prosent i forhold til konsensusestimatene for resultat pr aksje (EPS) i 2027», skriver meglerhuset.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 822,
+      "has_link": false
+    },
+    {
+      "key": "1bfa3f4e90153cba",
+      "author": "Terskeltrening",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terskeltrening",
+      "posted_relative": "for 3 t siden",
+      "text": "Solgte meg ut i går på 151,80. Så får vi se om jeg går inn igjen senere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }

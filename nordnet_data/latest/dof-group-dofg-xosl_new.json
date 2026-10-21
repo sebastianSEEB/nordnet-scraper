@@ -1,9 +1,55 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-21T06:46:53.254080+00:00",
+  "scraped_at": "2026-10-21T12:24:08.771374+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bde88646e5de5c18",
+      "author": "Aksjeminister",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeminister",
+      "posted_relative": "for 1 t siden",
+      "text": "https://e24.no/boers-og-finans/i/Ogqgzl/dette-kan-sende-norwegian-aksjen-til-himmels",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/Ogqgzl/dette-kan-sende-norwegian-aksjen-til-himmels"
+      ],
+      "char_count": 84,
+      "has_link": true
+    },
+    {
+      "key": "cef2e61dccff9d9b",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 28 min siden",
+      "text": "· Vi stoler på Mons😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    },
+    {
+      "key": "09733ba6c908112d",
+      "author": "Amandus1212",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amandus1212",
+      "posted_relative": "for 1 t siden",
+      "text": "Laster opp 🚢💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

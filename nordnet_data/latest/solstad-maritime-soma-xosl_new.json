@@ -1,9 +1,23 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-21T06:50:42.624860+00:00",
+  "scraped_at": "2026-10-21T12:28:03.220137+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bae38892a865298e",
+      "author": "HiesenBerger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hiesenberger",
+      "posted_relative": "for 19 min siden",
+      "text": "· RSI er lav..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

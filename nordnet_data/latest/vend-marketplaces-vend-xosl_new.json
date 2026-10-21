@@ -1,9 +1,53 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-21T06:46:34.027238+00:00",
+  "scraped_at": "2026-10-21T12:23:48.519005+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "02b2a0fdf2ba8c19",
+      "author": "tronsan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tronsan",
+      "posted_relative": "for 53 min siden",
+      "text": "Nå har både Midelfart og Huse solgt. Du bør selge du også før kursen rase ned til kr 160 igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "b04fdd759743f982",
+      "author": "Anonymaksjespekulant",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anonymaksjespekulant",
+      "posted_relative": "for 3 t siden",
+      "text": "Mente naturligvis PEG!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "85c40317cf8b1ef5",
+      "author": "Anonymaksjespekulant",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anonymaksjespekulant",
+      "posted_relative": "for 3 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

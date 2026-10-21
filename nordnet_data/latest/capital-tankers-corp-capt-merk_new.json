@@ -1,9 +1,40 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-21T06:46:14.559968+00:00",
+  "scraped_at": "2026-10-21T12:23:28.709467+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5fa06599f107fe70",
+      "author": "UngAmatør",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ungamatr",
+      "posted_relative": "for 11 min siden",
+      "text": "Blokksalg på 111.250stk aksjer til 188.85 per stk, verdi rundt 21mnok. Finner ingen nyheter på hvem dette kan være? Kilde, FA Blokkhandler 21 oktober",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    },
+    {
+      "key": "247cccd8a09a5e32",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 1 t siden",
+      "text": "· Exxon 135 NHC, CPC/UKCM 14-16/11 Aristoklis rapporteres til WS 1110",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

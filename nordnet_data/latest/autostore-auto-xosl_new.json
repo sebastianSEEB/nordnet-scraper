@@ -1,9 +1,44 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-21T06:48:41.791703+00:00",
+  "scraped_at": "2026-10-21T12:26:00.693485+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0ae74e2663ae297f",
+      "author": "TheNordicValueInvestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thenordicvalueinvestor",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Oljefondet satser 16 milliarder på lagerbygg - interessant for AutoStore? E24 melder i dag at Oljefondet har inngått et samarbeid med Ares Real Estate og forpliktet seg til å investere rundt 16 milliarder kroner i lagerbygg og logistikkeiendommer i Europa, særlig rundt store forbrukersentre. Dette synes jeg er relevant for Autostore, ettersom det investeres betydelige beløp i nettopp den typen logistikkeiendommer hvor automatiserte lagerløsninger kan være aktuelle. AutoStores styrker er effektiv arealutnyttelse og automatisering av lagerdriften. Dette er faktorer som kan bli stadig viktigere for moderne distribusjonssentre som skal håndtere store varevolumer og økende krav til effektivitet. Positivt å se at store institusjonelle investorer satser tungt på denne sektoren og en god indikator på økende investeringsvilje i europeisk logistikk, der etterspørselen etter lagerautomatisering kan følge etter. Et langsiktig positivt signal for Autostore. Kilde: https://e24.no/boers-og-finans/i/eG48V9/oljefondet-satser-16-mrd-paa-eiendom",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/eG48V9/oljefondet-satser-16-mrd-paa-eiendom"
+      ],
+      "char_count": 1042,
+      "has_link": true
+    },
+    {
+      "key": "4096f90e9dd14d3a",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 5 t siden",
+      "text": "https://e24.no/boers-og-finans/i/9kWXOp/ekspertene-avsloerer-disse-aksjene-boer-du-foelge-med-paa-naa «Markedet underpriser potensialet Forvalter Atle Hauge i Odin trekker frem Autostore og Gjensidige som særlig spennende før resultatsesongen. – Til tross for en del uro i makroøkonomien er det fortsatt god underliggende vekst i Autostores marked. Alt peker i retning av mer automasjon av handel og logistikk. Selskapet har allerede guidet inntekter for andre halvår, men det blir like fullt en interessant løypemelding i tredje kvartal, sier Hauge.»",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        17
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/9kWXOp/ekspertene-avsloerer-disse-aksjene-boer-du-foelge-med-paa-naa"
+      ],
+      "char_count": 551,
+      "has_link": true
+    }
+  ]
 }

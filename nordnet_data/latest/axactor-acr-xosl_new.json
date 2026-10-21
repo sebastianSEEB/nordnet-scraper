@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-21T06:51:33.425104+00:00",
+  "scraped_at": "2026-10-21T12:28:54.338649+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5e6ba7f33239e62a",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "46% opp til laveste kursmål, 100% opp til høyeste. Snart Q rapport.  Spennende",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    }
+  ]
 }
