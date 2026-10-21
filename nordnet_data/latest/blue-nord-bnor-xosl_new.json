@@ -1,9 +1,25 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-20T22:49:01.080609+00:00",
+  "scraped_at": "2026-10-21T01:07:36.171436+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ef6f869eda9fd126",
+      "author": "Quebrada",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quebrada",
+      "posted_relative": null,
+      "text": "17. okt. · Endret Hadde på salg i dag på 613 men heldigvis gikk den ikke inn. Se på olje og gass prisen nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    }
+  ]
 }
