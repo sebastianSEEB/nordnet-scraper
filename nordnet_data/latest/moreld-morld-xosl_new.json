@@ -1,9 +1,52 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-21T12:36:28.198575+00:00",
+  "scraped_at": "2026-10-21T17:48:46.577141+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a72892e897be6784",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 3 t siden",
+      "text": "Ikke mye futt i denne nå men  har troa på at  den skal videre opp etter art Q3 rapporten er presentert 🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "a2f4b5205bca74a0",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Ser  at ocean har nå leid Normand Mermaid fra Solstad maritim 😎fem til 31/10 på hjemmesiden til Soma",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "8cdcf6107d243556",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 2 t siden",
+      "text": "Her er bildet",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

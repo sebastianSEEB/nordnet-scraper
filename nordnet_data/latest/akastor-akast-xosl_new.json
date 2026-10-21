@@ -1,9 +1,41 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-10-21T12:37:42.580140+00:00",
+  "scraped_at": "2026-10-21T17:50:02.560382+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "583187ad30701523",
+      "author": "Karve",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karve",
+      "posted_relative": "for 4 t siden",
+      "text": "Nå som Nes og Peregrino salgene er i boks og snittkursen blant analytikerne ligger på ca 20 kr, kan jeg ikke skjønne annet enn at dagens kurs på ca 13,20 er blant de beste investeringene nå frem mot 3 kv . Håper på minst 2 kr i utbytte samlet i 3 kv. Noen synspunkter? 🤔 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 290,
+      "has_link": false
+    },
+    {
+      "key": "7b10fbf6374bbd27",
+      "author": "Svarttinden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svarttinden",
+      "posted_relative": "for 3 t siden",
+      "text": "Akastor leverer resultater. Stille og rolig kvartal for kvartal. Er det noen som fortsatt lurer på hvorfor Nærings- og fiskeridepartementet ( topp nr. 3) fortsatt ikke har solgt seg ut! 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    }
+  ]
 }

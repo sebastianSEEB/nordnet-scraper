@@ -1,9 +1,42 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-10-21T12:34:16.233747+00:00",
+  "scraped_at": "2026-10-21T17:46:30.164274+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "78576df48193c4f8",
+      "author": "aaakno",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aaakno",
+      "posted_relative": "for 4 t siden",
+      "text": "· https://x.com/DryBulkETF/status/2112885163193512132 Freight Futures AM Update   Dry Bulk  Capesize:  opp ~6%  Panamax:  opp ~1%  Tankers  VLCC:  ned ~1%  Suezmax:  flatt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://x.com/DryBulkETF/status/2112885163193512132"
+      ],
+      "char_count": 171,
+      "has_link": true
+    },
+    {
+      "key": "a56a294964f733be",
+      "author": "Fred1906",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fred1906",
+      "posted_relative": "for 4 t siden",
+      "text": "· https://www.tradewindsnews.com/bulkers/simandou-iron-ore-volumes-to-boost-bulker-markets-fearnley-says/2-1-2061703",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.tradewindsnews.com/bulkers/simandou-iron-ore-volumes-to-boost-bulker-markets-fearnley-says/2-1-2061703"
+      ],
+      "char_count": 116,
+      "has_link": true
+    }
+  ]
 }

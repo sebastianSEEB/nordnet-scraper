@@ -1,9 +1,25 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-10-21T12:35:06.737904+00:00",
+  "scraped_at": "2026-10-21T17:47:22.087640+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6678d9c72db58981",
+      "author": "Fishandchips",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fishandchips",
+      "posted_relative": "for 4 t siden",
+      "text": "Kursmål 61kr fra SB1.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

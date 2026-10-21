@@ -1,9 +1,25 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-10-21T12:37:06.983914+00:00",
+  "scraped_at": "2026-10-21T17:49:26.753855+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "64b339632517fd76",
+      "author": "toppjeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toppjeger",
+      "posted_relative": "for 3 t siden",
+      "text": "Vi hadde ikke fått billigere strøm, for den hadde blitt solgt til EU... sluppet unna litt utbygging bare...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-21T12:39:40.601431+00:00",
+  "scraped_at": "2026-10-21T17:52:01.622139+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6fa9e65d899dae35",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Frederiksen er en garanti for utbytte. Man kan ikke annet enn å ha, som analytikere, tro på Axactor nå med 2,4 milliarder ekstra i egenkapital tilførsel",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    }
+  ]
 }

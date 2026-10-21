@@ -1,9 +1,84 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-21T12:34:28.016206+00:00",
+  "scraped_at": "2026-10-21T17:46:41.872155+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "ec6325eaf119adf1",
+      "author": "Macromini",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/macromini",
+      "posted_relative": "for 4 t siden",
+      "text": "Det var da voldsomt volum på omsetningen i dag... nærmer seg 600000 aksjer og snart 100 mill nok som har byttet hender... tydelig en aksje med høy interesse i dag... Noen som kan si noe om \"normal\" dagsomsetning i aksjen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 221,
+      "has_link": false
+    },
+    {
+      "key": "c76c2a6b56bbf27e",
+      "author": "WolfofFrogner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wolfoffrogner",
+      "posted_relative": "for 3 t siden",
+      "text": "gjennomsnittlig siste 30 dager er 728.000, så litt under normalt foreløpig i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "d322a058436cc47c",
+      "author": "Beyond-21",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
+      "posted_relative": "for 3 t siden",
+      "text": "· Alea iacta est.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    },
+    {
+      "key": "f11e55f14490c5c6",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 4 t siden",
+      "text": "Fasit imorgen.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    },
+    {
+      "key": "f1a27b9dc6cf624b",
+      "author": "Maegs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maegs",
+      "posted_relative": "for 1 t siden",
+      "text": "· 🎲🎲",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-21T12:36:59.243964+00:00",
+  "scraped_at": "2026-10-21T17:49:18.793603+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "854f99d6819682fd",
+      "author": "fattiglusen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusen",
+      "posted_relative": "for 1 t siden",
+      "text": "Tanker om morgendagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-21T12:40:29.541420+00:00",
+  "scraped_at": "2026-10-21T17:52:48.691310+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6c1b8442d734b61b",
+      "author": "Selskapslek",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
+      "posted_relative": "for 2 t siden",
+      "text": "Short nå er 1,54 %, fordelt på 2 aktører. Det gir 20. plass av de 40 aksjene som har offentlig short nå, opp fra 23. plass for en måned siden. Nivået er godt over snittet for siste år, som er 0,31 %. Det er samtidig det høyeste som er registrert i perioden. Siste melding kom 20. okt. 2026. https://shortaksjer.netlify.app/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://shortaksjer.netlify.app/"
+      ],
+      "char_count": 323,
+      "has_link": true
+    },
+    {
+      "key": "8f5bbe9393f62085",
+      "author": "Isf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isf",
+      "posted_relative": "for 4 t siden",
+      "text": "Short opp til 1,54 %! Blir bra dette, når de selger seg ut.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        7
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }

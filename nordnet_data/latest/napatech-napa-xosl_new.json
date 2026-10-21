@@ -1,9 +1,27 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-21T12:35:49.406954+00:00",
+  "scraped_at": "2026-10-21T17:48:06.312323+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7e0f38f43199badd",
+      "author": "Benjamin Aune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
+      "posted_relative": null,
+      "text": "17. okt. DnB podcast snakket litt om Napatech, men veldig lite. De har troen på at det blir en ramp up på ordre siden: https://open.spotify.com/episode/00oyg6Cf5VRWYsgz3LUSWj?si=IvR5o1gFSIWzt6g1fdx0pg&utm_source=copy-link",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14
+      ],
+      "links": [
+        "https://open.spotify.com/episode/00oyg6Cf5VRWYsgz3LUSWj?si=IvR5o1gFSIWzt6g1fdx0pg&utm_source=copy-link"
+      ],
+      "char_count": 221,
+      "has_link": true
+    }
+  ]
 }

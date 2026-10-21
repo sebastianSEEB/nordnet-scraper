@@ -1,9 +1,25 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-21T12:38:05.952276+00:00",
+  "scraped_at": "2026-10-21T17:50:26.371706+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5507d0d5647336fa",
+      "author": "@trbj49",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trbj49",
+      "posted_relative": null,
+      "text": "har vært utrolig treffsikker på sine salgsanbefalinger i DNB. Hadde man kjøpt hver gang han har ropt \"SELG\" - så hadde man tjent godt med penger!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 145,
+      "has_link": false
+    }
+  ]
 }
