@@ -1,9 +1,39 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-22T12:28:48.644481+00:00",
+  "scraped_at": "2026-10-22T14:18:05.380827+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ff2e995c71c59d17",
+      "author": "Blue2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blue2",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare 10 handelsdager igjen til Q3 😃 Jeg er spent på om de øker utbyttet igjen, hva tror dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "5f37fdc67fd5d72d",
+      "author": "Soseinen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soseinen",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden · Må si ingen anelse",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

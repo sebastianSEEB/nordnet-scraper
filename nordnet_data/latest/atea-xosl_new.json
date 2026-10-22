@@ -1,9 +1,23 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-10-22T12:27:34.711814+00:00",
+  "scraped_at": "2026-10-22T14:16:51.689372+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4955275b0cfe49fd",
+      "author": "WolfofFrogner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wolfoffrogner",
+      "posted_relative": "for 23 min siden",
+      "text": "takk for ingenting",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

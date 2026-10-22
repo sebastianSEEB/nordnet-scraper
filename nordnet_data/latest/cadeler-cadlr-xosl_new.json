@@ -1,94 +1,25 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-22T12:25:52.345182+00:00",
+  "scraped_at": "2026-10-22T14:15:11.924200+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 6,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "ed7331088cb4dea0",
-      "author": "julsto",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/julsto",
-      "posted_relative": "for 4 t siden",
-      "text": "Jeg ønsker å beholde Aksjene mine. Hvordan gjør jeg det? Har Aksjene mine her i Nordnet. Og ser at dere skriver at jeg skal ha fått en melding jeg må svare på, men klarer ikke å finne det. Den eneste meldingen jeg har fått, står det at jeg ikke skal svare på.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 259,
-      "has_link": false
-    },
-    {
-      "key": "705a57757e39c75f",
-      "author": "MrRobot",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot",
-      "posted_relative": "for 1 t siden",
-      "text": "Hvis du både har akseptert tilbudet og så solgt aksjene ligger du nok short... men rart om ikke Nordnet har en sperre for at folk skal gjøre dette. Blir lett kaos ellers...",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 172,
-      "has_link": false
-    },
-    {
-      "key": "a1089af4335de6ed",
+      "key": "a0aca48afca37413",
       "author": "Jokerman01",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jokerman01",
-      "posted_relative": "for 2 t siden",
-      "text": "Lurer på hvor mange % som er stabukker som ønsker seg tvangs innløsning og hvor mange % som ikke følger med på investeringen sin. Sammen er de uansett 10,5 prosent 😂",
+      "posted_relative": "for 12 min siden",
+      "text": "Da har shorten blitt redusert med 0,1% siden i går. Og stiger kursen enda mer, tenker jeg de trenger å bli kvitt dem fryktelig fort! Snakker vi short skvis? https://ssr.finanstilsynet.no/Home/Details/DK0061412772",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 165,
-      "has_link": false
-    },
-    {
-      "key": "9ba9bff4cda5760d",
-      "author": "Harries",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harries",
-      "posted_relative": "for 2 t siden",
-      "text": "· hvis du leste børsmeldingen ville du se at de har mottatt aksept for 89.5% av aksjene, og utsetter derfor for å få med de siste 0,5%.",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/DK0061412772"
       ],
-      "links": [],
-      "char_count": 135,
-      "has_link": false
-    },
-    {
-      "key": "6a916726a74b2dcc",
-      "author": "Wesleypies",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wesleypies",
-      "posted_relative": "for 2 t siden",
-      "text": "Tips: skriv DNB og Cadeler i Google, følg deretter linken og godkjenn med bank id😎",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 82,
-      "has_link": false
-    },
-    {
-      "key": "baacc78feef46233",
-      "author": "draanvine",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/draanvine",
-      "posted_relative": "for 3 t siden",
-      "text": "fikk cadeler 90% av oss til å bytte? for hvorfor vil de utsette dette enda mer",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 78,
-      "has_link": false
+      "char_count": 212,
+      "has_link": true
     }
   ]
 }

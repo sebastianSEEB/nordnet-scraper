@@ -1,66 +1,40 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-22T12:28:17.825060+00:00",
+  "scraped_at": "2026-10-22T14:17:33.869159+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "61f422267634dfa2",
+      "key": "c27ee0286dead7fe",
       "author": "Android",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Blir jo bare spekulasjoner fra min side, men hadde vært artig å visst hva slags rolle Telenor kan få oppi dette: https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Blir jo bare spekulasjoner fra min side, men hadde vært artig å visst hva slags rolle Telenor kan få oppi dette: https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        1
+        4,
+        2
       ],
       "links": [
         "https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid"
       ],
-      "char_count": 214,
+      "char_count": 234,
       "has_link": true
     },
     {
-      "key": "b684f33543ffa6a3",
-      "author": "Kjernekar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
-      "posted_relative": "for 3 t siden",
-      "text": "Jep, de har penger som gress. De har kjøpt mye egne aksjer og skal fortsatt kjøpe fler. Jeg er ikke bekymret.",
+      "key": "20bcdb1603e5d296",
+      "author": "Woice",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/woice",
+      "posted_relative": "for 5 min siden",
+      "text": "Det kommer vel til å bli et hinsides capex på noe slikt?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 109,
-      "has_link": false
-    },
-    {
-      "key": "eb5c44bad09835e8",
-      "author": "hansen 86",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hansen-86",
-      "posted_relative": "for 40 min siden",
-      "text": "Fyller du på i nedganger så endrer bildet seg på minus 9 prosent på 10 år",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 73,
-      "has_link": false
-    },
-    {
-      "key": "b10a94a481a7ce01",
-      "author": "PimpFunk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
-      "posted_relative": "for 1 t siden",
-      "text": "ikke dum tanke, tenker litt i samme bane",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 40,
+      "char_count": 56,
       "has_link": false
     }
   ]
