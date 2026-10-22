@@ -1,53 +1,68 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-21T21:02:49.524939+00:00",
+  "scraped_at": "2026-10-21T23:58:20.662051+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "c8bd2fe8441fee03",
-      "author": "dblh82",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dblh82",
-      "posted_relative": "for 2 t siden",
-      "text": "· Hvis man har akseptert, hvilken kurs har aksjene da på ens konto den 29.? Forutsatt at aksjen stiger fra i dag og frem til den 29. til for eksempel kurs 65, vil det da være den kursen aksjene kommer på ens konto til?",
-      "reply_count": 1,
+      "key": "0852780e872a3529",
+      "author": "dame dos",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dame-dos",
+      "posted_relative": "for 1 t siden",
+      "text": "· De fikk 89,5% og utvider tilbudet! 😄 https://www.inderes.fi/releases/cadeler-as-extension-of-the-offer-period-for-the-voluntary-share-exchange-offer-by-cadeler-plc-to-the-shareholders-of-cadeler-as-in-connection-with-cadelers-redomiciliation-from-denmark-to-the-united-kingdom",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.inderes.fi/releases/cadeler-as-extension-of-the-offer-period-for-the-voluntary-share-exchange-offer-by-cadeler-plc-to-the-shareholders-of-cadeler-as-in-connection-with-cadelers-redomiciliation-from-denmark-to-the-united-kingdom"
+      ],
+      "char_count": 278,
+      "has_link": true
+    },
+    {
+      "key": "0a1577cf3e4b8128",
+      "author": "MrJasp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrjasp",
+      "posted_relative": "for 9 t siden",
+      "text": "· Noen som vet når det blir meldt ifra om de fikk 90% som ble med på å flytte til UK? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 218,
+      "char_count": 105,
       "has_link": false
     },
     {
-      "key": "06bd55159f94c755",
-      "author": "MrRobot",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot",
-      "posted_relative": "for 5 t siden",
-      "text": "Blir spennende å se hva squeeze-out-kursen blir. Har sett forslag om alt mellom 58 og 62... Vis 1 kommentar til",
+      "key": "aed7e388c1ddd26d",
+      "author": "Moggy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moggy",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Cadeler nådd 89,5%, forlenger en uke. Får nok dette over målstreken til slutt.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        3
-      ],
-      "links": [],
-      "char_count": 111,
-      "has_link": false
-    },
-    {
-      "key": "bbd192a8312cce9c",
-      "author": "Moggy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moggy",
-      "posted_relative": "for 2 t siden",
-      "text": "Håper på 90 selv, så håper du har rett",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 38,
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "2dac67b06e72f822",
+      "author": "Tenkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tenkern",
+      "posted_relative": "for 2 t siden",
+      "text": "Det blir ikke et problem å komme over",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
       "has_link": false
     }
   ]

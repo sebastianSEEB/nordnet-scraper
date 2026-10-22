@@ -1,22 +1,38 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-10-21T21:02:01.920829+00:00",
+  "scraped_at": "2026-10-21T23:57:33.358932+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "06d59d1327f75ad0",
-      "author": "Neia",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neia",
+      "key": "7d00fcfd4e5b12a2",
+      "author": "Fishandchips",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fishandchips",
+      "posted_relative": "for 10 t siden",
+      "text": "Kursmål 61kr fra SB1. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "5eb8fbdbd5a304aa",
+      "author": "Fishandchips",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fishandchips",
       "posted_relative": "for 1 t siden",
-      "text": "Høres lovende ut. Eier du aksjer i Lerøy?",
+      "text": "· Ja",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 41,
+      "char_count": 4,
       "has_link": false
     }
   ]
