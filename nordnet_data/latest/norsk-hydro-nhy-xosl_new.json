@@ -1,9 +1,36 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-22T02:31:57.928370+00:00",
+  "scraped_at": "2026-10-22T08:10:21.347580+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c34f3ace73e5253a",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": "for 47 min siden",
+      "text": "· denne fortsetter bare å dykke fra 120 til 70 på bare 3 måneder! hvorfor?!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "4e749d95f8ed6c1c",
+      "author": "Nugatti Boy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nugatti-boy",
+      "posted_relative": "for 56 min siden",
+      "text": "Hvor langt ned skal denne mon tro? Kjøpte en fallende kniv ser jeg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

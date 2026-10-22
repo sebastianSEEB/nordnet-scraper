@@ -1,9 +1,23 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-22T02:31:29.508460+00:00",
+  "scraped_at": "2026-10-22T08:09:54.531587+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "71782329c8e54a58",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Nå er dette tallet kommet opp til 7 skip som er truffet av miner og raketter i Persiabukten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

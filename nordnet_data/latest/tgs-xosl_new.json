@@ -1,9 +1,40 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-10-22T02:30:33.831151+00:00",
+  "scraped_at": "2026-10-22T08:08:59.640950+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8325818d2a8c2ff6",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": "for 35 min siden",
+      "text": "På det jevne, men markedet hadde forventet mer. Synes likevel aksjen straffes mer enn jeg hadde forventet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "faa1a6a0e8ddd003",
+      "author": "fattiglusen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusen",
+      "posted_relative": "for 15 t siden",
+      "text": "Tanker om morgendagen? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

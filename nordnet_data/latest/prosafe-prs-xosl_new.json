@@ -1,9 +1,43 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-22T02:34:16.966873+00:00",
+  "scraped_at": "2026-10-22T08:12:36.292778+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c3940f4decc62daf",
+      "author": "GullBull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullbull",
+      "posted_relative": "for 11 t siden",
+      "text": "https://lnkd.in/p/e_M8Svg4 Dette gir jo litt god stemning - Prosafe CEO om bord Eurus akkurat i det momentet vi forventer en LOI på denne riggen i nærmeste fremtid. Any takes?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        7
+      ],
+      "links": [
+        "https://lnkd.in/p/e_M8Svg4"
+      ],
+      "char_count": 175,
+      "has_link": true
+    },
+    {
+      "key": "1becb20fe2ba993b",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 18 min siden",
+      "text": "Rart at han som kjøper og selger aksjen her non stop siste 12mnd bruker så mye tid på å baisse aksjen. Ser han ligger på listene idag og med handel.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 148,
+      "has_link": false
+    }
+  ]
 }

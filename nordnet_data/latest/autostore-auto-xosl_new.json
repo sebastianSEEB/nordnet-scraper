@@ -1,9 +1,26 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-22T02:30:22.298116+00:00",
+  "scraped_at": "2026-10-22T08:08:47.573885+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8d0897a535f1c5df",
+      "author": "JyKKemus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jykkemus",
+      "posted_relative": null,
+      "text": "18. okt. · Er det verdt å selge? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

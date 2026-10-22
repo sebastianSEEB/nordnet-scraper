@@ -1,9 +1,23 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-22T02:29:22.380717+00:00",
+  "scraped_at": "2026-10-22T08:07:49.339155+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c930b4682f372e37",
+      "author": "Sapper71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sapper71",
+      "posted_relative": "for 17 min siden",
+      "text": "Gjesp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

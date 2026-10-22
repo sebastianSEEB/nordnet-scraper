@@ -1,9 +1,40 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-22T02:28:23.895123+00:00",
+  "scraped_at": "2026-10-22T08:06:50.406994+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5444d35e1ec67ca3",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 1 t siden",
+      "text": "Brutt opp nå aksjen, teknisk etablert over 33 med bullish momentum. Så kan forvente å se noteringer mot 35-36 kommende periode ift dette.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "0bbafaa782793362",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": "for 2 t siden",
+      "text": "Stemmer godt det. Dagens oljepris og selskapets mye høyere produksjon er ikke i nærheten av å prises inn i aksjekursen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    }
+  ]
 }

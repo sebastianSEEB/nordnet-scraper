@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-22T02:30:29.999341+00:00",
+  "scraped_at": "2026-10-22T08:08:55.884928+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1cb05fadc1a91f87",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 55 min siden",
+      "text": "Vi kjøper nå det vi har cash til her. Under kr 70 er gi bort pris.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "9f72ab0d8b05d162",
+      "author": "bcc165",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bcc165",
+      "posted_relative": "for 20 min siden",
+      "text": "· 94?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

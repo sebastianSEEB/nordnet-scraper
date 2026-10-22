@@ -1,9 +1,49 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-22T02:27:55.907055+00:00",
+  "scraped_at": "2026-10-22T08:06:23.506188+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5f8a7a2369ec09ee",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": "for 38 min siden",
+      "text": "Det som står i dokumentene er at BNOR sine aksjonærer skal kompenseres for bortfallet av utbytter i BNOR .  Det står ikke om de skal få det samme som Vår aksjonærene eller om de skal ha utbytte etter bytteforholdet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "8b19c6f7a362f2ff",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 36 min siden",
+      "text": "Isåfall må jo 13,29 komme oppå 76,83 det tviler jeg på men heller da 1,368 som er faktiske utbytte i vår oppå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "fa8e210e4dc99994",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": "for 1 min siden",
+      "text": "· Leser jeg riktig i deres nye selskapsledelse at Goldman Sachs har solgt alle sine aksjer i bnord???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,68 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-22T02:27:01.112484+00:00",
+  "scraped_at": "2026-10-22T08:05:29.848125+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "ef2ba3007e4a49af",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 44 min siden",
+      "text": "· https://2020bulkers.com/content/uploads/2026/09/Company-presentation-2020-Bulkers-16-September-2026.pdf",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://2020bulkers.com/content/uploads/2026/09/Company-presentation-2020-Bulkers-16-September-2026.pdf"
+      ],
+      "char_count": 105,
+      "has_link": true
+    },
+    {
+      "key": "0ed814dd5b6a901d",
+      "author": "sdanielsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sdanielsen",
+      "posted_relative": "for 14 t siden",
+      "text": "Solgte på 11.50kr idag, men nå ser jeg at salget har blitt kansellert, noen som vet hvorfor det har skjedd? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "5a1bdf6cfdb31498",
+      "author": "Speider12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/speider12",
+      "posted_relative": "for 1 t siden",
+      "text": "Hei. Kjøpte 2020 bulkers T. Kan noen fortelle ka dette er.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "914ac3baf7062c14",
+      "author": "Ligurio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ligurio",
+      "posted_relative": "for 51 min siden",
+      "text": "Prøv igjen §!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

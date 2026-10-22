@@ -1,9 +1,79 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-22T02:33:46.193713+00:00",
+  "scraped_at": "2026-10-22T08:12:05.489233+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "60a620d700467be7",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 31 min siden",
+      "text": "Kjenner at jeg begynner å bli litt stresset. Vet med meg selv at jeg burde holde og vente. Men stresset. Kan noen komme med noen betryggende nyheter eller tanker? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 182,
+      "has_link": false
+    },
+    {
+      "key": "e296d3f0c0ad2329",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": "for 3 min siden",
+      "text": "Den kontrakten til Tomra gjør jo ikke noe med Envipco sine kontrakter i UK. De har større ordrebok enn Tomra per nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "22cf9a6126a125b5",
+      "author": "matste",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matste",
+      "posted_relative": "for 46 min siden",
+      "text": "32,60kr -50% iår  Holder det? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "0671a53b03511fdc",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 39 min siden",
+      "text": "ja, god inngang for på fyll nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    },
+    {
+      "key": "43910b73e469da20",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 1 t siden",
+      "text": "Tomra med UK storkunde.....",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }
