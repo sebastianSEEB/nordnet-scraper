@@ -1,35 +1,51 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-22T18:58:12.451598+00:00",
+  "scraped_at": "2026-10-22T22:03:06.317621+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "d9b9bf9a377d8a5f",
-      "author": "cashy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cashy",
-      "posted_relative": "for 2 t siden",
-      "text": "De har brukt veldig lang tid på dette. Utbytte er jo marginalt opp selv med rekord kvartal og flåing av Bnor aksjonærer",
+      "key": "114baf70e62688f9",
+      "author": "Salmo Salar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar",
+      "posted_relative": "for 12 t siden · Endret",
+      "text": "Tja, nå er Brent passert 112$ og EU gass snart 90 EUR og enda så finnes det analytikere som en helt fryktelig negative, men de snakker vel for sin syke mor. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3,
+        3
+      ],
       "links": [],
-      "char_count": 119,
+      "char_count": 176,
       "has_link": false
     },
     {
-      "key": "9b7fcc5e7f192784",
-      "author": "terragady",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terragady",
-      "posted_relative": "for 3 t siden",
-      "text": "· Er det bedre nå å kjøpe mer bluenord eller bare kjøpe Vår direkte? Eller vil begge falle etter fusjonen?",
+      "key": "d9790bfadf88153e",
+      "author": "Blue2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blue2",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Jeg har valgt BNOR i dag..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 106,
+      "char_count": 28,
+      "has_link": false
+    },
+    {
+      "key": "66c47cdefadc6cb1",
+      "author": "Blue2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blue2",
+      "posted_relative": "for 1 t siden",
+      "text": "$112,72 nå..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
       "has_link": false
     }
   ]
