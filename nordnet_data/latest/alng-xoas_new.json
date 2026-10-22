@@ -1,9 +1,41 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-22T08:05:22.130330+00:00",
+  "scraped_at": "2026-10-22T12:23:20.156757+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "dde7998236f30d2c",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Wilforce skrudde av AIS for 19 timer siden. Båten lå sør for Sri lanka og seilte sakte rett syd før signalet forsvant. Tydelig at noen ønsker å hemmeligholde retningen til oppdraget. Wilpride går inn i sin åttende dag uten AIS signal, også her er det tydeligvis hemmelighold. Rettelse: Wilforce dukket opp igjen nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 315,
+      "has_link": false
+    },
+    {
+      "key": "e730d35d884943c4",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Oppdatering på båtene: - Wilforce ligger strategisk plassert rett syd for Sri Lanka og venter på ordre. - Wilpride sin AIS har vært avslått i 7 døgn nå, trodde tidligere de skulle laste i Qalhat, Oman. Ser kanskje mer ut som en STS last rett utenfor Hormuz, ved Fujairah, gitt fraværende AIS såpass lenge.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 305,
+      "has_link": false
+    }
+  ]
 }

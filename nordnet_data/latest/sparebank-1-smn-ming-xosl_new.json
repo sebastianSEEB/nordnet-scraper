@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-10-22T08:08:12.379913+00:00",
+  "scraped_at": "2026-10-22T12:26:11.994476+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ea0df4249ef40fa3",
+      "author": "The Gønners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-gnners",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "https://www.nettavisen.no/okonomi/sparker-5000-pa-grunn-av-ki/s/80-95-181848 Bankene kan få ekstreme marginer om de fullt ut  utnytter KI mtp effektivisering. Det blir spennende å se hvor lenge det går før norske banker følger etter.  Det kreves selvsagt investeringer innenfor KI og support, men effektivitet på lang sikt vil utkonkurrere menneskelig kapital",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.nettavisen.no/okonomi/sparker-5000-pa-grunn-av-ki/s/80-95-181848"
+      ],
+      "char_count": 359,
+      "has_link": true
+    }
+  ]
 }

@@ -1,70 +1,40 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-22T08:06:38.996425+00:00",
+  "scraped_at": "2026-10-22T12:24:37.853724+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "8272a8bc737e338e",
-      "author": "Trading 123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trading-123",
-      "posted_relative": "for 22 t siden",
-      "text": "Nå har jeg kjærlighetssorg igjen, det er dårlig gjort.  Skjønner ikke hvorfor hun valgte Kjell Inge Røkke, hun har jo penger selv.",
+      "key": "0bf9fcfc27a8d9a1",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": "for 5 t siden",
+      "text": "Hemnet rett opp etter Q3 kvartalsrapport.. ;-)  Blir spennende Q3 rapport for Vend. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14,
+        2
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "e675d1195ad92823",
+      "author": "Matsroil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsroil",
+      "posted_relative": "for 3 t siden",
+      "text": "Finn varslet 18% prisøkning på motor i dag fra 1 februar på alle pakker og abonnementer.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 130,
-      "has_link": false
-    },
-    {
-      "key": "ef1a70d74f08371f",
-      "author": "Trading 123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trading-123",
-      "posted_relative": "for 2 døgn siden",
-      "text": "Jeg selger kun når Celina Middelfart selger, er min barndomscrush! Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        16,
-        2
-      ],
-      "links": [],
-      "char_count": 86,
-      "has_link": false
-    },
-    {
-      "key": "b616410f6cf4dd4e",
-      "author": "DividendDynasty",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
-      "posted_relative": "for 52 min siden",
-      "text": "Hemnet rett opp etter Q3 kvartalsrapport.. ;-)  Blir spennende Q3 rapport for Vend.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        7
-      ],
-      "links": [],
-      "char_count": 83,
-      "has_link": false
-    },
-    {
-      "key": "8f106db24b4ad0d5",
-      "author": "Anonymaksjespekulant",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anonymaksjespekulant",
-      "posted_relative": "for 23 t siden",
-      "text": "Innlegget er slettet. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 41,
+      "char_count": 88,
       "has_link": false
     }
   ]

@@ -1,22 +1,50 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-22T08:09:58.315979+00:00",
+  "scraped_at": "2026-10-22T12:27:58.055963+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "af042baffcfd6d79",
-      "author": "Bulldog 50",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bulldog-50",
-      "posted_relative": "for 51 min siden",
-      "text": "Noen som prøver å få den ned i dag ?",
+      "key": "5fce0beeb9064d47",
+      "author": "Lommemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lommemannen",
+      "posted_relative": "for 3 t siden",
+      "text": "Når kan vi forvente en avklaring i skattesaken?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "51f2d4b890aab964",
+      "author": "Supertrikker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supertrikker",
+      "posted_relative": "for 31 min siden",
+      "text": "· Ingen som vet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 36,
+      "char_count": 15,
+      "has_link": false
+    },
+    {
+      "key": "eef9619b619bb06d",
+      "author": "zenbird",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zenbird",
+      "posted_relative": "for 4 t siden",
+      "text": "jevnlig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
       "has_link": false
     }
   ]
