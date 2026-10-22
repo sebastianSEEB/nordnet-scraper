@@ -1,9 +1,23 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-10-22T14:16:32.639930+00:00",
+  "scraped_at": "2026-10-22T19:01:03.374834+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ed424f06687e543b",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 3 t siden",
+      "text": "Grei oppside nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

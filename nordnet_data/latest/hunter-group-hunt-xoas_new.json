@@ -1,97 +1,69 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-22T14:17:10.968256+00:00",
+  "scraped_at": "2026-10-22T19:01:42.091076+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 6,
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "2d66e7c69053302b",
+      "key": "61e253a00d4f260f",
       "author": "nopetter",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Yankeene har reist fra ambassaden i Saudi-Arabia noe er i ferd med å skje der. Houti militsen har på nytt angrepet port yanbu fasilitetene \"Yemen’s Houthis say they targeted Aramco site in Yanbu and Dammam’s airport over the past 48 hours, according to the group’s military spokesperson.\"-BBG",
+      "posted_relative": "for 1 t siden",
+      "text": "Shorterne har innløst ca 70k aksjer, kanskje de har innsett at dette er meningsløst https://ssr.finanstilsynet.no/Home/Details/NO0012953720",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
+      ],
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/NO0012953720"
+      ],
+      "char_count": 139,
+      "has_link": true
+    },
+    {
+      "key": "07514e869f557298",
+      "author": "nokar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
+      "posted_relative": "for 40 min siden",
+      "text": "Ref: finansavisen  Oljeprisen skyter opp etter ny uro i Midtøsten. Pareto tror oppturen bare har begynt, og mener det må et diplomatisk mirakel til for å stanse rallyet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
       "links": [],
-      "char_count": 292,
+      "char_count": 169,
       "has_link": false
     },
     {
-      "key": "c3bcc0f78741a331",
-      "author": "shippinganalytiker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "key": "42e33f1aa0de26e1",
+      "author": "Bajazz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bajazz",
       "posted_relative": "for 3 t siden",
-      "text": "FFA er opp i dag. Nov og Dec er opp 6% Q1 er opp 13% FFA utledet verdi ved full betaling er 21.97. FFa utledet verdi i Mercuria caset er 16.18.",
+      "text": "Er hunt noe å bruke penger på lenger? Noen som ser for seg att den stiger?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        64,
-        5
+        4
       ],
       "links": [],
-      "char_count": 143,
+      "char_count": 74,
       "has_link": false
     },
     {
-      "key": "239a040571e0cfe2",
-      "author": "Headsett",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
-      "posted_relative": "for 1 t siden",
-      "text": "· Freight Futures AM Update Dry Bulk Capesize:  ned ~3% Panamax:  ned ~1% Tankers VLCC:  opp ~5% Suezmax:  opp ~7%",
+      "key": "cd97d8fe5784cd29",
+      "author": "bahiom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
+      "posted_relative": "for 42 min siden",
+      "text": "Noen tanker om morgendagen?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 114,
-      "has_link": false
-    },
-    {
-      "key": "8d1687aa1f0f7e5e",
-      "author": "Kazynor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kazynor",
-      "posted_relative": "for 36 min siden",
-      "text": "Hva er egentlig \"tidsplanen\" på dette Mercuria-greiene? Kan man forvente en avklaring innen jul?",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 96,
-      "has_link": false
-    },
-    {
-      "key": "73d0b0924f141ff9",
-      "author": "shippinganalytiker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
-      "posted_relative": "for 1 t siden",
-      "text": "FFA er videre opp. Nov opp 8%, Dec opp 6%, Q1 opp 16.5% FFA utledet verdi er 22.13/16.32",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        32,
-        3
-      ],
-      "links": [],
-      "char_count": 88,
-      "has_link": false
-    },
-    {
-      "key": "62130dee784629ec",
-      "author": "Superninja_",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/superninja-1",
-      "posted_relative": "for 31 min siden",
-      "text": "Bwet opp over 10%",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 17,
+      "char_count": 27,
       "has_link": false
     }
   ]

@@ -1,9 +1,23 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-10-22T14:12:37.862245+00:00",
+  "scraped_at": "2026-10-22T18:57:06.046605+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "03fddaee92455b36",
+      "author": "Revolutionen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revolutionen",
+      "posted_relative": "for 33 min siden",
+      "text": "· Siste tilgjengelige Baltic-noteringer (16/10): • BLPG1 Midtøsten–Japan: 255 539 USD/dag • BLPG3 USA–Japan: 204 369 USD/dag Ratene er fortsatt ekstraordinært høye, til tross for en viss korreksjon fra tidligere toppnivåer. Forstyrrelsene i Midtøstens LPG-eksport har ført til lengre transportveier fra USA til Asia, noe som øker etterspørselen etter VLGC-kapasitet. Samtidig sank USAs propaneksport med 19,2 % i uken som endte 9. oktober. Dette er et signal å følge med på, ettersom færre laster kan påvirke fraktratene. Min vurdering: Fortsatt svært gunstige forhold for BW LPG. De lengre transportavstandene støtter inntjeningen, men svake amerikanske eksportvolumer og den store ordreboken innebærer risiko på sikt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 719,
+      "has_link": false
+    }
+  ]
 }

@@ -1,24 +1,35 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-22T14:13:43.534042+00:00",
+  "scraped_at": "2026-10-22T18:58:12.451598+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "65ae96636aae3353",
-      "author": "jesperhoerlykjensen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jesperhoerlykjensen",
-      "posted_relative": "for 1 t siden",
-      "text": "· Nei, det er sannsynligheten for fred i Midtøsten, opphold i krigen mellom Russland og Ukraina, som spiller inn. Skjer en av disse, eller begge, faller prisen markant.",
-      "reply_count": 1,
+      "key": "d9b9bf9a377d8a5f",
+      "author": "cashy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cashy",
+      "posted_relative": "for 2 t siden",
+      "text": "De har brukt veldig lang tid på dette. Utbytte er jo marginalt opp selv med rekord kvartal og flåing av Bnor aksjonærer",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 168,
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "9b7fcc5e7f192784",
+      "author": "terragady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terragady",
+      "posted_relative": "for 3 t siden",
+      "text": "· Er det bedre nå å kjøpe mer bluenord eller bare kjøpe Vår direkte? Eller vil begge falle etter fusjonen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
       "has_link": false
     }
   ]

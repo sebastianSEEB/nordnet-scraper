@@ -1,37 +1,56 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-22T14:16:05.809286+00:00",
+  "scraped_at": "2026-10-22T19:00:36.471965+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "d01a183a3fa2ced9",
-      "author": "Alobsol",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alobsol",
-      "posted_relative": "for 24 min siden · Endret",
-      "text": "Det er da vel innlysende? Du kjøper jo ikke en aksje nå på 14,78 hvis den skal nærme seg 11-12 kr?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 98,
-      "has_link": false
-    },
-    {
-      "key": "101ed4e2951f8c95",
-      "author": "Chrisinve",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisinve",
-      "posted_relative": "for 31 min siden",
-      "text": "Bør jeg vente med å kjøpe denne aksjen til den nærmer seg en pris på 11-12 kr ?",
+      "key": "56879e81c1b44c4e",
+      "author": "GSol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gsol",
+      "posted_relative": "for 1 t siden",
+      "text": "Nok et nytt Autostore anlegg satt i drift: Logistikkkonsernet Rhenus Logistics har nå satt et stort AutoStore-anlegg i drift i Bolesławiec i Polen. Nyheten ble offentliggjort 22. oktober av Logistics Manager, basert på informasjon fra Rhenus. Anlegget dekker 4 500 m², har kapasitet til 1,8 millioner varer og er levert av systemintegratoren Element Logic. Rhenus opplyser at produktiviteten allerede er tredoblet etter oppstart. https://logistics-manager.pl/artykuly/rhenus-uruchomil-jedna-z-najwiekszych-instalacji-autostore-w-polsce?utm_source=chatgpt.com",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        4
+      ],
+      "links": [
+        "https://logistics-manager.pl/artykuly/rhenus-uruchomil-jedna-z-najwiekszych-instalacji-autostore-w-polsce?utm_source=chatgpt.com"
+      ],
+      "char_count": 558,
+      "has_link": true
+    },
+    {
+      "key": "e18cefac70e294f1",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 4 t siden",
+      "text": "Du burde ta ut dine 5000kr i en minibank og legge pengene under madrassen din. Alle som spør andre om aksjetips på Nordnet har svekkede sjelsevner og burde ikke vært kvalifisert til å investere i aktivaklassen aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
       "links": [],
-      "char_count": 79,
+      "char_count": 217,
+      "has_link": false
+    },
+    {
+      "key": "f1cf484af372658a",
+      "author": "Chrisinve",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrisinve",
+      "posted_relative": "for 5 t siden",
+      "text": "Bør jeg vente med å kjøpe denne aksjen til den nærmer seg en pris på 11-12 kr ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 99,
       "has_link": false
     }
   ]

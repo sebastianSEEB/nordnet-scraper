@@ -1,53 +1,40 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-22T14:17:45.951218+00:00",
+  "scraped_at": "2026-10-22T19:02:17.059482+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "7c3a86eb7eab2dce",
-      "author": "MPMC",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mpmc",
-      "posted_relative": "for 1 t siden",
-      "text": "· Jeg tar kanskje feil, men å si at du ikke kommenterer oppkjøp er i seg selv et vink. Hvis det aktuelle oppkjøpet ikke var aktuelt, ville det vært et nei. Ingen kommentar er en kommentar.",
+      "key": "ff0625942bd39ecd",
+      "author": "Kjell T. Ringen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell-t-ringen-1",
+      "posted_relative": "for 43 min siden",
+      "text": "Nedgang borti amerika, VÅR havner litt i dragsuget. Men pytt pytt ny dag i morgen 😀",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 188,
+      "char_count": 83,
       "has_link": false
     },
     {
-      "key": "545ac9bd79d6fa7c",
-      "author": "Teknikkern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/teknikkern",
-      "posted_relative": "for 5 t siden",
-      "text": "Blir det VAR som blir kjøper av Ekofisk mon tro? Hva vet folket?",
+      "key": "ea75fa87d1e8c2b2",
+      "author": "VITO44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vito44",
+      "posted_relative": "for 4 t siden",
+      "text": "Vår Energi var kl. 13 over +2%, den dalte til kun +0,21% ved børsslutt. Hvorfor?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         5,
-        5
+        3
       ],
       "links": [],
-      "char_count": 64,
-      "has_link": false
-    },
-    {
-      "key": "20051c4c5fadbe00",
-      "author": "nietsrac",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nietsrac",
-      "posted_relative": "for 1 t siden",
-      "text": "Vil det påvirke aksjen til kjøper mye ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 39,
+      "char_count": 80,
       "has_link": false
     }
   ]

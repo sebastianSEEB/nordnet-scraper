@@ -1,9 +1,23 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-22T14:13:55.038951+00:00",
+  "scraped_at": "2026-10-22T18:58:24.307757+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fb9f624a3f8ecfdd",
+      "author": "syden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syden",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvordan vil AI i kveld påvirke Link ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }
