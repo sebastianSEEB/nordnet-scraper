@@ -1,38 +1,9 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-23T17:38:31.031717+00:00",
+  "scraped_at": "2026-10-23T20:49:53.840225+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "0a6e790a0eb13622",
-      "author": "Bypaxx",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
-      "posted_relative": "for 5 t siden",
-      "text": "Uff, undrer hva som skjer på blå Mandag. Hva tror du Skrue?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "dcad28daac5de551",
-      "author": "mingus77",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
-      "posted_relative": "for 2 t siden",
-      "text": "Spørs på NVIDIA i dag det.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 26,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

@@ -1,38 +1,37 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-23T17:40:05.445549+00:00",
+  "scraped_at": "2026-10-23T20:51:28.107518+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "4a5249f9afcd51fe",
-      "author": "Winsund",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/winsund",
-      "posted_relative": "for 4 t siden",
-      "text": "hmm, bra inngang",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [],
-      "char_count": 16,
-      "has_link": false
-    },
-    {
-      "key": "fcc9ff1d11cab915",
-      "author": "Glasskår",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glasskar",
-      "posted_relative": "for 4 t siden",
-      "text": "Håper det :)",
+      "key": "db92b7cbb3a6fcbc",
+      "author": "Innogut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/innogut",
+      "posted_relative": "for 33 min siden",
+      "text": "Tror mer på ny nedgang, aksjekursen er \"skadet\". Kjøpsmulighet på mandag, eller?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 12,
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "af1235d6ecd7ac9b",
+      "author": "papava",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/papava",
+      "posted_relative": "for 1 t siden",
+      "text": "Denne for nok en rekyl på mandag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 32,
       "has_link": false
     }
   ]
