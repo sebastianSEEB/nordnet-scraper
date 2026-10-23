@@ -1,9 +1,23 @@
 {
   "slug": "sparebanken-norge-sbnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-norge-sbnor-xosl",
-  "scraped_at": "2026-10-23T12:09:13.352783+00:00",
+  "scraped_at": "2026-10-23T12:19:53.257509+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1f2f5960758684ea",
+      "author": "pewan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pewan",
+      "posted_relative": "for 4 min siden",
+      "text": "Kursmål Pareto kr 220. Anbefaler kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }
