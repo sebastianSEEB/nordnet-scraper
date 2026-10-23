@@ -1,9 +1,23 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-22T22:06:43.516446+00:00",
+  "scraped_at": "2026-10-23T01:09:30.397045+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8fc2d9842adf74f8",
+      "author": "GreatReset",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/greatreset",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Moderna data lakk ut.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }
