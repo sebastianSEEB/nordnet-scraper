@@ -1,9 +1,36 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-23T12:17:44.334029+00:00",
+  "scraped_at": "2026-10-23T17:37:01.206417+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4c33d5d4fb40939d",
+      "author": "Karmakoma",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karmakoma",
+      "posted_relative": "for 3 t siden",
+      "text": "Minus snart 20% på en mnd på ‘no news’. Rimer ikke dette..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "8fc109e35e9bd630",
+      "author": "Scorpionen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/scorpionen",
+      "posted_relative": "for 1 t siden",
+      "text": "Godt spørsmål hva som skjer..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

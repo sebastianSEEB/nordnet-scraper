@@ -1,9 +1,40 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-23T12:17:08.950255+00:00",
+  "scraped_at": "2026-10-23T17:36:25.637262+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7a3c82363f7e8e58",
+      "author": "Bjorn7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjorn7",
+      "posted_relative": "for 3 t siden",
+      "text": "Tjaa.. ned over 3% så langt i dag. Svinger mye nå for tiden. Så da blir det å sitte stille og vente på oppturen. Jeg tror nå fortsatt på det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "a182c6cfd53b5336",
+      "author": "Sunnyhill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnyhill",
+      "posted_relative": "for 2 t siden",
+      "text": "Ikke mange som kjøper fossil bil med disse prisene på olje 😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-23T12:20:48.544150+00:00",
+  "scraped_at": "2026-10-23T17:40:05.445549+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4a5249f9afcd51fe",
+      "author": "Winsund",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/winsund",
+      "posted_relative": "for 4 t siden",
+      "text": "hmm, bra inngang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    },
+    {
+      "key": "fcc9ff1d11cab915",
+      "author": "Glasskår",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glasskar",
+      "posted_relative": "for 4 t siden",
+      "text": "Håper det :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

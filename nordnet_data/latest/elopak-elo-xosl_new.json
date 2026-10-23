@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-23T12:18:51.005027+00:00",
+  "scraped_at": "2026-10-23T17:38:07.485255+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9d3a1d052ec463f9",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 1 t siden",
+      "text": "Enten er noen redde for neste uke eller så er dette spill for galleriet. Svaret får vi vel torsdag. Det er vel bare å lade de små kanonene igjen Hengslet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 154,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,79 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-10-23T12:20:52.486314+00:00",
+  "scraped_at": "2026-10-23T17:40:09.325472+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "ae13fb05360d7934",
+      "author": "BorseBørs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "100 mill er ingenting for Gjensidige. Og med tanke på den sinnsvakt gode rapporten så gir det virkelig ingen mening at denne faller 3% i dag. Kommer vel som en rakett opp igjen på mandag!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "2fef7ee72ee44b84",
+      "author": "Nabogutten83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nabogutten83",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva skyldes at markedet ikke er mer positivt til resultatet for kvartalet. Svarer med rødt og en nedgang på nesten 4%. Er det de 100mill som gjør utslaget?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "eac34813a2f0a1f5",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 6 t siden",
+      "text": "Brannen i Krokstadelva kostet Gjensidige 100 millioner kroner Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "46a8e3d29e9383e3",
+      "author": "Fruen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fruen",
+      "posted_relative": "for 3 t siden",
+      "text": "Det skyldes nok primært at inntektsveksten var lavere enn forventet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "0e553696b4c05cd6",
+      "author": "ikka",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ikka",
+      "posted_relative": "for 2 t siden",
+      "text": "· Er det Gjensidige eller synker alle forsikringsselskaper i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    }
+  ]
 }

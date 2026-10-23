@@ -1,9 +1,39 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-23T12:18:54.819033+00:00",
+  "scraped_at": "2026-10-23T17:38:11.570960+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "16b1945399138eaf",
+      "author": "Elon2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elon2",
+      "posted_relative": "for 3 t siden",
+      "text": "Tipper Ocean Installer ! Dof selger fartøy: DOF Group ASA (“DOF”) has agreed to sell the 2018-built subsea construction vessel Skandi Implementer to an undisclosed buyer. The vessel is planned to be delivered to its new owner in Q2 2027. The sale will contribute to a material reduction in the Group’s net debt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 311,
+      "has_link": false
+    },
+    {
+      "key": "fcf20452b3929cfd",
+      "author": "svisj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svisj",
+      "posted_relative": "for 2 t siden",
+      "text": "Spørs, Ocean Installer leier skipene sine.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

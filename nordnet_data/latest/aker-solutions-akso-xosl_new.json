@@ -1,9 +1,25 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-23T12:17:56.344494+00:00",
+  "scraped_at": "2026-10-23T17:37:12.793554+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e8011404a1c47a22",
+      "author": "Blakkattack",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blakkattack",
+      "posted_relative": "for 3 t siden",
+      "text": "Aksjen har falt ganske markant de siste dagene uten noen store nyheter, så ble annonsert torsdag etter stenging at de mistet Wisting kontrakten? Nokså mistenksom spør du meg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    }
+  ]
 }

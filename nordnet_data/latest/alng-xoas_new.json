@@ -1,9 +1,101 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-23T12:15:41.186274+00:00",
+  "scraped_at": "2026-10-23T17:35:02.587025+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "e00b052fbf2e87cb",
+      "author": "Mr Dividende",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-dividende",
+      "posted_relative": "for 1 t siden",
+      "text": "Denne aksjen er min \"lotto-kupong\", kommer til å ha disse aksjene lenge, Var tidlig inne i Hunter, mye inn og ut, ble bra med gevinster, men hadde jeg sittet rolig hadde reisen blitt mye bedre. Fikk en lærepenge der :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 218,
+      "has_link": false
+    },
+    {
+      "key": "d221345015f30e84",
+      "author": "The storm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-storm",
+      "posted_relative": "for 3 t siden",
+      "text": "Mener å huske at det stenges når kursen beveger seg mer enn 10% uten fundamentale nuheter. Så gjøres det vell noen undersøkelser fra Oslo Børs før reåpning.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "6ee0e3400d455d72",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 4 t siden",
+      "text": "Unormalt høyt volum i dag, nesten 500% mer enn snittet siste 20 dager. Mulig noen andre vet mer enn meg..",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "0c09a0d57579f61e",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
+      "posted_relative": "for 3 t siden",
+      "text": "· var det en god gammeldags pump og dump?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "b42c5b2b38cb4788",
+      "author": "trengas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trengas",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvorfor er handel stengt i ALNG ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        21
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    },
+    {
+      "key": "54712fc371e3d56c",
+      "author": "Nextbay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "posted_relative": "for 3 t siden",
+      "text": "Stengt igjen på 4 ser vi 20%?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

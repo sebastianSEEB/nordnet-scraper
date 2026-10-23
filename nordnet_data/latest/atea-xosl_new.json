@@ -1,9 +1,39 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-10-23T12:20:01.309687+00:00",
+  "scraped_at": "2026-10-23T17:39:18.821744+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1055eb30e43146f7",
+      "author": "MyPlayHouse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myplayhouse",
+      "posted_relative": null,
+      "text": "19. okt. · Synes det er litt rart,,, i dag er det en nyhet om at \"noen\" (Arctic Securities) nedgraderer Atea til hold og et lavere kursmål på 175,- istedenfor 190,- Men kursen ligger jo akkurat nå bare rundt 160-ish. Synes ikke helt det henger sammen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 251,
+      "has_link": false
+    },
+    {
+      "key": "2d9cc81d75396fa5",
+      "author": "Tompalompabörshaj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tompalompaborshaj",
+      "posted_relative": null,
+      "text": "19. okt. · tror at de er bekymret for at alle kjøpte maskinvare i Q2, men det burde være mer enn priset inn nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }

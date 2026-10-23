@@ -1,9 +1,25 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-10-23T12:21:20.370358+00:00",
+  "scraped_at": "2026-10-23T17:40:36.925378+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ad1891b496592266",
+      "author": "Miguel.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miguel-1",
+      "posted_relative": null,
+      "text": "19. okt. Hei. Hva mener folk er en bra innkjøpspris på denne og hvorfor? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    }
+  ]
 }
