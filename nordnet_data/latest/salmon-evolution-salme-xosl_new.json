@@ -1,9 +1,40 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-23T20:53:40.179546+00:00",
+  "scraped_at": "2026-10-23T23:45:57.127649+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e0c80ff5d298059d",
+      "author": "caddy2010",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/caddy2010",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://www.facebook.com/share/19CBjsV5H5/ Vekk med hav-oppdrettsnæringen, dette kan ikkje kalles mat ein gang. Makan te nasty🤮",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.facebook.com/share/19CBjsV5H5/"
+      ],
+      "char_count": 129,
+      "has_link": true
+    },
+    {
+      "key": "b88238a3af9001f7",
+      "author": "Joakimss",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joakimss",
+      "posted_relative": "for 1 t siden",
+      "text": "Vekk med en av Norges største eksportnæringer? Jeg kan ikke si jeg heier på det. Heier derimot fremdeles på Salmon Evolution👍🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    }
+  ]
 }

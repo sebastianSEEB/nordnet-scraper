@@ -1,39 +1,37 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-23T20:46:04.431459+00:00",
+  "scraped_at": "2026-10-23T23:38:34.555407+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "8cc55f9acdf3d2b7",
-      "author": "Barcelona1986",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcelona1986",
-      "posted_relative": "for 1 t siden",
-      "text": "Heidmar helgelesning, evt hør på intervjuet. https://files.irwebpage.com/files/hmrArticle102326.pdf",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://files.irwebpage.com/files/hmrArticle102326.pdf"
-      ],
-      "char_count": 99,
-      "has_link": true
-    },
-    {
-      "key": "9046467867eb3fa5",
-      "author": "AI-Bear",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ai-bear",
+      "key": "0e56a722ebb58a4b",
+      "author": "onuk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onuk",
       "posted_relative": "for 2 t siden",
-      "text": "Hyggelig dag for FRO men det er vel litt usikkert hva som er priset inn. Skulle det bli en positiv utvikling i Midtøsten vil nok fremtidige rater falle raskere enn oljeprisen.",
+      "text": "Er det noen av dere som har oversikt over hvor mange tankskip som har blitt tatt ut i forbindelse med angrepene i Hormus straight? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 175,
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "31c55c6dfc072b45",
+      "author": "CoconutTheHairyNut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coconutthehairynut",
+      "posted_relative": "for 1 t siden",
+      "text": "· Her",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
       "has_link": false
     }
   ]

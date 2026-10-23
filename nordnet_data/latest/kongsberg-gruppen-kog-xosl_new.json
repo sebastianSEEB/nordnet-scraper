@@ -1,23 +1,27 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-10-23T20:51:16.210929+00:00",
+  "scraped_at": "2026-10-23T23:43:36.538699+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "b4f9a59a477eaf87",
-      "author": "Makchish",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/makchish",
-      "posted_relative": "for 2 t siden",
-      "text": "Produseres ikk i europa",
-      "reply_count": 1,
+      "key": "c7e12275a3807e40",
+      "author": "FSMM-SuperStonks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fsmm-superstonks",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box/",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 23,
-      "has_link": false
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box/"
+      ],
+      "char_count": 112,
+      "has_link": true
     }
   ]
 }

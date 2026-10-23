@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-23T20:47:28.957921+00:00",
+  "scraped_at": "2026-10-23T23:39:55.863291+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c9b22285cdfe68c7",
+      "author": "Mr MPCC2VOW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-mpcc2vow",
+      "posted_relative": "for 2 t siden",
+      "text": "Takk for meg 🥲 har vært en bra reise 👋",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }
