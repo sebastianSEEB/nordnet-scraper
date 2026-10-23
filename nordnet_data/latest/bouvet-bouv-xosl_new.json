@@ -1,9 +1,85 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-10-23T06:45:01.222531+00:00",
+  "scraped_at": "2026-10-23T12:08:00.670359+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "5e04654058a78d15",
+      "author": "mikis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikis",
+      "posted_relative": "for 2 t siden",
+      "text": "Skal vel ikke se bort fra at det også ligger forventninger om relativ bedring i resultatene på Q3-rapporten.  På siste kvartalsrapportering viste selskapet til en gradvis bedring i de økonomiske resultatene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        1
+      ],
+      "links": [],
+      "char_count": 206,
+      "has_link": false
+    },
+    {
+      "key": "037aba4b02c4b37c",
+      "author": "Investor01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investor01",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg fant nylige dette innlegget ettersom jeg også er aksjonær i BW Offshore. Kanskje AI ikke er så skummelt for konsulentselskapene allikevel.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    },
+    {
+      "key": "4b9498b6946da513",
+      "author": "Toddy1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toddy1",
+      "posted_relative": "for 3 t siden",
+      "text": "Det kommer sammen med global rullering ut av AI og inn i software og tradisjonelle IT selskaper",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "da4fe44c2b4ddcaf",
+      "author": "Gråbein 44",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
+      "posted_relative": "for 4 t siden",
+      "text": "Ja takk, den er kjent, men takk likevel. 🙂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "735036483c31e153",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 4 t siden",
+      "text": "Hva er grunnen til denne oppgangen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        4
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,51 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-23T06:43:26.248070+00:00",
+  "scraped_at": "2026-10-23T12:06:25.082485+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4ac932c35e4e97c9",
+      "author": "dapb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dapb",
+      "posted_relative": "for 4 t siden",
+      "text": "· Er det noen historier ute om zaptec. Selger virker veldig ivrig etter å komme ut av aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "fc3f96c0e8ef21ff",
+      "author": "Stefan007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
+      "posted_relative": "for 3 t siden",
+      "text": "· heldigvis har man denne som bærer opp det .når man sitter på 3000 volvo car aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "5ae8f5242c711264",
+      "author": "Aktierforsjov",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aktierforsjov",
+      "posted_relative": "for 2 t siden",
+      "text": "· Det er da det vanlige snytet med citadel",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

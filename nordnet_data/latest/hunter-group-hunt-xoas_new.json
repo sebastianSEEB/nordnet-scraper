@@ -1,50 +1,99 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-23T06:46:38.378187+00:00",
+  "scraped_at": "2026-10-23T12:09:41.240530+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "5fb178ee90d1da92",
-      "author": "TRD 100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
-      "posted_relative": "for 4 min siden",
-      "text": "· Flate spotrater for råoljetankskip➡️ FFA hedrer seg inn igjen🪃 VLCC TD3C FFA Nov/Dec/Q1 opp 8%/6%/17%⏫ BWET opp 10%🚀 (bilde) TD3C TCE (AG >CN) -8k til 1,288k➡️ TD22 TCE (US>CN) -13k til 452k➡️ SUEZ TCE -2k til 639k➡️ AFRA TCE +4k til 327k➡️ $HUNT $FRO $ECO $DHT $CAPT $BWET #OOTT",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 281,
-      "has_link": false
-    },
-    {
-      "key": "d30f82571731f4bd",
-      "author": "nopetter",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 28 min siden",
-      "text": "Future prisene ligger på rundt 130, i værste fall kan olja gå bananas",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 69,
-      "has_link": false
-    },
-    {
-      "key": "901a7c1404f23133",
-      "author": "Superninja_",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/superninja-1",
+      "key": "8e43d888ef6c7ef8",
+      "author": "Iluna",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iluna",
       "posted_relative": "for 1 t siden",
-      "text": "Håper på en grønn avslutning idag🤞🏼🤞🏼  Ønsker alle en fin fredag 😁",
+      "text": "https://www.finansavisen.no/energi/2026/10/23/8389993/citi-skyhoye-tankrater-holder-oljeprisen-oppe",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        1,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/23/8389993/citi-skyhoye-tankrater-holder-oljeprisen-oppe"
+      ],
+      "char_count": 99,
+      "has_link": true
+    },
+    {
+      "key": "d7c2cb9ddcc25ce0",
+      "author": "Bra Ver",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bra-ver",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Det blir spennende å se hva Mercuria betaler for Oktober, det får vi vel vite rundt 9ende nov, da er det vel også kjent hvordan saken mot Baltic gikk. Den trenger ikke heller ta 15 dager med rettssaken nå som det viktigsre er frafalt skulle en tru. :- ) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        2
       ],
       "links": [],
-      "char_count": 66,
+      "char_count": 273,
+      "has_link": false
+    },
+    {
+      "key": "b7aa44396ce76211",
+      "author": "phor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
+      "posted_relative": "for 4 min siden",
+      "text": "Hvis Mercuria ikke gjør opp innen neste forfall, ser jeg heller ingen grunn til at de skal betale annerledes i november.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "4a9b0ba41db40415",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 33 min siden · Endret",
+      "text": "av de 784 er 80 er låst i shuttel trafikk for oman og saudi arabia m.fl. bla DHT PUMA",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "53968361149f90ff",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 3 t siden",
+      "text": "Er det utbytte i desember?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "dbda7591c02651e2",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 2 t siden",
+      "text": "håper 6 kr aksjen?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
       "has_link": false
     }
   ]

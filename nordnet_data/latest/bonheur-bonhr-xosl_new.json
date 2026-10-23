@@ -1,9 +1,38 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-10-23T06:47:37.987324+00:00",
+  "scraped_at": "2026-10-23T12:10:40.829375+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "60942a8f3074c7ed",
+      "author": "TexasTS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texasts",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Forrige bunn var 214, bunnen før der var på 210, hvorfor stopper det på 235 denne gangen?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    },
+    {
+      "key": "ad17cbaf8dad36af",
+      "author": "Miguel.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miguel-1",
+      "posted_relative": "for 3 døgn siden",
+      "text": "Hei. Hva mener folk er en bra innkjøpspris på denne og hvorfor? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

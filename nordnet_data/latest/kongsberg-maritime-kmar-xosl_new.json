@@ -1,9 +1,85 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-23T06:45:39.690738+00:00",
+  "scraped_at": "2026-10-23T12:08:41.309504+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "278a9861f0becffd",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden",
+      "text": "Kmar lever av nye båter og vedlikehold på gamle. Begge deler er sterkt økende i årene fremover. Ikke la dere lure av roboter men kjøp og sitt long",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "94424d6d46f90ed2",
+      "author": "TrF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trf",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjer med denne om dagen? Var stødig på vei over kursen etter fisjonen, men nå er det nedover igjen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "d42fa2e3b941e1a8",
+      "author": "GabW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
+      "posted_relative": "for 1 t siden",
+      "text": "Kan ikke bare gå oppover uten pauser eller ned igjen for å hente fart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "1201c3e9069c77fc",
+      "author": "kankaew",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kankaew",
+      "posted_relative": "for 40 min siden",
+      "text": "Hva var det egentlig som hendte på slutten av dagen i går?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "ce3463330361eb44",
+      "author": "PensjonsfondForvalteren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pensjonsfondforvalteren",
+      "posted_relative": "for 20 t siden",
+      "text": "Tipper den faller en del, da man prøver å få fred i verden",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,67 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-10-23T06:42:26.755732+00:00",
+  "scraped_at": "2026-10-23T12:05:24.869735+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "6eed750eba74e5dd",
+      "author": "EivindAmb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eivindamb",
+      "posted_relative": "for 19 t siden",
+      "text": "Ryktes nye investorer, flere investorer med ett til sammen høyere kapital Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "7294fcc460f93869",
+      "author": "Formue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/formue",
+      "posted_relative": "for 2 t siden",
+      "text": "Ryktes at aksjen faller hver gang du kommenterer her 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "63a7a769c0137bfe",
+      "author": "vetikke4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjer? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "26e4507f201427c1",
+      "author": "Kremmer",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kremmer",
+      "posted_relative": "for 2 t siden",
+      "text": "·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1,
+      "has_link": false
+    }
+  ]
 }

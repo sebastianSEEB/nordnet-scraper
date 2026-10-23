@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-23T06:47:26.189632+00:00",
+  "scraped_at": "2026-10-23T12:10:28.996754+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "637a25b93738d152",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 3 t siden",
+      "text": "Styremedlem i Storebrand ASA, Martin Skancke, har i dag kjøpt 1 000 aksjer i Storebrand ASA til kurs NOK 190,8 pr. aksje. Martin Skancke eier 50 000 aksjer i Storebrand ASA etter denne transaksjonen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 199,
+      "has_link": false
+    }
+  ]
 }

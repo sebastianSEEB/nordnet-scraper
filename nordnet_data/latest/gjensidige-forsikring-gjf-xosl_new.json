@@ -1,24 +1,66 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-10-23T06:47:10.510574+00:00",
+  "scraped_at": "2026-10-23T12:10:13.135483+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "faca510c6606e3ae",
-      "author": "No limits",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-limits",
-      "posted_relative": "for 1 t siden",
-      "text": "Gjensidige leverer gode tall for Q3, og bedre en forventet.  Det bør gi et løft i kursen i dag.",
+      "key": "f5cac7db7ad0d81f",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 46 min siden",
+      "text": "https://www.abcnyheter.no/nyheter/brannen-i-krokstadelva-kostet-gjensidige-100-millioner-kroner/1708527",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.abcnyheter.no/nyheter/brannen-i-krokstadelva-kostet-gjensidige-100-millioner-kroner/1708527"
+      ],
+      "char_count": 103,
+      "has_link": true
+    },
+    {
+      "key": "dc2f56b799262b5d",
+      "author": "Hutdokkerombord",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hutdokkerombord",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Jeg har vært kunde i Gjensidige i over 30 år. Nesten hver gang jeg prøver å bytte, matcher andre selskaper Gjensidige på pris. Men når jeg kalkulerer inn kundeutbytte, ender jeg med å forbli i Gjensidige.  For en \"moat\"!  Gjensidige har vært min kones største investering (og dermed min) siden IPO for en mannsalder siden. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        9,
+        2
       ],
       "links": [],
-      "char_count": 95,
+      "char_count": 342,
+      "has_link": false
+    },
+    {
+      "key": "3d47990271f747b6",
+      "author": "IrquiM",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/irquim",
+      "posted_relative": "for 48 min siden",
+      "text": "Angrer ikke på at jeg som fattig student brukte 10k på å handle gjensidige aksjer den gangen, nei.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "2e081eb30083ffaf",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 46 min siden",
+      "text": "Brannen i Krokstadelva kostet Gjensidige 100 millioner kroner",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
       "has_link": false
     }
   ]

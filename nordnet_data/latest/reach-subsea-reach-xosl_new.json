@@ -1,9 +1,53 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-10-23T06:49:15.759747+00:00",
+  "scraped_at": "2026-10-23T12:12:20.303460+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bf670f6861714a31",
+      "author": "Soletti",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soletti",
+      "posted_relative": "for 28 min siden",
+      "text": "https://safe.no/opptrapping-og-streikemarkering-utenfor-hovedkontoret-til-reach-subsea/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://safe.no/opptrapping-og-streikemarkering-utenfor-hovedkontoret-til-reach-subsea/"
+      ],
+      "char_count": 87,
+      "has_link": true
+    },
+    {
+      "key": "7533b32db7a44423",
+      "author": "h3nk1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
+      "posted_relative": null,
+      "text": "19. okt. · Endret Det er snakk om foreningsutløst streik blant et sted mellom 1 og 2 prosent av selskapets ansatte hittil. Får håpe de kommer til enighet innen rimelig tid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 172,
+      "has_link": false
+    },
+    {
+      "key": "9ea3c471b953ec26",
+      "author": "mithra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mithra",
+      "posted_relative": null,
+      "text": "19. okt. Noen som vet i hvilken grad streikeuttaket rammer inntjening og tillit til Reach ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

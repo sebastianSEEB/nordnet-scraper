@@ -1,9 +1,25 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-23T06:45:32.143031+00:00",
+  "scraped_at": "2026-10-23T12:08:33.380629+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0c25446c77b64c57",
+      "author": "no-emotions",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-emotions",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er et GAP ned til 13,91. Fyller gjerne på der.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

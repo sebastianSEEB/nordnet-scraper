@@ -1,9 +1,38 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-10-23T06:48:32.645843+00:00",
+  "scraped_at": "2026-10-23T12:11:36.942647+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9e169925a5f504ca",
+      "author": "Astrup 2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/astrup-2",
+      "posted_relative": "for 1 t siden",
+      "text": "Dersom MRV lykkes i å sertifisere next generation floaters for flydropp innen rimelig tid så kan vel et stort marked åpne seg?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "79a73d656e56011d",
+      "author": "ALLTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allti",
+      "posted_relative": null,
+      "text": "19. okt. Alt under 23 er gode kjøpsmuligheter slik jeg ser det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,80 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-23T06:44:37.136279+00:00",
+  "scraped_at": "2026-10-23T12:07:36.998266+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "4e276d51801ed431",
+      "author": "Reidar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reidar",
+      "posted_relative": "for 1 t siden",
+      "text": "Får man nye aksjer eller kontanter om man blir tvangsinnløst? Kan aksjene fortsatt stå på ASK?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "d82386acea03a4ce",
+      "author": "cab4me",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cab4me",
+      "posted_relative": "for 4 t siden",
+      "text": "Akskene mine står nå som plc og kan ikke handles, noen som vet hvor lenge det skal være slik?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "bce85acfd024f6af",
+      "author": "draanvine",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/draanvine",
+      "posted_relative": "for 4 t siden",
+      "text": "kursen blir litt lurt siden mange ikke får selge idag… Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "ebbd359cb720ade0",
+      "author": "Bbossen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbossen",
+      "posted_relative": "for 1 t siden",
+      "text": "· De kan forlenge 5 uker til hvis det er nødvendig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "607856898278be5a",
+      "author": "arepma",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arepma",
+      "posted_relative": "for 2 t siden",
+      "text": "53,85 står hos meg, hvor kommer det tallet ifra",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,70 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-23T06:48:51.917319+00:00",
+  "scraped_at": "2026-10-23T12:11:56.774474+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "5df03a38bcc2b401",
+      "author": "Vulkansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vulkansen",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvordan er det med de store kjedene, tar de inn begge leverandørene for å holde konkurransen vedlike eller går de for en leverandør?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "46727d7c016c80cb",
+      "author": "naidra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/naidra",
+      "posted_relative": "for 5 t siden",
+      "text": "Utrolig god rapport fra Tomra, som bør være overførbar til Envipco! Gleder meg til Q3 rapporten herifra",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "d5190da29583f947",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 4 t siden",
+      "text": "TOMRA: VENTER AT ANBUD I STORBRITANNIA AVGJØRES INNEN ÅRSSLUTT Denne er fin for begge parter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "afc149e478dd3e4a",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
+      "posted_relative": "for 1 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

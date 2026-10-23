@@ -1,9 +1,38 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-23T06:48:13.479008+00:00",
+  "scraped_at": "2026-10-23T12:11:17.050465+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6d9ea466e5aca1ff",
+      "author": "fattigstackare",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattigstackare",
+      "posted_relative": "for 4 t siden",
+      "text": "· Aktien har fallit ca. -10% på en månad och befinner sig nu under den psykologiska gränsen 50 nok. Rapport om sju dagar. Jag tycker läget är svårbedömt: kommer aktien att stiga något eller falla vidare efter rapporten?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 219,
+      "has_link": false
+    },
+    {
+      "key": "28ab2e1d6231b7ca",
+      "author": "Rolfkul",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul",
+      "posted_relative": "for 2 t siden",
+      "text": "er nok ingen her som vet det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

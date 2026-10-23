@@ -1,9 +1,84 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-23T06:46:58.997472+00:00",
+  "scraped_at": "2026-10-23T12:10:01.345976+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "7b88c34320692e2c",
+      "author": "sjokoladen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjokoladen",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Ber amerikanerne forlate saudi arabia.  Det ser ikke ut til at USA tror det blir en fredsavtale med en gang…. Spennende å se hva som skjer videre .https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250"
+      ],
+      "char_count": 241,
+      "has_link": true
+    },
+    {
+      "key": "f9871c1c2cb2ac29",
+      "author": "Ophon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
+      "posted_relative": "for 4 t siden",
+      "text": "Ta tiden til hjelp, det regelrett plasker penger i kassa i disse tider.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "0f4a9f3c38b2d05f",
+      "author": "AlfabetaXX",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alfabetaxx",
+      "posted_relative": "for 52 min siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "3ccfa0d610edc712",
+      "author": "Porchegutt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/porchegutt",
+      "posted_relative": "for 1 t siden",
+      "text": "4 verdenskrig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    },
+    {
+      "key": "bdc2be537bd4a996",
+      "author": "mini_85",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mini_85",
+      "posted_relative": "for 2 t siden",
+      "text": "· Og?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }
