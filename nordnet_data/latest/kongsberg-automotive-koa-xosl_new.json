@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-23T01:12:21.424420+00:00",
+  "scraped_at": "2026-10-23T06:49:31.290609+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "604dd1acaab80bf2",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 1 t siden",
+      "text": "- Hva er fair prising hvis utbytte blir gjeninnført (20 år siden sist) fra 2027? - Hva skjer med KOA som utbytteaksje? (kortsvar er 2,48 til 3,12 kr) Selskapet vil med utbytte i større grad tiltrekke seg investorer som er opptatt av direkteavkastning og DY lager gulv/tak for aksjekurs. Optimisme/pessimisme vil påvirke kurs mindre, matematikk overtar.  Overskudd etter skatt har siste 12 mnd vært 20M euro som med 50% utdeling og DY på 5% gir fair aksjekurs på 2,48 kr (0,12 kr i utbytte av 934M aksjer).  Vokser overskudd etter skatt til f.eks 25M euro (0,15 kr i utbytte) blir fair aksjekurs 2,84 kr. P/E vil være 10x for begge tilfeller.  Hvis vi ser på P/CF og priser til 5x (fortsatt billig ift peers) er kurs 3,12 kr (brukt AI til siste beregning).  = Hvilken direkteavkastning markedet krever og utvikling i årsresultat avgjør fremtidig aksjekurs.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 855,
+      "has_link": false
+    },
+    {
+      "key": "7374ec554ab23025",
+      "author": "carrlo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
+      "posted_relative": "for 5 min siden",
+      "text": "Det viktigste er at styret endelig kommuniserer at verdiene som skapes, også skal komme oss eiere til gode. Når selskapet begynner å betale et fast årlig utbytte, får markedet noe konkret å prise aksjen etter. Og selv 12 øre er god rente på dagens kurs. Det blir også vanskeligere å holde kurs nede bare på grunn av dårlig stemning og gammel mistillit.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 352,
+      "has_link": false
+    }
+  ]
 }

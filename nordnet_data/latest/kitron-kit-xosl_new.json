@@ -1,9 +1,82 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-23T01:06:15.302185+00:00",
+  "scraped_at": "2026-10-23T06:43:30.046168+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "61f94cfef98f9aba",
+      "author": "mikkelstante",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikkelstante",
+      "posted_relative": "for 20 min siden",
+      "text": "https://www.finansavisen.no/industri/2026/10/22/8388863/forsvarsbrems-for-kitron",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/10/22/8388863/forsvarsbrems-for-kitron"
+      ],
+      "char_count": 80,
+      "has_link": true
+    },
+    {
+      "key": "349d460778202e20",
+      "author": "høstmørket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hstmrket",
+      "posted_relative": "for 59 min siden",
+      "text": "· Arctic hever Kitron til kjøp (hold), kursmål 110 norske kroner - BN Close i dag kl. 07:20 ∙ Finwire Arctic hever Kitron til kjøp (hold), kursmål 110 norske kroner - BN",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    },
+    {
+      "key": "cafc7cf3beddeca3",
+      "author": "Hoasis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hoasis",
+      "posted_relative": "for 53 min siden",
+      "text": "Jeg tipper den skal ned et par tre kroner til før den bunner ut. Pleier som regel å ta tid før kursen begynner å gå oppover igjen etter en slik nedtur",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "31a240f083d18253",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 43 min siden",
+      "text": "Legger mer vekt  på innsidekjøpet nå , enn hva meglerhusene antar som riktig kjøp . Er selv på plass etter lengre tids fravær ;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "6565f71c2e3093d8",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 3 t siden",
+      "text": "Kitron pleier å få leveranser til dem ja.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

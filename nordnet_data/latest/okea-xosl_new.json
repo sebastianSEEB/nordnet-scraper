@@ -1,9 +1,25 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-23T01:08:41.941530+00:00",
+  "scraped_at": "2026-10-23T06:45:55.417432+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "17b07894d28d977a",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": "for 33 min siden",
+      "text": "https://www.dn.no/utenriks/usa/iran/donald-trump/planlegger-nye-iran-angrep-etter-mellomvalget/2-1-2063044",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/utenriks/usa/iran/donald-trump/planlegger-nye-iran-angrep-etter-mellomvalget/2-1-2063044"
+      ],
+      "char_count": 106,
+      "has_link": true
+    }
+  ]
 }

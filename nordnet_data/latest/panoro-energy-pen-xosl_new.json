@@ -1,9 +1,39 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-23T01:06:19.426041+00:00",
+  "scraped_at": "2026-10-23T06:43:33.996028+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ff7ea67f25802941",
+      "author": "Actros",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/actros",
+      "posted_relative": "for 12 t siden",
+      "text": "Hvorfor ned når olja langt opp i dag?🤔 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "b95f91a046fc6555",
+      "author": "ratata_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ratata-1",
+      "posted_relative": "for 45 min siden",
+      "text": "Olja falt når NY åpnet og trakk med seg oljeaksjene ned.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

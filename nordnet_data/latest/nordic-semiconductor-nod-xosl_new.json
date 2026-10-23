@@ -1,9 +1,38 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-23T01:05:55.147783+00:00",
+  "scraped_at": "2026-10-23T06:43:10.441851+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "67283bb4121bc1ed",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Noen som jobber hardt med å betale analytikere og meglerhus om å nedgradere og senke kursmålet til NOD i en tid hvor de leverer god rapport og tjener penger som aldri før. Noen som vil kjøpe selskapet billigere eller? Jeg lar meg ikke lure/selger ikke. Nå kom det inn et ØKT kursmål fra SEB og da etter jeg først skrev innlegget 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 330,
+      "has_link": false
+    },
+    {
+      "key": "36e16c2116241794",
+      "author": "høstmørket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hstmrket",
+      "posted_relative": "for 56 min siden",
+      "text": "SEB hever Nordic Semiconductor for å kjøpe (holde), kursmål NOK 210 (190) Lukk i dag kl. 07:32 ∙ Finwire SEB hever Nordic Semiconductor for å kjøpe (holde), kursmål NOK 210 (190)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 178,
+      "has_link": false
+    }
+  ]
 }
