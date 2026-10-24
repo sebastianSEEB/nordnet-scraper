@@ -1,9 +1,40 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-24T12:20:41.020967+00:00",
+  "scraped_at": "2026-10-24T16:21:36.986498+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bab1ef17aad7c2d4",
+      "author": "syden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syden",
+      "posted_relative": null,
+      "text": "20. okt. Det var vel dårlig taktikk av styreleder og si at han ikke har vært fornøyd med utviklingen i aksjekursen, men da ønsket seg 150.000 opsjoner. For da kan jeg kanskje gjøre en bedre jobb. Men sånn er mye vil ha mer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 222,
+      "has_link": false
+    },
+    {
+      "key": "110e9d0f59ad2e54",
+      "author": "runarss",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/runarss",
+      "posted_relative": null,
+      "text": "20. okt. · 🥀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

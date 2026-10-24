@@ -1,9 +1,40 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-24T12:26:27.579687+00:00",
+  "scraped_at": "2026-10-24T16:27:29.722920+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c4076ac1ebb85c99",
+      "author": "Snake24",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snake24",
+      "posted_relative": "for 3 t siden",
+      "text": "· https://jnm.snmjournals.org/content/early/2026/10/23/jnumed.126.274089",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://jnm.snmjournals.org/content/early/2026/10/23/jnumed.126.274089"
+      ],
+      "char_count": 72,
+      "has_link": true
+    },
+    {
+      "key": "50278e958082c191",
+      "author": "kaffekanne69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaffekanne69",
+      "posted_relative": "for 11 min siden",
+      "text": "Bra innlegg det hadde ikke jeg tenkt på, Ai svar her på bildet så skal vel ta det med en klype salt men om det stemmer så er jo fremtiden potensielt meget lys",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    }
+  ]
 }

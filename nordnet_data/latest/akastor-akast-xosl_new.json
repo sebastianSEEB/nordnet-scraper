@@ -1,9 +1,23 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-10-24T12:23:47.157602+00:00",
+  "scraped_at": "2026-10-24T16:24:45.522270+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b9183d59cbcd364a",
+      "author": "dommetom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dommetom",
+      "posted_relative": null,
+      "text": "20. okt. korrigere meg selv. tett opp -3.7% på en mnd etter ca 20% innbetalt i utbytte. sykt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    }
+  ]
 }
