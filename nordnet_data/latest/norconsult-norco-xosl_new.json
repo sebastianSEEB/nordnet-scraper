@@ -1,9 +1,27 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-10-24T02:26:52.696486+00:00",
+  "scraped_at": "2026-10-24T07:45:20.898247+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b7fe8e4c1101b0a1",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": null,
+      "text": "20. okt. https://www.finansavisen.no/tdn/2026/10/20/06605539/norconsult-vegard-jacobsen-blir-konserndirektor-for-norge-hovedkontor",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/10/20/06605539/norconsult-vegard-jacobsen-blir-konserndirektor-for-norge-hovedkontor"
+      ],
+      "char_count": 130,
+      "has_link": true
+    }
+  ]
 }

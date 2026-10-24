@@ -1,9 +1,26 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-24T02:28:21.748023+00:00",
+  "scraped_at": "2026-10-24T07:46:53.479599+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "77ab9d594024fe36",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": null,
+      "text": "20. okt. Det er Q3 rapport snart, denne skal en del over 50🍂☀️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        9
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

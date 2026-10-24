@@ -1,9 +1,23 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-24T02:29:04.515152+00:00",
+  "scraped_at": "2026-10-24T07:47:37.744420+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8f049e8022cfb46f",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 11 min siden",
+      "text": "Takker. Ja jeg har skjønt at det er de som leier skipene som må betale for \"gildet\" som du nevner. Har prøvd å forstå hva som innvirker på spot rate  fastsettelsen. Må innrømme at dette var veldig innviklet. Trudde faktisk at høy premie hadde en negativ innvirkning på raten men det stemmer altså ikke det er faktisk det motsatte som skjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 339,
+      "has_link": false
+    }
+  ]
 }

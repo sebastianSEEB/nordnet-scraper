@@ -1,9 +1,43 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-10-24T02:29:19.898746+00:00",
+  "scraped_at": "2026-10-24T07:47:54.310538+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ae71d8fdbe1b38b0",
+      "author": "Solidum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solidum",
+      "posted_relative": "for 2 t siden",
+      "text": "Europeisk produksjon vil bli etablert. Lie har uttalt at de er i konkrete samtaler med flere europeiske land for å finne ut hvor de skal bygge produksjon for rimelige missiler. https://swedenherald.com/article/kongsberg-plans-european-production-of-lowcost-air-defense-missiles",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://swedenherald.com/article/kongsberg-plans-european-production-of-lowcost-air-defense-missiles"
+      ],
+      "char_count": 277,
+      "has_link": true
+    },
+    {
+      "key": "2b8cde1da5f88d40",
+      "author": "Solidum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solidum",
+      "posted_relative": "for 14 t siden",
+      "text": "Tyskland forhandler om tusenvis av europeisk-produserte missiler. Her kan vel missilet Rusty Dagger (Zone 5) være en het kandidat? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    }
+  ]
 }

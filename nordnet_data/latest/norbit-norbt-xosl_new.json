@@ -1,9 +1,23 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-24T02:26:21.740211+00:00",
+  "scraped_at": "2026-10-24T07:44:48.559945+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "56f2b6ac9966206f",
+      "author": "Aruhoff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aruhoff",
+      "posted_relative": null,
+      "text": "20. okt. Lenke?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

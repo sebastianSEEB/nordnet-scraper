@@ -1,9 +1,25 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-24T02:29:47.100586+00:00",
+  "scraped_at": "2026-10-24T07:48:22.491546+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "57317d69a4669a45",
+      "author": "Aksjeulven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeulven",
+      "posted_relative": null,
+      "text": "20. okt. På vei mot 100 nå, neste uke tipper jeg vi ser 3 sifra kurs",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

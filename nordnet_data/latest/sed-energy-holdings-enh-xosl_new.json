@@ -1,9 +1,23 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-24T02:27:08.097275+00:00",
+  "scraped_at": "2026-10-24T07:45:37.238421+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b067d8f86c61de06",
+      "author": "BBBTRH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbbtrh",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Vet du om oppgangen er kontraktsdrevet eller er en sektorrotasjon inn i oljeservice?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    }
+  ]
 }
