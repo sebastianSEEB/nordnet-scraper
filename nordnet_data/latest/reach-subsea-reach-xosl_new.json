@@ -1,9 +1,23 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-10-24T16:27:33.744244+00:00",
+  "scraped_at": "2026-10-24T19:15:44.875266+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6855c1ae5a607664",
+      "author": "Soletti",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soletti",
+      "posted_relative": null,
+      "text": "20. okt. Kommentaren er slettet.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

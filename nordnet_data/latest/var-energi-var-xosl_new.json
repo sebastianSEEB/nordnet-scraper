@@ -1,9 +1,23 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-24T16:25:32.462012+00:00",
+  "scraped_at": "2026-10-24T19:13:43.023536+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2408399c28c82c6e",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 40 min siden",
+      "text": "· Reuters skriver at houthi-talsmannen Yahya Saree har sagt at de angrep flere saudiske mål på lørdagen, deriblant: East-West-pipelinen Råoljepumpestasjoner En Aramco-anlegg i Yanbu Rabigh-raffinaderiet Flyplasser (bl.a. King Khalid i Riyadh og King Fahd i Dammam) og en flybase Den saudisk-ledede koalisjonen opplyser at de har skutt ned to ballistiske missiler som var på vei mot Yanbu og Taif. Det er ennå ingen umiddelbar bekreftelse fra saudiske myndigheter om at angrepene faktisk traff målene sine, eller om de ble avverget. Dette er altså houthienes egen versjon. East-West-pipelinen har blitt angrepet tidligere i høst (og stengt midlertidig), så det er ikke første gang de hevder å ha slått til mot den. Hvis det blir bekreftede skader denne gangen, ville det være en ytterligere avbrudd for den viktige omvei-ruten rundt Hormuz.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 839,
+      "has_link": false
+    }
+  ]
 }

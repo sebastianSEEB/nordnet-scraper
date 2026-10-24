@@ -1,9 +1,36 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-24T16:21:53.185982+00:00",
+  "scraped_at": "2026-10-24T19:10:05.937001+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c26bc318b4718ee4",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 36 min siden",
+      "text": "· Reuters skriver at Houthi-talsmannen Yahya Saree har sagt at de angrep flere saudiarabiske mål på lørdag, deriblant: East-West-rørledningen Råoljepumpestasjoner En Aramco-anlegg i Yanbu Rabigh-raffinaderiet Flyplasser (bl.a. King Khalid i Riyadh og King Fahd i Dammam) og en flybase Den saudiarabisk-ledede koalisjonen opplyser at de har skutt ned to ballistiske missiler som var på vei mot Yanbu og Taif. Det er ennå ingen umiddelbar bekreftelse fra saudiarabiske myndigheter om at angrepene faktisk traff målene sine, eller om de ble avverget. Dette er altså houthis egen versjon. East-West-rørledningen har blitt angrepet tidligere i høst (og stengt midlertidig), så det er ikke første gang de hevder å ha slått til mot den. Hvis det blir bekreftede skader denne gangen, ville det være nok en forstyrrelse for den viktige omkjøringsruten rundt Hormuz.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 856,
+      "has_link": false
+    },
+    {
+      "key": "fe4a8f164ea0176c",
+      "author": "arctic_fulmar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arctic_fulmar",
+      "posted_relative": "for 1 t siden",
+      "text": "· DNO skulle vel få 7mio?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }
