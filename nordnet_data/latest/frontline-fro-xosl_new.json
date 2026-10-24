@@ -1,9 +1,40 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-24T19:08:14.543441+00:00",
+  "scraped_at": "2026-10-24T22:05:08.717791+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7eebb1c76f14bb7b",
+      "author": "Fasadeendring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fasadeendring",
+      "posted_relative": "for 45 min siden",
+      "text": "https://x.com/fergalpha/status/2113996711022543187 Får se om Trump får rett denne gangen då 📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://x.com/fergalpha/status/2113996711022543187"
+      ],
+      "char_count": 93,
+      "has_link": true
+    },
+    {
+      "key": "670ba45525130320",
+      "author": "BenRedicFyFazan26",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
+      "posted_relative": "for 25 min siden",
+      "text": "Kan ikke forstå noe annet enn en oppgang her altså",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

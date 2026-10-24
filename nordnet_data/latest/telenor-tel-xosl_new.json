@@ -1,9 +1,25 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-24T19:13:31.240027+00:00",
+  "scraped_at": "2026-10-24T22:10:37.534152+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "27f685379d162bf3",
+      "author": "PimpFunk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
+      "posted_relative": "for 1 min siden",
+      "text": "https://www.abcnyheter.no/nyheter/krever-stopp-i-forsvarets-starlink-utbygging-etter-ukraina-hendelse/1710016 snakkes pakkis om ikke Regjeringen tar grep.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.abcnyheter.no/nyheter/krever-stopp-i-forsvarets-starlink-utbygging-etter-ukraina-hendelse/1710016"
+      ],
+      "char_count": 154,
+      "has_link": true
+    }
+  ]
 }
