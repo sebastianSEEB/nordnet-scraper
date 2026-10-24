@@ -1,25 +1,40 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-24T07:46:53.479599+00:00",
+  "scraped_at": "2026-10-24T12:23:16.500063+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "77ab9d594024fe36",
+      "key": "fc551e0e30c9e005",
       "author": "B87",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
       "posted_relative": null,
-      "text": "20. okt. Det er Q3 rapport snart, denne skal en del over 50🍂☀️",
+      "text": "20. okt. Q3 blir så langt i år den desidert sterkeste rapporten, jeg ser også en reprising av selskapet på osebx den siste uken.  Om oppkjøp eller utbytte kommer frem i presentasjonen så vil denne gå høyt etter min oppfatning",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        9
+        5,
+        1
       ],
       "links": [],
-      "char_count": 62,
+      "char_count": 225,
+      "has_link": false
+    },
+    {
+      "key": "d15e43c47fb3925c",
+      "author": "earnorlearn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/earnorlearn",
+      "posted_relative": null,
+      "text": "20. okt. Garn west south er endelig i gang. Innledende produksjon er på 19000 fat dagen. Dette dobler produksjonen på Draugen. Okea sin andel er 44,55%.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 152,
       "has_link": false
     }
   ]

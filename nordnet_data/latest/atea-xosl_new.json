@@ -1,9 +1,41 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-10-24T07:47:17.650430+00:00",
+  "scraped_at": "2026-10-24T12:23:39.464094+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a07e8e1a9ca63d3f",
+      "author": "Vargas12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vargas12",
+      "posted_relative": null,
+      "text": "20. okt. Verdt å lytte til CEO, S. Sønsteby i Atea, på Podcasten StockUP.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        1
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "d3e0690dd063e52e",
+      "author": "FrankAFC",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/frankafc",
+      "posted_relative": null,
+      "text": "20. okt. Takk for tips. Veldig fint intervju 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

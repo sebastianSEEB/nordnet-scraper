@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-24T07:49:27.206874+00:00",
+  "scraped_at": "2026-10-24T12:25:41.965969+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "708bdd36e555c633",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": null,
+      "text": "20. okt. ABG med 6.30. Så hvorfor selger nettkunder på 4.20?.  Etter Q ser vi nok kursmål på kr 7 og oppover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    }
+  ]
 }

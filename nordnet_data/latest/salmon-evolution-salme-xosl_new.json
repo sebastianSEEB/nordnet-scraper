@@ -1,9 +1,26 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-24T07:50:23.160305+00:00",
+  "scraped_at": "2026-10-24T12:26:35.025844+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "80958be1e627e9ea",
+      "author": "Soberboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soberboy",
+      "posted_relative": null,
+      "text": "20. okt. Heja Norge 🇳🇴",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

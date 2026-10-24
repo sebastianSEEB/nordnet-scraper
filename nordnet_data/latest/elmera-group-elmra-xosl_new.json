@@ -1,9 +1,23 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-10-24T07:49:02.724217+00:00",
+  "scraped_at": "2026-10-24T12:25:19.547270+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "521c5f9c3d28ed1a",
+      "author": "CarlsenCapital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carlsencapital",
+      "posted_relative": null,
+      "text": "20. okt. Vil alle aksjonærer bli kjøpt ut? Eller bare de som takket ja?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

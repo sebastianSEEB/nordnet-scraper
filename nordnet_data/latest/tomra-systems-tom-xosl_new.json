@@ -1,9 +1,70 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-24T07:44:32.650558+00:00",
+  "scraped_at": "2026-10-24T12:21:00.329843+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "5007d575d4abde00",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/industri/2026/10/23/8390011/ellevilt-kursutslag-etter-tomra-tall-fortjent",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/10/23/8390011/ellevilt-kursutslag-etter-tomra-tall-fortjent"
+      ],
+      "char_count": 101,
+      "has_link": true
+    },
+    {
+      "key": "d356e446901e68bd",
+      "author": "Villbekk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/villbekk",
+      "posted_relative": "for 3 t siden",
+      "text": "Ca en prosent av Tomra aksjer ble omsatt i går og da må vi huske på at de som kjøpte tidlig og solgte ut før stengetid teller som to handler, så vi kan trygt konkludere med at de aller fleste sitter rolig og venter på høyere priser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 232,
+      "has_link": false
+    },
+    {
+      "key": "57b9656a081fdfa4",
+      "author": "Tordendahl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tordendahl",
+      "posted_relative": "for 1 t siden",
+      "text": "Om noen fulgte aksjen tett igår så man en enorm trolling i sluttauksjonen, så påfallende og manipultivt at det virket som en slags statement. Se her liksom.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "1f02d83edc2230d8",
+      "author": "Danron",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/danron",
+      "posted_relative": "for 58 min siden",
+      "text": "Den tror jeg du må forklare",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }
