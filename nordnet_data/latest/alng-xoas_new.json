@@ -1,9 +1,25 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-25T05:29:02.496669+00:00",
+  "scraped_at": "2026-10-25T10:21:07.556198+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "798b0fa7b823c959",
+      "author": "Nextbay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "posted_relative": "for 1 t siden",
+      "text": "· Update: https://x.com/henriksen_46966/status/2071331264402260210?s=61",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/henriksen_46966/status/2071331264402260210?s=61"
+      ],
+      "char_count": 71,
+      "has_link": true
+    }
+  ]
 }

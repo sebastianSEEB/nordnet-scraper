@@ -1,9 +1,43 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-25T05:36:18.852566+00:00",
+  "scraped_at": "2026-10-25T10:28:21.110173+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6c3deb83dce00e99",
+      "author": "Snake24",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snake24",
+      "posted_relative": "for 21 t siden",
+      "text": "· https://jnm.snmjournals.org/content/early/2026/10/23/jnumed.126.274089 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        2
+      ],
+      "links": [
+        "https://jnm.snmjournals.org/content/early/2026/10/23/jnumed.126.274089"
+      ],
+      "char_count": 92,
+      "has_link": true
+    },
+    {
+      "key": "ccbfb9c7de993523",
+      "author": "Lonw",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lonw",
+      "posted_relative": "for 41 min siden",
+      "text": "· \"The Journal of Nuclear Medicine\" er ikke et vanlig tidsskrift; det er en av de mest betydningsfulle vitenskapelige publikasjonene innen feltene nukleærmedisin og radioligandterapier. Det er et tidsskrift som aktivt følges av leger, forskere og utviklere på feltet. Det faktum at TheraPb Fase 1b-studien ble publisert der, betyr at dataene har gjennomgått vitenskapelig fagfellevurdering – det er ikke lenger bare en konferanseposter eller en bedriftspresentasjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 466,
+      "has_link": false
+    }
+  ]
 }

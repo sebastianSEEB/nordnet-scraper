@@ -1,9 +1,23 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-25T05:34:27.820045+00:00",
+  "scraped_at": "2026-10-25T10:26:31.330176+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f67c075daf2cd256",
+      "author": "Odyssey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/odyssey",
+      "posted_relative": null,
+      "text": "21. okt. hvor ser du at det var over 100kr aksjen? aksjen var nede i 94,40 den dagen han kjøpte (16.10).",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    }
+  ]
 }

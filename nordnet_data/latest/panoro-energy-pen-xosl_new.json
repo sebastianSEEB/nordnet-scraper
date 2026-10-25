@@ -1,22 +1,52 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-25T05:30:34.787715+00:00",
+  "scraped_at": "2026-10-25T10:22:40.131344+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "fe12b570c98094a8",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 24 min siden",
-      "text": "· Norsk Bulls: Markedsutsikter Panaro Tyrene har tatt full kontroll over markedet. Den negative stemningen som førte til det siste bear-mønsteret har forsvunnet. Den nåværende prisen er betydelig unna bekreftelsesnivået, noe som reduserer sjansene for en bear-bekreftelse betraktelig. Dessuten foreslår signalet å GÅ LONG. Det er fornuftig å følge signalet og fortsette å holde dette verdipapiret. Den forsinkede intradagsmodulen er AV.",
+      "key": "e08219fc5e540f5a",
+      "author": "Maose",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maose",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.finansavisen.no/borsmeldinger/2026/10/25/6e453b8a-00ab-567e-b5f0-97455e31e8c9/panoro-energy-drilling-rig-incident-on-dussafu",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/borsmeldinger/2026/10/25/6e453b8a-00ab-567e-b5f0-97455e31e8c9/panoro-energy-drilling-rig-incident-on-dussafu"
+      ],
+      "char_count": 138,
+      "has_link": true
+    },
+    {
+      "key": "13c60ce41ad65709",
+      "author": "OEVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oevis",
+      "posted_relative": "for 34 min siden",
+      "text": "Tragisk hendelse, først og fremst for menneskene som er savnet. Gjorde en foreløpig beregning i min BWE/PEN-gem her nå. Dersom beregningene stemmer, utgjør det 0,7 kroner per aksje for BWE, og 0,31 kroner per Panoro-aksje. Altså rundt 1% for begge, basert på sluttkurs fredag. Tok utgangspunkt i følgende kostnadselementer (talloppsett i vedlagte bilde, med forbehold om feil): - Utsatt produksjon under MaBoMo-stansen (forutsatt 21 dagers stans). - Inspeksjons-, mobiliserings- og juridiske kostnader (ROV, geoteknikk). - Tidsforskyvning av produksjonsveksten fra de 4 planlagte brønnene (6 måneders forsinkelse diskontert med 10 % WACC).",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 436,
+      "char_count": 639,
+      "has_link": false
+    },
+    {
+      "key": "83fcf5042ff51ace",
+      "author": "stavarilla",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stavarilla",
+      "posted_relative": "for 3 t siden",
+      "text": "Det var den borekampanjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 25,
       "has_link": false
     }
   ]

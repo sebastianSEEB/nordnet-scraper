@@ -1,9 +1,26 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-25T05:31:43.245875+00:00",
+  "scraped_at": "2026-10-25T10:23:47.522914+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0a836a1ccc30385d",
+      "author": "neivel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neivel",
+      "posted_relative": null,
+      "text": "21. okt. Er det forsent å kjøpe nå . når er x dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        9
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

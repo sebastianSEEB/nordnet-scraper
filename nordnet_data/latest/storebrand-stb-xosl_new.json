@@ -1,9 +1,73 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-25T05:34:32.336073+00:00",
+  "scraped_at": "2026-10-25T10:26:35.212522+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "7a02d766c01abf7a",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": null,
+      "text": "21. okt. https://www.finansavisen.no/tdn/2026/10/21/06606291/storebrand-venter-positiv-solvenseffekt-pa-over-10-png-fra-1.kv-2027-grefstad",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/10/21/06606291/storebrand-venter-positiv-solvenseffekt-pa-over-10-png-fra-1.kv-2027-grefstad"
+      ],
+      "char_count": 138,
+      "has_link": true
+    },
+    {
+      "key": "beb6e6bd3976ff9a",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": null,
+      "text": "21. okt. Dette er en aksje man bare går inn i og blir værende. En av tre aksjer jeg har sittet med i flere år og ikke kvitter meg med.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "588d85f08214f376",
+      "author": "Admiralen C",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/admiralen-c",
+      "posted_relative": null,
+      "text": "21. okt. Ut av Storebrand som levere ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "71891134de149d6f",
+      "author": "orjanrok",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/orjanrok",
+      "posted_relative": null,
+      "text": "21. okt. Hva tenker vi videre på denne?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        9
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

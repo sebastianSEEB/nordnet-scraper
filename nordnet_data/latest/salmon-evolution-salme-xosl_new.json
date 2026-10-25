@@ -1,9 +1,56 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-25T05:36:26.981968+00:00",
+  "scraped_at": "2026-10-25T10:28:29.158858+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f56bd591224e9094",
+      "author": "caddy2010",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/caddy2010",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· https://www.facebook.com/share/19CBjsV5H5/ Vekk med hav-oppdrettsnæringen, dette kan ikkje kalles mat ein gang. Makan te nasty🤮 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.facebook.com/share/19CBjsV5H5/"
+      ],
+      "char_count": 149,
+      "has_link": true
+    },
+    {
+      "key": "b43b4a110013ff7e",
+      "author": "Ljå",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lja-2",
+      "posted_relative": null,
+      "text": "21. okt. Vi er enda i en oppstartfasen og må regne med at aksjen svinger en del.Det som blir viktig er om annlegg fungerer slik som forventet. Tror at det vil bli flere anlegg som legges på land i fremtiden. 5/11 blir en interessann merkedag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        6
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    },
+    {
+      "key": "c9ae1e89060eacbb",
+      "author": "jpm.norge",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jpmnorge",
+      "posted_relative": "for 3 t siden",
+      "text": "Oppdrett er fremtiden om vi vil eller ikke, kan kanskje sammenlignes med da vi gikk fra et samle samfunn til jordbruk. Mennesker må bare få løst problemet det har skapt…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    }
+  ]
 }

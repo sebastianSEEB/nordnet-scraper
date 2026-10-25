@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-25T05:32:43.042071+00:00",
+  "scraped_at": "2026-10-25T10:24:47.267284+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c56c6ec0c7e7cada",
+      "author": "kankaew",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kankaew",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Hva var det egentlig som hendte på slutten av dagen i går? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "b491df2b73834988",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Kortsiktig trader støy",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,28 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-25T05:31:47.091728+00:00",
+  "scraped_at": "2026-10-25T10:23:51.515448+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e527af28d3612c74",
+      "author": "wrapitaround",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wrapitaround",
+      "posted_relative": null,
+      "text": "21. okt. Oda Djupvik om Europris i Fondsfinans Fokus: https://tv.finansavisen.no/nb/watch/8901",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [
+        "https://tv.finansavisen.no/nb/watch/8901"
+      ],
+      "char_count": 94,
+      "has_link": true
+    }
+  ]
 }
