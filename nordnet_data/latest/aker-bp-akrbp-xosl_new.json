@@ -1,9 +1,28 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-25T18:02:36.833967+00:00",
+  "scraped_at": "2026-10-25T20:23:48.107783+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0f15a26fbba41055",
+      "author": "sjokoladen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjokoladen",
+      "posted_relative": null,
+      "text": "21. okt. Ber amerikanerne forlate saudi arabia.  Det ser ikke ut til at USA tror det blir en fredsavtale med en gang…. Spennende å se hva som skjer videre .https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [
+        "https://www.nrk.no/nyheter/ber-amerikanere-forlate-saudi-arabia-1.18061250"
+      ],
+      "char_count": 250,
+      "has_link": true
+    }
+  ]
 }

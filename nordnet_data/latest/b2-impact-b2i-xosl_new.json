@@ -1,24 +1,35 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-25T17:59:56.384586+00:00",
+  "scraped_at": "2026-10-25T20:21:08.008029+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "2ca9bdadaefd8e89",
+      "key": "837820cf6864e0d7",
       "author": "spurtus",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurtus",
-      "posted_relative": null,
-      "text": "21. okt. Har lagt den bort og ser på den igjen ved Q3",
+      "posted_relative": "for 23 min siden",
+      "text": "Tror den stiger litt nå frem mot Q3, og at den blir bra og at den får et skikkelig løft etter det",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 53,
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "c2150e7d52c4e0a2",
+      "author": "Toni O",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toni-o",
+      "posted_relative": null,
+      "text": "21. okt. Litt usikker hva som skjer med denne, men tipper at det blir bedre etter jul 🙏🙏🙏",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 89,
       "has_link": false
     }
   ]

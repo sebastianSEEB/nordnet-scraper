@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-25T17:57:44.621980+00:00",
+  "scraped_at": "2026-10-25T20:18:55.785454+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7f6d6ee2c084a38f",
+      "author": "Nextbay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "For de som ikke har X, så står det at Wilpride nå har passert Sri Lanka på vei østover lastet med LNG  i ca 20 knop. Dette etter å ha vært uten påkoblet AIS i drøye ti dager…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    }
+  ]
 }
