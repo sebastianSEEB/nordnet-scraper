@@ -1,9 +1,25 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-25T14:41:41.295700+00:00",
+  "scraped_at": "2026-10-25T17:59:20.929533+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4d6b439dbff1e1e2",
+      "author": "Neptune1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neptune1",
+      "posted_relative": "for 2 t siden",
+      "text": "· Spekuleres i USD 160M ser jeg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }
