@@ -1,9 +1,38 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-25T20:20:28.960801+00:00",
+  "scraped_at": "2026-10-25T22:56:23.372501+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fa65bcc2e0590295",
+      "author": "Kaloev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaloev",
+      "posted_relative": "for 1 t siden",
+      "text": "\"Intensjons avtale\" er litt sterkere enn \"i en anbudsrunde\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "1ca7a391b24fc756",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Anbudet i UK er ikke avgjort enda Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

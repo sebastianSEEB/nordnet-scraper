@@ -1,23 +1,25 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-25T20:23:28.660428+00:00",
+  "scraped_at": "2026-10-25T22:59:22.463374+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 9,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "127fe122fdf1512e",
-      "author": "Binga",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
-      "posted_relative": "for 1 t siden",
-      "text": "Tenker det er bra for selskapet og etter hvert kanskje også for aksjekursen at det holdes igjen noe av kapitalen til å gjøre eventuelt nye gode lukrative investeringer eller avtaler, men det viktigste nå er rettsaken mellom Mercuria mot Baltic Exchange som starter i morra. Men er det slik å forstå at denne saken ikke er det samme som voldgiftsaken mellom Hunter og Mercuria? Og hvis så, når kan vi i såfall vente en avgjørelse i den?",
-      "reply_count": 1,
+      "key": "ca0a96febc3e71e4",
+      "author": "Blue2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blue2",
+      "posted_relative": "for 29 min siden",
+      "text": "https://www.dn.no/magasinet/reportasje/-det-handler-om-penger/2-1-2061548",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 435,
-      "has_link": false
+      "links": [
+        "https://www.dn.no/magasinet/reportasje/-det-handler-om-penger/2-1-2061548"
+      ],
+      "char_count": 73,
+      "has_link": true
     }
   ]
 }
