@@ -1,9 +1,53 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-25T10:22:36.196294+00:00",
+  "scraped_at": "2026-10-25T14:41:29.205755+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "dbf37342f096b6cb",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 3 t siden",
+      "text": "Helt naturlig at et selskap som har denne veksten må investere i varelager. Likviditeten vil bli utfordret. Når de håndterer det uten å ta opp gjeld og i tillegg øke EBIT, så mener jeg veksten og driften er sunn. Det må prises inn mer vekst i kursen etter min mening",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 266,
+      "has_link": false
+    },
+    {
+      "key": "20fc7ffd395e06b7",
+      "author": "Locamexicana",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/locamexicana",
+      "posted_relative": "for 42 min siden",
+      "text": "Du må lese Q3 rapport for å forstå hvorfor har mindre cash i dette kvartalet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "a2661524a6827577",
+      "author": "kal--el",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
+      "posted_relative": "for 21 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

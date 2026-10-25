@@ -1,23 +1,27 @@
 {
   "slug": "cloudberry-clean-energy-cloud-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cloudberry-clean-energy-cloud-xosl",
-  "scraped_at": "2026-10-25T10:27:25.782513+00:00",
+  "scraped_at": "2026-10-25T14:46:17.883380+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "989d42b635695d29",
-      "author": "Jadevadeja",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "key": "9111755c94fdfcbd",
+      "author": "Driftsentralen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/driftsentralen",
       "posted_relative": null,
-      "text": "21. okt. dette betyr ingenting for Cloudberry, absolutt ingenting. De får markedspris uavhengig av Norgespris",
+      "text": "21. okt. Cloudberry posisjonerer seg for vekst i nordisk fornybar energi. https://oslo-trader.com",
       "reply_count": 2,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 109,
-      "has_link": false
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://oslo-trader.com"
+      ],
+      "char_count": 97,
+      "has_link": true
     }
   ]
 }

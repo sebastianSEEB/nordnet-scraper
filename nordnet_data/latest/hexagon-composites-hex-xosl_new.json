@@ -1,22 +1,42 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-10-25T10:24:59.187837+00:00",
+  "scraped_at": "2026-10-25T14:43:51.212625+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "7e0258f86368cd3d",
-      "author": "Himalaya734",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "key": "c077094a81d2a013",
+      "author": "th59",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/th59",
       "posted_relative": null,
-      "text": "21. okt. Er sant dette",
-      "reply_count": 2,
+      "text": "21. okt. https://www.finansavisen.no/teknologi/2026/10/21/8389421/trump-med-sterk-konklusjon-dette-krever-han-av-datasentrene Dette må vel være bra?",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/10/21/8389421/trump-med-sterk-konklusjon-dette-krever-han-av-datasentrene"
+      ],
+      "char_count": 148,
+      "has_link": true
+    },
+    {
+      "key": "d22afd91edae65fd",
+      "author": "toppjeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toppjeger",
+      "posted_relative": null,
+      "text": "21. okt. Vi hadde ikke fått billigere strøm, for den hadde blitt solgt til EU... sluppet unna litt utbygging bare...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 22,
+      "char_count": 116,
       "has_link": false
     }
   ]

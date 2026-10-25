@@ -1,9 +1,55 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-25T10:24:39.047800+00:00",
+  "scraped_at": "2026-10-25T14:43:31.378468+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "475fdd56fd599aad",
+      "author": "TheNordicValueInvestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thenordicvalueinvestor",
+      "posted_relative": null,
+      "text": "21. okt. · Endret Oljefondet satser 16 milliarder på lagerbygg - interessant for AutoStore? E24 melder i dag at Oljefondet har inngått et samarbeid med Ares Real Estate og forpliktet seg til å investere rundt 16 milliarder kroner i lagerbygg og logistikkeiendommer i Europa, særlig rundt store forbrukersentre. Dette synes jeg er relevant for Autostore, ettersom det investeres betydelige beløp i nettopp den typen logistikkeiendommer hvor automatiserte lagerløsninger kan være aktuelle. AutoStores styrker er effektiv arealutnyttelse og automatisering av lagerdriften. Dette er faktorer som kan bli stadig viktigere for moderne distribusjonssentre som skal håndtere store varevolumer og økende krav til effektivitet. Positivt å se at store institusjonelle investorer satser tungt på denne sektoren og en god indikator på økende investeringsvilje i europeisk logistikk, der etterspørselen etter lagerautomatisering kan følge etter. Et langsiktig positivt signal for Autostore. Kilde: https://e24.no/boers-og-finans/i/eG48V9/oljefondet-satser-16-mrd-paa-eiendom",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        21
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/eG48V9/oljefondet-satser-16-mrd-paa-eiendom"
+      ],
+      "char_count": 1060,
+      "has_link": true
+    },
+    {
+      "key": "6a926b710daccfe5",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Uff, undrer hva som skjer på blå Mandag. Hva tror du Skrue? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "6fc7889e015fb157",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Det spørs om den holder på 14,30 det nærmer seg 3 November mellomvalg i usa..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,42 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-25T10:24:27.317578+00:00",
+  "scraped_at": "2026-10-25T14:43:19.601482+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "636a1c6680ca18a6",
+      "author": "Aksjehandler_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjehandler-2",
+      "posted_relative": null,
+      "text": "21. okt. https://techcommunity.microsoft.com/blog/microsoftteamsblog/cross-platform-meeting-connect-great-in-room-meeting-experiences-across-teams-an/4564608?utm_source=chatgpt.com Ikke bra for Pexip",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://techcommunity.microsoft.com/blog/microsoftteamsblog/cross-platform-meeting-connect-great-in-room-meeting-experiences-across-teams-an/4564608?utm_source=chatgpt.com"
+      ],
+      "char_count": 199,
+      "has_link": true
+    },
+    {
+      "key": "60da26e16192b2a5",
+      "author": "gstandre1997",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gstandre1997",
+      "posted_relative": null,
+      "text": "21. okt. Blir nok litt mindre vekst i den andelen der av Pexip ja. Connected spaces har jo nesten ikke vokst siden 2020. Heldigvis er det ikke den delen jeg personlig eier Pexip for. S&C kommer til å være den største delen av selskapet snart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    }
+  ]
 }

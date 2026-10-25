@@ -1,9 +1,56 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-25T10:25:03.028482+00:00",
+  "scraped_at": "2026-10-25T14:43:55.024336+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "d8ce06e3c578a2ce",
+      "author": "Flyndre212",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flyndre212",
+      "posted_relative": "for 3 t siden",
+      "text": "https://www.investornytt.no/bors/vanvittig-moment-og-nesten-fomo-i-denne-aksjen/548788",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.investornytt.no/bors/vanvittig-moment-og-nesten-fomo-i-denne-aksjen/548788"
+      ],
+      "char_count": 86,
+      "has_link": true
+    },
+    {
+      "key": "5d4139147f691a33",
+      "author": "Gelinar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gelinar",
+      "posted_relative": null,
+      "text": "21. okt. Det er lav omsetning, og noen vil ta gevinst. Når noen store forstår at den er billig nok så går den opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "524dbafc6f6f2d58",
+      "author": "Vihaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
+      "posted_relative": null,
+      "text": "21. okt. · Hvorfor faller den når oljeprisene er rundt 107-108kr ..??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

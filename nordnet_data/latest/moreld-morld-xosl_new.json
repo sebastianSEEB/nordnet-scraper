@@ -1,9 +1,41 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-25T10:24:19.483375+00:00",
+  "scraped_at": "2026-10-25T14:43:11.873474+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2dc3889db4e2da9d",
+      "author": "11111111",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/11111111",
+      "posted_relative": null,
+      "text": "21. okt. · Den er ikke langt unna 30NOKK de må bare komme med litt flere nyheter så vil den nok være der. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "60671a51846259c2",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": null,
+      "text": "21. okt. · Endret Ser  at ocean har nå leid Normand Mermaid fra Solstad maritim 😎fem til 31/10 på hjemmesiden til Soma",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    }
+  ]
 }
