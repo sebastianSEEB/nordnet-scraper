@@ -1,9 +1,53 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-26T13:37:41.349703+00:00",
+  "scraped_at": "2026-10-26T17:57:23.953671+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a39435fb0bf66d5b",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Ikke ennå. Sto vel noe om tidsaspektet rundt re finansieringen men har satt ikke i hodet. Vil tro temaet kommer opp på kvartals rapporten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "b16a073855196c04",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": null,
+      "text": "22. okt. Litt kjøps interesse ihvertfall. Men å selge nå da... Ikke smart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "4dbe863470264ff2",
+      "author": "pennyinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennyinvest",
+      "posted_relative": "for 2 t siden",
+      "text": "Er det noen sjanse for utbytte her? Isåfall når?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

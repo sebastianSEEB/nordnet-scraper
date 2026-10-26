@@ -1,9 +1,26 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-26T13:32:32.298884+00:00",
+  "scraped_at": "2026-10-26T17:52:10.619412+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "aa3b9a99e899b268",
+      "author": "terragady",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terragady",
+      "posted_relative": null,
+      "text": "22. okt. · Er det bedre nå å kjøpe mer bluenord eller bare kjøpe Vår direkte? Eller vil begge falle etter fusjonen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    }
+  ]
 }

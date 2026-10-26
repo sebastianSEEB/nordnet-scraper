@@ -1,9 +1,23 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-26T13:33:56.706677+00:00",
+  "scraped_at": "2026-10-26T17:53:36.344662+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fe80c79bfeb441c0",
+      "author": "Turenn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turenn",
+      "posted_relative": "for 9 t siden",
+      "text": "Kan du poste artikkelen i sin helhet? deaktivert Eier antall på nordnet ser stabilt ut, lurer på hvem som selger 🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    }
+  ]
 }

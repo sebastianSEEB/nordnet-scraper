@@ -1,9 +1,41 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-26T13:32:51.505613+00:00",
+  "scraped_at": "2026-10-26T17:52:30.106067+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c8bf04d16ffe3adf",
+      "author": "SilverDragon81",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/silverdragon81",
+      "posted_relative": "for 2 t siden",
+      "text": "Bare å glede seg. Toget har såvidt forlatt perongen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "fb0a1937432e0a55",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 7 t siden",
+      "text": "Q3 neste uke! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        16,
+        2
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

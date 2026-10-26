@@ -1,22 +1,125 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-10-26T13:32:59.159014+00:00",
+  "scraped_at": "2026-10-26T17:52:37.987753+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 8,
   "posts": [
     {
-      "key": "390ef6e81f0bdf71",
+      "key": "912e0cc81cb1f0a8",
+      "author": "JohnCold",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johncold",
+      "posted_relative": "for 3 t siden",
+      "text": "https://e24.no/boers-og-finans/i/77abzo/oppgang-paa-oslo-boers",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/77abzo/oppgang-paa-oslo-boers"
+      ],
+      "char_count": 62,
+      "has_link": true
+    },
+    {
+      "key": "d0a0fbe10119e2c8",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 10 min siden",
-      "text": "vad gjør ni som eier PEN Bli medlem av Nordnet Social for å gi din stemme Logg inn hold selg kjøp 5 stemmer • 2 dager 23 timer igjen",
+      "posted_relative": "for 4 t siden",
+      "text": "vad gjør ni som eier PEN Bli medlem av Nordnet Social for å gi din stemme Logg inn hold selg kjøp 34 stemmer • 2 dager 19 timer igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "1db737df928f3970",
+      "author": "JohnCold",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johncold",
+      "posted_relative": "for 3 t siden",
+      "text": "Fra E24-artikkelen: «Produksjonsinfrastrukturen ikke er skadet, og […] produksjonen ventes å gjenopptas i løpet av få dager.»",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        1
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "bf22485e6684443c",
+      "author": "Ole Brum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ole-brum",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva med forsikringsdekning for uhell som dette. I beste fall kan de kanskje få full dekning? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    },
+    {
+      "key": "84d78192885412e1",
+      "author": "The Pmk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pmk",
+      "posted_relative": "for 3 t siden",
+      "text": "Pen går bare nedover, Bwe begynner å stige oppover igjen. He he, galskap.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 132,
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "3d92162ff88f68bf",
+      "author": "Oxion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
+      "posted_relative": "for 15 min siden · Endret",
+      "text": "Panoro faller Mere enn BW 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣 Rekyl i morgen ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "c79c973d9d6a2c46",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 1 t siden",
+      "text": "4000 eier på Nordnet men kun 31 stemmer 🤷",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "2787147331af2357",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 14 min siden",
+      "text": "Rekyl ned mot 27 er mulig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
       "has_link": false
     }
   ]

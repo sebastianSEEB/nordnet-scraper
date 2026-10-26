@@ -1,37 +1,55 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-26T13:32:55.413755+00:00",
+  "scraped_at": "2026-10-26T17:52:33.988858+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "34d342b9bb6c0955",
-      "author": "WillHN",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "key": "c5e4728d13ffeb5d",
+      "author": "Ticodemus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ticodemus",
       "posted_relative": "for 1 t siden",
-      "text": "Hva sier analytikerne om kursen før årsskifte?",
+      "text": "Er nok enig med  X_22 her, ikke lenge før vi er oppe og tester 90 kr, men kan gå litt lengre før vi er stabile oppe på 90 tallet. Men i løpet av november så er vi nok der. 🤗",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        1
       ],
       "links": [],
-      "char_count": 46,
+      "char_count": 173,
       "has_link": false
     },
     {
-      "key": "49f38d8a17927d5f",
-      "author": "Hoasis",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hoasis",
-      "posted_relative": "for 1 t siden",
-      "text": "De sier den skal ligge på 86.74 kr",
-      "reply_count": 3,
+      "key": "7253c7821a0a6ca7",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 3 t siden",
+      "text": "Ender den et sted på 85-tallet i dag viser det styrke og at vi nok kommer til å få se 90-tallet i løpet av året.",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        6,
+        4
+      ],
       "links": [],
-      "char_count": 34,
+      "char_count": 112,
+      "has_link": false
+    },
+    {
+      "key": "57ebbcccde0ce17f",
+      "author": "Kontormannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kontormannen",
+      "posted_relative": "for 1 t siden",
+      "text": "Kan noen kjapt forklare faller fra 110 - 85 på kort tid?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 56,
       "has_link": false
     }
   ]

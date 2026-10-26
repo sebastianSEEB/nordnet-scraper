@@ -1,23 +1,25 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-26T13:33:26.071157+00:00",
+  "scraped_at": "2026-10-26T17:53:05.153867+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "58db8787df7dac44",
-      "author": "Sky is the limit",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
-      "posted_relative": "for 44 min siden",
-      "text": "Er det forventning om gode Q3-tall/guiding på torsd, som driver kursen idag eller hur ?",
+      "key": "ea7d5b1af7fc5b68",
+      "author": "mr.parker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrparker-1",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Jeg syntes denne artikkelen var ganske interessant",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 87,
-      "has_link": false
+      "links": [
+        "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear"
+      ],
+      "char_count": 133,
+      "has_link": true
     }
   ]
 }

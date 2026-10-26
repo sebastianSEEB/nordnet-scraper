@@ -1,9 +1,40 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-26T13:33:18.414123+00:00",
+  "scraped_at": "2026-10-26T17:52:57.512632+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d650f735dcdf3d03",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": "for 2 t siden",
+      "text": "Godt driv på pent volum. Muligens CITADEL ADVISORS LLC som jobber med å lukke sin shortposisjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "208315da21951e57",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
+      "posted_relative": "for 3 t siden",
+      "text": "NORBT og GENO skal langt opp.  Robot or forsvar blir trenden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

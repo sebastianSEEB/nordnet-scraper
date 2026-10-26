@@ -1,9 +1,23 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-26T13:32:28.350701+00:00",
+  "scraped_at": "2026-10-26T17:52:06.660306+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e17e21dc4fd37a3c",
+      "author": "Midtbredden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/midtbredden",
+      "posted_relative": "for 1 t siden",
+      "text": "Nyttig informasjon...på shareville? Må nesten være første gang. Takk.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

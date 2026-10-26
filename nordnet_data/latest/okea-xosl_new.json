@@ -1,9 +1,36 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-26T13:35:16.292359+00:00",
+  "scraped_at": "2026-10-26T17:54:56.962781+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "df6563876344b4db",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 2 t siden",
+      "text": "· Er det riggforlis i denne også 😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "c1fe6482c24dc1ec",
+      "author": "Presley",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/presley",
+      "posted_relative": "for 3 t siden",
+      "text": "· Supplert i denne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

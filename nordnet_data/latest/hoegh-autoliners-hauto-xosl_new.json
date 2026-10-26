@@ -1,9 +1,54 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-10-26T13:31:53.828092+00:00",
+  "scraped_at": "2026-10-26T17:51:31.399111+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ef2563080ddc7f79",
+      "author": "EivindAmb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eivindamb",
+      "posted_relative": null,
+      "text": "22. okt. Ryktes nye investorer, flere investorer med ett til sammen høyere kapital Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    },
+    {
+      "key": "e1ad79e4442907b6",
+      "author": "opptimisten4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/opptimisten4",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva tipper dere at neste utbytte kommer til å ligge på ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "3f775417e5ab42bd",
+      "author": "Donrup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donrup",
+      "posted_relative": "for 3 t siden",
+      "text": "· For en dag - er det noen nye opplysninger?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }
