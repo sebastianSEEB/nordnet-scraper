@@ -1,74 +1,39 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-26T11:54:54.256220+00:00",
+  "scraped_at": "2026-10-26T13:36:21.188023+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9f9de793fe12d869",
-      "author": "Android",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
-      "posted_relative": null,
-      "text": "22. okt. · Endret Blir jo bare spekulasjoner fra min side, men hadde vært artig å visst hva slags rolle Telenor kan få oppi dette: https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid Vis 1 kommentar til",
+      "key": "80156a61cb573577",
+      "author": "AksjeUgla",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjeugla",
+      "posted_relative": "for 20 min siden",
+      "text": "Noen som har fått utbyttet fra Telenor? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8,
-        3
-      ],
-      "links": [
-        "https://www.vg.no/nyheter/i/MAkQV5/stoler-ikke-paa-elon-musk-zelenskyj-ba-norge-om-satellittsamarbeid"
-      ],
-      "char_count": 252,
-      "has_link": true
-    },
-    {
-      "key": "d0657f59393e502a",
-      "author": "Kjernekar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
-      "posted_relative": null,
-      "text": "22. okt. Jep, de har penger som gress. De har kjøpt mye egne aksjer og skal fortsatt kjøpe fler. Jeg er ikke bekymret.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
+        5
       ],
       "links": [],
-      "char_count": 118,
+      "char_count": 59,
       "has_link": false
     },
     {
-      "key": "5b42d5cb9a76e9af",
-      "author": "hphill",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hphill",
-      "posted_relative": null,
-      "text": "22. okt. Telenor er solid. Har ingen problem med å gå inn her nå når den er rimelig",
-      "reply_count": null,
+      "key": "f288c87f64ff71c9",
+      "author": "KMJM",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmjm",
+      "posted_relative": "for 17 min siden",
+      "text": "Mange ganger.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
-        15,
         1
       ],
       "links": [],
-      "char_count": 83,
-      "has_link": false
-    },
-    {
-      "key": "7630fcaac7edba61",
-      "author": "PimpFunk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
-      "posted_relative": "for 4 t siden",
-      "text": "Innlegget er slettet. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        3
-      ],
-      "links": [],
-      "char_count": 41,
+      "char_count": 13,
       "has_link": false
     }
   ]

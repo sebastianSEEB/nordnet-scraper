@@ -1,38 +1,24 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-10-26T11:57:10.781552+00:00",
+  "scraped_at": "2026-10-26T13:38:37.605277+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "144376f2d4bd8d9b",
-      "author": "aframvi",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframvi",
+      "key": "e1e0c96dd4af725a",
+      "author": "kimkal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkal",
       "posted_relative": null,
-      "text": "22. okt. Eksportpris uke 42 - 74,05 kr/kg +2,1% sammenlignet med forrige uke. Det ser lyst ut nå framover.",
+      "text": "22. okt. Du må huske på at Vi er fortsatt i oppbyggingsfasen. Så det blir en liten stund før vi får gode resultater",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        11,
-        1
+        2
       ],
       "links": [],
-      "char_count": 106,
-      "has_link": false
-    },
-    {
-      "key": "c71f62856c42c762",
-      "author": "sokapi",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sokapi",
-      "posted_relative": null,
-      "text": "22. okt. Det svinger ikke men har gått bare nedover …",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 53,
+      "char_count": 115,
       "has_link": false
     }
   ]
