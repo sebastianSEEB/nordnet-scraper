@@ -1,9 +1,68 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-26T05:37:43.970314+00:00",
+  "scraped_at": "2026-10-26T11:53:23.647561+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "6943dbc90d06dad4",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": null,
+      "text": "22. okt. Ja det er helt vilt nå. Kursen er opp 30% siste nitti dager i et makrobilde som knapt kan være mer svart.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "bafb57da1130ddcb",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": null,
+      "text": "22. okt. Ser ut som det kan gå fort ned nå, ingen motstand.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "e688177ecf3d5e9f",
+      "author": "AmatørLars",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrlars",
+      "posted_relative": "for 1 t siden",
+      "text": "Wow, tredoblet produktivitet??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    },
+    {
+      "key": "f723a63b1af28f0d",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 2 t siden",
+      "text": "· 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

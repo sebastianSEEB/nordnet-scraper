@@ -1,9 +1,57 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-26T05:34:24.999589+00:00",
+  "scraped_at": "2026-10-26T11:50:06.444610+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "9e4593a84a41c4bd",
+      "author": "Buggie1971",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buggie1971",
+      "posted_relative": "for 2 t siden",
+      "text": "Har laget en oversikt over flåten til AHTS/2020 bulkers som oppdaterer seg hver morgen for de som måtte være interessert. Her kan man se hvor de ulike skipene opererer, samt om noen skip er på vei mellom oppdrag etc. Det meste er basert på hva man kan lese ut fra Marine Traffic sine sider. Etterhvert som vi får informasjon fra AHTS sine nye websider og kvartalsrapporter kan det hende jeg oppdaterer med mer informasjon. De som ikke er logget på Claude vil se et snapshot av siste oppdatering av siden. https://claude.ai/artifact/2gwBEt2LKpp45ZiGrzrvjM",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://claude.ai/artifact/2gwBEt2LKpp45ZiGrzrvjM"
+      ],
+      "char_count": 554,
+      "has_link": true
+    },
+    {
+      "key": "7a609aab73ea2357",
+      "author": "Jarmenkel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jarmenkel",
+      "posted_relative": "for 2 t siden",
+      "text": "Heia 2020 bulkers!😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    },
+    {
+      "key": "d4bcc9ce008e70e6",
+      "author": "Holder Kanskje",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holder-kanskje",
+      "posted_relative": "for 3 t siden",
+      "text": "· Den nye stjernen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

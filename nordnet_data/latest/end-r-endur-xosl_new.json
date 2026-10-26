@@ -1,22 +1,53 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-10-26T05:37:59.687106+00:00",
+  "scraped_at": "2026-10-26T11:53:39.345131+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "13d74aa9a88434e1",
+      "key": "7f521344b295b0ba",
       "author": "Cod Master",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cod-master",
-      "posted_relative": null,
-      "text": "22. okt. Kistefos tilbake gjennom terminkonto med 150.000 aksjer i DNB Markets Derivatives?",
-      "reply_count": null,
+      "posted_relative": "for 5 t siden",
+      "text": "Loaded konto! Gresk rederkonge som bl. a. eier Okeanis 💵",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 91,
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "d1e015669a6a64e9",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": "for 4 t siden",
+      "text": "Spennende oppkjøp i dag. Omlag 3 kr innvannende : )",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "8e43f4be7f245f88",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 3 t siden",
+      "text": "Deilig!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 7,
       "has_link": false
     }
   ]

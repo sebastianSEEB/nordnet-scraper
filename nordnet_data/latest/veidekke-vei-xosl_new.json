@@ -1,9 +1,25 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-10-26T05:37:16.394829+00:00",
+  "scraped_at": "2026-10-26T11:52:56.093178+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ce6becedd674a119",
+      "author": "Oggiwara1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oggiwara1",
+      "posted_relative": null,
+      "text": "22. okt. Lenger ned? Den går da jevnt og trutt oppover med små naturlige variasjoner. VEI har nesten ikke gjeld, full ordrebok og har aldri hatt negativt resultat.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 163,
+      "has_link": false
+    }
+  ]
 }

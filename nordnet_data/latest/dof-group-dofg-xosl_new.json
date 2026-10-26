@@ -1,9 +1,27 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-26T05:35:55.452523+00:00",
+  "scraped_at": "2026-10-26T11:51:35.098737+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "476a3bac7ca86c02",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 3 t siden",
+      "text": "SB1M med oppdatering Dof, Soff, Soma: https://osvnyheter.no/offshore-nyheter-uke-44-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://osvnyheter.no/offshore-nyheter-uke-44-2026"
+      ],
+      "char_count": 88,
+      "has_link": true
+    }
+  ]
 }

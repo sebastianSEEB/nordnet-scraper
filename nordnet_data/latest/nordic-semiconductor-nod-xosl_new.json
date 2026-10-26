@@ -1,9 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-26T05:35:23.062771+00:00",
+  "scraped_at": "2026-10-26T11:51:04.193135+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "58b955a0b6151ef9",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 3 t siden",
+      "text": "Kun opp 1 % nå siste 12 mnd. Synes vi har vært tålmodige lenge nå jeg. Er for meg også merkelig at et selskap som går så bra og øker inntjening hvert kvartal ikke skal stige tilbake til gamle høyder.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 199,
+      "has_link": false
+    },
+    {
+      "key": "71d514dafd530be1",
+      "author": "blindbor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blindbor",
+      "posted_relative": "for 2 t siden",
+      "text": "DNB Carnegies anbefalte portefølje består av følgende aksjer: Mowi, Dof Group, Aker BP, Equinor, B2 Impact, SalMar, Nordic Semiconductor, Elkem og Kongsberg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 157,
+      "has_link": false
+    }
+  ]
 }

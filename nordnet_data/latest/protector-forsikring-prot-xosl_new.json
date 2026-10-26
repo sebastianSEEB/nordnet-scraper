@@ -1,9 +1,40 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-26T05:35:59.372730+00:00",
+  "scraped_at": "2026-10-26T11:51:38.994513+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d74ce701e92f42fe",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 1 t siden",
+      "text": "Ex utbytte imorgen så vi kan jo håpe på et lite rally mot slutten drevet av kjøpere som vil sikre seg utbyttet. Det som ofte er interessant med utbytteselskaper, er å se hvor fort enkelte henter inn igjen kursfallet som følger på starten av ex-dagen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 250,
+      "has_link": false
+    },
+    {
+      "key": "0ee6d9b930d38fb4",
+      "author": "BudFoxW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/budfoxw",
+      "posted_relative": "for 1 t siden",
+      "text": "Er en utbytte maskin dette",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

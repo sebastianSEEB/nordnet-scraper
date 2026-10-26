@@ -1,9 +1,25 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-10-26T05:34:40.666376+00:00",
+  "scraped_at": "2026-10-26T11:50:21.925688+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "12a26a222b858b92",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 1 t siden",
+      "text": "Kjøpte du for 3 dager siden ser det ut til at din antakelse da var riktig👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

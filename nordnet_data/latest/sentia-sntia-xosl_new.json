@@ -1,9 +1,43 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-10-26T05:39:58.091079+00:00",
+  "scraped_at": "2026-10-26T11:55:37.616085+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "449b04311502afb4",
+      "author": "Shaqz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shaqz",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.hent.no/2026/10/20/hent-signerer-ny-milliardkontrakt-med-fornebubanen/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        4
+      ],
+      "links": [
+        "https://www.hent.no/2026/10/20/hent-signerer-ny-milliardkontrakt-med-fornebubanen/"
+      ],
+      "char_count": 82,
+      "has_link": true
+    },
+    {
+      "key": "23d610f4a2eab663",
+      "author": "Skittentind Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skittentind-invest",
+      "posted_relative": "for 2 t siden",
+      "text": "Opp 3,75% nå, så en viss reaksjon er det👍",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,128 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-26T05:38:51.260946+00:00",
+  "scraped_at": "2026-10-26T11:54:30.595594+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 8,
+  "posts": [
+    {
+      "key": "8c699f1266fca3f5",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 3 t siden",
+      "text": "Fra trondyman https://matrix.to/#/%23enkeltaksjer--hunt:chat.xtrainvestor.com",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://matrix.to/#/%23enkeltaksjer--hunt:chat.xtrainvestor.com"
+      ],
+      "char_count": 77,
+      "has_link": true
+    },
+    {
+      "key": "c8858e57b6bf5b27",
+      "author": "kenny78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kenny78",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen som vet når det ekstraordinære utbyttet som ble vedtatt på eksrtaordinær generalforsamling i august/september kommer?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "0d077a0234969fa8",
+      "author": "11111111",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/11111111",
+      "posted_relative": "for 2 t siden",
+      "text": "· Kan den fortsette å stige? Vet godt det er et vanskelig spørsmål, men nå spør jeg fordi jeg vurderer å kjøpe litt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "3331ff9cacb35ae7",
+      "author": "kenny78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kenny78",
+      "posted_relative": "for 2 t siden",
+      "text": "Det utbyttet var jo vedtatt og opplyst om før ekstraordinær generalforsamling, trodde det skulle komme et til?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "b195f24dc488a59c",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 46 min siden",
+      "text": "da er det å håpe at FFA dupper igjen så det blir billigere aksjer etterhvert",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "72a67cda50fb1238",
+      "author": "Money gang",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/money-gang",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen som vet om det er noe plass man kan følge rettsaken?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "75580482f985f9f8",
+      "author": "akjsekonge1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akjsekonge1",
+      "posted_relative": "for 3 t siden",
+      "text": "De starter rettssaken, håper alt går som planlagt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        20,
+        12
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "69c8794859fdc160",
+      "author": "001390",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/001390",
+      "posted_relative": "for 3 t siden",
+      "text": "Teknisk analyse av et cash case…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

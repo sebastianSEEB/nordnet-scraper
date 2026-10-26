@@ -1,9 +1,25 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-26T05:35:39.610174+00:00",
+  "scraped_at": "2026-10-26T11:51:19.604613+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d7cf120fc614b4d5",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 1 t siden",
+      "text": "Q3 neste uke!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

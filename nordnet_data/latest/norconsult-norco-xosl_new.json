@@ -1,9 +1,40 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-10-26T05:36:38.054670+00:00",
+  "scraped_at": "2026-10-26T11:52:17.353760+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "741739cad6809917",
+      "author": "littlecaeser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littlecaeser",
+      "posted_relative": "for 46 min siden",
+      "text": "Ingen nyheter i hele tatt! Å det bare ryker opp 🤷🏻 noen som vet hvorfor?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "a8d6232f0092e28e",
+      "author": "invest_all",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/invest_all",
+      "posted_relative": "for 44 min siden",
+      "text": "Og på bra volum. Ser Afry leverte gode tall forrige uke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

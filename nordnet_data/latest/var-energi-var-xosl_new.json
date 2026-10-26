@@ -1,9 +1,38 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-26T05:39:26.507815+00:00",
+  "scraped_at": "2026-10-26T11:55:05.897940+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "51d5851a2b9d4c38",
+      "author": "ikka",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ikka",
+      "posted_relative": "for 23 min siden",
+      "text": "· Mecka-alliansen (Saudi, Paki, Tyrkia) besøker Teheran. Har alle trøttnet på Trump? Mulighet for fred? Og da synker oljeprisen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "2ef9f48acdfa916e",
+      "author": "Gjøkur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gjkur",
+      "posted_relative": "for 4 t siden",
+      "text": "· TTF 97,10 EUR, +3,5%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }
