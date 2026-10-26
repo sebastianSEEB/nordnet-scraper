@@ -1,9 +1,40 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-26T00:50:35.338656+00:00",
+  "scraped_at": "2026-10-26T05:33:55.595921+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "13f29a2880a5f36e",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 50 min siden",
+      "text": "https://www.seatrade-maritime.com/tankers/bahri-inks-order-for-vlcc-trio-at-imi?linkId=1027194414 Bahri bestiller flere VLCC. Levering 29-30.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.seatrade-maritime.com/tankers/bahri-inks-order-for-vlcc-trio-at-imi?linkId=1027194414"
+      ],
+      "char_count": 141,
+      "has_link": true
+    },
+    {
+      "key": "a0142b6463d96a75",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 44 min siden",
+      "text": "Skal bygges i Saudi !?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

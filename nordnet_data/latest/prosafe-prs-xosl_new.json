@@ -1,9 +1,23 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-26T00:58:08.144916+00:00",
+  "scraped_at": "2026-10-26T05:41:34.595357+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "faf81771e3f580c9",
+      "author": "JohnCold",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johncold",
+      "posted_relative": "for 21 min siden",
+      "text": "Petrobras-anbudet utsatt til 10.nov",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

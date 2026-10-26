@@ -1,9 +1,39 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-10-26T00:53:03.239912+00:00",
+  "scraped_at": "2026-10-26T05:36:26.306735+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "aa3a5d9004d5738c",
+      "author": "Blakkattack",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blakkattack",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Aksjen har falt ganske markant de siste dagene uten noen store nyheter, så ble annonsert torsdag etter stenging at de mistet Wisting kontrakten? Nokså mistenksom spør du meg. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 194,
+      "has_link": false
+    },
+    {
+      "key": "e7151776341bd6ca",
+      "author": "Darroweve",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/darroweve",
+      "posted_relative": "for 4 t siden",
+      "text": "Har vell ikke noe med at det er mindre prosjekter fra nyåret da + fullføring?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }
