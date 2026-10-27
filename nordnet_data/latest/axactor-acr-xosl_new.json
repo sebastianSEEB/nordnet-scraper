@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-27T19:09:32.460151+00:00",
+  "scraped_at": "2026-10-27T23:25:45.416715+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5a0fd566efde43b7",
+      "author": "Doubt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/doubt",
+      "posted_relative": null,
+      "text": "23. okt. Mellom 13 og 23 oktober har meglerkontoret innlandet som er en del av top 50 aksjonærene netto solgt 916715 aksjer. De andre 49 på lista har økt sin samlet totalbeholdning med 619187 aksje. Forskjellen er ca 306k aksjer som små aksjonærene har snappet opp. Megler kontoret innlandet består vel av mange klienter, men at top 49 velger å øke ser jeg på som et godt tegn.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 377,
+      "has_link": false
+    }
+  ]
 }

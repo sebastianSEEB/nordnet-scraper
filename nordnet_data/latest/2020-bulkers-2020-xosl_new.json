@@ -1,78 +1,61 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-27T19:03:27.222128+00:00",
+  "scraped_at": "2026-10-27T23:19:32.311264+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 5,
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "f2e0a4b4cb222781",
-      "author": "JohanKjellman",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johankjellman",
+      "key": "410fdb80d77eea6f",
+      "author": "DuckIsland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/duckisland",
+      "posted_relative": "for 2 t siden",
+      "text": "Vet ikke om det er meg som ikke skjønner noe, men ja, hva skjer her? 1,2 milliarder aksjer og 12 kr per stykk skulle bli et tosifret antall milliarder i verdi for et selskap bestående av 11 belånte taubåter...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 209,
+      "has_link": false
+    },
+    {
+      "key": "157ab1f12b872802",
+      "author": "TitanenTei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/titanentei",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg begynner å mistenke at disse nivåene skyldes AI drevne analyser basert på utdatert data. Småsparere + Claude. Spent på hva som skjer etter at sammenslåingen er gjennomført",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 175,
+      "has_link": false
+    },
+    {
+      "key": "27c31db77db51779",
+      "author": "Dipmix",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dipmix",
       "posted_relative": "for 1 t siden",
-      "text": "· 117 % utbytte sier man ikke nei til.",
+      "text": "· Ja det var da de solgte hele sin virksomhet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 38,
+      "char_count": 45,
       "has_link": false
     },
     {
-      "key": "a6ae10983558bb7d",
-      "author": "AignerInvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aignerinvest",
+      "key": "a035e5ad46aa5c4d",
+      "author": "MT28",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mt28",
       "posted_relative": "for 2 t siden",
-      "text": "Denne skal ned i morra tidlig",
+      "text": "Redd denne smeller igjenn.. ned",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 29,
-      "has_link": false
-    },
-    {
-      "key": "66e46e654b9baa53",
-      "author": "Wollman",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wollman",
-      "posted_relative": "for 3 t siden",
-      "text": "Når er dato for emisjonen?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 26,
-      "has_link": false
-    },
-    {
-      "key": "92476fb0822edfcb",
-      "author": "SimenHag",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simenhag",
-      "posted_relative": "for 2 t siden",
-      "text": "Hva skjer her??",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 15,
-      "has_link": false
-    },
-    {
-      "key": "f67ddcfc9401cea8",
-      "author": "AignerInvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aignerinvest",
-      "posted_relative": "for 3 t siden",
-      "text": "SELG!!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 6,
+      "char_count": 31,
       "has_link": false
     }
   ]
