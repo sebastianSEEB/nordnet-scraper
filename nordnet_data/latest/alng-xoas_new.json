@@ -1,9 +1,41 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-27T13:01:44.024382+00:00",
+  "scraped_at": "2026-10-27T19:03:19.628813+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "34436fe59707338f",
+      "author": "Mr Dividende",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-dividende",
+      "posted_relative": null,
+      "text": "23. okt. Denne aksjen er min \"lotto-kupong\", kommer til å ha disse aksjene lenge, Var tidlig inne i Hunter, mye inn og ut, ble bra med gevinster, men hadde jeg sittet rolig hadde reisen blitt mye bedre. Fikk en lærepenge der :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 227,
+      "has_link": false
+    },
+    {
+      "key": "b81dc9990c67b298",
+      "author": "arctic_fulmar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arctic_fulmar",
+      "posted_relative": null,
+      "text": "23. okt. Kan det hende at kursen beveget seg så mye fordi det var rett og slett for lite tilgjengelige aksjer? Det var ikke noe særlig volum i den bevegelsen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    }
+  ]
 }

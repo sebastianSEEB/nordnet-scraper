@@ -1,9 +1,41 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-27T13:06:19.628425+00:00",
+  "scraped_at": "2026-10-27T19:07:52.591630+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "190b85ba940aa8aa",
+      "author": "omvo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omvo",
+      "posted_relative": "for 5 t siden",
+      "text": "https://www.finansavisen.no/helse/2026/10/27/8390924/helseaksjer-blir-investorenes-anti-ai-veddemal",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/helse/2026/10/27/8390924/helseaksjer-blir-investorenes-anti-ai-veddemal"
+      ],
+      "char_count": 99,
+      "has_link": true
+    },
+    {
+      "key": "b0ca624c74621b37",
+      "author": "VDH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vdh",
+      "posted_relative": "for 5 t siden",
+      "text": "Dette er gull 👏",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

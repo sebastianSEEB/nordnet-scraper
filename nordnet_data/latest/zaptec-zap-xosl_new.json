@@ -1,9 +1,38 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-27T13:03:05.787432+00:00",
+  "scraped_at": "2026-10-27T19:04:40.255923+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "10041b9e71fb97e3",
+      "author": "MisKina",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
+      "posted_relative": "for 3 t siden",
+      "text": "· 2 dager med stigende kurs oppover, perfekt Lover godt, hvis kursen holder og kanskje fremdeles stiger mot regnskapet neste uke. Håper og tror ikke Citadel har mer makt og tørt krutt, til å påvirke kursen. Og mon tro om ikke alle våre små tradere her inne, har tatt sin posisjon og sitter på hendene. 😎👍😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 305,
+      "has_link": false
+    },
+    {
+      "key": "5a7b07d64857ea36",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 5 t siden",
+      "text": "stiger jevnt mot Q3 nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

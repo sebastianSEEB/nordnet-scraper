@@ -1,9 +1,54 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-27T13:09:04.994979+00:00",
+  "scraped_at": "2026-10-27T19:10:38.057378+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c38c314c7aeb7380",
+      "author": "KER_share",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ker_share",
+      "posted_relative": "for 2 t siden",
+      "text": "Mye likt angående estimater som følger: \"The global automotive steer-by-wire system market size was valued at USD 3.61 billion in 2025. The market is projected to grow from USD 3.88 billion in 2026 to USD 6.98 billion by 2034, exhibiting a CAGR of 7.61% during the forecast period\".",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 282,
+      "has_link": false
+    },
+    {
+      "key": "06a3fbd6201a76c9",
+      "author": "Tida",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tida",
+      "posted_relative": "for 4 t siden",
+      "text": "Ser reklame for Lexus RZ der det blir fremhevet at den har Steer by Wire system.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        3
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "df1decd251d90c62",
+      "author": "Isklump",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isklump",
+      "posted_relative": "for 3 t siden",
+      "text": "Close over 2,1 smakte godt. Motstand svekkes.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,79 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-27T13:01:52.637271+00:00",
+  "scraped_at": "2026-10-27T19:03:27.222128+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "f2e0a4b4cb222781",
+      "author": "JohanKjellman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johankjellman",
+      "posted_relative": "for 1 t siden",
+      "text": "· 117 % utbytte sier man ikke nei til.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "a6ae10983558bb7d",
+      "author": "AignerInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aignerinvest",
+      "posted_relative": "for 2 t siden",
+      "text": "Denne skal ned i morra tidlig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "66e46e654b9baa53",
+      "author": "Wollman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wollman",
+      "posted_relative": "for 3 t siden",
+      "text": "Når er dato for emisjonen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "92476fb0822edfcb",
+      "author": "SimenHag",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simenhag",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjer her??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    },
+    {
+      "key": "f67ddcfc9401cea8",
+      "author": "AignerInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aignerinvest",
+      "posted_relative": "for 3 t siden",
+      "text": "SELG!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }
