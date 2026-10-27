@@ -1,9 +1,38 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-27T01:43:11.672182+00:00",
+  "scraped_at": "2026-10-27T07:01:12.228169+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f1ce0e9039197b29",
+      "author": "Mirty42",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mirty42",
+      "posted_relative": "for 2 t siden",
+      "text": "https://tv.finansavisen.no/nb/watch/8951",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://tv.finansavisen.no/nb/watch/8951"
+      ],
+      "char_count": 40,
+      "has_link": true
+    },
+    {
+      "key": "f21dc3042b79d58f",
+      "author": "terskel123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terskel123",
+      "posted_relative": "for 39 min siden",
+      "text": "John Fredriksen kjøper hver dag. Spennende tider",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

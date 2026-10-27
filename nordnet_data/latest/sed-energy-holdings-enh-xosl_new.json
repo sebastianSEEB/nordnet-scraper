@@ -1,9 +1,56 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-27T01:44:36.808915+00:00",
+  "scraped_at": "2026-10-27T07:02:37.099886+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2f9155781345e7c1",
+      "author": "BeeBumble",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beebumble",
+      "posted_relative": "for 36 min siden",
+      "text": "T-16: Energy Holdings har sikret en riggkontrakt i Malaysia verdt rundt 810 millioner kroner. Avtalen har en fast varighet på 30 måneder, med opsjoner på ytterligere 15 måneder. https://www.finansavisen.no/energi/2026/10/27/8390643/sikrer-riggkontrakt-pa-810-mill.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/27/8390643/sikrer-riggkontrakt-pa-810-mill."
+      ],
+      "char_count": 264,
+      "has_link": true
+    },
+    {
+      "key": "8c490ce7db3541c7",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 58 min siden",
+      "text": "🚀 SED Energy sikrer viktig kontrakt! • T-16 har mottatt tildelingsbrev fra CPOC i Malaysia. • Kontraktsverdi på ca. 87 millioner USD (inkludert mobilisering). • Varighet på 30 måneder + opsjoner på ytterligere 15 måneder. • Forventet oppstart tidlig i Q3 2027, med arbeid sikret inn i 2030. • Styrker ordreboken, inntjeningsforutsigbarheten og fremtidig utbyttekapasitet. Svært positivt for ENH! En viktig usikkerhet er redusert, særlig etter tapet av to andre kontrakter. Dette kan også styrke SEDs posisjon i fusjonsforhandlingene med Ventura.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        20,
+        2
+      ],
+      "links": [],
+      "char_count": 545,
+      "has_link": false
+    },
+    {
+      "key": "6a4920c50dcc06cf",
+      "author": "joppen78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joppen78",
+      "posted_relative": "for 43 min siden",
+      "text": "Dagrate på 95000 (inkludert mob. fee), ned fra 131000 tidligere.  Men bedre enn de 70000 som Foresight ga.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    }
+  ]
 }

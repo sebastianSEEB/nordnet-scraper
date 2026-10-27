@@ -1,9 +1,67 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-27T01:45:04.182041+00:00",
+  "scraped_at": "2026-10-27T07:03:04.338653+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "61f12d9cc3b4d7a3",
+      "author": "ydkd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ydkd",
+      "posted_relative": "for 1 t siden",
+      "text": "Hei! Jeg har et lite nybegynnerspørsmål angående reinvestering av utbytte på en Aksjesparekonto (ASK), og håper noen av de mer erfarne her inne kan hjelpe meg med å forstå det tekniske. La oss ta et enkelt eksempel: Jeg eier 1000 aksjer i et selskap med en GAV (gjennomsnittlig anskaffelseskostnad) på 10 kr per aksje. Total innskutt kapital er altså 10 000 kr. Selskapet betaler ut et utbytte som tilsvarer 5 %, og jeg velger å bruke disse utbyttepengene til å kjøpe nye aksjer i det samme selskapet. Etter kjøpet eier jeg da 1050 aksjer. Siden jeg personlig ikke har skutt inn mer enn de opprinnelige 10 000 kronene fra egen lomme (utbyttet kom jo fra selskapet), betyr det i teorien at min reelle kostnad per aksje har sunket. Spørsmålet mitt er: Hvordan håndterer dere dette i praksis? Justerer megleren (f.eks. Nordnet) denne GAV-en ned automatisk på kontoen når de nye aksjene kjøpes for utbyttet? Eller blir de nye aksjene registrert som et vanlig kjøp til dagens markedskurs, slik at GAV-en på skjermen faktisk justeres opp hvis aksjekursen har steget? Gjør dere dette manuelt i egne regneark for å holde styr på den reelle avkastningen, eller stoler dere fullt ut på meglerens visning? Setter stor pris på svar og erfaringer!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 1234,
+      "has_link": false
+    },
+    {
+      "key": "9e31d278de40bce5",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 4 min siden",
+      "text": "Utbyttet kommer inn på din konto og blir synlig i form av økt kontantbeholdning.  GAVen din endres ikke som følge av utbyttet.  Idet du bruker kontantene til å reinvestere og kjøpe mer ELO vil den nye GAV-en bli et vektet gjennomsnitt av GAV for de gamle ELO-aksjene og GAV for de nye ELO-aksjene, akkurat på samme måte som om du hadde kjøpt mer ELO-aksjer med \"friske\" penger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 377,
+      "has_link": false
+    },
+    {
+      "key": "b19a3b7ee7764258",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 6 min siden",
+      "text": "Forskningsproblemer har vært kjent  i et halvt år nå, det er nettopp dette jeg synes Elopak har håndtert veldig bra, med forsikringer på plass osv. jeg hadde forventet lavere vekst i usa pga dette, men de har kompensert fint og står støtt. Deres hovedleverandør hadde en fæl ulykke i vår der 11 personer mistet livet og fabrikken ble stengt umiddelbart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 353,
+      "has_link": false
+    },
+    {
+      "key": "5a7d17039d1800a5",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 50 min siden",
+      "text": "Imponerende rapport i disse omstendighetene etter et raskt overblikk 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

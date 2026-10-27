@@ -1,9 +1,28 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-27T01:43:42.816187+00:00",
+  "scraped_at": "2026-10-27T07:01:43.154817+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "17c5f2efcd25e759",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "23. okt. · Endret Kanskje man ikke skal legge så mye vekt på innsidesalgene til Dag Marius Nereng ? Han solgte 88000 aksjer i 2023 for 12,9 mill (kurs 146,84). Idag kunne han ha fått 38,9 mill for de samme aksjene. Inkludert tapt utbytte har han da gått glipp av en 3-dobling ...... https://finanswatch.no/nyheter/forsikring/article15007076.ece",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        7
+      ],
+      "links": [
+        "https://finanswatch.no/nyheter/forsikring/article15007076.ece"
+      ],
+      "char_count": 344,
+      "has_link": true
+    }
+  ]
 }

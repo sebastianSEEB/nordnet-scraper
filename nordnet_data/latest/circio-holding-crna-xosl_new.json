@@ -1,22 +1,53 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-27T01:46:40.495942+00:00",
+  "scraped_at": "2026-10-27T07:04:39.393587+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "63e1b908f3de14d6",
-      "author": "Krisch",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krisch",
-      "posted_relative": "for 27 min siden",
-      "text": "I alle dager. Tror man at man i dag driver forskning uten å bruke AI?",
+      "key": "ea529cac67e4c496",
+      "author": "tverilytt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tverilytt",
+      "posted_relative": "for 11 min siden",
+      "text": "· https://www.linkedin.com/posts/victor-levitsky-742b6310_time-moves-quickly-especially-in-biotech-share-7520447029580431360-dXq_/?utm_source=share&utm_medium=member_ios&rcm=ACoAAENP8lQBLd6z3wL7b1fEmNnkp_A-POL6UDE",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        1
+      ],
+      "links": [
+        "https://www.linkedin.com/posts/victor-levitsky-742b6310_time-moves-quickly-especially-in-biotech-share-7520447029580431360-dXq_/?utm_source=share&utm_medium=member_ios&rcm=ACoAAENP8lQBLd6z3wL7b1fEmNnkp_A-POL6UDE"
+      ],
+      "char_count": 213,
+      "has_link": true
+    },
+    {
+      "key": "c6e7106bdcfa98a7",
+      "author": "Morningstar_trades",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morningstar_trades",
+      "posted_relative": "for 14 min siden",
+      "text": "Kommer nok nyheter etter stengetid idag, dagen før fremføringen på esgct ♥️",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 69,
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "2f81b55987e3afd8",
+      "author": "BigChief",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bigchief",
+      "posted_relative": "for 5 min siden",
+      "text": "· Rekner med det kommer ein update kl 8 i morgen tidlig 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
       "has_link": false
     }
   ]

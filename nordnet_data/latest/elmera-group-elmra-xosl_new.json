@@ -1,9 +1,25 @@
 {
   "slug": "elmera-group-elmra-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elmera-group-elmra-xosl",
-  "scraped_at": "2026-10-27T01:47:54.166694+00:00",
+  "scraped_at": "2026-10-27T07:05:52.552537+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f2355c6718eaa122",
+      "author": "grenssaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grenssaks",
+      "posted_relative": null,
+      "text": "23. okt. Iflg VPS ble pengene overført til konto 975006xxxxxx i går 22.10. Antar at dette er Nordnet sin konto. Da gjendstår det å se om de blir disponible i dag 23.10 eller om Nordnet \"sitter\" på de til mandag...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 213,
+      "has_link": false
+    }
+  ]
 }
