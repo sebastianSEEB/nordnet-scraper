@@ -1,9 +1,23 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-27T12:42:41.882172+00:00",
+  "scraped_at": "2026-10-27T13:04:59.279102+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "61a83d7d57c6629a",
+      "author": "Aksjefugelen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjefugelen",
+      "posted_relative": null,
+      "text": "23. okt. Hvordan tenker dere om microsoft sin nye løsning, hvordan kan det påvirke pexip negativt potensielt",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    }
+  ]
 }
