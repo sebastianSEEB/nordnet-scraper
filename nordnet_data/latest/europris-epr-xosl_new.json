@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-27T07:02:40.963541+00:00",
+  "scraped_at": "2026-10-27T12:42:06.606665+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2c18e1a022f1642a",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": null,
+      "text": "23. okt. Sorry men denne skal ned mot 80 før den er intressant. Men håper ikke det....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    }
+  ]
 }

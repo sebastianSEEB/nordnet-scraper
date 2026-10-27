@@ -1,9 +1,23 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-27T07:04:58.247794+00:00",
+  "scraped_at": "2026-10-27T12:44:27.608191+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c9c7716a568c1399",
+      "author": "JacobHill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jacobhill",
+      "posted_relative": "for 36 min siden",
+      "text": "Er ikke råvarer bra ved inflasjon? Det skal visst bygge dataparker framover, så det er vel behov for metaller ? Kjøpte litt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

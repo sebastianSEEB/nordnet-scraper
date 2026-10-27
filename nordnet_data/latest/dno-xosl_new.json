@@ -1,9 +1,126 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-27T07:03:23.475099+00:00",
+  "scraped_at": "2026-10-27T12:42:49.858614+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 8,
+  "posts": [
+    {
+      "key": "acd96ad364a28008",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 1 t siden",
+      "text": "Ja ja, hvordan går det på topic, passerte visst 24 i full moment. Ser ut som det ikke gikk....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "2c726e311297b700",
+      "author": "UMn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/umn",
+      "posted_relative": "for 3 t siden",
+      "text": "De har betalt nevnte skatt i Q3, allerede bekreftet i trading update",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "04f750c0a73b5ab3",
+      "author": "saggiz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saggiz",
+      "posted_relative": "for 23 t siden",
+      "text": "hva tenker folk om denne? er denne på topp nå? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "9b5cbf651dcbdb09",
+      "author": "UMn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/umn",
+      "posted_relative": "for 3 t siden",
+      "text": "Kan noen sende link til SB1 markets oppjustering og begrunnelsen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "8c6d3975e5589d6a",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 5 t siden",
+      "text": "SB1 Markets jekker opp kursmålet fra 24 kroner til 30 kroner.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13,
+        12
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "d3cb456203990bca",
+      "author": "Kumpekjekken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kumpekjekken",
+      "posted_relative": "for 4 t siden",
+      "text": "Og deer bikket vi 24!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        12
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "3d0f16ebe2ed42c1",
+      "author": "Langhårsdachs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langharsdachs",
+      "posted_relative": "for 3 t siden",
+      "text": "SPB1 Markets i dag:",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    },
+    {
+      "key": "03ce214fac3e343e",
+      "author": "Langhårsdachs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/langharsdachs",
+      "posted_relative": "for 4 t siden",
+      "text": "· SPB1 - Markets:",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

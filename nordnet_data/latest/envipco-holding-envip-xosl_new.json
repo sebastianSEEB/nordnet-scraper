@@ -1,24 +1,82 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-27T07:06:42.666780+00:00",
+  "scraped_at": "2026-10-27T12:46:12.458144+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "638d5c6c07f22187",
-      "author": "naidra",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/naidra",
-      "posted_relative": null,
-      "text": "23. okt. Utrolig god rapport fra Tomra, som bør være overførbar til Envipco! Gleder meg til Q3 rapporten herifra",
+      "key": "70460271f88ab8c9",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.myota.gr/2026/10/23/%CF%83%CF%84%CE%B1-%CF%8C%CF%81%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AE%CF%82-%CE%BA%CE%B1%CF%84%CE%AC%CF%81%CF%81%CE%B5%CF%85%CF%83%CE%B7%CF%82/ \"siste fase\" i Hellas",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        2,
+        9
+      ],
+      "links": [
+        "https://www.myota.gr/2026/10/23/%CF%83%CF%84%CE%B1-%CF%8C%CF%81%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%BF%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%B9%CE%BA%CE%AE%CF%82-%CE%BA%CE%B1%CF%84%CE%AC%CF%81%CF%81%CE%B5%CF%85%CF%83%CE%B7%CF%82/"
+      ],
+      "char_count": 251,
+      "has_link": true
+    },
+    {
+      "key": "0d9fca24e190c0d1",
+      "author": "Vulkansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vulkansen",
+      "posted_relative": null,
+      "text": "23. okt. Hvordan er det med de store kjedene, tar de inn begge leverandørene for å holde konkurransen vedlike eller går de for en leverandør?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "fd39deea57f63b13",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": null,
+      "text": "23. okt. TOMRA: VENTER AT ANBUD I STORBRITANNIA AVGJØRES INNEN ÅRSSLUTT Denne er fin for begge parter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
       ],
       "links": [],
-      "char_count": 112,
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "4e85d743d46a25fa",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": "for 3 t siden",
+      "text": "Tror de prøver å dekke jevnt nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "4cdadaec87823531",
+      "author": "Amenemhat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amenemhat",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva kommer? Dommedag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-10-27T07:07:05.754281+00:00",
+  "scraped_at": "2026-10-27T12:46:35.390417+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0633e491260f5cdd",
+      "author": "Soletti",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soletti",
+      "posted_relative": null,
+      "text": "23. okt. https://safe.no/opptrapping-og-streikemarkering-utenfor-hovedkontoret-til-reach-subsea/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://safe.no/opptrapping-og-streikemarkering-utenfor-hovedkontoret-til-reach-subsea/"
+      ],
+      "char_count": 96,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,95 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-10-27T07:00:56.619662+00:00",
+  "scraped_at": "2026-10-27T12:40:18.162529+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "ab6ce346e0d8070d",
+      "author": "Vivio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vivio",
+      "posted_relative": "for 1 t siden",
+      "text": "Belgia trekker 30 % kildeskatt på den ordinære utbyttedelen. Skatteavtalen mellom Norge og Belgia tilsier normalt 15 % skatt på slike utbytter til norske eiere. Det betyr at de ekstra 15 prosentpoengene i utgangspunktet kan søkes refundert fra belgiske skattemyndigheter, normalt via ett stander skjema (dere finne det med ett søk på nettet) og med dokumentasjon på norsk skattemessig bosted.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 392,
+      "has_link": false
+    },
+    {
+      "key": "4a9119f8368d78f3",
+      "author": "TheFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thefox",
+      "posted_relative": "for 2 t siden",
+      "text": "Kan noen si litt mer om kupongskatten som trekkes i utbytte-utbetalingen?  Er dette noe vi selv må/kan ta hensyn til i selvangivelsen? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 154,
+      "has_link": false
+    },
+    {
+      "key": "5db1cb6e1e1aaf31",
+      "author": "Hax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hax",
+      "posted_relative": "for 3 t siden",
+      "text": "· Jeg har fått utbetalt utbytte to ganger fra denne aksjen, et større beløp i dag og mindre i forgårs, er det noen som vet hva det gjelder?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "dda4e6c358b614a1",
+      "author": "Milionær",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/milionr",
+      "posted_relative": "for 5 t siden",
+      "text": "Har noen kjennskap til når vi får utbetalt resterende av utbyttegrunnlaget på 0,64 USD? Får ingenting opp i Nordnet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "c09e1bc9dbdb40e6",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": "for 3 t siden",
+      "text": "Den ene er utbytte og det andre er tilbakebetaling av innbetalt kapital",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "2ab65bdd3aaee39e",
+      "author": "Aiette",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aiette",
+      "posted_relative": "for 2 t siden",
+      "text": "Trekkes det kildeskatt av ekstrautbetalingen?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

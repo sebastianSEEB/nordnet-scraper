@@ -1,9 +1,26 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-10-27T07:00:30.227349+00:00",
+  "scraped_at": "2026-10-27T12:39:51.193169+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b47be0fb1aa1dc39",
+      "author": "Benonisen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benonisen",
+      "posted_relative": null,
+      "text": "23. okt. Hva er det som skjer her! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

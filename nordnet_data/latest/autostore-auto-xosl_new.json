@@ -1,9 +1,53 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-27T07:03:27.180677+00:00",
+  "scraped_at": "2026-10-27T12:42:53.869935+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "61740945d2ab4950",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": null,
+      "text": "23. okt. Uff, undrer hva som skjer på blå Mandag. Hva tror du Skrue?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "14bc6ae47f56c5fe",
+      "author": "no-emotions",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-emotions",
+      "posted_relative": null,
+      "text": "23. okt. Det er et GAP ned til 13,91. Fyller gjerne på der.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "792527c1b468d0f7",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 55 min siden",
+      "text": "Greier vi 15,- idag? 💵💵💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }
