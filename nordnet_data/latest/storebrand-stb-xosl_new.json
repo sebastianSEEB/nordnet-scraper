@@ -1,22 +1,38 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-28T09:17:00.659489+00:00",
+  "scraped_at": "2026-10-28T13:36:09.910387+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c4ad010626f49a5a",
-      "author": "elzetion",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elzetion",
-      "posted_relative": null,
-      "text": "24. okt. Takk for info..   sko hatt meir penger eg au.",
+      "key": "20c1001a460b7dcb",
+      "author": "Mithrox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mithrox",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er sånn man liker å se, selv om dette var et lite kjøp så er det styremedlem som har 10 mill investert i selskap man er i styre. Det er godt å se sammenlignet med mange andre selskaper hvor styremedlemmer har lite eller ingenting investert i selskapet de er med å styrer og rådgir.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 54,
+      "char_count": 285,
+      "has_link": false
+    },
+    {
+      "key": "ca24e7f81260d669",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": null,
+      "text": "23. okt. Styremedlem i Storebrand ASA, Martin Skancke, har i dag kjøpt 1 000 aksjer i Storebrand ASA til kurs NOK 190,8 pr. aksje. Martin Skancke eier 50 000 aksjer i Storebrand ASA etter denne transaksjonen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 228,
       "has_link": false
     }
   ]

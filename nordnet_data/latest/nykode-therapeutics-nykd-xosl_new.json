@@ -1,9 +1,51 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-28T09:16:16.876768+00:00",
+  "scraped_at": "2026-10-28T13:35:26.851622+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4a2156a5adc74868",
+      "author": "Allrounder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvorfor så stort nedsalg her?  104K til salgs på 3,05",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "81215f7a9c971e7d",
+      "author": "gartnern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gartnern",
+      "posted_relative": "for 52 min siden",
+      "text": "Ja de som ble med på emisjonen er nok lykkelig 🤮",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "519a4a00a5e52311",
+      "author": "VDH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vdh",
+      "posted_relative": "for 35 min siden",
+      "text": "Utålmodighet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

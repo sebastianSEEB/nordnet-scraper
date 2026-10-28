@@ -1,27 +1,41 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-28T09:13:14.264045+00:00",
+  "scraped_at": "2026-10-28T13:32:26.279328+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "4e15c1ceecdf6d5d",
-      "author": "Metallian",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
-      "posted_relative": "for 57 min siden",
-      "text": "https://www.finansavisen.no/energi/2026/10/28/8390697/borsraset-i-brasil-venter-opptur-for-norske-redere",
+      "key": "e10ace63f306b131",
+      "author": "Vinzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vinzen",
+      "posted_relative": "for 1 t siden",
+      "text": "Bulkers 2020 har steget 150% siste måned mens DOF står nesten stille! Hva skjer? Noe som jeg har gått glipp av hos DOF?:) Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        1,
+        3
       ],
-      "links": [
-        "https://www.finansavisen.no/energi/2026/10/28/8390697/borsraset-i-brasil-venter-opptur-for-norske-redere"
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "432a118d26f842a7",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 33 min siden",
+      "text": "2020 er ikke relevant å sammenligne med per nå.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
-      "char_count": 104,
-      "has_link": true
+      "links": [],
+      "char_count": 47,
+      "has_link": false
     }
   ]
 }

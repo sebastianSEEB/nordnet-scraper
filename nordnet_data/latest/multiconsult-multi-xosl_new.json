@@ -1,9 +1,23 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-10-28T09:18:02.969926+00:00",
+  "scraped_at": "2026-10-28T13:37:12.704066+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6c4d597506eb26ac",
+      "author": "Gorvita",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gorvita",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen som vet om kontrakter?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

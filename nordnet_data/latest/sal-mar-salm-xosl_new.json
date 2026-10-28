@@ -1,83 +1,50 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-28T09:15:08.893323+00:00",
+  "scraped_at": "2026-10-28T13:34:20.474750+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 5,
+  "total_posts_on_page": 5,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "dc2675a84a471dc3",
-      "author": "Kalle1234",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": "for 50 min siden",
-      "text": "· SEB hever kursmålet for Salmar til 675 norske kroner (645), gjentar kjøp",
+      "key": "381ba17567f066a9",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 28 min siden",
+      "text": "https://e24.no/boers-og-finans/i/Kr5AA4/investtech-analyse-kjoep-disse-aksjene-naa",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/Kr5AA4/investtech-analyse-kjoep-disse-aksjene-naa"
       ],
-      "links": [],
-      "char_count": 74,
-      "has_link": false
+      "char_count": 82,
+      "has_link": true
     },
     {
-      "key": "7be188934668bb76",
-      "author": "Kalle1234",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": "for 1 t siden",
-      "text": "Kilopriser opp 2,7% og eksport opp 3%.  Meget gode tall!!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [],
-      "char_count": 57,
-      "has_link": false
-    },
-    {
-      "key": "ea5ca8cd2ee4fdff",
-      "author": "MariusB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
-      "posted_relative": "for 51 min siden",
-      "text": "SEB gjentar Kjøp, øker kursmål til 675 kr (645)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 47,
-      "has_link": false
-    },
-    {
-      "key": "cc915db56ebf49a0",
-      "author": "MariusB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
-      "posted_relative": "for 1 t siden",
-      "text": "Det er ganske bra med en sterk krone!",
+      "key": "11222b29db3799cd",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 28 min siden",
+      "text": "Salmar har de siste dagene steget opp gjennom motstanden ved 583 kroner og utløst et kjøpssignal. Kursen har toppet ut ved nivået flere ganger i år, mellom februar og mai, samt i august og september. Historisk har nordiske aksjer steget 4,1 prosentpoeng raskere enn resten av markedet, annualisert, etter slike kjøpssignaler. Kursen kan nå lett stige opp mot siste synlige motstand ved 610 kroner. Kurs over 610 kroner vil styrke analysen ytterligere. Selskapet legger frem kvartalstall tirsdag neste uke, og har de siste 20 rapporteringene i snitt vært omtrent uendret på rapporteringsdagen, men så steget rundt 1 prosent følgende måned. Salmar er positiv på innsidehandler, etter innsidekjøp fra styremedlem Martin Bech Holte 31. august og 25. september.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 37,
+      "char_count": 756,
       "has_link": false
     },
     {
-      "key": "d8ad58ec78d46e83",
-      "author": "PH1223",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
-      "posted_relative": "for 55 min siden · Endret",
-      "text": "EKSPORTPRISEN VAR 76 KR UKE 43",
+      "key": "9b3d155d3dce7a28",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 2 t siden",
+      "text": "Gjennomsnittlig eksportpris var 76,04 kroner pr kilo for fersk eller kjølt oppdrettslaks i uke 43, opp 2,7 prosent fra foregående uke. Det opplyser Statistisk sentralbyrå onsdag.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 30,
+      "char_count": 178,
       "has_link": false
     }
   ]

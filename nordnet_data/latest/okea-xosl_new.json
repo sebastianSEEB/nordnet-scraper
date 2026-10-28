@@ -1,9 +1,39 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-28T09:15:28.896972+00:00",
+  "scraped_at": "2026-10-28T13:34:40.263807+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b4e8c55c27aa2f9e",
+      "author": "Delafrod",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/delafrod",
+      "posted_relative": "for 5 min siden",
+      "text": "DNB's preview: The Q3 trading update was slightly soft, with production in line with expectations and realised prices slightly below NCS peers. In our view, the Statfjord impairment, driven by lower production estimates and higher capex, raises the downside risk to the 2027 guidance. On the positive side, we expect Q3 earnings to satisfy the bond incurrence tests, allowing a dividend restart. With net cash of USD180m, we see potential for a dividend to be announced with the Q3 results due on 3 November – we see scope for NOK1/share quarterly (~8.5% yield), while retaining capacity for M&A. We reiterate BUY but increase our target price to NOK54 (51) on higher oil and gas price assumptions. Synes selv at 54 NOK er et noe puslete target med den inntjeningen og reintroduksjon av utbytte :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 797,
+      "has_link": false
+    },
+    {
+      "key": "c86da39a688ada9a",
+      "author": "lumpo capital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lumpo-capital",
+      "posted_relative": "for 2 t siden",
+      "text": "Dnb 51->54 Sb1m 41->52",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

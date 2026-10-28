@@ -1,126 +1,40 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-28T09:16:04.766787+00:00",
+  "scraped_at": "2026-10-28T13:35:15.175257+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "8cb0c4e0d4f03c05",
-      "author": "zappaphone",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
-      "posted_relative": "for 1 t siden",
-      "text": "\"Kraftig marginøkning: All-time high Inntektene skuffet, men rekordeffektiv drift ga marginer langt over forventning for Borregaard i tredje kvartal.\" https://www.finansavisen.no/industri/2026/10/28/8391019/all-time-high-fra-borregaard",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.finansavisen.no/industri/2026/10/28/8391019/all-time-high-fra-borregaard"
-      ],
-      "char_count": 235,
-      "has_link": true
-    },
-    {
-      "key": "5b0f2916ee050c9c",
-      "author": "Jompen1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jompen1",
-      "posted_relative": null,
-      "text": "24. okt. Borregaard er min dårligste investering i porteføljen. Selskapet har hatt noe motvind på markedet, men en hel del er selskapets egen dumskap - for eksempel Alginor - og hvordan dette ble kommunisert til aksjonærene - noe som påvirker tilliten til ledelsen. Denne kommunikasjonen, og da mangel på faktabasert informasjon, bør få konsekvenser for de ansvarlige. Det kommer et årsmøte, burde aksjonærene ta grep? Det er vel bare å lese svaret selskapet skrev til Finanstilsynet for å forstå at styret var på fullstendig feil spor med sin kommunikasjon til markedet. Jeg er spent på årets utbytte, det bør være en markant økning!",
+      "key": "42769027e838c513",
+      "author": "W0nder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/w0nder",
+      "posted_relative": "for 4 t siden",
+      "text": "Tja, tror ikke det er mere enn flaks om den går opp 10 til. Alt er ikke like bra selv om noen deler firmaet gir bra resultat nå.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
         1
       ],
       "links": [],
-      "char_count": 634,
+      "char_count": 128,
       "has_link": false
     },
     {
-      "key": "b6a3f8e679a4189d",
-      "author": "@Tothvi1936",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tothvi1936",
-      "posted_relative": null,
-      "text": ". Men vi skal ikke hause ledelsen for mye, for de trenger å ta seg sammen og levere nå. Se på de siste 6 årene med avkastning så skjønner alle dette. At de har forbedret seg på kommunikasjon er noe som i så fall er et bra tegn - jeg skal la vær å si mer.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 254,
-      "has_link": false
-    },
-    {
-      "key": "36da95685f3396c9",
-      "author": "BuffenWarret",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buffenwarret",
-      "posted_relative": "for 3 t siden",
-      "text": "en såpass bra utvikling på ebitda må vel sende kursen i riktig retning?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6,
-        3
-      ],
-      "links": [],
-      "char_count": 71,
-      "has_link": false
-    },
-    {
-      "key": "b8de1581ca4dc066",
+      "key": "ff506db4ad3fa473",
       "author": "Øy",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
-      "posted_relative": "for 50 min siden",
-      "text": "Grattis til alle aksjonærer 😎 håper den går til 160 i løper av uken.",
+      "posted_relative": "for 5 t siden",
+      "text": "Grattis til alle aksjonærer 😎 håper den går til 160 i løper av uken. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
-        1
+        15,
+        5
       ],
       "links": [],
-      "char_count": 68,
-      "has_link": false
-    },
-    {
-      "key": "b6f874cf07605762",
-      "author": "Jompen1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jompen1",
-      "posted_relative": "for 1 t siden",
-      "text": "Fint du er positiv",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 18,
-      "has_link": false
-    },
-    {
-      "key": "a612a14f108438ba",
-      "author": "MrPoopenstein",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrpoopenstein",
-      "posted_relative": "for 35 min siden",
-      "text": "· Jeg liker det",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 15,
-      "has_link": false
-    },
-    {
-      "key": "f37ca0d2240f204a",
-      "author": "Øy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
-      "posted_relative": "for 26 min siden",
-      "text": "\"Flaks\" er gøy",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 14,
+      "char_count": 88,
       "has_link": false
     }
   ]

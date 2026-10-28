@@ -1,33 +1,93 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-28T09:16:20.847633+00:00",
+  "scraped_at": "2026-10-28T13:35:30.836912+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 6,
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
   "posts": [
     {
-      "key": "2401c9ae0c5fcd4e",
-      "author": "lapskaus",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lapskaus",
+      "key": "247b57104133c669",
+      "author": "Simlar2412",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simlar2412",
       "posted_relative": "for 2 min siden",
-      "text": "Tradere prøver å få ned kurs. Virkelig ingenting i nyhetsmeldingen som roper selg for min del?",
+      "text": "· https://www.linkedin.com/posts/eoghan-oleary-at-our-poster-at-esgct-today-share-7521200997202038785-u2Gz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABfsrdgBOH7SNLgjuj2ThRvG2-zvaDmJLOE",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.linkedin.com/posts/eoghan-oleary-at-our-poster-at-esgct-today-share-7521200997202038785-u2Gz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABfsrdgBOH7SNLgjuj2ThRvG2-zvaDmJLOE"
+      ],
+      "char_count": 194,
+      "has_link": true
+    },
+    {
+      "key": "ae305e4f8ee8c686",
+      "author": "oooook",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oooook",
+      "posted_relative": "for 28 min siden",
+      "text": "Er forbedring i biogenesis og translation fortsatt ikke kombinert? Slik jeg tolker slide 10 i den nye ESGCT-presentasjonen, har Circio vist forbedringene i biogenesis og translation hver for seg, men ikke kombinert dem ennå. circVec 5.1: Optimalisering av biogenesis, ca. 70x uttrykk vs. mVec (ca. 3x vs. circVec). circVec 5.2: Optimalisering av translation, ca. 190x uttrykk vs. mVec (ca. 5x vs. circVec). I august snakket de om å kombinere de to forbedringene. Slik jeg leser den nye presentasjonen, gjenstår altså dette fortsatt. Hvis forbedringene kan kombineres og effektene er tilnærmet multiplikative, kan det teoretiske potensialet være betydelig høyere enn dagens ~190x: grovt regnet et sted mellom 350x (70x × 5) og 570x (190x × 3) sammenlignet med mVec. Dette er selvfølgelig bare en illustrasjon av potensialet, ikke nødvendigvis det faktiske resultatet, da effektene trenger ikke være fullt ut uavhengige eller multiplikative. Tolker dere presentasjonen på samme måte, eller har jeg misforstått noe?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
         1
       ],
       "links": [],
-      "char_count": 94,
+      "char_count": 1012,
       "has_link": false
     },
     {
-      "key": "ad7517c1d6cdcfcf",
-      "author": "torbkar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torbkar",
-      "posted_relative": "for 3 min siden",
-      "text": "Er det noen positive rakett idioter som tenker at de tjener penger",
+      "key": "c8ae20effa4ae13b",
+      "author": "lillejohn1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillejohn1",
+      "posted_relative": "for 24 min siden",
+      "text": "Stadig nye gode data og validering tikker inn for Circio. Vi er på første dag på ESGCT. Og neste update er meldt fra midt november og ut et sted. 2 - 4 uker. Jeg mistenker at mediene kan være på denne etter ESGCT, og jeg mistenker at det snart er noen som drister seg på et kursmål. I min verden er markedsverdien bunnskrapt hvis man regner på deres kontant beholdning og deres stadige teknologiske utvikling. Markedsverdi\tOmtrentlig aksjekurs 4 mrd. kr\t13,70 kr 6 mrd. kr\t20,60 kr 8 mrd. kr\t27,45 kr 10 mrd. kr\t34,30 kr Her er nivåer det bør være gode muligheter til å bestige nå fremover. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        4
+      ],
+      "links": [],
+      "char_count": 610,
+      "has_link": false
+    },
+    {
+      "key": "c57c980cf5d35cc1",
+      "author": "birkmarring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birkmarring",
+      "posted_relative": "for 4 min siden",
+      "text": "Ser folk snakke om denne «selv på nyheter» hva tenker dere om morgen dagen da? Samme?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "bd7ad60b3a1c71c4",
+      "author": "Dulle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
+      "posted_relative": "for 5 min siden · Endret",
+      "text": "Lurer på om det er mye tvangssalg på gang i dag.  250 000 aksjer på 10,80 nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "93f1d02437a42088",
+      "author": "AbiFuture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/abifuture",
+      "posted_relative": "for 2 min siden",
+      "text": "Du med 800+ avkastning har vel bedre svar enn de fleste her inne?😏",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
@@ -36,61 +96,16 @@
       "has_link": false
     },
     {
-      "key": "58b0e6017c0587b1",
-      "author": "Jobba",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jobba",
-      "posted_relative": "for 2 min siden",
-      "text": "Asso.. det er da vel ingen grunn til at den ska være børstaper? 😅",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 65,
-      "has_link": false
-    },
-    {
-      "key": "e35d2111e1f782e9",
-      "author": "Tdam",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tdam",
-      "posted_relative": "for 4 min siden",
-      "text": "Beistet flyr!!😂😂",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 16,
-      "has_link": false
-    },
-    {
-      "key": "74ff52420edfec3f",
-      "author": "PenPlan1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/penplan1",
-      "posted_relative": "for 1 min siden",
-      "text": "Helt enig!!",
-      "reply_count": null,
+      "key": "1468edac70a1a190",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
+      "posted_relative": "for 10 min siden",
+      "text": "#dagen ble ikke helt som ventet for enkelte",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 11,
-      "has_link": false
-    },
-    {
-      "key": "84866b935cbe5aae",
-      "author": "William19",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/william19",
-      "posted_relative": "for 4 min siden",
-      "text": "· 📉📉📉📉",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 6,
+      "char_count": 43,
       "has_link": false
     }
   ]
