@@ -1,162 +1,126 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-10-28T16:25:07.722713+00:00",
+  "scraped_at": "2026-10-28T21:29:54.304598+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 10,
+  "total_posts_on_page": 8,
+  "new_posts_count": 8,
   "posts": [
     {
-      "key": "52d3d81d69173a1c",
-      "author": "rocketball",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rocketball",
-      "posted_relative": "for 1 t siden",
-      "text": "Dette liker jeg «Circio plans to host an R&D webcast at the end of November to discuss the ESGCT data in more detail and present results from ongoing in vivo studies in heart and eye that are expected to complete during November»  Låter veldig bra og Circio fortsetter å imponere. Gleder meg til å fortsette reisen med Circio",
+      "key": "f311914a6a0e0483",
+      "author": "utopia_basin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utopia_basin",
+      "posted_relative": "for 3 t siden",
+      "text": "Analyst group kom med sin analyse kl 16:42 \". The advantage therefore carries over, addressing the question Analyst Group identified in its H1-26 analysis as outstanding, though these remain initial results generated with circVec 3.2. Reporter expression in heart has since risen from approx. 40x with that construct to approx. 200x with circVec 5.2, and Analyst Group would expect the therapeutic-protein data to improve as the newer designs are applied.\" In summary, Analyst Group views the ESGCT materials as adding precision to the platform’s characterization alongside the step up in heart expression, with the cardiac specificity the most important addition.  What remains open is whether the additional protein makes diseased animals better, which the in vivo heart disease-model studies are designed to establish https://analystgroup.se/bolag/circio-holding/analyst-group-comment-on-circios-esgct-presentations-and-the-new-circvec-5-2-heart-design .Circio expects those studies to begin in Q1-27, with read-outs during the year, in line with the six-to-twelve-month guidance given in September, while the R&D webcast at the end of November, presenting in vivo heart and eye results expected to complete during the month, is the nearer-term test.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        23,
-        1
+        9,
+        24
       ],
-      "links": [],
-      "char_count": 325,
-      "has_link": false
+      "links": [
+        "https://analystgroup.se/bolag/circio-holding/analyst-group-comment-on-circios-esgct-presentations-and-the-new-circvec-5-2-heart-design"
+      ],
+      "char_count": 1253,
+      "has_link": true
     },
     {
-      "key": "b7653f241a34f16d",
-      "author": "Trekkern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trekkern",
-      "posted_relative": "for 1 t siden",
-      "text": "Salgspresset ser ut til å være over. Ikke omsatt mange aksjene siste par timene. Forrige bunn var her på 10,64 og 10,62 gangen før det igjen. Tror vi begynner å klatre oppover igjen i morgen. Vi holder oss nok under 11,80 inntil større nyheter kommer, men tror vi vil ligge å drive rundt 11 og litt oppover.",
+      "key": "6fba10b968e415e7",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 32 min siden",
+      "text": "Etter å ha gått gjennom ESGCT-presentasjonen, begge posterne og dagens børsmelding sitter eg igjen med et positivt inntrykk av fremgangen, særlig på AAV-siden. Samtidig må vi skille økt proteinuttrykk fra dokumentert terapeutisk effekt. De viktigste resultatene: • circVec 5.2: Ca. 190× høyere reportersignal enn mVec i en in vivo-optimaliseringsserie, og ca. 163× høyere signal i hjertet ved en separat ex vivo-måling på dag 70. circVec 5.1 viser ca. 70× i biogeneseoptimaliseringen. • Hjerte/lever: Rundt 94–95 % av målt reporterlys kommer fra hjertet med circVec 5.2, mot ca. 25 % med mVec. Leverens andel er under 1 %, mot ca. 9 % med mVec. Dette gjelder uttrykksfordeling, ikke AAV-opptak eller dokumentert redusert levertoksisitet. • LAMP2B: 8–11× høyere RNA-uttrykk og ca. 4× høyere proteinuttrykk med circVec 3.2. Viktig fordi dette er et sykdomsrelevant protein, men foreløpig testet i friske mus. • AAV-dose: Potensial for 10–20× dosereduksjon ved sammenlignbart reporteruttrykk. Terapeutisk dosebesparelse er ennå ikke dokumentert. • Øye/CNS: Opptil henholdsvis 50× og 60× høyere reporteruttrykk, i hovedsak kjent fra tidligere. Celleterapi: • circVec 2.1 levert med ikke-målrettede DNA-LNP-er viser fortsatt reportersignal i miltregionen ved dag 170 etter én dose i mus. Celletypen bak signalet er ikke bekreftet. • Nye Jurkat-data viser sterkere og mer langvarig tdTomato-uttrykk enn mVec. Positivt, men dette er en T-cellelinje, ikke funksjonell CAR-T. Vi mangler fortsatt bekreftet T-celleuttrykk etter LNP-levering, CAR-protein på celleoverflaten og funksjonell drapsaktivitet. Hva kommer videre? Ifølge dagens børsmelding forventes pågående hjerte- og øyestudier ferdigstilt i november, med FoU-webcast mot slutten av måneden. Nye hjertestudier i sykdomsmodeller er planlagt startet i Q1 2027, med resultater gjennom året. Enkeltcelleanalyser i øye/CNS og videre primatvalidering er også nevnt som neste steg. Hva savner vi? Først og fremst dokumentert sykdomskorreksjon, funksjonell CAR-T og bedre molekylær dokumentasjon på korrekt circRNA og hvor mye av uttrykksfordelen som faktisk skyldes sirkulariseringen. Det blir også interessant å få avklart om forbedringene i circVec 5.1 og 5.2 allerede er kombinert, og hvordan langvarig CAR-uttrykk eventuelt kan kontrolleres. Vurdering: AAV-siden leverer stadig sterkere prekliniske data. Spesielt kombinasjonen av høyt hjerteuttrykk, bedre uttrykksfordeling og LAMP2B-resultater er interessant. CAR-T har fortsatt viktige biologiske spørsmål ubesvart. Totalt sett en positiv vitenskapelig oppdatering, men ikke det store terapeutiske gjennombruddet. November kan gi videre teknisk validering, mens sykdomsmodellene i 2027 kan bli langt viktigere for å dokumentere den faktiske behandlingsverdien. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
-        5
+        10,
+        2
       ],
       "links": [],
-      "char_count": 307,
+      "char_count": 2782,
       "has_link": false
     },
     {
-      "key": "8ba1884b4a8f7e9e",
-      "author": "Nordic semi investor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordic-semi-investor",
-      "posted_relative": "for 40 min siden",
-      "text": "Eneste havariet her er alle de som har urealistiske forventninger og blir skuffet hver gang en nyhet ikke sender kursen opp som en rakett",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 137,
-      "has_link": false
-    },
-    {
-      "key": "6c781e21448b390c",
-      "author": "Dulle",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dulle",
-      "posted_relative": "for 1 t siden",
-      "text": "Så lenge det finnes selgere som vil ut - så venter de fleste til sluttauksjonen. Håper den blir bra i dag. Det trengs....",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 121,
-      "has_link": false
-    },
-    {
-      "key": "729c80a1247e09fc",
-      "author": "MAppelgren",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mappelgren",
-      "posted_relative": "for 16 min siden",
-      "text": "· Tror folk her inne ikke er klar over hva det innebærer å handle med bioteknologiakjeks...",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 91,
-      "has_link": false
-    },
-    {
-      "key": "1a7101f9c9dc82be",
-      "author": "Gankzz",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gankzz",
-      "posted_relative": "for 40 min siden",
-      "text": "· Det ser ut til at noen hadde for store forventninger til i dag siden de selger 😀",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 82,
-      "has_link": false
-    },
-    {
-      "key": "5b51c2a297772b14",
-      "author": "Ferrer",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ferrer",
-      "posted_relative": "for 1 t siden",
-      "text": "Lurt å vente med slike meldinger til etter stenging. Pr nå, så bommet du grådig.",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 80,
-      "has_link": false
-    },
-    {
-      "key": "96bf7d8646f28399",
-      "author": "Laxholm.",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/laxholm",
-      "posted_relative": "for 1 t siden",
-      "text": "· Sluttspurt opp ville være fint",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 32,
-      "has_link": false
-    },
-    {
-      "key": "16a30bfe442e9296",
-      "author": "Turbo Trond",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turbo-trond",
-      "posted_relative": "for 1 t siden",
-      "text": "Totalhavari.. Veldig skuffende!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        6
-      ],
-      "links": [],
-      "char_count": 31,
-      "has_link": false
-    },
-    {
-      "key": "31ce0bc7d21cda89",
-      "author": "Turbo Trond",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turbo-trond",
-      "posted_relative": "for 59 min siden",
-      "text": "Skal de ta med ny plakat?",
+      "key": "6d805be2166f220e",
+      "author": "Falketind",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/falketind",
+      "posted_relative": "for 1 min siden · Endret",
+      "text": "Dette handler hverken om å leke 'storkar' eller å unndra skatt, men om helt grunnleggende matematikk og risikostyring av investert kapital. ​Feil tall og manglende utbytte: Med dagens regler utgjør formuesskatten på 10 millioner i aksjer nærmere kr 80 000–100 000  og kke kr 60 000 . I utviklingsselskaper som f.eks. Circio utbetales det i tillegg ingen utbytte, noe som betyr at skatten må dekkes av egne sparepenger eller ved at man tvinges til å selge aksjer. ​Næringsfiendtlig modell: Formuesskatten er i sin natur næringsfiendtlig fordi den tapper kapital uavhengig av inntjening. Det svekker tilgangen på risikovillig kapital som selskaper helt trenger til nyskaping, forskning, vekst og trygging av fremtidige arbeidsplasser. ​Likt prinsipp for alle: Enten mappen din er på kr 50 000  eller flere millioner, er det ren fornuft å ønske at en urealisert papirgevinst registreres på det skattemessig mest gunstige tidspunktet. Hele denne skatteformen er så urimelig at det eneste virkelig fornuftige ville vært å fjerne formuesskatten på all kapital/formue fullstendig. ​Det å time beskatningen til rett side av nyttår er rasjonell og elementær kapitalforvaltning.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 25,
+      "char_count": 1168,
+      "has_link": false
+    },
+    {
+      "key": "3b43a739e9bfc6f7",
+      "author": "utopia_basin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utopia_basin",
+      "posted_relative": "for 9 min siden",
+      "text": "Cellerypene er spesifisert ..60 gangeren på sns er bekreftet..og det er SNS BP forsøket er på..så her blir dt knall fremover..;) - HepG2 (humane leverkreftceller), figur 1: circVec1, 2.0, 2.1, 3.x og 4.0 ble sammenlignet. Den optimaliserte arkitekturen ga opptil ca. 36 ganger høyere relativ proteinproduksjon (n=2). - Skjelettmuskelvev hos mus, figur 2: circVec sammenlignet med mVec. Proteinsignal påvist frem til dag 170, opptil 15 ganger høyere signal og ca. 75 ganger lengre beregnet RNA-halveringstid. Eksakt circVec-generasjon er ikke angitt i figurteksten. - Øyevev hos mus, figur 3: AAV2-circVec4.0 viste opptil ca. 50 ganger høyere proteinuttrykk enn AAV2-mVec. - Sentralnervesystemet hos mus, figur 4: AAV9-circVec3.2 ga opptil ca. 60 ganger høyere proteinsignal enn AAV9-mVec. - Hjertevev hos mus, figur 5: AAV9-circVec5.2 ga ca. 163 ganger høyere luminescens enn mVec, med 94 % av målt signal fra hjertet og under 1 % fra leveren. Alle resultatene er prekliniske målinger av genekspresjon eller reporteraktivitet. n",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 1028,
+      "has_link": false
+    },
+    {
+      "key": "5fb66fe56f11c68f",
+      "author": "utopia_basin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utopia_basin",
+      "posted_relative": "for 2 min siden",
+      "text": "De nye resultatene viser konkrete forbedringer som ikke var fullt dokumentert ved emisjonen i september. Særlig gjelder dette: circVec5.2: 94 % hjertesignal mot ca. 65 % med circVec3.2. Lever: Under 1 % av signalet mot ca. 4 % tidligere. Hjerteekspresjon: 163 ganger høyere luminescens enn mVec. Translasjon: Opptil fem ganger forbedring i den aktuelle sammenligningen. Det betyr at Circio nå har presentert nye  resultater, samtidig som aksjen handles omtrent 10 % under emisjonskursen. Jeg mener dette styrker argumentet for at aksjen kan være undervurdert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 559,
+      "has_link": false
+    },
+    {
+      "key": "c5fcdf8d63ed6d35",
+      "author": "Båtsjefen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batsjefen",
+      "posted_relative": "for 1 min siden · Endret",
+      "text": "Alle prater her inne om good news. Intet kommer. Alle prater om presentasjoner her og der..Det er bare tøv. Du ser selv at aksjer stuper ned langt unna emi kursen. Den vil fortsatt ramle nedover . Teknisk er den svak nå. Jeg solgte alt for en tid tilbake og går inn på good news. Vi er ikke der kjære dagdrømmere....Lavere kurs kan åpne muligheter...når den har falt tilstrekkelig ned.  Falt ned over saftige 7% bare i dag. No news is bad news.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 444,
+      "has_link": false
+    },
+    {
+      "key": "a067599d228475e5",
+      "author": "@Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": null,
+      "text": "hvor langt ut i 2027 må vi før vi får svar på den faktiske behandlingsverdien? For det er vel først når vi får svar på dette at BP kaster de store pengene etter circio?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "5332b5f577e85934",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden hvor langt ser du for deg at den vil falle ned nå båtsjefen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 88,
       "has_link": false
     }
   ]

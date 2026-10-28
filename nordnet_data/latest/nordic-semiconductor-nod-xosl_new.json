@@ -1,51 +1,22 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-10-28T16:21:31.559948+00:00",
+  "scraped_at": "2026-10-28T21:26:18.679420+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "718fba07127862bf",
-      "author": "Sky is the limit",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
-      "posted_relative": "for 2 t siden",
-      "text": "Oslo (Infront TDN Direkt): Børsene i USA ligger an til å åpne høyere onsdag, der særlig halvlederaksjer ventes bidra til oppgangen.  Amerikanske halvlederaksjer stiger etter at den sørkoreanske produsenten SK Hynix knuste forventingene for tredje kvartal natt til onsdag. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4,
-        2
-      ],
-      "links": [],
-      "char_count": 291,
-      "has_link": false
-    },
-    {
-      "key": "b19d621d6ea36854",
-      "author": "MrRobot",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot",
-      "posted_relative": "for 1 t siden",
-      "text": "Garmin kom med beat på EPS 15ish %! Rart ikke det er litt read-across til NOD, men det er kanskje noe neg. guiding de kommer med? Noen med innsikt her?",
+      "key": "a82b7c1a3dd3b312",
+      "author": "henrikbartholin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henrikbartholin",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Garmin leverte en grei beat og hevet guidingen, særlig drevet av wearables. Det er positivt for short range delen, men det er egentlig ikke der den interessante historien ligger for NOD lenger. Som jeg skrev tidligere: Selskapet er i ferd med å skifte fra å selge enkeltbrikker til å tilby integrert silisium + software + nRF Cloud-tjenester og AI-assisterte utviklerverktøy. Det åpner for kontrakter med høyere verdi og livssyklusgebyrer som fortsatt ikke er fullt synlige i verken omsetnings eller bruttomarginlinjene. Garmin beaten er derfor mest et kortsiktig etterspørselssignal i den gamle forretningsmodellen. Den reelle oppsiden (og usikkerheten) ligger i om den nye, mer software og cloud tunge plattformen klarer å konvertere design-ins til høyere lifetime value per kunde. Det er det vi bør følge med på ikke om det er litt read-across fra én enkelt kundebeat.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 151,
-      "has_link": false
-    },
-    {
-      "key": "07d0882eb7bb8093",
-      "author": "Beginnerslucky",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
-      "posted_relative": "for 2 t siden",
-      "text": "Ja, men ikke NOD. Markedet åpnet kl.14.30 forresten.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 52,
+      "char_count": 871,
       "has_link": false
     }
   ]

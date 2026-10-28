@@ -1,23 +1,27 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-10-28T16:25:03.841617+00:00",
+  "scraped_at": "2026-10-28T21:29:50.273166+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "dddb430eb577a1aa",
-      "author": "VDH",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vdh",
-      "posted_relative": "for 18 min siden",
-      "text": "Moderna stiger, både i går og i dag 👏",
+      "key": "76dd6fe50ae76c89",
+      "author": "phd78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phd78",
+      "posted_relative": null,
+      "text": "24. okt. https://www.esmo.org/insights-by-esmo/all-news/personalised-cancer-vaccines-ready-for-prime-time Ikke direkte Nykode, men relevant og  kan være interessant lesing likevel",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 37,
-      "has_link": false
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.esmo.org/insights-by-esmo/all-news/personalised-cancer-vaccines-ready-for-prime-time"
+      ],
+      "char_count": 179,
+      "has_link": true
     }
   ]
 }

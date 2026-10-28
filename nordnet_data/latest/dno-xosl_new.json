@@ -1,37 +1,51 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-28T16:23:49.598838+00:00",
+  "scraped_at": "2026-10-28T21:28:36.017796+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "a407eeeeeb155e87",
-      "author": "AB1959",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ab1959",
-      "posted_relative": "for 10 min siden",
-      "text": "· Jeg tror de eksploderer i morgen med 15-20 % opp. Deretter er det fritt fram. Jeg dret meg ut med Moderna og solgte i +96 %. Gud om ikke de steg til 180 %. Ja, de fleste av dere husker det vel. Hold tømmene på hesten stramt i morgen, det kan bli guld eller dritt.",
+      "key": "a3f84a391f4cb196",
+      "author": "Grunnfjellet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/grunnfjellet",
+      "posted_relative": "for 3 t siden",
+      "text": "Gassprisen går jo 1-3% opp hver dag. Og DNO har 40% av oljeekvivalenter som gass i Nordsjøen.  Må jo bli enormt bra inntjening. Her er absolutt potensialet for kurser langt opp på 30 tallet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 190,
+      "has_link": false
+    },
+    {
+      "key": "ead0147e3eccfe5f",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 4 t siden",
+      "text": "Target ble nådd idag,  men var for opptatt med andre ting så ble ingen exit",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 265,
+      "char_count": 75,
       "has_link": false
     },
     {
-      "key": "0a1869b9fccf8763",
-      "author": "Prewia",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
-      "posted_relative": "for 39 min siden",
-      "text": "· Da er spørsmålet om man skulle solgt i dag, etter denne kraftige oppgangen, DNO har en historikk med å falle på rapportdager, selv om de har presteret bra, hva tror dere,",
+      "key": "7ecb5e466837d32c",
+      "author": "Amatørkongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
+      "posted_relative": "for 35 min siden",
+      "text": "Det suser og klinger med mer mynt i kassen enn noen gang",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 172,
+      "char_count": 56,
       "has_link": false
     }
   ]

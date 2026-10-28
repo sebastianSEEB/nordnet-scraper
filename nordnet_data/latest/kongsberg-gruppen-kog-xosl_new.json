@@ -1,114 +1,84 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-10-28T16:25:15.712377+00:00",
+  "scraped_at": "2026-10-28T21:30:02.036288+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 7,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "dc65b7ce200de39f",
-      "author": "Rasshaul",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rasshaul",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "mye virker trolig å være priset inn allerede, guiding, analytikerne, økt produksjon, ordrereserve osv. Det må nok noe stort til i morgen for at vi får oppgang, men det mest trolige blir ved negang tror jeg dessverre. så får man håpe nedgangen blir liten, kortvarig, etterfulgt av en fin rekyl:)",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 294,
-      "has_link": false
-    },
-    {
-      "key": "f0a4328681a77c70",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 2 t siden",
-      "text": "Skal jeg tippe så trur jeg fort kursen faller i morgen. Sentiment et er litt negativt rundt Kog. Resultat Blir super godt, men salgsprosess på aksjen. På lengre sikt vil kursen gå mye oppover.",
+      "key": "f698d469d25775a5",
+      "author": "LDA",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lda",
+      "posted_relative": "for 1 t siden",
+      "text": "https://inyheter.no/27/10/2026/kongsberg-gruppen-introduserer-nytt-mobilt-missilsystem-kan-pakkes-i-standard-fraktcontainer/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
-      "links": [],
-      "char_count": 192,
-      "has_link": false
-    },
-    {
-      "key": "bcb97c12b4b32cce",
-      "author": "carein",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carein",
-      "posted_relative": "for 5 t siden",
-      "text": "Det jeg ikke skjønner er at KOG har en markedsverdi på 265 mrd. NAS har en verdi på 12 mrd, og har bedre inntjening (EBIT) enn KOG vil få i 3. kv.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
+      "links": [
+        "https://inyheter.no/27/10/2026/kongsberg-gruppen-introduserer-nytt-mobilt-missilsystem-kan-pakkes-i-standard-fraktcontainer/"
       ],
-      "links": [],
-      "char_count": 146,
-      "has_link": false
+      "char_count": 124,
+      "has_link": true
     },
     {
-      "key": "5492cd2a699c3168",
-      "author": "Jadevadeja",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
-      "posted_relative": "for 3 t siden",
-      "text": "Saab og Thales slo forventningene for Q3, hvorfor skulle ikke Kongsberg gjøre det? Prøv å vær sakelig.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        10,
-        6
-      ],
-      "links": [],
-      "char_count": 102,
-      "has_link": false
-    },
-    {
-      "key": "a361da8022a20d83",
-      "author": "Stingray1965",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stingray1965",
-      "posted_relative": "for 2 t siden",
-      "text": "Omsetningen er nok høy men det blir marginen som blir spennende imorgen Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4,
-        6
-      ],
-      "links": [],
-      "char_count": 91,
-      "has_link": false
-    },
-    {
-      "key": "67bab8c46c7be8e6",
-      "author": "Motty",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/motty",
-      "posted_relative": "for 2 t siden",
-      "text": "Og Kog forventes å levere samme resultat som Saab i q3",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 54,
-      "has_link": false
-    },
-    {
-      "key": "05c7dffae03ef7c7",
-      "author": "solhaugtoppen999",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solhaugtoppen999",
+      "key": "2525aac2705f3f84",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
       "posted_relative": "for 1 t siden",
-      "text": "opp 3-4 % er min spådom",
+      "text": "Det blir bra tall, men det forventer markedet som nesten alltid er mer optemistisk enn det som er mulig å leve opp til. Konsekvensen blir at aksjen faller på kort sikt. Har like vel valgt å sitte stille. Har dårlig erfaring med å gå ut dagen før for å kjøpe meg inn igjen de nærmeste dagene. Denne gangen tror jeg imidlertid det kunne vært mulig å tjene 10-15 kr per aksje. Tiden vil vise.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 23,
+      "char_count": 389,
+      "has_link": false
+    },
+    {
+      "key": "69e99ca247d2ab57",
+      "author": "khai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/khai",
+      "posted_relative": "for 2 t siden",
+      "text": "Etter min vurdering ser alt bra ut. Det eneste virkelige spørsmålet – den avgjørende faktoren som driver en prisøkning – er om overskuddet er solid. Svaret kommer i morgen. Behold roen og hold fast.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 198,
+      "has_link": false
+    },
+    {
+      "key": "5678bee3757f0477",
+      "author": "Stingray1965",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stingray1965",
+      "posted_relative": "for 7 t siden",
+      "text": "Omsetningen er nok høy men det blir marginen som blir spennende imorgen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        8
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "743f471fec88da65",
+      "author": "mr. fixit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-fixit",
+      "posted_relative": "for 4 t siden",
+      "text": "· Tanker om morgendagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 24,
       "has_link": false
     }
   ]
