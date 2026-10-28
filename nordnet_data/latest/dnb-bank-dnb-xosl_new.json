@@ -1,9 +1,39 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-10-28T13:35:34.671125+00:00",
+  "scraped_at": "2026-10-28T16:25:11.759158+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fd0c24d36a220194",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Det lukter 330,- av DNB. Aksjen som går og går. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        2
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "07ee41b170f743f1",
+      "author": "No limits",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-limits",
+      "posted_relative": "for 10 min siden",
+      "text": "299 på salg til jul..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

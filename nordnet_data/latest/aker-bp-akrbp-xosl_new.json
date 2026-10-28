@@ -1,39 +1,37 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-28T13:35:42.641375+00:00",
+  "scraped_at": "2026-10-28T16:25:19.612745+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "e5daf2de1b06fb19",
-      "author": "InvestorNJ",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investornj",
-      "posted_relative": "for 1 t siden",
-      "text": "https://www.finansavisen.no/energi/2026/10/28/8391232/gassprisen-tikker-oppover-prises-inn-nye-angrep",
+      "key": "4a2fad448635ff84",
+      "author": "jessel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jessel",
+      "posted_relative": "for 9 min siden",
+      "text": "· Nei, alt avhenger av Trumps krig som vel setter i gang igjen neste uke etter valget.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "2305b4a0d5284ac6",
+      "author": "Ophon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
+      "posted_relative": "for 18 min siden",
+      "text": "Ja er vi spent på morgendagen 🤩?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [
-        "https://www.finansavisen.no/energi/2026/10/28/8391232/gassprisen-tikker-oppover-prises-inn-nye-angrep"
-      ],
-      "char_count": 101,
-      "has_link": true
-    },
-    {
-      "key": "b59f143ab22bd5ea",
-      "author": "V70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/v70",
-      "posted_relative": "for 1 t siden",
-      "text": "Jeg tror de tar feil hele gjengen og at de etter morgendagens outperform må rekalibrere Excel arkene sine",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
       "links": [],
-      "char_count": 105,
+      "char_count": 32,
       "has_link": false
     }
   ]

@@ -1,22 +1,40 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-10-28T13:37:35.902269+00:00",
+  "scraped_at": "2026-10-28T16:27:12.551704+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a51ae409d7cbff04",
-      "author": "Tesh",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesh",
-      "posted_relative": "for 2 t siden",
-      "text": "· Med Reprising menes hva? Oppjustering? Hva har den sen[este] NE som noen kommenterer med dette å gjøre? (Rimeligvis et separat spørsmål som også trenger en forklaring, er dette pga nye investeringer eller hva? Deres kontanttap er ikke så høye at en NE kreves rent visuelt på nermere sikt).",
+      "key": "0979af6085a40d49",
+      "author": "matste",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matste",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Synlig short redusert til 3,23% ACC. SHORT # 2 145 943 ACC. SHORT % 3,23% LATEST POSITION (DD.MM.YYYY) 27.10.2026",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        1
+      ],
       "links": [],
-      "char_count": 291,
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "e23912f498589507",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 50 min siden",
+      "text": "Nydelig!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 8,
       "has_link": false
     }
   ]
