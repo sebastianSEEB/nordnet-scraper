@@ -1,9 +1,40 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-10-28T03:01:45.029767+00:00",
+  "scraped_at": "2026-10-28T09:16:40.505730+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f9284bfb0a88f374",
+      "author": "KjetilT",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjetilt",
+      "posted_relative": "for 1 t siden",
+      "text": "Er det lurest å sitte stille i båten, eller kjøpe nå når det er lavt? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    },
+    {
+      "key": "4a59f2061fcf073b",
+      "author": "Benja016",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benja016",
+      "posted_relative": "for 33 min siden",
+      "text": "kjøpte akkurat for en god slump, ser for meg en fin utvikling utover høsten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    }
+  ]
 }

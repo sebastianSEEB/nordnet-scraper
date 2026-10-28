@@ -1,9 +1,57 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-28T02:56:26.723884+00:00",
+  "scraped_at": "2026-10-28T09:11:14.117431+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b4c964f66463eb8b",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "Oslo (Infront TDN Direkt): Det ble rapportert elleve VLCC-slutninger tirsdag, ifølge en slutningsliste fra Fearnleys. Fraktraten fra Vest-Afrika til Kina lå på 580,63 worldscalepoeng (WS), opp 3,3 prosent fra forrige slutningsrapport. Seks av slutningene er med last fra Fujairah, hvorav fem går til Østen og én til Thailand. Tre av slutningene er med last fra Brasil til Østen og Kina, én er fra Vest-Afrika til Kina og én er fra PTP til Kina. Verden var ikke tom for olje i går. Masse supply.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        4
+      ],
+      "links": [],
+      "char_count": 494,
+      "has_link": false
+    },
+    {
+      "key": "9470a31c6c33e9eb",
+      "author": "TBone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tbone",
+      "posted_relative": "for 30 min siden",
+      "text": "For hver uke med disse ratene genereres 1USD i utbytte",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "002cfe119fb5ccca",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 2 t siden",
+      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

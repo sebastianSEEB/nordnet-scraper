@@ -1,9 +1,23 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-10-28T02:59:59.994888+00:00",
+  "scraped_at": "2026-10-28T09:14:53.127567+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ce819e884798bf09",
+      "author": "Bømlo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bmlo",
+      "posted_relative": "for 43 min siden",
+      "text": "114 stk. Solgt på 30 min. Jeg skal sitte med mine men........",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

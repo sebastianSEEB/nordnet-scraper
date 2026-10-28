@@ -1,9 +1,40 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-28T03:03:02.201466+00:00",
+  "scraped_at": "2026-10-28T09:17:59.014813+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ec45ed8fec7d89a3",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "Som forventet. Ingen overraskelser. Eksekuterer etter planen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "b697480cff832f94",
+      "author": "naidra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/naidra",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva tenker folk om rapporten i morgen ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-28T03:00:42.842286+00:00",
+  "scraped_at": "2026-10-28T09:15:36.739775+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "291149583aa58eee",
+      "author": "Larsen132",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsen132",
+      "posted_relative": "for 27 min siden",
+      "text": "· 😂😂den har vi hørt før. Men var det ikke 70-80 da??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "bbefa8ed63a816d9",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Nytt kursmål er 60 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

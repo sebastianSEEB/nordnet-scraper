@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-10-28T03:02:04.394891+00:00",
+  "scraped_at": "2026-10-28T09:17:00.659489+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c4ad010626f49a5a",
+      "author": "elzetion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elzetion",
+      "posted_relative": null,
+      "text": "24. okt. Takk for info..   sko hatt meir penger eg au.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

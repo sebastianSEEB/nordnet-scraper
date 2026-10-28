@@ -1,9 +1,56 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-28T03:03:48.290948+00:00",
+  "scraped_at": "2026-10-28T09:18:46.071072+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ecf32faee2453f7b",
+      "author": "bartS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barts",
+      "posted_relative": "for 1 t siden",
+      "text": "· \"The company also said it is working with an unnamed CDMO to lock down drug product production alongside the new Andover facility, which will need to be fitted out and qualified by regulators.\"  Kjenner ikke forkortelsen CDMO.. nevnt i artikkelen... Kan den mon tro 'erstattes' 1:1 med THOR  :-?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 297,
+      "has_link": false
+    },
+    {
+      "key": "ead177659b760f9f",
+      "author": "Stupfull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stupfull",
+      "posted_relative": "for 3 t siden",
+      "text": "De store langsiktige kjøper mer. Godt tegn 😊 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        17,
+        2
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "1155d3e0f904506a",
+      "author": "Stupfull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stupfull",
+      "posted_relative": "for 44 min siden",
+      "text": "I nyhetsfeeden under aksjonærendringer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

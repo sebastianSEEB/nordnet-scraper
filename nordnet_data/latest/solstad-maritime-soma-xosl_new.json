@@ -1,9 +1,27 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-28T03:02:11.910238+00:00",
+  "scraped_at": "2026-10-28T09:17:08.476135+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4e15c1ceecdf6d5d",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/10/28/8390697/borsraset-i-brasil-venter-opptur-for-norske-redere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/28/8390697/borsraset-i-brasil-venter-opptur-for-norske-redere"
+      ],
+      "char_count": 104,
+      "has_link": true
+    }
+  ]
 }

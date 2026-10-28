@@ -1,9 +1,96 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-10-28T02:58:12.280187+00:00",
+  "scraped_at": "2026-10-28T09:13:02.150003+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "df08f6a4f1fd0bc3",
+      "author": "Senthil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/senthil",
+      "posted_relative": "for 10 min siden",
+      "text": "· vi bruker trading view, men vi har massevis av egendefinerte skript som kjører i bakgrunnen og oppdaterer kjøps- og salgssignalet. vi følger bare det chartet sier.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 165,
+      "has_link": false
+    },
+    {
+      "key": "5e884aa2c52e12b0",
+      "author": "gribbern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gribbern",
+      "posted_relative": "for 59 min siden",
+      "text": "Mye av utsiktene tror jeg priset inn allrede i de fleste  forsvarsaksjer per i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "2b9a8b8e70e19fad",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 31 min siden",
+      "text": "Ser ut som den slipper opp nå og kommer tilbake på nivået den hører hjemme",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "d65304d24c13c0c0",
+      "author": "Senthil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/senthil",
+      "posted_relative": "for 27 min siden",
+      "text": "· Grafen ser veldig bra ut. dobbel kjøp. Noen laster opp en hel del",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        4
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "ae0d58b986356ad8",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 52 min siden",
+      "text": "Varner-brødrene har kjøpt med begge hendene etter Q3-presentasjonen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        4
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "56628ca6bd965e6d",
+      "author": "Just_4_Fun",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/just_4_fun",
+      "posted_relative": "for 54 min siden",
+      "text": "Anser Varners kjøp som positive;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,84 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-28T03:00:16.032840+00:00",
+  "scraped_at": "2026-10-28T09:15:08.893323+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "dc2675a84a471dc3",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 50 min siden",
+      "text": "· SEB hever kursmålet for Salmar til 675 norske kroner (645), gjentar kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "7be188934668bb76",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 1 t siden",
+      "text": "Kilopriser opp 2,7% og eksport opp 3%.  Meget gode tall!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "ea5ca8cd2ee4fdff",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 51 min siden",
+      "text": "SEB gjentar Kjøp, øker kursmål til 675 kr (645)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "cc915db56ebf49a0",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er ganske bra med en sterk krone!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "d8ad58ec78d46e83",
+      "author": "PH1223",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ph1223",
+      "posted_relative": "for 55 min siden · Endret",
+      "text": "EKSPORTPRISEN VAR 76 KR UKE 43",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

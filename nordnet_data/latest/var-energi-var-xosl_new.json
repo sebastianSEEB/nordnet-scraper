@@ -1,9 +1,86 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-28T03:01:52.791067+00:00",
+  "scraped_at": "2026-10-28T09:16:48.373172+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "78c22fb4fdeb2226",
+      "author": "Reuters",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reuters",
+      "posted_relative": "for 1 t siden",
+      "text": "Atter en gang vises feil oljepris her. Riktig oljepris kan man se her: https://tradingeconomics.com/commodity/brent-crude-oil",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://tradingeconomics.com/commodity/brent-crude-oil"
+      ],
+      "char_count": 125,
+      "has_link": true
+    },
+    {
+      "key": "1f05caa3e998f7cc",
+      "author": "MarketScout",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marketscout",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Fin bevegelse i oljeprisen før åpning i dag. Noen punkter jeg mener er verdt å ha med i vurderingen av Vår Energi: Oljeprisen: Brent har igjen vært over 115 dollar fatet, drevet blant annet av uro rundt forsyningssikkerheten i Midtøsten. Det kan gi støtte til inntjeningen, men geopolitisk risikopremie kan også forsvinne raskt. Produksjonskostnader: Vår Energis estimat for 2026 ligger rundt 10,9 dollar per fat oljeekvivalent. Det gir et interessant kostnadsutgangspunkt, selv om kontantstrømmen også påvirkes av skatt, investeringer og realiserte priser. Analytikernes kursmål: Goldman Sachs har vært omtalt med kursmål på 70 kroner, mens andre meglerhus ligger lavere. Kursmål er vurderinger, ikke fasit, og spennet viser at det fortsatt er betydelig usikkerhet. Ingen grunn til å hausse opp aksjen. Jeg synes likevel kombinasjonen av oljepris, kostnadsnivå og utbytte er verdt å følge med på. Så får markedet vise hvordan det verdsetter dette videre.  Blir en spennede dag.!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 980,
+      "has_link": false
+    },
+    {
+      "key": "65982cc1ce149d02",
+      "author": "Coinflipper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coinflipper",
+      "posted_relative": "for 1 t siden",
+      "text": "Ulike futures. Det finnes ikke en \"riktig\" oljepris... Kommer an på hvilke futures utsteder benytter. Dated Brent som er den fysiske oljen handles også langt over hva tradingeconomics viser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 190,
+      "has_link": false
+    },
+    {
+      "key": "888e27a38e006854",
+      "author": "Reuters",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reuters",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvis du klikker på \"Utbytte\" under \"Selskapshendelser\" så får du svaret.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "205cde4061ae0a37",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": "for 1 t siden",
+      "text": "· Får man kvartalsvis utbytte fra vår ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

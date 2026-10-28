@@ -1,9 +1,55 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-28T03:00:08.388545+00:00",
+  "scraped_at": "2026-10-28T09:15:00.992269+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2f8cf53dd376f965",
+      "author": "Amatørkongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
+      "posted_relative": "for 2 t siden",
+      "text": "Man burde ikke forvente noe økning i utbytte har jeg sagt. DNO har ikke hatt en strategi med å utbetale utbytte basert på overskudd slik som f.eks Vår gjør. De har pleid å vurdere dette årlig.  Gode sjanser for at DNO fortsetter med nåværende utbytte frem til neste år og evt vedtar en økning/ekstraordinært utbytte på GF for 2027.  Tiden gir fasit, avkastningen forsvinner ikke så lenge selskapet ikke sløser det vekk, men det har dem heller ikke pleid å gjøre :)",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 464,
+      "has_link": false
+    },
+    {
+      "key": "741cddb177693725",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 5 min siden",
+      "text": "Leste akkurat at gassprisen nå er rekordhøy- lyder bra for Q4 !!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "64c8bba29de38757",
+      "author": "Cop",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cop",
+      "posted_relative": "for 1 t siden",
+      "text": "Equinor tjener rått imorgen kommer DNO like sterkt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }
