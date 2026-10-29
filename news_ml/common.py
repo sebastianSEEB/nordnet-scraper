@@ -49,8 +49,10 @@ KIND_RULES = [
                r"\bkvartal|interim report|half[- ]year|halvår|annual report|årsrapport|"
                r"quarterly (results|report)|(q[1-4]|h[12]) 20\d\d"),
     ("guidance", r"guidance|outlook|profit warning|resultatvarsel|trading update|preliminary"),
-    ("contract", r"contract|kontrakt|award|tildel|order\b|ordre|letter of intent|\bloi\b|framework agreement|"
-                 r"rammeavtale|charter|befraktning|time ?charter|secures|signs|signed|selected|wins"),
+    ("contract", r"contract|kontrakt|award|tildel|\borders?\b|\bordered\b|ordre|bestill|letter of intent|\bloi\b|"
+                 r"framework agreement|rammeavtale|supply agreement|delivery agreement|leveranse|leverings?avtale|"
+                 r"kjøper .{0,50} fra|purchases? .{0,50} from|charter|befraktning|time ?charter|secures|frame agreement|"
+                 r"selected|selects|velger|chooses|wins|skal levere|will deliver|to deliver"),
     ("mna", r"acqui|oppkjøp|merger|fusjon|takeover|tender offer|bud på|voluntary offer|mandatory offer|"
             r"strategic review|divest"),
     ("dividend", r"dividend|utbytte|ex[- ]date"),

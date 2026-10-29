@@ -204,7 +204,10 @@ def main():
             time.sleep(args.sleep)
 
     # 3) Meldingstekst for de typene modellen leser (nyeste først)
-    need_body = [r for r in rows.values() if r.get("kind") in BODY_KINDS and "body" not in r]
+    for r in rows.values():  # nyeste klassifiseringsregler
+        r["kind"] = classify(r["title"], r["category"])
+    need_body = [r for r in rows.values() if "body" not in r and (
+        r.get("kind") in BODY_KINDS or (r.get("kind") == "other" and "INSIDE INFORMATION" in r.get("category", "").upper()))]
     need_body.sort(key=lambda r: r.get("published") or "", reverse=True)
     bodies = 0
     for r in need_body:
@@ -235,7 +238,7 @@ def main():
         "days_planned": len(days), "days_fetched": fetched_days, "days_done_total": len(done),
         "max_messages_one_day_all_issuers": max_per_day,
         "new_messages": new_msgs, "total_messages": len(rows), "bodies_fetched": bodies,
-        "bodies_missing": sum(1 for r in rows.values() if r.get("kind") in BODY_KINDS and "body" not in r),
+        "bodies_missing": len(need_body) - bodies,
         "by_kind": kinds,
         "issuers_with_news": len({r["issuer"] for r in rows.values()}),
     })

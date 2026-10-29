@@ -137,7 +137,15 @@ def load_news(universe, cal):
     issuer_to_ticker = {u["issuer"]: u["ticker"] for u in universe}
     df["ticker"] = df["issuer"].map(issuer_to_ticker)
     df = df.dropna(subset=["ticker", "published"])
-    df["kind"] = [classify(t or "", c or "") for t, c in zip(df["title"], df["category"])]  # alltid nyeste regler
+    if "body" not in df:
+        df["body"] = None
+    df["body"] = df["body"].fillna("")
+    # alltid nyeste regler; uklare meldinger klassifiseres med starten av meldingsteksten
+    df["kind"] = [classify(t or "", c or "") for t, c in zip(df["title"], df["category"])]
+    unclear = (df["kind"] == "other") & (df["body"].str.len() > 0)
+    df.loc[unclear, "kind"] = [classify((t or "") + " " + b[:400], c or "")
+                               for t, b, c in zip(df.loc[unclear, "title"], df.loc[unclear, "body"],
+                                                  df.loc[unclear, "category"])]
     ts = pd.to_datetime(df["published"], utc=True, errors="coerce")
     df = df[ts.notna()].copy()
     local = ts[ts.notna()].dt.tz_convert(OSLO)
@@ -150,11 +158,20 @@ def load_news(universe, cal):
     df["sday_idx"] = pos
     df = df[df["sday_idx"] < len(cal)].copy()
     df["sday"] = cal[df["sday_idx"].to_numpy()]
-    text = df["title"].fillna("") + "\n" + df.get("body", pd.Series("", index=df.index)).fillna("")
-    df["amount"] = [parse_amount_nok(t) if k == "contract" else None for t, k in zip(text, df["kind"])]
-    df["ins_dir"] = [insider_direction(t) if k == "insider" else 0 for t, k in zip(text, df["kind"])]
+    # beløp: tittelen først, ellers starten av teksten (ikke "Om selskapet"-boilerplate med omsetning)
+    df["amount"] = [(parse_amount_nok(t) or parse_amount_nok(b[:500])) if k == "contract" else None
+                    for t, b, k in zip(df["title"].fillna(""), df["body"], df["kind"])]
+    df["ins_dir"] = [insider_direction(t + "\n" + b) if k == "insider" else 0
+                     for t, b, k in zip(df["title"].fillna(""), df["body"], df["kind"])]
     df["published"] = local.dt.strftime("%Y-%m-%d %H:%M")
-    return df[["ticker", "sday", "kind", "title", "amount", "ins_dir", "published"]]
+    df = df[["ticker", "sday", "kind", "title", "amount", "ins_dir", "published"]]
+    # norsk + engelsk versjon og korrigeringer er samme nyhet: én per aksje, dag og type
+    df = (df.sort_values("published")
+            .groupby(["ticker", "sday", "kind"], as_index=False)
+            .agg(title=("title", "first"), amount=("amount", "max"), ins_dir=("ins_dir", "sum"),
+                 published=("published", "first")))
+    df["ins_dir"] = np.sign(df["ins_dir"]).astype(int)
+    return df
 
 
 # =============================================================== features
