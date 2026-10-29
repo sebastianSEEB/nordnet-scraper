@@ -130,6 +130,7 @@ ul.rules{margin:8px 0 0;padding-left:18px;display:grid;gap:4px;color:var(--muted
       <label class="hint" for="pick">Velg aksje <select id="pick"></select></label>
     </div>
     <p class="hint">Kurs (linje) og modellens sannsynlighet (stolper, ut-av-utvalget). Prikker er børsmeldinger: kobber = kontrakt, blå = innsidehandel, mørk = kvartalsrapport.</p>
+    <p class="verdict" id="case-note" hidden></p>
     <svg class="chart" id="stock" viewBox="0 0 900 300" role="img" aria-label="Kurs og modellscore for valgt aksje"></svg>
     <div class="events" id="events"></div>
   </section>
@@ -292,6 +293,13 @@ $('kpis').innerHTML = kpis.map(([k, v, s, c]) => `<div class="kpi"><span class="
     h.d.forEach((d, i) => { const m = d.slice(0, 7); if (m !== lastM) { if (i > 0 && +d.slice(5, 7) % 2 === 1) el('text', {x: x(i), y: Ht - 8, 'text-anchor': 'middle'}, svg, ['jan', 'feb', 'mar', 'apr', 'mai', 'jun', 'jul', 'aug', 'sep', 'okt', 'nov', 'des'][+d.slice(5, 7) - 1]); lastM = m; } });
     const idx = Object.fromEntries(h.d.map((d, i) => [d, i])), col = {contract: 'var(--copper)', insider: 'var(--accent)', report: 'var(--ink)'};
     h.ev.forEach(e => { const i = idx[e.d]; if (i == null || !col[e.k]) return; const c = el('circle', {cx: x(i), cy: y(h.c[i]), r: 4.5, fill: col[e.k], stroke: 'var(--surface)', 'stroke-width': 1.5}, svg); el('title', {}, c, `${e.d} · ${e.t}`); });
+    const note = $('case-note'), last20 = h.p.slice(-20), over = last20.filter(p => p >= thr).length;
+    if (n >= 20) {
+      const mx = Math.max(...last20), mxi = h.p.length - 20 + last20.indexOf(mx);
+      note.hidden = false;
+      note.textContent = `Siste 20 handelsdager: over ${pctU(thr, 0)} på ${over} av 20 dager, høyest ${pctU(mx, 0)} (${fmtD(h.d[mxi])}). ` +
+        (over ? 'Modellen ville bare kjøpt hvis aksjen også var blant dagens 3 høyeste.' : 'Modellen ga ikke kjøpssignal i perioden.');
+    } else note.hidden = true;
     const label = {contract: 'Kontrakt', insider: 'Innside', report: 'Rapport', mna: 'Oppkjøp', guidance: 'Guiding', buyback: 'Tilbakekjøp', financing: 'Emisjon'};
     const evs = h.ev.slice().reverse();
     $('events').innerHTML = evs.length ? evs.map(e => `<div class="ev"><span class="d">${fmtD(e.d)}</span><span class="t"><span class="kind k-${e.k}">${label[e.k] || e.k}${e.k === 'insider' && e.dir ? (e.dir > 0 ? ' kjøp' : ' salg') : ''}</span>${esc(e.t)}${e.amt ? ` <span class="num">≈ ${nf.format(e.amt / 1e6)} MNOK</span>` : ''}</span></div>`).join('') : '<p class="empty">Ingen relevante børsmeldinger i perioden.</p>';
