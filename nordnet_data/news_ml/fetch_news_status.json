@@ -1,0 +1,31 @@
+{
+  "started": "2026-10-29T23:04:15.147265+00:00",
+  "errors": [],
+  "issuers_wanted": 120,
+  "probe_ok": true,
+  "probe_sample": "{'header': {'OB_REQUEST_ID': '2eec64dd-b41f-4305-b8bd-7737dbb5bd2a', 'result.val': 0, 'http.code': 200, 'result.text': 'OK'}, 'data': {'messages': [{'id': 685035, 'messageId': 685035, 'newsId': 637660, 'title': 'SFL - Invitation to Presentation of Q3 2026 Results', 'category': [{'id': 1010, 'category_no': 'ANNEN INFORMASJONSPLIKTIG REGULATORISK INFORMASJON', 'category_en': 'ADDITIONAL REGULATED INFORMATION REQUIRED TO BE DISCLOSED UNDER THE LAWS OF A MEMBER STATE'}], 'markets': ['XOSL'], 'issuerId': 11225, 'correctionForMessageId': 0, 'correctedByMessageId': 0, 'issuerSign': 'SFLN', 'issuerNam",
+  "bodies_stopped_early": true,
+  "finished": "2026-10-29T23:49:15.670814+00:00",
+  "minutes": 45.0,
+  "days_planned": 1782,
+  "days_fetched": 1782,
+  "days_done_total": 1778,
+  "max_messages_one_day_all_issuers": 322,
+  "new_messages": 50849,
+  "total_messages": 50849,
+  "bodies_fetched": 5070,
+  "bodies_missing": 13433,
+  "by_kind": {
+    "insider": 5381,
+    "other": 23515,
+    "financing": 1627,
+    "calendar": 4588,
+    "report": 5707,
+    "buyback": 3714,
+    "mna": 1238,
+    "guidance": 345,
+    "contract": 2118,
+    "dividend": 2616
+  },
+  "issuers_with_news": 119
+}

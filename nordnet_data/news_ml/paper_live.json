@@ -1,0 +1,33 @@
+{
+ "started": "2026-10-28",
+ "cash": 100000.0,
+ "positions": [],
+ "pending": [
+  {
+   "ticker": "B2I.OL",
+   "signal_date": "2026-10-28",
+   "alloc": 12500.0,
+   "p": 0.607691
+  },
+  {
+   "ticker": "AKRBP.OL",
+   "signal_date": "2026-10-28",
+   "alloc": 12500.0,
+   "p": 0.602853
+  },
+  {
+   "ticker": "BNOR.OL",
+   "signal_date": "2026-10-28",
+   "alloc": 12500.0,
+   "p": 0.586232
+  }
+ ],
+ "closed": [],
+ "equity": [
+  {
+   "date": "2026-10-28",
+   "equity": 100000.0
+  }
+ ],
+ "last_date": "2026-10-28"
+}
