@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-29T19:56:54.835037+00:00",
+  "scraped_at": "2026-10-29T23:44:32.433496+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7e20fcbc40d35361",
+      "author": "BerntOlav",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/berntolav",
+      "posted_relative": null,
+      "text": "25. okt. Tror du la ut feil X/link står ikke noe om det i den som kom opp her.. Greie rater i det siste, ingen amoritisering i 2 år og forhåpentligvis første trade før rakettene smeller 31 desember gjør loddet her blir i lommen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 227,
+      "has_link": false
+    }
+  ]
 }

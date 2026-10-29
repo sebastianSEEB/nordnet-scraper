@@ -1,9 +1,23 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-10-29T20:02:28.972678+00:00",
+  "scraped_at": "2026-10-29T23:50:09.692292+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7ee61308e3442dd8",
+      "author": "hanjiando",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanjiando",
+      "posted_relative": "for 3 t siden",
+      "text": "· Tall",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

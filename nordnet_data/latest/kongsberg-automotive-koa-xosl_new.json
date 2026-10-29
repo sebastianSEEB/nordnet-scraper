@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-10-29T20:04:21.960316+00:00",
+  "scraped_at": "2026-10-29T23:52:03.070128+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "eb139f56d78e48fc",
+      "author": "aksjepugeren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjepugeren",
+      "posted_relative": "for 3 t siden",
+      "text": "La oss glede oss over en sakte, men sikker oppgang i ukene som kommer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

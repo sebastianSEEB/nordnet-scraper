@@ -1,9 +1,41 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-10-29T19:56:46.233366+00:00",
+  "scraped_at": "2026-10-29T23:44:24.121388+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a2e4ae7bc96792c2",
+      "author": "Gordon Gekko5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Bare sånn til de som er interessert. Hvis SNI skulle trade på samme multippel som ODF, skulle den trade på 420. ODF 1,0xbok, SNI 0,8. SOTP SNI = 560 (Claud). Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    },
+    {
+      "key": "52c00f792bee42bd",
+      "author": "sleip-pedal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sleip-pedal",
+      "posted_relative": "for 2 t siden",
+      "text": "· Den kommer👍🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }
