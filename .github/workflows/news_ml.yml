@@ -1,0 +1,56 @@
+name: Nyhets-ML paper trading
+
+on:
+  schedule:
+    # Hverdager etter børsslutt. 15:50 UTC = 16:50 vintertid / 17:50 sommertid.
+    - cron: '50 15 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      news_minutes:
+        description: 'Maks minutter til å hente børsmeldinger (første kjøring henter historikk fra 2020)'
+        default: '45'
+        required: false
+
+concurrency:
+  group: news-ml
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer avhengigheter
+        run: pip install -r news_ml/requirements.txt
+
+      - name: Hent kurser (Yahoo Finance, fra 2019)
+        run: python news_ml/fetch_prices_long.py
+
+      - name: Hent børsmeldinger (Newsweb, inkrementelt)
+        continue-on-error: true
+        run: python news_ml/fetch_news.py --max-minutes "${{ github.event.inputs.news_minutes || '20' }}"
+
+      - name: Modell, backtest og paper trading
+        run: python news_ml/model_backtest.py
+
+      - name: Commit resultater
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nordnet_data/news nordnet_data/news_ml 2>/dev/null || true
+          git diff --staged --quiet && exit 0
+          git commit -m "Nyhets-ML $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase && git push && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
