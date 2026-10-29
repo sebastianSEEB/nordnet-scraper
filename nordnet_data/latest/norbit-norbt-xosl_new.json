@@ -1,9 +1,25 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-29T14:46:30.108099+00:00",
+  "scraped_at": "2026-10-29T19:58:44.657204+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cb251774363f5530",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Kan begynne å likne på et teknisk brudd opp. Får vi close over MA100 på 167.3 så er det jo et potensielt positivt teknisk signal 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-10-29T14:48:35.647512+00:00",
+  "scraped_at": "2026-10-29T20:00:54.768281+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dafa33cce4a87062",
+      "author": "Horisont35",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/horisont35",
+      "posted_relative": "for 1 t siden",
+      "text": "Saugbrugs er en svært godt egnet tomt for et datasenter. Her kan eksisterende industriområde, krafttilknytning og infrastruktur brukes til å tiltrekke nye investeringer og skape framtidsrettet verdiskaping i Halden – samtidig som presset på urørt natur andre steder i landet reduseres. Motstanden mot datasentre vi ser andre steder vil på mange måter ikke være gjeldene for planene til NS.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 389,
+      "has_link": false
+    }
+  ]
 }

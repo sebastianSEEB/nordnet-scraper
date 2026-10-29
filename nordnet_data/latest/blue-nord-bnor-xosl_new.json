@@ -1,22 +1,24 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-29T14:45:44.640643+00:00",
+  "scraped_at": "2026-10-29T19:57:57.272900+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "376b02369c2e4fd0",
-      "author": "jae",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jae",
-      "posted_relative": "for 50 min siden",
-      "text": "Jeg har prøvd å følge med i dette forumet. Har en del aksjer i både Bluenor og Vår, sånn halvparten i hver. Mattematikken i det folk skriver,  blir litt vanskelig for meg, så jeg spør: Er det lurt å sitte med begge til etter fusjonen og ta det derfra?",
+      "key": "ecd0b1beaa130b86",
+      "author": "Gnx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnx",
+      "posted_relative": "for 2 t siden",
+      "text": "Kjøpte du BN på dagens sluttkurser ville du tjent ca 16 kr per BN aksje om fusjonen skjedde i morgen og du etterpå solgte alle dine nyervervede Vår aksjer til dagens sluttkurs. Dette blir imidlertid helt hypotetisk siden fusjonen ligger minst 2 mnd fram i tid. Hvis du derimot velger å bli sittende med dine BN aksjer vil markedet sannsynligvis sørge for at dagens «skjevhet» på ca 16 kr blir utlignet når fusjonsdatoen nærmer seg.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 251,
+      "char_count": 431,
       "has_link": false
     }
   ]

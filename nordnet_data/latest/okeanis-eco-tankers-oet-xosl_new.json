@@ -1,9 +1,40 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-29T14:44:29.139962+00:00",
+  "scraped_at": "2026-10-29T19:56:37.815819+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "96161d2e256b14a5",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 3 t siden",
+      "text": "https://x.com/PotenTankers/status/2115836485144293823 AG siger oppover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/PotenTankers/status/2115836485144293823"
+      ],
+      "char_count": 71,
+      "has_link": true
+    },
+    {
+      "key": "848ba239d122a46e",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 4 t siden",
+      "text": "ECO har bikket gammel ATH i US. Så får vi se om den klarer å close over gammel der borte. Jeg solgte litt OET i dag for å kjøpe en dramatisk dip i en annen aksje jeg har tro på. Noe som selvsagt forklarer det plutselige spranget mot 950 rett etterpå ;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 252,
+      "has_link": false
+    }
+  ]
 }

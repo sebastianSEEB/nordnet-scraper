@@ -1,52 +1,37 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-29T14:44:52.554236+00:00",
+  "scraped_at": "2026-10-29T19:57:02.621139+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "bc29112493d83405",
-      "author": "Reder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reder",
-      "posted_relative": "for 11 min siden",
-      "text": "https://www.dn.no/borskommentar/tidenes-arbitrasjemulighet-atte-milliarder/2-1-2066164",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://www.dn.no/borskommentar/tidenes-arbitrasjemulighet-atte-milliarder/2-1-2066164"
-      ],
-      "char_count": 86,
-      "has_link": true
-    },
-    {
-      "key": "4a229c04d78e7bc9",
-      "author": "Reder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reder",
-      "posted_relative": "for 10 min siden",
-      "text": "Viktig at folk forstår hva de gjør, eller rettere sagt ikke bør gjøre; kjøp ikke aksjer her!!",
+      "key": "8a41755b8dc54f31",
+      "author": "Lars Karlsson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lars-karlsson",
+      "posted_relative": "for 5 min siden",
+      "text": "Blir tilgjengelig på Oslo Børs om cirka en måned",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 93,
+      "char_count": 48,
       "has_link": false
     },
     {
-      "key": "b5fd583aa366b636",
-      "author": "Allrounder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
-      "posted_relative": "for 50 min siden",
-      "text": "Hva er greia med denne? Hopper jo utrolig mye fram og tilbake daglig",
+      "key": "3ac6c248a1a87c27",
+      "author": "Potetgull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/potetgull",
+      "posted_relative": "for 6 t siden",
+      "text": "tror vi denne går opp?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        4
+      ],
       "links": [],
-      "char_count": 68,
+      "char_count": 22,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-10-29T14:45:40.914391+00:00",
+  "scraped_at": "2026-10-29T19:57:53.024461+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9e0066d738bc49b2",
+      "author": "Chinchilling",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chinchilling",
+      "posted_relative": "for 5 t siden",
+      "text": "Very valuable info, takk!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

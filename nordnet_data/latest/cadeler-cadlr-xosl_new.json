@@ -1,9 +1,41 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-29T14:47:11.279925+00:00",
+  "scraped_at": "2026-10-29T19:59:28.515094+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "85d1a19c0d0ad953",
+      "author": "Syb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syb",
+      "posted_relative": "for 3 t siden",
+      "text": "· Tvangsinnløsning. Men du kan også gjøre deg den umaken å lese litt tilbake i denne tråden. Det er skrevet og opplyst massivt om akkurat det spørsmålet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "04936e9b313cf085",
+      "author": "Najdorf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/najdorf",
+      "posted_relative": "for 3 t siden",
+      "text": "Kan noen forklare hva som skjer med Cadeler-aksjene for dem av oss som sitter stille i båten og ikke gjør noe som helst?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    }
+  ]
 }

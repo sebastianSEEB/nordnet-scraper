@@ -1,66 +1,37 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-29T14:48:12.361912+00:00",
+  "scraped_at": "2026-10-29T20:00:31.490453+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "87d30df5bf9a1852",
-      "author": "Blekmenfattet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blekmenfattet",
-      "posted_relative": "for 33 min siden",
-      "text": "Mange utsatte oppdrag grunnet eventyrrater i shipping vil nok påvirke resultatet noe, men dette er ikke tapte penger- bare utsatt arbeid. Om de leverer «ok» bunnlinje ( litt under forcast ) ser backlog + nyvunnede kontrakter lovende ut for fremtiden. Tenker at det er det som da vil trigge en oppgang.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 301,
-      "has_link": false
-    },
-    {
-      "key": "559981d00870404e",
+      "key": "f53b1213b579741c",
       "author": "neeskens",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 6 min siden",
-      "text": "Tror KMAR vil levere ok, men samtidig guide kanon fremfor. Kan få en dipp i morgen pga momentum trading osv. Det blir i så fall en god kjøpsmulighet for de som investerer over tid",
+      "posted_relative": "for 1 t siden",
+      "text": "Det var vel DnB kundene som solgte 1.7m i aksjer i dag. Kr 58 er jo over kursmålet deres og de har jo en slags anbefaling på selskapet. Ja ja.",
       "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 142,
+      "has_link": false
+    },
+    {
+      "key": "66f95b2d1a819202",
+      "author": "TexasTS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texasts",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Er det noen som har sagt at det alltid er lurt å selge før tall?",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 179,
-      "has_link": false
-    },
-    {
-      "key": "d46312f8d69f35e2",
-      "author": "Artur5",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/artur5",
-      "posted_relative": "for 1 t siden",
-      "text": "Jeg ville ikke vært veldig overasket, at kursen havner rundt 50 i morgen.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        13
-      ],
-      "links": [],
-      "char_count": 73,
-      "has_link": false
-    },
-    {
-      "key": "68f669146dea6697",
-      "author": "Nerevs",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nerevs",
-      "posted_relative": "for 11 min siden",
-      "text": "Tenker det blir som med KOG. Tilbakekjøpsprogam av aksjer for ansatte.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 70,
+      "char_count": 64,
       "has_link": false
     }
   ]
