@@ -1,9 +1,25 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-28T21:27:40.777626+00:00",
+  "scraped_at": "2026-10-29T01:24:25.460902+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bd78742019f26304",
+      "author": "Skurkeball",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skurkeball",
+      "posted_relative": "for 2 t siden",
+      "text": "Har vært masse off book i lang tid :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }
