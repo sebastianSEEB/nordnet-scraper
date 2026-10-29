@@ -1,22 +1,69 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-29T13:45:13.669214+00:00",
+  "scraped_at": "2026-10-29T14:48:04.840810+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "21e67b5e3eb87b45",
-      "author": "Youngthug money",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/youngthug-money",
-      "posted_relative": "for 38 min siden",
-      "text": "17kr før tallslipp?",
+      "key": "4d18c20e5fce7150",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 44 min siden",
+      "text": "· https://amazon.jobs/en/jobs/10583091/controls-integration-engineer-one-mhs-systems-integration-and-flow \"Viktige ansvarsområder AutoStore-spesifikke idriftsettelsesoppgaver: Idriftsett og valider AutoStore-gitterinfrastruktur, robotflåteinitialisering, portkonfigurasjoner og ladesystemer Feilsøk robotnavigasjonsfeil, kassehåndteringsfeil og portgjennomstrømningsproblemer Analyser systemlogger, datasett og diagnostiske utdata for å identifisere trender, avvik og grunnårsaken til systemfeil Overvåk og optimaliser systemytelsen ved hjelp av diagnostiske verktøy (PowerBI, Databricks, AutoStore controller software) Støtt gittermodifikasjoner, utvidelsesprosjekter og fastvare-/programvareoppgraderinger Utfør avansert årsaksanalyse på systemfeil og ytelsesavvik Valider ende-til-ende-materialflyt fra AutoStore-gitteret gjennom transportør til utgående operasjoner Samarbeid med AutoStore-distribusjonspartnere, kunder og interne team for å sikre vellykkede implementeringer og minimal nedetid Tolk systemtelemetri, ytelsesmålinger og overvåkingsdashboards for å drive kontinuerlig forbedring\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [
+        "https://amazon.jobs/en/jobs/10583091/controls-integration-engineer-one-mhs-systems-integration-and-flow"
+      ],
+      "char_count": 1098,
+      "has_link": true
+    },
+    {
+      "key": "0b9174e00afea2dd",
+      "author": "@Edvardkk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/edvardkk",
+      "posted_relative": null,
+      "text": "kunne ikke la deg og onkel gå på toget alene🚂🚂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 19,
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "8dda75393d2da34c",
+      "author": "Youngthug money",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/youngthug-money",
+      "posted_relative": "for 1 t siden",
+      "text": "17kr før tallslipp? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "37ff595f6eefba5a",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 24 min siden",
+      "text": "· 🔥",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
       "has_link": false
     }
   ]

@@ -1,131 +1,51 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-10-29T13:48:54.863528+00:00",
+  "scraped_at": "2026-10-29T14:51:46.363959+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 8,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "d886effcdb6f6560",
-      "author": "3D",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/3d",
-      "posted_relative": "for 3 t siden",
-      "text": "· For de personene som meg, som nettopp har kommet inn i aksjen og som ennå ikke har helt kontroll på hvem Thor Medical har samarbeidsavtaler med. Thor Medical skal i første omgang levere Pb-212 til Eckert & Ziegler for bruk i preklinisk forskning og utvikling Denne avtalen gir Thor Medical mulighet til å få integrert sine produkter i Eckert & Zieglers veletablerte globale distribusjons- og produksjonsnettverk Partneravtale https://www.thormedical.com/artikler/thor-medical-enters-partnership-with-eckert-ziegler-to-enable-access-of-lead-212-for-the-pharmaceutical-industry Godkjenningen i dag https://www.eqs-news.com/news/corporate/eckert-ziegler-receives-gmp-certificate-for-actinium-225/24d805a5-aa8d-4820-9894-c37256dd4a04_en",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.eqs-news.com/news/corporate/eckert-ziegler-receives-gmp-certificate-for-actinium-225/24d805a5-aa8d-4820-9894-c37256dd4a04_en",
-        "https://www.thormedical.com/artikler/thor-medical-enters-partnership-with-eckert-ziegler-to-enable-access-of-lead-212-for-the-pharmaceutical-industry"
-      ],
-      "char_count": 734,
-      "has_link": true
-    },
-    {
-      "key": "e0aa75b91c4720f7",
-      "author": "Korona",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "liten short i FRO, er vel mangel på ind. investorer og fond som avventer.. Per 20. oktober 2026 er den rapporterte shortposisjonen i Thor Medical (TRMED) 1,54 % av utestående aksjer, tilsvarende omtrent 5,89 millioner aksjer. Fordelingen av synlige shortposisjoner er: Shorter\tShort %\tAksjer GSA Capital Partners LLP\t0,51 %\t2 176 400 Two Sigma Investments LP\t1,03 %\t3 716 342 Totalt\t1,54 %\t5 892 742 Utvikling: I begynnelsen av oktober var registrert short rundt 1,03 %. Den steg til 1,54 % da GSA Capital Partners etablerte en ny posisjon over rapporteringsgrensen på 0,5 %. Vurdering: En shortandel på 1,54 % er moderat og ikke spesielt høy sammenlignet med mange av de mest shortede aksjene på Oslo Børs. Samtidig er TRMED en relativt liten aksje med begrenset fri flyt, så selv en short på rundt 6 millioner aksjer kan påvirke kursutviklingen merkbart. Til sammenligning har kursen i Thor Medical falt rundt 21 % hittil i 2026, og handles nå rundt 4,19 kroner.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 964,
-      "has_link": false
-    },
-    {
-      "key": "e2af45f4ff4a721d",
-      "author": "WolfOfAllStreet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wolfofallstreet",
-      "posted_relative": "for 5 t siden",
-      "text": "Eckert & Ziegler fikk 28. oktober GMP godkjenning for Ac-225 fra thorium-229. Det er en annen henfallskjede enn Thor Medicals Th-228 linje, men begge viser at thorium er råstoffet i neste generasjons kreftbehandling. At E&Z, Thor Medicals egen Pb-212 partner, nå også bygger thorium basert Ac-225 kapasitet, betyr at hele thorium økosystemet modnes. Mer godkjenning, mer regulering, mer etterspørsel. Det er bra for Thor Medical. God nyhet på morningen🫡",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        39,
-        4
-      ],
-      "links": [],
-      "char_count": 453,
-      "has_link": false
-    },
-    {
-      "key": "716cc5e9ac9706cc",
-      "author": "vehaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vehaa",
-      "posted_relative": "for 43 min siden",
-      "text": "Jeg forstår faktisk ikke at den ikke har høyere omsetning. Den var oppe i 7 kr i høst.  Forventer at alle som sitter igjen tror den skal betydelig opp fra disse nivåene. Hvorfor handle når den stiger?!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 201,
-      "has_link": false
-    },
-    {
-      "key": "35340c55c6e94b43",
-      "author": "relvehoy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/relvehoy",
-      "posted_relative": "for 2 t siden",
-      "text": "Vi må også huske at det kan være skjulte short-posisjoner på under 0,49% per aktør, det kan fort bli noen prosent hvis det er fler aktører. Disse opererer da uten at noen vet noe som helst.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 189,
-      "has_link": false
-    },
-    {
-      "key": "b086c0ae453403fd",
+      "key": "419364dd47f4c731",
       "author": "Affogato",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/affogato",
-      "posted_relative": "for 1 t siden",
-      "text": "· Har vært her før og har nå hoppet ombord igjen. Man bør ikke investere med hjertet, men dette selskapet gjør noe virkelig bra for verden!",
+      "posted_relative": "for 2 t siden",
+      "text": "· Har vært her før og har nå hoppet ombord igjen. Man bør ikke investere med hjertet, men dette selskapet gjør noe virkelig bra for verden! Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        5
+        2,
+        6
       ],
       "links": [],
-      "char_count": 139,
+      "char_count": 159,
       "has_link": false
     },
     {
-      "key": "a22b6f9492f309c4",
-      "author": "vehaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vehaa",
-      "posted_relative": "for 59 min siden",
-      "text": "Mange selskap som gjør gode ting for verden. Men her inne vil jeg tjene penger. Taper jeg penger kunne jeg heller gitt de til Redd Barna 😊",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 138,
-      "has_link": false
-    },
-    {
-      "key": "fdc03eb70f51cd89",
-      "author": "vj09",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vj09",
-      "posted_relative": "for 2 t siden",
-      "text": "Noen tørker selgere godt ,smart faen😀 hvis jeg kunne lære som...",
+      "key": "7d51fd972236cc53",
+      "author": "Pilen oppover",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pilen-oppover",
+      "posted_relative": "for 14 min siden",
+      "text": "Det er grunn nok i seg selv til å invetsere spør du meg.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 64,
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "bd907260e80656ef",
+      "author": "Pilen oppover",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pilen-oppover",
+      "posted_relative": "for 16 min siden",
+      "text": "Emisjon",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
       "has_link": false
     }
   ]

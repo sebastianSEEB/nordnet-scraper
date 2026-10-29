@@ -1,9 +1,23 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-10-29T13:43:31.384218+00:00",
+  "scraped_at": "2026-10-29T14:46:26.116016+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "768ddabf28a828fd",
+      "author": "Panzerhanzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/panzerhanzen",
+      "posted_relative": "for 7 min siden",
+      "text": "Motstand på 44 tydeligvis",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

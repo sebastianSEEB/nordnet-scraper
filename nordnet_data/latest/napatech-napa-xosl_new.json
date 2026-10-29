@@ -1,81 +1,38 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-29T13:44:14.416506+00:00",
+  "scraped_at": "2026-10-29T14:47:07.424642+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 5,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "d62478e4c9a4c0cd",
-      "author": "Polarstjernen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarstjernen",
-      "posted_relative": "for 1 døgn siden",
-      "text": "Nå skjer det ting her. Off-book transaksjoner (les Napaforum finansavisen) er vel ofte et veldig positivt signal. Unntaket er kanskje innsidesalg og warrants (kort sik), men kursen beveger seg godt oppover.  Kan dette tyde på gode nyheter under fremleggelse av Q3 neste uke? Vis 1 kommentar til",
+      "key": "5e19183351b59c46",
+      "author": "Giskaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/giskaa",
+      "posted_relative": "for 10 min siden",
+      "text": "Jeg tror du har rett i at markedet avventer en tydeligere bekreftelse på AI-delen av Napatech, først og fremst gjennom større ordre og økt synlighet på fremtidige volumer. Selv er jeg bare en hobbyinvestor som har nerdet ganske grundig på akkurat dette caset. Jeg har vel lest det meste jeg har kommet over om Napatech og d-Matrix - markedet de siste 15 månedene, kanskje på grensen til det usunne 😅 Min oppfatning er at Napatech står betydelig sterkere i dag enn de gjorde i mai/juni. Mye har falt på plass rundt d-Matrix, både teknologisk og kommersielt. Samtidig skjønner jeg at markedet ønsker mer håndfaste bevis på hva dette faktisk vil bety for Napatechs inntekter. Jeg tror vi vil få flere ordre, nyheter rundt neste generasjon Raptor eller en avklaring rundt tier-1 kunden i løpet av de kommende månedene. Personlig håper jeg vi vet betydelig mer innen februar/mars. Inntil videre sitter jeg rolig i båten. Jeg synes utviklingen i caset har vært langt mer positiv enn kursutviklingen skulle tilsi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1006,
+      "has_link": false
+    },
+    {
+      "key": "834aaa98d0b506a4",
+      "author": "Benjamin Aune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Den siste uken har chip produsenter inn mot Ai/datasenter steget masse. Napatech er ned. Virker som at investorene ikke tør å kjøpe så mye mer nå før større ordre kommer inn?  Noen tanker rundt dette? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8,
+        1,
         2
       ],
       "links": [],
-      "char_count": 294,
-      "has_link": false
-    },
-    {
-      "key": "bf0cf693c6e0de15",
-      "author": "Benjamin Aune",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
-      "posted_relative": "for 4 t siden · Endret",
-      "text": "Den siste uken har chip produsenter inn mot Ai/datasenter steget masse. Napatech er ned. Virker som at investorene ikke tør å kjøpe så mye mer nå før større ordre kommer inn?  Noen tanker rundt dette?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 200,
-      "has_link": false
-    },
-    {
-      "key": "ea811593adf9f107",
-      "author": "IndexKumulativ",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/indexkumulativ",
-      "posted_relative": "for 3 t siden",
-      "text": "Med resultater midt i de guidede intervallene vil ebitda være negativ med rundt 25 millioner danske kroner, og antall solgte enheter vil være rundt 9.700.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 154,
-      "has_link": false
-    },
-    {
-      "key": "a0296663ff4bbd64",
-      "author": "alex70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
-      "posted_relative": "for 5 t siden",
-      "text": "Denne aksjen kan bode gå til himmels og til kjeller avhengig av sektoren bevegelse. For dems produkt er sterkt etterspurt innen AI",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 130,
-      "has_link": false
-    },
-    {
-      "key": "dcdf0433cee1ddc6",
-      "author": "BuffetsSon14",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buffetsson14",
-      "posted_relative": "for 4 t siden",
-      "text": "Sterke smartoptics tall positivt korrelert med NAPA?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 52,
+      "char_count": 220,
       "has_link": false
     }
   ]
