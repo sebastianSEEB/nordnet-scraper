@@ -1,39 +1,38 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-29T07:51:23.164128+00:00",
+  "scraped_at": "2026-10-29T13:46:44.983514+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "a6ad1ede4c8ae02e",
-      "author": "jollibobo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jollibobo",
-      "posted_relative": "for 2 t siden",
-      "text": "Kilde: Finansavisen https://share.google/9sZ4cdpoqRMSCVY7t Er det noen med tilgang som kan oppsummere innholdet i artikkelen?",
+      "key": "5913be38151a6aee",
+      "author": "Ole Brum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ole-brum",
+      "posted_relative": "for 5 t siden",
+      "text": "Telenors beslutning i forbindelse med fremleggelsen av Q3-tallene om å komprimere tilbakekjøps programmet på 15 milliarder kroner fra tre til to år, har vesentlige finansielle, tekniske og strategiske konsekvenser for aksjonærene. Når dette skjer på kursnivåer rundt 127–130 kroner – betydelig lavere enn nivåene på 158–164 kroner da programmet ble lansert i mai – endres kalkylen markant i favør av eksisterende eiere.  Samlet sett betyr akselerasjonen at du som aksjonær får en raskere økning i din relative eierandel av selskapet, kombinert med en direkte kontant avkastning (utbytte + tilbakekjøp) som på dagens kursnivå overstiger 12 % årlig de neste to årene.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        18,
+        2
       ],
-      "links": [
-        "https://share.google/9sZ4cdpoqRMSCVY7t"
-      ],
-      "char_count": 125,
-      "has_link": true
+      "links": [],
+      "char_count": 665,
+      "has_link": false
     },
     {
-      "key": "c98833582a6a0d21",
-      "author": "KMJM",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmjm",
-      "posted_relative": "for 59 min siden",
-      "text": "Det han sier står jo under nyheter her.",
-      "reply_count": null,
+      "key": "0fcf14a15410ece2",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er riktig det, i tillegg øker sannsynligvis utbyttene også. Jeg regner med at det ikke utbetales utbytter på aksjer som de eier selv, og da fordeles utbyttene på færre aksjer.(dette vil nok ikke utgjøre mye men alt går riktig vei).",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 39,
+      "char_count": 235,
       "has_link": false
     }
   ]

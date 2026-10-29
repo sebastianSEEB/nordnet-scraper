@@ -1,9 +1,54 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-10-29T07:51:38.164265+00:00",
+  "scraped_at": "2026-10-29T13:47:01.122272+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b0f05b6bf24a3b75",
+      "author": "Sjur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjur",
+      "posted_relative": "for 5 t siden",
+      "text": "Kan se ut som det skal mer ned. Blir verre før det blir bedre… Har klokketro på denne på mellom lang til lang sikt. Har kjøp på 360 før 15.12 så får vi se. https://www.investtech.com/no/market.php?CompanyID=100346",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.investtech.com/no/market.php?CompanyID=100346"
+      ],
+      "char_count": 213,
+      "has_link": true
+    },
+    {
+      "key": "5470d6765d30b521",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Euro gasspris tynger kursen. Men idag faller den 3,8%. Det kan være interessant utover dagen idag. Kursen kan plutselig gå fort opp :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "d526753028486906",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Starter å kjøpe meg inn igjen, kursnivået mener jeg burde være en god inngang på nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

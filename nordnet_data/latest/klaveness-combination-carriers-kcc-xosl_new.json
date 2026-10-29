@@ -1,9 +1,41 @@
 {
   "slug": "klaveness-combination-carriers-kcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/klaveness-combination-carriers-kcc-xosl",
-  "scraped_at": "2026-10-29T07:46:35.412911+00:00",
+  "scraped_at": "2026-10-29T13:41:49.338547+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "49295d23fdfc8684",
+      "author": "LSAS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lsas",
+      "posted_relative": "for 4 t siden",
+      "text": "skjønner ikke hvorfor 120 + er jo neste mål så bare ta livet m ro",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "fa56b4b155714a03",
+      "author": "kharid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kharid",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Oi, fordel å følge med her.. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

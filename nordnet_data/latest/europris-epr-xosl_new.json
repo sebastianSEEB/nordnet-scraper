@@ -1,9 +1,41 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-29T07:49:07.626235+00:00",
+  "scraped_at": "2026-10-29T13:44:26.127846+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bc5d9887e82bdd98",
+      "author": "JonnaS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jonnas",
+      "posted_relative": "for 5 t siden",
+      "text": "Ikke så negativ rapport som kursen tilsier, salg er greit det og!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        7
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "b82cf9b7442ee012",
+      "author": "OMinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ominvest",
+      "posted_relative": "for 1 t siden",
+      "text": "Fikk kjøpt mer på 81,5 kr i dag 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

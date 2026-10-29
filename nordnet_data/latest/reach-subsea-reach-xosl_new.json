@@ -1,9 +1,23 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-10-29T07:53:33.235835+00:00",
+  "scraped_at": "2026-10-29T13:48:58.828546+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cbe3f4dffc29c04a",
+      "author": "Halspulsåre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/halspulsare",
+      "posted_relative": "for 50 min siden",
+      "text": "· Hvordan ser vi på denne i fremtiden, er ny her så vil egentlig bare høre tankene deres:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    }
+  ]
 }

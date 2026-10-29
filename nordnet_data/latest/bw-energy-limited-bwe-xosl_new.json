@@ -1,9 +1,56 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-10-29T07:50:36.730341+00:00",
+  "scraped_at": "2026-10-29T13:45:56.761990+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ae1f936256154261",
+      "author": "OEVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oevis",
+      "posted_relative": null,
+      "text": "25. okt. Ja tragisk hendelse, først og fremst for menneskene som er savnet.  Gjorde en liten beregning i min BWE/PEN-gem her nå, med følgende kostnadselementer (talloppsett i vedlagte bilde, med forbehold om feil): - Utsatt produksjon under MaBoMo-stansen (forutsatt 21 dagers stans). - Inspeksjons-, mobiliserings- og juridiske kostnader (ROV, geoteknikk). - Tidsforskyvning av produksjonsveksten fra de 4 planlagte brønnene (6 måneders forsinkelse diskontert med 10 % WACC). Det er muligens andre kostnader som kan påløpe også (dyrere leie av ny rigg?). Dersom beregningene stemmer, utgjør det 0,7 kroner per aksje for BWE, og 0,31 kroner per Panoro-aksje. Altså rundt 1% for begge, basert på sluttkurs fredag.  Men kan jo være at de vil falle mer i ren panikk i morgen.  i så fall kan det være kjøpsanledning. Oljen forsvinner jo ikke, det vil bare ta lenger tid å få den opp.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 879,
+      "has_link": false
+    },
+    {
+      "key": "1a40f3cc81eaac53",
+      "author": "Tiger-Boy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiger-boy",
+      "posted_relative": "for 3 t siden",
+      "text": "Selskapet oppretholder guidingen på 23' fat i 2026 og 100' fat i 2028. Ulykken gjør at capex guidingen er trukket og usikkerhet om volum for 2027 pga Dussafu hendelsen, men de startet opp produksjonen denne uken. Riggen som skal til Maromba planlegges flyttet fra Dubai i desember om sikkerhetssituasjonen er OK.  DNBC mener dagens rapport forsvarer en liten kursøkning, men markedet er nok ikke 100% overbevist.  Jeg sitter long i denne og med økte forventninger til oljepris tror jeg det blir en hyggelig reise.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 513,
+      "has_link": false
+    },
+    {
+      "key": "4bba4648b8397f4c",
+      "author": "Tordendahl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tordendahl",
+      "posted_relative": null,
+      "text": "25. okt. Katatrofe, får se hvordan dette påvirker BWE. Håper alle blir gjort rede for. \"Fem personer er savnet etter at Borr Drillings rigg Prospector 5 sank utenfor Gabon lørdag kveld. Foreløpige opplysninger tyder på at riggen Prospector 5 mistet stabiliteten under klargjøring til en planlagt borekampanje. Borr Drilling eier og driver riggen, som har kontrakt for boring for BW Energy utenfor Gabon på vestkysten av Afrika.\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        8
+      ],
+      "links": [],
+      "char_count": 428,
+      "has_link": false
+    }
+  ]
 }

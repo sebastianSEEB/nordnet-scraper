@@ -1,22 +1,50 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-29T07:49:31.182035+00:00",
+  "scraped_at": "2026-10-29T13:44:50.328690+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "20443f83defd6cd5",
-      "author": "hengslet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
-      "posted_relative": "for 32 min siden",
-      "text": "Her punkterte Elopak en bekymring 😊 : Americas revenues increased 5.9%, despite growth being constrained by the board supply disruption following the Nippon Dynawave incident. Insurance recoveries recognized in the quarter partly compensated for the additional costs, with further recoveries expected",
+      "key": "e5b1d78de1134c2d",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 7 min siden · Endret",
+      "text": "Er det ikke nydelig hvordan en selger av 200000 aksjer umiddelbart matches av en kjøper som vil ha 200000 aksjer uten at kursen forandrer seg ? Men ellers på dagen kan salg av 1500 aksjer flytte kursen 30 øre :-)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 300,
+      "char_count": 212,
+      "has_link": false
+    },
+    {
+      "key": "23b191bd2945632d",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 1 t siden",
+      "text": "Ja de store leker seg litt. Det fundamentale vil vinne til slutt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "423926f2aaf3c8e3",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 26 min siden",
+      "text": "Volumet tok seg opp her nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 26,
       "has_link": false
     }
   ]

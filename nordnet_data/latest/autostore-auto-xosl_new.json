@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-29T07:49:54.607066+00:00",
+  "scraped_at": "2026-10-29T13:45:13.669214+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "21e67b5e3eb87b45",
+      "author": "Youngthug money",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/youngthug-money",
+      "posted_relative": "for 38 min siden",
+      "text": "17kr før tallslipp?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }
