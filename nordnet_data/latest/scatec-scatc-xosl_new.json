@@ -1,9 +1,23 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-10-29T01:23:50.804325+00:00",
+  "scraped_at": "2026-10-29T07:48:21.650072+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b73840404bdb7899",
+      "author": "Arathorn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arathorn",
+      "posted_relative": "for 14 min siden",
+      "text": "Mye gode nyheter etter resultatvarselet. Men tror de fleste avventer gitt at q3 kommer i morgen. Men så kan det gå oppover igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,55 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-29T01:26:28.181416+00:00",
+  "scraped_at": "2026-10-29T07:50:59.774282+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "caeee42144595007",
-      "author": "Fiskaren365",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskaren365",
-      "posted_relative": "for 2 t siden",
-      "text": "· Takk!",
+      "key": "9f2b7c3c5276de2e",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 42 min siden · Endret",
+      "text": "dette viser at det ikke finnes et overordnet regelverk eller prosedyrer fra myndigheter eller andre overordnede organer særlig når markedet blir irrasjonelt. ved kriser blir dette som å stikke fingeren i luften for å se hvilken retning vinden kommer fra, problemet er hva skulle markedet priset raten til når det var trafikk gjennom stredet",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 7,
+      "char_count": 340,
+      "has_link": false
+    },
+    {
+      "key": "f8ec44712162d74d",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 21 min siden · Endret",
+      "text": "Interessant, Bertel Otto Steen tredje største aksjonær i Hunter har kjøpt seg kraftig opp gjennom Skarris Kapital den siste tiden, faktisk i samme størrelses orden som Avanza Bank B.O. STEEN SHIPPING AS\t\t 12,000,000 8.9%\t Nei Vis SKARRIS KAPITAL AS\t\t 4,500,000 3.34%\t Nei",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 271,
+      "has_link": false
+    },
+    {
+      "key": "5714e1a8ef1d5f89",
+      "author": "phor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
+      "posted_relative": "for 13 min siden",
+      "text": "Jeg tror man kommer til et punkt her det blir trangt inn døra.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 62,
       "has_link": false
     }
   ]

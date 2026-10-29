@@ -1,9 +1,23 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-29T01:24:59.363556+00:00",
+  "scraped_at": "2026-10-29T07:49:31.182035+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "20443f83defd6cd5",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 32 min siden",
+      "text": "Her punkterte Elopak en bekymring 😊 : Americas revenues increased 5.9%, despite growth being constrained by the board supply disruption following the Nippon Dynawave incident. Insurance recoveries recognized in the quarter partly compensated for the additional costs, with further recoveries expected",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 300,
+      "has_link": false
+    }
+  ]
 }

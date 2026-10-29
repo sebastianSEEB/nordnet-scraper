@@ -1,9 +1,23 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-10-29T01:23:15.873185+00:00",
+  "scraped_at": "2026-10-29T07:47:48.101872+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "df128a81386eb695",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": "for 6 min siden",
+      "text": "Synes faktisk det er useriøst! Kunne like godt bare tatt +- 70% av dagens kurs og kalle seg analytiker..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,131 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-29T01:25:18.111853+00:00",
+  "scraped_at": "2026-10-29T07:49:50.808085+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 8,
+  "posts": [
+    {
+      "key": "a383576896745cf1",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/10/29/8391036/pengene-fosser-inn-i-dno",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/29/8391036/pengene-fosser-inn-i-dno"
+      ],
+      "char_count": 78,
+      "has_link": true
+    },
+    {
+      "key": "37774e5ae153916a",
+      "author": "Bonzo2015",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bonzo2015",
+      "posted_relative": "for 44 min siden",
+      "text": "Imponerende utvikling sist kvartal. Flotte priser og produksjonskvanta. Vi aksjonærer  kan glede oss over kvartalsvise utbytter på ca 6 % i en periode hvor kursen har steget med over 40%.  Det er en perfekt kombo 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 214,
+      "has_link": false
+    },
+    {
+      "key": "b54e17a059aa5cab",
+      "author": "Mattias Karlsson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mattias-karlsson",
+      "posted_relative": "for 57 min siden · Endret",
+      "text": "· Norske medier, dette er ikke slik de brukte å skrive om DNO før i tiden. Vi eldre aksjonærene husker det godt. Sentimentet har endret seg fullstendig. Denne artikkelen er rå!",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 176,
+      "has_link": false
+    },
+    {
+      "key": "97592bf29458ca77",
+      "author": "Dno",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dno",
+      "posted_relative": "for 1 t siden",
+      "text": "· DNO er tilbake til sitt Pick for snart lenge siden, og i tillegg kommer de historiske og fremtidige utbyttene samt bedre fundament.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "b929cc22707d9e98",
+      "author": "JujuX",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jujux",
+      "posted_relative": "for 49 min siden",
+      "text": "· Prisene for oljesalg ble hevet denne måneden til USD 45 per fat, opp nesten 50 prosent fra salget ved starten av 2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "fad4f39d6e309b1a",
+      "author": "Count_Zero",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/count_zero",
+      "posted_relative": "for 28 min siden",
+      "text": "· Dette er den store nyheten. I Norge betaler DNO 78% skatt, i KRK 0% av det som er deres del.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "68505d2356755e49",
+      "author": "Tradelearner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradelearner",
+      "posted_relative": "for 57 min siden",
+      "text": "Det betyr at neste quarter DNO skal ikke ha debt?!!! de har betalt 321 Q3. Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "182a01f903b4c79c",
+      "author": "Tradelearner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradelearner",
+      "posted_relative": "for 32 min siden",
+      "text": "· snart gjeldsfri! :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

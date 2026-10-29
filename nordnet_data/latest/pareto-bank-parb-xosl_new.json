@@ -1,9 +1,51 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-29T01:28:00.110830+00:00",
+  "scraped_at": "2026-10-29T07:52:30.749325+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f8ed03e155f46f66",
+      "author": "Rolfkul",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul",
+      "posted_relative": "for 1 t siden",
+      "text": "Ikke noe bra rapport, men det var forventet. utlånsvolumet faller mer en forventet og banken er sterkt overkapitalisert. håper de kommer med ekstraordinært utbytte eller har noe plan for hva de skal gjøre med denen kapitalen når det ikke er lån å gi",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 249,
+      "has_link": false
+    },
+    {
+      "key": "4f63ca745e2e52d8",
+      "author": "mikemode",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikemode",
+      "posted_relative": "for 31 min siden",
+      "text": "Spark alle",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    },
+    {
+      "key": "d53ab356ce6bb0e5",
+      "author": "Skittentind Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skittentind-invest",
+      "posted_relative": "for 42 min siden",
+      "text": "· ....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

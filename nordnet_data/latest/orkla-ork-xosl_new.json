@@ -1,9 +1,23 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-10-29T01:27:11.192268+00:00",
+  "scraped_at": "2026-10-29T07:51:41.973002+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ddd6b427157fbda5",
+      "author": "LArgh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/largh",
+      "posted_relative": "for 38 min siden",
+      "text": "Jeg tror nok ikke at Orkla er alene om å gjøre disse tingene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

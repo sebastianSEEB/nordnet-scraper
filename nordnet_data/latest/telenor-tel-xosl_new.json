@@ -1,9 +1,40 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-10-29T01:26:51.754477+00:00",
+  "scraped_at": "2026-10-29T07:51:23.164128+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a6ad1ede4c8ae02e",
+      "author": "jollibobo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jollibobo",
+      "posted_relative": "for 2 t siden",
+      "text": "Kilde: Finansavisen https://share.google/9sZ4cdpoqRMSCVY7t Er det noen med tilgang som kan oppsummere innholdet i artikkelen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://share.google/9sZ4cdpoqRMSCVY7t"
+      ],
+      "char_count": 125,
+      "has_link": true
+    },
+    {
+      "key": "c98833582a6a0d21",
+      "author": "KMJM",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmjm",
+      "posted_relative": "for 59 min siden",
+      "text": "Det han sier står jo under nyheter her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

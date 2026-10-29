@@ -1,9 +1,36 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-29T01:24:29.298599+00:00",
+  "scraped_at": "2026-10-29T07:49:00.120471+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 11,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "179567b16e498a5a",
+      "author": "dr_noclue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dr_noclue",
+      "posted_relative": "for 38 min siden",
+      "text": "Fasiten ble 92,02,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    },
+    {
+      "key": "0c9bec51ce10ea5e",
+      "author": "@Tenkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tenkern",
+      "posted_relative": null,
+      "text": "vinner;p",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

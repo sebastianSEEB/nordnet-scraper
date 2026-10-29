@@ -1,35 +1,37 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-29T01:23:19.564044+00:00",
+  "scraped_at": "2026-10-29T07:47:51.959839+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "2b632fc4076eeb34",
-      "author": "Math7245",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/math7245",
-      "posted_relative": "for 2 t siden",
-      "text": "· Her er et internt skriv fra en av leverandørene av Zaptec i Danmark: Hermed en orientering om de nye EU-kravene til ladebokser, som trer i kraft fra 1. januar 2027, og hvilken betydning de får for salg og installeringer frem mot årsskiftet. På bakgrunn av de nye reglene er det noen forhold som krever særlig oppmerksomhet i den kommende perioden, slik at kundene fortsetter å få korrekt rådgivning og installasjonene kan gjennomføres som planlagt. Fokus er fortsatt å holde i gang salget av de nåværende ladeboksene som er på lager, og sikre at installasjonene blir gjennomført innen årets utgang. Hva betyr de nye kravene? De nye kravene gjelder både private og næringsdrivende, og stiller blant annet krav om støtte for standarden EN ISO 15118-20:2022. Standarden handler om kommunikasjonen mellom elbil og ladeboks, og støtter blant annet: Plug & Charge: Automatisk identifikasjon av bilen, slik at lading kan startes uten app eller ladebrikke når funksjonen er støttet og aktivert. Intelligent lading: Utveksling av informasjon mellom bil og ladeboks om for eksempel ladebehov og effekt. Toveislading (V2G/V2H): Kommunikasjon som kan støtte at strøm sendes fra bilen tilbake til strømnettet eller boligen. Dette betyr ikke at alle ladebokser må kunne levere strøm tilbake til strømnettet. Det krever også nødvendig maskinvare og støtte fra bilen. Hvilke modeller blir berørt? Det berører følgende modeller i det nåværende sortimentet: Zaptec Go Zaptec Pro (forventes å kunne oppfylle kravene via programvareoppdatering) Amina C Easee Charge Core Easee Charge Up Flere av modellene forventes å bli erstattet fra 2027. Det har imidlertid kommet en positiv tilbakemelding på Zaptec Pro, som ifølge Zaptec allerede har den nødvendige maskinvaren og forventes å kunne oppfylle kravene via en programvareoppdatering. Det samme gjelder den nye Zaptec Go 2. Den endelige dokumentasjonen og tidspunktet for programvareoppdateringene avventes fremdeles. Det avgjørende er tidspunktet for den første installasjonen – ikke når ladeboksen blir solgt eller bestilt. Hva skal det fokuseres på frem mot årsskiftet? 1. Fortsett salget som normalt – og skap trygghet hos kundene Salget av de nåværende ladeboksene fortsetter som normalt med fokus på installasjon innen årets utgang. Det er viktig at kundene føler seg trygge på å kjøpe en ladeboks nå. De nye reglene betyr ikke at en ladeboks uten støtte for EN ISO 15118-20:2022 blir ulovlig eller må skiftes ut etter 1. januar 2027. En ladeboks som er installert før årsskiftet, kan fortsatt brukes som før, selv om den ikke støtter den nye standarden. Kunden kan derfor fortsatt ha glede av ladeboksen i mange år fremover, og de nye reglene endrer ikke i seg selv dens eksisterende funksjoner eller mulighet for alminnelig lading. Kundene skal naturligvis informeres korrekt hvis de spør om de nye reglene, men kommunikasjonen skal være enkel og trygg slik at det ikke skapes unødvendig usikkerhet. Kunder som først får levert elbilen sin i 2027, kan fint få […avkuttet, sannsynlig parsingfeil]",
+      "key": "883c99b9255721d4",
+      "author": "Sunnyhill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnyhill",
+      "posted_relative": "for 6 min siden",
+      "text": ". Vi har vel blitt positivt overrasket kvartal etter kvartal det siste året, så jeg ser ingen grunn til at det skal snu nå. Salget av elbiler setter stadig nye rekorder i Europa, og markedet for ladeløsninger er enormt. Jeg skal ikke spå noen bestemt kurs, men at vi kan passere 70 kr i løpet av året, er jeg absolutt ikke i tvil om. 🙂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 3036,
+      "char_count": 335,
       "has_link": false
     },
     {
-      "key": "ed42ad8059ea3587",
+      "key": "c1bdd1760818e226",
       "author": "Stefan007",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
-      "posted_relative": "for 3 t siden",
-      "text": "· Så den er kanskje rent av for høyt verdsatt akkurat nå og synker når tallene kommer på bordet. sånt har man sett før",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "· den kanskje er for høyt verdsatt og synker i verdi i Q3 når tallene kommer på bordet .har sett sånt før med volvo  aksjer.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        5
+      ],
       "links": [],
-      "char_count": 118,
+      "char_count": 124,
       "has_link": false
     }
   ]

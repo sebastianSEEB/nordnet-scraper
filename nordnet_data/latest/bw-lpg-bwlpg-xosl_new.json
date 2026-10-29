@@ -1,9 +1,23 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-10-29T01:21:55.163616+00:00",
+  "scraped_at": "2026-10-29T07:46:27.104004+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "711b1511094bcf79",
+      "author": "Leffe junior",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leffe-junior",
+      "posted_relative": "for 1 t siden",
+      "text": "· Helsike - det ser ut til at LPG bare fortsetter i det \"uendelige\":",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

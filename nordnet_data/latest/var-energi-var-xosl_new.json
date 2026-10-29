@@ -1,9 +1,23 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-29T01:27:03.087349+00:00",
+  "scraped_at": "2026-10-29T07:51:34.457186+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "db1557edad9fdbaf",
+      "author": "LArgh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/largh",
+      "posted_relative": "for 21 min siden",
+      "text": "Da USA prøvde å bombe seg til fred med Iran tidligere i år så gikk de tom for ammunisjon. Tror nok ikke det vil være så lett.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

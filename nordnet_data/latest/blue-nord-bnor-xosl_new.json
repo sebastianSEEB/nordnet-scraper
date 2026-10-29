@@ -1,22 +1,37 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-10-29T01:23:00.568761+00:00",
+  "scraped_at": "2026-10-29T07:47:33.310957+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "3ddd50282db6c4f5",
+      "key": "0f628419a971c4fb",
       "author": "Spurt",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurt",
-      "posted_relative": "for 2 t siden",
-      "text": "· Hei chat jeg tenkte på om det ville lønne seg å putte en del i BlueNord nå eller om den vil falle litt",
+      "posted_relative": "for 9 t siden",
+      "text": "· Hei chat jeg tenkte på om det ville lønne seg å putte en del i BlueNord nå eller om den vil falle litt Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    },
+    {
+      "key": "ff23df23753c7bc4",
+      "author": "jesperhoerlykjensen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jesperhoerlykjensen",
+      "posted_relative": "for 30 min siden",
+      "text": "· Spør ChatGPT",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 104,
+      "char_count": 14,
       "has_link": false
     }
   ]
