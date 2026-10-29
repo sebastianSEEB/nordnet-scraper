@@ -41,6 +41,9 @@ jobs:
       - name: Modell, backtest og paper trading
         run: python news_ml/model_backtest.py
 
+      - name: Bygg dashboard (nordnet_data/news_ml/dashboard.html)
+        run: python news_ml/build_dashboard.py
+
       - name: Commit resultater
         if: always()
         run: |

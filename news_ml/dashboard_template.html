@@ -1,0 +1,345 @@
+<title>Børssignal</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: én kolonne på mobil, to kolonner på bred skjerm; sammendrag først, detaljer under. Tonen er et børsterminal-ark på papir, ikke neon. */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#18212b; --muted:#5b6672; --line:#d9ddd6;
+  --accent:#1d5c8f; --accent-soft:#dbe7f2; --copper:#b0602b;
+  --up:#1f7a4d; --down:#b4362f; --band:#c9d3dd;
+  --display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11161c; --surface:#18202a; --ink:#e6eaee; --muted:#93a0ad; --line:#2a3542;
+  --accent:#7fb2e0; --accent-soft:#1f3346; --copper:#e09a62; --up:#5cc68f; --down:#ef7b72; --band:#2c3a4a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161c; --surface:#18202a; --ink:#e6eaee; --muted:#93a0ad; --line:#2a3542;
+  --accent:#7fb2e0; --accent-soft:#1f3346; --copper:#e09a62; --up:#5cc68f; --down:#ef7b72; --band:#2c3a4a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1180px;margin:0 auto;padding-block:20px 48px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:22px}
+header{display:grid;gap:6px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-stretch:78%;font-weight:800;font-size:clamp(34px,7vw,56px);line-height:.95;margin:0;letter-spacing:-.01em}
+h2{font-family:var(--display);font-stretch:85%;font-weight:700;font-size:21px;margin:0;text-wrap:balance}
+.sub{color:var(--muted);max-width:68ch;margin:0}
+.verdict{font-size:17px;max-width:70ch;margin:4px 0 0}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:18px;display:grid;gap:14px;min-width:0;align-content:start}
+.panel-head{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:8px}
+.hint{color:var(--muted);font-size:13px;margin:0}
+.grid2{display:grid;gap:22px;grid-template-columns:1fr}
+@media(min-width:900px){.grid2{grid-template-columns:1fr 1fr}}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.kpi{background:var(--surface);padding:14px 16px;display:grid;gap:2px}
+.kpi .k{font:600 11px/1.2 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.kpi .v{font-family:var(--display);font-stretch:80%;font-weight:700;font-size:30px;font-variant-numeric:tabular-nums;line-height:1.05}
+.kpi .s{font-size:12.5px;color:var(--muted)}
+.up{color:var(--up)} .down{color:var(--down)}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums;font-size:13px}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12.5px;color:var(--muted)}
+.legend i{display:inline-block;width:18px;height:3px;vertical-align:middle;margin-right:6px;border-radius:2px}
+svg text{fill:var(--muted);font-family:var(--mono);font-size:10.5px}
+.chart{width:100%;height:auto;display:block}
+.tbl-wrap{overflow-x:auto;margin:0 -4px}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th{font:600 11px/1.2 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:left;padding:8px 6px;border-bottom:1px solid var(--line);white-space:nowrap}
+td{padding:8px 6px;border-bottom:1px solid var(--line);vertical-align:top}
+td.r,th.r{text-align:right}
+tr:last-child td{border-bottom:0}
+.pbar{display:inline-grid;grid-template-columns:44px 64px;align-items:center;gap:8px}
+.pbar span{height:6px;background:var(--accent-soft);border-radius:3px;overflow:hidden;display:block}
+.pbar b{display:block;height:100%;background:var(--accent)}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{font-size:11.5px;padding:2px 7px;border-radius:999px;border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.chip.hot{border-color:var(--copper);color:var(--copper)}
+.chip.ok{border-color:var(--up);color:var(--up)}
+.pill{font:600 11px/1 var(--mono);padding:4px 7px;border-radius:4px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
+.pill.warn{background:transparent;border:1px solid var(--line);color:var(--muted)}
+select,button{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:5px;padding:6px 10px}
+select:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+button{cursor:pointer}
+button[aria-pressed="true"]{background:var(--accent);color:var(--surface);border-color:var(--accent)}
+.seg{display:flex;gap:6px;flex-wrap:wrap}
+.events{display:grid;gap:6px;max-height:260px;overflow:auto;padding-right:4px}
+.ev{display:grid;grid-template-columns:86px 1fr;gap:10px;font-size:13px;min-width:0}
+.ev .t{min-width:0;overflow-wrap:anywhere}
+.ev .d{font-family:var(--mono);color:var(--muted);font-size:12px}
+.kind{font:600 10.5px/1 var(--mono);letter-spacing:.05em;text-transform:uppercase;margin-right:6px}
+.k-contract{color:var(--copper)} .k-insider{color:var(--accent)} .k-report{color:var(--ink)}
+.bars{display:grid;gap:7px}
+.bar{display:grid;grid-template-columns:minmax(120px,42%) 1fr 58px;gap:10px;align-items:center;font-size:13px}
+.bar .track{height:8px;background:var(--accent-soft);border-radius:4px;overflow:hidden}
+.bar .fill{height:100%;background:var(--accent)}
+.empty{color:var(--muted);font-size:14px;padding:10px 0}
+details summary{cursor:pointer;font-weight:600}
+ul.rules{margin:8px 0 0;padding-left:18px;display:grid;gap:4px;color:var(--muted);font-size:14px}
+.foot{color:var(--muted);font-size:12.5px}
+@media (prefers-reduced-motion:no-preference){.fill,.pbar b{transition:width .4s ease}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow" id="stamp">Oslo Børs · nyhets-ML · paper trading</div>
+    <h1>Børssignal</h1>
+    <p class="sub" id="lede"></p>
+    <p class="verdict" id="verdict"></p>
+  </header>
+
+  <section class="kpis" id="kpis" aria-label="Nøkkeltall"></section>
+
+  <section class="panel" aria-labelledby="h-curve">
+    <div class="panel-head">
+      <h2 id="h-curve">Backtest: 100 000 kr fulgt dag for dag</h2>
+      <p class="hint" id="curve-hint"></p>
+    </div>
+    <div class="legend">
+      <span><i style="background:var(--accent)"></i>ML-strategi</span>
+      <span><i style="background:var(--ink)"></i>OSEBX</span>
+      <span><i style="background:var(--copper)"></i>Regel (KOG-mønster)</span>
+      <span><i style="background:var(--band);height:8px"></i>Tilfeldige porteføljer, 5–95 %</span>
+    </div>
+    <svg class="chart" id="curve" viewBox="0 0 900 340" role="img" aria-label="Porteføljeverdi over tid"></svg>
+  </section>
+
+  <div class="grid2">
+    <section class="panel" aria-labelledby="h-live">
+      <div class="panel-head">
+        <h2 id="h-live">Live paper-portefølje</h2>
+        <span class="pill" id="live-pill"></span>
+      </div>
+      <p class="hint" id="live-hint"></p>
+      <div id="live"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="h-sig">
+      <div class="panel-head">
+        <h2 id="h-sig">Dagens signaler</h2>
+        <span class="pill warn" id="sig-date"></span>
+      </div>
+      <p class="hint">Sannsynlighet for å slå OSEBX de neste 10 handelsdagene. Kjøp krever minst <span id="minp"></span> og nok omsetning.</p>
+      <div class="tbl-wrap"><table id="sig"></table></div>
+    </section>
+  </div>
+
+  <section class="panel" aria-labelledby="h-stock">
+    <div class="panel-head">
+      <h2 id="h-stock">Aksje for aksje</h2>
+      <label class="hint" for="pick">Velg aksje <select id="pick"></select></label>
+    </div>
+    <p class="hint">Kurs (linje) og modellens sannsynlighet (stolper, ut-av-utvalget). Prikker er børsmeldinger: kobber = kontrakt, blå = innsidehandel, mørk = kvartalsrapport.</p>
+    <svg class="chart" id="stock" viewBox="0 0 900 300" role="img" aria-label="Kurs og modellscore for valgt aksje"></svg>
+    <div class="events" id="events"></div>
+  </section>
+
+  <div class="grid2">
+    <section class="panel" aria-labelledby="h-dec">
+      <div class="panel-head"><h2 id="h-dec">Treffer modellen?</h2><span class="pill warn" id="auc"></span></div>
+      <p class="hint">Hver handelsdag deles aksjene i 10 grupper etter modellens score. Stolpen viser snittlig meravkastning mot OSEBX de neste 10 dagene, kun på dager modellen ikke var trent på.</p>
+      <svg class="chart" id="dec" viewBox="0 0 440 230" role="img" aria-label="Meravkastning per scoregruppe"></svg>
+      <div class="tbl-wrap"><table id="years"></table></div>
+    </section>
+    <section class="panel" aria-labelledby="h-imp">
+      <div class="panel-head"><h2 id="h-imp">Hva modellen ser etter</h2></div>
+      <p class="hint">Hvor mye treffsikkerheten (AUC) faller når ett signal stokkes, målt på de siste 9 månedene.</p>
+      <div class="bars" id="imp"></div>
+    </section>
+  </div>
+
+  <section class="panel" aria-labelledby="h-tr">
+    <div class="panel-head">
+      <h2 id="h-tr">Handler i backtesten</h2>
+      <div class="seg" role="group" aria-label="Velg strategi">
+        <button type="button" id="b-ml" aria-pressed="true">ML-strategi</button>
+        <button type="button" id="b-rule" aria-pressed="false">Regel</button>
+      </div>
+    </div>
+    <p class="hint" id="tr-hint"></p>
+    <div class="tbl-wrap"><table id="trades"></table></div>
+  </section>
+
+  <section class="panel" aria-labelledby="h-rules">
+    <h2 id="h-rules">Slik er testen satt opp</h2>
+    <ul class="rules" id="rules"></ul>
+  </section>
+  <p class="foot" id="foot"></p>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const R = JSON.parse(document.getElementById('data').textContent);
+const $ = id => document.getElementById(id);
+const nf = new Intl.NumberFormat('nb-NO', {maximumFractionDigits: 0});
+const pct = (x, d = 1) => x == null ? '–' : (x > 0 ? '+' : '') + (x * 100).toFixed(d).replace('.', ',') + ' %';
+const pctU = (x, d = 1) => x == null ? '–' : (x * 100).toFixed(d).replace('.', ',') + ' %';
+const cls = x => x == null ? '' : x > 0 ? 'up' : x < 0 ? 'down' : '';
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const name = t => (R.names && R.names[t]) || t;
+const short = t => t.replace('.OL', '');
+const fmtD = d => { const [y, m, dd] = d.split('-'); return `${+dd}.${+m}.${y.slice(2)}`; };
+const svgNS = 'http://www.w3.org/2000/svg';
+function el(tag, attrs, parent, text) { const e = document.createElementNS(svgNS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; if (parent) parent.appendChild(e); return e; }
+function niceTicks(min, max, n) { const span = max - min || 1; const step0 = span / n; const mag = Math.pow(10, Math.floor(Math.log10(step0))); const step = [1, 2, 2.5, 5, 10].map(s => s * mag).find(s => s >= step0); const out = []; for (let v = Math.ceil(min / step) * step; v <= max + 1e-9; v += step) out.push(+v.toFixed(10)); return out; }
+
+const M = R.metrics, S = M.strategy, B = M.benchmark, RU = M.rule;
+
+// ---------- topp
+$('stamp').textContent = `Oslo Børs · ${R.data.tickers} aksjer · ${nf.format(R.data.news)} børsmeldinger · oppdatert ${fmtD(R.data.last_date)}`;
+$('lede').textContent = `Modellen leser børsmeldinger (kontrakter, innsidehandel, kvartalstall, emisjoner) og kursdata, og anslår hvilke aksjer som slår OSEBX de neste 10 handelsdagene. Backtesten handler bare på dager modellen aldri har sett, fra ${fmtD(R.data.test_start)} til ${fmtD(R.data.test_end)}.`;
+(function verdict() {
+  const beat = S.total_return > B.total_return;
+  const p = M.random_p;
+  let txt;
+  if (beat && p < 0.05) txt = `Strategien slo OSEBX med ${pct(S.total_return - B.total_return, 0)} etter kostnader, og bare ${pctU(p, 1)} av de tilfeldige porteføljene gjorde det like bra. Det er et signal verdt å følge videre i live paper trading.`;
+  else if (beat) txt = `Strategien slo OSEBX med ${pct(S.total_return - B.total_return, 0)}, men ${pctU(p, 0)} av de tilfeldige porteføljene som handlet like ofte gjorde det like bra. Fordelen kan like gjerne være flaks.`;
+  else txt = `Strategien slo ikke OSEBX etter kostnader (${pct(S.total_return)} mot ${pct(B.total_return)}). Signalene gir ingen tydelig fordel i denne perioden.`;
+  $('verdict').textContent = txt;
+})();
+
+const kpis = [
+  ['ML-strategi', pct(S.total_return, 0), `${pct(S.cagr)} per år · ${S.n_trades} handler`, cls(S.total_return)],
+  ['OSEBX', pct(B.total_return, 0), `${pct(B.cagr)} per år`, cls(B.total_return)],
+  ['Tilfeldig (median)', pct(M.random_median_total, 0), `${pctU(M.random_p, 1)} slo strategien`, cls(M.random_median_total)],
+  ['Treffrate', pctU(S.hit_rate, 0), `snitt per handel ${pct(S.avg_trade, 2)}`, ''],
+  ['Største fall', pct(S.max_dd, 0), `OSEBX ${pct(B.max_dd, 0)}`, 'down'],
+  ['Regel (KOG-mønster)', pct(RU.total_return, 0), `${RU.n_trades || 0} handler`, cls(RU.total_return)],
+];
+$('kpis').innerHTML = kpis.map(([k, v, s, c]) => `<div class="kpi"><span class="k">${k}</span><span class="v ${c}">${v}</span><span class="s">${s}</span></div>`).join('');
+
+// ---------- equity
+(function curve() {
+  const C = R.curve, svg = $('curve'), W = 900, H = 340, L = 58, Rp = 12, T = 12, Bt = 28;
+  const all = [...C.strategy, ...C.bench, ...C.rule, ...C.rand_p5, ...C.rand_p95].filter(v => v != null);
+  const lo = Math.min(...all) * 0.97, hi = Math.max(...all) * 1.03;
+  const n = C.d.length, x = i => L + (W - L - Rp) * i / (n - 1), y = v => T + (H - T - Bt) * (1 - (v - lo) / (hi - lo));
+  niceTicks(lo, hi, 5).forEach(v => { el('line', {x1: L, x2: W - Rp, y1: y(v), y2: y(v), stroke: 'var(--line)'}, svg); el('text', {x: L - 6, y: y(v) + 3.5, 'text-anchor': 'end'}, svg, nf.format(v / 1000) + 'k'); });
+  el('line', {x1: L, x2: W - Rp, y1: y(100000), y2: y(100000), stroke: 'var(--muted)', 'stroke-dasharray': '2 3'}, svg);
+  let lastYear = null;
+  C.d.forEach((d, i) => { const yr = d.slice(0, 4); if (yr !== lastYear && d.slice(5, 7) <= '01') { el('text', {x: x(i), y: H - 8, 'text-anchor': 'middle'}, svg, yr); } if (yr !== lastYear) lastYear = yr; });
+  const band = C.rand_p95.map((v, i) => `${x(i)},${y(v)}`).join(' ') + ' ' + C.rand_p5.map((v, i) => `${x(i)},${y(v)}`).reverse().join(' ');
+  el('polygon', {points: band, fill: 'var(--band)', opacity: .7}, svg);
+  const line = (arr, color, w, dash) => el('polyline', {points: arr.map((v, i) => v == null ? '' : `${x(i)},${y(v)}`).join(' '), fill: 'none', stroke: color, 'stroke-width': w, 'stroke-dasharray': dash || '', 'stroke-linejoin': 'round'}, svg);
+  line(C.bench, 'var(--ink)', 1.4);
+  line(C.rule, 'var(--copper)', 1.4, '5 4');
+  line(C.strategy, 'var(--accent)', 2.4);
+  const lv = C.strategy[n - 1];
+  el('circle', {cx: x(n - 1), cy: y(lv), r: 4, fill: 'var(--accent)'}, svg);
+  el('text', {x: x(n - 1) - 6, y: y(lv) - 9, 'text-anchor': 'end', style: 'fill:var(--accent);font-weight:600'}, svg, nf.format(lv) + ' kr');
+  $('curve-hint').textContent = `Sluttverdi ${nf.format(lv)} kr · OSEBX ${nf.format(C.bench[n - 1])} kr`;
+})();
+
+// ---------- live
+(function live() {
+  const L = R.live;
+  if (!L) { $('live').innerHTML = '<p class="empty">Ingen live-portefølje ennå.</p>'; return; }
+  const eq = L.equity.length ? L.equity[L.equity.length - 1].equity : L.cash;
+  $('live-pill').textContent = `${nf.format(eq)} kr`;
+  $('live-hint').textContent = `Startet ${fmtD(L.started)} med 100 000 kr. Ekte fremtid, ingen fasit: ordre legges ved børsslutt og fylles på neste dags åpningskurs.`;
+  let h = '';
+  if (L.pending.length) h += `<h3 class="eyebrow" style="margin:4px 0">Ordre til neste åpning</h3><div class="tbl-wrap"><table><tr><th>Aksje</th><th class="r">Beløp</th><th class="r">Score</th></tr>${L.pending.map(o => `<tr><td><b>${short(o.ticker)}</b> <span class="hint">${esc(name(o.ticker))}</span></td><td class="r num">${nf.format(o.alloc)} kr</td><td class="r num">${pctU(o.p, 0)}</td></tr>`).join('')}</table></div>`;
+  if (L.positions.length) h += `<h3 class="eyebrow" style="margin:10px 0 4px">Åpne posisjoner</h3><div class="tbl-wrap"><table><tr><th>Aksje</th><th>Kjøpt</th><th class="r">Dag</th><th class="r">Resultat</th></tr>${L.positions.map(p => { const r = (p.last_px || p.entry_px) / p.entry_px - 1; return `<tr><td><b>${short(p.ticker)}</b></td><td class="num">${fmtD(p.entry_date)}</td><td class="r num">${p.held}/10</td><td class="r num ${cls(r)}">${pct(r)}</td></tr>`; }).join('')}</table></div>`;
+  if (L.closed.length) { const c = L.closed.slice(-8).reverse(); h += `<h3 class="eyebrow" style="margin:10px 0 4px">Avsluttet</h3><div class="tbl-wrap"><table><tr><th>Aksje</th><th>Solgt</th><th class="r">Resultat</th></tr>${c.map(p => `<tr><td><b>${short(p.ticker)}</b></td><td class="num">${fmtD(p.exit_date)}</td><td class="r num ${cls(p.ret)}">${pct(p.ret)}</td></tr>`).join('')}</table></div>`; }
+  if (!h) h = '<p class="empty">Ingen aksjer over terskelen i dag. Porteføljen står i kontanter til modellen finner noe.</p>';
+  $('live').innerHTML = h;
+})();
+
+// ---------- signaler
+(function signals() {
+  const S2 = R.signals_today; $('sig-date').textContent = 'per ' + fmtD(S2.date); $('minp').textContent = pctU(R.rules.min_prob, 0);
+  const chips = r => {
+    const c = [];
+    if (r.contract_rel_mcap_qtd >= 0.01) c.push(`<span class="chip hot">kontrakter ${pctU(r.contract_rel_mcap_qtd, 1)} av mcap</span>`);
+    else if (r.n_contract_90 > 0) c.push(`<span class="chip">${r.n_contract_90} kontrakt(er) 90 d</span>`);
+    if (r.n_contract_90 > 0 && r.contract_react_90 != null && r.contract_react_90 < 0) c.push(`<span class="chip hot">falt på kontrakter</span>`);
+    if (r.insider_net_90 > 0) c.push(`<span class="chip ok">innsidekjøp ${r.insider_net_90}</span>`);
+    if (r.insider_net_90 < 0) c.push(`<span class="chip">innsidesalg ${-r.insider_net_90}</span>`);
+    if (r.dist_sma200 != null && r.dist_sma200 < 0) c.push(`<span class="chip">under SMA200</span>`);
+    if (r.days_to_report != null && r.days_to_report >= 0 && r.days_to_report <= 30) c.push(`<span class="chip">rapport om ~${Math.round(r.days_to_report)} d</span>`);
+    if (r.dd_252 != null && r.dd_252 < -0.25) c.push(`<span class="chip">${pct(r.dd_252, 0)} fra topp</span>`);
+    return c.join('');
+  };
+  const rows = S2.rows.slice(0, 15);
+  $('sig').innerHTML = `<tr><th>Aksje</th><th>Score</th><th>Hvorfor</th></tr>` + rows.map(r => `<tr>
+    <td><b>${short(r.ticker)}</b><div class="hint">${esc(r.name)}</div>${r.tradeable ? '' : '<div class="hint">for lav omsetning</div>'}</td>
+    <td><span class="pbar"><span class="num">${pctU(r.p, 0)}</span><span><b style="width:${Math.round(r.p * 100)}%"></b></span></span></td>
+    <td><div class="chips">${chips(r) || '<span class="hint">kursmønster</span>'}</div></td></tr>`).join('');
+})();
+
+// ---------- aksje-utforsker
+(function stocks() {
+  const H = R.ticker_hist, keys = Object.keys(H).sort((a, b) => H[a].name.localeCompare(H[b].name, 'nb'));
+  const pick = $('pick');
+  pick.innerHTML = keys.map(k => `<option value="${k}">${esc(H[k].name)} (${short(k)})</option>`).join('');
+  let saved = null; try { saved = localStorage.getItem('bs-pick'); } catch (e) {}
+  pick.value = (saved && H[saved]) ? saved : (H[R.case] ? R.case : keys[0]);
+  const draw = () => {
+    const t = pick.value, h = H[t], svg = $('stock'); svg.innerHTML = '';
+    try { localStorage.setItem('bs-pick', t); } catch (e) {}
+    const W = 900, Ht = 300, L = 52, Rp = 40, T = 14, Bt = 26, n = h.d.length;
+    if (n < 2) return;
+    const lo = Math.min(...h.c) * 0.98, hi = Math.max(...h.c) * 1.02;
+    const x = i => L + (W - L - Rp) * i / (n - 1), y = v => T + (Ht - T - Bt) * (1 - (v - lo) / (hi - lo));
+    const yp = p => Ht - Bt - (Ht - T - Bt) * 0.35 * p;
+    niceTicks(lo, hi, 4).forEach(v => { el('line', {x1: L, x2: W - Rp, y1: y(v), y2: y(v), stroke: 'var(--line)'}, svg); el('text', {x: L - 6, y: y(v) + 3.5, 'text-anchor': 'end'}, svg, v >= 100 ? nf.format(v) : v.toFixed(1)); });
+    const bw = Math.max(1, (W - L - Rp) / n - 0.6), thr = R.rules.min_prob;
+    h.p.forEach((p, i) => el('rect', {x: x(i) - bw / 2, y: yp(p), width: bw, height: Ht - Bt - yp(p), fill: p >= thr ? 'var(--accent)' : 'var(--band)', opacity: p >= thr ? .55 : .8}, svg));
+    el('line', {x1: L, x2: W - Rp, y1: yp(thr), y2: yp(thr), stroke: 'var(--accent)', 'stroke-dasharray': '3 3', opacity: .7}, svg);
+    el('text', {x: W - Rp + 4, y: yp(thr) + 3.5}, svg, pctU(thr, 0));
+    el('polyline', {points: h.c.map((v, i) => `${x(i)},${y(v)}`).join(' '), fill: 'none', stroke: 'var(--ink)', 'stroke-width': 1.8, 'stroke-linejoin': 'round'}, svg);
+    let lastM = '';
+    h.d.forEach((d, i) => { const m = d.slice(0, 7); if (m !== lastM) { if (i > 0 && +d.slice(5, 7) % 2 === 1) el('text', {x: x(i), y: Ht - 8, 'text-anchor': 'middle'}, svg, ['jan', 'feb', 'mar', 'apr', 'mai', 'jun', 'jul', 'aug', 'sep', 'okt', 'nov', 'des'][+d.slice(5, 7) - 1]); lastM = m; } });
+    const idx = Object.fromEntries(h.d.map((d, i) => [d, i])), col = {contract: 'var(--copper)', insider: 'var(--accent)', report: 'var(--ink)'};
+    h.ev.forEach(e => { const i = idx[e.d]; if (i == null || !col[e.k]) return; const c = el('circle', {cx: x(i), cy: y(h.c[i]), r: 4.5, fill: col[e.k], stroke: 'var(--surface)', 'stroke-width': 1.5}, svg); el('title', {}, c, `${e.d} · ${e.t}`); });
+    const label = {contract: 'Kontrakt', insider: 'Innside', report: 'Rapport', mna: 'Oppkjøp', guidance: 'Guiding', buyback: 'Tilbakekjøp', financing: 'Emisjon'};
+    const evs = h.ev.slice().reverse();
+    $('events').innerHTML = evs.length ? evs.map(e => `<div class="ev"><span class="d">${fmtD(e.d)}</span><span class="t"><span class="kind k-${e.k}">${label[e.k] || e.k}${e.k === 'insider' && e.dir ? (e.dir > 0 ? ' kjøp' : ' salg') : ''}</span>${esc(e.t)}${e.amt ? ` <span class="num">≈ ${nf.format(e.amt / 1e6)} MNOK</span>` : ''}</span></div>`).join('') : '<p class="empty">Ingen relevante børsmeldinger i perioden.</p>';
+  };
+  pick.addEventListener('change', draw); draw();
+})();
+
+// ---------- kvalitet
+(function quality() {
+  const Q = R.quality; $('auc').textContent = `AUC ${Q.auc.toFixed(3).replace('.', ',')} · 0,5 = myntkast`;
+  const svg = $('dec'), W = 440, H = 230, L = 46, T = 12, Bt = 30, Rp = 8, d = Q.deciles.filter(r => r.decile != null);
+  const vals = d.map(r => r.mean), lo = Math.min(0, ...vals), hi = Math.max(0, ...vals), pad = (hi - lo) * 0.15 || 0.001;
+  const y = v => T + (H - T - Bt) * (1 - (v - (lo - pad)) / ((hi + pad) - (lo - pad))), bw = (W - L - Rp) / d.length;
+  niceTicks(lo - pad, hi + pad, 4).forEach(v => { el('line', {x1: L, x2: W - Rp, y1: y(v), y2: y(v), stroke: 'var(--line)'}, svg); el('text', {x: L - 5, y: y(v) + 3.5, 'text-anchor': 'end'}, svg, (v * 100).toFixed(1).replace('.', ',') + '%'); });
+  el('line', {x1: L, x2: W - Rp, y1: y(0), y2: y(0), stroke: 'var(--muted)'}, svg);
+  d.forEach((r, i) => { const x0 = L + i * bw + 3; el('rect', {x: x0, y: Math.min(y(0), y(r.mean)), width: bw - 6, height: Math.abs(y(r.mean) - y(0)), fill: r.mean >= 0 ? 'var(--up)' : 'var(--down)', opacity: .85}, svg); el('text', {x: x0 + (bw - 6) / 2, y: H - 14, 'text-anchor': 'middle'}, svg, r.decile + 1); });
+  el('text', {x: L, y: H - 2}, svg, 'lavest score');
+  el('text', {x: W - Rp, y: H - 2, 'text-anchor': 'end'}, svg, 'høyest score');
+  const ys = Object.entries(Q.auc_by_year);
+  $('years').innerHTML = `<tr>${ys.map(([y]) => `<th class="r">${y}</th>`).join('')}</tr><tr>${ys.map(([, a]) => `<td class="r num ${a > 0.52 ? 'up' : a < 0.5 ? 'down' : ''}">${a.toFixed(3).replace('.', ',')}</td>`).join('')}</tr>`;
+  const imp = R.importance.slice(0, 12), mx = Math.max(...imp.map(i => Math.abs(i.imp)), 1e-6);
+  $('imp').innerHTML = imp.length ? imp.map(i => `<div class="bar"><span>${esc(i.label)}</span><span class="track"><span class="fill" style="width:${Math.max(0, i.imp) / mx * 100}%"></span></span><span class="num r" style="text-align:right">${(i.imp * 1000).toFixed(1).replace('.', ',')}</span></div>`).join('') + '<p class="hint">Tall = AUC-fall × 1000. Under 1 er nær støy.</p>' : '<p class="empty">For lite data til å måle.</p>';
+})();
+
+// ---------- handler
+(function trades() {
+  const draw = which => {
+    const T = which === 'ml' ? R.trades : R.trades_rule;
+    $('b-ml').setAttribute('aria-pressed', which === 'ml'); $('b-rule').setAttribute('aria-pressed', which === 'rule');
+    const n = T.length, wins = T.filter(t => t.ret > 0).length;
+    $('tr-hint').textContent = n ? `${n} handler · ${pctU(wins / n, 0)} med gevinst etter kostnader · viser de 40 nyeste` : 'Ingen handler.';
+    $('trades').innerHTML = n ? `<tr><th>Aksje</th><th>Kjøpt</th><th>Solgt</th><th class="r">Score</th><th class="r">Resultat</th></tr>` + T.slice(0, 40).map(t => `<tr><td><b>${short(t.ticker)}</b> <span class="hint">${esc(name(t.ticker))}</span></td><td class="num">${fmtD(t.entry_date)}</td><td class="num">${fmtD(t.exit_date)}</td><td class="r num">${which === 'ml' ? pctU(t.score, 0) : 'regel'}</td><td class="r num ${cls(t.ret)}">${pct(t.ret)}</td></tr>`).join('') : '';
+  };
+  $('b-ml').onclick = () => draw('ml'); $('b-rule').onclick = () => draw('rule'); draw('ml');
+})();
+
+// ---------- regler
+(function rules() {
+  const r = R.rules;
+  $('rules').innerHTML = [
+    `Signal ved børsslutt, kjøp på neste dags åpningskurs. Meldinger publisert etter 16:20 teller først neste handelsdag.`,
+    `Modellen (gradient boosting) trenes på nytt hver måned, kun på data før måneden, med 10 dagers karantene.`,
+    `Kjøp de ${r.max_new_per_day} beste per dag med score over ${pctU(r.min_prob, 0)}, maks ${r.slots} posisjoner, hver ${pctU(1 / r.slots, 1)} av porteføljen, selg etter ${r.hold_days} handelsdager.`,
+    `${pctU(r.cost_per_side, 1)} kostnad per kjøp og per salg. Bare aksjer med over ${nf.format(r.min_turnover / 1e6)} MNOK snittomsetning per dag.`,
+    `Regelen "KOG-mønster": kontrakter siden siste rapport over 1 % av markedsverdi, aksjen falt på kontraktene, kurs under eller nær SMA200, og ventet rapport innen 30 dager.`,
+    `Tilfeldig sammenligning: ${r.n_random} porteføljer som kjøper like mange aksjer de samme dagene, men tilfeldig valgt.`,
+    `Svakheter: universet er dagens watchlist (aksjer som forsvant er ikke med), markedsverdi bakover bruker dagens aksjeantall, kontraktsverdier er tolket fra tekst, rapportdato er estimert. ${R.data.repaired_jumps} urealistiske kurshopp (f.eks. utskillelser) er nøytralisert.`,
+  ].map(s => `<li>${s}</li>`).join('');
+  $('foot').textContent = `Generert ${R.generated.slice(0, 16).replace('T', ' ')} UTC fra nordnet-scraper/news_ml. Forskning, ikke investeringsråd.`;
+})();
+</script>
