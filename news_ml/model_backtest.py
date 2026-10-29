@@ -137,8 +137,7 @@ def load_news(universe, cal):
     issuer_to_ticker = {u["issuer"]: u["ticker"] for u in universe}
     df["ticker"] = df["issuer"].map(issuer_to_ticker)
     df = df.dropna(subset=["ticker", "published"])
-    df["kind"] = [k if isinstance(k, str) else classify(t, c)
-                  for k, t, c in zip(df.get("kind", [None] * len(df)), df["title"], df["category"])]
+    df["kind"] = [classify(t or "", c or "") for t, c in zip(df["title"], df["category"])]  # alltid nyeste regler
     ts = pd.to_datetime(df["published"], utc=True, errors="coerce")
     df = df[ts.notna()].copy()
     local = ts[ts.notna()].dt.tz_convert(OSLO)
