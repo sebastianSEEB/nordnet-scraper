@@ -1,9 +1,52 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-10-30T03:24:35.182612+00:00",
+  "scraped_at": "2026-10-30T10:32:52.907799+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "4a4b36c594006106",
+      "author": "Aladin01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aladin01",
+      "posted_relative": "for 12 t siden · Endret",
+      "text": "· Er det noen som begynner å gråte :) Bare ta det rolig - vi skal mye lenger ned :) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        4
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "25375443177c30b3",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 58 min siden",
+      "text": "Lærer? Siste idiot er ikke født, det kommer stadig nye.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "6c89cc824eb36a7b",
+      "author": "Zikkzakk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zikkzakk",
+      "posted_relative": "for 2 t siden",
+      "text": "Snart på tide å kjøpe seg inn igjen.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

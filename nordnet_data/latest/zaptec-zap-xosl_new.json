@@ -1,9 +1,23 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-10-30T03:25:49.885621+00:00",
+  "scraped_at": "2026-10-30T10:34:05.287246+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5cc1e5f6bd62ed56",
+      "author": "OverRAS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/overras",
+      "posted_relative": "for 4 t siden",
+      "text": "· Kan produksjonen holde følge, selv med den nåværende oppskaleringen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

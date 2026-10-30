@@ -1,9 +1,53 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-30T03:25:41.854216+00:00",
+  "scraped_at": "2026-10-30T10:33:57.629568+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "83b9d15c315f2e97",
+      "author": "Andyviking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andyviking",
+      "posted_relative": "for 39 min siden",
+      "text": "Jeg prøvde å bruke Google Gemini til å finne konsensusestimater for q3 rapporten (vet ikke hvor nøyaktig det er). Den kom frem til følgende hvertfall:  - Omsetning: 2050-2120 mill nok (1693 q3 2025) - Justert EBITDA: 265-275 mill nok (195 q3 2025) - det vil evt gi omsetningsvekst YoY på 21-25% og EBITDA vekst på 36-41% Hva tror dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 335,
+      "has_link": false
+    },
+    {
+      "key": "5c25568f0631c545",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 2 t siden",
+      "text": "Synlig short har sunket denne uka, er nede i 7.13% nå. Merk, synlig short.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "ae6d6be6bb295594",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 2 t siden",
+      "text": "Tipper det smeller opp her når som helst nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

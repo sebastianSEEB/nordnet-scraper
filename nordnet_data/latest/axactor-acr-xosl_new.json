@@ -1,9 +1,83 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-10-30T03:30:46.761323+00:00",
+  "scraped_at": "2026-10-30T10:38:57.553610+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "c66868eb8af484b1",
+      "author": "@trani",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trani",
+      "posted_relative": null,
+      "text": "3,50 kan selvfølgelig komme, men da er det mer interessant å høre regnestykket bak 3,50 enn selve tallet. Etter Q3 står 104 % collections og lavere finansieringskostnader fast. Samtidig har Nordea i dag justert kursmålet marginalt fra 7,20 til 7,00 kroner og gjentar kjøp. Nordea kan selvsagt ta feil, men forskjellen er at de faktisk har et regnestykke bak kursmålet. 😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 370,
+      "has_link": false
+    },
+    {
+      "key": "a525e69b2cce7c74",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden",
+      "text": "Når du putter 2 4 milliarder inn i selskapet så har du vel troen. Selskapet er feilprosent med ca 100%. Long",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "31ca9d96ffa0bb6e",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden",
+      "text": "I følge Nordea er selskapet 75% undervurdert. Kursmål kr 7. Vi kjøper det har vi har cash til. Long",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "152bded477bd5648",
+      "author": "Toytoy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toytoy",
+      "posted_relative": "for 2 t siden",
+      "text": "En innsidehandel hadde vært på sin plass om ledelsen har trua på det de driver med.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "c44adf96bbde9444",
+      "author": "Rolfkul",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul",
+      "posted_relative": "for 17 min siden",
+      "text": "· 🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-10-30T03:24:09.967928+00:00",
+  "scraped_at": "2026-10-30T10:32:28.955389+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "a2312f5d51035156",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 3 t siden",
+      "text": "Oslo (Infront TDN Direkt): Det ble rapportert to VLCC-slutninger torsdag, ifølge en slutningsliste fra Fearnleys. Fraktraten fra Vest-Afrika til Kina lå på 633,75 worldscalepoeng (WS), opp 7,1 prosent fra forrige slutningsrapport. Den ene slutningen er med last fra Panama til Kina, og den andre slutningen er fra Brasil til enten Østen, India eller Storbritannia. https://www.youtube.com/watch?v=fuKDBPw8wQA Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [
+        "https://www.youtube.com/watch?v=fuKDBPw8wQA"
+      ],
+      "char_count": 428,
+      "has_link": true
+    },
+    {
+      "key": "9fa2b1bded770997",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 2 t siden",
+      "text": "Dersom det medfører at du sover godt/bedre om natta så var valget rett uansett utfall :)  Er litt som å leke med ilden nå selv om markedet ikke priser inn dagens rater.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "2922036b619337aa",
+      "author": "Holder Kanskje",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/holder-kanskje",
+      "posted_relative": "for 35 min siden",
+      "text": "Nei jeg gjør ikke det, jeg ommøblerte igår kveld for tilpassing kommende uker, trodde naturligvis at jeg gjorde rett, men!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    }
+  ]
 }

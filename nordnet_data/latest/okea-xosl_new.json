@@ -1,9 +1,23 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-30T03:28:18.607157+00:00",
+  "scraped_at": "2026-10-30T10:36:31.922859+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f3d64b0fee1873c8",
+      "author": "High Way to...",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/high-way-to",
+      "posted_relative": "for 1 t siden",
+      "text": "noen med noen tanker om hva som skjer her når Q3 kommer til uka?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }

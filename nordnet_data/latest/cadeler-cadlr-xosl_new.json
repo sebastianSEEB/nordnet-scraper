@@ -1,9 +1,38 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-10-30T03:27:00.202608+00:00",
+  "scraped_at": "2026-10-30T10:35:15.143704+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "74cd6deeb16434f2",
+      "author": "Tenkern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tenkern",
+      "posted_relative": "for 13 min siden",
+      "text": "Det blir det ikke. Cadeler plc er ett annent selskap, som du nå vil få aksjer i. Hvilke kurs det blir på er litt uklart, men uansett om den starter på 55 eller 60 så er de underliggende verdiene de samme. Det nye plc selskapet vil ha 7,5% færre aksjer på grunn av tvangsinløsingen. Det vil si at din relative eierandel i selskapet blir større",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 342,
+      "has_link": false
+    },
+    {
+      "key": "5cac46cc2ab1e4cd",
+      "author": "Gorvita",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gorvita",
+      "posted_relative": "for 20 min siden",
+      "text": "Jeg sa ja til utflyttingen og ser kursen er frosset inntil videre.. Når blir den justert opp på dagens?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

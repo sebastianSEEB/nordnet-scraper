@@ -1,9 +1,51 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-10-30T03:26:41.128022+00:00",
+  "scraped_at": "2026-10-30T10:34:56.308304+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3a56c53421950c52",
+      "author": "Predator Capital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/predator-capital",
+      "posted_relative": "for 1 t siden",
+      "text": "Er dette en kjøpsmulighet? Den har stått stille lenge? Hva tror vi om kvartalstallene som kommer? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    },
+    {
+      "key": "abef0c62b9793710",
+      "author": "spurtus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurtus",
+      "posted_relative": "for 18 min siden",
+      "text": "Tror de blir gode. Solid selskap",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "9b082c00ad4cff3d",
+      "author": "spurtus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurtus",
+      "posted_relative": null,
+      "text": "26. okt. Der traff du bra",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

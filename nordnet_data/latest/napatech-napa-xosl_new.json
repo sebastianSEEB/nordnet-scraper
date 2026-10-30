@@ -1,9 +1,67 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-30T03:26:56.419062+00:00",
+  "scraped_at": "2026-10-30T10:35:11.355094+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "fd49b11e365898d3",
+      "author": "Killerbill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/killerbill",
+      "posted_relative": "for 49 min siden",
+      "text": "· Hvorfor sniker disse trollene seg alltid inn i disse gruppene, pøbelen paniker jo hver eneste gang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "caa15571643aabd1",
+      "author": "Augustavesta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/augustavesta",
+      "posted_relative": "for 2 t siden",
+      "text": "· Vi får se, er spennende, på mandag er vi direkte på 3 dager før rapportdag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "c0e083e059380860",
+      "author": "Augustavesta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/augustavesta",
+      "posted_relative": "for 2 t siden",
+      "text": "· Virker som om den skal teste de aller laveste nivåene i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "783e92f303206b7b",
+      "author": "Funbet777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funbet777",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare vent til på mandag så ser vi 30 eller derunder 😁😁😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,27 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-10-30T03:25:06.449850+00:00",
+  "scraped_at": "2026-10-30T10:33:23.275692+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5fca151c5d5d4c5b",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "26. okt. SB1M med oppdatering Dof, Soff, Soma: https://osvnyheter.no/offshore-nyheter-uke-44-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://osvnyheter.no/offshore-nyheter-uke-44-2026"
+      ],
+      "char_count": 97,
+      "has_link": true
+    }
+  ]
 }

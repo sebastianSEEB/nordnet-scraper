@@ -1,9 +1,39 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-10-30T03:26:25.327443+00:00",
+  "scraped_at": "2026-10-30T10:34:40.279191+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9be242e06ad9c93c",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Konsernsjef Dag Teigland i Elkem har gjennom sitt heleide selskap Tibidabo Industrier AS kjøpt 30.000 aksjer i Elkem til en snittkurs på 31,46 kroner pr aksje.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    },
+    {
+      "key": "5fde674860b572d7",
+      "author": "Vigeland2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vigeland2025",
+      "posted_relative": "for 19 min siden",
+      "text": "Skal du selge aksjen siden du driver på å kopierer inn nyheter fra venstre i bildet til 5 cm til høyre?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    }
+  ]
 }

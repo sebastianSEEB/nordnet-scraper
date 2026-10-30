@@ -1,9 +1,36 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-10-30T03:30:35.403310+00:00",
+  "scraped_at": "2026-10-30T10:38:46.082601+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "eeae0d297032301a",
+      "author": "bok75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bok75",
+      "posted_relative": "for 13 min siden",
+      "text": "Nedadgående trend - men denne går nok ikke på dunken.  Følger min strategi som for mye annet - kjøpe litt hver måned så lenge det går nedover og er under  en viss prosentvis avkastning.  Begynte innkjøp av denne for en måned siden, på grunn av nedadgående trend...så får man se hvor lang tid det eventuelt tar til den snur...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 325,
+      "has_link": false
+    },
+    {
+      "key": "fd15d9b5b816f659",
+      "author": "mfas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mfas",
+      "posted_relative": "for 2 t siden",
+      "text": "PARB er ikke en 100-kroners aksje. Selv om de tjener godt i gode tider skal de prises lavere på multipler enn trauste spare- og forretningsbanker pga risikoen som en periode var glemt før krakket i år.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 201,
+      "has_link": false
+    }
+  ]
 }

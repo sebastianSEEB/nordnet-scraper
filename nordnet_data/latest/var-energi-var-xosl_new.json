@@ -1,9 +1,38 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-10-30T03:29:36.686880+00:00",
+  "scraped_at": "2026-10-30T10:37:48.500450+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cfb5edec6ace5428",
+      "author": "I like",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/i-like",
+      "posted_relative": "for 2 t siden",
+      "text": "Sjekk ut teknisk analyse på VAR.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "0150f115921af046",
+      "author": "Gjøkur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gjkur",
+      "posted_relative": "for 39 min siden",
+      "text": "TTF 102,255 EUR, opp 4,5%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

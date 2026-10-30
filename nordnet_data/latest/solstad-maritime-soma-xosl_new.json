@@ -1,9 +1,57 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-10-30T03:29:56.117134+00:00",
+  "scraped_at": "2026-10-30T10:38:07.573267+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5fca151c5d5d4c5b",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "26. okt. SB1M med oppdatering Dof, Soff, Soma: https://osvnyheter.no/offshore-nyheter-uke-44-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://osvnyheter.no/offshore-nyheter-uke-44-2026"
+      ],
+      "char_count": 97,
+      "has_link": true
+    },
+    {
+      "key": "91d7ec4137b9c36f",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 8 min siden",
+      "text": "Kontrakt til Australis i APAC: https://osvnyheter.no/offshore-nyheter-uke-44-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://osvnyheter.no/offshore-nyheter-uke-44-2026"
+      ],
+      "char_count": 81,
+      "has_link": true
+    },
+    {
+      "key": "7586664b99ad25fa",
+      "author": "Blue2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blue2",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "God mulighet i dag til å kjøpe seg inn eller fylle på før Q3 4. november og utbytte🙂 *NFA",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

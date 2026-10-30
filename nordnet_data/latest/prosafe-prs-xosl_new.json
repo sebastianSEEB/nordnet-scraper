@@ -1,9 +1,39 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-30T03:31:44.991518+00:00",
+  "scraped_at": "2026-10-30T10:39:54.302798+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b31280b0ac91f10b",
+      "author": "tybring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tybring",
+      "posted_relative": "for 26 min siden",
+      "text": "Mange her som har enorm innsikt i tallene til Prosafe.  Det viktige er ikke tallene for Q3, men fremtiden.  De 2 fremste ekspertene her inne sier at selskapet skal tjene > 1 milliard i 2027 før skatt,  og skal stige minst 4 kr for hver kontrakt de melder. De skal visstnok få flere kontrakter. Tror derfor du kan regne på et selskapsverdi på rundt 10 milliard ula 2027, men mulig jeg er litt for konservativ. Tybring",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 416,
+      "has_link": false
+    },
+    {
+      "key": "9df84808b5cd0650",
+      "author": "EmilMathias",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emilmathias",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva tenker folk om Q3 rapport? Noen som har noen tall å dele?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

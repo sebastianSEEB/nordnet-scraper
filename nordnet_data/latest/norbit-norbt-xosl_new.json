@@ -1,9 +1,52 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-10-30T03:26:17.470973+00:00",
+  "scraped_at": "2026-10-30T10:34:32.589182+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "0291b7afffc1dd37",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare noen som bestemte seg for å dumpe 20k aksjer rett etter åpning :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "35fd67bb60a3e067",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": "for 2 t siden",
+      "text": "Der var det noen som satte en grei stopper for det bruddet :D",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "62b86933b0746c96",
+      "author": "Jipp91",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jipp91",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjer her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

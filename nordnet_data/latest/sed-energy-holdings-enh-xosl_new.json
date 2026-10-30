@@ -1,39 +1,50 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-30T03:27:04.022985+00:00",
+  "scraped_at": "2026-10-30T10:35:19.100360+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "d6bb0d77169854b7",
-      "author": "Buttersideup",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buttersideup",
-      "posted_relative": "for 5 t siden",
-      "text": "· Har jeg rett i at hvis jeg kjøpte ventura i dag ville jeg få en for 6,03 ca.? 33,2/5,5=6,03 Vis 1 kommentar til",
+      "key": "4e637c8eb2974fb4",
+      "author": "knors",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knors",
+      "posted_relative": "for 2 t siden",
+      "text": "· Jeg tenker at utbyttet blir nedsatt etter fusjonen. Sannsynligvis til nivået 10 - 12 %. Det vil være fusjonsomkostninger, utgifter til DNB 250 mill bruttolån, og store kostnader for å søke notering på NYSE. Jeg tror ikke utbyttet forsvinner helt med mindre det skjer noe uventet og jeg mener at fusjonen blir gjennomført under alle omstendigheter, men kanskje med justeringer. Her står SED sterkt etter den nye riggkontrakten.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 113,
+      "char_count": 428,
       "has_link": false
     },
     {
-      "key": "b2f7e327e603922c",
-      "author": "GabW",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
-      "posted_relative": "for 1 t siden",
-      "text": "Skjønner veldig godt hvor du vil og forstår den. Er også en mulighet å kjøre 50/50.",
+      "key": "29e1ea42a17defb0",
+      "author": "Buttersideup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buttersideup",
+      "posted_relative": "for 12 t siden",
+      "text": "· Er det noen som har tanker om utvanningen av aksjene når Ventura får 45% av den samlede aksjekapitalen. Er med på at de kommer med en verdi, men en viss utvanning må vel skje? Tanker om fremtidig utbytte vil også være fint:)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        3
       ],
       "links": [],
-      "char_count": 83,
+      "char_count": 226,
+      "has_link": false
+    },
+    {
+      "key": "4c94fe84a3038248",
+      "author": "Tomhallvard",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tomhallvard",
+      "posted_relative": "for 3 t siden",
+      "text": "Tror ikke risikoen er så stor for at fusjonen ikke går igjennom, men det er alltid en risiko. Har selv kjøpt noe Ventura aksjer, på grunn av fusjonen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
       "has_link": false
     }
   ]

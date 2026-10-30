@@ -1,9 +1,41 @@
 {
   "slug": "sparebanken-norge-sbnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebanken-norge-sbnor-xosl",
-  "scraped_at": "2026-10-30T03:28:33.979851+00:00",
+  "scraped_at": "2026-10-30T10:36:47.170702+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "20198d66ecc25cf4",
+      "author": "Ophon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
+      "posted_relative": "for 2 t siden",
+      "text": "Gir ingen mening å skatte mer. Staten er allerede storeier i norske banker, da særlig DnB. Banker gir også en stor andel av overskuddet tilbake til fellesskapet. Regningen på økt skatt kommer til å bli sendt rett til forbrukeren.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 229,
+      "has_link": false
+    },
+    {
+      "key": "6734e1633be47b72",
+      "author": "pewan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pewan",
+      "posted_relative": null,
+      "text": "23. okt. Kursmål Pareto kr 220. Anbefaler kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

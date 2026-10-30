@@ -1,9 +1,36 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-10-30T03:29:32.797091+00:00",
+  "scraped_at": "2026-10-30T10:37:44.770326+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a136acabc99244cd",
+      "author": "Senthil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/senthil",
+      "posted_relative": null,
+      "text": "26. okt. · Jeg ville vente litt da 30 min-grafen er under SELG. Jeg ville gå inn på 255",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "3db07a870d943c57",
+      "author": "mini_85",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mini_85",
+      "posted_relative": null,
+      "text": "26. okt. Hagler i kursmål i dag😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

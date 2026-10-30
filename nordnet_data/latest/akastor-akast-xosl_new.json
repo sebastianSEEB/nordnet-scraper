@@ -1,9 +1,54 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-10-30T03:28:49.730053+00:00",
+  "scraped_at": "2026-10-30T10:37:02.544204+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e1c86a1551b4308d",
+      "author": "Svarttinden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svarttinden",
+      "posted_relative": "for 12 t siden",
+      "text": "Kveldens investorliste. F1 og F2 Funds AS selger med tempo i Akastor. hovedinvestorene: Tom Hagen og Fredrik Daylemani Sneve gir labb, og har samlet solgt over 4 millioner aksjer siden 1. juni. Lurer på hvorfor det lempes ut aksjer i Akastor rett før Q3? De har vært stødige toppliste aksjeeiere i mange år😎 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 327,
+      "has_link": false
+    },
+    {
+      "key": "6e1f43558caaba74",
+      "author": "trengas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trengas",
+      "posted_relative": "for 3 t siden",
+      "text": "NES er oikke solgt, de holder fortsatt 15% , De har fått 529 mill i cash finansiert av NES sin obligasjonsutstedelse på 650 mill USD",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "30e5d77e241b5071",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 56 min siden",
+      "text": "Olje og shippng har jo gått ganske bra det siste året, så kan jo være det at de har sett større muligheter der en her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    }
+  ]
 }

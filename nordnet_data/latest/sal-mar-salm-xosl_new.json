@@ -1,9 +1,55 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-10-30T03:27:58.827218+00:00",
+  "scraped_at": "2026-10-30T10:36:12.707647+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "43e8c463b9d90d81",
+      "author": "refsky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/refsky",
+      "posted_relative": "for 2 t siden",
+      "text": "På tirsdag legger Salmar frem Q3. Da Mov gjorde det samme steg aksjen 5%. Skjer det samme på tirsag ser vi Salmar i 604. Løp og kjøp!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "6ce18a82f0bf2b1a",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 2 t siden",
+      "text": "· ABG Sundal Collier høyer kursmålet for Salmar til 664 norske kroner (655), gjentar kjøp - BN",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "0d20da5d42e8976d",
+      "author": "kurhan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurhan",
+      "posted_relative": "for 1 t siden",
+      "text": "Da har den ene av de 3 store shorterne kastet kortene,  WORLDQUANT, LLC",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

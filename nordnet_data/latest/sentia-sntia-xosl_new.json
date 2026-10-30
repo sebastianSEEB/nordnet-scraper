@@ -1,9 +1,28 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-10-30T03:30:07.809764+00:00",
+  "scraped_at": "2026-10-30T10:38:18.869836+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5e6b342fc3c57239",
+      "author": "Shaqz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shaqz",
+      "posted_relative": null,
+      "text": "26. okt. https://www.hent.no/2026/10/20/hent-signerer-ny-milliardkontrakt-med-fornebubanen/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        5
+      ],
+      "links": [
+        "https://www.hent.no/2026/10/20/hent-signerer-ny-milliardkontrakt-med-fornebubanen/"
+      ],
+      "char_count": 91,
+      "has_link": true
+    }
+  ]
 }
