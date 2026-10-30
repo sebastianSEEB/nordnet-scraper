@@ -1,66 +1,39 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-30T16:56:04.457467+00:00",
+  "scraped_at": "2026-10-30T21:18:24.774896+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "46012f3c5fab9359",
-      "author": "El-toro",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/el-toro-2",
+      "key": "6f69a8a9e2a5238b",
+      "author": "andybreak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andybreak",
       "posted_relative": "for 2 t siden",
-      "text": "Ferdig !!!Du må jo selfølgelig ta høyde for at saken kan  bli anket her av utfallet",
+      "text": "· Som i går tikker VLCC-spotratene opp, Suez og Afra spot tikker ned. TD3C FFA opp↗️ VLCC TD3C FFA Nov opp ~+4%↗️ TD3C TCE (AG>CN) +6k til 1,351➡️ TD22 TCE (US>CN) +19k til 496k↗️ SUEZ TCE -13k til 570↘️ AFRA TCE -9k til 303k↘️ BWET -0,3%⬆️ $HUNT $CAPT $DHT $ECO $FRO $BWET [#OOTT](<https://twitter.com/hashtag/OOTT>)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://twitter.com/hashtag/OOTT>)"
+      ],
+      "char_count": 317,
+      "has_link": true
+    },
+    {
+      "key": "10f0849e83bd7637",
+      "author": "andybreak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andybreak",
+      "posted_relative": "for 3 t siden",
+      "text": "Er vel greit å nevne at f.eks Trafigura ikke har stilt spørsmål rundt index og prisingen. At de hele veien har betalt etter index demonstrerer jo også i stor grad at markedet har akseptert Baltic som troverdig.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 83,
-      "has_link": false
-    },
-    {
-      "key": "fcc12f0faa804d8f",
-      "author": "roerho",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/roerho",
-      "posted_relative": "for 1 t siden",
-      "text": "Når er Iran krisen over..alt annet betyr jo ingenting..",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 55,
-      "has_link": false
-    },
-    {
-      "key": "7bf50f36d002db01",
-      "author": "akjsekonge1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akjsekonge1",
-      "posted_relative": "for 1 t siden",
-      "text": "Bro, kordan skal noen av oss vite det",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 37,
-      "has_link": false
-    },
-    {
-      "key": "83a5792493da4e2f",
-      "author": "Seezers_palace",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/seezers_palace",
-      "posted_relative": "for 2 t siden",
-      "text": "Når er rettsaken over?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        4
-      ],
-      "links": [],
-      "char_count": 22,
+      "char_count": 210,
       "has_link": false
     }
   ]
