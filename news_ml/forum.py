@@ -31,6 +31,7 @@ import pandas as pd
 OSLO = ZoneInfo("Europe/Oslo")
 CUTOFF = dtime(16, 0)
 MIN_RELEVANCE = 0.3
+MIN_POSTS_5D = 150
 FORUM_FEATURES = ["f_n5", "f_attn_z", "f_sent5", "f_sent20", "f_sent_chg", "f_div5", "f_newsy5"]
 FORUM_LABELS = {
     "f_n5": "Antall innlegg 5 d", "f_attn_z": "Forum-oppmerksomhet mot normalt",
@@ -91,7 +92,15 @@ def build_forum_features(data_dir, slug_to_ticker, cal, tickers, ret5):
     def piv(frame, col, agg="sum"):
         return frame.pivot_table(index="date", columns="ticker", values=col, aggfunc=agg)
 
-    first = df["date"].min()
+    # start der scraperen faktisk dekker forumet (arkivet har noen få eldgamle enkeltinnlegg):
+    # første dag der de siste 5 handelsdagene til sammen har minst MIN_POSTS_5D relevante innlegg
+    daily_tot = rel.groupby("date").size().reindex(cal, fill_value=0)
+    ok = daily_tot.rolling(5, min_periods=5).sum() >= MIN_POSTS_5D
+    if not ok.any():
+        return pd.DataFrame(columns=["date", "ticker"] + FORUM_FEATURES), info
+    first = ok.idxmax() - pd.Timedelta(days=0)
+    first = cal[max(0, cal.get_loc(first) - 4)]
+    rel = rel[rel["date"] >= first]
     span = cal[(cal >= first) & (cal <= cal[-1])]
     T = list(tickers)
     n = piv(rel.assign(one=1.0), "one").reindex(index=span, columns=T).fillna(0.0)
@@ -114,8 +123,8 @@ def build_forum_features(data_dir, slug_to_ticker, cal, tickers, ret5):
     long = pd.concat([m.stack(future_stack=True).rename(k) for k, m in feats.items()], axis=1)
     long.index.names = ["date", "ticker"]
     long = long.reset_index()
-    # de første 20 dagene er oppvarming for rullende vinduer
-    warm = span[min(19, len(span) - 1)]
+    # de første 10 dagene er oppvarming (5-dagersvinduene er fulle; 20-dagers er delvis)
+    warm = span[min(9, len(span) - 1)]
     long = long[long["date"] >= warm]
     info.update({"first_day": str(first.date()), "warm_from": str(warm.date()), "last_day": str(span[-1].date()),
                  "days": int((span >= warm).sum()), "tickers_with_posts": int((n.sum() > 0).sum()),
