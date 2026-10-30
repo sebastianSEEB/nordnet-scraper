@@ -2,8 +2,9 @@ name: Nyhets-ML paper trading
 
 on:
   schedule:
-    # Hverdager etter børsslutt. 15:50 UTC = 16:50 vintertid / 17:50 sommertid.
-    - cron: '50 15 * * 1-5'
+    # Hverdager etter børsslutt, etter at sentiment-workflowen (15:35 UTC) har scoret dagens innlegg.
+    # 16:30 UTC = 17:30 vintertid / 18:30 sommertid.
+    - cron: '30 16 * * 1-5'
   workflow_dispatch:
     inputs:
       news_minutes:

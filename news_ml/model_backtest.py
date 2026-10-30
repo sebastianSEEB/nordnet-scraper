@@ -41,6 +41,8 @@ from sklearn.metrics import roc_auc_score
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from news_ml.common import (BENCHMARK, NEWS_DIR, OUT_DIR, PRICE_DIR, classify,  # noqa: E402
                             insider_direction, load_universe, parse_amount_nok)
+from news_ml.common import DATA_DIR  # noqa: E402
+from news_ml.forum import FORUM_FEATURES, FORUM_LABELS, build_forum_features  # noqa: E402
 
 OSLO = ZoneInfo("Europe/Oslo")
 
@@ -53,7 +55,12 @@ COST_PER_SIDE = 0.002     # 0,1 % kurtasje + 0,1 % glidning, per kjøp og per sa
 MIN_TURNOVER = 2e6        # minst 2 MNOK snittomsetning per dag (20 d) for å kunne handles
 START_CAPITAL = 100_000.0
 MIN_TRAIN_DAYS = 500      # ~2 års historikk før første test
-N_RANDOM = 300
+N_RANDOM = int(os.environ.get("NEWS_ML_NRANDOM", "300"))
+# Forum-tillegget, bestemt FØR forumresultatene ble sett: 60 % modellscore + 40 % "forum positivt mens
+# kursen faller" (samme idé som KOG: gode nyheter som ikke er priset inn). Kjøp topp 10 % av dagen, maks 3.
+FORUM_W_MODEL, FORUM_W_DIV = 0.6, 0.4
+FORUM_TOP = 0.90
+N_PERM_FORUM = 500
 JUMP_LIMIT = 0.45         # daglige hopp større enn ±45 % behandles som selskapshendelse (f.eks. utskillelse)
 
 FEATURES = [
@@ -97,10 +104,15 @@ def load_prices():
     px = px[px["close"] > 0]
     piv = {c: px.pivot_table(index="date", columns="ticker", values=c, aggfunc="last")
            for c in ["open", "close", "adj_close", "volume", "high", "low"]}
-    cal = piv["close"].index.sort_values()
-    if BENCHMARK in piv["close"].columns:
-        cal = piv["close"][BENCHMARK].dropna().index.sort_values()
+    stocks = piv["close"].drop(columns=[BENCHMARK], errors="ignore")
+    cal = stocks.index[stocks.notna().sum(axis=1) >= 0.5 * stocks.shape[1]].sort_values()
+    if BENCHMARK in piv["close"].columns:  # OSEBX på Yahoo henger noen ganger en dag etter
+        b = piv["close"][BENCHMARK].dropna()
+        cal = cal[cal >= b.index.min()]
     piv = {k: v.reindex(cal) for k, v in piv.items()}
+    if BENCHMARK in piv["close"].columns:
+        for k in ("open", "close", "adj_close", "high", "low"):
+            piv[k][BENCHMARK] = piv[k][BENCHMARK].ffill(limit=3)
     shares = {}
     sp = os.path.join(PRICE_DIR, "shares.json")
     if os.path.exists(sp):
@@ -451,7 +463,7 @@ def clean(o):
 
 
 # =============================================================== live paper trading (fremover)
-def update_live(live_path, latest_signals, px, cal):
+def update_live(live_path, latest_signals, px, cal, score_col="p", min_score=MIN_PROB):
     """Ekte paper trading fra i dag og fremover - ingen backtest, ingen fasit."""
     C, O = px["C"], px["O"]
     today = cal[-1]
@@ -494,16 +506,148 @@ def update_live(live_path, latest_signals, px, cal):
     # nye ordre fra dagens signaler (fylles på neste åpning)
     free = SLOTS - len(st["positions"]) - len(st["pending"])
     held = {p["ticker"] for p in st["positions"]} | {o["ticker"] for o in st["pending"]}
-    cand = latest_signals[latest_signals["tradeable"] & (latest_signals["p"] >= MIN_PROB)
-                          & ~latest_signals["ticker"].isin(held)].sort_values("p", ascending=False)
+    cand = latest_signals[latest_signals["tradeable"] & (latest_signals[score_col] >= min_score)
+                          & ~latest_signals["ticker"].isin(held)].sort_values(score_col, ascending=False)
     eq_now = st["equity"][-1]["equity"] if st["equity"] else st["cash"]
     for _, r in cand.head(max(0, min(MAX_NEW_PER_DAY, free))).iterrows():
         st["pending"].append({"ticker": r["ticker"], "signal_date": str(today.date()), "alloc": eq_now / SLOTS,
-                              "p": float(r["p"])})
+                              "p": float(r[score_col])})
     st["last_date"] = str(today.date())
     with open(live_path, "w") as f:
         json.dump(clean(st), f, indent=1)
     return st
+
+
+# =============================================================== forum-tillegg
+def add_combo(df, p_col="p"):
+    """Kombinert score per dag: 60 % rang på modellscore + 40 % rang på 'forum positivt mens kursen faller'."""
+    df = df.copy()
+    trad = df["tradeable"].astype(bool)
+    g = df[trad].groupby("date")
+    rp = g[p_col].rank(pct=True)
+    rd = g["f_div5"].rank(pct=True)
+    combo = FORUM_W_MODEL * rp + FORUM_W_DIV * rd.fillna(0.5)
+    df["combo"] = np.nan
+    df.loc[trad, "combo"] = combo
+    df["combo_rank"] = df[trad].assign(combo=combo).groupby("date")["combo"].rank(pct=True)
+    df["combo_rank"] = df["combo_rank"].fillna(0.0)
+    return df
+
+
+def daily_ic_matrix(F, Y):
+    """Snitt av daglig Spearman-korrelasjon. F, Y: numpy dato x aksje med NaN."""
+    ics = []
+    for f, y in zip(F, Y):
+        m = np.isfinite(f) & np.isfinite(y)
+        if m.sum() < 8:
+            continue
+        a, b = pd.Series(f[m]).rank().to_numpy(), pd.Series(y[m]).rank().to_numpy()
+        if a.std() == 0 or b.std() == 0:
+            continue
+        ics.append(np.corrcoef(a, b)[0, 1])
+    return np.array(ics)
+
+
+def forum_analysis(panel, preds, latest, px, cal, universe, name_of):
+    slug_to_ticker = {u["slug"]: u["ticker"] for u in universe}
+    C = px["C"]
+    T = list(C.columns)
+    feats, info = build_forum_features(DATA_DIR, slug_to_ticker, cal, T, C / C.shift(5) - 1)
+    status = None
+    sp = os.path.join(DATA_DIR, "sentiment", "score_status.json")
+    if os.path.exists(sp):
+        status = json.load(open(sp, encoding="utf-8"))
+    out = {"available": False, "info": info, "score_status": status,
+           "weights": {"model": FORUM_W_MODEL, "div": FORUM_W_DIV, "top": FORUM_TOP}}
+    if feats.empty or info.get("days", 0) < 5:
+        return out, latest
+
+    r1 = C.pct_change(fill_method=None)
+    ex_today = r1.sub(px["bench"].pct_change(fill_method=None), axis=0).stack(future_stack=True).rename("ex_today")
+    ex_today.index.names = ["date", "ticker"]
+    w = preds[preds["date"] >= feats["date"].min()][["date", "ticker", "p", "fwd_ex", "tradeable", "close"]]
+    w = w.merge(feats, on=["date", "ticker"], how="left").merge(ex_today.reset_index(), on=["date", "ticker"],
+                                                                 how="left")
+    w = add_combo(w)
+    w["ret5"] = w.merge((C / C.shift(5) - 1).stack(future_stack=True).rename("r5").reset_index(),
+                        on=["date", "ticker"], how="left")["r5"].to_numpy()
+
+    # ---- IC: reagerer forumet (samme dag) eller forutsier det (neste 10 dager)?
+    tw = w[w["tradeable"].astype(bool)]
+    dates = sorted(tw["date"].unique())
+    lab_dates = sorted(tw.dropna(subset=["fwd_ex"])["date"].unique())
+    rng = np.random.RandomState(1)
+    tick = sorted(tw["ticker"].unique())
+
+    def wide(col, ds):
+        return tw.pivot_table(index="date", columns="ticker", values=col).reindex(index=ds, columns=tick).to_numpy()
+
+    Yf, Y0 = wide("fwd_ex", lab_dates), wide("ex_today", dates)
+    ic_rows = []
+    for col in FORUM_FEATURES + ["p", "combo"]:
+        Ff, F0 = wide(col, lab_dates), wide(col, dates)
+        icf, ic0 = daily_ic_matrix(Ff, Yf), daily_ic_matrix(F0, Y0)
+        row = {"feature": col, "label": FORUM_LABELS.get(col, {"p": "Modellscore (uten forum)",
+                                                               "combo": "Kombinert (modell + forum)"}[col]
+                                                     if col in ("p", "combo") else col),
+               "ic_same_day": float(ic0.mean()) if len(ic0) else None,
+               "ic_fwd": float(icf.mean()) if len(icf) else None, "days_fwd": int(len(icf))}
+        if len(icf) >= 5:
+            t_raw = icf.mean() / (icf.std(ddof=1) + 1e-12) * math.sqrt(len(icf))
+            row["t_adj"] = float(t_raw / math.sqrt(HOLD))  # 10-dagers vinduer overlapper
+            # tilfeldighetstest: stokk HVILKEN aksje forum-dataene hører til (samme stokking alle dager,
+            # så tidsavhengigheten i overlappende vinduer bevares)
+            null = []
+            for _ in range(N_PERM_FORUM):
+                perm = rng.permutation(Ff.shape[1])
+                v = daily_ic_matrix(Ff[:, perm], Yf)
+                null.append(v.mean() if len(v) else 0.0)
+            row["p_perm"] = float((np.abs(null) >= abs(icf.mean())).mean())
+        ic_rows.append(row)
+
+    # ---- paper trading i forumperioden: modell alene mot modell + forum
+    start, end = pd.Timestamp(dates[0]), pd.Timestamp(cal[-1])
+    eq_b, tr_b, _ = simulate(w, px, cal, start, end, score_col="p", min_score=MIN_PROB)
+    eq_c, tr_c, n_new = simulate(w, px, cal, start, end, score_col="combo_rank", min_score=FORUM_TOP)
+    bench = px["bench"].reindex(eq_b.index)
+    bench_eq = bench / bench.iloc[0] * START_CAPITAL
+    rnd = []
+    rs = np.random.RandomState(7)
+    for _ in range(200):
+        e, _, _ = simulate(w, px, cal, start, end, rng=rs, entries_per_day=n_new)
+        rnd.append(e.iloc[-1])
+    # grupper: snitt meravkastning 10 d for topp 20 % etter hver score
+    lab = tw.dropna(subset=["fwd_ex"])
+
+    def top_mean(col):
+        q = lab.groupby("date")[col].rank(pct=True)
+        sel = lab[q >= 0.8]
+        return float(sel["fwd_ex"].mean()) if len(sel) else None
+
+    out.update({
+        "available": True,
+        "window": {"start": str(start.date()), "end": str(end.date()), "days": len(dates),
+                   "labelled_days": len(lab_dates), "independent_periods": round(len(lab_dates) / HOLD, 1)},
+        "ic": ic_rows,
+        "top20": {"model": top_mean("p"), "combo": top_mean("combo"), "all": float(lab["fwd_ex"].mean())
+                  if len(lab) else None},
+        "h2h": {"d": [str(d.date()) for d in eq_b.index], "model": list(eq_b.to_numpy()),
+                "combo": list(eq_c.reindex(eq_b.index).to_numpy()), "bench": list(bench_eq.to_numpy()),
+                "m_model": metrics(eq_b, tr_b, bench_eq), "m_combo": metrics(eq_c, tr_c, bench_eq),
+                "random_median": float(np.median(rnd) / START_CAPITAL - 1),
+                "random_p": float((np.array(rnd) >= eq_c.iloc[-1]).mean())},
+        "trades_combo": sorted([{**t, "name": name_of.get(t["ticker"], t["ticker"])} for t in tr_c],
+                               key=lambda t: t["entry_date"], reverse=True),
+    })
+    sent = w.dropna(subset=["f_sent5"])
+    out["_sent_hist"] = {t: {str(d.date()): round(float(v), 3) for d, v in zip(g["date"], g["f_sent5"])}
+                         for t, g in sent.groupby("ticker")}
+
+    # ---- dagens kombinerte score
+    today = latest["date"].max()
+    lt = latest.merge(feats[feats["date"] == today], on=["date", "ticker"], how="left")
+    lt = add_combo(lt)
+    return out, lt
 
 
 # =============================================================== main
@@ -585,16 +729,24 @@ def main():
     today = panel["date"].max()
     latest = panel[panel["date"] == today].copy()
     latest["p"] = final_model.predict_proba(latest[FEATURES])[:, 1]
-    show_cols = ["contract_rel_mcap_qtd", "contract_react_90", "n_contract_90", "insider_net_90",
-                 "dist_sma200", "days_to_report", "ret_20", "dd_252"]
-    signals_today = [{"ticker": r["ticker"], "name": name_of.get(r["ticker"], r["ticker"]), "p": r["p"],
-                      "tradeable": bool(r["tradeable"]), "close": r["close"],
-                      **{c: r[c] for c in show_cols}}
-                     for _, r in latest.sort_values("p", ascending=False).head(25).iterrows()]
 
-    live = None
+    # ---- forumsentiment (Nordnet-scraperen): tester tillegget på perioden der forumdata finnes
+    forum, latest = forum_analysis(panel, preds, latest, px, cal, universe, name_of)
+
+    live = live_forum = None
     if not args.no_live:
         live = update_live(os.path.join(args.out, "paper_live.json"), latest, px, cal)
+        if "combo_rank" in latest:
+            live_forum = update_live(os.path.join(args.out, "paper_live_forum.json"), latest, px, cal,
+                                     score_col="combo_rank", min_score=FORUM_TOP)
+    forum["live"] = live_forum
+
+    show_cols = ["contract_rel_mcap_qtd", "contract_react_90", "n_contract_90", "insider_net_90",
+                 "dist_sma200", "days_to_report", "ret_20", "dd_252", "f_sent5", "f_div5", "f_n5", "combo_rank"]
+    signals_today = [{"ticker": r["ticker"], "name": name_of.get(r["ticker"], r["ticker"]), "p": r["p"],
+                      "tradeable": bool(r["tradeable"]), "close": r["close"],
+                      **{c: r.get(c) for c in show_cols}}
+                     for _, r in latest.sort_values("p", ascending=False).head(25).iterrows()]
 
     # ---- historikk per aksje siste ~9 mnd (score + kurs + meldinger) til dashboardet
     hist_start = end - pd.Timedelta(days=270)
@@ -610,6 +762,9 @@ def main():
                           "c": [round(float(x), 3) for x in g["close"]], "p": [round(float(x), 4) for x in g["p"]],
                           "ev": [{"d": str(r["sday"].date()), "k": r["kind"], "t": r["title"][:140],
                                   "amt": r["amount"], "dir": int(r["ins_dir"])} for _, r in ev.iterrows()]}
+        sh = forum.get("_sent_hist", {}).get(t)
+        if sh:
+            ticker_hist[t]["s"] = [sh.get(d) for d in ticker_hist[t]["d"]]
 
     step = max(1, len(eq) // 600)
     curve_idx = list(range(0, len(eq), step)) + ([len(eq) - 1] if (len(eq) - 1) % step else [])
@@ -644,7 +799,8 @@ def main():
         "names": name_of,
         "ticker_hist": ticker_hist,
         "case": args.case,
-        "feature_labels": FEATURE_NO,
+        "feature_labels": {**FEATURE_NO, **FORUM_LABELS},
+        "forum": {k: v for k, v in forum.items() if not k.startswith("_")},
     }
     for t in results["trades"]:
         t["name"] = name_of.get(t["ticker"], t["ticker"])
@@ -681,6 +837,24 @@ def write_report(path, r):
     ]
     for it in r["importance"][:10]:
         lines.append(f"- {it['label']}: {it['imp']:+.4f}")
+    fo = r.get("forum") or {}
+    st = fo.get("score_status") or {}
+    if st.get("errors") and not st.get("scored"):
+        lines += ["", "## ⚠ Sentiment-scoringen feiler", "", f"Siste forsøk {st.get('finished', '')[:16]}: "
+                  f"{st['errors'][0]['message'][:220]}"]
+    if fo.get("available"):
+        wd, h = fo["window"], fo["h2h"]
+        lines += ["", "## Forumsentiment som tillegg", "",
+                  f"Periode med forumdata: {wd['start']} → {wd['end']} ({wd['days']} handelsdager, "
+                  f"{wd['labelled_days']} med fasit = ca. {wd['independent_periods']} uavhengige 10-dagersperioder).", "",
+                  "| Signal | Samme dag (reagerer) | Neste 10 dager (forutsier) | p (tilfeldig) |", "|---|---|---|---|"]
+        for x in fo["ic"]:
+            lines.append(f"| {x['label']} | {x['ic_same_day'] if x['ic_same_day'] is None else round(x['ic_same_day'], 3)}"
+                         f" | {x['ic_fwd'] if x['ic_fwd'] is None else round(x['ic_fwd'], 3)} | {x.get('p_perm', '–')} |")
+        mm, mc = h["m_model"], h["m_combo"]
+        lines += ["", f"Paper trading i perioden: modell alene {pct(mm.get('total_return'))} ({mm.get('n_trades')} handler), "
+                  f"modell + forum {pct(mc.get('total_return'))} ({mc.get('n_trades')} handler), "
+                  f"OSEBX {pct(mm.get('bench_total'))}. Tilfeldig median {pct(h['random_median'])}."]
     lines += ["", "## Begrensninger", "",
               "- Universet er dagens watchlist (overlevelsesskjevhet: aksjer som gikk konkurs er ikke med).",
               "- Markedsverdi bakover i tid bruker dagens aksjeantall.",
