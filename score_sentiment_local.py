@@ -7,8 +7,8 @@ vil betale per innlegg. Skriver til SAMME fil (nordnet_data/sentiment/scores.jso
 i samme format, så sentiment_analysis.py, news_ml/forum.py og copytrade/paper.py
 bruker resultatet uten endringer.
 
-Modell: ltg/norbert3-base_sentence-sentiment (Universitetet i Oslo, CC-BY-4.0),
-trent på norske setninger (NoReC). Gir Negativ / Positiv / Nøytral / Blandet.
+Modell: cardiffnlp/twitter-xlm-roberta-base-sentiment (flerspråklig, trent på
+sosiale medier - nærmere forumspråk enn anmeldelser). Reserve: NorBERT3 fra UiO.
     sentiment = P(positiv) - P(negativ)              -1 .. 1
 
 Modellen er trent på anmeldelser, ikke aksjeforum, så den kjenner ikke
@@ -35,8 +35,8 @@ from archive_posts import iter_archive
 from score_sentiment import (DELETED_RE, MIN_TEXT_CHARS, append_scores, clean_text, company_from_slug,
                              load_scored_keys)
 
-MODEL_ID = os.environ.get("LOCAL_SENTIMENT_MODEL", "ltg/norbert3-base_sentence-sentiment")
-MODEL_TAG = "norbert3-lokal"
+MODEL_ID = os.environ.get("LOCAL_SENTIMENT_MODEL", "cardiffnlp/twitter-xlm-roberta-base-sentiment")
+MODEL_TAG = "xlmr-lokal"
 
 BULL = r"rakett|til månen|kjøpt mer|kjøper mer|fylt på|fyller på|lader|laste opp|lastet opp|undervurdert|" \
        r"billig|kursmål opp|oppgrader\w*|kontrakt|rekord|utbytte|breakout|grønt|bull\w*|long\b|🚀|📈"
@@ -49,7 +49,7 @@ LINK_RE = re.compile(r"https?://")
 
 
 # Reserve hvis NorBERT ikke laster (den trenger trust_remote_code og kan brekke med nye transformers)
-FALLBACK_MODELS = ["cardiffnlp/twitter-xlm-roberta-base-sentiment"]
+FALLBACK_MODELS = ["ltg/norbert3-base_sentence-sentiment"]
 DEFAULT_LABELS = {0: "negative", 1: "positive", 2: "neutral"}  # NorBERT-rekkefølgen fra modellkortet
 LOAD_ERRORS = []
 
@@ -73,10 +73,10 @@ def load_model():
             model = AutoModelForSequenceClassification.from_pretrained(mid, trust_remote_code=remote)
             model.eval()
             torch.set_num_threads(os.cpu_count() or 2)
-            if mid != MODEL_ID:
+            if mid.startswith("cardiffnlp/"):
                 MODEL_TAG = "xlmr-lokal"
-                if mid.startswith("cardiffnlp/"):
-                    return tok, model, {0: "negative", 1: "neutral", 2: "positive"}, mid
+                return tok, model, {0: "negative", 1: "neutral", 2: "positive"}, mid
+            MODEL_TAG = "norbert3-lokal"
             return tok, model, _norm_labels(model), mid
         except Exception as e:  # noqa: BLE001 - prøv neste modell
             LOAD_ERRORS.append(f"{mid}: {type(e).__name__}: {str(e)[:400]}")
