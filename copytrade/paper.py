@@ -2,7 +2,7 @@
 """
 Copy-trading på papir: kopier innsidekjøp (+ følg stjernebrukere i forumet)
 ==========================================================================
-Strategi 1 - INNSIDEKJØP (backtest fra 2022 + live paper)
+Strategi 1 - INNSIDEKJØP (backtest fra 2020 + live paper)
     Signal:  en primærinnsider kjøper aksjer i markedet (ikke spareprogram,
              opsjoner, honorar, selskapets egne aksjer osv.)
     Inngang: åpningskurs første handelsdag ETTER at meldingen ble publisert
@@ -18,7 +18,7 @@ Strategi 1 - INNSIDEKJØP (backtest fra 2022 + live paper)
 
 Strategi 2 - STJERNEBRUKERE (kun live, ingen backtest)
     Signal:  en bruker med 3 stjerner på Nordnet Social skriver et positivt
-             innlegg (Claude-sentiment >= 0.3) om en aksje i watchlisten.
+             innlegg (sentiment >= 0.3, lokal modell eller Claude) om en aksje i watchlisten.
     Backtest er umulig uten look-ahead: stjernene vi har er DAGENS, og en
     bruker som har 3 stjerner nå hadde ikke nødvendigvis det for et år siden.
     Derfor bare forover-paper-trading fra første kjøring.

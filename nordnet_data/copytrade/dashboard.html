@@ -2427,13 +2427,14 @@ const cls = x => x == null ? "" : x >= 0 ? "up" : "down";
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const day = s => s ? String(s).slice(0,10) : "–";
 const M = D.main, S = M.stats || {}, ST = D.stars || {};
+const FIRST = Object.keys(M.by_year || {})[0] || "–";
 
 function verdict(){
   if (!S.n) return "Ingen avsluttede handler ennå – vent på første kjøring med kurser.";
   const sig = S.t_stat != null && Math.abs(S.t_stat) >= 2;
   const dir = S.avg_excess >= 0 ? "slått" : "tapt mot";
   return `Å kopiere CEO/CFO/styreleder-kjøp over 500k og holde i 20 handelsdager har ${dir} OSEBX med `
-    + `${pct(Math.abs(S.avg_excess))} per handel i snitt over ${S.n} handler siden 2022 – `
+    + `${pct(Math.abs(S.avg_excess))} per handel i snitt over ${S.n} handler siden ${FIRST} – `
     + (sig ? "langt nok fra null til at det neppe bare er flaks." : "men forskjellen er så liten at den godt kan være flaks.");
 }
 
@@ -2500,7 +2501,7 @@ function stars(){
     <p class="hint">${ST.profiles_checked || 0} profiler sjekket · ${ST.three_star || 0} med 3 stjerner (topp 10 % risikojustert avkastning) · ${ST.two_star || 0} med 2.
     Handlene deres er bak innlogging, så vi paper trader det de skriver: et positivt innlegg (sentiment ≥ 0,3) fra en 3-stjerners bruker = kjøp, hold 20 dager. Bare forover, fra oppstart.</p>
     ${kpis(ST.stats || {})}
-    <h2>Stjerne-handler</h2>${cards((ST.trades || []).slice(0, 10), "Ingen ennå. Krever at stjernene er hentet og at innleggene er sentiment-scoret av Claude.")}
+    <h2>Stjerne-handler</h2>${cards((ST.trades || []).slice(0, 10), "Ingen ennå. Krever at stjernene er hentet og at innleggene er sentiment-scoret.")}
     <details><summary>Siste innlegg fra stjernebrukere</summary><div class="cards" style="margin-top:10px">${posts || '<p class="empty">Ingen ennå.</p>'}</div></details>
     <details><summary>Topp stjernebrukere</summary><table style="margin-top:10px"><thead><tr><th>Bruker</th><th>★</th><th>Følgere</th><th>Innlegg</th></tr></thead><tbody>${users}</tbody></table></details>
   </section>`;
@@ -2511,7 +2512,7 @@ document.getElementById("app").innerHTML = `
     <p class="verdict">${verdict()}</p>
     <p class="hint">Oppdatert ${day(D.generated_at)} · kurser til ${day(D.price_last_date)} · ${D.n_insider_buys_parsed} rene innsidekjøp funnet i watchlisten · paper trading startet ${day(D.paper_started_at)}</p></header>
   <section class="panel"><h2>Hovedstrategi: kopier innsidekjøp</h2>
-    <p class="hint">CEO, CFO eller styreleder kjøper for minst 500 000 kr i markedet → vi kjøper på neste åpning og selger 20 handelsdager senere. Backtest fra 2022.</p>
+    <p class="hint">CEO, CFO eller styreleder kjøper for minst 500 000 kr i markedet → vi kjøper på neste åpning og selger 20 handelsdager senere. Backtest fra ${FIRST}.</p>
     ${kpis(S)}${equity()}</section>
   <div class="grid2">
     <section class="panel"><h2>Åpne og ventende posisjoner</h2>${cards((M.open || []).slice().reverse(), "Ingen åpne posisjoner nå.")}</section>
