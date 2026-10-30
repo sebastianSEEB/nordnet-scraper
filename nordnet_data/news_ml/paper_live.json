@@ -1,25 +1,53 @@
 {
  "started": "2026-10-28",
- "cash": 100000.0,
- "positions": [],
- "pending": [
+ "cash": 62500.0,
+ "positions": [
   {
    "ticker": "B2I.OL",
    "signal_date": "2026-10-28",
-   "alloc": 12500.0,
-   "p": 0.607691
+   "entry_date": "2026-10-29",
+   "entry_px": 23.200001,
+   "shares": 537.7155,
+   "cost": 12500.0,
+   "held": 2,
+   "p": 0.607691,
+   "last_px": 22.799999
   },
   {
    "ticker": "AKRBP.OL",
    "signal_date": "2026-10-28",
-   "alloc": 12500.0,
-   "p": 0.602853
+   "entry_date": "2026-10-29",
+   "entry_px": 385.0,
+   "shares": 32.402597,
+   "cost": 12500.0,
+   "held": 2,
+   "p": 0.602853,
+   "last_px": 388.200012
   },
   {
    "ticker": "BNOR.OL",
    "signal_date": "2026-10-28",
-   "alloc": 12500.0,
-   "p": 0.586232
+   "entry_date": "2026-10-29",
+   "entry_px": 629.0,
+   "shares": 19.833068,
+   "cost": 12500.0,
+   "held": 2,
+   "p": 0.586232,
+   "last_px": 630.0
+  }
+ ],
+ "pending": [
+  {
+   "ticker": "ENDUR.OL",
+   "signal_date": "2026-10-30",
+   "alloc": 12479.179344,
+   "p": 0.558649
+  },
+  {
+   "ticker": "HAUTO.OL",
+   "signal_date": "2026-10-30",
+   "alloc": 12479.179344,
+   "p": 0.555495
   }
  ],
  "closed": [],
@@ -27,7 +55,15 @@
   {
    "date": "2026-10-28",
    "equity": 100000.0
+  },
+  {
+   "date": "2026-10-29",
+   "equity": 99719.001686
+  },
+  {
+   "date": "2026-10-30",
+   "equity": 99833.434755
   }
  ],
- "last_date": "2026-10-28"
+ "last_date": "2026-10-30"
 }

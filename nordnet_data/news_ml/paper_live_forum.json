@@ -1,0 +1,33 @@
+{
+ "started": "2026-10-30",
+ "cash": 100000.0,
+ "positions": [],
+ "pending": [
+  {
+   "ticker": "ENDUR.OL",
+   "signal_date": "2026-10-30",
+   "alloc": 12500.0,
+   "p": 1.0
+  },
+  {
+   "ticker": "HAUTO.OL",
+   "signal_date": "2026-10-30",
+   "alloc": 12500.0,
+   "p": 0.989796
+  },
+  {
+   "ticker": "NSKOG.OL",
+   "signal_date": "2026-10-30",
+   "alloc": 12500.0,
+   "p": 0.979592
+  }
+ ],
+ "closed": [],
+ "equity": [
+  {
+   "date": "2026-10-30",
+   "equity": 100000.0
+  }
+ ],
+ "last_date": "2026-10-30"
+}
