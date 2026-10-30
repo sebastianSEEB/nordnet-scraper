@@ -282,15 +282,17 @@ $('kpis').innerHTML = kpis.map(([k, v, s, c]) => `<div class="kpi"><span class="
   const x = v => L + (Wd - L - Rp) * (v + ext) / (2 * ext);
   const yb = T + rows.length * rowH;
   niceTicks(-ext, ext, 4).forEach(v => { el('line', {x1: x(v), x2: x(v), y1: T, y2: yb, stroke: v === 0 ? 'var(--muted)' : 'var(--line)'}, svg); el('text', {x: x(v), y: yb + 14, 'text-anchor': 'middle'}, svg, v.toFixed(2).replace('.', ',')); });
-  rows.forEach((r, i) => {
+  rows.forEach((r0, i) => {
+    let r = r0;
     const yy = T + i * rowH + rowH / 2;
     const lbl = el('text', {x: 0, y: yy + 3.5, style: r.feature === 'combo' || r.feature === 'p' ? 'fill:var(--ink);font-weight:600' : ''}, svg, r.label.length > 30 ? r.label.slice(0, 29) + '…' : r.label);
+    if (r.feature === 'combo') r = {...r, ic_same_day: null}; // inneholder kurs-avviket, samme dag er mekanisk
     if (r.ic_same_day != null && r.ic_fwd != null) el('line', {x1: x(r.ic_same_day), x2: x(r.ic_fwd), y1: yy, y2: yy, stroke: 'var(--band)', 'stroke-width': 3}, svg);
     if (r.ic_same_day != null) el('circle', {cx: x(r.ic_same_day), cy: yy, r: 4.5, fill: 'var(--muted)'}, svg);
     if (r.ic_fwd != null) { const c = el('circle', {cx: x(r.ic_fwd), cy: yy, r: 5.5, fill: 'var(--accent)', stroke: r.p_perm != null && r.p_perm < 0.05 ? 'var(--up)' : 'none', 'stroke-width': 2}, svg); el('title', {}, c, `p = ${r.p_perm ?? '–'}`); }
   });
   const sig = rows.filter(r => r.p_perm != null && r.p_perm < 0.05 && !['p', 'combo'].includes(r.feature));
-  const strongSame = rows.filter(r => r.ic_same_day != null && Math.abs(r.ic_same_day) > 0.05).length;
+  const strongSame = rows.filter(r => r.ic_same_day != null && !['p', 'combo'].includes(r.feature) && Math.abs(r.ic_same_day) > 0.05).length;
   $('forum-ic-note').textContent = (sig.length
     ? `${sig.map(r => r.label).join(', ')} skiller seg fra tilfeldighet (p < 0,05, grønn ring). `
     : 'Ingen forum-signaler skiller seg fra tilfeldighet ennå (ingen p under 0,05). ')
@@ -316,10 +318,10 @@ $('kpis').innerHTML = kpis.map(([k, v, s, c]) => `<div class="kpi"><span class="
   const eqOf = L => L ? (L.equity.length ? L.equity[L.equity.length - 1].equity : L.cash) : null;
   if (LF) {
     const pend = LF.pending.map(o => `<b>${short(o.ticker)}</b>`).join(', ') || 'ingen';
-    $('forum-live').innerHTML = `<h3 class="eyebrow" style="margin:6px 0">Live fra ${fmtD(LF.started)}: begge porteføljene handler fremover på ekte, ukjente kurser</h3>
-      <div class="tbl-wrap"><table><tr><th>Portefølje</th><th class="r">Verdi</th><th class="r">Åpne</th><th class="r">Avsluttet</th><th>Neste ordre</th></tr>
-      <tr><td>Modell alene</td><td class="r num">${nf.format(eqOf(L1))} kr</td><td class="r num">${L1.positions.length}</td><td class="r num">${L1.closed.length}</td><td>${L1.pending.map(o => `<b>${short(o.ticker)}</b>`).join(', ') || 'ingen'}</td></tr>
-      <tr><td>Modell + forum</td><td class="r num">${nf.format(eqOf(LF))} kr</td><td class="r num">${LF.positions.length}</td><td class="r num">${LF.closed.length}</td><td>${pend}</td></tr></table></div>
+    $('forum-live').innerHTML = `<h3 class="eyebrow" style="margin:6px 0">Live: begge porteføljene handler fremover på ekte, ukjente kurser</h3>
+      <div class="tbl-wrap"><table><tr><th>Portefølje</th><th>Startet</th><th class="r">Verdi</th><th class="r">Åpne</th><th class="r">Avsluttet</th><th>Neste ordre</th></tr>
+      <tr><td>Modell alene</td><td class="num">${fmtD(L1.started)}</td><td class="r num">${nf.format(eqOf(L1))} kr</td><td class="r num">${L1.positions.length}</td><td class="r num">${L1.closed.length}</td><td>${L1.pending.map(o => `<b>${short(o.ticker)}</b>`).join(', ') || 'ingen'}</td></tr>
+      <tr><td>Modell + forum</td><td class="num">${fmtD(LF.started)}</td><td class="r num">${nf.format(eqOf(LF))} kr</td><td class="r num">${LF.positions.length}</td><td class="r num">${LF.closed.length}</td><td>${pend}</td></tr></table></div>
       <p class="hint">Dette er den ærlige testen: om noen måneder viser forskjellen mellom de to radene om forumet tilfører noe.</p>`;
   }
 })();
