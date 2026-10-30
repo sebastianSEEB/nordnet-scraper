@@ -1,0 +1,15 @@
+{
+  "finished": "2026-10-30T12:59:16.339895+00:00",
+  "model": "claude-haiku-5-5",
+  "scored": 0,
+  "failed": 30,
+  "batches": 23,
+  "tokens_in": 0,
+  "tokens_out": 0,
+  "errors": [
+    {
+      "message": "HTTP 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_i",
+      "batches": 23
+    }
+  ]
+}
