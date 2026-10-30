@@ -46,6 +46,8 @@ HEADERS = {
 }
 
 # Flere mulige formater, siden vi ikke styrer Nordnets HTML. Første treff vinner.
+# Det Nordnet faktisk bruker (sett i rå HTML okt 2026): <span class="sr-only">2 stars</span> / "null stars"
+SR_ONLY_RE = re.compile(r'class="sr-only">\s*(null|\d)\s*stars?\s*<', re.I)
 STAR_RES = [
     re.compile(r'"(?:rating|stars|starRating|star_rating|numberOfStars)"\s*:\s*"?(\d)"?', re.I),
     re.compile(r'aria-label="[^"]{0,40}?(\d)\s*(?:av\s*3\s*)?(?:stars?|stjerner?)', re.I),
@@ -62,6 +64,11 @@ MEMBER_RE = re.compile(r'Medlem i\s*(?:<[^>]+>\s*)*([^<]{1,20})', re.I)
 
 def parse_profile(html):
     stars, how = None, None
+    m = SR_ONLY_RE.search(html)
+    if m:
+        v = m.group(1).lower()
+        return {"stars": 0 if v == "null" else int(v), "parsed_by": "sr-only",
+                **_extras(html)}
     for rx in NO_STARS_RES:
         if rx.search(html):
             stars, how = 0, "ingen"
@@ -72,6 +79,10 @@ def parse_profile(html):
             if m and 0 <= int(m.group(1)) <= 3:
                 stars, how = int(m.group(1)), f"regex{i}"
                 break
+    return {"stars": stars, "parsed_by": how, **_extras(html)}
+
+
+def _extras(html):
     followers = None
     m = FOLLOWERS_RE.search(html)
     if m:
@@ -81,7 +92,7 @@ def parse_profile(html):
     m = MEMBER_RE.search(html)
     if m:
         member = m.group(1).strip()
-    return {"stars": stars, "parsed_by": how, "followers": followers, "member_for": member}
+    return {"followers": followers, "member_for": member}
 
 
 def candidate_profiles(data_dir):
