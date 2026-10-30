@@ -1,22 +1,35 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-10-30T10:38:11.339863+00:00",
+  "scraped_at": "2026-10-30T13:36:21.408555+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c25ffefef38c1f8b",
-      "author": "hanjiando",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hanjiando",
-      "posted_relative": "for 2 t siden",
-      "text": "Fin stigning ved åpning 🎉🎉🎉",
+      "key": "efe22b77c0abb04e",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser ut som 290 er det nye kursmålet for Bonheur.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 27,
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "6d688ab10674f2c0",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Fortsetter nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
       "has_link": false
     }
   ]

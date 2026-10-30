@@ -1,39 +1,50 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-10-30T10:35:22.966111+00:00",
+  "scraped_at": "2026-10-30T13:33:33.369600+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "ec45aafd3ef96977",
-      "author": "V70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/v70",
+      "key": "520b9f48d2080061",
+      "author": "Doubt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/doubt",
       "posted_relative": "for 1 t siden",
-      "text": "Tatt fra Copilot: Jeg ville heller brukt tre scenarioer enn late som DCF-en kan gi én eksakt verdi: Scenario\tFair value jeg ville brukt\tOppside fra 81🐻 Bear\t80–85 kr\tca. 0–5 % 🟢 Base\t95–100 kr\tca. +17–23 % 🚀 Bull\t110–120 kr\tca. +36–48 % Bear Norge står omtrent stille, ÖoB-turnaround tar betydelig lengre tid, lønn/opex fortsetter å vokse raskere enn salget. Base Norge fortsetter moderat vekst, bruttomarginen holder seg sterk og ÖoB beveger seg gradvis mot lønnsomhet. Mitt beste estimat: ca. 97 kr. Bull ÖoB nærmer seg 2028-målet, mens norsk EBIT holder seg sterk. Da synes jeg tresifret aksjekurs er lett å forsvare.",
+      "text": "Higer for longer, slik blir renta. Når renta biter seg fast flyttes handel til billig butikkene. En rask titt over dammen så ser man at big cash flyttes fra teq og over i konsum varer",
       "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 620,
-      "has_link": false
-    },
-    {
-      "key": "470894960c53f289",
-      "author": "Marøder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marder-2",
-      "posted_relative": "for 4 t siden · Endret",
-      "text": "Enkel dcf analyse. Gjør en dcf analyse på epr. Wacc 9%. Terminalvekst 2-3%. Litt økning i marginer pga. Sverige. Omsetningsvekst 3%. Hva er nåverdien?",
-      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
         4
       ],
       "links": [],
-      "char_count": 150,
+      "char_count": 183,
+      "has_link": false
+    },
+    {
+      "key": "c8d7d17bbdf1b3f7",
+      "author": "Spinners",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spinners",
+      "posted_relative": "for 2 t siden",
+      "text": "Analysene sier vel ikke så mye annet enn scenario der de lykkes med Sverige...",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "677a4de1f102c2ba",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 56 min siden · Endret",
+      "text": "Nå er 81nivået under testing. brytes den kan en større HS form komme i spill",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
       "has_link": false
     }
   ]

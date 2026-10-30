@@ -1,9 +1,26 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-10-30T10:35:03.758590+00:00",
+  "scraped_at": "2026-10-30T13:33:14.036069+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d82c2f9c01eda832",
+      "author": "littlecaeser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littlecaeser",
+      "posted_relative": null,
+      "text": "26. okt. Ingen nyheter i hele tatt! Å det bare ryker opp 🤷🏻 noen som vet hvorfor?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        4
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

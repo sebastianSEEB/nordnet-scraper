@@ -1,35 +1,24 @@
 {
   "slug": "gjensidige-forsikring-gjf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/gjensidige-forsikring-gjf-xosl",
-  "scraped_at": "2026-10-30T10:37:44.770326+00:00",
+  "scraped_at": "2026-10-30T13:35:54.365806+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "a136acabc99244cd",
-      "author": "Senthil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/senthil",
+      "key": "e28b0c4f47114799",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
       "posted_relative": null,
-      "text": "26. okt. · Jeg ville vente litt da 30 min-grafen er under SELG. Jeg ville gå inn på 255",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 87,
-      "has_link": false
-    },
-    {
-      "key": "3db07a870d943c57",
-      "author": "mini_85",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mini_85",
-      "posted_relative": null,
-      "text": "26. okt. Hagler i kursmål i dag😊",
+      "text": "26. okt. Gjensidige hadde mandag mottatt 178 skademeldinger, fordelt over hele Sør-Norge. Flest var det i Buskerud med 31 skademeldinger, mens det fra Akershus, Vestland og Vestfold alle er meldt inn 20 eller flere skader.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 32,
+      "char_count": 222,
       "has_link": false
     }
   ]

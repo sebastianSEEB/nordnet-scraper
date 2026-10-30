@@ -1,52 +1,37 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-30T10:33:57.629568+00:00",
+  "scraped_at": "2026-10-30T13:32:08.273880+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "83b9d15c315f2e97",
+      "key": "4ae445e6f9793445",
       "author": "Andyviking",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andyviking",
-      "posted_relative": "for 39 min siden",
-      "text": "Jeg prøvde å bruke Google Gemini til å finne konsensusestimater for q3 rapporten (vet ikke hvor nøyaktig det er). Den kom frem til følgende hvertfall:  - Omsetning: 2050-2120 mill nok (1693 q3 2025) - Justert EBITDA: 265-275 mill nok (195 q3 2025) - det vil evt gi omsetningsvekst YoY på 21-25% og EBITDA vekst på 36-41% Hva tror dere?",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg prøvde å bruke Google Gemini til å finne konsensusestimater for q3 rapporten (vet ikke hvor nøyaktig det er). Den kom frem til følgende hvertfall:  - Omsetning: 2050-2120 mill nok (1693 q3 2025) - Justert EBITDA: 265-275 mill nok (195 q3 2025) - det vil evt gi omsetningsvekst YoY på 21-25% og EBITDA vekst på 36-41% Hva tror dere? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 355,
+      "has_link": false
+    },
+    {
+      "key": "240d4b5c12515f1a",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 18 min siden",
+      "text": "Ja,med en msetningsvekst YoY på 21-25% og EBITDA vekst på 36-41% bør kurs på 34 holde greit. Tror mange undervurderer den positive effekten av AI, i tillegg har link en portefølje av oppkjøp som modnes raskt. Mitt tips er at link overrasker på oppsiden.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 335,
-      "has_link": false
-    },
-    {
-      "key": "5c25568f0631c545",
-      "author": "MariusB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
-      "posted_relative": "for 2 t siden",
-      "text": "Synlig short har sunket denne uka, er nede i 7.13% nå. Merk, synlig short.",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 74,
-      "has_link": false
-    },
-    {
-      "key": "ae6d6be6bb295594",
-      "author": "Bellmann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
-      "posted_relative": "for 2 t siden",
-      "text": "Tipper det smeller opp her når som helst nå.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 44,
+      "char_count": 253,
       "has_link": false
     }
   ]
