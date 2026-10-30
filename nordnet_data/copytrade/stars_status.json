@@ -1,0 +1,24 @@
+{
+  "started": "2026-10-30T15:16:27.024132+00:00",
+  "candidates": 4540,
+  "due": 300,
+  "checked": 297,
+  "parsed_stars": 152,
+  "http_errors": {
+    "404": 3
+  },
+  "parsed_by": {
+    "ikke funnet": 145,
+    "regex3": 152
+  },
+  "debug_saved": 2,
+  "finished": "2026-10-30T15:23:29.084888+00:00",
+  "star_distribution": {
+    "0": 39,
+    "1": 27,
+    "2": 66,
+    "None": 145,
+    "3": 20
+  },
+  "total_checked_ever": 297
+}
