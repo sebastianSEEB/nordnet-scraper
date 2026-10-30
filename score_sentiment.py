@@ -276,6 +276,7 @@ def main() -> None:
         sys.exit("ANTHROPIC_API_KEY mangler - kan ikke score.")
 
     done, failed, tok_in, tok_out = 0, 0, 0, 0
+    errors: Dict[str, int] = {}
     t0 = time.time()
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = {pool.submit(score_batch, slug, ps): (slug, ps) for slug, ps in batches}
@@ -285,6 +286,8 @@ def main() -> None:
                 rows, usage = fut.result()
             except Exception as e:  # én feilet gruppe skal ikke stoppe resten
                 failed += len(ps)
+                msg = str(e)[:300]
+                errors[msg] = errors.get(msg, 0) + 1
                 print(f"  FEIL {slug} ({len(ps)} innlegg): {e}", file=sys.stderr)
                 continue
             append_scores(args.data_dir, rows)
@@ -297,6 +300,15 @@ def main() -> None:
 
     print(f"\nFerdig: {done} scoret, {failed} mangler (prøves neste gang). "
           f"Tokens brukt: {tok_in:,} inn / {tok_out:,} ut")
+    # Statusfil i repoet, så feil kan leses på GitHub/mobil uten Actions-loggen
+    status = {"finished": datetime.now(timezone.utc).isoformat(), "model": MODEL, "scored": done,
+              "failed": failed, "batches": n_batches, "tokens_in": tok_in, "tokens_out": tok_out,
+              "errors": sorted(({"message": m, "batches": n} for m, n in errors.items()),
+                               key=lambda x: -x["batches"])[:8]}
+    os.makedirs(os.path.dirname(scores_path(args.data_dir)), exist_ok=True)
+    with open(os.path.join(os.path.dirname(scores_path(args.data_dir)), "score_status.json"), "w",
+              encoding="utf-8") as f:
+        json.dump(status, f, ensure_ascii=False, indent=2)
     if failed:
         sys.exit(f"{failed} innlegg kunne ikke scores; vellykkede scorer er lagret.")
 

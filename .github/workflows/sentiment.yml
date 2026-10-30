@@ -34,6 +34,8 @@ jobs:
         run: python archive_posts.py --backfill-from-git --since-days 14
 
       - name: Score nye innlegg (Claude Haiku)
+        # Delvis feil skal ikke stoppe kurs og analyse - se nordnet_data/sentiment/score_status.json
+        continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python score_sentiment.py --max-posts "${{ github.event.inputs.max_posts || '0' }}"
