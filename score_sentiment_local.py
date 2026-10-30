@@ -48,15 +48,40 @@ FIN_RE = re.compile(r"kurs|aksje|kvartal|resultat|kontrakt|ordre|utbytte|emisjon
 LINK_RE = re.compile(r"https?://")
 
 
+# Reserve hvis NorBERT ikke laster (den trenger trust_remote_code og kan brekke med nye transformers)
+FALLBACK_MODELS = ["cardiffnlp/twitter-xlm-roberta-base-sentiment"]
+DEFAULT_LABELS = {0: "negative", 1: "positive", 2: "neutral"}  # NorBERT-rekkefølgen fra modellkortet
+LOAD_ERRORS = []
+
+
+def _norm_labels(model):
+    raw = getattr(model.config, "id2label", None) or {}
+    labels = {int(i): str(l).lower() for i, l in raw.items()}
+    if not labels or all(l.startswith("label_") for l in labels.values()):
+        labels = dict(DEFAULT_LABELS) if model.config.num_labels == 3 else labels
+    return labels
+
+
 def load_model():
     import torch
     from transformers import AutoModelForSequenceClassification, AutoTokenizer
-    tok = AutoTokenizer.from_pretrained(MODEL_ID)
-    model = AutoModelForSequenceClassification.from_pretrained(MODEL_ID, trust_remote_code=True)
-    model.eval()
-    torch.set_num_threads(os.cpu_count() or 2)
-    labels = {i: str(l).lower() for i, l in model.config.id2label.items()}
-    return tok, model, labels
+    global MODEL_TAG
+    for mid in [MODEL_ID] + FALLBACK_MODELS:
+        try:
+            remote = mid.startswith("ltg/")
+            tok = AutoTokenizer.from_pretrained(mid, trust_remote_code=remote)
+            model = AutoModelForSequenceClassification.from_pretrained(mid, trust_remote_code=remote)
+            model.eval()
+            torch.set_num_threads(os.cpu_count() or 2)
+            if mid != MODEL_ID:
+                MODEL_TAG = "xlmr-lokal"
+                if mid.startswith("cardiffnlp/"):
+                    return tok, model, {0: "negative", 1: "neutral", 2: "positive"}, mid
+            return tok, model, _norm_labels(model), mid
+        except Exception as e:  # noqa: BLE001 - prøv neste modell
+            LOAD_ERRORS.append(f"{mid}: {type(e).__name__}: {str(e)[:400]}")
+            print("Kunne ikke laste", mid, "->", LOAD_ERRORS[-1])
+    raise RuntimeError("Ingen sentiment-modell kunne lastes: " + " | ".join(LOAD_ERRORS))
 
 
 def predict(tok, model, labels, texts, batch_size=32):
@@ -126,8 +151,15 @@ def main():
     if not work:
         return
 
-    tok, model, labels = load_model()
-    print(f"Modell {MODEL_ID} lastet, etiketter: {labels}")
+    status = {"started": now, "to_model": len(work), "rule": len(rule_rows), "scored": 0}
+    try:
+        tok, model, labels, used = load_model()
+    except Exception as e:  # noqa: BLE001
+        status.update({"error": str(e)[:2000], "load_errors": LOAD_ERRORS})
+        _write_status(args.data_dir, status)
+        raise
+    status.update({"model": used, "labels": labels, "load_errors": LOAD_ERRORS})
+    print(f"Modell {used} lastet, etiketter: {labels}")
     done = 0
     for i in range(0, len(work), args.chunk):
         part = work[i:i + args.chunk]
@@ -140,7 +172,18 @@ def main():
                          "category": cat, "model": MODEL_TAG, "scored_at": now})
         append_scores(args.data_dir, rows)
         done += len(rows)
+        status["scored"] = done
+        _write_status(args.data_dir, status)
         print(f"  scoret {done}/{len(work)}")
+    status["finished"] = datetime.now(timezone.utc).isoformat()
+    _write_status(args.data_dir, status)
+
+
+def _write_status(data_dir, status):
+    import json
+    path = os.path.join(data_dir, "sentiment", "local_status.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(status, f, ensure_ascii=False, indent=2, default=str)
 
 
 if __name__ == "__main__":
