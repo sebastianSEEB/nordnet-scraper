@@ -33,12 +33,19 @@ jobs:
       - name: Fyll arkivet fra git-historikken (tetter hull, trygt å gjenta)
         run: python archive_posts.py --backfill-from-git --since-days 14
 
-      - name: Score nye innlegg (Claude Haiku)
-        # Delvis feil skal ikke stoppe kurs og analyse - se nordnet_data/sentiment/score_status.json
+      - name: Installer lokal språkmodell (CPU, gratis)
+        run: pip install transformers sentencepiece torch --extra-index-url https://download.pytorch.org/whl/cpu
+
+      - name: Mellomlagre modellen mellom kjøringer
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-norbert3-sentiment-v1
+
+      - name: Score nye innlegg (lokal NorBERT, uten API)
+        # Delvis feil skal ikke stoppe kurs og analyse
         continue-on-error: true
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python score_sentiment.py --max-posts "${{ github.event.inputs.max_posts || '0' }}"
+        run: python score_sentiment_local.py --max-posts "${{ github.event.inputs.max_posts || '0' }}"
 
       - name: Hent kurser (Yahoo Finance)
         run: python fetch_prices.py
