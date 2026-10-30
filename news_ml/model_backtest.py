@@ -590,7 +590,8 @@ def forum_analysis(panel, preds, latest, px, cal, universe, name_of):
         row = {"feature": col, "label": FORUM_LABELS.get(col, {"p": "Modellscore (uten forum)",
                                                                "combo": "Kombinert (modell + forum)"}[col]
                                                      if col in ("p", "combo") else col),
-               "ic_same_day": float(ic0.mean()) if len(ic0) else None,
+               # f_div5 er bygd av kursendringen selv, så samme-dag-tallet er mekanisk og utelates
+               "ic_same_day": float(ic0.mean()) if len(ic0) and col != "f_div5" else None,
                "ic_fwd": float(icf.mean()) if len(icf) else None, "days_fwd": int(len(icf))}
         if len(icf) >= 5:
             t_raw = icf.mean() / (icf.std(ddof=1) + 1e-12) * math.sqrt(len(icf))
