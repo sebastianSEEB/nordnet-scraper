@@ -346,7 +346,7 @@ $('kpis').innerHTML = kpis.map(([k, v, s, c]) => `<div class="kpi"><span class="
     `${pctU(r.cost_per_side, 1)} kostnad per kjøp og per salg. Bare aksjer med over ${nf.format(r.min_turnover / 1e6)} MNOK snittomsetning per dag.`,
     `Regelen "KOG-mønster": kontrakter siden siste rapport over 1 % av markedsverdi, aksjen falt på kontraktene, kurs under eller nær SMA200, og ventet rapport innen 30 dager.`,
     `Tilfeldig sammenligning: ${r.n_random} porteføljer som kjøper like mange aksjer de samme dagene, men tilfeldig valgt.`,
-    `Svakheter: universet er dagens watchlist (aksjer som forsvant er ikke med), markedsverdi bakover bruker dagens aksjeantall, kontraktsverdier er tolket fra tekst, rapportdato er estimert. ${R.data.repaired_jumps} urealistiske kurshopp (f.eks. utskillelser) er nøytralisert.`,
+    `Svakheter: universet er dagens watchlist (aksjer som forsvant er ikke med), markedsverdi bakover bruker dagens aksjeantall, kontraktsverdier er tolket fra tekst, rapportdato er estimert. ${R.data.repaired_jumps} urealistiske kurshopp over 45 % er nøytralisert, men mindre utskillelser (som Kongsberg Maritime i april 2026) er ikke justert.`,
   ].map(s => `<li>${s}</li>`).join('');
   $('foot').textContent = `Generert ${R.generated.slice(0, 16).replace('T', ' ')} UTC fra nordnet-scraper/news_ml. Forskning, ikke investeringsråd.`;
 })();
