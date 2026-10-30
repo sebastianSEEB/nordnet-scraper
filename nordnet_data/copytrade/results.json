@@ -1,207 +1,207 @@
 {
- "generated_at": "2026-10-30T16:04:49.846754+00:00",
+ "generated_at": "2026-10-30T21:04:20.653120+00:00",
  "price_last_date": "2026-10-30",
  "paper_started_at": "2026-10-30T16:04:43.860866+00:00",
  "main_key": "senior_500k|20",
- "n_insider_buys_parsed": 1596,
+ "n_insider_buys_parsed": 1597,
  "variants": {
   "senior_500k|5": {
    "label": "CEO/CFO/styreleder, ≥ 500k",
    "hold": 5,
    "n": 288,
    "n_open": 0,
-   "avg_ret": 0.00920203562986149,
-   "median_ret": 0.0022859643423166487,
+   "avg_ret": 0.009202021647234696,
+   "median_ret": 0.0022859296231934056,
    "hit_rate": 0.5243055555555556,
-   "avg_excess": 0.009318371095534381,
+   "avg_excess": 0.009318357112907589,
    "beat_bench": 0.5277777777777778,
-   "t_stat": 2.1925884443468036,
-   "total_pnl": 26501.862614001082
+   "t_stat": 2.192585128909167,
+   "total_pnl": 26501.822344035914
   },
   "senior_500k|20": {
    "label": "CEO/CFO/styreleder, ≥ 500k",
    "hold": 20,
    "n": 262,
    "n_open": 0,
-   "avg_ret": 0.017378407595455826,
+   "avg_ret": 0.017378405210511837,
    "median_ret": 0.01013221589110569,
-   "hit_rate": 0.5419847328244275,
-   "avg_excess": 0.008856776913008815,
+   "hit_rate": 0.5381679389312977,
+   "avg_excess": 0.008856774528064828,
    "beat_bench": 0.5038167938931297,
-   "t_stat": 1.2631957470110242,
-   "total_pnl": 45531.42790009427
+   "t_stat": 1.2631955031442115,
+   "total_pnl": 45531.421651541015
   },
   "senior_500k|60": {
    "label": "CEO/CFO/styreleder, ≥ 500k",
    "hold": 60,
    "n": 229,
    "n_open": 8,
-   "avg_ret": 0.054587520000230906,
-   "median_ret": 0.042426037318599175,
+   "avg_ret": 0.054587506673654106,
+   "median_ret": 0.042426146070014825,
    "hit_rate": 0.5676855895196506,
-   "avg_excess": 0.017683842432095725,
+   "avg_excess": 0.017683829105518915,
    "beat_bench": 0.5109170305676856,
-   "t_stat": 1.4255614955364198,
-   "total_pnl": 125005.42080052884
+   "t_stat": 1.4255604375828592,
+   "total_pnl": 125005.39028266787
   },
   "alle_100k|5": {
    "label": "Alle innsidere, ≥ 100k",
    "hold": 5,
    "n": 897,
    "n_open": 5,
-   "avg_ret": 0.0047990455013966595,
-   "median_ret": 0.002849102583920571,
-   "hit_rate": 0.5284280936454849,
-   "avg_excess": 0.0021612890791173817,
+   "avg_ret": 0.004799040997980441,
+   "median_ret": 0.0028490417000575086,
+   "hit_rate": 0.5273132664437012,
+   "avg_excess": 0.002161284575701164,
    "beat_bench": 0.5027870680044593,
-   "t_stat": 0.9092626406184038,
-   "total_pnl": 43047.43814752803
+   "t_stat": 0.9092607334213264,
+   "total_pnl": 43047.39775188451
   },
   "alle_100k|20": {
    "label": "Alle innsidere, ≥ 100k",
    "hold": 20,
    "n": 732,
    "n_open": 9,
-   "avg_ret": 0.014723624387894228,
-   "median_ret": 0.010365638531962595,
-   "hit_rate": 0.5546448087431693,
-   "avg_excess": 0.0035808517797993205,
+   "avg_ret": 0.014723625582385703,
+   "median_ret": 0.01036568786084957,
+   "hit_rate": 0.5532786885245902,
+   "avg_excess": 0.003580852974290795,
    "beat_bench": 0.49453551912568305,
-   "t_stat": 0.8716057523351869,
-   "total_pnl": 107776.93051938574
+   "t_stat": 0.8716061066492614,
+   "total_pnl": 107776.93926306335
   },
   "alle_100k|60": {
    "label": "Alle innsidere, ≥ 100k",
    "hold": 60,
    "n": 562,
    "n_open": 20,
-   "avg_ret": 0.0553081310914509,
+   "avg_ret": 0.05530812514166831,
    "median_ret": 0.034651723948391444,
    "hit_rate": 0.5818505338078291,
-   "avg_excess": 0.016668251495222608,
+   "avg_excess": 0.016668245545440018,
    "beat_bench": 0.501779359430605,
-   "t_stat": 1.6827036171971061,
-   "total_pnl": 310831.6967339539
+   "t_stat": 1.682703018422328,
+   "total_pnl": 310831.66329617606
   },
   "alle_1m|5": {
    "label": "Alle innsidere, ≥ 1 mill",
    "hold": 5,
    "n": 359,
    "n_open": 0,
-   "avg_ret": 0.0027663251048034468,
-   "median_ret": 0.002252223272760645,
-   "hit_rate": 0.5264623955431755,
-   "avg_excess": 0.0009050770604506234,
+   "avg_ret": 0.0027663179053397167,
+   "median_ret": 0.0022521490651605802,
+   "hit_rate": 0.5236768802228412,
+   "avg_excess": 0.0009050698609868934,
    "beat_bench": 0.5125348189415042,
-   "t_stat": 0.21002623561956438,
-   "total_pnl": 9931.10712624437
+   "t_stat": 0.21002456342896825,
+   "total_pnl": 9931.081280169583
   },
   "alle_1m|20": {
    "label": "Alle innsidere, ≥ 1 mill",
    "hold": 20,
    "n": 303,
    "n_open": 1,
-   "avg_ret": 0.010688660759875502,
+   "avg_ret": 0.010688655757329826,
    "median_ret": 0.010327022375215211,
-   "hit_rate": 0.5511551155115512,
-   "avg_excess": 8.126345877493399e-05,
+   "hit_rate": 0.5478547854785478,
+   "avg_excess": 8.125845622926036e-05,
    "beat_bench": 0.49504950495049505,
-   "t_stat": 0.011555467547072526,
-   "total_pnl": 32386.64210242277
+   "t_stat": 0.011554756789531287,
+   "total_pnl": 32386.626944709376
   },
   "alle_1m|60": {
    "label": "Alle innsidere, ≥ 1 mill",
    "hold": 60,
    "n": 249,
    "n_open": 8,
-   "avg_ret": 0.033583631419183045,
+   "avg_ret": 0.03358363040063548,
    "median_ret": 0.025163134870114456,
    "hit_rate": 0.5421686746987951,
-   "avg_excess": -0.004820597670514167,
+   "avg_excess": -0.004820598689061735,
    "beat_bench": 0.4738955823293173,
-   "t_stat": -0.3800225395304423,
-   "total_pnl": 83623.24223376578
+   "t_stat": -0.3800226065217602,
+   "total_pnl": 83623.23969758235
   },
   "klynge|5": {
    "label": "Klynge: ≥ 2 innsidere kjøper innen 10 d",
    "hold": 5,
    "n": 330,
    "n_open": 0,
-   "avg_ret": -0.00016747890487268423,
-   "median_ret": 0.002785067796953644,
+   "avg_ret": -0.00016747791695350946,
+   "median_ret": 0.002785037355022113,
    "hit_rate": 0.5212121212121212,
-   "avg_excess": -0.0017059492942190651,
+   "avg_excess": -0.0017059483062998911,
    "beat_bench": 0.46060606060606063,
-   "t_stat": -0.44352077952018687,
-   "total_pnl": -552.6803860798576
+   "t_stat": -0.44352050120628633,
+   "total_pnl": -552.677125946588
   },
   "klynge|20": {
    "label": "Klynge: ≥ 2 innsidere kjøper innen 10 d",
    "hold": 20,
    "n": 263,
    "n_open": 1,
-   "avg_ret": 0.010589859951195341,
-   "median_ret": 0.009050951096274185,
-   "hit_rate": 0.5399239543726235,
-   "avg_excess": -0.0027585127110891497,
+   "avg_ret": 0.010589855592414434,
+   "median_ret": 0.009050817686387047,
+   "hit_rate": 0.5437262357414449,
+   "avg_excess": -0.0027585170698700557,
    "beat_bench": 0.4828897338403042,
-   "t_stat": -0.39827558235651844,
-   "total_pnl": 27851.331671643762
+   "t_stat": -0.39827624657705163,
+   "total_pnl": 27851.320208049965
   },
   "klynge|60": {
    "label": "Klynge: ≥ 2 innsidere kjøper innen 10 d",
    "hold": 60,
    "n": 224,
    "n_open": 6,
-   "avg_ret": 0.05727666563425043,
+   "avg_ret": 0.057276660712987586,
    "median_ret": 0.04510776224990276,
    "hit_rate": 0.59375,
-   "avg_excess": 0.012235015928438663,
+   "avg_excess": 0.012235011007175814,
    "beat_bench": 0.5044642857142857,
-   "t_stat": 0.9209377123314768,
-   "total_pnl": 128299.73102072097
+   "t_stat": 0.9209373428369562,
+   "total_pnl": 128299.71999709222
   }
  },
  "main": {
   "stats": {
    "n": 262,
    "n_open": 0,
-   "avg_ret": 0.017378407595455826,
+   "avg_ret": 0.017378405210511837,
    "median_ret": 0.01013221589110569,
-   "hit_rate": 0.5419847328244275,
-   "avg_excess": 0.008856776913008815,
+   "hit_rate": 0.5381679389312977,
+   "avg_excess": 0.008856774528064828,
    "beat_bench": 0.5038167938931297,
-   "t_stat": 1.2631957470110242,
-   "total_pnl": 45531.42790009427
+   "t_stat": 1.2631955031442115,
+   "total_pnl": 45531.421651541015
   },
   "by_year": {
    "2020": {
     "n": 48,
-    "avg_excess": 0.02716265749668766
+    "avg_excess": 0.027162641060980246
    },
    "2021": {
     "n": 38,
-    "avg_excess": -0.014916845404008804
+    "avg_excess": -0.014916839817950629
    },
    "2022": {
     "n": 54,
-    "avg_excess": 0.002979446955569394
+    "avg_excess": 0.0029794390443974995
    },
    "2023": {
     "n": 34,
-    "avg_excess": 0.005403527312835378
+    "avg_excess": 0.005403539675471175
    },
    "2024": {
     "n": 31,
-    "avg_excess": 0.007660689700526894
+    "avg_excess": 0.007660688876003155
    },
    "2025": {
     "n": 32,
-    "avg_excess": 0.030780630758659683
+    "avg_excess": 0.030780632466661767
    },
    "2026": {
     "n": 25,
-    "avg_excess": 0.0006574594995616989
+    "avg_excess": 0.0006574566822119187
    }
   },
   "equity": [
@@ -715,11 +715,11 @@
    ],
    [
     "2021-11-14",
-    20508
+    20507
    ],
    [
     "2021-11-21",
-    20508
+    20507
    ],
    [
     "2021-11-28",
@@ -879,11 +879,11 @@
    ],
    [
     "2022-08-28",
-    26144
+    26143
    ],
    [
     "2022-09-04",
-    26144
+    26143
    ],
    [
     "2022-09-11",
@@ -1083,23 +1083,23 @@
    ],
    [
     "2023-08-20",
-    17379
+    17378
    ],
    [
     "2023-08-27",
-    17379
+    17378
    ],
    [
     "2023-09-03",
-    17379
+    17378
    ],
    [
     "2023-09-10",
-    17379
+    17378
    ],
    [
     "2023-09-17",
-    17379
+    17378
    ],
    [
     "2023-09-24",
@@ -1447,7 +1447,7 @@
    ],
    [
     "2025-05-18",
-    32190
+    32189
    ],
    [
     "2025-05-25",
@@ -2063,10 +2063,10 @@
     "entry_date": "2026-05-26",
     "exit_date": "2026-06-23",
     "days_held": 20,
-    "ret": 0.048402897814273205,
+    "ret": 0.04840289225368055,
     "bench_ret": -0.04745275511194391,
-    "excess": 0.09585565292621712,
-    "pnl": 484.02897814273206,
+    "excess": 0.09585564736562446,
+    "pnl": 484.0289225368055,
     "first_seen": "2026-10-30T16:04:49.846599+00:00"
    },
    {
@@ -2189,10 +2189,10 @@
     "entry_date": "2026-04-24",
     "exit_date": "2026-05-27",
     "days_held": 20,
-    "ret": -0.015606751441798128,
+    "ret": -0.015606816314949978,
     "bench_ret": 0.01812429441406782,
-    "excess": -0.03373104585586595,
-    "pnl": -156.06751441798127,
+    "excess": -0.0337311107290178,
+    "pnl": -156.06816314949978,
     "first_seen": "2026-10-30T16:04:49.846584+00:00"
    },
    {
@@ -2353,7 +2353,733 @@
   ]
  },
  "stars": {
-  "recent_posts": [],
+  "profiles_checked": 152,
+  "three_star": 20,
+  "two_star": 66,
+  "top_users": [
+   {
+    "user": "mrrobot",
+    "stars": 3,
+    "followers": 533,
+    "forum_posts": 33,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot"
+   },
+   {
+    "user": "sdv247",
+    "stars": 3,
+    "followers": 459,
+    "forum_posts": 35,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/sdv247"
+   },
+   {
+    "user": "knors",
+    "stars": 3,
+    "followers": 309,
+    "forum_posts": 24,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/knors"
+   },
+   {
+    "user": "leffe-junior",
+    "stars": 3,
+    "followers": 293,
+    "forum_posts": 40,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/leffe-junior"
+   },
+   {
+    "user": "ophon",
+    "stars": 3,
+    "followers": 207,
+    "forum_posts": 28,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon"
+   },
+   {
+    "user": "bastus68",
+    "stars": 3,
+    "followers": 183,
+    "forum_posts": 69,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68"
+   },
+   {
+    "user": "shippingfond",
+    "stars": 3,
+    "followers": 165,
+    "forum_posts": 54,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond"
+   },
+   {
+    "user": "yamarin64dc",
+    "stars": 3,
+    "followers": 153,
+    "forum_posts": 29,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc"
+   },
+   {
+    "user": "rolfkul",
+    "stars": 3,
+    "followers": 133,
+    "forum_posts": 20,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/rolfkul"
+   },
+   {
+    "user": "penplan1",
+    "stars": 3,
+    "followers": 85,
+    "forum_posts": 20,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/penplan1"
+   },
+   {
+    "user": "alamo",
+    "stars": 3,
+    "followers": 77,
+    "forum_posts": 24,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/alamo"
+   },
+   {
+    "user": "torstein-v",
+    "stars": 3,
+    "followers": 74,
+    "forum_posts": 27,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/torstein-v"
+   },
+   {
+    "user": "batty-2",
+    "stars": 3,
+    "followers": 63,
+    "forum_posts": 66,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2"
+   },
+   {
+    "user": "zonnoe",
+    "stars": 3,
+    "followers": 54,
+    "forum_posts": 51,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/zonnoe"
+   },
+   {
+    "user": "peabob",
+    "stars": 3,
+    "followers": 51,
+    "forum_posts": 40,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/peabob"
+   },
+   {
+    "user": "jondough1",
+    "stars": 3,
+    "followers": 50,
+    "forum_posts": 30,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1"
+   },
+   {
+    "user": "jaff92",
+    "stars": 3,
+    "followers": 26,
+    "forum_posts": 48,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92"
+   },
+   {
+    "user": "axelrod1",
+    "stars": 3,
+    "followers": 18,
+    "forum_posts": 47,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/axelrod1"
+   },
+   {
+    "user": "uklar",
+    "stars": 3,
+    "followers": 9,
+    "forum_posts": 79,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar"
+   },
+   {
+    "user": "jack-h",
+    "stars": 3,
+    "followers": 2,
+    "forum_posts": 25,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/jack-h"
+   },
+   {
+    "user": "shippinganalytiker",
+    "stars": 2,
+    "followers": 875,
+    "forum_posts": 49,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker"
+   },
+   {
+    "user": "pryp",
+    "stars": 2,
+    "followers": 523,
+    "forum_posts": 281,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp"
+   },
+   {
+    "user": "carrlo",
+    "stars": 2,
+    "followers": 473,
+    "forum_posts": 70,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo"
+   },
+   {
+    "user": "blue2",
+    "stars": 2,
+    "followers": 471,
+    "forum_posts": 42,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/blue2"
+   },
+   {
+    "user": "coinflipper",
+    "stars": 2,
+    "followers": 242,
+    "forum_posts": 20,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/coinflipper"
+   },
+   {
+    "user": "kimkimkim",
+    "stars": 2,
+    "followers": 179,
+    "forum_posts": 46,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/kimkimkim"
+   },
+   {
+    "user": "utbyttejeger",
+    "stars": 2,
+    "followers": 171,
+    "forum_posts": 94,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger"
+   },
+   {
+    "user": "cool-hand",
+    "stars": 2,
+    "followers": 159,
+    "forum_posts": 20,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/cool-hand"
+   },
+   {
+    "user": "onklskrue",
+    "stars": 2,
+    "followers": 148,
+    "forum_posts": 33,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue"
+   },
+   {
+    "user": "hr-dust",
+    "stars": 2,
+    "followers": 131,
+    "forum_posts": 31,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust"
+   },
+   {
+    "user": "akmg",
+    "stars": 2,
+    "followers": 117,
+    "forum_posts": 74,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg"
+   },
+   {
+    "user": "kjell100",
+    "stars": 2,
+    "followers": 97,
+    "forum_posts": 136,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100"
+   },
+   {
+    "user": "salmo-salar",
+    "stars": 2,
+    "followers": 95,
+    "forum_posts": 40,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/salmo-salar"
+   },
+   {
+    "user": "venn",
+    "stars": 2,
+    "followers": 87,
+    "forum_posts": 34,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/venn"
+   },
+   {
+    "user": "amatrkongen",
+    "stars": 2,
+    "followers": 81,
+    "forum_posts": 24,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen"
+   },
+   {
+    "user": "pengesluk-20",
+    "stars": 2,
+    "followers": 77,
+    "forum_posts": 57,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20"
+   },
+   {
+    "user": "botn-bruk",
+    "stars": 2,
+    "followers": 66,
+    "forum_posts": 24,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/botn-bruk"
+   },
+   {
+    "user": "tbrx",
+    "stars": 2,
+    "followers": 64,
+    "forum_posts": 36,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/tbrx"
+   },
+   {
+    "user": "beyond-21",
+    "stars": 2,
+    "followers": 61,
+    "forum_posts": 35,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21"
+   },
+   {
+    "user": "tintinsoldat",
+    "stars": 2,
+    "followers": 60,
+    "forum_posts": 22,
+    "url": "https://www.nordnet.no/aksjeforum/medlemmer/tintinsoldat"
+   }
+  ],
+  "recent_posts": [
+   {
+    "key": "3d60e410544c8c18",
+    "user": "baretap12",
+    "stars": 2,
+    "slug": "constellation-oil-services-holding-cosh-xosl",
+    "posted_at": "2026-10-30T16:47:38.875060+00:00",
+    "text": "Siste måned        Siste 3 måned Noble +16%.      +19% Sdrl.  + 18%.       +27% Valaris +33%.     +44% Rig.      +33%.     +40% Coch. -2%.          -6% Rare greier= dypvanns markedet er ikke like stramt i Norge Ola Dunk og Kari Nordmann spesiale dette her. Lykke til i Norwegian a",
+    "sentiment": 0.508,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "d97bbb3104f2768f",
+    "user": "vehaa",
+    "stars": 2,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-10-30T16:06:12.451239+00:00",
+    "text": "God helg folkens. Bygg fremtidstro og mot.",
+    "sentiment": 0.84,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "cf81a0a83605b1b7",
+    "user": "w0nder",
+    "stars": 2,
+    "slug": "salmon-evolution-salme-xosl",
+    "posted_at": "2026-10-30T15:58:41.863533+00:00",
+    "text": "Tottenham fremstår som en liten unge. Like greit å dempe ungen.",
+    "sentiment": 0.008,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "9843395bb2cbe78b",
+    "user": "vikingen88",
+    "stars": 2,
+    "slug": "nykode-therapeutics-nykd-xosl",
+    "posted_at": "2026-10-30T15:56:08.288993+00:00",
+    "text": "Én ting som er sikkert er at det går langt mellom de grønne dagene",
+    "sentiment": -0.059,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "35a148a68337da81",
+    "user": "cab4me",
+    "stars": 2,
+    "slug": "cadeler-cadlr-xosl",
+    "posted_at": "2026-10-30T15:54:05.911612+00:00",
+    "text": "Det ble jo en bra dag 10% oppgang uvisst hvilken grunn.",
+    "sentiment": 0.808,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "4a523c478318b242",
+    "user": "baretap12",
+    "stars": 2,
+    "slug": "constellation-oil-services-holding-cosh-xosl",
+    "posted_at": "2026-10-30T15:53:38.875060+00:00",
+    "text": "Ja, Norske småsparere er mest opptatt av Norwegian air Eller å løpe etter Frontline Det er galskap :-))",
+    "sentiment": -0.611,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "bac46ead389ffb37",
+    "user": "linjemannen",
+    "stars": 2,
+    "slug": "scatec-scatc-xosl",
+    "posted_at": "2026-10-30T15:53:26.942594+00:00",
+    "text": "Solgte i dag på 87.85 og kjøpte tilbake på 84.25.  Jeg tror dessverre det blir veien fremover for denne aksjen. I hvert fall frem til neste rapport.  Det beste hadde selvsagt vært om den spratt opp i 100 i løpet av neste uke, men det er sjelden det beste scenarioet slår til. Vis ",
+    "sentiment": -0.372,
+    "relevance": 0.55,
+    "in_watchlist": true
+   },
+   {
+    "key": "484533d024932a28",
+    "user": "alph",
+    "stars": 2,
+    "slug": "himalaya-shipping-hshp-xosl",
+    "posted_at": "2026-10-30T15:51:46.750460+00:00",
+    "text": "· 30 okt BCI 33 917 +325 MTD 33 254 YTD 33 545 2026 FFA 35 000 2027 FFA 31 000 $HSHP",
+    "sentiment": -0.008,
+    "relevance": 0.6,
+    "in_watchlist": true
+   },
+   {
+    "key": "757aff8ff1be016e",
+    "user": "allvis",
+    "stars": 2,
+    "slug": "bw-lpg-bwlpg-xosl",
+    "posted_at": "2026-10-30T15:51:31.474251+00:00",
+    "text": "Det er best å satse på utbytte aksjer.  Du har mye bedre diversifisering enn jeg.  Men også mye å holde øye med.Jeg hadde blitt trett av mindre.",
+    "sentiment": 0.123,
+    "relevance": 0.55,
+    "in_watchlist": true
+   },
+   {
+    "key": "21241607353cc925",
+    "user": "kjell100",
+    "stars": 2,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-10-30T15:51:18.921272+00:00",
+    "text": "Litt om tidshorisonten her. Iran-krisen kan pågå til 2028 WASHINGTON, DC: Det iranske regimet har gitt opp Donald Trump. En større avtale er realistisk først etter 2028. https://www.dn.no/kommentar/mellomvalget-i-usa/iran-krigen/donald-trump/iran-krisen-kan-paga-til-2028/2-1-2066",
+    "sentiment": -0.037,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "60d97a8acacaf7fb",
+    "user": "leffe-junior",
+    "stars": 3,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-10-30T15:51:18.921272+00:00",
+    "text": "· Sist ble vi også dratt med ned av tech. Tech-folka burde da ellers komme over hit i stedet og tjene virkelige penger.",
+    "sentiment": -0.741,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "c851f789141a899d",
+    "user": "korona",
+    "stars": 2,
+    "slug": "frontline-fro-xosl",
+    "posted_at": "2026-10-30T15:51:14.315026+00:00",
+    "text": "Iran og US sementerer situasjonen kanskje til post Trump (2028) sier denne artikkelen .. beholder våre lukrative rammer rundt FRO også ? https://www.dn.no/kommentar/mellomvalget-i-usa/iran-krigen/donald-trump/iran-krisen-kan-paga-til-2028/2-1-2066784",
+    "sentiment": -0.101,
+    "relevance": 0.7,
+    "in_watchlist": true
+   },
+   {
+    "key": "28532acebf1001cf",
+    "user": "carrlo",
+    "stars": 2,
+    "slug": "kongsberg-automotive-koa-xosl",
+    "posted_at": "2026-10-30T14:58:53.454275+00:00",
+    "text": "Positive signaler fra bilindustrien i både Mexico og Brasil☀️ Delstatsmyndighetene i Puebla ønsker å få på plass 2,1 milliarder dollar i nye investeringer fra Volkswagen og Audi. Planene omfatter videreutvikling av Volkswagens fabrikk og økt produksjon av Audi sin ladbare Q5-hybr",
+    "sentiment": 0.439,
+    "relevance": 0.8,
+    "in_watchlist": true
+   },
+   {
+    "key": "6a142808ab0666bb",
+    "user": "venn",
+    "stars": 2,
+    "slug": "kongsberg-maritime-kmar-xosl",
+    "posted_at": "2026-10-30T14:55:07.018526+00:00",
+    "text": "Der kom det innsidekjøp á 3000 aksjer. Tenkte meg det! Vis 1 kommentar til",
+    "sentiment": -0.01,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "297a3893ed77e217",
+    "user": "mariusb",
+    "stars": 2,
+    "slug": "sal-mar-salm-xosl",
+    "posted_at": "2026-10-30T14:55:03.020931+00:00",
+    "text": "Prisene ned og krona opp, ikke det vi ønsker nå. Da står det og faller på rapporten, om det skal bli grønt neste uke!",
+    "sentiment": -0.102,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "7522a32012a33199",
+    "user": "utbyttejeger",
+    "stars": 2,
+    "slug": "paratus-energy-services-plsv-xosl",
+    "posted_at": "2026-10-30T14:53:58.297036+00:00",
+    "text": "Patatus inne i Investech sin stigende trend portefølje 📈. https://e24.no/boers-og-finans/i/aOVMqa/ukens-investtech-kjoep-disse-20-aksjene",
+    "sentiment": 0.124,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "ab5b68f8ea6753a2",
+    "user": "zappaphone",
+    "stars": 2,
+    "slug": "scatec-scatc-xosl",
+    "posted_at": "2026-10-30T14:53:26.942594+00:00",
+    "text": "\"Scatec-sjefen etter aksjeras: – Overrasket over reaksjonen Nedskrivninger bidro til milliardunderskudd for Scatec i tredje kvartal, men fremover øker vekstambisjonene. Analytiker er positiv: – Kommer til å tjene masse penger på vekst.\" https://www.dn.no/industri/scatec/resultate",
+    "sentiment": 0.594,
+    "relevance": 1.0,
+    "in_watchlist": true
+   },
+   {
+    "key": "eea1328515e090d0",
+    "user": "bastus68",
+    "stars": 3,
+    "slug": "pareto-bank-parb-xosl",
+    "posted_at": "2026-10-30T13:57:37.378117+00:00",
+    "text": "Men selv bare en krone i utbytte for 2026 utgjør over 2% direkteavkastning, bedre enn mange andre, og også bedre enn ingenting når først ting har blitt som det har blitt",
+    "sentiment": 0.711,
+    "relevance": 0.55,
+    "in_watchlist": true
+   },
+   {
+    "key": "5c63bf67c5fdcc0c",
+    "user": "kjell100",
+    "stars": 2,
+    "slug": "hunter-group-hunt-xoas",
+    "posted_at": "2026-10-30T13:17:24.007691+00:00",
+    "text": "Her kommer det frem i retten at Mercuria har forsøkt å manipulerer ratene inn til Baltic. Mercuria er skurken her. Mercuria vil ikke vinne på noen som helst  punkt her. Mercuria krangler med alle, om alt. Det er de kjent for https://gcaptain.com/whistleblowers-claimed-key-oil-tan",
+    "sentiment": -0.833,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "846a4253633c7930",
+    "user": "vehaa",
+    "stars": 2,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-10-30T13:15:31.597036+00:00",
+    "text": "Hold hodet kaldt nå.",
+    "sentiment": 0.163,
+    "relevance": 0.05,
+    "in_watchlist": true
+   },
+   {
+    "key": "933f3d97b7692bbf",
+    "user": "woice",
+    "stars": 2,
+    "slug": "moreld-morld-xosl",
+    "posted_at": "2026-10-30T12:53:59.983855+00:00",
+    "text": "Hva skyldes nedgangen i dag da? Fredag salg?",
+    "sentiment": -0.203,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "9a404b5d56f3a7e3",
+    "user": "dulle",
+    "stars": 2,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-10-30T12:42:31.597036+00:00",
+    "text": "Når det kjøres emisjon på 11,80 i sept. og investorer fyller på. Har de fått vite noe som ikke er markedsført for oss  dødlige - eller blir de snakket trill rundt av selskapet og tilretteleggere.  Sykt at de bevisst går med på å tape 1,50 pr aksje. Ned ish 10 % og dermed kaste 20",
+    "sentiment": -0.47,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "677a4de1f102c2ba",
+    "user": "batty-2",
+    "stars": 3,
+    "slug": "europris-epr-xosl",
+    "posted_at": "2026-10-30T12:37:33.368780+00:00",
+    "text": "Nå er 81nivået under testing. brytes den kan en større HS form komme i spill",
+    "sentiment": 0.047,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "a4572a300d738ccc",
+    "user": "jaff92",
+    "stars": 3,
+    "slug": "paratus-energy-services-plsv-xosl",
+    "posted_at": "2026-10-30T12:37:17.780780+00:00",
+    "text": "Kjedelig nedgang",
+    "sentiment": -0.935,
+    "relevance": 0.05,
+    "in_watchlist": true
+   },
+   {
+    "key": "1045a72e4f2450e2",
+    "user": "bastus68",
+    "stars": 3,
+    "slug": "pareto-bank-parb-xosl",
+    "posted_at": "2026-10-30T12:36:55.829316+00:00",
+    "text": "Har de kapitaldekning nok til å unngå emisjon eller konkurs om det virkelig skulle bli krevende blant de større lånekundene deres? Er det noen som har gravd litt i regnskapet og vet hvor solide de er? 🤨 Vis 1 kommentar til",
+    "sentiment": -0.933,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "d80a3c86af6ed611",
+    "user": "rolfkul",
+    "stars": 3,
+    "slug": "pareto-bank-parb-xosl",
+    "posted_at": "2026-10-30T12:36:55.829316+00:00",
+    "text": "Du kan jo se regnskapet deres selv. Det korte svaret er ja, de har mer en nok kapital. Jeg vil påstå at det er nær null risiko for emisjon eller konkurs",
+    "sentiment": -0.593,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "4bfe342573efea16",
+    "user": "tesk",
+    "stars": 2,
+    "slug": "okea-xosl",
+    "posted_at": "2026-10-30T12:36:42.355289+00:00",
+    "text": "· ja ser vi 55 den tredje nov......:)",
+    "sentiment": 0.338,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "3c5b6062dfb1110d",
+    "user": "aksjelady",
+    "stars": 2,
+    "slug": "sparebanken-norge-sbnor-xosl",
+    "posted_at": "2026-10-30T12:34:57.397881+00:00",
+    "text": "God inngang nå🤩",
+    "sentiment": 0.913,
+    "relevance": 0.05,
+    "in_watchlist": true
+   },
+   {
+    "key": "b64a1e9961b5722d",
+    "user": "move",
+    "stars": 2,
+    "slug": "kitron-kit-xosl",
+    "posted_at": "2026-10-30T12:32:19.905805+00:00",
+    "text": "Fall og middels volum, ikke bra👍👍👍😇",
+    "sentiment": -0.609,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "f5fe15e41aa7a382",
+    "user": "utbyttejeger",
+    "stars": 2,
+    "slug": "paratus-energy-services-plsv-xosl",
+    "posted_at": "2026-10-30T11:33:17.780780+00:00",
+    "text": "Teknedturen globalt påvirkerer tydeligvis også oljerelaterte aksjer - bare å sitte rolig og la bølgene roe seg..oljeprisen skal ikke mye ned.",
+    "sentiment": -0.148,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "706388ed076eb14e",
+    "user": "leffe-junior",
+    "stars": 3,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-10-30T11:30:40.116331+00:00",
+    "text": "· Ja, WAFR er fin - men så kan du også ta den med som også er opp 7% på AG-Kina på $1.345.710……hvorfor er vi i rødt??? :-)",
+    "sentiment": 0.4,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "419106f39d929163",
+    "user": "utbyttejeger",
+    "stars": 2,
+    "slug": "paratus-energy-services-plsv-xosl",
+    "posted_at": "2026-10-30T10:53:58.297036+00:00",
+    "text": "Teknedturen globalt påvirkerer tydeligvis også oljerelaterte aksjer - bare å sitte rolig og la bølgene roe seg..oljeprisen skal ikke mye ned. Vis 1 kommentar til",
+    "sentiment": -0.148,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "7f0d56711d9ee5a3",
+    "user": "baretap12",
+    "stars": 2,
+    "slug": "nordic-semiconductor-nod-xosl",
+    "posted_at": "2026-10-30T10:33:50.075044+00:00",
+    "text": "Det begynner å bli et ganske gjenkjennelig mønster i innleggene dine. Uansett hvilket selskap eller hvilken aksje det gjelder, klarer du tilsynelatende å finne en negativ vinkling på det meste. Går aksjen opp, er optimismen overdreven. Går den ned, var fallet berettiget. Kommer d",
+    "sentiment": -0.458,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "0a7a4fbe97d04271",
+    "user": "shippinganalytiker",
+    "stars": 2,
+    "slug": "hunter-group-hunt-xoas",
+    "posted_at": "2026-10-30T10:23:14.025467+00:00",
+    "text": "FFA videre opp i dag. November opp 5% Desember og Q1 opp 2%",
+    "sentiment": 0.052,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "3a06e74efb5d3193",
+    "user": "hulten",
+    "stars": 2,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-10-30T10:22:21.556459+00:00",
+    "text": "· Etter å ha saumfart stjerneformasjonene i natt på jakt etter tegn til nye data, begynner eg å tru at folk flest på forumet bare har sovnet.",
+    "sentiment": -0.307,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "c44adf96bbde9444",
+    "user": "rolfkul",
+    "stars": 3,
+    "slug": "axactor-acr-xosl",
+    "posted_at": "2026-10-30T10:21:57.552720+00:00",
+    "text": "· 🤣",
+    "sentiment": null,
+    "relevance": null,
+    "in_watchlist": true
+   },
+   {
+    "key": "aa90152807973cbd",
+    "user": "korona",
+    "stars": 2,
+    "slug": "frontline-fro-xosl",
+    "posted_at": "2026-10-30T10:00:24.834265+00:00",
+    "text": "da var meglers kjøps oppdrag utført .. nå rett til lunsj ..og vente på NYSE ?",
+    "sentiment": 0.168,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "2922036b619337aa",
+    "user": "holder-kanskje",
+    "stars": 2,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-10-30T09:57:28.954822+00:00",
+    "text": "Nei jeg gjør ikke det, jeg ommøblerte igår kveld for tilpassing kommende uker, trodde naturligvis at jeg gjorde rett, men!",
+    "sentiment": 0.08,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "7586664b99ad25fa",
+    "user": "blue2",
+    "stars": 2,
+    "slug": "solstad-maritime-soma-xosl",
+    "posted_at": "2026-10-30T09:38:07.572429+00:00",
+    "text": "God mulighet i dag til å kjøpe seg inn eller fylle på før Q3 4. november og utbytte🙂 *NFA",
+    "sentiment": 0.89,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "e9bd40c97116cf04",
+    "user": "moment",
+    "stars": 2,
+    "slug": "dno-xosl",
+    "posted_at": "2026-10-30T09:36:04.774949+00:00",
+    "text": "Hei ! Vi har en aksje som skal fortsatt betydelig opp i kurs-Vi har produkter olje/gass som p.t. er selgers marked og vil bli det en god stund fremover-!!! God helg !!!",
+    "sentiment": 0.849,
+    "relevance": 0.55,
+    "in_watchlist": true
+   }
+  ],
   "trades": [],
   "stats": {
    "n": 0
