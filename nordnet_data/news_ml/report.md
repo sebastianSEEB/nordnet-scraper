@@ -1,33 +1,33 @@
 # Nyhets-ML: paper trading-backtest
 
-Generert 2026-10-29T23:56 UTC · 120 aksjer · 50786 børsmeldinger
+Generert 2026-10-30T00:40 UTC · 120 aksjer · 38489 børsmeldinger
 Testperiode (modellen har aldri sett disse dagene): 2022-01-03 → 2026-10-28
 
 | | ML-strategi | Regel (KOG-mønster) | OSEBX |
 |---|---|---|---|
-| Total avkastning | +42.3 % | +16.0 % | +75.8 % |
-| Årlig (CAGR) | +7.6 % | +3.1 % | +12.4 % |
-| Største fall | -29.0 % | -2.5 % | -16.1 % |
-| Sharpe | 0.50 | 1.02 | 0.89 |
-| Handler | 944 | 38 | – |
-| Treffrate | +51.6 % | +60.5 % | – |
+| Total avkastning | -13.9 % | +18.2 % | +75.8 % |
+| Årlig (CAGR) | -3.1 % | +3.5 % | +12.4 % |
+| Største fall | -32.6 % | -4.7 % | -16.1 % |
+| Sharpe | -0.08 | 0.95 | 0.89 |
+| Handler | 951 | 44 | – |
+| Treffrate | +49.1 % | +59.1 % | – |
 
-**Tilfeldighetstest:** 22.0 % av 300 tilfeldige porteføljer med samme handelsfrekvens endte like godt eller bedre (median tilfeldig: +15.7 %).
+**Tilfeldighetstest:** 85.3 % av 300 tilfeldige porteføljer med samme handelsfrekvens endte like godt eller bedre (median tilfeldig: +13.2 %).
 
-**AUC ut-av-utvalget:** 0.501 (0,50 = mynt­kast) · **IC:** 0.017 (t = 4.5)
+**AUC ut-av-utvalget:** 0.501 (0,50 = mynt­kast) · **IC:** 0.016 (t = 4.4)
 
 ## Viktigste signaler (permutasjon, siste 9 mnd)
 
-- Dager siden kvartalsrapport: +0.0047
-- Avkastning 120 d: +0.0032
-- Avkastning 60 d: +0.0030
-- Kursreaksjon på forrige rapport: +0.0026
-- Oppkjøp/fusjon 90 d: +0.0018
-- Guiding/oppdatering 30 d: +0.0015
-- Fall fra 52-ukers topp: +0.0014
-- Omsetning (log): +0.0014
-- Emisjoner/lån 90 d: +0.0009
-- Rang avkastning 20 d: +0.0009
+- Kursreaksjon på forrige rapport: +0.0103
+- Dager siden kvartalsrapport: +0.0048
+- Avkastning 120 d: +0.0042
+- Kursreaksjon på kontrakter 90 d: +0.0042
+- OSEBX volatilitet: +0.0037
+- Avkastning 60 d: +0.0037
+- Omsetning (log): +0.0022
+- Avkastning 5 d: +0.0018
+- Meravkastning 60 d: +0.0016
+- Fall fra 52-ukers topp: +0.0016
 
 ## Begrensninger
 
