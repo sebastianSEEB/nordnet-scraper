@@ -77,6 +77,10 @@ button[aria-pressed="true"]{background:var(--accent);color:var(--surface);border
 details summary{cursor:pointer;font-weight:600}
 ul.rules{margin:8px 0 0;padding-left:18px;display:grid;gap:4px;color:var(--muted);font-size:14px}
 .foot{color:var(--muted);font-size:12.5px}
+.sub-panel{display:grid;gap:10px;min-width:0;align-content:start}
+.warnbox{margin:0;padding:10px 12px;border:1px solid var(--copper);border-radius:5px;color:var(--ink);font-size:14px;background:var(--surface)}
+.warnbox b{color:var(--copper)}
+h3.eyebrow{margin:0}
 @media (prefers-reduced-motion:no-preference){.fill,.pbar b{transition:width .4s ease}}
 </style>
 
@@ -102,6 +106,29 @@ ul.rules{margin:8px 0 0;padding-left:18px;display:grid;gap:4px;color:var(--muted
       <span><i style="background:var(--band);height:8px"></i>Tilfeldige porteføljer, 5–95 %</span>
     </div>
     <svg class="chart" id="curve" viewBox="0 0 900 340" role="img" aria-label="Porteføljeverdi over tid"></svg>
+  </section>
+  <section class="panel" aria-labelledby="h-forum">
+    <div class="panel-head">
+      <h2 id="h-forum">Forum-tillegget: hjelper Nordnet-sentimentet?</h2>
+      <span class="pill warn" id="forum-pill"></span>
+    </div>
+    <p class="warnbox" id="forum-warn" hidden></p>
+    <p class="hint" id="forum-lede"></p>
+    <div class="grid2" id="forum-body">
+      <div class="sub-panel">
+        <h3 class="eyebrow">Reagerer eller forutsier? (Spearman-korrelasjon, IC)</h3>
+        <div class="legend"><span><i style="background:var(--muted)"></i>Samme dag som kursen beveger seg</span><span><i style="background:var(--accent)"></i>Neste 10 handelsdager</span></div>
+        <svg class="chart" id="forum-ic" viewBox="0 0 440 300" role="img" aria-label="Korrelasjon samme dag mot neste 10 dager per forum-signal"></svg>
+        <p class="hint" id="forum-ic-note"></p>
+      </div>
+      <div class="sub-panel">
+        <h3 class="eyebrow">Paper trading i forumperioden</h3>
+        <div class="legend"><span><i style="background:var(--accent)"></i>Modell alene</span><span><i style="background:var(--copper)"></i>Modell + forum</span><span><i style="background:var(--ink)"></i>OSEBX</span></div>
+        <svg class="chart" id="forum-h2h" viewBox="0 0 440 240" role="img" aria-label="Porteføljeverdi i forumperioden"></svg>
+        <div class="tbl-wrap"><table id="forum-tbl"></table></div>
+      </div>
+    </div>
+    <div id="forum-live"></div>
   </section>
 
   <div class="grid2">
@@ -231,6 +258,72 @@ $('kpis').innerHTML = kpis.map(([k, v, s, c]) => `<div class="kpi"><span class="
   $('curve-hint').textContent = `Sluttverdi ${nf.format(lv)} kr · OSEBX ${nf.format(C.bench[n - 1])} kr`;
 })();
 
+// ---------- forum
+(function forum() {
+  const F = R.forum || {}, st = F.score_status;
+  const warn = $('forum-warn');
+  if (st && st.errors && st.errors.length && !st.scored) {
+    const credit = /credit balance/i.test(st.errors[0].message);
+    warn.hidden = false;
+    warn.innerHTML = `<b>Sentiment-scoringen står stille.</b> ` + (credit
+      ? `Anthropic-kontoen er tom for kreditt (siste forsøk ${fmtD(st.finished.slice(0, 10))}), så nye forum-innlegg får ingen score, og push-varslene fra scraperen stopper også. Fyll på under Plans &amp; Billing i Anthropic Console. Neste kjøring scorer alt som mangler.`
+      : `Siste forsøk ${fmtD(st.finished.slice(0, 10))} feilet: ${esc(st.errors[0].message.slice(0, 160))}`);
+  }
+  if (!F.available) { $('forum-lede').textContent = 'For lite forumdata ennå til å teste tillegget.'; $('forum-body').hidden = true; return; }
+  const W = F.window, h = F.h2h, mm = h.m_model, mc = h.m_combo;
+  $('forum-pill').textContent = `${W.days} handelsdager · ≈ ${String(W.independent_periods).replace('.', ',')} uavhengige perioder`;
+  $('forum-lede').textContent = `Scraperen har forum-innlegg fra ${fmtD(W.start)}. Tillegget er bestemt på forhånd: 60 % modellscore + 40 % «forumet er positivt mens kursen har falt siste 5 dager», og kjøp blant dagens topp 10 %. ${nf.format(F.info.posts_relevant)} relevante innlegg er brukt. Med så kort historikk er dette en første pekepinn, ikke et svar.`;
+
+  // dumbbell: samme dag vs neste 10 dager
+  const rows = F.ic, svg = $('forum-ic'), Wd = 440, L = 170, Rp = 14, T = 8, rowH = 30;
+  svg.setAttribute('viewBox', `0 0 ${Wd} ${T + rows.length * rowH + 26}`);
+  const vals = rows.flatMap(r => [r.ic_same_day, r.ic_fwd]).filter(v => v != null);
+  const ext = Math.max(0.05, ...vals.map(Math.abs)) * 1.15;
+  const x = v => L + (Wd - L - Rp) * (v + ext) / (2 * ext);
+  const yb = T + rows.length * rowH;
+  niceTicks(-ext, ext, 4).forEach(v => { el('line', {x1: x(v), x2: x(v), y1: T, y2: yb, stroke: v === 0 ? 'var(--muted)' : 'var(--line)'}, svg); el('text', {x: x(v), y: yb + 14, 'text-anchor': 'middle'}, svg, v.toFixed(2).replace('.', ',')); });
+  rows.forEach((r, i) => {
+    const yy = T + i * rowH + rowH / 2;
+    const lbl = el('text', {x: 0, y: yy + 3.5, style: r.feature === 'combo' || r.feature === 'p' ? 'fill:var(--ink);font-weight:600' : ''}, svg, r.label.length > 30 ? r.label.slice(0, 29) + '…' : r.label);
+    if (r.ic_same_day != null && r.ic_fwd != null) el('line', {x1: x(r.ic_same_day), x2: x(r.ic_fwd), y1: yy, y2: yy, stroke: 'var(--band)', 'stroke-width': 3}, svg);
+    if (r.ic_same_day != null) el('circle', {cx: x(r.ic_same_day), cy: yy, r: 4.5, fill: 'var(--muted)'}, svg);
+    if (r.ic_fwd != null) { const c = el('circle', {cx: x(r.ic_fwd), cy: yy, r: 5.5, fill: 'var(--accent)', stroke: r.p_perm != null && r.p_perm < 0.05 ? 'var(--up)' : 'none', 'stroke-width': 2}, svg); el('title', {}, c, `p = ${r.p_perm ?? '–'}`); }
+  });
+  const sig = rows.filter(r => r.p_perm != null && r.p_perm < 0.05 && !['p', 'combo'].includes(r.feature));
+  const strongSame = rows.filter(r => r.ic_same_day != null && Math.abs(r.ic_same_day) > 0.05).length;
+  $('forum-ic-note').textContent = (sig.length
+    ? `${sig.map(r => r.label).join(', ')} skiller seg fra tilfeldighet (p < 0,05, grønn ring). `
+    : 'Ingen forum-signaler skiller seg fra tilfeldighet ennå (ingen p under 0,05). ')
+    + (strongSame ? 'Prikkene lengst fra null på samme dag viser at forumet mest reagerer på kursen som allerede har beveget seg.' : '');
+
+  // head-to-head
+  const s2 = $('forum-h2h'), W2 = 440, H2 = 240, L2 = 46, R2 = 10, T2 = 10, B2 = 24, n = h.d.length;
+  const all = [...h.model, ...h.combo, ...h.bench].filter(v => v != null), lo = Math.min(...all) * 0.99, hi = Math.max(...all) * 1.01;
+  const x2 = i => L2 + (W2 - L2 - R2) * i / Math.max(1, n - 1), y2 = v => T2 + (H2 - T2 - B2) * (1 - (v - lo) / (hi - lo || 1));
+  niceTicks(lo, hi, 4).forEach(v => { el('line', {x1: L2, x2: W2 - R2, y1: y2(v), y2: y2(v), stroke: 'var(--line)'}, s2); el('text', {x: L2 - 5, y: y2(v) + 3.5, 'text-anchor': 'end'}, s2, nf.format(v / 1000) + 'k'); });
+  [0, Math.floor((n - 1) / 2), n - 1].forEach(i => el('text', {x: x2(i), y: H2 - 6, 'text-anchor': i === 0 ? 'start' : i === n - 1 ? 'end' : 'middle'}, s2, fmtD(h.d[i])));
+  const line = (arr, color, w, dash) => el('polyline', {points: arr.map((v, i) => v == null ? '' : `${x2(i)},${y2(v)}`).join(' '), fill: 'none', stroke: color, 'stroke-width': w, 'stroke-dasharray': dash || ''}, s2);
+  line(h.bench, 'var(--ink)', 1.3); line(h.model, 'var(--accent)', 2.2); line(h.combo, 'var(--copper)', 2.2, '6 3');
+  const tr = (k, m, extra) => `<tr><td>${k}</td><td class="r num ${cls(m.total_return)}">${pct(m.total_return)}</td><td class="r num">${m.n_trades ?? '–'}</td><td class="r num">${m.hit_rate == null ? '–' : pctU(m.hit_rate, 0)}</td><td class="r num">${extra}</td></tr>`;
+  const t20 = F.top20 || {};
+  $('forum-tbl').innerHTML = `<tr><th>Strategi</th><th class="r">Avkastning</th><th class="r">Handler</th><th class="r">Treff</th><th class="r">Topp 20 %, 10 d</th></tr>`
+    + tr('Modell alene', mm, pct(t20.model, 2)) + tr('Modell + forum', mc, pct(t20.combo, 2))
+    + `<tr><td>OSEBX</td><td class="r num ${cls(mm.bench_total)}">${pct(mm.bench_total)}</td><td class="r num">–</td><td class="r num">–</td><td class="r num">snitt ${pct(t20.all, 2)}</td></tr>`
+    + `<tr><td class="hint" colspan="5">Tilfeldige porteføljer med samme handelsfrekvens som «modell + forum»: median ${pct(h.random_median)}, ${pctU(h.random_p, 0)} gjorde det like bra eller bedre.</td></tr>`;
+
+  // live: to porteføljer side om side
+  const L1 = R.live, LF = F.live;
+  const eqOf = L => L ? (L.equity.length ? L.equity[L.equity.length - 1].equity : L.cash) : null;
+  if (LF) {
+    const pend = LF.pending.map(o => `<b>${short(o.ticker)}</b>`).join(', ') || 'ingen';
+    $('forum-live').innerHTML = `<h3 class="eyebrow" style="margin:6px 0">Live fra ${fmtD(LF.started)}: begge porteføljene handler fremover på ekte, ukjente kurser</h3>
+      <div class="tbl-wrap"><table><tr><th>Portefølje</th><th class="r">Verdi</th><th class="r">Åpne</th><th class="r">Avsluttet</th><th>Neste ordre</th></tr>
+      <tr><td>Modell alene</td><td class="r num">${nf.format(eqOf(L1))} kr</td><td class="r num">${L1.positions.length}</td><td class="r num">${L1.closed.length}</td><td>${L1.pending.map(o => `<b>${short(o.ticker)}</b>`).join(', ') || 'ingen'}</td></tr>
+      <tr><td>Modell + forum</td><td class="r num">${nf.format(eqOf(LF))} kr</td><td class="r num">${LF.positions.length}</td><td class="r num">${LF.closed.length}</td><td>${pend}</td></tr></table></div>
+      <p class="hint">Dette er den ærlige testen: om noen måneder viser forskjellen mellom de to radene om forumet tilfører noe.</p>`;
+  }
+})();
+
 // ---------- live
 (function live() {
   const L = R.live;
@@ -259,6 +352,9 @@ $('kpis').innerHTML = kpis.map(([k, v, s, c]) => `<div class="kpi"><span class="
     if (r.dist_sma200 != null && r.dist_sma200 < 0) c.push(`<span class="chip">under SMA200</span>`);
     if (r.days_to_report != null && r.days_to_report >= 0 && r.days_to_report <= 30) c.push(`<span class="chip">rapport om ~${Math.round(r.days_to_report)} d</span>`);
     if (r.dd_252 != null && r.dd_252 < -0.25) c.push(`<span class="chip">${pct(r.dd_252, 0)} fra topp</span>`);
+    if (r.f_div5 != null && r.f_div5 >= 0.3) c.push(`<span class="chip hot">forum positivt, kurs svak</span>`);
+    else if (r.f_sent5 != null && r.f_sent5 >= 0.25) c.push(`<span class="chip ok">forum positivt</span>`);
+    else if (r.f_sent5 != null && r.f_sent5 <= -0.25) c.push(`<span class="chip">forum negativt</span>`);
     return c.join('');
   };
   const rows = S2.rows.slice(0, 15);

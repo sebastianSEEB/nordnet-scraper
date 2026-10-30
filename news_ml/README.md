@@ -19,6 +19,22 @@ Yahoo-kurser (2019→) ──┘                                                
 - **Teknisk**: SMA50/200, Bollinger %B, RSI, momentum, volatilitet, fall fra topp, volum
 - **Marked**: OSEBX-trend og -volatilitet
 
+## Forum-tillegget (`forum.py`)
+
+Bruker forum-innleggene fra scraperen og Haiku-scorene (`nordnet_data/sentiment/scores.jsonl`):
+sentiment 5 og 20 dager, stemningsskifte, oppmerksomhet mot normalt, andel nyhet/analyse-innlegg,
+og «forum positivt mens kursen har falt». Innlegg teller bare hvis de er skrevet før 16:00.
+
+Siden forumdata bare finnes fra slutten av august 2026, testes tillegget for seg i den perioden:
+
+- korrelasjon samme dag (reagerer forumet?) mot neste 10 dager (forutsier det?), med tilfeldighetstest
+  der hvilken aksje forum-dataene hører til stokkes
+- paper trading: modell alene mot modell + forum (60/40-vekting bestemt på forhånd), pluss tilfeldige porteføljer
+- to live paper-porteføljer side om side fra 30.10.2026 (`paper_live.json` og `paper_live_forum.json`)
+
+Feiler scoringen (f.eks. tom API-kreditt), står feilen i `nordnet_data/sentiment/score_status.json`
+og øverst i dashboardet.
+
 ## Ærlighetsregler
 
 - Informasjon må være kjent ved børsslutt; handel skjer neste dags åpning. Meldinger etter 16:20 teller neste dag.
