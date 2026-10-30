@@ -1,38 +1,9 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-10-30T13:33:59.984692+00:00",
+  "scraped_at": "2026-10-30T16:54:39.935491+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "933f3d97b7692bbf",
-      "author": "Woice",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/woice",
-      "posted_relative": "for 40 min siden",
-      "text": "Hva skyldes nedgangen i dag da? Fredag salg?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 44,
-      "has_link": false
-    },
-    {
-      "key": "6c390519d45a8749",
-      "author": "Reder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reder",
-      "posted_relative": "for 35 min siden",
-      "text": "All oljeservice er stort sett ned.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 34,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

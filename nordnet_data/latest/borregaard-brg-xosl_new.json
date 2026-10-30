@@ -1,9 +1,25 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-10-30T13:35:16.453506+00:00",
+  "scraped_at": "2026-10-30T16:55:56.842811+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "56ae0255170320d7",
+      "author": "CapitalLogic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capitallogic",
+      "posted_relative": "for 2 t siden",
+      "text": "Borregaard leverte rekord i Q3: EBITDA 557 mill. (440), margin 29,4 %, og EPS 2,96 mot 2,13 i forventning. Balansen er solid med gjeld/EBITDA på 0,97. Ved 155 kr får jeg ca. 9x EV/EBITDA på mine anslag, og verdien min ligger på ca. 165 kr. Det er riktig priset, ikke billig. Prisen forutsetter at rekordmarginene holder, og kronen er ca. 7 % sterkere mot valutakurven deres.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 374,
+      "has_link": false
+    }
+  ]
 }

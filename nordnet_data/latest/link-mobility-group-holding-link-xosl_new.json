@@ -1,37 +1,24 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-10-30T13:32:08.273880+00:00",
+  "scraped_at": "2026-10-30T16:52:48.224293+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "4ae445e6f9793445",
-      "author": "Andyviking",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andyviking",
-      "posted_relative": "for 3 t siden",
-      "text": "Jeg prøvde å bruke Google Gemini til å finne konsensusestimater for q3 rapporten (vet ikke hvor nøyaktig det er). Den kom frem til følgende hvertfall:  - Omsetning: 2050-2120 mill nok (1693 q3 2025) - Justert EBITDA: 265-275 mill nok (195 q3 2025) - det vil evt gi omsetningsvekst YoY på 21-25% og EBITDA vekst på 36-41% Hva tror dere? Vis 1 kommentar til",
+      "key": "3a009f6f1f229f5a",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Twilio ned 25% hittil idag Sinch ned 5%. Uheldigvis har ikke Link korrelert veldig godt med disse to tidligere når de har hatt sine oppturer. Får håpe at den ikke begynner å følge disse to akkurat nå da :-)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1
       ],
       "links": [],
-      "char_count": 355,
-      "has_link": false
-    },
-    {
-      "key": "240d4b5c12515f1a",
-      "author": "Bellmann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
-      "posted_relative": "for 18 min siden",
-      "text": "Ja,med en msetningsvekst YoY på 21-25% og EBITDA vekst på 36-41% bør kurs på 34 holde greit. Tror mange undervurderer den positive effekten av AI, i tillegg har link en portefølje av oppkjøp som modnes raskt. Mitt tips er at link overrasker på oppsiden.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 253,
+      "char_count": 206,
       "has_link": false
     }
   ]

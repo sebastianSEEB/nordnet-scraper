@@ -1,9 +1,38 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-10-30T13:32:27.658384+00:00",
+  "scraped_at": "2026-10-30T16:53:07.751589+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "40879c39f0ceb757",
+      "author": "Knut W. Opheim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knut-w-opheim",
+      "posted_relative": "for 56 min siden",
+      "text": "Utrolig at seriøse meglere kan ha et så negativt syn på Tomra ASA sin framtid. Tror at deres systemer kommer til å vinne innpass i mange land framover, og Tomra ASA har lenge bevist at de er en av markedslederne. Gode kjøpsmuligheter for vi som tror på Tomra ASA.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 263,
+      "has_link": false
+    },
+    {
+      "key": "70fcbbd45b9ea411",
+      "author": "Henrik Hunt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henrik-hunt",
+      "posted_relative": "for 1 t siden",
+      "text": "· Tenk at Tomra har vært i 300. Tror de store ordrene som kanskje snart kommer, kan sparke kursen kraftig opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }

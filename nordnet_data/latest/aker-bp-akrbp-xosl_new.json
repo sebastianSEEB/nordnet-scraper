@@ -1,38 +1,25 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-10-30T13:35:42.875057+00:00",
+  "scraped_at": "2026-10-30T16:56:24.519240+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "b8d1cfa0caf61c42",
-      "author": "brst",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brst-1",
-      "posted_relative": "for 16 min siden · Endret",
-      "text": "Når du ser Goldman Sachs tar med oljepris på 60 USD som grunnlag, og at Akerbp ikke har hedge og dermed mer utsatt (tjener også mer på prisen opp) Etter mitt syn så må du være nokså godtroende om du tror at infrastruktur gjenoppbygging, bygge opp reserver og skips trafikk igangsettes fra hvor skipene er i verden med startpunkt den dag i dag går såpass raskt. Bare et skip med tur til Hormuz, fylle opp og så frakte tar vel 2-3 måneder om jeg husker riktig under normale omstendigheter. Mens pumpene på øst-vest pipelines ble jo sprengt på de mest sårbare og høye punktene osv",
+      "key": "8814ab9eca8b21f5",
+      "author": "InvestorNJ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investornj",
+      "posted_relative": "for 1 t siden",
+      "text": "https://e24.no/bors/nyheter/a/306083?pinnedEntry=306083 Deilig å være norsk i Europa om dagen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 577,
-      "has_link": false
-    },
-    {
-      "key": "748139d9d1dc7756",
-      "author": "Roarg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/roarg",
-      "posted_relative": "for 53 min siden",
-      "text": "Det er litt fasinerende å se analytikere komme med sine utsikter. Skulle tro at de ikke sitter på samme informasjon. sprik fra 280-430, med alt fra kjøp og selg og hold... god underholdning iallefall....",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
+      "links": [
+        "https://e24.no/bors/nyheter/a/306083?pinnedEntry=306083"
       ],
-      "links": [],
-      "char_count": 203,
-      "has_link": false
+      "char_count": 93,
+      "has_link": true
     }
   ]
 }
