@@ -1,16 +1,14 @@
 {
-  "started": "2026-10-30T15:28:38.135058+00:00",
-  "to_model": 4743,
-  "rule": 0,
-  "scored": 4743,
+  "started": "2026-10-30T20:06:47.547323+00:00",
+  "to_model": 141,
+  "rule": 2,
+  "scored": 141,
   "model": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
   "labels": {
     "0": "negative",
     "1": "neutral",
     "2": "positive"
   },
-  "load_errors": [
-    "ltg/norbert3-base_sentence-sentiment: AttributeError: 'NorbertForSequenceClassification' object has no attribute 'all_tied_weights_keys'"
-  ],
-  "finished": "2026-10-30T15:51:03.841264+00:00"
+  "load_errors": [],
+  "finished": "2026-10-30T20:07:36.537498+00:00"
 }
