@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="no">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kopihandel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Samme papir-terminal-uttrykk som nyhets-dashboardet, så de to føles som ett system. */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#18212b; --muted:#5b6672; --line:#d9ddd6;
+  --accent:#1d5c8f; --accent-soft:#dbe7f2; --copper:#b0602b;
+  --up:#1f7a4d; --down:#b4362f; --band:#c9d3dd;
+  --display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11161c; --surface:#18202a; --ink:#e6eaee; --muted:#93a0ad; --line:#2a3542;
+  --accent:#7fb2e0; --accent-soft:#1f3346; --copper:#e09a62; --up:#5cc68f; --down:#ef7b72; --band:#2c3a4a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161c; --surface:#18202a; --ink:#e6eaee; --muted:#93a0ad; --line:#2a3542;
+  --accent:#7fb2e0; --accent-soft:#1f3346; --copper:#e09a62; --up:#5cc68f; --down:#ef7b72; --band:#2c3a4a; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{overflow-x:hidden}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.5}
+.wrap{max-width:1100px;margin:0 auto;padding:20px 16px 48px;display:grid;gap:20px}
+.eyebrow{font:600 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:var(--display);font-stretch:78%;font-weight:800;font-size:clamp(34px,8vw,56px);line-height:.95;margin:6px 0 0}
+h2{font-family:var(--display);font-stretch:85%;font-weight:700;font-size:21px;margin:0}
+.verdict{font-size:17px;max-width:70ch;margin:8px 0 0}
+.sub,.hint{color:var(--muted)} .hint{font-size:13px;margin:0}
+.grid2{display:grid;gap:20px}
+@media(min-width:860px){.grid2{grid-template-columns:1fr 1fr}}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:18px;display:grid;gap:14px;min-width:0;align-content:start}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+.kpi{border-left:3px solid var(--accent);padding:4px 0 4px 10px}
+.kpi b{display:block;font:600 24px/1.1 var(--mono)}
+.kpi span{font-size:12px;color:var(--muted)}
+.up{color:var(--up)} .down{color:var(--down)}
+.cards{display:grid;gap:8px}
+.card{border:1px solid var(--line);border-radius:5px;padding:10px 12px;display:grid;gap:2px;min-width:0}
+.card .top{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.card .tk{font:600 14px var(--mono)}
+.card .meta{font-size:12px;color:var(--muted);overflow-wrap:anywhere}
+.tag{font:600 10px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:3px 6px;border-radius:3px;background:var(--accent-soft);color:var(--accent)}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th,td{padding:6px 4px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+th:first-child,td:first-child{text-align:left;white-space:normal}
+th{font:600 11px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+tr.main td{font-weight:600;background:var(--accent-soft)}
+svg text{fill:var(--muted);font:11px var(--mono)}
+.empty{color:var(--muted);font-style:italic;margin:0}
+details summary{cursor:pointer;color:var(--accent)}
+.post{font-size:13px;overflow-wrap:anywhere}
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+<script>
+const D = __DATA__;
+const pct = (x, d=1) => x == null ? "–" : (x >= 0 ? "+" : "") + (x*100).toFixed(d) + " %";
+const kr = x => x == null ? "–" : Math.round(x).toLocaleString("nb-NO") + " kr";
+const cls = x => x == null ? "" : x >= 0 ? "up" : "down";
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const day = s => s ? String(s).slice(0,10) : "–";
+const M = D.main, S = M.stats || {}, ST = D.stars || {};
+
+function verdict(){
+  if (!S.n) return "Ingen avsluttede handler ennå – vent på første kjøring med kurser.";
+  const sig = S.t_stat != null && Math.abs(S.t_stat) >= 2;
+  const dir = S.avg_excess >= 0 ? "slått" : "tapt mot";
+  return `Å kopiere CEO/CFO/styreleder-kjøp over 500k og holde i 20 handelsdager har ${dir} OSEBX med `
+    + `${pct(Math.abs(S.avg_excess))} per handel i snitt over ${S.n} handler siden 2022 – `
+    + (sig ? "langt nok fra null til at det neppe bare er flaks." : "men forskjellen er så liten at den godt kan være flaks.");
+}
+
+function equity(){
+  const pts = M.equity || [];
+  if (pts.length < 2) return '<p class="empty">For lite data til å tegne kurven.</p>';
+  const W = 640, H = 200, P = 34;
+  const ys = pts.map(p => p[1]), lo = Math.min(0, ...ys), hi = Math.max(0, ...ys);
+  const x = i => P + i * (W - P - 8) / (pts.length - 1);
+  const y = v => 10 + (hi - v) * (H - 30) / ((hi - lo) || 1);
+  const path = pts.map((p,i) => (i ? "L" : "M") + x(i).toFixed(1) + " " + y(p[1]).toFixed(1)).join(" ");
+  const last = ys[ys.length-1];
+  return `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Kumulativ gevinst for hovedstrategien">
+    <line x1="${P}" x2="${W-8}" y1="${y(0)}" y2="${y(0)}" stroke="var(--band)"/>
+    <path d="${path}" fill="none" stroke="${last >= 0 ? "var(--up)" : "var(--down)"}" stroke-width="2"/>
+    <text x="0" y="${y(hi)+4}">${Math.round(hi/1000)}k</text><text x="0" y="${y(lo)}">${Math.round(lo/1000)}k</text>
+    <text x="${P}" y="${H-4}">${pts[0][0].slice(0,7)}</text>
+    <text x="${W-8}" y="${H-4}" text-anchor="end">${pts[pts.length-1][0].slice(0,7)}</text></svg>
+    <p class="hint">Kumulativ gevinst i kroner med 10 000 kr per handel (uten rentes rente, kurtasje og spread).</p>`;
+}
+
+function tradeCard(t){
+  const r = t.status === "venter" ? '<span class="tag">kjøpes neste åpning</span>'
+    : `<span class="${cls(t.ret)}">${pct(t.ret)}</span>`;
+  return `<div class="card"><div class="top"><span class="tk">${esc(t.ticker)}</span>${r}</div>
+    <div>${esc(t.issuer_name)} · ${esc(t.role)}${t.value_nok ? " · " + kr(t.value_nok) : ""}</div>
+    <div class="meta">Melding ${day(t.published)} · inn ${day(t.entry_date)}${t.status==="lukket" ? " · ut " + day(t.exit_date) : t.days_held != null ? " · dag " + t.days_held + " av 20" : ""}
+    ${t.excess != null ? ` · mot OSEBX <span class="${cls(t.excess)}">${pct(t.excess)}</span>` : ""}</div></div>`;
+}
+const cards = (list, empty) => list && list.length ? `<div class="cards">${list.map(tradeCard).join("")}</div>` : `<p class="empty">${empty}</p>`;
+
+function kpis(s){
+  return `<div class="kpis">
+    <div class="kpi"><b>${s.n || 0}</b><span>avsluttede handler</span></div>
+    <div class="kpi"><b class="${cls(s.avg_excess)}">${pct(s.avg_excess)}</b><span>snitt mot OSEBX per handel</span></div>
+    <div class="kpi"><b>${s.beat_bench == null ? "–" : Math.round(s.beat_bench*100) + " %"}</b><span>av handlene slo OSEBX</span></div>
+    <div class="kpi"><b>${s.t_stat == null ? "–" : s.t_stat.toFixed(2)}</b><span>t-verdi (≥ 2 = trolig ikke flaks)</span></div>
+    <div class="kpi"><b class="${cls(s.total_pnl)}">${kr(s.total_pnl)}</b><span>samlet gevinst, 10k per handel</span></div></div>`;
+}
+
+function variants(){
+  const rows = Object.entries(D.variants || {}).map(([k,v]) =>
+    `<tr class="${k === D.main_key ? "main" : ""}"><td>${esc(v.label)}</td><td>${v.hold} d</td><td>${v.n || 0}</td>
+     <td class="${cls(v.avg_excess)}">${pct(v.avg_excess)}</td><td>${v.t_stat == null ? "–" : v.t_stat.toFixed(1)}</td></tr>`).join("");
+  return `<table><thead><tr><th>Variant</th><th>Hold</th><th>n</th><th>Mot OSEBX</th><th>t</th></tr></thead><tbody>${rows}</tbody></table>
+    <p class="hint">Uthevet rad er hovedstrategien, valgt før resultatene ble sett. Med 12 varianter vil én eller to se gode ut av ren flaks – ikke bytt til den som ser best ut.</p>`;
+}
+
+function years(){
+  const e = Object.entries(M.by_year || {});
+  if (!e.length) return "";
+  return `<table><thead><tr><th>År</th><th>n</th><th>Mot OSEBX</th></tr></thead><tbody>${
+    e.map(([y,v]) => `<tr><td>${y}</td><td>${v.n}</td><td class="${cls(v.avg_excess)}">${pct(v.avg_excess)}</td></tr>`).join("")}</tbody></table>`;
+}
+
+function stars(){
+  const posts = (ST.recent_posts || []).slice(0, 15).map(p => `<div class="card"><div class="top">
+      <span class="tk">@${esc(p.user)} ${"★".repeat(p.stars)}</span>
+      <span class="meta">${day(p.posted_at)}${p.sentiment != null ? ` · sentiment <span class="${cls(p.sentiment)}">${p.sentiment.toFixed(2)}</span>` : ""}</span></div>
+      <div class="meta">${esc(p.slug)}</div><div class="post">${esc(p.text)}</div></div>`).join("");
+  const users = (ST.top_users || []).slice(0, 20).map(u =>
+    `<tr><td><a href="${esc(u.url)}">@${esc(u.user)}</a></td><td>${"★".repeat(u.stars)}</td><td>${u.followers ?? "–"}</td><td>${u.forum_posts ?? "–"}</td></tr>`).join("");
+  return `<section class="panel"><h2>Stjernebrukere i forumet</h2>
+    <p class="hint">${ST.profiles_checked || 0} profiler sjekket · ${ST.three_star || 0} med 3 stjerner (topp 10 % risikojustert avkastning) · ${ST.two_star || 0} med 2.
+    Handlene deres er bak innlogging, så vi paper trader det de skriver: et positivt innlegg (sentiment ≥ 0,3) fra en 3-stjerners bruker = kjøp, hold 20 dager. Bare forover, fra oppstart.</p>
+    ${kpis(ST.stats || {})}
+    <h2>Stjerne-handler</h2>${cards((ST.trades || []).slice(0, 10), "Ingen ennå. Krever at stjernene er hentet og at innleggene er sentiment-scoret av Claude.")}
+    <details><summary>Siste innlegg fra stjernebrukere</summary><div class="cards" style="margin-top:10px">${posts || '<p class="empty">Ingen ennå.</p>'}</div></details>
+    <details><summary>Topp stjernebrukere</summary><table style="margin-top:10px"><thead><tr><th>Bruker</th><th>★</th><th>Følgere</th><th>Innlegg</th></tr></thead><tbody>${users}</tbody></table></details>
+  </section>`;
+}
+
+document.getElementById("app").innerHTML = `
+  <header><div class="eyebrow">Nordnet-scraper · kopihandel på papir</div><h1>Kopihandel</h1>
+    <p class="verdict">${verdict()}</p>
+    <p class="hint">Oppdatert ${day(D.generated_at)} · kurser til ${day(D.price_last_date)} · ${D.n_insider_buys_parsed} rene innsidekjøp funnet i watchlisten · paper trading startet ${day(D.paper_started_at)}</p></header>
+  <section class="panel"><h2>Hovedstrategi: kopier innsidekjøp</h2>
+    <p class="hint">CEO, CFO eller styreleder kjøper for minst 500 000 kr i markedet → vi kjøper på neste åpning og selger 20 handelsdager senere. Backtest fra 2022.</p>
+    ${kpis(S)}${equity()}</section>
+  <div class="grid2">
+    <section class="panel"><h2>Åpne og ventende posisjoner</h2>${cards((M.open || []).slice().reverse(), "Ingen åpne posisjoner nå.")}</section>
+    <section class="panel"><h2>Ekte live siden oppstart</h2>
+      <p class="hint">Bare signaler sett første gang etter at paper tradingen startet – disse kan ikke være pyntet i ettertid.</p>
+      ${kpis(M.live_stats || {})}${cards(M.live_trades, "Ingen live-handler avsluttet ennå.")}</section>
+  </div>
+  <div class="grid2">
+    <section class="panel"><h2>Varianter</h2>${variants()}</section>
+    <section class="panel"><h2>Per år</h2>${years()}<details><summary>Siste avsluttede handler</summary><div style="margin-top:10px">${cards(M.recent_closed, "Ingen.")}</div></details></section>
+  </div>
+  ${stars()}
+  <p class="hint">Papirhandel, ikke investeringsråd. Kurtasje, spread og skatt er ikke trukket fra, og innsidemeldingene tolkes med regler som kan bomme på uvanlige meldinger.</p>`;
+</script>
+</body>
+</html>
