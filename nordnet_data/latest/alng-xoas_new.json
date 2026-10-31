@@ -1,9 +1,26 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-10-31T18:17:48.524433+00:00",
+  "scraped_at": "2026-10-31T22:02:06.502565+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "70c3701631c6db88",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": null,
+      "text": "27. okt. Mellomvalget nærmer seg (3. nov). Trump har tidligere sagt at det ikke skjer noe mot Iran før valget er over, mulig bensinprisen har holdt han igjen. Trump sa riktignok nylig at ' økte bensinpriser er en liten pris å betale for krigen', mulig han har gitt opp bensinprisene.  Ser av historikken tilbake i mars at kursen omtrent doblet seg i det øyeblikket krigen var en realitet. Hva tenker dere nå?  Får vi kanskje en eskalering i helga eller tidlig neste uke? Eller blir det TACO? Dersom Netanyahu taper valget så får han meget dårlig tid til å angripe Iran, og vil trolig presse Trump til å igangsette et angrep snarest.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        13
+      ],
+      "links": [],
+      "char_count": 632,
+      "has_link": false
+    }
+  ]
 }

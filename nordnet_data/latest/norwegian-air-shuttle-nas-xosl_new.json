@@ -1,36 +1,25 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-10-31T18:18:58.409682+00:00",
+  "scraped_at": "2026-10-31T22:03:17.320484+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "dd7367aefe6f9923",
-      "author": "jkl123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jkl123",
-      "posted_relative": "for 3 t siden",
-      "text": "Hadde liksom skjønt troll-kommentarer hvis dette var et fotballag eller noe sånt, men et flyselskap😭 da snakker du nerd…",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 120,
-      "has_link": false
-    },
-    {
-      "key": "36e068ae4f6875cd",
-      "author": "Luring4",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
-      "posted_relative": "for 27 min siden",
-      "text": "Fredriksen fyller stadig på 💵💵💵💵",
+      "key": "67fd8fc5e39fbce9",
+      "author": "per64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/per64",
+      "posted_relative": "for 1 t siden",
+      "text": "https://e24.no/boers-og-finans/i/p1qqPo/storeulv-hamstrer-motpol-til-tank-og-olje",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 32,
-      "has_link": false
+      "links": [
+        "https://e24.no/boers-og-finans/i/p1qqPo/storeulv-hamstrer-motpol-til-tank-og-olje"
+      ],
+      "char_count": 81,
+      "has_link": true
     }
   ]
 }
