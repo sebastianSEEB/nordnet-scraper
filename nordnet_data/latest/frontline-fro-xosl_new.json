@@ -1,52 +1,22 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-10-30T21:13:30.530520+00:00",
+  "scraped_at": "2026-10-31T01:13:00.911109+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "7a469e774622640a",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 2 t siden",
-      "text": "Med fare for hakk i plata. TD3C er ikke relevant for fro, da de ikke seiler den ruta. Ikke som vi kjenner til ihvertfall.",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 121,
-      "has_link": false
-    },
-    {
-      "key": "927d6fda84a9dae6",
-      "author": "Semmelweiss",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/semmelweiss",
-      "posted_relative": "for 2 t siden",
-      "text": "Bare jeg som cringer av å lese denne dagboka?",
-      "reply_count": 2,
+      "key": "bae7ebb54511480d",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 3 t siden",
+      "text": "Vent til etterhandelen er over 01:00 du.",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 45,
-      "has_link": false
-    },
-    {
-      "key": "ebd470741287211c",
-      "author": "natural7",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/natural7",
-      "posted_relative": "for 51 min siden",
-      "text": "· Stengte på 524 i NY. God helg 🍹🍹!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 35,
+      "char_count": 40,
       "has_link": false
     }
   ]

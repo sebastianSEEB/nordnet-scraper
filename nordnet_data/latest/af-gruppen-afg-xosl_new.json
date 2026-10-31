@@ -1,9 +1,23 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-10-30T21:19:15.568983+00:00",
+  "scraped_at": "2026-10-31T01:18:43.092490+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fdb5a7f988a135b1",
+      "author": "Millionærstudent",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/millionrstudent",
+      "posted_relative": null,
+      "text": "26. okt. Hva skyldes dagens oppgang på 4%?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }
