@@ -1,9 +1,27 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-10-31T07:44:01.502149+00:00",
+  "scraped_at": "2026-10-31T14:01:49.254196+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8406f4b5dd0f7c73",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "27. okt. Siem bekrefter at de har bestilt nybygg i Kina-dette er på størrelse med I-klassen og billiggere enn Implementer visst: https://osvnyheter.no/offshore-nyheter-uke-44-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://osvnyheter.no/offshore-nyheter-uke-44-2026"
+      ],
+      "char_count": 179,
+      "has_link": true
+    }
+  ]
 }

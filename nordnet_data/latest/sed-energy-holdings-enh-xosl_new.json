@@ -1,9 +1,23 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-10-31T07:44:59.826743+00:00",
+  "scraped_at": "2026-10-31T14:02:49.344947+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7df7bb85963cd96f",
+      "author": "Oliver Nassau",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oliver-nassau",
+      "posted_relative": "for 1 t siden",
+      "text": "Utvannet er et veldig ladet ord.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

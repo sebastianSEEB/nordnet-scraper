@@ -1,9 +1,54 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-10-31T07:46:57.038237+00:00",
+  "scraped_at": "2026-10-31T14:04:50.043773+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ff7734d9c41cc0a9",
+      "author": "phor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
+      "posted_relative": "for 4 t siden",
+      "text": "En vanvittig Oktober er unnagjort!  Jeg kommer frem til et estimat for Oktober på: • TD3C-snitt: ca. $1,34m/dag • Brutto TD3C, begge skip: ca. $83,2m • Estimat Netto TC etter broker + TC-in: ca. $79,2m • Sammenlignet Q3  totalt: ca. $113,2m Oktober alene tilsvarer dermed ca. 70 % av hele Q3, og over 2x en gjennomsnittlig Q3-måned. Bruker fredagene sin publiserte spot for lørdager og søndager. Tallene inkluderer ikke eco/scrubber-premien ettersom det blir mest gjetting bare ifra min side. Så endelige tall er noe høyere enn hva som står over. Tallene baserer seg på full betaling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
+      "links": [],
+      "char_count": 584,
+      "has_link": false
+    },
+    {
+      "key": "57253e423592bf4e",
+      "author": "Viggi87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viggi87",
+      "posted_relative": "for 2 t siden",
+      "text": "En tar de dagene det publiseres indeks, finner snittet, og så gange opp med antall dager i måneden for å finne totalen. I tillegg må du inkludere eco-og scrubberpremim oppå.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 173,
+      "has_link": false
+    },
+    {
+      "key": "06f3c7a0fdfbde2e",
+      "author": "alanarkus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alanarkus",
+      "posted_relative": "for 1 t siden",
+      "text": "Dette tar opp så mye av min hjerne at eg drømte om at Hunter vant saken mot mercuria. Snakk om en skuffende morgen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    }
+  ]
 }

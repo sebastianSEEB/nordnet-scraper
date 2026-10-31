@@ -1,9 +1,39 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-10-31T07:45:50.916588+00:00",
+  "scraped_at": "2026-10-31T14:03:41.185527+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "45342e2cf418fa35",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": null,
+      "text": "27. okt. Greier vi 15,- idag? 💵💵💵",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        33
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    },
+    {
+      "key": "316fa8e147d4c4ec",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": "for 6 t siden",
+      "text": "· 😂😂😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

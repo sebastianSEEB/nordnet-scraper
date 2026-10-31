@@ -1,9 +1,38 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-10-31T07:46:14.131330+00:00",
+  "scraped_at": "2026-10-31T14:04:06.391292+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "66377ef3ea75b993",
+      "author": "Tiger-Boy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiger-boy",
+      "posted_relative": null,
+      "text": "27. okt. Og ABG spår kvatalsvis utbytte per aksje senest fra Q4 26.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "25f0c15df6119406",
+      "author": "Harmony",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harmony",
+      "posted_relative": null,
+      "text": "27. okt. · 10,84 nok per share cash build for kvartalet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

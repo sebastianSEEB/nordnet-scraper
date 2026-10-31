@@ -1,9 +1,40 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-10-31T07:44:52.228036+00:00",
+  "scraped_at": "2026-10-31T14:02:41.050472+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b5c589108d16c4e8",
+      "author": "Polarstjernen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarstjernen",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Forskjellen er at Napatech ikke nødvendigvis er avhengig av at det etableres nye datasenter. Det finnes jo VELDIG mange små og mellomstore datasenter allerede. Eksisterende datasenter må jo bytte utstyr relativt ofte i sammenheng med «end of life». Vil jo tro at man ønsker å bytte til mer effektive løsninger som er raskere og bruker mindre strøm. Det vil si at man utnytter eksisterende datasenter bedre (tilgjengelig areal, strøm, kjøling osv). Der eneste som er sikkert er at etterspørselen etter datakraft er enorm. Videre samfunnsutvikling og økonomisk vekst er fullstendig avhengig av mer datakraft og bedre mer effektive løsninger på dette området. Våre ressurser er ikke utømmelig og utviklingen når det gjelder fornybar energi eller nye energikilder går jo i sneglefart sammenlignet med AI.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 800,
+      "has_link": false
+    },
+    {
+      "key": "03f910b8fc65c659",
+      "author": "Polarstjernen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarstjernen",
+      "posted_relative": "for 21 t siden · Endret",
+      "text": "Var nede på samme nivå 3.august. Tilbakeslag er irriterende. Kanskje like greit å kaste håndkleet nå når vi er nede og tester støtten på 36-tallet. Ryker den så bærer det jo ned på 20-tallet.  Napatech reagerer sporenstreks på generelle IT-tendenser i USA, men det er jo ikke omsetningen i selskapenes datasenter- og AI-avdeling som er problemet. Komponentmangel  presser prisene voldsomt, og det er der problemet ligger. Poenget er vel at tjenesteleverandørene må begynne å ta mer betalt for tjenestene snart. Her er det kanskje litt chicken game mellom selskapene.   Uansett så har det vært VELDIG stille fra Napa  de siste dagene, og det forsterker jo bare negativiteten. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 694,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,27 @@
 {
   "slug": "software-one-holding-ag-swon-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/software-one-holding-ag-swon-xosl",
-  "scraped_at": "2026-10-31T07:46:53.302807+00:00",
+  "scraped_at": "2026-10-31T14:04:46.119866+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ad432a8599b3a3b4",
+      "author": "Hagemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hagemannen",
+      "posted_relative": null,
+      "text": "27. okt. Också denne tror jeg markedet har glemt https://www.cw.no/it-bransjen-kontrakter-og-avtaler-programvarelisenser/storavtale-for-softwareone-med-universitets-norge/2463605",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.cw.no/it-bransjen-kontrakter-og-avtaler-programvarelisenser/storavtale-for-softwareone-med-universitets-norge/2463605"
+      ],
+      "char_count": 178,
+      "has_link": true
+    }
+  ]
 }

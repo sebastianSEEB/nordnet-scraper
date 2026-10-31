@@ -1,9 +1,38 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-10-31T07:45:26.855364+00:00",
+  "scraped_at": "2026-10-31T14:03:17.325660+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d12a1939ab8b9dc5",
+      "author": "saksbehandleren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saksbehandleren",
+      "posted_relative": "for 17 min siden",
+      "text": "Hvorfor skulle det komme innsidekjøp? Dette er haussing fra knoll & tott med ingen rot faktiske opplysninger.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "d9f5d4e144f5a25c",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Noen som tydeligvis fortsatt vil ut Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

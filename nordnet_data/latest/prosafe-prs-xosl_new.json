@@ -1,9 +1,25 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-31T07:49:39.617963+00:00",
+  "scraped_at": "2026-10-31T14:07:35.444071+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "31ffd66ece2b3df7",
+      "author": "Junior63",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junior63",
+      "posted_relative": null,
+      "text": "27. okt. Nei det er ikke nødvendig 😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }
