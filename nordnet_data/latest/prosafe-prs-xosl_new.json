@@ -1,24 +1,38 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-10-31T14:07:35.444071+00:00",
+  "scraped_at": "2026-10-31T18:25:00.365976+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "31ffd66ece2b3df7",
+      "key": "842a28c7dd99cbb7",
       "author": "Junior63",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junior63",
       "posted_relative": null,
-      "text": "27. okt. Nei det er ikke nødvendig 😉",
+      "text": "27. okt. Det er jo en evnt. Jobb som er kortvarig. Tror ikke PRS er interessert og eller heller ikke ønsker,på grunn av kostnader knyttet til et slikt oppdrag! Men arrester meg gjerne på det. Jeg bare tenker 😊",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 209,
+      "has_link": false
+    },
+    {
+      "key": "91be9d6897d48219",
+      "author": "Viddami",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viddami",
+      "posted_relative": null,
+      "text": "27. okt. Det tar bemerkelsesverdig lang tid med avklaring på Suriname kontrakten. Noen som vet mer ? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2,
+        6
       ],
       "links": [],
-      "char_count": 36,
+      "char_count": 120,
       "has_link": false
     }
   ]
