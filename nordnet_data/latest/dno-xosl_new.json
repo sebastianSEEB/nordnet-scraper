@@ -1,9 +1,36 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-10-31T01:16:43.199556+00:00",
+  "scraped_at": "2026-10-31T07:45:46.962717+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fd12fd05ba464400",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "En får håpe kurs går opp og ikke ned, frem mot det,  et lite tilbakefall fra 24.40 til 24 blank vil \"radere bort\" utbyttet på et blunk, så lenge det er såpass lavt ift sist omsatt. Direkte avkastning er nå ikke mer enn overkant av 6% så ved q4 må de nok øke utbyttet for å holde på mange eksisterende aksjonærer som evt vil måtte komme til å se etter bedre alternativer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 369,
+      "has_link": false
+    },
+    {
+      "key": "918846b73ba03278",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Utbytte må økes ved q4, liten tvil om det hvis det skal være attraktivtpå disse kurnivåene. Usikkerhet rundt om oljeprisen vil holde seg så høy, den er kunstig høy ift normalforhold tilbud og etterspørsel, pga tilbudsproblemer knyttet til krig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 243,
+      "has_link": false
+    }
+  ]
 }

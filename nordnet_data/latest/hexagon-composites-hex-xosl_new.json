@@ -1,9 +1,45 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-10-31T01:17:06.294299+00:00",
+  "scraped_at": "2026-10-31T07:46:10.151647+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e27e9caa38bb03b1",
+      "author": "th59",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/th59",
+      "posted_relative": "for 5 t siden",
+      "text": "https://www.zeltru.com/company/hexagon-agility?utm_source=chatgpt.com De søker etter flere medarbeidere så det kan vel ikke være så ille.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.zeltru.com/company/hexagon-agility?utm_source=chatgpt.com"
+      ],
+      "char_count": 137,
+      "has_link": true
+    },
+    {
+      "key": "987537c40ee28301",
+      "author": "th59",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/th59",
+      "posted_relative": "for 5 t siden",
+      "text": "https://www.linkedin.com/company/certarus-ltd./jobs?utm_source=chatgpt%2Ecom&originalSubdomain=ca Certarus også.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.linkedin.com/company/certarus-ltd./jobs?utm_source=chatgpt%2Ecom&originalSubdomain=ca"
+      ],
+      "char_count": 112,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-10-31T01:15:03.240458+00:00",
+  "scraped_at": "2026-10-31T07:44:05.358100+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3828553fcec825c3",
+      "author": "Animal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/animal",
+      "posted_relative": "for 42 min siden",
+      "text": "Når du går raskt i motbakke, må du til slutt ta en pust i bakken før du går videre. Etter min mening er det dette som er viktigste årsak. Kursen har gått raskere opp enn fundamental utvikling. Selskapet drives etter min mening fortsatt like godt som tidligere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 260,
+      "has_link": false
+    },
+    {
+      "key": "8d46b97482b21d85",
+      "author": "BudFoxW",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/budfoxw",
+      "posted_relative": null,
+      "text": "26. okt. Er en utbytte maskin dette",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

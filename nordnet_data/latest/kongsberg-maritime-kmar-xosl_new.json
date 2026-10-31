@@ -1,9 +1,36 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-10-31T01:16:54.996539+00:00",
+  "scraped_at": "2026-10-31T07:45:58.639842+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "32bb5d6e6426e37c",
+      "author": "Bat66",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bat66",
+      "posted_relative": "for 43 min siden",
+      "text": "· Gir dette selskapet ingen utbytter? Eller planer om å gjøre det i fremtiden?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "71f025d6811d6580",
+      "author": "WOCKY.47",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wocky47",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva blir bunnen nå? Tenke dere under 55?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }
