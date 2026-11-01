@@ -1,9 +1,26 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-01T01:45:32.331572+00:00",
+  "scraped_at": "2026-11-01T08:29:08.709977+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1dfe0cc616c90d1b",
+      "author": "sunnmore",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnmore",
+      "posted_relative": null,
+      "text": "28. okt. En mulig forklaring på utsettelse av kontraktinngåelse for Prosafe i Brazil. Kilde Finanasavisen. Inntrykket som Tønne har fått etter å ha snakket med kollegaer i sambalandet er at det i en periode allerede har vært et visst beslutningsvakuum hos Petrobras i påvente av valget. Beslutninger om å lyse ut anbud og tildele kontrakter har blitt skjøvet ut i tid. Dette har igjen ført til en viss nedgang i etterspørselen etter fartøyer. Det har med andre ord gått litt tregere i Brasil den seneste tiden. – Slik jeg forstår det, skyldes ikke nedgangen i etterspørselen at det er en reell reduksjon i behovet. Den skyldes bare at Petrobras ikke har fornyet eller forlenget kontrakter på grunn av valget. De har et reelt behov for disse båtene, forklarer Tønne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        1
+      ],
+      "links": [],
+      "char_count": 765,
+      "has_link": false
+    }
+  ]
 }

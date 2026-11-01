@@ -1,9 +1,44 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-01T01:42:47.322912+00:00",
+  "scraped_at": "2026-11-01T08:26:25.075650+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "58bdb73ec4814b3b",
+      "author": "phor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
+      "posted_relative": "for 1 t siden",
+      "text": "Bloomberg: Hunter har over 100 mill. USD i spill – Mercuria trekker kravet om retroaktiv suspensjon av TD3C Morten Astrup opplyser at samlet opptjent charterinntekt, tap og renter nå overstiger 100 millioner USD. IFølge artikkelen har Mercuria snevret inn søksmålet. De krever ikke lenger retroaktiv suspensjon eller endring av TD3C, men ønsker en rettslig erklæring om at indeksen ikke burde vært publisert fra mars til juli. Bloomberg (betalingsmur): https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case Artikkelen gjengitt: https://www.briefs.co/news/mercuria-challenges-td3c-publishing-as-hunter-s-100-million/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case",
+        "https://www.briefs.co/news/mercuria-challenges-td3c-publishing-as-hunter-s-100-million/"
+      ],
+      "char_count": 676,
+      "has_link": true
+    },
+    {
+      "key": "bdb0a7b50c884578",
+      "author": "Binga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
+      "posted_relative": "for 40 min siden · Endret",
+      "text": "Hvis det stemmer, så kan jeg ikke skjønne annet enn at det styrker Hunter i saken mot Mercuria betraktelig!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    }
+  ]
 }

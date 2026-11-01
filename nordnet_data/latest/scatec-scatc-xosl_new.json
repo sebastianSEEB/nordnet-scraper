@@ -1,9 +1,27 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-11-01T01:40:05.811161+00:00",
+  "scraped_at": "2026-11-01T08:23:45.184141+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d9d65ca540da7dec",
+      "author": "Calvat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/calvat",
+      "posted_relative": "for 4 t siden",
+      "text": "· https://open.spotify.com/episode/30mMPiqMeP2gWxJamP78Lm?si=cb16gRwXTH6oVUiylT2QTg&utm_source=copy-link&pi=0o-PXv4QSV6Bc&t=1636",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://open.spotify.com/episode/30mMPiqMeP2gWxJamP78Lm?si=cb16gRwXTH6oVUiylT2QTg&utm_source=copy-link&pi=0o-PXv4QSV6Bc&t=1636"
+      ],
+      "char_count": 128,
+      "has_link": true
+    }
+  ]
 }

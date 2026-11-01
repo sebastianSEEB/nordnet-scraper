@@ -1,9 +1,41 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-11-01T01:40:21.375838+00:00",
+  "scraped_at": "2026-11-01T08:24:00.541767+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "071f9277ea62f110",
+      "author": "Cheapo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
+      "posted_relative": null,
+      "text": "28. okt. · SB1 Markets i morges: \"Både Aker Solutions og OneSubsea leverte en skuffende EBITDA i Q3. Imidlertid ble 2026-guidingen for EBITDA for Aker Solutions likevel løftet, og med en anstendig initial 2027-guiding grunnet fortsatt robuste marginer, venter vi at EBITDA (eks. OneSubsea) vil stige med 5% i 2026e og med minst 15% i 2027e. For OneSubsea venter vi begrenset med estimatendringer i 2026-27e hvor lavere marginer motvirkes av en forbedret vekstutsikt ettersom ordrereserven økte med 12% Y/Y. Siden Aker Solutions fremdeles jobber med skattepakkeprosjekter med Aker BP i 2027 (dvs. igangkjøringsarbeid offshore) tror vi markedet vil fortsette å være avventende med å sette en multippel på dette. Aksjekursen bør imidlertid fremdeles stige med 3-4% bare på den ekstra kontantstrømmen i 2026-27. Dette kan etter vår mening drive aksjekursen opp 5% i dag.\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        9
+      ],
+      "links": [],
+      "char_count": 867,
+      "has_link": false
+    },
+    {
+      "key": "d8d61e92051de524",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": null,
+      "text": "28. okt. · Endret Venter på utbytte, og man vet aldri hva Røkke \"trekker fram\" ;-)) Oblikatorisk å presse litt på stimulering fra myndighetene for framtiden",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    }
+  ]
 }

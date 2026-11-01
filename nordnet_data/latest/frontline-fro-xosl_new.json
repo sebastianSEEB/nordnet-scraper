@@ -1,9 +1,25 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-11-01T01:37:51.906033+00:00",
+  "scraped_at": "2026-11-01T08:21:30.829218+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "eb2f9019f501adb8",
+      "author": "BenRedicFyFazan26",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
+      "posted_relative": "for 20 min siden",
+      "text": "· Skip med 2M fat olje treffer miner og eksploderer i Hormuzstredet: Iran https://nypost.com/2026/10/30/world-news/three-oil-tankers-explode-in-strait-of-hormuz-iran/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://nypost.com/2026/10/30/world-news/three-oil-tankers-explode-in-strait-of-hormuz-iran/"
+      ],
+      "char_count": 166,
+      "has_link": true
+    }
+  ]
 }

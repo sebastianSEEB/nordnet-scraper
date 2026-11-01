@@ -1,9 +1,43 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-11-01T01:42:39.713399+00:00",
+  "scraped_at": "2026-11-01T08:26:17.030118+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "be8dfda303523556",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": null,
+      "text": "28. okt. \"Kraftig marginøkning: All-time high Inntektene skuffet, men rekordeffektiv drift ga marginer langt over forventning for Borregaard i tredje kvartal.\" https://www.finansavisen.no/industri/2026/10/28/8391019/all-time-high-fra-borregaard",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/10/28/8391019/all-time-high-fra-borregaard"
+      ],
+      "char_count": 244,
+      "has_link": true
+    },
+    {
+      "key": "1d72fb9507c7cc62",
+      "author": "Øy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
+      "posted_relative": null,
+      "text": "28. okt. Grattis til alle aksjonærer 😎 håper den går til 160 i løper av uken. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        19,
+        5
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

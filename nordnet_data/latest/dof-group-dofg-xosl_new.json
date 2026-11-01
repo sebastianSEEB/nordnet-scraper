@@ -1,9 +1,27 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-01T01:39:50.074739+00:00",
+  "scraped_at": "2026-11-01T08:23:29.825648+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7330925addbc4b9b",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": null,
+      "text": "28. okt. https://www.finansavisen.no/energi/2026/10/28/8390697/borsraset-i-brasil-venter-opptur-for-norske-redere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/10/28/8390697/borsraset-i-brasil-venter-opptur-for-norske-redere"
+      ],
+      "char_count": 113,
+      "has_link": true
+    }
+  ]
 }
