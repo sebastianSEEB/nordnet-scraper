@@ -1,9 +1,55 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-11-01T08:22:03.489322+00:00",
+  "scraped_at": "2026-11-01T15:33:56.294835+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c298178257e5f561",
+      "author": "alph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alph",
+      "posted_relative": null,
+      "text": "28. okt. · 28 Oct BCI 31,742 +1,670 MTD 33,204 YTD 33,542 2026 FFA 36,000 2027 FFA 32,000 $HSHP",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "ff64a47b8f7eee9f",
+      "author": "Kennedy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kennedy",
+      "posted_relative": null,
+      "text": "28. okt. · Er jeg den eneste som ikke har fått utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "710a53ffa6cd5a24",
+      "author": "jondough1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jondough1",
+      "posted_relative": null,
+      "text": "28. okt. Nei, kommer ca 30",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

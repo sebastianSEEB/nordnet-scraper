@@ -1,9 +1,25 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-11-01T08:26:05.452133+00:00",
+  "scraped_at": "2026-11-01T15:38:01.019979+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "69adae7d23ae7fd3",
+      "author": "Luring4",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
+      "posted_relative": null,
+      "text": "28. okt. Gode finansielle utsikter og store behov overalt for trygge digitale løsninger, merkelig at Atea er under 200,- 💵🚀💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

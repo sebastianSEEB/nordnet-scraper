@@ -1,9 +1,39 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-11-01T08:27:00.133683+00:00",
+  "scraped_at": "2026-11-01T15:38:55.745463+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "635067135395c083",
+      "author": "Rebellious",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rebellious",
+      "posted_relative": "for 2 døgn siden",
+      "text": "· Husk at det egentlig er krig med Kina, ikke Iran.. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "50f330413e992348",
+      "author": "Jojo314",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jojo314",
+      "posted_relative": "for 2 t siden",
+      "text": "· Altså vil Kina avslutte krigen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

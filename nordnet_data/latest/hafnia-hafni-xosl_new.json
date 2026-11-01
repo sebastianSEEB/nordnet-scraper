@@ -1,9 +1,25 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-01T08:21:39.294294+00:00",
+  "scraped_at": "2026-11-01T15:33:31.571309+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d63d9dddcf6b11c1",
+      "author": "keneras",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keneras",
+      "posted_relative": null,
+      "text": "28. okt. Lurer fælt på om det er på tide å ta noe gevinst nå... eller om toget fortsetter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 89,
+      "has_link": false
+    }
+  ]
 }

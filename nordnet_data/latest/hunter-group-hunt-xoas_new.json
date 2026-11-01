@@ -1,43 +1,53 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-01T08:26:25.075650+00:00",
+  "scraped_at": "2026-11-01T15:38:20.176465+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "58bdb73ec4814b3b",
-      "author": "phor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
-      "posted_relative": "for 1 t siden",
-      "text": "Bloomberg: Hunter har over 100 mill. USD i spill – Mercuria trekker kravet om retroaktiv suspensjon av TD3C Morten Astrup opplyser at samlet opptjent charterinntekt, tap og renter nå overstiger 100 millioner USD. IFølge artikkelen har Mercuria snevret inn søksmålet. De krever ikke lenger retroaktiv suspensjon eller endring av TD3C, men ønsker en rettslig erklæring om at indeksen ikke burde vært publisert fra mars til juli. Bloomberg (betalingsmur): https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case Artikkelen gjengitt: https://www.briefs.co/news/mercuria-challenges-td3c-publishing-as-hunter-s-100-million/",
+      "key": "32d74f430abbf8e0",
+      "author": "Rattus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rattus",
+      "posted_relative": "for 22 t siden",
+      "text": "Noen som har noen tanker om hva som skjer om Hunter vinner rettsakten.. er vi på samme nivå? Og hva skjer om saken tapes, drastisk ned.. noen som tør å tenke, mene noe rundt dette.. eller enda bedre om noen har noe estimater tall🤞 Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [
-        "https://www.bloomberg.com/news/articles/2026-10-31/norwegian-firm-has-100-million-riding-on-mercuria-s-baltic-case",
-        "https://www.briefs.co/news/mercuria-challenges-td3c-publishing-as-hunter-s-100-million/"
-      ],
-      "char_count": 676,
-      "has_link": true
-    },
-    {
-      "key": "bdb0a7b50c884578",
-      "author": "Binga",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
-      "posted_relative": "for 40 min siden · Endret",
-      "text": "Hvis det stemmer, så kan jeg ikke skjønne annet enn at det styrker Hunter i saken mot Mercuria betraktelig!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
+        2,
+        2
       ],
       "links": [],
-      "char_count": 107,
+      "char_count": 250,
+      "has_link": false
+    },
+    {
+      "key": "9aa954772c1bcfe8",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 5 t siden",
+      "text": "Dette er det blitt skrevet om flere ganger her med og uten tall det er bare å begynne å lete",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "20618ef7f79f2b86",
+      "author": "Mr. Evaporator",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-evaporator",
+      "posted_relative": "for 3 t siden",
+      "text": "· Takk for at du deler! Kjørte det gjennom ChatGPT for vurdering og oppsummering:",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 81,
       "has_link": false
     }
   ]

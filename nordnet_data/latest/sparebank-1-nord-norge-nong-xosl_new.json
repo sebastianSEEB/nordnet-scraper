@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-nord-norge-nong-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-nord-norge-nong-xosl",
-  "scraped_at": "2026-11-01T08:25:53.804028+00:00",
+  "scraped_at": "2026-11-01T15:37:49.033501+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3cc4d7445ddc5e0d",
+      "author": "Heimevernet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heimevernet",
+      "posted_relative": null,
+      "text": "28. okt. Hvorfor eie Nasdaq 100 når man kan eie sparebank?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-11-01T08:24:59.287696+00:00",
+  "scraped_at": "2026-11-01T15:36:53.497606+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4f6d33e298e163b9",
+      "author": "Nordlending111",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordlending111",
+      "posted_relative": null,
+      "text": "28. okt. Sinnsykt verdiløs kommentar",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

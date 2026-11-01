@@ -1,9 +1,39 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-01T08:28:17.980606+00:00",
+  "scraped_at": "2026-11-01T15:40:13.029755+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "acb519aafec2c239",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
+      "posted_relative": null,
+      "text": "28. okt. Aksjeflåten er liten, og verken Atle eller Ferd kommer til å selge på disse nivåene. Kursen går raskt opp når reprisingen først starter. Det kreves relativt lite kapital for å flytte kursen, samtidig som det er begrenset med aksjer tilgjengelig for kjøp. Hele verden skal robotiseres, både sivilt og innen forsvar. Jeg forventer kraftig EBIT-vekst de kommende årene. En aksje det er lett å legge i skuffen og sitte langsiktig i frem mot fremtidige utbytter!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 466,
+      "has_link": false
+    },
+    {
+      "key": "a0c4f202acc42d46",
+      "author": "Oxion",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
+      "posted_relative": "for 52 min siden",
+      "text": "Han kan vel ikke si så mye mere enn drt som er offentlig informasjon ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }
