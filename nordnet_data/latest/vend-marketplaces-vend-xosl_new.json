@@ -1,25 +1,54 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-01T15:35:03.659371+00:00",
+  "scraped_at": "2026-11-01T19:59:00.306152+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "7a4f74372dda7f2d",
-      "author": "skjærsilden",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skjrsilden",
-      "posted_relative": null,
-      "text": "28. okt. Morsomt hvordan analytikerne er helt i villrede. Alt fra 140 til 450😂 Vis 1 kommentar til",
+      "key": "e849b49d5248461f",
+      "author": "jawSsS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jawsss",
+      "posted_relative": "for 1 t siden",
+      "text": "Ulf huse har lastet opp på nytt, nå sitter han på 280 000 aksjer Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        7,
+        1,
         2
       ],
       "links": [],
-      "char_count": 98,
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "20f080e5ddba23d8",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": null,
+      "text": "28. okt. Og der starter toget med innsidekjøp! 🥱",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "3146a0cfb5d8a969",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva hadde han før?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
       "has_link": false
     }
   ]

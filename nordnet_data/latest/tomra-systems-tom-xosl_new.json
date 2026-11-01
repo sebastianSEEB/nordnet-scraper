@@ -1,9 +1,53 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-01T15:35:19.504280+00:00",
+  "scraped_at": "2026-11-01T19:59:16.781972+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6f069245012e6963",
+      "author": "Marnar King",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marnar-king-1",
+      "posted_relative": null,
+      "text": "28. okt. · Så stakk Envipco av med enda en stor ordre i UK (1700 maskiner) - det er hard kamp om markedet... Det gode er at det er gang i markedet, og det helt sikkert blir så stort at det er plass til begge parter (alle 3 inkl. RVM Systems).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    },
+    {
+      "key": "d9a2dadc4baf20fc",
+      "author": "bull_sh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bull_sh",
+      "posted_relative": null,
+      "text": "28. okt. Noen som har oversikt over hvor mange maskiner Tomra vs Envipco skal levere i UK? Altså foreløpig børsmeldt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "14197d211ad46672",
+      "author": "AksjeSondre",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjesondre",
+      "posted_relative": "for 1 t siden",
+      "text": "Selv om noen kursmål justeres, så vil jeg ikke kalle dette for et negativt syn på selskapet",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }
