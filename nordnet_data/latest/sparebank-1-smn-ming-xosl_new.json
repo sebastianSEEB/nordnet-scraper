@@ -1,9 +1,56 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-11-02T03:17:57.279766+00:00",
+  "scraped_at": "2026-11-02T11:51:02.911504+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1498a7652ab6b58a",
+      "author": "Errons",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/errons",
+      "posted_relative": null,
+      "text": "29. okt. Svake tall vil jeg si, men aksjekursen har jo gått opp til tross for «svake tall» også i 2. kv..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "f21c05eae6ec53e3",
+      "author": "Skittentind Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skittentind-invest",
+      "posted_relative": null,
+      "text": "29. okt. Kjedelig rapport. Er vel det generelle sentimentet som trekker ned.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "0a511106eb39ee26",
+      "author": "johannes39",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johannes39",
+      "posted_relative": null,
+      "text": "29. okt. Innlegget er slettet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        3
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

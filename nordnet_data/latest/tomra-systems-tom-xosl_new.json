@@ -1,9 +1,39 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-02T03:16:37.313483+00:00",
+  "scraped_at": "2026-11-02T11:49:42.549188+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9f0b0f96c97a34d7",
+      "author": "Villbekk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/villbekk",
+      "posted_relative": "for 3 t siden",
+      "text": "Oslo Børs i rødt, mens Tomra er i grønt??? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "36b822efea990490",
+      "author": "Ragnarokk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ragnarokk",
+      "posted_relative": "for 52 min siden",
+      "text": "Oljepris",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

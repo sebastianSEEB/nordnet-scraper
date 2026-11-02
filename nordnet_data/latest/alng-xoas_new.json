@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-02T03:15:02.585894+00:00",
+  "scraped_at": "2026-11-02T11:48:07.629950+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "92ea7ccf1ff3004f",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 2 t siden",
+      "text": "Wilforce nærmer seg 10 dager uten AIS signal, er definitivt på et oppdrag. Wilpride seiler sydover mot sørspissen av Sri Lanka, trolig mot et oppdrag ettersom farten er rundt 16knop (det økonomiske ville vært 12-14knop uten aktivt oppdrag).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 240,
+      "has_link": false
+    }
+  ]
 }

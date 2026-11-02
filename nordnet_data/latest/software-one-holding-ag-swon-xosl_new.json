@@ -1,9 +1,38 @@
 {
   "slug": "software-one-holding-ag-swon-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/software-one-holding-ag-swon-xosl",
-  "scraped_at": "2026-11-02T03:19:38.242387+00:00",
+  "scraped_at": "2026-11-02T11:52:42.726444+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "810dfd9021139f84",
+      "author": "CER24",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cer24",
+      "posted_relative": null,
+      "text": "29. okt. Gode MS resultater i går - vi som har fulgt Crayon i gamle dager vet at det er en god korrelasjon mellom MS tallene og Crayon (nå SWON).  I tillegg legger MS mye ekstra incentiver på bordet for sine partnere når de stenger sitt år - som er SWON sitt Q3 tall - så dette tror jeg blir bra når kvartals tallene kommer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 323,
+      "has_link": false
+    },
+    {
+      "key": "d524638f0e2efebb",
+      "author": "Hagemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hagemannen",
+      "posted_relative": null,
+      "text": "29. okt. Tror du resultatet for Microsoft speiler resultatet til SoftwareOne?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

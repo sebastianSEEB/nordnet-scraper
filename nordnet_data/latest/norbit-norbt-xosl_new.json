@@ -1,9 +1,68 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-02T03:16:53.698663+00:00",
+  "scraped_at": "2026-11-02T11:49:58.508945+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "006c4df37695f455",
+      "author": "Futen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/futen",
+      "posted_relative": null,
+      "text": "29. okt. Er det noen som kjenner til leverandørforholdet mellom KOG og NORBIT? Med den kraftige veksten KOG rapporterer innen forsvar og undervannsteknologi i dag, er det nærliggende å spørre om dette også kan få betydning for NORBIT. Vet noen om NORBIT fortsatt leverer til KOG, og om PIR kan dra nytte av oppskaleringen? Eller er selskapene i hovedsak konkurrenter innen disse områdene?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 388,
+      "has_link": false
+    },
+    {
+      "key": "832a4e33bbd48928",
+      "author": "Investore1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investore1",
+      "posted_relative": null,
+      "text": "29. okt. De er konkurrenter innen dette området. Undervannsteknologi og AUV er et område i sterk vekst, så her er det nok plass til flere. Kongsberg har sine egne undervannsdroner, mens Norbit leverer teknologi til mange forskjellige.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 234,
+      "has_link": false
+    },
+    {
+      "key": "d344f018f65100f0",
+      "author": "Payme2day",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payme2day",
+      "posted_relative": null,
+      "text": "29. okt. Short er helt borte fra listen? Defor vi fikk denne oppgangen tro….",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "48ad2894a48ead10",
+      "author": "Archspire",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/archspire",
+      "posted_relative": null,
+      "text": "29. okt. Ikke ennå",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,67 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-02T03:19:46.457991+00:00",
+  "scraped_at": "2026-11-02T11:52:50.636730+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "056a0053bb20c922",
+      "author": "Doubt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/doubt",
+      "posted_relative": null,
+      "text": "29. okt. Aksjekursen akkurat nå, cash verdi 1,68 nok, skatteverdi(fremførbart underskudd) 1,40 nok. Totalt 3,08 nok. Nykodes forskning, patenter etc er overhode ikke priset inn. Sjeldent man får et slikt selskap til kostpris",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        3
+      ],
+      "links": [],
+      "char_count": 224,
+      "has_link": false
+    },
+    {
+      "key": "1686dcb52b115b2a",
+      "author": "Vikingen88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikingen88",
+      "posted_relative": "for 6 min siden",
+      "text": "Imponerende utvikling de siste 2 mnd. Rett og slett imponerende elendig. Vi får sitte og snitte ned til vi drukner i aksjer. Det er visstnok vinneroppskriften...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 161,
+      "has_link": false
+    },
+    {
+      "key": "dabe15f8b0061f37",
+      "author": "Gordon Gekko5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
+      "posted_relative": "for 1 t siden",
+      "text": "Tja til hele greia",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    },
+    {
+      "key": "eedd5bd37afba82e",
+      "author": "flukten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flukten",
+      "posted_relative": null,
+      "text": "29. okt. KI sjekk:",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

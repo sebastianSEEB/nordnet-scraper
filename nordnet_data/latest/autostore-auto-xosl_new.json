@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-02T03:18:33.361933+00:00",
+  "scraped_at": "2026-11-02T11:51:39.089610+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e7efaccc52be119d",
+      "author": "martin8",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/martin8",
+      "posted_relative": "for 28 min siden",
+      "text": "· La spillene begynne",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

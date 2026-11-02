@@ -1,9 +1,39 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-02T03:18:37.282470+00:00",
+  "scraped_at": "2026-11-02T11:51:43.095695+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "abcd3b2c3fea6d8c",
+      "author": "Magic0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magic0",
+      "posted_relative": "for 28 min siden",
+      "text": "Etter rapport dagen kanskje, men ikke på rapport dagen. Alt for mye hype nå.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "b87064fdb35415c6",
+      "author": "Jan Oscar123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-oscar123",
+      "posted_relative": "for 1 t siden",
+      "text": "Kommer salmar til å stige etter q3? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

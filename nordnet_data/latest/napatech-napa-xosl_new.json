@@ -1,9 +1,39 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-02T03:17:33.553735+00:00",
+  "scraped_at": "2026-11-02T11:50:38.964044+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "801f1cb98afe66b3",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 2 t siden",
+      "text": "Syns aksjen er veldig attraktiv nå. Har testet støtte og snudd opp idag. Når AI støyet roer seg er denne den første aksjen som vil skytte opp. De har en unik posisjon i sektoren",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        7
+      ],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    },
+    {
+      "key": "b5e6586a3475a1d6",
+      "author": "IndexKumulativ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/indexkumulativ",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva ha rNapa levert på ... her er hva de sa i August. EBITDAC DKK -8,8M I 2.KV 2026, SER FÆRRE SOLGTE ENHETER",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    }
+  ]
 }

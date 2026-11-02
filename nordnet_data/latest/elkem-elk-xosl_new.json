@@ -1,9 +1,68 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-11-02T03:17:01.954179+00:00",
+  "scraped_at": "2026-11-02T11:50:06.580561+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "b4a688391d9e453c",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "29. okt. Det bemerkes ifm Q3-tall idag at resultat før skatt utgjorde 590 millioner kroner (435), mot ventet 207 millioner kroner. Dette er særdeles bra resultat når vi snakker om \"bunnlinjen\" til ELK.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 201,
+      "has_link": false
+    },
+    {
+      "key": "aa18c44e34e793fa",
+      "author": "Oldingen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oldingen",
+      "posted_relative": null,
+      "text": "29. okt. Hvorfor faller kursen på en ellers god børsdag medt et godt resultat. VAR FORVENTNINGENE SÅ HØYE?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "00961eb8e47e7675",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": null,
+      "text": "29. okt. teknisk er den i bunnen av en stigende trendkanal, så kan bli bra framover...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    },
+    {
+      "key": "53ad73d0376aa2e8",
+      "author": "LiljaMatta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/liljamatta",
+      "posted_relative": "for 5 min siden",
+      "text": "Elkem på Island har nettop underskivet fornyelse på strømkontrakt til 2039",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

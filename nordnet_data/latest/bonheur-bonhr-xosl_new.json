@@ -1,9 +1,23 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-11-02T03:20:41.640641+00:00",
+  "scraped_at": "2026-11-02T11:53:46.240678+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bcaf40a0c22f454d",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 3 t siden",
+      "text": "Hurra hvor det går......både forrige uke og idag.....271 pr. kl. 09.42",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

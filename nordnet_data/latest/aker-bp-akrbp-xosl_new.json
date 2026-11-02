@@ -1,9 +1,39 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-02T03:20:02.239374+00:00",
+  "scraped_at": "2026-11-02T11:53:06.649987+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "89301bfd22f1834f",
+      "author": "Knivslidan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knivslidan",
+      "posted_relative": "for 2 t siden",
+      "text": "· Hva kan prognoser, og gjetninger, være på AKER BPs direkte avkastning for 2027? Opp noen prosent, eller mye mer? +5% eller +20%?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    },
+    {
+      "key": "1fc619c4c3fa4c9a",
+      "author": "Viper77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/viper77",
+      "posted_relative": null,
+      "text": "29. okt. Ikke mye nytt her. Butikken går så det griner og prosjektene går etter planen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        4
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    }
+  ]
 }

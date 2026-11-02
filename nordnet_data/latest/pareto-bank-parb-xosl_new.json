@@ -1,9 +1,38 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-02T03:21:16.903245+00:00",
+  "scraped_at": "2026-11-02T11:54:21.386675+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2177e538c5f48552",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 3 t siden",
+      "text": "RB INVESTOR AS: De selger aksjer nå, sist 200.000 - de har 943.000 igjen. Vil tro de skal ut med mer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "e465e729847a1f18",
+      "author": "Asuntomeklarit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/asuntomeklarit",
+      "posted_relative": "for 1 døgn siden",
+      "text": "· hvor lavt vil aksjekursen gå ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }
