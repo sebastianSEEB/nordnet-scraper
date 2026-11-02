@@ -1,86 +1,55 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-02T11:53:10.664553+00:00",
+  "scraped_at": "2026-11-02T16:36:22.645006+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 5,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "3a945792262bd65e",
-      "author": "jollibobo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jollibobo",
+      "key": "2775ba222c67b2e8",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
       "posted_relative": null,
-      "text": "29. okt. Kilde: Finansavisen https://share.google/9sZ4cdpoqRMSCVY7t Er det noen med tilgang som kan oppsummere innholdet i artikkelen?",
-      "reply_count": null,
+      "text": "29. okt. Det er riktig det, i tillegg øker sannsynligvis utbyttene også. Jeg regner med at det ikke utbetales utbytter på aksjer som de eier selv, og da fordeles utbyttene på færre aksjer.(dette vil nok ikke utgjøre mye men alt går riktig vei).",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [
-        "https://share.google/9sZ4cdpoqRMSCVY7t"
-      ],
-      "char_count": 134,
-      "has_link": true
-    },
-    {
-      "key": "8fe56adcd9059ca3",
-      "author": "Ole Brum",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ole-brum",
-      "posted_relative": null,
-      "text": "29. okt. Telenors beslutning i forbindelse med fremleggelsen av Q3-tallene om å komprimere tilbakekjøps programmet på 15 milliarder kroner fra tre til to år, har vesentlige finansielle, tekniske og strategiske konsekvenser for aksjonærene. Når dette skjer på kursnivåer rundt 127–130 kroner – betydelig lavere enn nivåene på 158–164 kroner da programmet ble lansert i mai – endres kalkylen markant i favør av eksisterende eiere.  Samlet sett betyr akselerasjonen at du som aksjonær får en raskere økning i din relative eierandel av selskapet, kombinert med en direkte kontant avkastning (utbytte + tilbakekjøp) som på dagens kursnivå overstiger 12 % årlig de neste to årene.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        40,
-        3
-      ],
       "links": [],
-      "char_count": 674,
+      "char_count": 244,
       "has_link": false
     },
     {
-      "key": "63a0f473a8d25fbe",
+      "key": "18530e396fbb4ea8",
       "author": "ContraContrarian",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/contracontrarian",
-      "posted_relative": "for 2 t siden",
-      "text": "Kursmål 130 med kjøpsanbefaling? Hva er logikken bak at de går fra nøytral til kjøp med kursmål 130 når kursen er ~132  nå? Vis 1 kommentar til",
+      "posted_relative": "for 7 t siden",
+      "text": "Kursmål 130 med kjøpsanbefaling? Hva er logikken bak at de går fra nøytral til kjøp med kursmål 130 når kursen er ~132  nå?",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        2
+        2,
+        1
       ],
       "links": [],
-      "char_count": 143,
+      "char_count": 123,
       "has_link": false
     },
     {
-      "key": "2a312d0004c0c32c",
-      "author": "jdjddjdhe",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jdjddjdhe",
-      "posted_relative": "for 1 t siden",
-      "text": "New street er et selskap bestående av gutter som liker gutter.",
+      "key": "f2d2f6a6726d6ef2",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 6 t siden",
+      "text": "Kanskje det er en dårlig AI «analyse» som tar utgangspunkt i dems tidligere analyse(gjetting)…!?!?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 62,
-      "has_link": false
-    },
-    {
-      "key": "bfc380959b7e05a3",
-      "author": "KMJM",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmjm",
-      "posted_relative": null,
-      "text": "29. okt. Det han sier står jo under nyheter her.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 48,
+      "char_count": 98,
       "has_link": false
     }
   ]

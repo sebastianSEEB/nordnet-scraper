@@ -1,9 +1,23 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-11-02T11:52:30.893202+00:00",
+  "scraped_at": "2026-11-02T16:35:43.687243+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "836b58f14e31a8f4",
+      "author": "STUDBUD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/studbud",
+      "posted_relative": "for 1 t siden",
+      "text": "Har det kommet noen prognoser i forkant av Q3-presentasjonen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

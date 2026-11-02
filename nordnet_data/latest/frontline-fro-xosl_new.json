@@ -1,100 +1,159 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-11-02T11:47:45.167669+00:00",
+  "scraped_at": "2026-11-02T16:31:05.569802+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 6,
+  "total_posts_on_page": 10,
+  "new_posts_count": 10,
   "posts": [
     {
-      "key": "b00fdb1a79cdcb7b",
-      "author": "Korona",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
-      "posted_relative": "for 4 t siden · Endret",
-      "text": "Nordisk superbørs, sikkert gunstig for FRO og mange andre ved at nordisk handel/ likviditet tar opp kampen med NYSE https://www.finansavisen.no/finans/2026/11/02/8392280/oslo-bors-eier-bekrefter-nytt-gjennombrudd-for-nordisk-superbors",
+      "key": "b7190a85d5f4e08f",
+      "author": "TJ INVEST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj-invest",
+      "posted_relative": "for 51 min siden",
+      "text": "Markedet nå priser inn muligheten for en diplomatisk løsning på konflikten mellom USA og Iran. Hva gjør dere? Kjøper/selger/holder?: https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0?utm_source=chatgpt.com",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.finansavisen.no/finans/2026/11/02/8392280/oslo-bors-eier-bekrefter-nytt-gjennombrudd-for-nordisk-superbors"
+      "engagement_numbers": [
+        8
       ],
-      "char_count": 234,
+      "links": [
+        "https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0?utm_source=chatgpt.com"
+      ],
+      "char_count": 268,
       "has_link": true
     },
     {
-      "key": "d1d8e3cee6bd8c6f",
+      "key": "ad62201969bba674",
+      "author": "olto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
+      "posted_relative": "for 26 min siden",
+      "text": "· https://www.facebook.com/reel/941077955549084",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.facebook.com/reel/941077955549084"
+      ],
+      "char_count": 47,
+      "has_link": true
+    },
+    {
+      "key": "3d8699f8c1636976",
+      "author": "Båtsjefen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batsjefen",
+      "posted_relative": "for 13 min siden",
+      "text": "Vippa ut på 525 og lastet opp i Kog. Litt flaks, og  det er smart å sitte med cash  til å handle på tilbud idag og imorgen.. Men Donald vil senke olja med fake news. Blir en høy  volatilitet. Og mange  gode innkjøp. Donald vil gå på en smell.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 242,
+      "has_link": false
+    },
+    {
+      "key": "ce0620deec6b5e3a",
+      "author": "no-emotions",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-emotions",
+      "posted_relative": "for 6 min siden",
+      "text": "DNB Carnegie økte sitt kursmål til NOK 530 fra NOK 430, og beholder en hold-anbefaling, samtidig som de anslår NOK 158 per aksje i utbytte frem til første kvartal 2027.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 168,
+      "has_link": false
+    },
+    {
+      "key": "1fc8097ce6d51e09",
+      "author": "Olavl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olavl",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvorfor går denne så brått ned ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "b411b709fb6c42a8",
+      "author": "Aframaks",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframaks",
+      "posted_relative": "for 46 min siden",
+      "text": "Markedet går på disse Axios-Fake news gang på gang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "74e003275fea5dff",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 28 min siden",
+      "text": "· Kjøpte, men hadde ikke råd til FRO også",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "86d04111c89c8655",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 1 t siden",
+      "text": "Enda en fake news ;)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    },
+    {
+      "key": "94fb29f458602815",
       "author": "BenRedicFyFazan26",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
-      "posted_relative": "for 43 min siden",
-      "text": "https://www.finansavisen.no/shipping/2026/11/01/8391940/shippingfesten-fortsetter Dagens fall gir null mening Ratene har økt litt fra forgje uke.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        1
-      ],
-      "links": [
-        "https://www.finansavisen.no/shipping/2026/11/01/8391940/shippingfesten-fortsetter"
-      ],
-      "char_count": 145,
-      "has_link": true
-    },
-    {
-      "key": "7f15e2622eeb9670",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 54 min siden",
-      "text": "· Arctic: \"VL-ratene avsluttet uken på en oppadgående tone, der referanseraten USG-China spratt opp igjen til USD 500k/d, og reverserte noe av nedgangen fra USD 650 til USD 450k/d de siste par ukene. Kapasiteten er fortsatt strukket til sine grenser i takt med at rushet for å få ut flere laster fra Midtøsten fortsetter. Merk imidlertid at det ser ut til å være en god del FOMO (Fear-Of-Missing-Out) bak disse ratebevegelsene. Historien viser at sentimentekstremer er utsatt for plutselige skift, og vi gjentar at markedet er sårbart hvis en ny runde med eskalering kutter inn i MEG-strømmene, gitt lave lagernivåer andre steder.\" #tankers #shipping 10:55 AM · Nov 2, 2026",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 673,
-      "has_link": false
-    },
-    {
-      "key": "af121a1e30a96d98",
-      "author": "blx",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
-      "posted_relative": "for 16 t siden",
-      "text": "Da vil jeg ha svar på hva, som blir lav og høy intradag neste uke Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 85,
-      "has_link": false
-    },
-    {
-      "key": "8f0b362995def287",
-      "author": "MissFox",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missfox",
-      "posted_relative": "for 36 min siden",
-      "text": "· Ja jeg snappet til meg litt i stad passet på 🥳",
+      "posted_relative": "for 1 t siden",
+      "text": "Er vel bunn nå blx?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 48,
+      "char_count": 19,
       "has_link": false
     },
     {
-      "key": "23bb9ad888593413",
-      "author": "Money gang",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/money-gang",
-      "posted_relative": "for 3 t siden",
-      "text": "Det svaret har du.. Fredag 06.11.26 kl 1630.",
+      "key": "d5c2d462a5aa64c9",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 1 t siden",
+      "text": "· 🥳🚀",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 44,
+      "char_count": 4,
       "has_link": false
     }
   ]
