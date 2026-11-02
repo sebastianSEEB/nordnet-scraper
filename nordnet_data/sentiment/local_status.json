@@ -1,8 +1,8 @@
 {
-  "started": "2026-10-30T20:06:47.547323+00:00",
-  "to_model": 141,
-  "rule": 2,
-  "scored": 141,
+  "started": "2026-11-02T23:13:05.224197+00:00",
+  "to_model": 885,
+  "rule": 13,
+  "scored": 885,
   "model": "cardiffnlp/twitter-xlm-roberta-base-sentiment",
   "labels": {
     "0": "negative",
@@ -10,5 +10,5 @@
     "2": "positive"
   },
   "load_errors": [],
-  "finished": "2026-10-30T20:07:36.537498+00:00"
+  "finished": "2026-11-02T23:16:29.617960+00:00"
 }
