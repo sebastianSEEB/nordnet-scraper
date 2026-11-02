@@ -1,42 +1,85 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-11-02T16:31:09.844748+00:00",
+  "scraped_at": "2026-11-02T21:00:08.339741+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "b7190a85d5f4e08f",
-      "author": "TJ INVEST",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj-invest",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Markedet nå priser inn muligheten for en diplomatisk løsning på konflikten mellom USA og Iran. Hva gjør dere? Kjøper/selger/holder?: https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0?utm_source=chatgpt.com",
+      "key": "3b5b9e5a6e501b5a",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 3 t siden",
+      "text": "https://x.com/PotenTankers/status/2117302653671641597 AG videre opp. Da er det bare å håpe at ikke Aristidis gikk i fro fella...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://x.com/PotenTankers/status/2117302653671641597"
+      ],
+      "char_count": 128,
+      "has_link": true
+    },
+    {
+      "key": "16de408213eaee21",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 2 t siden",
+      "text": "Nå blir det fred! https://www.finansavisen.no/samfunn/2026/11/02/8392471/irans-naboland-stalsetter-seg-for-nye-angrep",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/samfunn/2026/11/02/8392471/irans-naboland-stalsetter-seg-for-nye-angrep"
+      ],
+      "char_count": 117,
+      "has_link": true
+    },
+    {
+      "key": "bfdc0be0496f585a",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 3 t siden",
+      "text": "https://x.com/MakaiMarine/status/2117236170568712336 Makai er i sitt ess når det er nedgang.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [
-        "https://www.wsj.com/world/middle-east/oil-prices-fall-more-than-3-as-iran-peace-talks-ease-supply-fears-e2b47ca0?utm_source=chatgpt.com"
+        "https://x.com/MakaiMarine/status/2117236170568712336"
       ],
-      "char_count": 268,
+      "char_count": 92,
       "has_link": true
     },
     {
-      "key": "37ebff59fafd3aa0",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 4 t siden",
-      "text": "https://x.com/christankerfund/status/2116576748901122113 Mange av forrige ukes bench mark rater.",
-      "reply_count": null,
+      "key": "a01379f4440b220a",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 3 t siden",
+      "text": "Tank markedet er bygget i hjel. Kjøp noe som ikke er ødelagt hvis du skal være i sykliske aksjer. Drill aksjer er det eneste stedet du finner oppside. Drill aksjer med dividende kapasitet og som har kontroll på gjeld",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://x.com/christankerfund/status/2116576748901122113"
-      ],
-      "char_count": 96,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 216,
+      "has_link": false
+    },
+    {
+      "key": "af97baa949e64991",
+      "author": "001390",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/001390",
+      "posted_relative": "for 3 t siden",
+      "text": "US fallet er ganske utrolig og avtar ikke. Det blir ingen hyggelig dag i morgen.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
     }
   ]
 }

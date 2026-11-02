@@ -1,51 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-02T16:32:48.424120+00:00",
+  "scraped_at": "2026-11-02T21:01:47.147913+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "71ec849c50941a35",
-      "author": "OMG2025",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
-      "posted_relative": "for 3 t siden",
-      "text": "det tviler jeg på. Det er i tidlig fase.med tanke på produksjon i Ungarn",
+      "key": "24da62efbc6737ce",
+      "author": "Teehuh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/teehuh",
+      "posted_relative": "for 59 min siden",
+      "text": "· https://tekniikanmaailma.fi/yha-useampi-sahkoautoilija-harkitsee-seuraavaksi-autokseen-hybridia/ Sak fra Finlands Tekniikan Maailma!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 72,
-      "has_link": false
+      "links": [
+        "https://tekniikanmaailma.fi/yha-useampi-sahkoautoilija-harkitsee-seuraavaksi-autokseen-hybridia/"
+      ],
+      "char_count": 134,
+      "has_link": true
     },
     {
-      "key": "3da04493c39ef0cc",
+      "key": "0304f3ef35c77537",
       "author": "Verdens sterkeste bjørn",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verdens-sterkeste-bjrn",
-      "posted_relative": "for 59 min siden",
-      "text": "Tror den skyter over, men kursen går ned",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 40,
-      "has_link": false
-    },
-    {
-      "key": "505ec06534c82754",
-      "author": "Siia",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/siia",
       "posted_relative": "for 1 t siden",
-      "text": "Hva tror vi om Q3 rapporten?",
-      "reply_count": null,
+      "text": "Kommentaren er slettet.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
-        1,
         1
       ],
       "links": [],
-      "char_count": 28,
+      "char_count": 23,
       "has_link": false
     }
   ]

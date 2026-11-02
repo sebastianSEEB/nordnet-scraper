@@ -1,24 +1,54 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-02T16:37:32.149720+00:00",
+  "scraped_at": "2026-11-02T21:06:32.252447+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "98913632876be591",
-      "author": "Hr Dust",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
-      "posted_relative": null,
-      "text": "29. okt. Sterk kjøperside i PARB. Gjentar; dette er en 100 kroners aksje, når drift/tapsavsetninger normaliseres. Hvem har kjøpt aksjer for over 17 millioner i dag? Noen som har peiling på PARB eller amatører? Vis 1 kommentar til",
+      "key": "b03e9192ce9bb709",
+      "author": "GHJ85",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ghj85",
+      "posted_relative": "for 3 døgn siden",
+      "text": "Jeg heller mot rundt 2 kroner EPS, altså et årsresultat som er omtrent 75 % lavere enn i 2025. Det er fordi utlånene skal videre ned i Q4, som presser renteinntektene, samtidig som banken selv sier kredittutfallet fortsatt er usikkert. Det innebærer også at et 50 % utbytte, dersom styret følger politikken, teoretisk kan bli bare rundt 1 krone per aksje for 2026 – men det er ikke noe vi bør regne med før årsoppgjøret. Derfor prises Pareto nå først og fremst på håpet om normalisering i 2027–28, ikke på 2026-resultatet. Men, det er bare mine tanker. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1,
+        3
       ],
       "links": [],
-      "char_count": 229,
+      "char_count": 572,
+      "has_link": false
+    },
+    {
+      "key": "86c90d58a6bc969a",
+      "author": "LEMME",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lemme",
+      "posted_relative": null,
+      "text": "29. okt. Dårlig resultat og det ser ikke bra ut for Q4. For øyeblikket ser jeg ingen grunn til å kjøpe den. Tror det bare er å vente på Q4 før en ser på banken igjen. For øyeblikket tror jeg det finnes mange bedre alternativer innen finans sektoren.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        11
+      ],
+      "links": [],
+      "char_count": 249,
+      "has_link": false
+    },
+    {
+      "key": "f9ed1392abbe3613",
+      "author": "APE Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ape-invest",
+      "posted_relative": "for 31 min siden",
+      "text": "Med store tap blir det ikke utbytte.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
       "has_link": false
     }
   ]

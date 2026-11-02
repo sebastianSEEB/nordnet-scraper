@@ -1,9 +1,23 @@
 {
   "slug": "havila-shipping-havi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/havila-shipping-havi-xosl",
-  "scraped_at": "2026-11-02T16:32:10.047336+00:00",
+  "scraped_at": "2026-11-02T21:01:07.782677+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "09de3f0d415f21b9",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": null,
+      "text": "29. okt. Hvordan påvirker det Havi tenker du Patron72?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

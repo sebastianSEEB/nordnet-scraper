@@ -1,9 +1,23 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-11-02T16:33:27.409397+00:00",
+  "scraped_at": "2026-11-02T21:02:26.445584+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dd0b2c7b1b87bf3f",
+      "author": "King_Stokke",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/king_stokke",
+      "posted_relative": "for 20 min siden",
+      "text": "Håper på et hopp til 115kr i mårra 🙏🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

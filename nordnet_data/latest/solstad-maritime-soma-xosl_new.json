@@ -1,9 +1,40 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-11-02T16:36:54.029158+00:00",
+  "scraped_at": "2026-11-02T21:05:54.047631+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cc74cc38a76423e8",
+      "author": "cash is king_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cash-is-king-1",
+      "posted_relative": null,
+      "text": "29. okt. Hva tenker folk om kommende utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "a6994e226cc40bf6",
+      "author": "buster194",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buster194",
+      "posted_relative": null,
+      "text": "29. okt. som sist",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

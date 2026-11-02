@@ -1,9 +1,23 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-02T16:32:25.435143+00:00",
+  "scraped_at": "2026-11-02T21:01:23.690646+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9a815a0e4bb5e993",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 2 t siden",
+      "text": "· Ed Finley–Richardson @ed_fin 2012 Suezmax solgt for $110M",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    }
+  ]
 }
