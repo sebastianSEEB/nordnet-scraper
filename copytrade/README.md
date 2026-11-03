@@ -9,6 +9,8 @@ Copy-trading på papir av to kilder som er offentlige:
 |---|---|
 | `insiders.py` | Tolker innsidemeldinger: retning, antall, kurs, verdi, rolle, og filtrerer bort spareprogram, opsjoner, honorar o.l. |
 | `stars.py` | Henter stjerner og følgere for forumprofilene (natt-workflow `copytrade_stars.yml`) |
+| `star_actions.py` | Leser «kjøpte/solgte» i innlegg fra stjernebrukere (strategien «følg stjernebrukerne») |
+| `holdings.py` | Beholdning for topp 3-stjerners brukere, hentet halvmanuelt fra innlogget nettleser, og kjøp/salg mellom to snapshot |
 | `paper.py` | Backtest + paper trading → `nordnet_data/copytrade/results.json` |
 | `dashboard.py` | → `nordnet_data/copytrade/dashboard.html` |
 
