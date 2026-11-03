@@ -1,18 +1,18 @@
 # Forum-sentiment mot avkastning
 
-Generert 2026-11-02 23:16 UTC · 28,532 scorede innlegg · 3,260 aksje-dager · 115 aksjer · 2026-08-27 → 2026-10-29 (46 handelsdager) · marked: OSEBX
+Generert 2026-11-03 21:18 UTC · 29,142 scorede innlegg · 3,403 aksje-dager · 115 aksjer · 2026-08-27 → 2026-11-02 (48 handelsdager) · marked: OSEBX
 
 ## Konklusjon
 
-Sentimentet henger mye tettere sammen med samme dags kurs (0.128) enn neste dags (0.008) – forumet reagerer mest på bevegelser som allerede har skjedd. Neste-dags-sammenhengen (IC 0.003) er ikke statistisk skillbar fra flaks (p = 0.848). Ingen modell slår «gjett 0» på ukjente data ennå – det vanligste utfallet med lite data. Med 46 handelsdager er alt dette foreløpig; ca. 6–12 måneder data trengs før konklusjonene blir solide.
+Sentimentet henger mye tettere sammen med samme dags kurs (0.125) enn neste dags (0.006) – forumet reagerer mest på bevegelser som allerede har skjedd. Neste-dags-sammenhengen (IC 0.003) er ikke statistisk skillbar fra flaks (p = 0.876). Ingen modell slår «gjett 0» på ukjente data ennå – det vanligste utfallet med lite data. Med 48 handelsdager er alt dette foreløpig; ca. 6–12 måneder data trengs før konklusjonene blir solide.
 
 ## 1. Reagerer forumet, eller forutsier det?
 
 | Sammenheng | Korrelasjon (Spearman) | p-verdi | n |
 |---|---|---|---|
-| Sentiment ↔ meravkastning samme dag | 0.128 | 0.000 | 3,259 |
-| Sentiment → meravkastning neste dag | 0.008 | 0.644 | 3,260 |
-| Sentiment → meravkastning neste 5 dager* | -0.015 | 0.415 | 3,016 |
+| Sentiment ↔ meravkastning samme dag | 0.125 | 0.000 | 3,402 |
+| Sentiment → meravkastning neste dag | 0.006 | 0.721 | 3,403 |
+| Sentiment → meravkastning neste 5 dager* | -0.012 | 0.509 | 3,139 |
 
 *5-dagers vinduer overlapper, så p-verdien der er for optimistisk.
 
@@ -20,8 +20,8 @@ Sentimentet henger mye tettere sammen med samme dags kurs (0.128) enn neste dags
 
 ## 2. Tverrsnitts-IC og tilfeldighetstest
 
-Snitt daglig IC: **0.003** (t = 0.20, 46 dager, positiv 52 % av dagene).
-Tilfeldighetstest (2000 stokkinger): p = **0.848**. Stokkede data gir |IC| over 0.035 i 5 % av tilfellene.
+Snitt daglig IC: **0.003** (t = 0.17, 48 dager, positiv 52 % av dagene).
+Tilfeldighetstest (2000 stokkinger): p = **0.876**. Stokkede data gir |IC| over 0.035 i 5 % av tilfellene.
 
 IC over 0,02–0,03 som holder seg over tid regnes som interessant i kvant-verdenen. p under 0,05 betyr at sammenhengen sjelden oppstår av ren flaks.
 
@@ -31,11 +31,11 @@ IC over 0,02–0,03 som holder seg over tid regnes som interessant i kvant-verde
 
 | Modell | MAE | RMSE | R² mot «gjett 0» | Treff på retning | IC | Long–short per dag |
 |---|---|---|---|---|---|---|
-| Gjett 0 (nullmodell) | 1.64 % | 2.67 % | 0.0000 | – | – | – |
-| Gjett snittet | 1.64 % | 2.67 % | -0.0011 | 50.8 % | – | – |
-| Lineær: kun snitt-sentiment | 1.64 % | 2.67 % | -0.0014 | 50.6 % | -0.016 | 0.097 % |
-| Ridge: alle features | 1.65 % | 2.70 % | -0.0220 | 50.2 % | 0.006 | -0.133 % |
-| Gradient boosting (grunne trær) | 1.69 % | 2.74 % | -0.0485 | 50.3 % | -0.005 | -0.131 % |
+| Gjett 0 (nullmodell) | 1.66 % | 2.66 % | 0.0000 | – | – | – |
+| Gjett snittet | 1.66 % | 2.66 % | -0.0012 | 50.4 % | – | – |
+| Lineær: kun snitt-sentiment | 1.66 % | 2.66 % | -0.0015 | 50.1 % | -0.016 | 0.088 % |
+| Ridge: alle features | 1.67 % | 2.68 % | -0.0219 | 49.8 % | -0.003 | -0.152 % |
+| Gradient boosting (grunne trær) | 1.70 % | 2.72 % | -0.0473 | 50.2 % | -0.008 | -0.145 % |
 
 R² over 0 betyr at modellen bommer mindre enn å bare gjette 0 % meravkastning. Med daglige aksjeavkastninger er selv 0,005 bra – de fleste ekte signaler er svake.
 
@@ -45,9 +45,9 @@ R² over 0 betyr at modellen bommer mindre enn å bare gjette 0 % meravkastning.
 
 | Modell | R² på treningsdata | R² ut-av-utvalget |
 |---|---|---|
-| Lineær: kun snitt-sentiment | 0.0005 | -0.0014 |
-| Ridge: alle features | 0.0047 | -0.0220 |
-| Gradient boosting (grunne trær) | 0.0833 | -0.0485 |
+| Lineær: kun snitt-sentiment | 0.0003 | -0.0015 |
+| Ridge: alle features | 0.0039 | -0.0219 |
+| Gradient boosting (grunne trær) | 0.0795 | -0.0473 |
 
 Stort gap = modellen har lært støy i treningsdataene som ikke gjentar seg.
 
