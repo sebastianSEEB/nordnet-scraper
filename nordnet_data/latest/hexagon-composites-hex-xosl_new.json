@@ -1,9 +1,27 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-03T02:51:42.876135+00:00",
+  "scraped_at": "2026-11-03T10:20:17.993202+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "71e20e7e00ade8ae",
+      "author": "th59",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/th59",
+      "posted_relative": "for 7 t siden · Endret",
+      "text": "https://www.act-news.com/news/cng-rng-a-cost-effective-path-forward-for-heavy-duty-fleets/?utm_source=chatgpt.com Supplier Hexagon Agility has cited configurations reaching 800 miles in day cabs and more than 1,200 miles in sleepers, which can be configured on new trucks when they are purchased. Det må vel være lov til å tro at Hexagon har levert her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [
+        "https://www.act-news.com/news/cng-rng-a-cost-effective-path-forward-for-heavy-duty-fleets/?utm_source=chatgpt.com"
+      ],
+      "char_count": 353,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-11-03T02:48:16.883983+00:00",
+  "scraped_at": "2026-11-03T10:16:53.316380+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "11d28e0cfe33faf7",
+      "author": "J H",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/j-h",
+      "posted_relative": null,
+      "text": "30. okt. · Er det noen som har en gjetning på hvor desembert-utbyttet kan lande? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "1c4e87e1ae54d38b",
+      "author": "ivid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ivid",
+      "posted_relative": null,
+      "text": "30. okt. · 🍷",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

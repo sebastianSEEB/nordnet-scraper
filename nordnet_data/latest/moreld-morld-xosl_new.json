@@ -1,9 +1,25 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-11-03T02:51:04.226197+00:00",
+  "scraped_at": "2026-11-03T10:19:39.596532+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8c71aa9fdb4209ba",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": "for 1 t siden",
+      "text": "Veldig bra og avklaringer rundt flere gigantkontrakter kan komme når som helst. Moreld kan fort være oppe på 30-tallet før jul.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    }
+  ]
 }

@@ -1,35 +1,88 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-11-03T02:53:06.322641+00:00",
+  "scraped_at": "2026-11-03T10:21:38.981620+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 5,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "75bbd18ed71f7a74",
-      "author": "TLarsen88",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tlarsen88",
-      "posted_relative": "for 4 t siden",
-      "text": "Jaja nok en nyhet som bare er vås. En liten dipp i dag endrer ikke mye. Som jeg ser det er kravene Iran kommer med  helt like som sist. USA og trump kommer til å stå på sitt og er ikke villig til å forhandle, typisk at dette kommer rett før mellomvalget.",
-      "reply_count": 1,
+      "key": "eb3cc430419a8601",
+      "author": "keyb9",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keyb9",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg blir sittende og oljen er fremdeles godt over 100 dollar. Spesielt med slike nyheter. Dette er min nest største posisjon. https://www.nrk.no/nyheter/amerikanske-medier_-nytt-angrep-mot-iran-1.18071791 Gjør en egen vurdering.",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 254,
-      "has_link": false
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.nrk.no/nyheter/amerikanske-medier_-nytt-angrep-mot-iran-1.18071791"
+      ],
+      "char_count": 228,
+      "has_link": true
     },
     {
-      "key": "db59bcb8851a249d",
-      "author": "lasse1635",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
-      "posted_relative": "for 5 t siden",
-      "text": "· Jeg tror kanskje etter å ha fått en masse aksjer i rabatt at den er så høy nå at jeg selger hele greia",
+      "key": "269ae14214c567db",
+      "author": "Xynophes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xynophes",
+      "posted_relative": "for 1 t siden",
+      "text": "Blir nå muligens dyr gass denne vinteren om dette inntreffer: https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.theguardian.com/environment/2026/nov/02/polar-vortex-disruption-colder-weather-europe"
+      ],
+      "char_count": 159,
+      "has_link": true
+    },
+    {
+      "key": "a7b6abcf713dbada",
+      "author": "BigPack",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bigpack",
+      "posted_relative": "for 3 t siden",
+      "text": "Vår Energi med letebom i Nordsjøen https://www.finansavisen.no/energi/2026/11/03/8392590/var-energi-med-letebom-i-nordsjoen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/03/8392590/var-energi-med-letebom-i-nordsjoen"
+      ],
+      "char_count": 123,
+      "has_link": true
+    },
+    {
+      "key": "d288f5992f7ee49e",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 46 min siden",
+      "text": "· Sist fredag, nøyaktig 5 minutter før utløpet av futureskontrakten Brent Dec26, åpnet noen en ~1bn$ direkte short-posisjon på råoljefutures Prisen har falt uavbrutt siden da Den short-posisjonen, i tillegg til shorting av kjøpsopsjoner og kjøp av salgsopsjoner, utløste en omvendt gammaklem som presset prisen over 5$ lavere.  En nokså åpenbar kursmanipulasjonshandel her (bortforklart med den absurde historien om at USA og Iran gjorde fremgang i fredsforhandlingene), men det viktigste er at denne store short-posisjonen fremdeles er på plass, og de vil måtte begynne å dekke seg inn snart for ikke å eksponere seg for en short-squeeze",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 104,
+      "char_count": 638,
+      "has_link": false
+    },
+    {
+      "key": "dde3e1cb9a405430",
+      "author": "Tellaren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tellaren",
+      "posted_relative": "for 47 min siden",
+      "text": "· 29/10 - Fearnley Securities sänker Vår Energi til sälj (behåll), riktkurs 47 norska kronor 2/11 - Fearnley Securities tar inn Bouvet, DHT Holdings, Equinor, Moreld, Scatec og *Vår Energi* i sine toppvalg for november. Hm....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 226,
       "has_link": false
     }
   ]

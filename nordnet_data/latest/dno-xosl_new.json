@@ -1,22 +1,69 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-03T02:51:19.463075+00:00",
+  "scraped_at": "2026-11-03T10:19:54.826404+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 6,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "5e88cabedaaad687",
-      "author": "CVS1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cvs1",
-      "posted_relative": "for 5 t siden",
-      "text": "Joa var litt treg på nyhetene der.",
+      "key": "1625215a70915e9e",
+      "author": "Henning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henning",
+      "posted_relative": "for 3 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/11/03/8392590/var-energi-med-letebom-i-nordsjoen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/03/8392590/var-energi-med-letebom-i-nordsjoen"
+      ],
+      "char_count": 88,
+      "has_link": true
+    },
+    {
+      "key": "11043d5556053a06",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 1 t siden",
+      "text": "Husk at vi fortsatt har det sorte gull, og et urbant samfunn i dag har behov for dette gullet, prisen på oljen er i ferd med å hente seg noe inn igjen !!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 34,
+      "char_count": 154,
+      "has_link": false
+    },
+    {
+      "key": "355542746448e41c",
+      "author": "Huskis56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
+      "posted_relative": "for 1 t siden",
+      "text": "Ja, nå er det en spent DNO tid. På kort sikt. Aksjekursen kan vel nå like lett gå ned 2-3 kroner som opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "02542197eaa9cd9c",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 2 t siden",
+      "text": "CNBC : BP ceo Er Midt Østen de satser",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 37,
       "has_link": false
     }
   ]

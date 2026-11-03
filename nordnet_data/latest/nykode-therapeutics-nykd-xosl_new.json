@@ -1,9 +1,52 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-03T02:52:34.764700+00:00",
+  "scraped_at": "2026-11-03T10:21:07.986353+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c7d2733df7617c87",
+      "author": "Oilbum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oilbum",
+      "posted_relative": "for 1 t siden",
+      "text": "Alden selger seg helt ut og dette har påvirket kursen de siste dagene da disse volumene alene er nok til kjøre kursen ned. Tipper vi ser en liten oppsving så snart Alden er helt tom, kanskje vi er der allerede idag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        8
+      ],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    },
+    {
+      "key": "27dc18b52f31e2ee",
+      "author": "Gordon Gekko5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
+      "posted_relative": "for 1 t siden",
+      "text": "En av Norges desidert beste investorer siste 20-25 år kaster kortene for andre gang i aksjen. Hva tror dere det sier om «suppa»?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "9eb49d73264e9795",
+      "author": "Gordon Gekko5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-gekko5",
+      "posted_relative": "for 1 t siden",
+      "text": "Kan RSI gå minus for første gang for en aksje 🧐",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

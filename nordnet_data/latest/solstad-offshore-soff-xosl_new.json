@@ -1,9 +1,27 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-11-03T02:48:36.102248+00:00",
+  "scraped_at": "2026-11-03T10:17:12.197404+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ad01326422cd5f8f",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 2 t siden",
+      "text": "Pene økninger i kursmål på SOFF: https://osvnyheter.no/offshore-nyheter-uke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://osvnyheter.no/offshore-nyheter-uke"
+      ],
+      "char_count": 75,
+      "has_link": true
+    }
+  ]
 }

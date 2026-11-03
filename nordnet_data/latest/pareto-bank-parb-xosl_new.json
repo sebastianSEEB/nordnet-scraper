@@ -1,9 +1,41 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-03T02:54:04.019350+00:00",
+  "scraped_at": "2026-11-03T10:22:37.901089+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b5911e3526e2d819",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 2 t siden",
+      "text": "Mange leter etter unnskyldning for å ikke kjøpe aksjen. Nye pessimistiske mål ned mot 30-blank. Det er sannsynligvis bare noen få her som kommer til å få med seg aksjer under 50-lappen. Min gamle \"venn\" Arne Fredly har også begynt å hamstre (igjen). Han sitter vel fra før med aksjer for en halv milliard.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 305,
+      "has_link": false
+    },
+    {
+      "key": "ad62e77d98c304eb",
+      "author": "Fiskestank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Vi som har opplevd tapssykler før, vet at syklen varer mer enn 3 kvartaler. Dette vil vare en stund, og tapene vil stige før de går ned.  Her er det bare å smøre seg med tålmodighet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,67 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-03T02:54:15.770917+00:00",
+  "scraped_at": "2026-11-03T10:22:49.528386+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "27f6805111214bb2",
+      "author": "Ergate",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ergate",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Kan det være Axactor som sluker dette også? De har allerede et godt forhold til Sabadell fra tidligere i år. September 2026: Sabadell selger ytterligere 350 millioner euro. Interessant artikkel datert 8. september 2026.  Den beskriver at Banco Sabadell har lagt ut en ny portefølje med misligholdte lån for salg. https://ventaempresas.es/recursos/noticias/sabadell-vende-350-millones-en-prstamos-impagados-banca-1788847268055 Artikkelen omtaler at Banco Sabadell har engasjert EY for å selge en portefølje med misligholdte lån på 350 millioner euro.  En annen omtale her: https://tauruscorporate.es/sabadell-vende-350-millones-en-prestamos-impagados/?utm_source=chatgpt.com",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://tauruscorporate.es/sabadell-vende-350-millones-en-prestamos-impagados/?utm_source=chatgpt.com",
+        "https://ventaempresas.es/recursos/noticias/sabadell-vende-350-millones-en-prstamos-impagados-banca-1788847268055"
+      ],
+      "char_count": 673,
+      "has_link": true
+    },
+    {
+      "key": "6a5a93b6fa57775a",
+      "author": "@Fiskestank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "posted_relative": null,
+      "text": "Fair presisering. Revaluering skaper selvsagt ikke avkastning, og dersom analytikerne overvurderte både brutto- og nettoinntektene og samtidig la inn for stor rentebesparelse, forklarer det konsensusbommet bedre enn ACR04-kostnaden alene. Men det er fortsatt et sprang fra \"2027-konsensus er for høy\" til \"Axactor kan ikke nå >15 % ROE i 2027\". Det siste avhenger også av investeringstakten og tidspunktet for investeringene, avkastningen på nye porteføljer, økende servicinginntekter fra Fortress-modellen, full renteeffekt etter ACR04 og vilkårene ved refinansieringen av ACR05. Jeg er helt med på at konsensus bør utfordres. Men analysen blir fortsatt ubalansert når alle usikre faktorer legges på nedsiden, mens mulige positive bidrag behandles som om de er null. Konsensus kan være for høy uten at selskapets 2027-mål dermed er matematisk motbevist. Vis gjerne hele mellomregningen, så kan vi diskutere forutsetningene konkret.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 932,
+      "has_link": false
+    },
+    {
+      "key": "cd55511ee68a547f",
+      "author": "jvtran",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jvtran",
+      "posted_relative": "for 6 t siden",
+      "text": "Hvorfor man på død og liv må kjøpe ACR med så dårlig omsetning ergo vanskelig å utføre swing trade. Long posisjon er også tragisk med lavere kurs. Teknisk ser det ikke bra ut heller. Hvis aksjen faller under 4kr blir det mer skrell og igjen vil lav omsetning gjør det tøffere å komme ut uten å bevege kurset.  Så det store spørsmålet: er inkasso business et sted å være? Regulert av smålige byråkrater og hatet av mange mennesker?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 430,
+      "has_link": false
+    },
+    {
+      "key": "4d91bb0899785dc7",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 1 t siden",
+      "text": "De har vel sakt mellom 200-400meur i 2027, så de har jo kapasitet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

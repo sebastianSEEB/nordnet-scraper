@@ -1,40 +1,24 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-03T02:49:26.738515+00:00",
+  "scraped_at": "2026-11-03T10:18:02.295947+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "37f1086e58cee2c3",
-      "author": "ks1977",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-      "posted_relative": "for 11 t siden",
-      "text": "Ikke at markedet bryr seg, men ser ikke ut som at det er noe faktisk nytt angående krigen? https://x.com/LSREnergy/status/2117268479497699619 Vis 1 kommentar til",
+      "key": "e0a05fdc3ea1ed8c",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 20 min siden",
+      "text": "· Sist fredag, nøyaktig 5 minutter før utløpet av Brent Dec26-futureskontrakten, åpnet noen en ~1bn$ ren shortposisjon på råoljefutures Prisen har falt uavbrutt siden da Den shortposisjonen, i tillegg til shorting av calls + kjøping av puts, utløste en omvendt gammaskvis som tvinget prisen over 5$ lavere. En nokså åpenbar kursmanipulasjonshandel her (dekket over med den absurde narrativen om at USA og Iran gjorde fremskritt i fredsforhandlingene), men mest av alt er denne store shortposisjonen fremdeles på plass, og de blir nødt til å begynne å dekke inn snart for ikke å eksponere seg for en short-squeeze",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
-        4
+        1
       ],
-      "links": [
-        "https://x.com/LSREnergy/status/2117268479497699619"
-      ],
-      "char_count": 161,
-      "has_link": true
-    },
-    {
-      "key": "e27e91898f66d52d",
-      "author": "arctic_fulmar",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arctic_fulmar",
-      "posted_relative": "for 5 t siden",
-      "text": "Du har jo vært med i nedgangen juni/juli, av og til så virker det, av og til ikke. Og sannsynligvis er det oftest noe fysisk makro som hender som vi amatører ikke får med oss. Futures rollover, tilfeldigheter i Platts-vinduet omm. Imidlertid, 6 eksplosjoner på qeshm + igjen flere skip som ble skadet bare de siste timene.  Kommer å snu veldig rask igjen.",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
       "links": [],
-      "char_count": 355,
+      "char_count": 612,
       "has_link": false
     }
   ]

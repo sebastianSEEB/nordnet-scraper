@@ -1,9 +1,39 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-03T02:53:10.250466+00:00",
+  "scraped_at": "2026-11-03T10:21:43.143296+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "713cb2fbe3dc24cf",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 3 min siden",
+      "text": "Gassprisen vil tynge Yara. Venter også på ny inngang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "974906ba9a7df420",
+      "author": "JucieFruty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/juciefruty",
+      "posted_relative": "for 20 t siden",
+      "text": "Håper å fange denne på 360 kr Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-11-03T02:54:12.015079+00:00",
+  "scraped_at": "2026-11-03T10:22:45.615579+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "659e2d2cfe72e1e6",
+      "author": "Julian77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/julian77",
+      "posted_relative": null,
+      "text": "30. okt. Regner med nye kursmål vil komme allerede i dag,vil tro rundt 80 kroner etter gårdagens rapport. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "2e574dc839e77f3a",
+      "author": "Julian77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/julian77",
+      "posted_relative": null,
+      "text": "30. okt. Ja ok,litt lavere enn jeg trodde,men da går vi litt sidelengs i dag evt tester 60",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "c24bb3c3daef9662",
+      "author": "EightyFifty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eightyfifty",
+      "posted_relative": null,
+      "text": "30. okt. Spent på denne i dag! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

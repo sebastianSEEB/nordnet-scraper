@@ -1,9 +1,39 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-03T02:55:14.676520+00:00",
+  "scraped_at": "2026-11-03T10:23:49.228185+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ef27b6f0e6feb96c",
+      "author": "Taptaptap",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/taptaptap",
+      "posted_relative": "for 2 t siden",
+      "text": "Skulle tru det var Prosafe sin rigg som sank uten for Gabon. Sjøl ikkje borr har fallt så jæv.. etter en sån hendelse. Mr reese snakker over hode gang på gang og kontrakter uteblir. Og om det skulle komme en kontrakt og gi ett lite løft så faller den tilbake kort tid etter.. er ikkje håp for denne",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        10
+      ],
+      "links": [],
+      "char_count": 298,
+      "has_link": false
+    },
+    {
+      "key": "a3409e2fd383f980",
+      "author": "tybring",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tybring",
+      "posted_relative": "for 9 min siden",
+      "text": "En kontrakt kommer til å gi mer enn et lite kursløft: Groguluru sier Prs kommer til å stige minst 4 kroner for hver kontrakt, så vi snakket dobling av kursen når neste kontrakt meldes. Han er i følge seg selv en av de med mest peiling på selskapet, så verdt å lytte til! Tybring",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 278,
+      "has_link": false
+    }
+  ]
 }

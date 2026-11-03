@@ -1,9 +1,54 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-03T02:49:10.788189+00:00",
+  "scraped_at": "2026-11-03T10:17:46.428362+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e61539f5d9657d14",
+      "author": "Andyviking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andyviking",
+      "posted_relative": null,
+      "text": "30. okt. Jeg prøvde å bruke Google Gemini til å finne konsensusestimater for q3 rapporten (vet ikke hvor nøyaktig det er). Den kom frem til følgende hvertfall:  - Omsetning: 2050-2120 mill nok (1693 q3 2025) - Justert EBITDA: 265-275 mill nok (195 q3 2025) - det vil evt gi omsetningsvekst YoY på 21-25% og EBITDA vekst på 36-41% Hva tror dere? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 364,
+      "has_link": false
+    },
+    {
+      "key": "32be574fd29a4cff",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er omsatt aksjer for: Omsetning Antall 0,3 MNOK 10 522 aksjer omsatt Mao: \"galemattias. Et kjøp på 50 000 aksjer hadde sendt kursen langt over 25.-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "f2736b1388fbe13e",
+      "author": "syden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syden",
+      "posted_relative": "for 2 t siden",
+      "text": "Er det Short folket som prøver å kjøre kursen ned nå !",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

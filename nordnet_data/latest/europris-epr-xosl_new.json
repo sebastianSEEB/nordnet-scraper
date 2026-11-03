@@ -1,22 +1,37 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-11-03T02:50:37.238528+00:00",
+  "scraped_at": "2026-11-03T10:19:12.619633+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "77a0718d280ae71d",
-      "author": "GLC",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/glc",
-      "posted_relative": "for 4 t siden · Endret",
-      "text": "Aasulv Tveitereid kjøpt seg inn med 200K aksjer etter Q3 tallene torsdag.  Det er nok til at jeg blir interessert.  Lurer på hva han ser som analytikerne ikke ser, eller spiller han defensivt.",
+      "key": "820c0529c8563796",
+      "author": "@matege",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matege",
+      "posted_relative": null,
+      "text": "Du har helt rett. Noen ganger lønner det seg å gå litt dypere ned i ting og inkludere utbytter over tid. Man kan se seg litt blind på grafer og fort glemme hvilken effekt utbytte over tid kan utgjøre.  Jeg har satt opp en oversikt i excel nå hvor jeg har tatt utgangspunkt i kursen hver januar (basert på grafen her i nordnet, ikke sjekket mer detaljert kurs pr 01.jan). Periode tilbake til jan2020 til dagens dato.  Bildet lagt ved vil vise ca avkastning (kursene her er nok ikke presise for IB kursverdi pr 01.jan). dersom man kjøpte Europris ved inngangen til valgt år. Både kurs og utbytte er inkludert i totalavkastningen.  Da blir det fort bedre ja.  Så bør man jo også vurdere dette opp mot alternative investeringer. For eksempel finnes det selskaper i Norge som har større og trygg vekst, samtidig som de også har et lignende utbytte som  Europris.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 857,
+      "has_link": false
+    },
+    {
+      "key": "aabc1891c442f74a",
+      "author": "Muldvarpen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/muldvarpen-2",
+      "posted_relative": "for 1 t siden",
+      "text": "Hei",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 192,
+      "char_count": 3,
       "has_link": false
     }
   ]

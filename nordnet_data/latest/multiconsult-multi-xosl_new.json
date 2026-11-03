@@ -1,9 +1,39 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-11-03T02:54:19.737063+00:00",
+  "scraped_at": "2026-11-03T10:22:53.385797+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "035779bb5b7f747e",
+      "author": "Venn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
+      "posted_relative": "for 2 t siden",
+      "text": "Dette var nitrist lesning. Negativ EPS på 0.74 og mye svakere backlog Y/Y. Frykter hoder vil rulle i toppledelsen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "26f8425ba86e5db6",
+      "author": "bcc165",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bcc165",
+      "posted_relative": "for 37 min siden",
+      "text": "· kursmålene også",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

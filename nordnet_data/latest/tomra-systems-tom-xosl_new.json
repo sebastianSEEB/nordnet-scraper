@@ -1,9 +1,52 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-03T02:49:30.709747+00:00",
+  "scraped_at": "2026-11-03T10:18:06.261988+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1398455535156607",
+      "author": "Henrik Hunt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henrik-hunt",
+      "posted_relative": "for 4 t siden",
+      "text": "· Folkens, se nå den lave kursen som en enestående sjans til å komme inn i Tomra på det man kan kalle et ekstra godt tilbud. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        4
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "dd5e2ebccf8c2b87",
+      "author": "Kaloev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaloev",
+      "posted_relative": "for 1 t siden",
+      "text": "Enten inndekning eller fond/stor aktør som kjøpte seg inn i går. Ofte gjøres det på en dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "95844aad7e3caa49",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 2 min siden",
+      "text": "Store aktører laster opp i Tomra før et potensielt rally!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }

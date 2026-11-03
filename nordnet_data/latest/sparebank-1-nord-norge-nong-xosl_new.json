@@ -1,9 +1,23 @@
 {
   "slug": "sparebank-1-nord-norge-nong-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-nord-norge-nong-xosl",
-  "scraped_at": "2026-11-03T02:51:58.304383+00:00",
+  "scraped_at": "2026-11-03T10:20:33.213838+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cd654a586142557c",
+      "author": "V70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/v70",
+      "posted_relative": null,
+      "text": "30. okt. 1,010 så ikke helt der oppe, men decent rapport. NONG er solid",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }
