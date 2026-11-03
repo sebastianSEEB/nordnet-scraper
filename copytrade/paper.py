@@ -23,6 +23,16 @@ Strategi 2 - STJERNEBRUKERE (kun live, ingen backtest)
     bruker som har 3 stjerner nå hadde ikke nødvendigvis det for et år siden.
     Derfor bare forover-paper-trading fra første kjøring.
 
+Strategi 3 - FØLG STJERNEBRUKERNE (kun live, startet 2026-11-03)
+    Kjøp og selg når 3-stjerners brukerne selv gjør det. Handlene deres er
+    ikke offentlige, så vi bruker det de SKRIVER i forumet: "kjøpte en post",
+    "økte litt", "solgte meg ut" (copytrade/star_actions.py, enkle regler,
+    ingen sentiment-modell).
+    Inngang: åpningen etter et kjøpsinnlegg i en watchlist-aksje.
+    Utgang:  åpningen etter at SAMME bruker skriver at hen har solgt samme
+             aksje, eller senest etter STAR_FOLLOW_MAX_HOLD handelsdager.
+    Én posisjon per (bruker, aksje), 10 000 kr per handel, mot OSEBX.
+
 Ledger (nordnet_data/copytrade/ledger.json) husker når hvert signal ble sett
 FØRSTE gang. "Ekte live"-tallene bruker kun signaler sett etter oppstart, så
 de kan ikke være pyntet i ettertid.
@@ -44,6 +54,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 from news_ml.common import BENCHMARK, load_universe  # noqa: E402
 from copytrade.insiders import load_trades  # noqa: E402
+from copytrade.star_actions import classify as star_action  # noqa: E402
 
 OSLO = ZoneInfo("Europe/Oslo")
 OPEN = dtime(9, 0)
@@ -65,6 +76,8 @@ HOLDS = [5, 20, 60]
 MAIN = ("senior_500k", 20)
 STAR_MIN_SENT = 0.3
 STAR_HOLD = 20
+STAR_FOLLOW_START = "2026-11-03T00:00:00+00:00"  # låst: bare innlegg skrevet etter dette teller
+STAR_FOLLOW_MAX_HOLD = 120  # ca. et halvt år, i tilfelle brukeren aldri skriver at hen har solgt
 
 
 # ------------------------------------------------------------------ kurser
@@ -242,6 +255,7 @@ def star_signals(universe_slugs):
             "sentiment": sc.get("sentiment") if claude_scored else None,
             "relevance": sc.get("relevance") if claude_scored else None,
             "in_watchlist": p.get("slug") in universe_slugs,
+            "action": star_action(p.get("text")),
         })
     posts.sort(key=lambda r: r["posted_at"] or "", reverse=True)
     summary = {"profiles_checked": sum(1 for p in profiles.values() if p.get("checked_at")),
@@ -252,6 +266,74 @@ def star_signals(universe_slugs):
                      "forum_posts": p.get("forum_posts"), "url": p.get("url")} for u, p in starred.items()],
                    key=lambda r: (-r["stars"], -(r["followers"] or 0)))[:40]}
     return posts, summary
+
+
+def star_follow_trades(posts, opn, slug_to_ticker, since):
+    """Kjøp når en 3-stjerners bruker skriver at hen har kjøpt, selg når samme bruker skriver at hen har solgt."""
+    cal = opn.index
+    last = len(cal) - 1
+    bench = opn[BENCHMARK] if BENCHMARK in opn else None
+    acts = sorted((p for p in posts if p["stars"] == 3 and p["action"] and p["in_watchlist"]
+                   and (p["posted_at"] or "") >= since and slug_to_ticker.get(p["slug"]) in opn),
+                  key=lambda p: p["posted_at"])
+    held, out = {}, []
+
+    def close(pos, j, status, reason):
+        tk = pos["ticker"]
+        e = opn[tk].iloc[pos["_i"]]
+        x = opn[tk].iloc[j]
+        if not np.isfinite(x):
+            x = opn[tk].iloc[pos["_i"]:j + 1].dropna().iloc[-1]
+        ret = x / e - 1
+        bret = None
+        if bench is not None and np.isfinite(bench.iloc[pos["_i"]]) and np.isfinite(bench.iloc[j]):
+            bret = bench.iloc[j] / bench.iloc[pos["_i"]] - 1
+        rec = {k: v for k, v in pos.items() if not k.startswith("_")}
+        out.append({**rec, "status": status, "exit_date": str(cal[j].date()), "exit_reason": reason,
+                    "days_held": j - pos["_i"], "ret": float(ret),
+                    "bench_ret": None if bret is None else float(bret),
+                    "excess": None if bret is None else float(ret - bret), "pnl": float(STAKE * ret)})
+
+    for p in acts:
+        tk = slug_to_ticker[p["slug"]]
+        key = (p["user"], tk)
+        i = entry_index(cal, p["posted_at"])
+        pos = held.get(key)
+        if pos and pos.get("_i") is not None and pos["_i"] + STAR_FOLLOW_MAX_HOLD < min(i, last + 1):
+            close(pos, pos["_i"] + STAR_FOLLOW_MAX_HOLD, "lukket", "maks holdetid")
+            held.pop(key)
+            pos = None
+        if p["action"] > 0 and not pos:
+            rec = {"id": f"follow:{p['key']}", "published": p["posted_at"], "ticker": tk,
+                   "issuer_name": p["slug"], "role": f"@{p['user']}", "value_nok": 0,
+                   "title": p["text"][:120]}
+            if i > last:
+                held[key] = {**rec, "_i": None, "entry_date": None}
+            elif np.isfinite(opn[tk].iloc[i]):
+                held[key] = {**rec, "_i": i, "entry_date": str(cal[i].date())}
+        elif p["action"] < 0 and pos:
+            sell_post = {"sell_published": p["posted_at"], "sell_title": p["text"][:120]}
+            if pos["_i"] is None:  # solgte før vi rakk å kjøpe - ingen handel
+                held.pop(key)
+            elif i > last:
+                pos.update(sell_post, _sell_pending=True)
+            elif i > pos["_i"]:
+                pos.update(sell_post)
+                close(pos, i, "lukket", "brukeren solgte")
+                held.pop(key)
+            else:  # kjøp og salg havner på samme åpning - ingen handel
+                held.pop(key)
+
+    for pos in held.values():
+        rec = {k: v for k, v in pos.items() if not k.startswith("_")}
+        if pos["_i"] is None:
+            out.append({**rec, "status": "venter"})
+        elif pos["_i"] + STAR_FOLLOW_MAX_HOLD <= last:
+            close(pos, pos["_i"] + STAR_FOLLOW_MAX_HOLD, "lukket", "maks holdetid")
+        else:
+            close(pos, last, "åpen", "selges ved neste åpning" if pos.get("_sell_pending") else "holdes")
+    out.sort(key=lambda t: t["published"])
+    return out
 
 
 # ------------------------------------------------------------------ ledger
@@ -313,6 +395,10 @@ def main():
                       & (sdf["published"] >= ledger["started_at"])].sort_values("published")
             star_trades = run_trades(sdf, opn, STAR_HOLD)
 
+    # Følg stjernebrukerne: kjøp/selg når de skriver at de har kjøpt/solgt
+    follow_since = ledger.setdefault("star_follow_started_at", STAR_FOLLOW_START)
+    follow_trades = star_follow_trades(star_posts, opn, slug_to_ticker, follow_since)
+
     results = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "price_last_date": str(cal[-1].date()) if len(cal) else None,
@@ -327,6 +413,10 @@ def main():
                  "live_stats": stats(live), "live_trades": live[-30:][::-1]},
         "stars": {**star_summary, "recent_posts": star_posts[:40], "trades": star_trades[::-1][:30],
                   "stats": stats(star_trades)},
+        "star_follow": {"started_at": follow_since, "max_hold": STAR_FOLLOW_MAX_HOLD,
+                        "open": [t for t in follow_trades if t["status"] in ("åpen", "venter")][::-1],
+                        "closed": [t for t in follow_trades if t["status"] == "lukket"][::-1][:30],
+                        "stats": stats(follow_trades)},
     }
     with open(os.path.join(OUT_DIR, "results.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=1, default=str)
