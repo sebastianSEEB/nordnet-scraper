@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-03T14:42:39.515106+00:00",
+  "scraped_at": "2026-11-03T18:13:27.878710+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "15c48e6f5ac820c3",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 9 t siden · Endret",
+      "text": "Tror vi ser en liten endring og noe mer stabilt i markedene etter mellomvalget i dag. Trump vil etter alle målinger gå på ett nederlag nærmest uansett. Benyttet selv å fylle opp ved dagens børsstart og har kjøpt med begge hender. Ser på dette som en mulighet. Skal sitte til våren med denne og forventer at vi er ett godt stykke over kr 60",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        7
+      ],
+      "links": [],
+      "char_count": 339,
+      "has_link": false
+    },
+    {
+      "key": "976f47a124a9b6d1",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Selvsagt. Kr 57 er sånn tulle kurs gjort mulig av alskens trading roboter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

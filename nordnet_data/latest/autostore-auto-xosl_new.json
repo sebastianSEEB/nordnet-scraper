@@ -1,22 +1,48 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-03T14:42:31.473035+00:00",
+  "scraped_at": "2026-11-03T18:13:20.111598+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "677aaf17c8e33ffd",
-      "author": "LiljaMatta",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/liljamatta",
-      "posted_relative": "for 24 min siden",
-      "text": "Autostore er et firma i vekst, så de siger seg selv... the only way is up.. selv om den veien er ikke et rett strek..",
+      "key": "3deed6fd1508ac7d",
+      "author": "Egil Nordnes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egil-nordnes",
+      "posted_relative": "for 2 t siden",
+      "text": "Nå venter vi i spenning",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 117,
+      "char_count": 23,
+      "has_link": false
+    },
+    {
+      "key": "a904a9a1388b40a5",
+      "author": "Kaloev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaloev",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hvor er",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
+      "has_link": false
+    },
+    {
+      "key": "77eaff184e0a0397",
+      "author": "@OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": null,
+      "text": "?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1,
       "has_link": false
     }
   ]

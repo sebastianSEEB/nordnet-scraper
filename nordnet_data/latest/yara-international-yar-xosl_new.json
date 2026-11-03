@@ -1,9 +1,62 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-03T14:44:18.004571+00:00",
+  "scraped_at": "2026-11-03T18:15:04.954323+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "83519dbca48d3b58",
+      "author": "Steffo01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffo01",
+      "posted_relative": "for 30 min siden",
+      "text": "Det kan se ut som at man må tilbake til desember 2025 for å finne en lavere pris? Kjøpsmulighet eller varselflagg? Hva tenker dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "bd870ec69fd8bf19",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Euro gasspris har gått ned 4% idag :). er på vei ned ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "f6bf90142ade3e1d",
+      "author": "Gambla",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gambla",
+      "posted_relative": null,
+      "text": "30. okt. Nei er ikke det en konkurrent?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "8488d38bfadf84e3",
+      "author": "Zydenboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zydenboy",
+      "posted_relative": "for 2 t siden",
+      "text": "Setter alarmen på 360.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

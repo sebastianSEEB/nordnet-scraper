@@ -1,24 +1,37 @@
 {
   "slug": "cadeler-cadlr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cadeler-cadlr-xosl",
-  "scraped_at": "2026-11-03T14:41:36.391667+00:00",
+  "scraped_at": "2026-11-03T18:12:25.553968+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "0651b3fb968bd5ca",
-      "author": "tjampman",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tjampman",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "· Ja, det ser ikke ut til at kursen blir oppdatert på våre aksepterte aksjer. Men de blir byttet til nye aksjer, så den 5. november bør prisen bli justert ettersom handelen starter på Cadele plc aksjer",
+      "key": "8243728c23ff4937",
+      "author": "Wallstreetwannabe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wallstreetwannabe",
+      "posted_relative": "for 2 t siden",
+      "text": "· Hvis jeg ikke gjorde noe med hensyn til flyttingen til den britiske børsen, hva skjer da?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 201,
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "88cb4c70bc2622ec",
+      "author": "Heltan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltan",
+      "posted_relative": "for 1 t siden",
+      "text": "Da blir aksjene dine tvangssolgt til 58,42 NOK pr. stk",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
       "has_link": false
     }
   ]
