@@ -1,35 +1,52 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-02T21:03:01.240689+00:00",
+  "scraped_at": "2026-11-03T02:50:33.111343+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "f6063a70b4232438",
-      "author": "ValueStocksOnly",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/valuestocksonly",
-      "posted_relative": "for 17 min siden",
-      "text": "Fusjonen er vel forventet gjennomført i Q1 2027. Før man regner på en eventuell arbitrasjemulighet, må det justeres for utbytte på NOK 0,32 nå i begynnelsen av november, og muligens også et tilsvarende estimert utbytte rundt 10. februar – forutsatt at fusjonen gjennomføres etter denne datoen. Med disse forutsetningene kommer jeg til at differansen kun er ca. 1 %, og at det dermed er relativt uvesentlig om man kjøper SED eller Ventura. Regnestykket blir: (6,72 − 0,32 × 2) × 5,5 = 33,44, mot Venturas kurs på 33,00. Det gir en differanse på litt over 1 %. Dersom fusjonen derimot gjennomføres før utbyttet rundt 10. februar, blir situasjonen en annen, med en reell arbitrasjemulighet.",
+      "key": "0f542f60de32ee38",
+      "author": "Buttersideup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buttersideup",
+      "posted_relative": null,
+      "text": "29. okt. · Er det noen som har tanker om utvanningen av aksjene når Ventura får 45% av den samlede aksjekapitalen. Er med på at de kommer med en verdi, men en viss utvanning må vel skje? Tanker om fremtidig utbytte vil også være fint:)",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        5
+      ],
       "links": [],
-      "char_count": 687,
+      "char_count": 235,
       "has_link": false
     },
     {
-      "key": "6af13a119f589fac",
-      "author": "The pope",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-pope",
-      "posted_relative": "for 2 t siden",
-      "text": "Nyse kommer til koste mye.   Men det ligger frem i tid",
+      "key": "ddce968be4bd3b58",
+      "author": "Buttersideup",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buttersideup",
+      "posted_relative": null,
+      "text": "29. okt. · Har jeg rett i at hvis jeg kjøpte ventura i dag ville jeg få en for 6,03 ca.? 33,2/5,5=6,03",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    },
+    {
+      "key": "b855040d7e77bd5c",
+      "author": "EspAsk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espask",
+      "posted_relative": null,
+      "text": "29. okt. · Tar tid😂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 54,
+      "char_count": 19,
       "has_link": false
     }
   ]
