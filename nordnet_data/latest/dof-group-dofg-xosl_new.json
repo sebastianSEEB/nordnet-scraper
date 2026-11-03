@@ -1,54 +1,41 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-03T10:18:10.046205+00:00",
+  "scraped_at": "2026-11-03T14:40:40.014654+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "aa2b4422fde7d128",
-      "author": "Oksenn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oksenn",
-      "posted_relative": null,
-      "text": "30. okt. Bulkers 2020 er bare luft. Aksjen blir vannet ut samt at analytikere mener kursen er ikke i nærheten av hva selskapet egentlig er verdt.  Dof derimot. Selskapet har en sterk posisjon innen offshore, solide kontrakter og gode muligheter for videre vekst. Med økende aktivitet i energisektoren kan DOFG bli en attraktiv investering for langsiktige aksjonærer!",
+      "key": "b7f390a6f9978a68",
+      "author": "mohalj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/11/02/8392408/fra-millionrater-til-310.000-kroner-dagen Noen med tilgang til denne her?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        8
+        1
       ],
-      "links": [],
-      "char_count": 366,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/02/8392408/fra-millionrater-til-310.000-kroner-dagen"
+      ],
+      "char_count": 127,
+      "has_link": true
     },
     {
-      "key": "1e39342028d8d884",
-      "author": "lakafanten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
-      "posted_relative": "for 2 t siden",
-      "text": "Regn på direkteavkastning her og se på backloggen. Hva i alle dager tilsier at denne skuta er synkende?",
+      "key": "4620b2538eebd33c",
+      "author": "Oljeski",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oljeski",
+      "posted_relative": "for 3 t siden",
+      "text": "Spør du chat-gpt gir han deg sammendraget gratis. Denne handler spesifikt om ankerhåndtering i nordsjøen.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        1
       ],
       "links": [],
-      "char_count": 103,
-      "has_link": false
-    },
-    {
-      "key": "bed01f6a274eb3fd",
-      "author": "Karve",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karve",
-      "posted_relative": "for 1 t siden",
-      "text": "Fearnley oppjusterer kursmålet  til 161.. i dag 👌",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6
-      ],
-      "links": [],
-      "char_count": 49,
+      "char_count": 105,
       "has_link": false
     }
   ]

@@ -1,37 +1,67 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-11-03T10:19:12.619633+00:00",
+  "scraped_at": "2026-11-03T14:41:44.399021+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "820c0529c8563796",
-      "author": "@matege",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matege",
+      "key": "8a6b39467cc10c2c",
+      "author": "CapitalLogic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/capitallogic",
       "posted_relative": null,
-      "text": "Du har helt rett. Noen ganger lønner det seg å gå litt dypere ned i ting og inkludere utbytter over tid. Man kan se seg litt blind på grafer og fort glemme hvilken effekt utbytte over tid kan utgjøre.  Jeg har satt opp en oversikt i excel nå hvor jeg har tatt utgangspunkt i kursen hver januar (basert på grafen her i nordnet, ikke sjekket mer detaljert kurs pr 01.jan). Periode tilbake til jan2020 til dagens dato.  Bildet lagt ved vil vise ca avkastning (kursene her er nok ikke presise for IB kursverdi pr 01.jan). dersom man kjøpte Europris ved inngangen til valgt år. Både kurs og utbytte er inkludert i totalavkastningen.  Da blir det fort bedre ja.  Så bør man jo også vurdere dette opp mot alternative investeringer. For eksempel finnes det selskaper i Norge som har større og trygg vekst, samtidig som de også har et lignende utbytte som  Europris.",
+      "text": "30. okt. Er ikke overbevist på ÖoB-casen ennå. Q3 viste LFL +2,1 %, men ledelsen sier selv at remodelleringen fortsatt belaster marginene på kort sikt, og at jul er den første reelle testen. I H1 var Sverige fortsatt 107 mill. i minus. Målet er 5 % EBIT-margin på 5 mrd SEK innen 2028, altså ca. 250 mill. SEK i EBIT fra et utgangspunkt med tap, og vi mangler segmenttall for å følge fremdriften. Jeg priser inn halvparten av turnarounden, og det gir et verdiestimat på ca. 62 kr. Ved 80+ er mye av oppsiden allerede priset inn. Ikke investeringsråd.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 550,
+      "has_link": false
+    },
+    {
+      "key": "100d7fd0328509f9",
+      "author": "Doubt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/doubt",
+      "posted_relative": null,
+      "text": "30. okt. Higer for longer, slik blir renta. Når renta biter seg fast flyttes handel til billig butikkene. En rask titt over dammen så ser man at big cash flyttes fra teq og over i konsum varer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 192,
+      "has_link": false
+    },
+    {
+      "key": "02db5be0d7c2aa12",
+      "author": "VicAnt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vicant",
+      "posted_relative": null,
+      "text": "30. okt. Burde du ikke selge da når du sitter med nesten 4,6 prosent europris i porteføljen din? ...... om det er det du tror på mener jeg... .🤔😅",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 857,
+      "char_count": 145,
       "has_link": false
     },
     {
-      "key": "aabc1891c442f74a",
-      "author": "Muldvarpen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/muldvarpen-2",
-      "posted_relative": "for 1 t siden",
-      "text": "Hei",
+      "key": "257325740b7a5e55",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 3 t siden",
+      "text": "Brudd på 81 nivået og kjøpssignal ? Eller en større HS formasjon. O det bli en avbrutt HS  formasjon så kan det jo være et ok kjøpsnivå her...",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 3,
+      "char_count": 142,
       "has_link": false
     }
   ]

@@ -1,9 +1,40 @@
 {
   "slug": "bakkafrost-bakka-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bakkafrost-bakka-xosl",
-  "scraped_at": "2026-11-03T10:18:49.473863+00:00",
+  "scraped_at": "2026-11-03T14:41:20.419901+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "96f3ea5507b22e48",
+      "author": "Tompalompabörshaj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tompalompaborshaj",
+      "posted_relative": "for 1 t siden",
+      "text": "· Q3 var ikke så bra som folk hadde trodd, samt at det ser ut til at det vil ta lengre tid enn tidligere trodd å få Skottland på føtter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 135,
+      "has_link": false
+    },
+    {
+      "key": "ae1b1423b64ffa88",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 1 t siden",
+      "text": "er det noen som vet hva som kjer ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

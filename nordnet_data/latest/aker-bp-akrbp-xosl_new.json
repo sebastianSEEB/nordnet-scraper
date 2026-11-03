@@ -1,35 +1,25 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-03T10:21:23.501210+00:00",
+  "scraped_at": "2026-11-03T14:43:57.890340+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "4f02d49e58d16b56",
-      "author": "Mife",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mife",
-      "posted_relative": "for 1 t siden",
-      "text": "· Det er jo selvfølgelig helt riktig 😕😬",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 39,
-      "has_link": false
-    },
-    {
-      "key": "4a15fd8e554a5fce",
-      "author": "Porchegutt",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/porchegutt",
+      "key": "e45d3ee7f06ad337",
+      "author": "Roarg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/roarg",
       "posted_relative": null,
-      "text": "30. okt. · Vinteren kommer",
+      "text": "30. okt. Det er litt fasinerende å se analytikere komme med sine utsikter. Skulle tro at de ikke sitter på samme informasjon. sprik fra 280-430, med alt fra kjøp og selg og hold... god underholdning iallefall....",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        6,
+        4
+      ],
       "links": [],
-      "char_count": 26,
+      "char_count": 212,
       "has_link": false
     }
   ]

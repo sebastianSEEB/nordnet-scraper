@@ -1,69 +1,50 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-03T10:19:54.826404+00:00",
+  "scraped_at": "2026-11-03T14:42:27.470005+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 4,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "1625215a70915e9e",
-      "author": "Henning",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henning",
+      "key": "f0ddaceb1ff18928",
+      "author": "Arne K",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arne-k",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Kan jeg få en forklaring på hvorfor aksjekursen går ned 2 % når alle megleree uten unntak har øket kursmål ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "5f071ae60cf92b90",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
       "posted_relative": "for 3 t siden",
-      "text": "https://www.finansavisen.no/energi/2026/11/03/8392590/var-energi-med-letebom-i-nordsjoen",
+      "text": "· Litt rart at oljen stiger, DNO synker sammen med flere oljeselskaper, tror man på fred",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://www.finansavisen.no/energi/2026/11/03/8392590/var-energi-med-letebom-i-nordsjoen"
-      ],
+      "links": [],
       "char_count": 88,
-      "has_link": true
-    },
-    {
-      "key": "11043d5556053a06",
-      "author": "Moment",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
-      "posted_relative": "for 1 t siden",
-      "text": "Husk at vi fortsatt har det sorte gull, og et urbant samfunn i dag har behov for dette gullet, prisen på oljen er i ferd med å hente seg noe inn igjen !!!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 154,
       "has_link": false
     },
     {
-      "key": "355542746448e41c",
-      "author": "Huskis56",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
-      "posted_relative": "for 1 t siden",
-      "text": "Ja, nå er det en spent DNO tid. På kort sikt. Aksjekursen kan vel nå like lett gå ned 2-3 kroner som opp.",
+      "key": "d488b3f95cc67bcb",
+      "author": "Lallan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lallan",
+      "posted_relative": "for 27 min siden",
+      "text": "Kjøpsmulighet det her før krigseskaleringer over mellomvalget.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 105,
-      "has_link": false
-    },
-    {
-      "key": "02542197eaa9cd9c",
-      "author": "tospann",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
-      "posted_relative": "for 2 t siden",
-      "text": "CNBC : BP ceo Er Midt Østen de satser",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 37,
+      "char_count": 62,
       "has_link": false
     }
   ]

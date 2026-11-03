@@ -1,100 +1,68 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-03T10:17:54.321350+00:00",
+  "scraped_at": "2026-11-03T14:40:24.016769+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 6,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "aff0b90b60a80b43",
-      "author": "NOMMON",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nommon",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Saken oppsummert EU krever nye ladebokser fra 2027. De skal klargjøres for toveislading. Bilbatteriet kan støtte hus og strømnett. Kravet kan senere også gjelde Norge. https://www.abcnyheter.no/livsstil/na-kommer-nye-ladeboks-krav/1719813",
+      "key": "99a2fbd902e16f21",
+      "author": "bruker2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bruker2",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen har troen for i morgen i hvertfall. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "4330b4978eb9bd57",
+      "author": "MisKina",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
+      "posted_relative": "for 2 t siden",
+      "text": "· 👍 jeps Vi må opp på nivået 65 - 75 kr",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "206cced3da1f15e7",
+      "author": "Talia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/talia",
+      "posted_relative": "for 31 min siden",
+      "text": "Blir bra dette her!!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "1fff2e819208f512",
+      "author": "nokar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
+      "posted_relative": "for 1 t siden",
+      "text": "I morgen blir det 🥳",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         4,
-        3
-      ],
-      "links": [
-        "https://www.abcnyheter.no/livsstil/na-kommer-nye-ladeboks-krav/1719813"
-      ],
-      "char_count": 238,
-      "has_link": true
-    },
-    {
-      "key": "a1f4c688e6ed9e06",
-      "author": "Joakimss",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joakimss",
-      "posted_relative": "for 8 min siden",
-      "text": "Det er per nå ingen registrerte endringer i forhold til short på zaptec siden 20.10.2026. Hos Finanstilsynet finnes offentlig tilgjengelig shortposisjoner: https://ssr.finanstilsynet.no/Home/Details/NO0010713936",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://ssr.finanstilsynet.no/Home/Details/NO0010713936"
-      ],
-      "char_count": 211,
-      "has_link": true
-    },
-    {
-      "key": "4a944d65589b6989",
-      "author": "Stefan007",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
-      "posted_relative": "for 41 min siden · Endret",
-      "text": "· kan man finne ferskere tall på shorten enn 20/10. noen andre steder enn den linken som pleier å ligge her. der er den fremdeles 1.49",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 134,
-      "has_link": false
-    },
-    {
-      "key": "dcaae18122e74b89",
-      "author": "Watermate",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/watermate",
-      "posted_relative": "for 1 t siden",
-      "text": "Er Zaptec klargjort for dette nå ?",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 34,
-      "has_link": false
-    },
-    {
-      "key": "14d20ea35e1f0f61",
-      "author": "Mart-",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mart-1",
-      "posted_relative": "for 2 t siden",
-      "text": "kommer ikke til å påvirke bru",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 29,
-      "has_link": false
-    },
-    {
-      "key": "eac9841c511d1d57",
-      "author": "OMG2025",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
-      "posted_relative": "for 2 t siden",
-      "text": "siste sjans før Q3",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 18,
+      "char_count": 19,
       "has_link": false
     }
   ]

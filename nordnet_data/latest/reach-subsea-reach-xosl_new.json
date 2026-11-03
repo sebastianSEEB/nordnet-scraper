@@ -1,40 +1,37 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-11-03T10:23:41.427487+00:00",
+  "scraped_at": "2026-11-03T14:46:15.780572+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "e48e53d1387e7358",
-      "author": "Soletti",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soletti",
+      "key": "01703cec287a09cf",
+      "author": "Dozen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dozen",
+      "posted_relative": null,
+      "text": "30. okt. Det som bekymrer meg litt er at Alendal sa i mai at han ventet avklaring på remoteselskapet iløpet av 2-3 måneder. Bå er det snart 6 måneder siden.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "8c7af0ae282da9f5",
+      "author": "h3nk1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
       "posted_relative": "for 2 t siden",
-      "text": "https://safe.no/safe-trapper-opp-streiken-i-reach-subsea/",
+      "text": "Flåten er i alle fall i full jobb (MarineTraffic), så påvirkning på driften/resultatet bør være minimal enn så lenge.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://safe.no/safe-trapper-opp-streiken-i-reach-subsea/"
-      ],
-      "char_count": 57,
-      "has_link": true
-    },
-    {
-      "key": "0b283c6edd4e3d33",
-      "author": "stratix",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
-      "posted_relative": null,
-      "text": "30. okt. Vi nærmer oss q3 m stormskritt og jeg gleder meg stort. Jeg tror de leverer knallbra, q2 var nesten 1 mrd i omsetning og ebit over 190 mill. Leverer de i nærheten av dette er mc alt for lav. Tipper det kommer nyheter om industrielle partnere til utfisjoneringen av Reach Remote. Som Alendal sa er det stor interesse så det som blir spennende er hvordan løsningen blir. Her blir det uansett merverdier..",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5,
-        2
-      ],
       "links": [],
-      "char_count": 411,
+      "char_count": 117,
       "has_link": false
     }
   ]
