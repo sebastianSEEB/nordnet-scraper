@@ -1,37 +1,38 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-03T18:12:13.499808+00:00",
+  "scraped_at": "2026-11-03T23:48:50.319400+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "f8aaa866773fcb73",
+      "key": "5fd1b8d9d788f209",
       "author": "DividendDynasty",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
-      "posted_relative": "for 1 t siden",
-      "text": "Resultathopp for analytikerfavoritt: Den nye teknologien hjelper oss med å ta markedsandeler.  Intervju av Egil Hogna i Finansavisen https://tv.finansavisen.no/nb/watch/9049",
+      "posted_relative": "for 11 t siden",
+      "text": "For bare fem måneder siden diskuterte man om AI kom til å ta over konsulentbransjen. Et AI narrativ. Det er derfor interessant å lese dagens rapport, som viser at … Norconsult har de seneste månedene tatt viktige steg i bruken av kunstig intelligens, og økt bruken av egenutviklede KI-plattformer. Over 1 000 medarbeidere bruker nå plattformene, som kobler sammen selskapets viktigste verktøy innen arkitektur, ingeniørfag og forretningsdrift for å styrke kreativitet, produktivitet og kvalitet.  – Kunstig intelligens handler først og fremst om å kombinere teknologi med den sterke fagkompetansen i Norconsult. Når vi bruker KI sammen med fagkompetanse, dataene og verktøyene våre, kan vi løse oppgaver smartere, utforske flere alternativer og bruke mer tid på de krevende faglige vurderingene som skaper verdi for kundene, sier konsernsjef Egil Hogna. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://tv.finansavisen.no/nb/watch/9049"
+      "engagement_numbers": [
+        11,
+        7
       ],
-      "char_count": 173,
-      "has_link": true
+      "links": [],
+      "char_count": 873,
+      "has_link": false
     },
     {
-      "key": "55e14ad14eb14869",
-      "author": "Iniesta",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iniesta",
-      "posted_relative": "for 1 t siden",
-      "text": "Men hvordan skal bransjen gå fra timebetaling til løsningsbetaling.  Hvordan kapitaliserer man på KI effektene?",
-      "reply_count": 2,
+      "key": "9ec174eae8e98135",
+      "author": "ØrsteinStraitBetalen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rsteinstraitbetalen",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg synes det er interessant at man snakker om at KI kan øke lønnsomhet når «ingen» klarer å vise konkrete gevinsten. Ta NorCo som eksempel. Hvor helt konkret gir KI økt lønnsomhet?  Hver gang jeg spør noen helt konkret om hvordan KI øker kvalitet og effektivitet så kommer de runde svarene.  Den punktlisten over her ser ut som KI-generert shit, btw. 😉",
+      "reply_count": 3,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 111,
+      "char_count": 353,
       "has_link": false
     }
   ]

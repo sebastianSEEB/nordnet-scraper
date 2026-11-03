@@ -1,52 +1,37 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-11-03T18:09:36.187388+00:00",
+  "scraped_at": "2026-11-03T23:46:14.174129+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 3,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "30158400d80259db",
+      "key": "05c9c9883d443508",
+      "author": "Barcelona1986",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcelona1986",
+      "posted_relative": "for 5 t siden",
+      "text": "Greit å følge litt med på Al-Jazeera for løpende oppdatering av detaljer/perspektiver rundt prosessene i midt-østen.  Fase 1 er å få til et rammeverk for å innlede reelle forhandlinger (dvs dels som i juni), som kan inkludere visse \"innrømmelser\" fra begge sider inkl en periode med total våpenhvile.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 300,
+      "has_link": false
+    },
+    {
+      "key": "ab9e40323fe9c857",
       "author": "ks1977",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-      "posted_relative": "for 2 t siden",
-      "text": "Hele Sinokor sin flåte er visst nå svartelistet av Iran https://www.chemanalyst.com/NewsAndDeals/NewsDetails/iran-nearly-doubles-its-hormuz-blacklist-to-240-ships-45312",
+      "posted_relative": "for 3 t siden",
+      "text": "Kan vel hende at Sinokor heller sier \"hey, risikoen har gått opp, mer money please\"",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [
-        "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/iran-nearly-doubles-its-hormuz-blacklist-to-240-ships-45312"
-      ],
-      "char_count": 168,
-      "has_link": true
-    },
-    {
-      "key": "e476684aeabb3a85",
-      "author": "GMMMT",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gmmmt",
-      "posted_relative": "for 3 t siden",
-      "text": "Er det noe vi kan være sikre på er det at den oransje, halvdemente apekatten i det hvite huset ikke kommer til å klare å ordne opp i rotet sitt",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
       "links": [],
-      "char_count": 143,
-      "has_link": false
-    },
-    {
-      "key": "7f9af950fe66f62a",
-      "author": "Mr Brolin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
-      "posted_relative": "for 18 min siden",
-      "text": "· Litt kjedelig timing om vi ev. har låst 5 fartøy nå som mangelen kommer til å tvinge opp prisene enda mer",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 107,
+      "char_count": 83,
       "has_link": false
     }
   ]

@@ -1,48 +1,22 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-03T18:13:20.111598+00:00",
+  "scraped_at": "2026-11-03T23:49:55.878461+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "3deed6fd1508ac7d",
-      "author": "Egil Nordnes",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egil-nordnes",
-      "posted_relative": "for 2 t siden",
-      "text": "Nå venter vi i spenning",
-      "reply_count": null,
+      "key": "676691089611eb72",
+      "author": "X_22",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/x_22",
+      "posted_relative": "for 4 t siden",
+      "text": "Hei, Er det noe jeg gikk glipp av bortsett fra at q3 er om to dager?",
+      "reply_count": 3,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 23,
-      "has_link": false
-    },
-    {
-      "key": "a904a9a1388b40a5",
-      "author": "Kaloev",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaloev",
-      "posted_relative": "for 1 t siden",
-      "text": "· Hvor er",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 9,
-      "has_link": false
-    },
-    {
-      "key": "77eaff184e0a0397",
-      "author": "@OnklSkrue",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
-      "posted_relative": null,
-      "text": "?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 1,
+      "char_count": 68,
       "has_link": false
     }
   ]

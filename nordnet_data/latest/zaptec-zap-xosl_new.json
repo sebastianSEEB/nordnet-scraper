@@ -1,66 +1,55 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-03T18:11:14.163980+00:00",
+  "scraped_at": "2026-11-03T23:47:51.897960+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "f93e57ed422cb73d",
-      "author": "MisKina",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
-      "posted_relative": "for 2 t siden",
-      "text": "· Var det Citadel som fikk den presset litt her på slutten? Vanskelig å se at noen småsparere var redde og måtte ut raskt 🥴😱",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 124,
-      "has_link": false
-    },
-    {
-      "key": "cce2a46cea9f16d9",
-      "author": "bruker2",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bruker2",
-      "posted_relative": "for 7 t siden",
-      "text": "Noen har troen for i morgen i hvertfall.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        3
-      ],
-      "links": [],
-      "char_count": 40,
-      "has_link": false
-    },
-    {
-      "key": "5883eb0ed9c25bda",
-      "author": "cnndk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cnndk",
-      "posted_relative": "for 1 t siden",
-      "text": "· Spennende, vi krysser fingrene 🤞",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 34,
-      "has_link": false
-    },
-    {
-      "key": "77389b239afde3c1",
-      "author": "walfjord",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/walfjord",
-      "posted_relative": "for 2 t siden",
-      "text": "Har lagt inn hele år lønna 😅",
+      "key": "4bbd3d364f50e7a3",
+      "author": "hacksaw",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hacksaw",
+      "posted_relative": "for 4 t siden",
+      "text": "· Siste innlegg var litt negativt (Traver) Håper ikke du får rett, men det er ok, å ha denne troen, tror også andre har det Men uansett hva, hopper jeg på Daytrader-bølgen, så lenge Citadel er her inne Man kan jo likevel prøve å tjene noen slanter når den svinger slik den gjør",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 28,
+      "char_count": 277,
+      "has_link": false
+    },
+    {
+      "key": "f860c58dfbfba250",
+      "author": "taivermannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/taivermannen",
+      "posted_relative": "for 5 t siden",
+      "text": "Rapport i morgen! Sannsynligvis lav vekst eller negativ, men håper de holder seg over 0 i EBIT uansett.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "5a1f5e0f7d85cb8b",
+      "author": "Trondsinio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trondsinio",
+      "posted_relative": "for 5 t siden",
+      "text": "Glimrende analyse.  Du må være et geni !",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 40,
       "has_link": false
     }
   ]
