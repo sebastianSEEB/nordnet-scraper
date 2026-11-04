@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-04T11:48:29.118648+00:00",
+  "scraped_at": "2026-11-04T14:57:14.096542+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "080d14068d979aba",
+      "author": "Aksel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksel",
+      "posted_relative": "for 57 min siden",
+      "text": "· Nordnet er ikke trustpilot, hvor kommentaren din hører hjemme",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

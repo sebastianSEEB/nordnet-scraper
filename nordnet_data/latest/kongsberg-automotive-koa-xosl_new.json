@@ -1,9 +1,25 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-11-04T11:50:55.602111+00:00",
+  "scraped_at": "2026-11-04T14:59:51.396469+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9f39bcd305a80158",
+      "author": "KER_share",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ker_share",
+      "posted_relative": null,
+      "text": "31. okt. Brasil er verdens 7. mest folkerike land med 203 milloner innbyggere. \"BYD targets becoming Brazil's largest carmaker by sales volume by 2030, backed by major manufacturing and supply chain expansions\".",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 211,
+      "has_link": false
+    }
+  ]
 }

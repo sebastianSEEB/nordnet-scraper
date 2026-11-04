@@ -1,9 +1,64 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-04T11:47:03.581847+00:00",
+  "scraped_at": "2026-11-04T14:55:45.877021+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "85e23d431745cdd8",
+      "author": "TWOWS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
+      "posted_relative": "for 1 t siden",
+      "text": "Kanskje det blitt lettelser i toll til USA framover?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "1bc8fb267be20d73",
+      "author": "AKF",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akf",
+      "posted_relative": "for 1 t siden",
+      "text": "Dette ser ut til å bli en bra dag!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "0b3f2731498f9cba",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 1 t siden",
+      "text": "Øyeblikk bikking 600 dere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "6c0d8ea990ba95d9",
+      "author": "TWOWS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
+      "posted_relative": "for 1 t siden",
+      "text": "ikke jinx nå da!!",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

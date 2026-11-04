@@ -1,26 +1,41 @@
 {
   "slug": "jinhui-shipping-transportation-jin-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/jinhui-shipping-transportation-jin-xosl",
-  "scraped_at": "2026-11-04T11:43:48.893180+00:00",
+  "scraped_at": "2026-11-04T14:52:27.047099+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9939090467c638cd",
+      "key": "d0fa2edacf5c96fb",
       "author": "TJ80",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj80",
-      "posted_relative": "for 6 min siden",
-      "text": "· Hva blir Jinhuis Q3- og helårsresultat for 2026? Så er det ca. 25 dager til Q3-rapporten den 30. november. Jeg har laget en side som samler mine input og antagelser for Jinhui-caset: flåte, fraktrater, FFA-kurver, indre verdi og en prognose for Q3, Q4 og hele 2026. https://jinhui-research.pages.dev/ På prognosesiden kan du skru på ratene og driftskostnadene og legge ut din egen gjetning på veggen. https://jinhui-research.pages.dev/da/prognose Siden er et lite miniprosjekt for å finne ut hva Claude kan ift. analysemodeller m.m. Kommentarer og forbedringsforslag er svært velkomne. Kurs, fraktindeks og FFA-kurver oppdateres automatisk hver dag, og siden blir løpende oppdatert når det kommer nye pressemeldinger og regnskaper.",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hva blir Jinhuis Q3- og helårsresultat for 2026? Så er det ca. 25 dager til Q3-rapporten den 30. november. Jeg har laget en side som samler mine input og antagelser for Jinhui-caset: flåte, fraktrater, FFA-kurver, indre verdi og en prognose for Q3, Q4 og hele 2026. https://jinhui-research.pages.dev/ På prognosesiden kan du skru på ratene og driftskostnadene og legge ut din egen gjetning på veggen. https://jinhui-research.pages.dev/da/prognose Siden er et lite miniprosjekt for å finne ut hva Claude kan ift. analysemodeller m.m. Kommentarer og forbedringsforslag er svært velkomne. Kurs, fraktindeks og FFA-kurver oppdateres automatisk hver dag, og siden blir løpende oppdatert når det kommer nye pressemeldinger og regnskaper. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [
         "https://jinhui-research.pages.dev/",
         "https://jinhui-research.pages.dev/da/prognose"
       ],
-      "char_count": 733,
+      "char_count": 753,
       "has_link": true
+    },
+    {
+      "key": "49b3298be602f30d",
+      "author": "mithra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mithra",
+      "posted_relative": "for 46 min siden",
+      "text": "ps   nok  0.50 skulle det være -ikke 0,60",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
     }
   ]
 }

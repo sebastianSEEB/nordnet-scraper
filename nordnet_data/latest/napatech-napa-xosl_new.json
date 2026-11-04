@@ -1,54 +1,22 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-04T11:46:00.972314+00:00",
+  "scraped_at": "2026-11-04T14:54:42.941260+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "a46ca9b692d1a5b8",
-      "author": "Polarstjernen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarstjernen",
-      "posted_relative": null,
-      "text": "31. okt. · Endret Forskjellen er at Napatech ikke nødvendigvis er avhengig av at det etableres nye datasenter. Det finnes jo VELDIG mange små og mellomstore datasenter allerede. Eksisterende datasenter må jo bytte utstyr relativt ofte i sammenheng med «end of life». Vil jo tro at man ønsker å bytte til mer effektive løsninger som er raskere og bruker mindre strøm. Det vil si at man utnytter eksisterende datasenter bedre (tilgjengelig areal, strøm, kjøling osv). Der eneste som er sikkert er at etterspørselen etter datakraft er enorm. Videre samfunnsutvikling og økonomisk vekst er fullstendig avhengig av mer datakraft og bedre mer effektive løsninger på dette området. Våre ressurser er ikke utømmelig og utviklingen når det gjelder fornybar energi eller nye energikilder går jo i sneglefart sammenlignet med AI.",
+      "key": "8648c2dede2d5aad",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 2 min siden",
+      "text": "Det kommer nok litt positive oppdateringer imorgen. De store bestillingene kommer nok snart. Selskapet kan bli kjøpt opp løpet av 12 mnd tenker jeg.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        6
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 818,
-      "has_link": false
-    },
-    {
-      "key": "8b262906d7d55317",
-      "author": "CurlyOne",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/curlyone",
-      "posted_relative": "for 19 t siden",
-      "text": "· Hvor finnes det oversikter over om de store aksjonærene sitter stille i båten med sine aksjer? Eller øker/reduserer dem? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 142,
-      "has_link": false
-    },
-    {
-      "key": "e79a7c3d6705e72e",
-      "author": "Benjamin Aune",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
-      "posted_relative": "for 3 t siden",
-      "text": "Ref artikkelen nedenfor om DNB disruptive fondet som går \"All inn\" så blir det spennende å se om de fyller på i Napatech eller ikke.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 132,
+      "char_count": 148,
       "has_link": false
     }
   ]
