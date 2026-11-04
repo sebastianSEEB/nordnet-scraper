@@ -1,6 +1,6 @@
 {
  "started": "2026-10-30",
- "cash": 62500.0,
+ "cash": 24874.988338,
  "positions": [
   {
    "ticker": "ENDUR.OL",
@@ -9,9 +9,9 @@
    "entry_px": 19.403928,
    "shares": 642.911052,
    "cost": 12500.0,
-   "held": 2,
+   "held": 3,
    "p": 1.0,
-   "last_px": 20.250302
+   "last_px": 20.375692
   },
   {
    "ticker": "HAUTO.OL",
@@ -20,9 +20,9 @@
    "entry_px": 182.399994,
    "shares": 68.393643,
    "cost": 12500.0,
-   "held": 2,
+   "held": 3,
    "p": 0.989796,
-   "last_px": 179.399994
+   "last_px": 177.699997
   },
   {
    "ticker": "NSKOG.OL",
@@ -31,29 +31,56 @@
    "entry_px": 35.950001,
    "shares": 347.009728,
    "cost": 12500.0,
-   "held": 2,
+   "held": 3,
    "p": 0.979592,
-   "last_px": 36.150002
-  }
- ],
- "pending": [
+   "last_px": 37.150002
+  },
   {
    "ticker": "NHY.OL",
    "signal_date": "2026-11-03",
-   "alloc": 12541.670554,
-   "p": 1.0
+   "entry_date": "2026-11-04",
+   "entry_px": 65.720001,
+   "shares": 190.453241,
+   "cost": 12541.670554,
+   "held": 1,
+   "p": 1.0,
+   "last_px": 67.879997
   },
   {
    "ticker": "DOFG.OL",
    "signal_date": "2026-11-03",
-   "alloc": 12541.670554,
-   "p": 0.989474
+   "entry_date": "2026-11-04",
+   "entry_px": 129.100006,
+   "shares": 96.952646,
+   "cost": 12541.670554,
+   "held": 1,
+   "p": 0.989474,
+   "last_px": 129.699997
   },
   {
    "ticker": "SOMA.OL",
    "signal_date": "2026-11-03",
-   "alloc": 12541.670554,
-   "p": 0.978947
+   "entry_date": "2026-11-04",
+   "entry_px": 28.450001,
+   "shares": 439.95033,
+   "cost": 12541.670554,
+   "held": 1,
+   "p": 0.978947,
+   "last_px": 28.6
+  }
+ ],
+ "pending": [
+  {
+   "ticker": "BRG.OL",
+   "signal_date": "2026-11-04",
+   "alloc": 12638.126342,
+   "p": 1.0
+  },
+  {
+   "ticker": "YAR.OL",
+   "signal_date": "2026-11-04",
+   "alloc": 12638.126342,
+   "p": 0.989583
   }
  ],
  "closed": [],
@@ -69,7 +96,11 @@
   {
    "date": "2026-11-03",
    "equity": 100333.364434
+  },
+  {
+   "date": "2026-11-04",
+   "equity": 101105.010736
   }
  ],
- "last_date": "2026-11-03"
+ "last_date": "2026-11-04"
 }
