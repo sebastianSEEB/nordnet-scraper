@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-04T03:54:23.131696+00:00",
+  "scraped_at": "2026-11-04T11:48:52.730719+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "287de8a0190424b9",
+      "author": "Filiperkul123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/filiperkul123",
+      "posted_relative": "for 3 t siden",
+      "text": "Opp og frem",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

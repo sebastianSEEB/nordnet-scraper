@@ -1,9 +1,38 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-04T03:54:03.600526+00:00",
+  "scraped_at": "2026-11-04T11:48:32.960240+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c7cc17326410879d",
+      "author": "Svartbak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svartbak",
+      "posted_relative": "for 1 t siden",
+      "text": "Trenden er snudd.  Løp og kjøp før toget har gått.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "0f66b4af957e865d",
+      "author": "tidemannrødtri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tidemannrdtri",
+      "posted_relative": "for 2 t siden",
+      "text": "· Nhy er billig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

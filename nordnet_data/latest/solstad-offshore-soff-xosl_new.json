@@ -1,9 +1,70 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-11-04T03:49:44.312196+00:00",
+  "scraped_at": "2026-11-04T11:44:12.237015+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "d64022fdf0b894e2",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 4 t siden",
+      "text": "Har sett på SOFF og SOMA sine Q3-tall- økte utbytter, ekstraordinært utbytte og solide tall: https://osvnyheter.no/kjapp-kommentar-til-q3-tallene-til-solstad-offshore-soff-og-solstad-maritime-soma-2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [
+        "https://osvnyheter.no/kjapp-kommentar-til-q3-tallene-til-solstad-offshore-soff-og-solstad-maritime-soma-2026"
+      ],
+      "char_count": 201,
+      "has_link": true
+    },
+    {
+      "key": "a96f57bda50415f8",
+      "author": "Allstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allstein",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare på en gunstigere finansiering av Maximus så vil Soff kunne ha f.eks 2 kroner mer i fri cash flow per aksje per år en nå alt annet likt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    },
+    {
+      "key": "84b2920aa622bbb7",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": "for 3 t siden",
+      "text": "Solid utbytte, er det flere kvartaler i ett utbytte? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "135e357758315568",
+      "author": "Allstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allstein",
+      "posted_relative": "for 4 t siden",
+      "text": "Dette var vel en veldig bra rapport ? 3 kr i utbytte.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

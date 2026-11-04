@@ -1,9 +1,23 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-11-04T03:53:01.700952+00:00",
+  "scraped_at": "2026-11-04T11:47:30.340490+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "81397426ab8235ec",
+      "author": "aspeløv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
+      "posted_relative": "for 1 t siden",
+      "text": "ironisk nok vil valgresultatet i USA der det er stor motstand mot datasenter få tek-industrien til å se seg om etter andre muligheter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,56 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-11-04T03:52:54.021259+00:00",
+  "scraped_at": "2026-11-04T11:47:22.736691+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "41479a7e8b76bccc",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": "for 55 min siden",
+      "text": "Tror han trapper opp mot Iran i helga. https://www.dn.no/utenriks/usa/iran/donald-trump/planlegger-nye-iran-angrep-etter-mellomvalget/2-1-2063044",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dn.no/utenriks/usa/iran/donald-trump/planlegger-nye-iran-angrep-etter-mellomvalget/2-1-2063044"
+      ],
+      "char_count": 145,
+      "has_link": true
+    },
+    {
+      "key": "6c97f76dc8a486ce",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 3 t siden",
+      "text": "Dette er et flaut skue, leverer bra resultat, starter med ut bytte på 2 kr og lover utbytte ut 2027 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "f588d64d82f24943",
+      "author": "B87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b87",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "· 2 nye kursmål i dag 🚀🏆",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

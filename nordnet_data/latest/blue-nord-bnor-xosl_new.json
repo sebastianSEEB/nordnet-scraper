@@ -1,9 +1,40 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-04T03:50:07.484002+00:00",
+  "scraped_at": "2026-11-04T11:44:35.222865+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8ddc299f4bdcd744",
+      "author": "olto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
+      "posted_relative": "for 14 t siden",
+      "text": "Bluenord-sjefen selger alle aksjene. https://e24.no/bors/nyheter?pinnedEntry=306108 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://e24.no/bors/nyheter?pinnedEntry=306108"
+      ],
+      "char_count": 103,
+      "has_link": true
+    },
+    {
+      "key": "4de2b68290ab3431",
+      "author": "Blue GT",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blue-gt",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hvordan skal han kunne time markedet, når dette jo er nesten umulig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

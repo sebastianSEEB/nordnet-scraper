@@ -1,35 +1,97 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-04T03:53:36.161070+00:00",
+  "scraped_at": "2026-11-04T11:48:04.892111+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "3a7421fa1b7f82d8",
-      "author": "FutureInvestpr",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/futureinvestpr",
-      "posted_relative": "for 2 t siden",
-      "text": "oljen ser ikke lys ut... NQ futures ned 1.8% bare 30 min ute i asia open...  og crude oil er nede rundt 0.4% og gull pumper som en rakett. Tror ikke akkurat dette er så positivt for HUNT.",
+      "key": "002debbfd43089cc",
+      "author": "Proffen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
+      "posted_relative": "for 1 t siden",
+      "text": "Rettssaksregisteret viser at det ble levert tre nye offentlige vitneforklaringer 2. november. Saken står fortsatt oppført med rettsmøte i dag, 4. november kl. 10.00, hos dommer Andrew Baker. https://folio.manotan.io/cases/FL-2026-000015?utm_source=chatgpt.com",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://folio.manotan.io/cases/FL-2026-000015?utm_source=chatgpt.com"
+      ],
+      "char_count": 259,
+      "has_link": true
+    },
+    {
+      "key": "992ae42a2f83cb8f",
+      "author": "Binga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
+      "posted_relative": "for 5 t siden",
+      "text": "Vår vei er kanskje ikke verdens vei? Tipper at en sinna/furten Trump snart angriper Iran igjen. Fokuset vil gå enda mer over på utenrikspolitikk og hva han blir i stand til å gjøre der!",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 187,
+      "char_count": 185,
       "has_link": false
     },
     {
-      "key": "2ec59a82e3e341eb",
-      "author": "FutureInvestpr",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/futureinvestpr",
-      "posted_relative": "for 2 t siden",
-      "text": "Får håpe valget går vår vei:)",
+      "key": "f79457017669081a",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 3 t siden",
+      "text": "Test av 19 idah? Etter demokratene vant?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        17
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "ae59c2c01b9cd197",
+      "author": "akjsekonge1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akjsekonge1",
+      "posted_relative": "for 3 t siden",
+      "text": "Noe mer nytt om rettssaken",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "29e9ad035cd6dffc",
+      "author": "lenicois06",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lenicois06",
+      "posted_relative": "for 1 t siden",
+      "text": "· 10,19 ja😅😅😅",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 29,
+      "char_count": 13,
+      "has_link": false
+    },
+    {
+      "key": "07348bab31bdfa76",
+      "author": "LongLearning",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/longlearning",
+      "posted_relative": "for 3 t siden",
+      "text": "· 🤫",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
       "has_link": false
     }
   ]

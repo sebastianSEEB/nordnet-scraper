@@ -1,9 +1,38 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-04T03:48:53.393033+00:00",
+  "scraped_at": "2026-11-04T11:43:21.125764+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "94a0d68c7c571a7a",
+      "author": "BorseBørs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
+      "posted_relative": "for 53 min siden",
+      "text": "Ser ut som at det gjelder hele shippingsektoren. Er vel en ny korreksjon slik som den i midten av oktober.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "68155e70fe32ef37",
+      "author": "Ekkoloddet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekkoloddet",
+      "posted_relative": "for 1 t siden",
+      "text": "Hafnia ned 4% siden klokken 10:00 i dag. ==> Noen som skjønner hvorfor?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

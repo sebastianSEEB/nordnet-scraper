@@ -1,9 +1,25 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-04T03:53:40.061908+00:00",
+  "scraped_at": "2026-11-04T11:48:09.055128+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2fa0c4bfd579633c",
+      "author": "zenbird",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zenbird",
+      "posted_relative": "for 3 t siden",
+      "text": "pharma går opp på blå seier",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-04T03:55:09.947361+00:00",
+  "scraped_at": "2026-11-04T11:49:38.612904+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5feb288b67b93c9a",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 4 t siden",
+      "text": "Fredly: PARB  APOLLO ASSET LIMITED           +242.184 Fredly spiser mye av det som selges. Når Fredly vil kjøpe aksjene dine, så... Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "a2a9e97f58e1a93c",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvem er det som kjøper idag? Arne Fredly. Hvem selger?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

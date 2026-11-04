@@ -1,9 +1,25 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-04T03:50:42.156502+00:00",
+  "scraped_at": "2026-11-04T11:45:10.595114+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d02a5dcbc9622e39",
+      "author": "AlloNo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allono",
+      "posted_relative": "for 2 t siden",
+      "text": "Gode tall, solid ordrebok, økende utbytte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

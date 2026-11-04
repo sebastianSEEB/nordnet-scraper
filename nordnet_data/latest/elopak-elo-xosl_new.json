@@ -1,9 +1,70 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-04T03:52:07.700838+00:00",
+  "scraped_at": "2026-11-04T11:46:36.145999+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "da859b56d02905e0",
+      "author": "Tech1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech1",
+      "posted_relative": "for 3 t siden",
+      "text": "Produktnytt: https://www.elopak.com/news/2026/parmovo-brings-out-the-best-of-the-eggs-in-cartons-with-eggscellence/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.elopak.com/news/2026/parmovo-brings-out-the-best-of-the-eggs-in-cartons-with-eggscellence/"
+      ],
+      "char_count": 115,
+      "has_link": true
+    },
+    {
+      "key": "0c72f083446e0c78",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 44 min siden",
+      "text": "Er det noe omsetning utenfor børs igjen Hengslet ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "5f15c922adaa277a",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 3 t siden",
+      "text": "Hipp , hipp og hurra for valgresultatet i USA 😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "2446319ab77a86db",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 32 min siden",
+      "text": "· Ingenting så langt i dag",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

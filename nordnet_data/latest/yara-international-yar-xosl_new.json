@@ -1,9 +1,36 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-04T03:54:15.294816+00:00",
+  "scraped_at": "2026-11-04T11:48:44.780977+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "fd2c0771fc093aee",
+      "author": "KonkursFørLunsj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/konkursfrlunsj",
+      "posted_relative": "for 33 min siden",
+      "text": "Snart nede på 350 og det begynner å bli dax at tanke opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "157a375fbcbae4bb",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 17 min siden",
+      "text": "Kursen trenger en avtale mellom USA og Iran.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

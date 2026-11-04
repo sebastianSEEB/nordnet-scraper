@@ -1,9 +1,38 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-04T03:49:04.904125+00:00",
+  "scraped_at": "2026-11-04T11:43:33.134508+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "19595576e56c60d7",
+      "author": "Miguel.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miguel-1",
+      "posted_relative": "for 20 t siden",
+      "text": "Hva mener folk om denne? Hvor lenge bør man sitte før det skjer noen markant økning her. Flere år? Enn så lenge har jeg en avkastning 7.6% og GAV 3.4kr Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 171,
+      "has_link": false
+    },
+    {
+      "key": "c4e91b881d133f11",
+      "author": "Nydelighandel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nydelighandel",
+      "posted_relative": "for 3 t siden",
+      "text": "De har 2 båter",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

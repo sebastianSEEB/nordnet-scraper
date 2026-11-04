@@ -1,25 +1,39 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-11-04T03:49:13.337313+00:00",
+  "scraped_at": "2026-11-04T11:43:41.091918+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b75102fe4790687b",
-      "author": "nord-gm",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nord-gm",
-      "posted_relative": "for 1 døgn siden",
-      "text": "Bør jeg kjøpe de nye aksjene på gråmarkedet (NOTC) til rundt 3,20 kroner, i stedet for å betale firegangeren på børsen? Bli medlem av Nordnet Social for å gi din stemme Logg inn JA Nei 32 stemmer • 1 dag 5 timer igjen Vis 1 kommentar til",
+      "key": "bd0adb0bc52e19b1",
+      "author": "Johannesroed",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johannesroed",
+      "posted_relative": "for 3 t siden",
+      "text": "Et skudd for baugen allerede? Opererer eller skal ankerskipene til 2020/AHTS  operere i nordsjøen..? https://www.finansavisen.no/energi/2026/11/02/8392408/fra-millionrater-til-310.000-kroner-dagen?zephr_sso_ott=qIGuCh",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        2
+        1
       ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/02/8392408/fra-millionrater-til-310.000-kroner-dagen?zephr_sso_ott=qIGuCh"
+      ],
+      "char_count": 217,
+      "has_link": true
+    },
+    {
+      "key": "921e42f4c36b022c",
+      "author": "Matsrune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsrune",
+      "posted_relative": "for 33 min siden",
+      "text": "Dette er vell skip som anses som tier 2 båter og er spret rundt om i verden hvor de gjerne blir satt inn på lengre kontrakter. Ikke mange plasser (om noen i det hele tatt) har et spot market som Nordsjøen. Der er det bare et par båter som har fast kontrakt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 237,
+      "char_count": 257,
       "has_link": false
     }
   ]

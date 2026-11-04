@@ -1,9 +1,40 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-04T03:51:24.915241+00:00",
+  "scraped_at": "2026-11-04T11:45:52.956845+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f978bfa4be267309",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "https://www.finansavisen.no/industri/2026/11/04/8392806/arctic-analytiker-anbefaler-fire-aksjer Arctic-analytiker Kristoffer Hauglands favoritter inkluderer en entreprenør, en konsulentaksje og to industriselskaper. En emballasjeprodusent får derimot en holdanbefaling. Norco er en av de. :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/11/04/8392806/arctic-analytiker-anbefaler-fire-aksjer"
+      ],
+      "char_count": 292,
+      "has_link": true
+    },
+    {
+      "key": "400b011e74a37b04",
+      "author": "ØrsteinStraitBetalen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rsteinstraitbetalen",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvor henter man \"resultathopp\" fra? Selskapets overskudd, som tross alt er det viktigste, er på vei ned. Selv med \"ny teknologi\", \"økte markedsandeler\", flere ansatte og så videre. Årets overskudd blir etter alt og dømme lavere enn fjorårets. Direkteavkastning som ligger i området høyrente med aksjemarkedets risiko, og piler som peker feil vei.   Og nå starter meglerhusene med å senke forventningene.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 403,
+      "has_link": false
+    }
+  ]
 }
