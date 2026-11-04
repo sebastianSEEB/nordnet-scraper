@@ -1,25 +1,9 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-03T23:47:32.406041+00:00",
+  "scraped_at": "2026-11-04T03:50:07.484002+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
-  "posts": [
-    {
-      "key": "71a35e7025822837",
-      "author": "olto",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olto",
-      "posted_relative": "for 2 t siden",
-      "text": "Bluenord-sjefen selger alle aksjene. https://e24.no/bors/nyheter?pinnedEntry=306108",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://e24.no/bors/nyheter?pinnedEntry=306108"
-      ],
-      "char_count": 83,
-      "has_link": true
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

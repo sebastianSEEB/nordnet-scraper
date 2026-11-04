@@ -1,9 +1,36 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-03T23:51:02.068936+00:00",
+  "scraped_at": "2026-11-04T03:53:36.161070+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3a7421fa1b7f82d8",
+      "author": "FutureInvestpr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/futureinvestpr",
+      "posted_relative": "for 2 t siden",
+      "text": "oljen ser ikke lys ut... NQ futures ned 1.8% bare 30 min ute i asia open...  og crude oil er nede rundt 0.4% og gull pumper som en rakett. Tror ikke akkurat dette er så positivt for HUNT.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 187,
+      "has_link": false
+    },
+    {
+      "key": "2ec59a82e3e341eb",
+      "author": "FutureInvestpr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/futureinvestpr",
+      "posted_relative": "for 2 t siden",
+      "text": "Får håpe valget går vår vei:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }
