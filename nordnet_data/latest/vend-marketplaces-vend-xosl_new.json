@@ -1,9 +1,40 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-04T14:53:30.769517+00:00",
+  "scraped_at": "2026-11-04T19:02:56.118884+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "866308e3324df9c6",
+      "author": "Zanti",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zanti",
+      "posted_relative": "for 3 t siden",
+      "text": "Scout24 steg 8% idag, la frem tall, trolig sammenheng. Sikkert inndekning også ja, Kintbury har allerede begynt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "26975edb25006bfe",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 3 t siden",
+      "text": "Inndekning på gang, valgresultat eller begge deler?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

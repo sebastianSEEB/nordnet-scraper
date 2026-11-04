@@ -1,9 +1,53 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-11-04T14:55:02.889458+00:00",
+  "scraped_at": "2026-11-04T19:04:25.574076+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "608ef5b7467f0b6e",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 25 min siden",
+      "text": "https://www.kyst.no/aquatraz-leroy/aquatraz-merdene-har-kommet-til-norge/2205738",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.kyst.no/aquatraz-leroy/aquatraz-merdene-har-kommet-til-norge/2205738"
+      ],
+      "char_count": 80,
+      "has_link": true
+    },
+    {
+      "key": "6a2931bbb81fe655",
+      "author": "HFalck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hfalck",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Noen andre som skal grave laks til jul? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 59,
+      "has_link": false
+    },
+    {
+      "key": "e7d5e014cba89d45",
+      "author": "Garrido",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/garrido",
+      "posted_relative": "for 3 t siden",
+      "text": "· 100% 🤑",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

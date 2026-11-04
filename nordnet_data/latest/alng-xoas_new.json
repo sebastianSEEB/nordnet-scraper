@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-04T14:52:10.882013+00:00",
+  "scraped_at": "2026-11-04T19:01:38.149582+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1ee2b7cdb535acf1",
+      "author": "BerntOlav",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/berntolav",
+      "posted_relative": "for 2 t siden",
+      "text": "Øker enda litt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

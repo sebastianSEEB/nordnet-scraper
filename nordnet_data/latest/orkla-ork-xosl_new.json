@@ -1,25 +1,27 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-04T14:57:34.323848+00:00",
+  "scraped_at": "2026-11-04T19:06:53.566817+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "5c658fb21b7fe585",
-      "author": "mini_85",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mini_85",
-      "posted_relative": "for 2 t siden",
-      "text": "fin stigning og vipper snart 100 lappen :)",
+      "key": "3f38581afe32ebf0",
+      "author": "iversen_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iversen-1",
+      "posted_relative": "for 1 t siden",
+      "text": "Fin artikkel i finansavisen om Orkla!  Trenger ikke abonnement. https://www.finansavisen.no/finans/2026/11/04/8388659/over-40-prosent-oppside-i-leverpostei-aksje",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        3
       ],
-      "links": [],
-      "char_count": 42,
-      "has_link": false
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/04/8388659/over-40-prosent-oppside-i-leverpostei-aksje"
+      ],
+      "char_count": 161,
+      "has_link": true
     }
   ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-11-04T14:55:33.883215+00:00",
+  "scraped_at": "2026-11-04T19:04:56.474628+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "296db5283086c36c",
+      "author": "Long_2026",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/long_2026",
+      "posted_relative": "for 1 t siden",
+      "text": "Medistim ble rammet av ett veldig turbulent aksjemarked, i dag,  men er overrasket over att helserelaterte Medistim ikke gjorde det bedre!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    }
+  ]
 }

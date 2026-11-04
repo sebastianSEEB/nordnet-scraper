@@ -1,9 +1,27 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwi-xosl",
-  "scraped_at": "2026-11-04T14:52:43.132654+00:00",
+  "scraped_at": "2026-11-04T19:02:09.696031+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c6c2af8a41ff8c0b",
+      "author": "mpaets",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mpaets",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/11/04/8393299/wilh.-wilhelmsen-holding-okte-bokfort-egenkapital-med-2-6-milliarder-kroner",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/04/8393299/wilh.-wilhelmsen-holding-okte-bokfort-egenkapital-med-2-6-milliarder-kroner"
+      ],
+      "char_count": 129,
+      "has_link": true
+    }
+  ]
 }

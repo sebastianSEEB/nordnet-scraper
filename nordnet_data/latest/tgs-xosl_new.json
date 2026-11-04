@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-11-04T14:55:54.350588+00:00",
+  "scraped_at": "2026-11-04T19:05:16.220151+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a4d851c3f9eb4aef",
+      "author": "fattiglusen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusen",
+      "posted_relative": "for 1 t siden",
+      "text": "Jaja.. Da blir det ny rød dag i morgen. Ikke måte på fall i oljeprisen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

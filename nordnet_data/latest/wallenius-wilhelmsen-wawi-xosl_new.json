@@ -1,24 +1,39 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-11-04T14:52:39.021910+00:00",
+  "scraped_at": "2026-11-04T19:02:05.808474+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 5,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "34ccb05a6ff98e56",
+      "key": "be44b6b45bb909f7",
+      "author": "Bullelull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bullelull",
+      "posted_relative": "for 44 min siden",
+      "text": "Hvorfor faller vi på god rapport og fine omtaler og kursmål? Synes denne aksjen har vært uheldig med timing av annonsering av ny kontrakt og i dag rapport - fortjener bedre kurs enn dette. Har trua på oppgang fremover!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 218,
+      "has_link": false
+    },
+    {
+      "key": "cab27a112612911c",
       "author": "Cheapo",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
-      "posted_relative": "for 2 t siden",
-      "text": "DNB Carnegie i Finansavisen i dag: \"Det er ekstremt imponerende, sier Jørgen Lian etter en uke i Asia. Nå oppgraderer DNB Carnegie bilfraktaksjer og peker ut Wallenius Wilhelmsen som favoritt.\"",
+      "posted_relative": "for 3 t siden",
+      "text": "· ABG har nettopp hevet sitt kursmål for WAWI fra 195 til 205.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         4
       ],
       "links": [],
-      "char_count": 193,
+      "char_count": 62,
       "has_link": false
     }
   ]

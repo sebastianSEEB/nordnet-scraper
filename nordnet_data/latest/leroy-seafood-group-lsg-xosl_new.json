@@ -1,23 +1,25 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-11-04T14:53:58.969977+00:00",
+  "scraped_at": "2026-11-04T19:03:23.627652+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "344186a4166fbe25",
-      "author": "TWOWS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
-      "posted_relative": "for 1 t siden",
-      "text": "Kanskje det blitt lettelser i toll til USA framover? Ikke at det betyr veldig mye, men kanskje litt.",
+      "key": "608ef5b7467f0b6e",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
+      "posted_relative": "for 23 min siden",
+      "text": "https://www.kyst.no/aquatraz-leroy/aquatraz-merdene-har-kommet-til-norge/2205738",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 100,
-      "has_link": false
+      "links": [
+        "https://www.kyst.no/aquatraz-leroy/aquatraz-merdene-har-kommet-til-norge/2205738"
+      ],
+      "char_count": 80,
+      "has_link": true
     }
   ]
 }
