@@ -1,53 +1,51 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-05T15:02:26.143737+00:00",
+  "scraped_at": "2026-11-05T15:59:56.175478+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "fb60ef25f3ce649f",
-      "author": "Denver",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/denver",
-      "posted_relative": "for 4 t siden",
-      "text": "Interessant å følge Cronics analyser. Men litt slitsomt. Kjøp og selg flere ganger pr dag.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 90,
-      "has_link": false
-    },
-    {
-      "key": "36b320ab18cbb09f",
-      "author": "Svartbak",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svartbak",
-      "posted_relative": "for 3 t siden",
-      "text": "Neste stopp: 72 Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        2
-      ],
-      "links": [],
-      "char_count": 35,
-      "has_link": false
-    },
-    {
-      "key": "2316a2644c028010",
+      "key": "93ef75243bd2ad45",
       "author": "Cronic",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
-      "posted_relative": "for 48 min siden",
-      "text": "· Var på 65,30 på onsdag🤣",
+      "posted_relative": "for 49 min siden",
+      "text": "Hva skjedde? Ned 1 5 kr på no time. Selger de nå hvitsnippen? Samme vil skje med Nas, rett ned.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 25,
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "20866e7313392817",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": "for 53 min siden",
+      "text": "Loddrett stup ned nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "5931e6b7864f1f3c",
+      "author": "Svartbak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svartbak",
+      "posted_relative": "for 4 t siden",
+      "text": "Neste stopp: 72",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 15,
       "has_link": false
     }
   ]

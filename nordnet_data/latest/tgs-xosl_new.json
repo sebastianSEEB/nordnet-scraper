@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-11-05T15:01:02.729010+00:00",
+  "scraped_at": "2026-11-05T15:58:31.225684+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6b51ca949409a9aa",
+      "author": "vikpat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikpat",
+      "posted_relative": "for 25 min siden",
+      "text": "· Dette kommer ikke opp før markedet ser de ekte tallene. Ærlig talt har markedet sluttet å tro på Kristian Johansens løfter, han har sagt det samme \"markedet forbedrer seg, bla bla bla\" i mer enn 2-3 år.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    }
+  ]
 }
