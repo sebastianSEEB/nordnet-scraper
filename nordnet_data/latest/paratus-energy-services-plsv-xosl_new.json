@@ -1,37 +1,68 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-11-05T07:33:47.115841+00:00",
+  "scraped_at": "2026-11-05T14:59:48.465778+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "f0df1ac1289d02a2",
-      "author": "Kahlim",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kahlim",
-      "posted_relative": "for 1 t siden",
-      "text": "Dof fikk bekreftet sin PLSV med Petrobas i dag",
+      "key": "81449c7b527502e1",
+      "author": "MikkeB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikkeb",
+      "posted_relative": "for 2 t siden",
+      "text": "Det Dof meldte selv på morgenen i dag gjelder «kun» forlengelse av kontrakt: https://newsweb.oslobors.no/message/685681",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
+      "links": [
+        "https://newsweb.oslobors.no/message/685681"
+      ],
+      "char_count": 119,
+      "has_link": true
+    },
+    {
+      "key": "223ed5bd3c27689a",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 6 t siden",
+      "text": "· Doblet beholdningen Torde ikke vente lenger Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
       "links": [],
-      "char_count": 46,
+      "char_count": 65,
       "has_link": false
     },
     {
-      "key": "a5f22df8d4ab0561",
-      "author": "Palleyo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/palleyo",
-      "posted_relative": "for 1 t siden",
-      "text": "Kommer sikkert samme for Jade snart",
+      "key": "c23e65eb08cfb7e9",
+      "author": "MissFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/missfox",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "· Overraskende dette! men jeg snappet opp litt jeg og.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 35,
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "243b67c752557737",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 7 min siden",
+      "text": "Investtech Invest B øker ser jeg 👌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
       "has_link": false
     }
   ]

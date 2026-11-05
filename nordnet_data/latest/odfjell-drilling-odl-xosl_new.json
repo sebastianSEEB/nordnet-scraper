@@ -1,9 +1,56 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-11-05T07:33:22.689237+00:00",
+  "scraped_at": "2026-11-05T14:59:24.393884+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "cdba6cef07687e53",
+      "author": "Fallingknife",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fallingknife",
+      "posted_relative": "for 5 t siden",
+      "text": "· Det ser ut som olje produseres i amerikanske stemmeboder, ingen boring nødvendig. Pakk sammen gutter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "eedff1d207e2d9dd",
+      "author": "Bull_dog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bull_dog",
+      "posted_relative": "for 3 t siden",
+      "text": "Se børsmorgen i dag, stemningsrapport fra verdens største oljemesse.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "c7fa6e1973cc1c92",
+      "author": "Una14",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/una14",
+      "posted_relative": "for 6 t siden",
+      "text": "· Hvorfor fallet? Rapporten virket bra gjennom mine optimister øyne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,71 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-05T07:36:11.684072+00:00",
+  "scraped_at": "2026-11-05T15:02:09.590265+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "3fdac9ef8e9ef55b",
+      "author": "ijpo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ijpo",
+      "posted_relative": "for 7 t siden",
+      "text": "Her kan du se om det er aktuelt for deg å henvende deg til norske skattemyndigheter for tilbakebetaling av withholding tax. For nordmenn med danske utbytteaksjer er det i alle fall denne måten vi får tilbakebetalt fra danske myndigheter. https://www.skatteetaten.no/en/person/taxes/get-the-taxes-right/shares-and-securities/about-shares-and-securities/reduced-withholding-tax-on-dividends/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.skatteetaten.no/en/person/taxes/get-the-taxes-right/shares-and-securities/about-shares-and-securities/reduced-withholding-tax-on-dividends/"
+      ],
+      "char_count": 389,
+      "has_link": true
+    },
+    {
+      "key": "fa9049e4e7ef9bc4",
+      "author": "SillyInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sillyinvest",
+      "posted_relative": "for 39 min siden",
+      "text": "Jeg kjøpte idag. Ser på langsikten. Historisk grei stabil vekst med god utbytte. Ganske trygg aksje spør du meg, men ta egne beslutninger utifra hva du ønsker selv😁👌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 165,
+      "has_link": false
+    },
+    {
+      "key": "442a8432f052c69e",
+      "author": "Linjemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/linjemannen",
+      "posted_relative": "for 6 t siden",
+      "text": "Intradag ATH. Passer fint på en dag hvor mye annet raser ned i uværet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "b6faa6c0df45ad8d",
+      "author": "MariusHN01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariushn01",
+      "posted_relative": "for 1 t siden",
+      "text": "Har frigjort litt midler, er det dumt å kjøpe seg inn hær nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

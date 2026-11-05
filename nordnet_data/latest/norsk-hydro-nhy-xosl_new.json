@@ -1,9 +1,54 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-05T07:36:27.850628+00:00",
+  "scraped_at": "2026-11-05T15:02:26.143737+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "fb60ef25f3ce649f",
+      "author": "Denver",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/denver",
+      "posted_relative": "for 4 t siden",
+      "text": "Interessant å følge Cronics analyser. Men litt slitsomt. Kjøp og selg flere ganger pr dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "36b320ab18cbb09f",
+      "author": "Svartbak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svartbak",
+      "posted_relative": "for 3 t siden",
+      "text": "Neste stopp: 72 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "2316a2644c028010",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": "for 48 min siden",
+      "text": "· Var på 65,30 på onsdag🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

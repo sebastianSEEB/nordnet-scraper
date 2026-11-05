@@ -1,9 +1,27 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-05T07:32:38.897809+00:00",
+  "scraped_at": "2026-11-05T14:58:40.532276+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "97b7f3a3933c7eb6",
+      "author": "Leo95",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leo95",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.finansavisen.no/teknologi/2026/11/05/8393150/ser-33-prosent-oppside-for-vend Toppvalget til Fearnley.  Påpeker at han har troen på en reprising i 2027, da markedsposisjonens robusthet vil spille seg ut og utkonkurrere AI-agenter. Da kommer også utlendingene tilbake i caset og vi skal til himmels ;))",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/11/05/8393150/ser-33-prosent-oppside-for-vend"
+      ],
+      "char_count": 312,
+      "has_link": true
+    }
+  ]
 }

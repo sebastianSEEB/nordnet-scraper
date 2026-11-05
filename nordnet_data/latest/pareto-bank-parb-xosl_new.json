@@ -1,9 +1,84 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-05T07:37:35.212570+00:00",
+  "scraped_at": "2026-11-05T15:03:32.204201+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "42a4129031d9728d",
+      "author": "Timeless2050",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/timeless2050",
+      "posted_relative": "for 6 t siden",
+      "text": "P/B er 0,8. Bokførte verdier er høyere enn aksjekursen. Lurer på om/hvilken evt trygghet som ligger i dette ved i verste fall en konkurs. Teoretisk hvis bokført verdi er salgsverdi er aksjen mer fundamentalt verdt enn markedsverdien. Kanskje jeg tenker feil. Noen betraktninger rundt dette?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 290,
+      "has_link": false
+    },
+    {
+      "key": "7a1d41b397ab4bbe",
+      "author": "ben6",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ben6",
+      "posted_relative": "for 5 t siden",
+      "text": "Det er ikke konkursfare her. Selskapet går i pluss selv om de har noen tapsprosjekter som blir avskrevet. Regner med at i løpet av 2026 er de store tapene tatt og tilbake i normal drift fra 2027. P/B 0.8 gir støtte mot videre fall.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 231,
+      "has_link": false
+    },
+    {
+      "key": "a2676ad7d8c95b49",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 6 t siden",
+      "text": "re: Mange leter etter unnskyldning for å ikke kjøpe aksjen. Nye pessimistiske mål ned mot 30-blank. Det er sannsynligvis bare noen få her som kommer til å få med seg aksjer under 50-lappen.  FIKK DU HANDLET PARB UNDER 50-LAPPEN?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 228,
+      "has_link": false
+    },
+    {
+      "key": "295724983855fb9e",
+      "author": "Asuntomeklarit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/asuntomeklarit",
+      "posted_relative": null,
+      "text": "1. nov. · hvor lavt vil aksjekursen gå ? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "1cb1a12d3603888f",
+      "author": "Anticheat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anticheat",
+      "posted_relative": "for 4 t siden",
+      "text": "Jepp 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 6,
+      "has_link": false
+    }
+  ]
 }

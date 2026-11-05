@@ -1,22 +1,35 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-05T07:34:55.277585+00:00",
+  "scraped_at": "2026-11-05T15:00:54.815248+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6738acd0f407ee13",
-      "author": "Kalle1234",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": "for 43 min siden",
-      "text": "Goldman Sachs höjer riktkursen för Salmar till 710 norska kronor (700), upprepar köp - BN I dag kan vi legge 600 bak oss syns jeg😊",
+      "key": "b072cac39266bf90",
+      "author": "KrisNorwegian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krisnorwegian",
+      "posted_relative": "for 6 t siden",
+      "text": "Hadde vi fått den Cocktailen i tillegg nå, så hadde vinteren blitt artig.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 130,
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "9c7cf7e0d6324025",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 17 min siden",
+      "text": "Tok feil i dag gitt.  Men jeg håper på langt over 600 nærmere jul.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
       "has_link": false
     }
   ]

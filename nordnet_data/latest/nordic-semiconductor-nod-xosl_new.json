@@ -1,9 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-11-05T07:32:26.807996+00:00",
+  "scraped_at": "2026-11-05T14:58:28.557587+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e50473740492768a",
+      "author": "Bull x10",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bull-x10",
+      "posted_relative": "for 6 min siden",
+      "text": "Den følger jo USA dag inn og dag ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "a2f851cb48c5be87",
+      "author": "laetho",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/laetho",
+      "posted_relative": "for 10 min siden",
+      "text": "Hvorfor så mye ned på slutten?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

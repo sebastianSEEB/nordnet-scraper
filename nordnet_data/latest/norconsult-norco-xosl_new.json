@@ -1,9 +1,39 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-05T07:33:42.513937+00:00",
+  "scraped_at": "2026-11-05T14:59:44.269343+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b6420916df2448af",
+      "author": "Pacman75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pacman75",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Var da voldsomt, alltid noen som vil ut her også",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        10
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "e43f32293ecda08b",
+      "author": "BB Investments",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bb-investments",
+      "posted_relative": "for 4 t siden",
+      "text": "Ska me ned på 20 tallet ska man tro?🤔",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-11-05T07:35:35.378832+00:00",
+  "scraped_at": "2026-11-05T15:01:34.303708+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7f587f40400e9db0",
+      "author": "kosen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kosen",
+      "posted_relative": "for 7 t siden",
+      "text": "Enig her. kjøper lit her til i intervall 48-49.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

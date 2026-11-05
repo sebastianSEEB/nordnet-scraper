@@ -1,9 +1,54 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-05T07:33:10.860359+00:00",
+  "scraped_at": "2026-11-05T14:59:12.441482+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3f590c6a0a2cded1",
+      "author": "MaxAlwaysMax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "posted_relative": "for 15 min siden",
+      "text": "WOW WOW WOW HVA SKJER A. HVORFOR STUPER DENNE ETTER SÅ FLOTT OPPGANG.  FØLGER DEN SOLEN OPP- OG NEDGANG?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "941f5a3b1535fd1d",
+      "author": "Stein58",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein58",
+      "posted_relative": "for 6 t siden",
+      "text": "Min GAV er på 201,87, så troa har jeg! Men om den klarer det innen datoen du har satt får tiden vise.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "d42abb06d85eca9e",
+      "author": "MaxAlwaysMax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "posted_relative": "for 6 t siden",
+      "text": "HAR NOEN TRO PÅ KURSEN KAN TANGERE 200 INNEN 31.MARS 2027?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    }
+  ]
 }
