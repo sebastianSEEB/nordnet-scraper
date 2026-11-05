@@ -1,38 +1,51 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-05T00:41:47.585880+00:00",
+  "scraped_at": "2026-11-05T07:36:19.759920+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "6d969a2c1240a3b6",
-      "author": "øyvinda",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yvinda",
-      "posted_relative": "for 7 t siden",
-      "text": "Aker BP-storeier vil selge aksjer verd 11,2 milliarder kroner",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        8
-      ],
-      "links": [],
-      "char_count": 61,
-      "has_link": false
-    },
-    {
-      "key": "3c4c750fc33b47ba",
-      "author": "Kingkongz5",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kingkongz5",
-      "posted_relative": "for 1 t siden",
-      "text": "Faller nok like mye pga kraftig fall i oljeprisen",
+      "key": "3d9cc983b6abde2b",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": "for 8 min siden",
+      "text": "De har jo sagt de skal selge mye av det som er utenfor deres satningområder, men dette er litt for drøyt.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 49,
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "e16fa97211e3e89b",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": "for 24 min siden",
+      "text": "311 kr, fy f.  Bare slå av telefonen for dagen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "df2303965c67b645",
+      "author": "Snakzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
+      "posted_relative": "for 12 min siden",
+      "text": "311 ja, stygt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
       "has_link": false
     }
   ]

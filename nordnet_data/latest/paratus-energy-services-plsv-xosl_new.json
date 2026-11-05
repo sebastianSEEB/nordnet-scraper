@@ -1,9 +1,38 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-11-05T00:39:18.470722+00:00",
+  "scraped_at": "2026-11-05T07:33:47.115841+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f0df1ac1289d02a2",
+      "author": "Kahlim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kahlim",
+      "posted_relative": "for 1 t siden",
+      "text": "Dof fikk bekreftet sin PLSV med Petrobas i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "a5f22df8d4ab0561",
+      "author": "Palleyo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/palleyo",
+      "posted_relative": "for 1 t siden",
+      "text": "Kommer sikkert samme for Jade snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

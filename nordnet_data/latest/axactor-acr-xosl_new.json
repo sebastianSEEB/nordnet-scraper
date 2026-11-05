@@ -1,9 +1,27 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-05T00:43:14.156201+00:00",
+  "scraped_at": "2026-11-05T07:37:46.956449+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "64362d2738bb5654",
+      "author": "Calvat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/calvat",
+      "posted_relative": null,
+      "text": "1. nov. · https://open.spotify.com/episode/30mMPiqMeP2gWxJamP78Lm?si=V44kq0qARqS2q0D1y_nCtA&utm_source=copy-link&t=1862&pi=ImjyDGaNRCGx7",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://open.spotify.com/episode/30mMPiqMeP2gWxJamP78Lm?si=V44kq0qARqS2q0D1y_nCtA&utm_source=copy-link&t=1862&pi=ImjyDGaNRCGx7"
+      ],
+      "char_count": 136,
+      "has_link": true
+    }
+  ]
 }

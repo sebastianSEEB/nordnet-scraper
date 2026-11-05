@@ -1,22 +1,37 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-05T00:41:51.562426+00:00",
+  "scraped_at": "2026-11-05T07:36:23.780881+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 11,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a9a83d56745700cd",
-      "author": "mr.parker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrparker-1",
-      "posted_relative": "for 2 t siden",
-      "text": "· Vel, det var et enkelt demp. Takk.",
+      "key": "048fa08e8bbf4ea1",
+      "author": "@knoskar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knoskar",
+      "posted_relative": null,
+      "text": "kjøpte på 150 og solgte til 133? - spør for en venn :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "4eddd4ab397d896b",
+      "author": "Android",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/android",
+      "posted_relative": "for 38 min siden",
+      "text": "Er denne misnøyen relatert til at",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 36,
+      "char_count": 33,
       "has_link": false
     }
   ]

@@ -1,9 +1,40 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-05T00:40:28.561839+00:00",
+  "scraped_at": "2026-11-05T07:34:59.250910+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bb1d1038963918ee",
+      "author": "TexasTS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texasts",
+      "posted_relative": "for 58 min siden",
+      "text": "Enig, dette er positivt for KMAR. Men markedet er ikke alltid logisk. Håper på et oppsving i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    },
+    {
+      "key": "7a5811ad2efa7167",
+      "author": "TexasTS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texasts",
+      "posted_relative": "for 12 t siden",
+      "text": "Det spørs om ikke hele børsen blir dratt med i oljefallet i morgen? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    }
+  ]
 }

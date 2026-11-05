@@ -1,9 +1,23 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-11-05T00:43:33.603857+00:00",
+  "scraped_at": "2026-11-05T07:38:07.286002+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "819c53a560cd07c3",
+      "author": "turnaraound123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turnaraound123",
+      "posted_relative": "for 1 t siden",
+      "text": "· 🚀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

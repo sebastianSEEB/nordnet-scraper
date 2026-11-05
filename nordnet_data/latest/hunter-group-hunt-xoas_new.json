@@ -1,50 +1,65 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-05T00:41:27.427608+00:00",
+  "scraped_at": "2026-11-05T07:35:59.330335+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "39d6c65744db1f7a",
-      "author": "Proffen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
-      "posted_relative": "for 4 t siden",
-      "text": "Brent olje nå i 95$, ned 8%….",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 29,
-      "has_link": false
-    },
-    {
-      "key": "6a1bb851ac31eebe",
-      "author": "Rivol",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivol",
-      "posted_relative": "for 7 t siden",
-      "text": "Blodbad i morgen.",
+      "key": "6ff07623999a1b61",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 36 min siden",
+      "text": "Blir spennende å følge med rundt 8.–10. november. Da får vi kanskje svar på om Mercuria har betalt oktober fullt ut, eller om de fortsatt holder tilbake penger. Etter Bloomberg-nyheten kan dette bli en viktig trigger for HUNT. 😊",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        4
       ],
       "links": [],
-      "char_count": 17,
+      "char_count": 228,
       "has_link": false
     },
     {
-      "key": "488b4747c3b56931",
-      "author": "Chrissern.",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrissern-1",
-      "posted_relative": "for 3 t siden",
-      "text": "· Hvorfor?",
+      "key": "7c6de4ed26d4e5a9",
+      "author": "Binga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
+      "posted_relative": "for 56 min siden",
+      "text": "Må huske på at i urolige tider er utbyttecaset gull verdt selv med om det skulle bli tap eller forlik mot/med Mercuria. Om Hunter faller mye, så er det jo bare å kjøpe seg inn mer :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 183,
+      "has_link": false
+    },
+    {
+      "key": "ab86d9abf09d7788",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 5 min siden",
+      "text": "Det blir nok ned til 16 tallet idag",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 10,
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "2ef9719f8e3f5a27",
+      "author": "Terne2000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terne2000",
+      "posted_relative": "for 15 t siden",
+      "text": "· Jeg har heller ikke falt overbord",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
       "has_link": false
     }
   ]
