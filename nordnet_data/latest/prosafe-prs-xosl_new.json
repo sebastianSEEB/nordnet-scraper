@@ -1,39 +1,65 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-05T16:02:15.880311+00:00",
+  "scraped_at": "2026-11-05T21:48:15.769172+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "2c8c06dfc68a1150",
-      "author": "Ikke peilling",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ikke-peilling",
-      "posted_relative": "for 18 min siden",
-      "text": "· Vi bør være glade for at vi ikke har ai aksjer i dag :)",
+      "key": "a177fa1dbb510f55",
+      "author": "SJO73",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjo73",
+      "posted_relative": "for 5 t siden",
+      "text": "Tror du har rett tybring! Med så lite volum kan det umulig være de proffe store aktørene som selger.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 57,
+      "char_count": 100,
       "has_link": false
     },
     {
-      "key": "180a9618bcc2fd03",
-      "author": "EmilMathias",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emilmathias",
-      "posted_relative": "for 43 min siden",
-      "text": "Hva skjer her da? Vis 1 kommentar til",
+      "key": "0eaec7f1e481ac9a",
+      "author": "pennyinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennyinvest",
+      "posted_relative": "for 9 t siden",
+      "text": "Hva er den nærmeste triggeren her sånn realistisk sett?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         3
       ],
       "links": [],
-      "char_count": 37,
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "e6f57f50f6cc2b2b",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 44 min siden · Endret",
+      "text": "Her finnes en stor selger",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    },
+    {
+      "key": "63b0effbcb9d85ea",
+      "author": "EmilMathias",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emilmathias",
+      "posted_relative": "for 6 t siden",
+      "text": "Hva skjer her da?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 17,
       "has_link": false
     }
   ]

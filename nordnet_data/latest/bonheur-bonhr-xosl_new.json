@@ -1,9 +1,39 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-11-05T16:00:29.322422+00:00",
+  "scraped_at": "2026-11-05T21:46:29.465128+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3e225ed0ba5630e9",
+      "author": "börsnestor78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsnestor78",
+      "posted_relative": "for 3 t siden",
+      "text": "· Det er jo hyggelig at han har kjøpt. Med de strømprisene vi ser nå, og at i prinsippet ingen ny vesentlig kapasitet tilkommer i nær fremtid, medfører det at det blir mangel på strøm når hele transportsektoren skal bruke fossilfri strøm + datasentre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 251,
+      "has_link": false
+    },
+    {
+      "key": "6e8be000304f0066",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 5 t siden",
+      "text": "· Gaute Kristian Gjelsten, styreleder i Bonheur ASA, har den 5. november 2026 kjøpt 7 407 aksjer i Bonheur ASA til en gjennomsnittspris på NOK 264 per aksje",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    }
+  ]
 }

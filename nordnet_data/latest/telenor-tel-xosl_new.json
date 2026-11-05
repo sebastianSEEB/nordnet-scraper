@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-05T15:59:52.331612+00:00",
+  "scraped_at": "2026-11-05T21:45:53.791310+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6380d9d67a129268",
+      "author": "norfredrik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/norfredrik",
+      "posted_relative": "for 2 t siden",
+      "text": "Har snitt på 126,9,- og synes det går greit hittil!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

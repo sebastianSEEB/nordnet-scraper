@@ -1,9 +1,39 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-11-05T15:56:31.813100+00:00",
+  "scraped_at": "2026-11-05T21:42:35.706169+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c170ec3bcd1f0c58",
+      "author": "Shesai",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shesai",
+      "posted_relative": "for 4 t siden",
+      "text": "Stort innsidekjøp. Det liker vi🤩",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    },
+    {
+      "key": "aff8877155052913",
+      "author": "gnumf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnumf",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvem var det?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }

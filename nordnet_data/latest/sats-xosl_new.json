@@ -1,9 +1,38 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-05T15:58:47.152468+00:00",
+  "scraped_at": "2026-11-05T21:44:50.654380+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8fa0e0759520ea56",
+      "author": "Michi13",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michi13",
+      "posted_relative": "for 8 t siden",
+      "text": "Var vi ikke enig om at den skal gå over 50? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    },
+    {
+      "key": "c0a7b00616e8ed95",
+      "author": "aksjesimen33",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjesimen33",
+      "posted_relative": "for 3 t siden",
+      "text": "Virker ikke som CPOO er enig i hvert fall.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

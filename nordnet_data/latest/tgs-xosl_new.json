@@ -1,22 +1,38 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-11-05T15:58:31.225684+00:00",
+  "scraped_at": "2026-11-05T21:44:35.127726+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "6b51ca949409a9aa",
-      "author": "vikpat",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vikpat",
-      "posted_relative": "for 25 min siden",
-      "text": "· Dette kommer ikke opp før markedet ser de ekte tallene. Ærlig talt har markedet sluttet å tro på Kristian Johansens løfter, han har sagt det samme \"markedet forbedrer seg, bla bla bla\" i mer enn 2-3 år.",
+      "key": "a8496e2b6a72d8f0",
+      "author": "fattiglusen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusen",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Jaja.. Da blir det ny rød dag i morgen. Ikke måte på fall i oljeprisen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "11e99422710549e6",
+      "author": "Lind2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lind2",
+      "posted_relative": "for 2 t siden",
+      "text": "· Olje opp igjen .... @",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 204,
+      "char_count": 23,
       "has_link": false
     }
   ]

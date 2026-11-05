@@ -1,9 +1,38 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-05T15:56:03.429758+00:00",
+  "scraped_at": "2026-11-05T21:42:07.966320+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c1be8c04564d67e5",
+      "author": "Brick100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brick100",
+      "posted_relative": "for 8 t siden",
+      "text": "Nedover igjen i dag. Er det short som øker bet'et? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "17ebda00ecb725cd",
+      "author": "Ljaand",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ljaand",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvaler er long, unødvendig å spekulere i det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

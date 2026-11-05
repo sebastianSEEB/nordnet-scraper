@@ -1,22 +1,67 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-05T16:02:03.774610+00:00",
+  "scraped_at": "2026-11-05T21:48:03.647675+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "bdf388a392a22230",
-      "author": "Bypaxx",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
-      "posted_relative": "for 40 min siden",
-      "text": "Tror vi må holde ut til slutet av November.",
-      "reply_count": 1,
+      "key": "4cd25c96cc1fad75",
+      "author": "LarsInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsinvest-1",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Byron Fitzgerald argumenterer for at den virkelige flaskehalsen og verdien i Pb-212-markedet ikke ligger i selve isotopen, men i nettverket som kan levere den i tide. Se videoen på lenken under her. Hovedpoengene hans: Pb-212 «venter ikke». Halveringstiden er bare 10,6 timer, så etter én dag i transport er det meste borte. Du kan derfor ikke produsere det på ett sted og sende det over hele verden, dosen må lages regionalt og leveres innen ca. ett døgn. Nye IAEA-regler gjør frakt mye vanskeligere. A2-verdien for Pb-212 i Type A-pakker har falt kraftig (ca. 222 ganger), så du kan sende langt færre doser i én standardpakke. Det øker kostnadene og kompleksiteten. Løsningen er nettverk. Th-228 (halveringstid ~1,9 år) kan lagres og planlegges, og brukes i generatorer for å lage Pb-212 nær der det skal brukes. Derfor blir de to viktigste tingene:   Sikker tilgang på parent-isotop (Th-228)    Kvalifiserte regionale doseringssteder som kan levere innen tidsvinduet Nettverkene bygges før godkjenning. Ingen Pb-212-medisin er godkjent ennå, men de mest avanserte er på vei mot Phase 3. De som bygger eller sikrer seg et fungerende nettverk av doseringssteder nå, vil sitte på den knappe ressursen når de første medisinene blir godkjent. https://lnkd.in/p/epSGextm",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [
+        "https://lnkd.in/p/epSGextm"
+      ],
+      "char_count": 1267,
+      "has_link": true
+    },
+    {
+      "key": "02fdabef4fda26a0",
+      "author": "vehaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vehaa",
+      "posted_relative": "for 15 min siden",
+      "text": "Sikkert nervøst marked i morgen. Men tror ikke det vil påvirke så mye. Mulig det blir en litt ruskete start. Psykologi!",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 43,
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "65181158c8c49277",
+      "author": "TERROR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terror",
+      "posted_relative": "for 23 min siden · Endret",
+      "text": "Hvilke tanker gjør du deg om morgendagen, sett i lys av dagens Nasdaq-fall?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "a16188a8c4be4f3e",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 2 t siden",
+      "text": "Hørte om noen som vandret i ørkenen i 40 år en gang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
       "has_link": false
     }
   ]
