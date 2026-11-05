@@ -1,80 +1,50 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-04T19:06:10.113592+00:00",
+  "scraped_at": "2026-11-05T00:41:27.427608+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 5,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "ebcadded53a47ded",
-      "author": "andybreak",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andybreak",
-      "posted_relative": "for 2 t siden",
-      "text": "· VLCC spot tikker lavere. VLCC FFA, Suez og Afra spot🔨ned.  VLCC TD3C FFA ned 3%/22% for Nov/Q1🔨 TD3C TCE (AG>CN) -14k til 1 324➡️ TD22 TCE (US>CN) -20k til 477k↘️ SUEZ TCE AVG -59k til 421k🔨 AFRA TCE AVG -21k til 226k⏬ BWET ned 15%🔨 $HUNT $CAPT $DHT $ECO $FRO $BWET [#OOTT](<https://twitter.com/hashtag/OOTT>)",
+      "key": "39d6c65744db1f7a",
+      "author": "Proffen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
+      "posted_relative": "for 4 t siden",
+      "text": "Brent olje nå i 95$, ned 8%….",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "6a1bb851ac31eebe",
+      "author": "Rivol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivol",
+      "posted_relative": "for 7 t siden",
+      "text": "Blodbad i morgen.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        5
       ],
-      "links": [
-        "https://twitter.com/hashtag/OOTT>)"
-      ],
-      "char_count": 311,
-      "has_link": true
+      "links": [],
+      "char_count": 17,
+      "has_link": false
     },
     {
-      "key": "d83d95a5757bd2ee",
-      "author": "nopetter",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Dere ser hammeren raten ble banket ned med 14000 usd, nå er all oppturen fra forrige uke utradert. BWET ETF Futuren falt med 15% VLCC spot tick lower. VLCC FFA, Suez and Afra spot🔨down.  VLCC TD3C FFA down 3%/22% for Nov/Q1🔨 TD3C TCE (AG>CN) -14k to 1,324➡️ TD22 TCE (US>CN) -20k to 477k↘️ SUEZ TCE AVG -59k to 421k🔨 AFRA TCE AVG -21k to 226k⏬",
+      "key": "488b4747c3b56931",
+      "author": "Chrissern.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chrissern-1",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hvorfor?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 343,
-      "has_link": false
-    },
-    {
-      "key": "fb66c4c3ff04a364",
-      "author": "trubaduren64",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trubaduren64",
-      "posted_relative": null,
-      "text": "Mindre enn ett minutt siden Vi må bare ha is i magen litt til.  Så snart det lekker nytt fra rettsaken, forventer vi en positiv oppsving igjen",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 142,
-      "has_link": false
-    },
-    {
-      "key": "d967e68e7ea16689",
-      "author": "Rivol",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivol",
-      "posted_relative": "for 42 min siden",
-      "text": "Tipper denne rotta får kjørt seg i morgen.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 42,
-      "has_link": false
-    },
-    {
-      "key": "dbce44e9ea3d9ea4",
-      "author": "Rivol",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivol",
-      "posted_relative": "for 1 t siden",
-      "text": "Blodbad i morgen. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 37,
+      "char_count": 10,
       "has_link": false
     }
   ]
