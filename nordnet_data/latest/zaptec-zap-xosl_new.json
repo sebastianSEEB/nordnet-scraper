@@ -1,88 +1,25 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-06T14:37:17.117635+00:00",
+  "scraped_at": "2026-11-06T16:29:21.180347+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 5,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "0d51fbc918d347ab",
-      "author": "zappaphone",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
-      "posted_relative": "for 3 min siden",
-      "text": "1 363 414 \t1,55% \t05.11.2026 1 480 627 \t1,69% \t04.11.2026 1 311 930 \t1,49% \t20.10.2026 1 340 113 \t1,53% \t07.10.2026 1 248 877 \t1,42% \t06.10.2026 https://ssr.finanstilsynet.no/Home/Details/NO0010713936",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://ssr.finanstilsynet.no/Home/Details/NO0010713936"
-      ],
-      "char_count": 200,
-      "has_link": true
-    },
-    {
-      "key": "0c50193109820352",
+      "key": "9df1e3753a16da71",
       "author": "Cheapo",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
-      "posted_relative": "for 5 t siden · Endret",
-      "text": "· Det ser ut som salgspresset har avtatt. Det blir interessant å se om Citadel har stengt eller vesentlig redusert sin shortposisjon.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 133,
-      "has_link": false
-    },
-    {
-      "key": "04a158a6a1790e9c",
-      "author": "Scoutbobbafett",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/scoutbobbafett",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Kan se ut som amerikanske børser planlegger et forsiktig dytt i ettermiddag, lov å håpe at dette ikke avslutter ned i dag",
-      "reply_count": 3,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 121,
-      "has_link": false
-    },
-    {
-      "key": "b64805d678f549f5",
-      "author": "Cheapo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
-      "posted_relative": "for 3 min siden · Endret",
-      "text": "· Citadel har redusert sin korte posisjon i henhold til Finanstilsynets shortregister.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 86,
-      "has_link": false
-    },
-    {
-      "key": "07881067f2a69342",
-      "author": "Ane_Rikke",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ane_rikke",
-      "posted_relative": "for 5 t siden",
-      "text": "Gøy på en anstrengt dag på verdens børser",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Citadel has reduced its short position by 117 000 shares according to Finanstilsynets short register.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         6,
-        9
+        1
       ],
       "links": [],
-      "char_count": 41,
+      "char_count": 101,
       "has_link": false
     }
   ]

@@ -1,160 +1,68 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-06T14:43:02.275144+00:00",
+  "scraped_at": "2026-11-06T16:35:03.470275+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 10,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "7e89eb862f3cf46f",
-      "author": "LarsInvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsinvest-1",
-      "posted_relative": "for 7 min siden · Endret",
-      "text": "GSA har økt shorten med 360k aksjer igår GSA CAPITAL PARTNERS LLP 2 536 745 0,60% 05.11.2026 TWO SIGMA INVESTMENTS, LP 3 716 342 1,03% 09.09.2026 SUM 6 253 087 1,63% https://ssr.finanstilsynet.no/Home/Details/NO0010597883",
+      "key": "224c7954e052d314",
+      "author": "Selskapslek",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
+      "posted_relative": "for 36 min siden",
+      "text": "Økning på 0,09 prosent. Foretrekker denne, fordi jeg har laget den selv, og mer oppsummerende med grafer og historikk: https://shortaksjer.netlify.app/ Short nå er 1,63 %, fordelt på 2 aktører. Det gir 20. plass av de 43 aksjene som har offentlig short nå, opp fra 24. plass for en måned siden. Nivået er godt over snittet for siste år, som er 0,38 %. Det er samtidig det høyeste som er registrert i perioden. Siste melding kom 5. nov. 2026.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
+      "engagement_numbers": [],
       "links": [
-        "https://ssr.finanstilsynet.no/Home/Details/NO0010597883"
+        "https://shortaksjer.netlify.app/"
       ],
-      "char_count": 221,
+      "char_count": 441,
       "has_link": true
     },
     {
-      "key": "bf13074463247e9f",
-      "author": "Tudor2",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tudor2",
-      "posted_relative": "for 5 t siden · Endret",
-      "text": "Jeg ler jo masse av disse «fylle på, Black week tilbud» osv. men det er faktisk gode muligheter ser man mot harde fakta. Fabrikk i gang, råstoff utleveres, emisjon gjennomført, satsning mot USA, 300 mill osv, Når kursen stod i 7 kr var ingenting av nevnte positive hendelser i mål!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        10,
-        9
-      ],
-      "links": [],
-      "char_count": 281,
-      "has_link": false
-    },
-    {
-      "key": "327ef5bad0f6abf1",
-      "author": "Jackpoot",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpoot",
-      "posted_relative": "for 4 t siden",
-      "text": "Det skulle bare mangle om den ikke starter i grønt i dag med den nedgangen det var i går Jeg er mer spent på hvordan den slutter i dag Jeg har et lodd her, og kjøper mer hvis det skulle gå mye ned Har troen på denne aksjen på sikt",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 230,
-      "has_link": false
-    },
-    {
-      "key": "9f21fa8b00684b4c",
-      "author": "EmilMathias",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emilmathias",
-      "posted_relative": "for 3 t siden",
-      "text": "Hvem er så dum at dem selger for 3,7? Å selge seg ut av denne aksjen med så mye vekstpotensiale må være noe av det dummeste man kan gjøre. God helg.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        9,
-        12
-      ],
-      "links": [],
-      "char_count": 148,
-      "has_link": false
-    },
-    {
-      "key": "105cd55be1e645b6",
-      "author": "Tudor2",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tudor2",
-      "posted_relative": "for 4 t siden",
-      "text": "Dette er ikke en post som sier «fyller på» osv. Poenget er bare at selskapet står mye bedre posisjonert til enn noen gang.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 122,
-      "has_link": false
-    },
-    {
-      "key": "844d4a51d0e1a8a7",
-      "author": "ro-te",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
-      "posted_relative": "for 9 min siden",
-      "text": "Tenker Thor blir sett på som en trygg havn, Og det er jo litt artig 👍",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 69,
-      "has_link": false
-    },
-    {
-      "key": "18e491715f0852a9",
-      "author": "vehaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vehaa",
-      "posted_relative": "for 4 t siden",
-      "text": "Grønt i USA på futures. Ingen grunn til å kaste hodet i Norge 😅",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5,
-        1
-      ],
-      "links": [],
-      "char_count": 63,
-      "has_link": false
-    },
-    {
-      "key": "e0d90cc848876ae8",
-      "author": "Allrounder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allrounder",
+      "key": "65977561876910f5",
+      "author": "DonnieB.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donnieb-1",
       "posted_relative": "for 1 t siden",
-      "text": "Da er vi grønne igjen, hva var alt det maset om",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        11,
-        5
-      ],
-      "links": [],
-      "char_count": 47,
-      "has_link": false
-    },
-    {
-      "key": "9a85b1127631c769",
-      "author": "Knurreinvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knurreinvest",
-      "posted_relative": "for 1 t siden",
-      "text": "Satt kaffen i halsen når jeg så det fallet der.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 47,
-      "has_link": false
-    },
-    {
-      "key": "2dc451fd14e2c576",
-      "author": "Stupfull",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stupfull",
-      "posted_relative": "for 4 min siden",
-      "text": "De regnet vel med et blodbad i dag da.....",
+      "text": "Mulig vi her litt forskjellig syn på begrepet rakett 🚀. Uansett, god helg🥂",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 42,
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "a4c97654ed32c3fa",
+      "author": "TicTacToe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tictactoe",
+      "posted_relative": "for 1 t siden",
+      "text": "Faens rakett Jeg vil bunnfiske her!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "beb646b2a00540be",
+      "author": "Pohatta Paukku",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pohatta-paukku",
+      "posted_relative": "for 1 t siden",
+      "text": "· Vi er så tilbake!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 19,
       "has_link": false
     }
   ]

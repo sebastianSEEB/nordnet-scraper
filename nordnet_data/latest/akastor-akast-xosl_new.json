@@ -1,66 +1,22 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-11-06T14:40:17.893198+00:00",
+  "scraped_at": "2026-11-06T16:32:20.706025+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "2c2e28643b561841",
+      "key": "350e1d7c1662ddd1",
       "author": "Baretap12",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-      "posted_relative": "for 3 t siden",
-      "text": "Innlegget er slettet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        7
-      ],
-      "links": [],
-      "char_count": 21,
-      "has_link": false
-    },
-    {
-      "key": "d0f50695c3621823",
-      "author": "NewbieKris",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/newbiekris",
-      "posted_relative": "for 3 t siden",
-      "text": "Tilbake til 0 ja😂",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 17,
-      "has_link": false
-    },
-    {
-      "key": "061ab10e50948f7a",
-      "author": "Baretap12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-      "posted_relative": "for 50 min siden",
-      "text": "Kondolerer",
-      "reply_count": null,
+      "posted_relative": "for 1 t siden",
+      "text": "Kommentaren er slettet.",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 10,
-      "has_link": false
-    },
-    {
-      "key": "e103c79e7eba64ec",
-      "author": "Baretap12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-      "posted_relative": "for 28 min siden",
-      "text": "· Null?",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 7,
+      "char_count": 23,
       "has_link": false
     }
   ]
