@@ -1,9 +1,39 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-06T08:48:14.686721+00:00",
+  "scraped_at": "2026-11-06T14:40:41.370338+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a11563c92fa0c4cc",
+      "author": "alfa ulven steinar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alfa-ulven-steinar",
+      "posted_relative": "for 7 min siden",
+      "text": "Jeg personlig venter til den faller mer. Solgte just ut ved 324. Blir nok å kjøpe meg inn igjen om den dipper ned mot 300/310",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "b01489324c4decf6",
+      "author": "MariusHN01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariushn01",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Har frigjort litt midler, er det dumt å kjøpe seg inn hær nå? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        12
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    }
+  ]
 }

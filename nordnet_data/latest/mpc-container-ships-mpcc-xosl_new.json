@@ -1,9 +1,51 @@
 {
   "slug": "mpc-container-ships-mpcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/mpc-container-ships-mpcc-xosl",
-  "scraped_at": "2026-11-06T08:43:48.867827+00:00",
+  "scraped_at": "2026-11-06T14:36:13.829027+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e1a75b469263b078",
+      "author": "secretmonocle",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/secretmonocle",
+      "posted_relative": "for 9 min siden",
+      "text": "Caset er fortsatt bra - er bare annen børspanikk som drar denne med seg i dragesuget. Kan absolutt gå videre nedover, men personlig setter jeg sjøbein ⚓️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "c024fef09ef3b3ca",
+      "author": "mormomor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mormomor",
+      "posted_relative": "for 3 t siden",
+      "text": "· Kva er dine handlingar på middels sikt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "14cdaf562d583396",
+      "author": "Jarlekaltv.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jarlekaltv",
+      "posted_relative": "for 23 min siden",
+      "text": "Blir neste uke grønn?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

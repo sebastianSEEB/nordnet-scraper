@@ -1,9 +1,23 @@
 {
   "slug": "bevest-bint-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bevest-bint-xosl",
-  "scraped_at": "2026-11-06T08:50:19.561936+00:00",
+  "scraped_at": "2026-11-06T14:42:47.088625+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "098f269f7235b3b1",
+      "author": "Steffo01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffo01",
+      "posted_relative": "for 5 t siden",
+      "text": "På den ene siden så burte man ha kjøpt denne. På den andre siden så er det så skummelt med aksjer som det nesten ikke er omsetning i? Hvordan tenker dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 154,
+      "has_link": false
+    }
+  ]
 }

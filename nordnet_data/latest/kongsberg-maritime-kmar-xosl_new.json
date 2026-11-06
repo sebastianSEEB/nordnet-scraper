@@ -1,54 +1,85 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-06T08:47:01.977671+00:00",
+  "scraped_at": "2026-11-06T14:39:30.883291+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "a6d02e6e00766b7e",
-      "author": "TexasTS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/texasts",
-      "posted_relative": "for 50 min siden · Endret",
-      "text": "Et annet poeng er at nå som tek og olje står som det gjør, fremstår KMAR som en oase i ørkenen…",
+      "key": "11d32fa440a360a4",
+      "author": "DividendDynasty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/tdn/2026/11/06/06614271/kongsberg-maritime-kontrakt-med-equinor-for-wisting Oslo (Infront TDN Direkt): Kongsberg Maritime er tildelt en kontrakt av Equinor for sikkerhets- og automasjonssystemene til Wisting-feltutbyggingen i Barentshavet. Det fremgår av en melding fredag. I første fase skal Kongsberg Maritime levere ingeniør- og designarbeid knyttet til sikkerhets- og automasjonssystemene på det flytende produksjons-, lagrings- og lossefartøyet (FPSO) som skal bygges for feltet. Dersom Wisting-prosjektet går videre til gjennomføringsfasen, vil selskapets leveranser omfatte teknologi og tjenester innen prosesskontroll, sikkerhetssystemer, digital infrastruktur og cybersikkerhet.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        16,
         1
       ],
-      "links": [],
-      "char_count": 95,
-      "has_link": false
-    },
-    {
-      "key": "51d3e8282d885c13",
-      "author": "Pertti Törnman",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pertti-tornman",
-      "posted_relative": "for 22 min siden · Endret",
-      "text": "· Noen årsak til at den blir presset ned så voldsomt? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
+      "links": [
+        "https://www.finansavisen.no/tdn/2026/11/06/06614271/kongsberg-maritime-kontrakt-med-equinor-for-wisting"
       ],
-      "links": [],
-      "char_count": 73,
-      "has_link": false
+      "char_count": 715,
+      "has_link": true
     },
     {
-      "key": "9001f5ca3c4bd816",
+      "key": "1458e88e4a288850",
       "author": "neeskens",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 18 min siden",
-      "text": "Roboter som utnytter momentum",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Det må du vente til de er ferdig med 2026. 30 milliarder i ordrebok og økende.. utbytte blir det ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "02e2e6b695245855",
+      "author": "Pertti Törnman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pertti-tornman",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "· Noen årsak til at den blir presset ned så voldsomt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "b40b5e80677a9612",
+      "author": "erikangell",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erikangell",
+      "posted_relative": "for 1 t siden",
+      "text": "Spennende å se hva kontraktsverdien er på",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "ff6bbf8e5c12cc44",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 4 t siden",
+      "text": "Mere olje ut og mere kmar inn.. long",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 29,
+      "char_count": 36,
       "has_link": false
     }
   ]

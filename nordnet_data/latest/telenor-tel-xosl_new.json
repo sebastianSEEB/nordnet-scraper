@@ -1,9 +1,55 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-06T08:48:26.538781+00:00",
+  "scraped_at": "2026-11-06T14:40:53.616633+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "372abef716bcb04b",
+      "author": "rulp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rulp",
+      "posted_relative": "for 2 t siden",
+      "text": "Kan trøste deg med at jeg har en GAV på 164,- og sitter rolig i båten. Med langsiktig investering i tankene så tåler man en del svingninger, samt med stabilt utbytte føler jeg det er verdt å holde.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 197,
+      "has_link": false
+    },
+    {
+      "key": "468762909538a931",
+      "author": "ContraContrarian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/contracontrarian",
+      "posted_relative": null,
+      "text": "2. nov. Kursmål 130 med kjøpsanbefaling? Hva er logikken bak at de går fra nøytral til kjøp med kursmål 130 når kursen er ~132  nå?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "1c8088d8922395d4",
+      "author": "knoskar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knoskar",
+      "posted_relative": "for 2 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        10
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

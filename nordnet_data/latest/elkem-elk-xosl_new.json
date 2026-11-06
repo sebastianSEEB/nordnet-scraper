@@ -1,9 +1,41 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-11-06T08:45:24.904014+00:00",
+  "scraped_at": "2026-11-06T14:37:52.883929+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f9f19e5f8e8da334",
+      "author": "LiljaMatta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/liljamatta",
+      "posted_relative": null,
+      "text": "2. nov. Elkem på Island har nettop underskivet fornyelse på strømkontrakt til 2039",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        3
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "0a756d9b0ac801fc",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": null,
+      "text": "2. nov. Påfylldag i dag?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

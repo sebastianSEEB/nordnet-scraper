@@ -1,9 +1,40 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-11-06T08:49:10.432673+00:00",
+  "scraped_at": "2026-11-06T14:41:37.252198+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ba9630d6cfb63fab",
+      "author": "ranilsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ranilsen",
+      "posted_relative": "for 15 min siden",
+      "text": "Nrk kontrakt på 2,8 milliarder! https://e24.no/bors/nyheter/a/306158?pinnedEntry=306158",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/bors/nyheter/a/306158?pinnedEntry=306158"
+      ],
+      "char_count": 87,
+      "has_link": true
+    },
+    {
+      "key": "08e03bacf301c51e",
+      "author": "Murrinho",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/murrinho",
+      "posted_relative": "for 2 t siden",
+      "text": "· Der kom den🥳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

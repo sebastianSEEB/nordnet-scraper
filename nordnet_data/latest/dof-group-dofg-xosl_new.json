@@ -1,24 +1,55 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-06T08:45:05.473608+00:00",
+  "scraped_at": "2026-11-06T14:37:32.990622+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "4561905ebb0e13a5",
-      "author": "Fisker94",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
-      "posted_relative": "for 32 min siden",
-      "text": "DOF dundrer ned idag igjenn.. kansje det blir litt påfyll før neste fredag 😬",
+      "key": "6fd1cc7a89f36e59",
+      "author": "Driftsentralen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/driftsentralen",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Følger tett med på denne aksjen, vi nærmer oss bunn. Da er det kun 1 ting å gjøre 🙈🎯 https://oslo-trader.com",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [
+        "https://oslo-trader.com"
+      ],
+      "char_count": 108,
+      "has_link": true
+    },
+    {
+      "key": "4e7dbfee1a22f877",
+      "author": "KjekkeLeif",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkeleif",
+      "posted_relative": "for 1 t siden",
+      "text": "Fyller på mer, hvis den holder seg under 125 frem til jeg får lønning.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 76,
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "2401e09f064dd9c1",
+      "author": "jvtran",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jvtran",
+      "posted_relative": "for 5 t siden",
+      "text": "allerede fylt på. Ikke noen grunn å vente på en slik gavepakke :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
       "has_link": false
     }
   ]

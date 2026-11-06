@@ -1,9 +1,36 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-06T08:48:42.101812+00:00",
+  "scraped_at": "2026-11-06T14:41:09.545054+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cb93ec22d057b2b2",
+      "author": "TWOWS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
+      "posted_relative": "for 3 t siden",
+      "text": "Verden trenger ikke mat. Vi trenger roboter som ikke spiser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "6d63f558cdb38bb7",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 4 t siden",
+      "text": "Det er bare å laste opp flere aksjer :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

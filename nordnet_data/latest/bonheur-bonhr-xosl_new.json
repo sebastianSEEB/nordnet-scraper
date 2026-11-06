@@ -1,22 +1,40 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-11-06T08:49:02.378548+00:00",
+  "scraped_at": "2026-11-06T14:41:29.447984+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "974dbaec5d8b9633",
+      "key": "742383dc705740e2",
       "author": "Sky is the limit",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
-      "posted_relative": null,
-      "text": "2. nov. Hurra hvor det går......både forrige uke og idag.....271 pr. kl. 09.42",
+      "posted_relative": "for 22 t siden",
+      "text": "· Gaute Kristian Gjelsten, styreleder i Bonheur ASA, har den 5. november 2026 kjøpt 7 407 aksjer i Bonheur ASA til en gjennomsnittspris på NOK 264 per aksje Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        2
+      ],
       "links": [],
-      "char_count": 78,
+      "char_count": 176,
+      "has_link": false
+    },
+    {
+      "key": "078cb46f4eb8d8a2",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": "for 5 t siden",
+      "text": "Lave vannmagasiner i både Sør-Norge og Sør-Sverige, pluss noenlunde det samme i Skottland, er gull verdt for Bonheur. Q4 og Q1/27 betyr vann på mølla.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 150,
       "has_link": false
     }
   ]
