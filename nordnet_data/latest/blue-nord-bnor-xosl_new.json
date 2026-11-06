@@ -1,22 +1,77 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-06T16:29:01.368026+00:00",
+  "scraped_at": "2026-11-06T21:52:51.105960+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "b8ae7ab0d0833bb1",
-      "author": "FatBobx",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fatbobx",
-      "posted_relative": "for 51 min siden",
-      "text": "· 🫡",
+      "key": "1d9a411374455cc8",
+      "author": "peezy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peezy",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "De satser vel på at de kan få kjøpt Vår billigere enn dagens kurs etter fusjon. Det tror jeg også. Oljepris normalisert rundt 55-65$=Vår rundt 35-40kr",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 3,
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "d00497dad6a5f9e0",
+      "author": "Sunnasunna1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnasunna1",
+      "posted_relative": "for 4 t siden",
+      "text": "· Nå, hvordan skal man tenke? Blir det noen oppgang før sammenslåingen tro? Så lurer man på om man skal bli værende i Blue Nord",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "6f69c0d7ab58fa88",
+      "author": "TWilson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twilson",
+      "posted_relative": "for 4 t siden",
+      "text": "· Spør bare litt, er nokså ny Betyder det at du har solgt noen av aksjene til 620 og så kjøpt igjen billigere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "322a957c479ea85b",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": "for 4 t siden",
+      "text": "· Det er bekymrende at det er så mange store institusjoner som tar hjem penger nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "e37ebc19f5d6f10d",
+      "author": "Petrov69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/petrov69",
+      "posted_relative": "for 5 t siden",
+      "text": "De som tar oljelevering danser på bordet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
       "has_link": false
     }
   ]

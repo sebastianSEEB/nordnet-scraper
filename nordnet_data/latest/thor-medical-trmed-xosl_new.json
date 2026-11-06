@@ -1,68 +1,38 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-06T16:35:03.470275+00:00",
+  "scraped_at": "2026-11-06T21:58:50.737187+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "224c7954e052d314",
-      "author": "Selskapslek",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
-      "posted_relative": "for 36 min siden",
-      "text": "Økning på 0,09 prosent. Foretrekker denne, fordi jeg har laget den selv, og mer oppsummerende med grafer og historikk: https://shortaksjer.netlify.app/ Short nå er 1,63 %, fordelt på 2 aktører. Det gir 20. plass av de 43 aksjene som har offentlig short nå, opp fra 24. plass for en måned siden. Nivået er godt over snittet for siste år, som er 0,38 %. Det er samtidig det høyeste som er registrert i perioden. Siste melding kom 5. nov. 2026.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://shortaksjer.netlify.app/"
-      ],
-      "char_count": 441,
-      "has_link": true
-    },
-    {
-      "key": "65977561876910f5",
-      "author": "DonnieB.",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donnieb-1",
-      "posted_relative": "for 1 t siden",
-      "text": "Mulig vi her litt forskjellig syn på begrepet rakett 🚀. Uansett, god helg🥂",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 74,
-      "has_link": false
-    },
-    {
-      "key": "a4c97654ed32c3fa",
+      "key": "c219b1e52c7c300a",
       "author": "TicTacToe",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tictactoe",
-      "posted_relative": "for 1 t siden",
-      "text": "Faens rakett Jeg vil bunnfiske her!",
+      "posted_relative": "for 6 t siden",
+      "text": "Faens rakett Jeg vil bunnfiske her! Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        1
-      ],
-      "links": [],
-      "char_count": 35,
-      "has_link": false
-    },
-    {
-      "key": "beb646b2a00540be",
-      "author": "Pohatta Paukku",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pohatta-paukku",
-      "posted_relative": "for 1 t siden",
-      "text": "· Vi er så tilbake!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 19,
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "7f9490db4abd03cc",
+      "author": "@TicTacToe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tictactoe",
+      "posted_relative": null,
+      "text": "hvorfor kjøpte du ikke dippen i dag på 3,7 da?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
       "has_link": false
     }
   ]

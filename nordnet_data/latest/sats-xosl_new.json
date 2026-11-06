@@ -1,38 +1,9 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-06T16:31:53.695846+00:00",
+  "scraped_at": "2026-11-06T21:55:41.862968+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "de79bc9f18bfa9d5",
-      "author": "Binken",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binken",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Hvor stor andel solgte Torodd av sine aksjer i Sats?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 52,
-      "has_link": false
-    },
-    {
-      "key": "e60f48ac7c4ce968",
-      "author": "ykyk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ykyk",
-      "posted_relative": "for 1 t siden",
-      "text": "· Først 125k og så 303k. Alt solgt i går.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 41,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }

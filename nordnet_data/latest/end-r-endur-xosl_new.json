@@ -1,40 +1,27 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-11-06T16:31:41.930611+00:00",
+  "scraped_at": "2026-11-06T21:55:30.355119+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "1f7211e20e111848",
-      "author": "William_70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/william_70",
+      "key": "fa077cf4eb0122f8",
+      "author": "Cod Master",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cod-master",
       "posted_relative": null,
-      "text": "2. nov. · Endret Deilig dag i dag🥂 Fint å se denne gå så bra mens resten av Oslo børs virkelig blør🫡",
+      "text": "2. nov. https://www.finansavisen.no/bygg-og-anlegg/2026/11/02/8392484/rigger-seg-for-datasenterboomen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9
+        13
       ],
-      "links": [],
-      "char_count": 100,
-      "has_link": false
-    },
-    {
-      "key": "4be44d12f0d83927",
-      "author": "Kalle1234",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": null,
-      "text": "2. nov. · 💪😍💪",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        6
+      "links": [
+        "https://www.finansavisen.no/bygg-og-anlegg/2026/11/02/8392484/rigger-seg-for-datasenterboomen"
       ],
-      "links": [],
-      "char_count": 13,
-      "has_link": false
+      "char_count": 101,
+      "has_link": true
     }
   ]
 }

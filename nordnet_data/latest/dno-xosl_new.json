@@ -1,40 +1,51 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-06T16:31:22.315288+00:00",
+  "scraped_at": "2026-11-06T21:55:10.922147+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "9f4bdea97d920e49",
-      "author": "EroseN1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Spesielt når vi her snakker om et oljeselskap som faktisk : Har redusert nettogjelden fra 553 til 232 millioner dollar på ett kvartal.  Genererte 326,5 millioner dollar i fri kontantstrøm i Q3.  Har betydelig produksjon fra Nordsjøen og Kurdistan.  Kan gå inn i 2027 med svært liten eller ingen nettogjeld.  Har stor cash beholdning.  Har mulighet for betydelig utbyttekapasitet dersom kontantstrømmen holder seg.",
+      "key": "152a84437dd938ce",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 13 t siden",
+      "text": "· DNO er virkelig en merkelig aksje faller for tredje dag på rad mest av alle oljeaksjer",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        1,
         3
       ],
       "links": [],
-      "char_count": 413,
+      "char_count": 88,
       "has_link": false
     },
     {
-      "key": "fcab1c62c69170dd",
-      "author": "Amatørkongen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
+      "key": "50e7714088d80c3c",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
       "posted_relative": "for 3 t siden",
-      "text": "PE basert på inntjening i 2027 er ca 5. Det er lavt det. Vis 1 kommentar til",
+      "text": "Må regne det går i digitale overføringer",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        4,
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 76,
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "07d64b011b890367",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 5 t siden",
+      "text": "Analysene virker ikke lengre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
       "has_link": false
     }
   ]

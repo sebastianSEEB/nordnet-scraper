@@ -1,9 +1,38 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-11-06T16:29:45.076063+00:00",
+  "scraped_at": "2026-11-06T21:53:34.559820+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7d253425b8264a2b",
+      "author": "ROPS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rops",
+      "posted_relative": "for 2 t siden",
+      "text": "· Jeg kjøper det også og lager laksesuppe til kundene mine også. Jeg vil kjøpe dette snart.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "6683aa19e7de254f",
+      "author": "Ceandem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ceandem",
+      "posted_relative": "for 11 t siden",
+      "text": "· Hva skjer, hvorfor faller den så mye",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }
