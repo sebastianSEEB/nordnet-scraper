@@ -1,9 +1,69 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-05T21:42:12.080743+00:00",
+  "scraped_at": "2026-11-06T01:55:37.833817+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "b949eff05f3485f0",
+      "author": "F.Dostojevskij",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fdostojevskij",
+      "posted_relative": "for 3 t siden",
+      "text": "Fint om Kverne i Nordea kunne kommet med en slik ny skandalerapport, slik at vi kan kjøpe flere aksjer før denne vipper over 300kr!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "3065544041a00de4",
+      "author": "Leo95",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leo95",
+      "posted_relative": "for 3 t siden",
+      "text": "Fortsaty 4,77% av synlig short. Kan fort bli morro hvis short plutselig starter å dekke inn!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "da48cd021c80301c",
+      "author": "artige",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/artige",
+      "posted_relative": "for 3 t siden",
+      "text": "Spørs om aksjen klarer å stå imot fallet som kommer imorra. Blir spennende.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
+      "has_link": false
+    },
+    {
+      "key": "220ecf0038f903fa",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": "for 4 t siden",
+      "text": "Oppdatering på short?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

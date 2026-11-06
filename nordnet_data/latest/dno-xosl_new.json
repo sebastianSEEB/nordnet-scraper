@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-05T21:44:19.243369+00:00",
+  "scraped_at": "2026-11-06T01:57:42.060121+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "eedfdcf8e771656c",
+      "author": "Soebyvej",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soebyvej",
+      "posted_relative": "for 3 t siden",
+      "text": "· Vi går i morgen fredag 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

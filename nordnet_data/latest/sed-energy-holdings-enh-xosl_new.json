@@ -1,37 +1,52 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-05T21:43:31.638058+00:00",
+  "scraped_at": "2026-11-06T01:56:55.620104+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "badb08038116705b",
-      "author": "GabW",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gabw",
-      "posted_relative": "for 2 t siden",
-      "text": "Hvorfor står det ex-dato 9. november? Mye frem og tilbake eller har jeg misforstått no?",
+      "key": "59fd1a4704dbc11a",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Fryktelig skummel formasjon https://www.investtech.com/no/market.php?CompanyID=101227 Hvor i allverden er støtte nivåene på nedsiden?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [],
-      "char_count": 87,
-      "has_link": false
+      "links": [
+        "https://www.investtech.com/no/market.php?CompanyID=101227"
+      ],
+      "char_count": 133,
+      "has_link": true
     },
     {
-      "key": "187f9aeb27d18111",
-      "author": "MaxRaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxraven",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "Deilig med et solid utbytte, men kjedelig at papirpriser er så lett å manipulere..",
+      "key": "c9909dfc1a5104c5",
+      "author": "Rototiller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rototiller",
+      "posted_relative": "for 1 t siden",
+      "text": "Kanskje får du en fin inngang om du venter, kanskje ikke. Aner jeg et snev av FOMO?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 82,
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "0025d2842c218ded",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 3 t siden",
+      "text": "Tror denne stuper under 6 nå omsider der den fortjener å være",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
       "has_link": false
     }
   ]

@@ -1,83 +1,38 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-11-05T21:45:37.948276+00:00",
+  "scraped_at": "2026-11-06T01:58:58.151083+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 5,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "e765fd7450734381",
-      "author": "@mrheide",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrheide",
-      "posted_relative": null,
-      "text": "selger du ved en viss oppgang i november, eller blir du sittende til oppkjøp?",
+      "key": "59536d9864dee0cc",
+      "author": "Elgat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elgat",
+      "posted_relative": "for 4 t siden",
+      "text": "Mimrer jo tilbake til dette, er for hele 7 mnd siden. Tiden flyr jaggu Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        2
+      ],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "85a2fec28ff970da",
+      "author": "Notrich",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/notrich",
+      "posted_relative": "for 1 t siden",
+      "text": "En liten påminnelse om at jeg bør ta en tur til Specsavers også..☝️😅",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 77,
-      "has_link": false
-    },
-    {
-      "key": "f3aa48a7e67e0d6d",
-      "author": "Elgat",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elgat",
-      "posted_relative": "for 44 min siden",
-      "text": "Mimrer jo tilbake til dette, er for hele 7 mnd siden. Tiden flyr jaggu",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 70,
-      "has_link": false
-    },
-    {
-      "key": "489ef18c50778ab8",
-      "author": "Deanu",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/deanu",
-      "posted_relative": "for 4 t siden",
-      "text": "Salme evo koster lite nu hvis du er interessert i fisk 🤪",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 56,
-      "has_link": false
-    },
-    {
-      "key": "36988aec87c9d157",
-      "author": "Amatør delux",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatr-delux",
-      "posted_relative": "for 6 t siden",
-      "text": "Hadde vært deilig men en kinaputt Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        9,
-        2
-      ],
-      "links": [],
-      "char_count": 53,
-      "has_link": false
-    },
-    {
-      "key": "8341d36888b2ee84",
-      "author": "Thomas45",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thomas45",
-      "posted_relative": "for 5 t siden",
-      "text": "Det går av noen kinaputter på wall street nå🤣",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
-      ],
-      "links": [],
-      "char_count": 45,
+      "char_count": 68,
       "has_link": false
     }
   ]

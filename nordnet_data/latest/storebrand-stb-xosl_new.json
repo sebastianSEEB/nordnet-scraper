@@ -1,41 +1,9 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-05T21:46:17.226247+00:00",
+  "scraped_at": "2026-11-06T01:59:36.843153+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "58b38291f0096e16",
-      "author": "oh.ahah",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
-      "posted_relative": "for 4 t siden",
-      "text": "Tja det vil avhenge i om det blir en selloff kun av AI og teknologiaksjer eller om det sprer seg til bredere nedsalg og frykt om resesjon. Hvis det holder seg isolert til AI-aksjer ville jeg ikke forventet noen særlig respons, Storebrand er ikke eksponert mot AI. Men har du bredere markedsfrykt så går Storebrand ned sammen med alt annet.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 339,
-      "has_link": false
-    },
-    {
-      "key": "64a5622ffec213ef",
-      "author": "Thassen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thassen",
-      "posted_relative": "for 21 t siden",
-      "text": "Et dumt spørsmål kanskje, men hva skjer med denne hvis en AI-boble brister? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
-      "links": [],
-      "char_count": 95,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
