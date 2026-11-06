@@ -1,9 +1,38 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-06T02:00:34.570217+00:00",
+  "scraped_at": "2026-11-06T08:49:48.767909+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c25a70b3003028ba",
+      "author": "Fiskestank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg har ikke sett en analyse som problematiserer at 4 av 6 markeder ikke nådde aktivt forecast i 3Q, første kvartal etter nedskrivingen. Marginalt ja, men allikevel et relativt tydelig rødt flagg!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 196,
+      "has_link": false
+    },
+    {
+      "key": "a732331e3d4befbd",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 24 min siden",
+      "text": "Kursen er vel halvparten av alle kursmål så alt av negativt pluss litt litt er priset inn i aksjen . Lavt volum på nedgang så uten betydning.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    }
+  ]
 }

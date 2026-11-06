@@ -1,9 +1,41 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-11-06T02:00:30.558745+00:00",
+  "scraped_at": "2026-11-06T08:49:44.682666+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9b994b4fc8c091ff",
+      "author": "Migitooo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/migitooo",
+      "posted_relative": "for 21 min siden",
+      "text": "Er vell ingen som lurer på hvor sterk kvaliteten i SMOP er…. Makroforhold og usikkerhet gir tydelig svinger her, men på prisen rundt 50 blank er det opplagt en gylden mulighet til å handle. Skal gi familien min SMOP aksjer tll jul.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 231,
+      "has_link": false
+    },
+    {
+      "key": "892313cf397fdb48",
+      "author": "Julian77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/julian77",
+      "posted_relative": "for 11 min siden",
+      "text": "Noen blir urolige,og det er forståelig,men tallene taler sitt tydelige språk,synes faktisk personlig kursmålene på 70 kroner er litt i laveste laget, men ok.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 157,
+      "has_link": false
+    }
+  ]
 }

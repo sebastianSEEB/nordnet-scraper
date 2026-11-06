@@ -1,9 +1,54 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-11-06T02:01:40.370108+00:00",
+  "scraped_at": "2026-11-06T08:50:54.707807+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3d6b2b48eb131430",
+      "author": "KonkursFørLunsj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/konkursfrlunsj",
+      "posted_relative": "for 26 min siden",
+      "text": "Jeg missade førrige dippen på 1:90, men er redo neste gang. Med litt flaks kan jeg kjøpe til enda lavere kurs.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    },
+    {
+      "key": "0dac68635305fbcf",
+      "author": "Rørleggeren777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rrleggeren777",
+      "posted_relative": "for 33 min siden",
+      "text": "Nå snakker vi Sweet spot på OB, - kanskje heller røkt noe sweet pot i E24? 65.000% opp🙃",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "dba1d01219ed2b70",
+      "author": "Ansvarlig redaktør",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ansvarlig-redaktr",
+      "posted_relative": "for 23 min siden · Endret",
+      "text": "85.000 % opp nå! Full fest ;)",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

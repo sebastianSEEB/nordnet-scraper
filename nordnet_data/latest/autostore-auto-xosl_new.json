@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-06T01:57:46.198511+00:00",
+  "scraped_at": "2026-11-06T08:46:53.293387+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "114fdcd5a238b41a",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 6 min siden",
+      "text": "Hvis 14kr holder mens verdens børser korrigerer relativt kraftig ned, er det innafor. Tror vi er tilbake på 15-16kr relativt raskt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ]
 }

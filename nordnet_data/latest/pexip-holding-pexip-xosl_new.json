@@ -1,9 +1,40 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-11-06T01:57:34.282584+00:00",
+  "scraped_at": "2026-11-06T08:46:41.876152+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a93103fea18e8f0c",
+      "author": "Ottotoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ottotoo",
+      "posted_relative": "for 9 min siden",
+      "text": "kjøpte i går og kjøper mye mer i dag.......",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "3ecd46836709086b",
+      "author": "bjasom",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjasom",
+      "posted_relative": "for 32 min siden",
+      "text": "· xD",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

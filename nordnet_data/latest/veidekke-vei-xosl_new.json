@@ -1,9 +1,25 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-11-06T01:57:18.794401+00:00",
+  "scraped_at": "2026-11-06T08:46:25.747828+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e1ef9c7a21fe6f61",
+      "author": "Venn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
+      "posted_relative": null,
+      "text": "2. nov. Nytt og oppdatert kursmål fra SB1 Markets - 235kr. Opp fra 230!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

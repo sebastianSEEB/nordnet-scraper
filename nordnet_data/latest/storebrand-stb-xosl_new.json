@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-06T01:59:36.843153+00:00",
+  "scraped_at": "2026-11-06T08:48:49.872180+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "40ea8ddeb5d9c740",
+      "author": "Identiwhy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/identiwhy",
+      "posted_relative": "for 44 min siden",
+      "text": "Ser ut som om du kan få svar på spørsmålet ditt i dag :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

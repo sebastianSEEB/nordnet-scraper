@@ -1,9 +1,27 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-11-06T01:57:57.493624+00:00",
+  "scraped_at": "2026-11-06T08:47:06.090938+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d2338ab5723f887e",
+      "author": "Branthebroken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/branthebroken",
+      "posted_relative": null,
+      "text": "2. nov. https://www.finansavisen.no/energi/2026/11/02/8392148/her-far-du-minst-15-prosent-direkteavkastning Til slutt nevner analysesjefen TGS, som han kaller «leteaksje nummer én». – Det har i de siste par årene vært et positivt narrativ rundt økt leteaktivitet, men hittil det vært lite reell aktivitetsendring, forteller han. – Basert på nye signaler tror vi dette er i ferd med å endre seg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/02/8392148/her-far-du-minst-15-prosent-direkteavkastning"
+      ],
+      "char_count": 394,
+      "has_link": true
+    }
+  ]
 }

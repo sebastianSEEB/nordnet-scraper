@@ -1,9 +1,23 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-06T01:57:49.850349+00:00",
+  "scraped_at": "2026-11-06T08:46:57.772874+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3cb9e4dae06aeede",
+      "author": "refsky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/refsky",
+      "posted_relative": "for 1 t siden",
+      "text": "Børsen faller, men mat ska dem ha...!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

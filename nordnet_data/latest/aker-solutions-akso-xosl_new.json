@@ -1,9 +1,25 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-11-06T01:56:28.555075+00:00",
+  "scraped_at": "2026-11-06T08:45:36.256790+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2bf41c85ecd9bb4d",
+      "author": "Symfoni",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/symfoni",
+      "posted_relative": "for 1 t siden",
+      "text": "Analytiker spår Oslo Børs opp https://www.finansavisen.no/finans/2026/11/06/8393760/analytiker-spar-oslo-bors-opp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/06/8393760/analytiker-spar-oslo-bors-opp"
+      ],
+      "char_count": 113,
+      "has_link": true
+    }
+  ]
 }

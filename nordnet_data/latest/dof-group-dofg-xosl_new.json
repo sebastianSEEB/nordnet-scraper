@@ -1,9 +1,25 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-06T01:55:57.398498+00:00",
+  "scraped_at": "2026-11-06T08:45:05.473608+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4561905ebb0e13a5",
+      "author": "Fisker94",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
+      "posted_relative": "for 32 min siden",
+      "text": "DOF dundrer ned idag igjenn.. kansje det blir litt påfyll før neste fredag 😬",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    }
+  ]
 }

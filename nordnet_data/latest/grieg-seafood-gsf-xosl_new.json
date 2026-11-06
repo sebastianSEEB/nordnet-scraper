@@ -1,9 +1,40 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-11-06T01:57:30.609779+00:00",
+  "scraped_at": "2026-11-06T08:46:37.518766+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e764c18890faafe4",
+      "author": "JohnCold",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johncold",
+      "posted_relative": null,
+      "text": "2. nov. Grieg Seafood er vel største aksjonær i Proximar Seafood som det ikke går så bra med.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "ac423ff0519505bd",
+      "author": "SpaiZ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spaiz",
+      "posted_relative": null,
+      "text": "2. nov. Ja, det er i grieg gruppen, men Grieg seafood asa er ikke noe eier i dette selskapet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    }
+  ]
 }

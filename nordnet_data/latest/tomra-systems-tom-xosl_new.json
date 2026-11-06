@@ -1,9 +1,25 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-06T01:55:53.143349+00:00",
+  "scraped_at": "2026-11-06T08:45:01.519397+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "00354cccbf0f9650",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 17 min siden",
+      "text": "Tomra er en trygg havn i urolige tider 🤩",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-11-06T01:56:32.395907+00:00",
+  "scraped_at": "2026-11-06T08:45:40.218472+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c97d709815de3bec",
+      "author": "Boffa72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/boffa72",
+      "posted_relative": "for 24 min siden",
+      "text": "opptur i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-11-06T01:58:39.216487+00:00",
+  "scraped_at": "2026-11-06T08:47:51.431243+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d5a08292eb6164db",
+      "author": "BOBNI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bobni",
+      "posted_relative": "for 15 min siden",
+      "text": "· Jeg kjøper mer når den når 7 kroner snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    },
+    {
+      "key": "89cdab9c11fe66a2",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 44 min siden",
+      "text": "Over priset Røkke møk Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

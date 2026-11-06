@@ -1,9 +1,54 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-06T01:56:48.535010+00:00",
+  "scraped_at": "2026-11-06T08:45:55.828490+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b58044df2bd477bf",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 28 min siden · Endret",
+      "text": "Virker som den skal gå over til grønt. Folk utnytter siste dager uro til å hamstre aksjen etter en god 3q rapport og gode utsikter i 2027. At ledelsen sier de kan nå 100000 solgte enheter i 2027 er virkelig bull. Hadde det ikke vart for AI korreksjonen siste dagene. Vile aksjen kommet opp til  45-50 nå på to dager.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 316,
+      "has_link": false
+    },
+    {
+      "key": "8ac2e4f665a50fa8",
+      "author": "Fjellstar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjellstar",
+      "posted_relative": "for 1 t siden",
+      "text": "Sundt har økt med 100k aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "3e18eba64416345f",
+      "author": "vj09",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vj09",
+      "posted_relative": "for 1 t siden",
+      "text": "Desperate kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

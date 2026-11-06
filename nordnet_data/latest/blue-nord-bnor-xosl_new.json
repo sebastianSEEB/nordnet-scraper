@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-06T01:55:22.221330+00:00",
+  "scraped_at": "2026-11-06T08:44:30.976637+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "035fabe3880f3f2b",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": "for 16 min siden",
+      "text": "· Uhhh den faller mye",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

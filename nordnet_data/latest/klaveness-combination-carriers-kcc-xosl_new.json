@@ -1,9 +1,39 @@
 {
   "slug": "klaveness-combination-carriers-kcc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/klaveness-combination-carriers-kcc-xosl",
-  "scraped_at": "2026-11-06T01:54:24.707856+00:00",
+  "scraped_at": "2026-11-06T08:43:33.617153+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "70e88cdad02a4a40",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Nå er vi på vei igjen oppover. God kontrakt og ferdig med dippen Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "3b4db96e77b86d5a",
+      "author": "Zozo6",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zozo6",
+      "posted_relative": "for 23 min siden",
+      "text": "· Ferdig med dippen? Bør kanskje tenke deg om",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,24 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-06T01:57:42.060121+00:00",
+  "scraped_at": "2026-11-06T08:46:49.373694+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "eedfdcf8e771656c",
-      "author": "Soebyvej",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/soebyvej",
-      "posted_relative": "for 3 t siden",
-      "text": "· Vi går i morgen fredag 😎",
+      "key": "24ff7f14b047e395",
+      "author": "We90",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/we90",
+      "posted_relative": "for 1 t siden",
+      "text": "Ingen poeng å time markedet, bedre å være i selskaper som er bra, da har ikke timingen så mye å si. Da er jo hvert krakk en gavepakke.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 26,
+      "char_count": 134,
       "has_link": false
     }
   ]
