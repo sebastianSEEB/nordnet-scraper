@@ -234,7 +234,7 @@ def tradable_returns(df, panel, h, costs, lo, hi):
     cost = C.round_trip_cost(hs_in, hs_out, costs)
     idx = np.flatnonzero(ok)[good]
     return {"row": idx, "i": i, "j": j, "gross": gross, "bench": bret, "excess": signed, "cost": cost,
-            "net": signed - cost}
+            "net": signed - cost, "hs_in": hs_in}
 
 
 def placebo(df_rows, panel, h, costs, lo, hi, draws, rng):
@@ -352,6 +352,9 @@ def run_event_study(signals, name, params=None, panel=None, config=None, use_hol
         res["horizons"][str(h)] = {
             "gross_excess": st_gross, "net": st_net,
             "mean_cost": float(np.mean(tr["cost"])) if n else None,
+            "spread_default_share": float(np.mean(~np.isfinite(tr["hs_in"]))) if n else None,
+            "median_half_spread": (float(np.nanmedian(tr["hs_in"])) if n and np.isfinite(tr["hs_in"]).any()
+                                   else None),
             "placebo_mean": float(np.mean(pm)) if pm is not None else None,
             "placebo_p": p_val, "passed": passed, "reasons": reasons,
             "first_entry": str(cal[int(tr["i"].min())].date()) if n else None,
@@ -417,6 +420,10 @@ def render_report(res):
         L.append(f"| {h} | {n.get('n', 0)} | {_pct(g.get('mean'))} | {_pct(v['mean_cost'])} | {_pct(n.get('mean'))} | "
                  f"{_pct(n.get('median'))} | {_num(n.get('hit_rate'))} | {_num(n.get('t_cluster'))} | "
                  f"{_num(v['placebo_p'], 3)} | {'✅ bestått' if v['passed'] else '❌'} |")
+    v1 = next(iter(res["horizons"].values()), {})
+    if v1.get("spread_default_share") is not None:
+        L += ["", f"Spread ved inngang: median anslått halv spread {_pct(v1.get('median_half_spread')).lstrip('+')}, "
+                  f"{v1['spread_default_share']:.0%} av handlene brukte standardverdien (for lite høy/lav-historikk)."]
     L += [""]
     for h, v in res["horizons"].items():
         if v["reasons"]:
