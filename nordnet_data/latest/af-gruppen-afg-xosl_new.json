@@ -1,9 +1,23 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-11-07T14:43:58.528459+00:00",
+  "scraped_at": "2026-11-07T19:16:28.850797+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "82fc07858e15784b",
+      "author": "Millionærstudent",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/millionrstudent",
+      "posted_relative": null,
+      "text": "3. nov.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
+      "has_link": false
+    }
+  ]
 }
