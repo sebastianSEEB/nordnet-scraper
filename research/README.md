@@ -1,4 +1,4 @@
-# research/ – testbenken (Fase 0)
+# research/ – testbenken (Fase 0) og Fase 1
 
 Alle signalideer skal gjennom den samme testen før de får penger eller plass i paper trading.
 Testbenken er laget for å si **nei** til tilfeldigheter, ikke for å finne noe som ser bra ut.
@@ -60,6 +60,36 @@ res = run_event_study(signaler_df, "min_ide", params={...})
 effekten (NHH-masteroppgave: +1,14 % over [0,1]) før den får dømme nye ideer: snitt CAR[0,1] mellom 0,3 % og 3 % og
 klynge-t ≥ 2. Resultatet ligger i `nordnet_data/research/gate0/` og oppdateres hver hverdag av `news_ml.yml`.
 
+## Fase 1: raske gevinster (`phase1.py`)
+
+Kjøres hver hverdag etter Gate 0 og skriver `nordnet_data/research/phase1/report.md` og `status.json`.
+
+**Innsidesignal 2.0** (`copytrade/insiders.py`, `insider2.py`)
+- Strengere støyfilter: selskapets eget tilbakekjøp, ansattstiftelser, aksjer tegnet i emisjoner eller børsnoteringer og
+  vederlagsaksjer regnes ikke lenger som innsidekjøp (`noise_reason` sier hvorfor).
+- Navnet på innsideren leses ut av meldingen når det går (ca. 8 av 10).
+- Fire flagg per kjøp: første kjøp i selskapet på et år, klynge (minst 2 innsidere på 10 dager), kjøp etter fall
+  (≥ 10 % under OSEBX på 20 dager) og utenfor rutine (personen pleier ikke å kjøpe i denne måneden). `score` = antall flagg.
+- Paper-handlene i copytrade får `entry_vs_insider`: hvor mye dyrere vi kjøpte enn innsideren.
+
+**Flokk-filteret** (`herd.py`): en topp er minst 10 innlegg og 4 × normalen samme dag som kursen stiger minst 5 %.
+Nye kjøp blokkeres i 5 dager etter en topp, og åpne posisjoner selges neste åpning. Det kjøres i skyggemodus ved siden av
+den låste strategien, og alle topper logges i `phase1/spikes.csv` med avkastningen 5 og 20 dager etter.
+
+**Oppmerksomhet** (`news_ml/attention.py`): antall rapporter per dag (travle dager = topp 10 %), rapporter fredag etter
+stengning, ventet utbyttemåned (eks utbytte samme måned i fjor) og rettede emisjoner med og uten reparasjonsemisjon.
+De går inn i nyhetsmodellen bare hvis `phase1.attention_in_model` settes til `true` i `config.json`, og det skal først
+gjøres når testen bak featuren har bestått.
+
+**Gate 1** er bestått når
+1. det har kommet minst 40 innsidesignaler siden paper trading startet, og ny inngang (neste åpning etter meldingen)
+   slår gammel inngang (etter den daglige kjøringen) etter kostnader, og
+2. kjøpene flokk-filteret blokkerer, gjør det dårligere enn kjøpene det slipper gjennom (minst 10 blokkerte).
+
+Forumarkivet har full dekning først fra høsten 2026, så flokk-filteret kan bare vurderes fremover. Det samme gjelder
+inngangstidspunktet, fordi det måles på paper-handlene. Begge deler bruker data i holdout-perioden, men bare som
+overvåking. Ingen av dem logges som tester.
+
 ## Kursarkiv mot overlevelsesskjevhet
 
 Yahoo gir bare kurser for aksjer som finnes i dag. `archive_prices.py` lagrer derfor hver dag nye rader i
@@ -80,6 +110,9 @@ eller forsvinner fra watchlisten, mangler hos Yahoo eller slutter å få nye kur
 | `harness.py` | Selve testen, logg, holdout-lås, rapport, CLI |
 | `gate0_insiders.py` | Gate 0 |
 | `archive_prices.py` | Kursarkiv og universlogg |
+| `insider2.py` | Opportunistisk-flagg for innsidekjøp |
+| `herd.py` | Flokk-filteret: topper i forumet, skyggeblokkering |
+| `phase1.py` | Alle Fase 1-testene + Gate 1-status |
 | `tests/` | Enhetstester på syntetiske kurser: `python -m unittest discover -s research/tests -t .` |
 
 ## Kjente begrensninger

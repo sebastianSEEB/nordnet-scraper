@@ -77,6 +77,91 @@ PRICE_RES = [
 ]
 
 
+# Fase 1: mer støy som ikke er "jeg tror på aksjen"-kjøp
+#   - selskapets eget tilbakekjøp / ansattstiftelser som står som avsender
+#   - aksjer innsideren fikk i en emisjon, børsnotering eller som oppgjør i en transaksjon
+NOISE2_RE = re.compile(
+    r"buy[- ]?back|tilbakekjøp|the company (has )?(purchased|bought|acquired)|selskapet (har )?(kjøpt|ervervet)|"
+    r"stiftelsen \w*ansatte|ansattes aksjekjøp|"
+    r"\b(in|i) (the|den) (private placement|rettede emisjonen|emisjonen|offering|placement|ipo)\b|\bsubscribed\b|"
+    r"tegnet seg|tegnet .{0,30}aksjer|\ballo(cated|tted) .{0,60}shares|tildelt .{0,40}aksjer|"
+    r"in connection with the (private placement|offering|ipo|listing|rights issue|placement)|"
+    r"i forbindelse med (den rettede emisjonen|emisjonen|noteringen|den rettede)|consideration shares|"
+    r"vederlagsaksjer|settlement shares|bookbuilding|initial public offering",
+    re.I,
+)
+
+
+# ------------------------------------------------------------------ hvem handlet (Fase 1)
+_UP = "A-ZÆØÅÉÖÜÄ"
+_LO = "a-zæøåéèöüäáíñ'’"
+_TOK = rf"[{_UP}][{_LO}]+(?:-[{_UP}][{_LO}]+)?"
+NAME_RE = re.compile(rf"{_TOK}(?:\s+(?:[{_UP}]\.|{_TOK}|von|van|de|der|af|di)){{1,4}}")
+CO_RE = re.compile(r"\b(ASA|AS|A/S|ApS|AB|Ltd|Limited|Inc|LLC|Holding|Holdings|Invest|Investment|Investments|Capital|"
+                   r"Group|Gruppen|Company|Consulting|Management|Partners|Trust|Fund|Foundation|Stiftelse|KS|DA|SA|"
+                   r"plc|GmbH|BV|Oy|Oyj|Bank|Sparebank|SpareBank|Forsikring|Eiendom|Shipping|Systems|Maritime)\b")
+STOP = {"Mandatory", "Notification", "Oslo", "Børs", "Primary", "Insider", "Following", "After", "Etter",
+        "Reference", "Please", "Viser", "The", "This", "Meldepliktig", "Handel", "Euronext", "Board", "Styreleder",
+        "Chief", "Executive", "Officer", "Financial", "President", "Vice", "Member", "Director", "Mr", "Mrs", "Ms",
+        "Norway", "Norge", "Trade", "Transaction", "Company", "Selskapet", "Styremedlem", "Konserndirektør",
+        "January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
+        "November", "December", "Januar", "Februar", "Mars", "Mai", "Juni", "Juli", "Oktober", "Desember", "EVP",
+        "SVP", "CEO", "CFO", "Head", "General", "Counsel", "Group", "Communications", "People", "Finance"}
+_ROLE = (r"(?i:related party|close associate|closely associated|closely related|nærstående|controlled by|"
+         r"kontrollert av|owned by|eid av|on behalf of|primary insider|primærinnsider|ceo|cfo|coo|cto|"
+         r"chief \w+ officer|chair(?:man|person|woman)?|board member|member of the board|director|styreleder|"
+         r"styremedlem|nestleder|konsernsjef|konserndirektør|daglig leder|administrerende direktør|"
+         r"finansdirektør|executive vice president|evp|svp)")
+AFTER_ANCHOR = re.compile(_ROLE + r"\b")
+BEFORE_ANCHOR = re.compile(r"(?:,\s*" + _ROLE + r"\b|\s+(?i:har|has|hav)\s+(?i:i dag|today|on|den|per|DATO|\d|bought|"
+                           r"purchased|acquired|kjøpt|ervervet)|\s+(?i:bought|purchased|acquired|kjøpte))")
+
+
+def _clean_name(n):
+    w = [x for x in n.split()]
+    while w and (w[0].rstrip(".") in STOP):
+        w = w[1:]
+    while w and (w[-1].rstrip(".") in STOP):
+        w = w[:-1]
+    return " ".join(w)
+
+
+def _ok(n, issuer_words):
+    w = n.split()
+    if len(w) < 2 or len(w) > 5 or CO_RE.search(n):
+        return False
+    if any(x.lower() in issuer_words for x in w if len(x) > 3):
+        return False
+    return not any(x in STOP for x in w)
+
+
+def extract_person(body, issuer_name=""):
+    """Beste gjetning på personen (innsideren) bak handelen. None hvis usikker."""
+    text = re.sub(r"\s+", " ", body or "")[:700]
+    iw = {x.lower() for x in re.findall(r"\w+", issuer_name or "")}
+    cands = []
+    for m in AFTER_ANCHOR.finditer(text):
+        win = text[m.end():m.end() + 110]
+        for n in NAME_RE.finditer(win):
+            c = _clean_name(n.group(0))
+            if _ok(c, iw):
+                cands.append((m.start(), c))
+                break
+    for m in BEFORE_ANCHOR.finditer(text):
+        win = text[max(0, m.start() - 70):m.start()]
+        found = [_clean_name(n.group(0)) for n in NAME_RE.finditer(win)]
+        found = [c for c in found if _ok(c, iw)]
+        if found and win.rstrip().endswith(found[-1].split()[-1]):
+            cands.append((m.start(), found[-1]))
+    if not cands:
+        return None
+    # nærstående/kontrollert av peker på personen etter ankeret; ellers første treff i teksten
+    rel = [c for p, c in cands if re.search(r"(?i:related party|close associate|closely|nærstående|controlled by|"
+                                             r"kontrollert av|owned by|eid av|on behalf of)",
+                                             text[max(0, p - 5):p + 40])]
+    return (rel or [min(cands)[1]])[0]
+
+
 def _clean(s):
     return s.replace(" ", " ").strip().rstrip(".,")
 
@@ -144,7 +229,12 @@ def parse_trade(msg):
     body = DATE_RE.sub(" DATO ", msg.get("body") or "")
     text = f"{title}\n{body}"
     direction = insider_direction(text)
-    noise = bool(NOISE_RE.search(text)) or bool(COMPANY_BUYS_RE.search(body))
+    noise_reason = None
+    if NOISE_RE.search(text) or COMPANY_BUYS_RE.search(body):
+        noise_reason = "program/opsjon/egne aksjer"
+    elif NOISE2_RE.search(text):
+        noise_reason = "tilbakekjøp/emisjon/oppgjør"
+    noise = noise_reason is not None
 
     shares_total, value_total, prices = 0, 0.0, []
     fallback_price, fallback_cur = find_price(body)
@@ -181,6 +271,8 @@ def parse_trade(msg):
         "price": round(sum(prices) / len(prices), 4) if prices else None,
         "value_nok": round(value_total) if value_total else None,
         "noise": noise,
+        "noise_reason": noise_reason,
+        "person": extract_person(msg.get("body") or "", msg.get("issuer_name") or ""),
         "has_body": bool(body),
     }
 

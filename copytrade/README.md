@@ -14,6 +14,8 @@ Copy-trading på papir av to kilder som er offentlige:
 
 `paper.py` og `dashboard.py` kjører i `news_ml.yml` hver hverdag etter børsslutt, etter at kursene er hentet.
 
-**Ærlighet i tallene:** hovedstrategien ble låst før resultatene ble sett. `ledger.json` husker når hvert signal ble sett første gang, og «ekte live» teller bare signaler etter oppstart. Kurtasje, spread og skatt er ikke trukket fra.
+**Ærlighet i tallene:** hovedstrategien ble låst før resultatene ble sett. `ledger.json` husker når hvert signal ble sett første gang, og «ekte live» teller bare signaler etter oppstart. Kurtasje, spread og skatt er ikke trukket fra her. Den samme strategien med kostnader testes i `research/phase1.py` (`p1_papir_hovedstrategi`).
+
+**Fase 1-endringer:** støyfilteret tar nå også bort selskapets eget tilbakekjøp, ansattstiftelser og aksjer tegnet i emisjoner (`noise_reason` i `insiders.py`), og hver handel får `entry_vs_insider`, som viser hvor mye dyrere åpningskursen var enn kursen innsideren betalte.
 
 **Hvis stjernene ikke blir funnet:** `stars_status.json` viser treffraten, og `debug/profile_*.html` har rå sider å rette regexene i `STAR_RES` mot.

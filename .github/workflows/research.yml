@@ -1,4 +1,4 @@
-name: Forskning - testbenk (Fase 0)
+name: Forskning - testbenk (Fase 0 og 1)
 
 # Kjører på pull requests som endrer research/, og manuelt.
 # Henter ekte kurser fra Yahoo, kjører enhetstestene og Gate 0, og legger rapporten
@@ -10,6 +10,8 @@ on:
       - 'research/**'
       - 'copytrade/paper.py'
       - 'copytrade/insiders.py'
+      - 'news_ml/attention.py'
+      - 'news_ml/model_backtest.py'
       - '.github/workflows/research.yml'
   workflow_dispatch:
 
@@ -44,14 +46,21 @@ jobs:
       - name: Gate 0 - gjenskaper testbenken innsideeffekten?
         run: python research/gate0_insiders.py --strict --no-log
 
+      - name: Fase 1 - alle testene og Gate 1-status
+        if: always()
+        run: python research/phase1.py --no-log
+
       - name: Rapport til jobbsammendraget
         if: always()
         run: |
-          if [ -f nordnet_data/research/gate0/report.md ]; then
-            cat nordnet_data/research/gate0/report.md >> "$GITHUB_STEP_SUMMARY"
-          else
-            echo "Ingen Gate 0-rapport ble skrevet." >> "$GITHUB_STEP_SUMMARY"
-          fi
+          for f in nordnet_data/research/gate0/report.md nordnet_data/research/phase1/report.md; do
+            if [ -f "$f" ]; then
+              cat "$f" >> "$GITHUB_STEP_SUMMARY"
+              printf '\n\n---\n\n' >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "Mangler $f" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          done
 
       - uses: actions/upload-artifact@v4
         if: always()

@@ -1,7 +1,12 @@
 {
   "_doc": "Faste regler for testbenken (Fase 0). Endrer du noe her, får nye kjøringer ny spec-hash og teller som nye tester i testloggen.",
   "holdout_start": "2025-11-01",
-  "horizons": [1, 5, 20, 60],
+  "horizons": [
+    1,
+    5,
+    20,
+    60
+  ],
   "min_t": 3.0,
   "alpha": 0.05,
   "min_events": 40,
@@ -13,11 +18,26 @@
     "fee_class": "mini",
     "fee_classes": {
       "_kilde": "Nordnet kurtasjeklasser (Norden), hentet 2026-11-07. Mini er for handler under ca. 52 667 kr og må velges selv under Mine sider.",
-      "normal": {"rate": 0.00049, "min_nok": 79},
-      "bonus": {"rate": 0.0004, "min_nok": 69},
-      "vip": {"rate": 0.00035, "min_nok": 39},
-      "mini": {"rate": 0.0015, "min_nok": 29},
-      "student": {"rate": 0.0015, "min_nok": 1}
+      "normal": {
+        "rate": 0.00049,
+        "min_nok": 79
+      },
+      "bonus": {
+        "rate": 0.0004,
+        "min_nok": 69
+      },
+      "vip": {
+        "rate": 0.00035,
+        "min_nok": 39
+      },
+      "mini": {
+        "rate": 0.0015,
+        "min_nok": 29
+      },
+      "student": {
+        "rate": 0.0015,
+        "min_nok": 1
+      }
     },
     "algo_surcharge": 0.0,
     "_algo_surcharge": "Nordnet legger på 0,03 % for algoritmisk handel. Sett 0.0003 hvis ordrene skal sendes automatisk.",
@@ -33,5 +53,9 @@
     "car_min": 0.003,
     "car_max": 0.03,
     "min_t": 2.0
+  },
+  "phase1": {
+    "_doc": "Oppmerksomhets-features (news_ml/attention.py) går inn i nyhetsmodellen bare når dette er true. Slå på først når de tilhørende p1-testene har bestått.",
+    "attention_in_model": false
   }
 }

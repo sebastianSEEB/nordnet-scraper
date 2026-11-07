@@ -234,7 +234,8 @@ def tradable_returns(df, panel, h, costs, lo, hi):
     cost = C.round_trip_cost(hs_in, hs_out, costs)
     idx = np.flatnonzero(ok)[good]
     return {"row": idx, "i": i, "j": j, "gross": gross, "bench": bret, "excess": signed, "cost": cost,
-            "net": signed - cost, "hs_in": hs_in}
+            "net": signed - cost, "hs_in": hs_in, "direction": d,
+            "ticker": np.asarray(panel.open.columns)[c] if len(c) else np.array([], dtype=object)}
 
 
 def placebo(df_rows, panel, h, costs, lo, hi, draws, rng):
