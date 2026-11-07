@@ -1,0 +1,61 @@
+name: Forskning - testbenk (Fase 0)
+
+# Kjører på pull requests som endrer research/, og manuelt.
+# Henter ekte kurser fra Yahoo, kjører enhetstestene og Gate 0, og legger rapporten
+# i jobbsammendraget. Committer ingenting - de daglige tallene skrives av news_ml.yml.
+
+on:
+  pull_request:
+    paths:
+      - 'research/**'
+      - 'copytrade/paper.py'
+      - 'copytrade/insiders.py'
+      - '.github/workflows/research.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  harness:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer avhengigheter
+        run: pip install -r news_ml/requirements.txt
+
+      - name: Enhetstester (syntetiske kurser)
+        run: python -m unittest discover -s research/tests -t . -v
+
+      - name: Hent kurser (Yahoo Finance, fra 2019)
+        run: python news_ml/fetch_prices_long.py
+
+      - name: Kursarkiv (tørrkjøring til midlertidig mappe)
+        run: |
+          python research/archive_prices.py --archive-dir "$RUNNER_TEMP/price_archive"
+          du -sh "$RUNNER_TEMP/price_archive"
+
+      - name: Gate 0 - gjenskaper testbenken innsideeffekten?
+        run: python research/gate0_insiders.py --strict --no-log
+
+      - name: Rapport til jobbsammendraget
+        if: always()
+        run: |
+          if [ -f nordnet_data/research/gate0/report.md ]; then
+            cat nordnet_data/research/gate0/report.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "Ingen Gate 0-rapport ble skrevet." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: research-gate0
+          path: nordnet_data/research/
+          if-no-files-found: ignore
