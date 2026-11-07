@@ -1,9 +1,25 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-07T08:01:26.990200+00:00",
+  "scraped_at": "2026-11-07T14:41:54.873140+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "655898c43f1e74d8",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 3 t siden",
+      "text": "Når jeg for mange år siden studerte Bedr.økonomi lærte jeg at PE (price earning) på 5 var utrulig gode investerings case !!! Derfor rart for meg at det er selgere på de nivåene vi har sett nå !!! Fortsatt god helg !",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    }
+  ]
 }

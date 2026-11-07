@@ -1,9 +1,25 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-07T08:05:09.060598+00:00",
+  "scraped_at": "2026-11-07T14:45:39.282965+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b43ab824d9f243ca",
+      "author": "TERROR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terror",
+      "posted_relative": "for 1 t siden",
+      "text": "· Samsetak nå, A Å! https://youtu.be/PU7C6DQOhgE",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://youtu.be/PU7C6DQOhgE"
+      ],
+      "char_count": 48,
+      "has_link": true
+    }
+  ]
 }

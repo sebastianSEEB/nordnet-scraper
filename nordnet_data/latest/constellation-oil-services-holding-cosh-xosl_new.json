@@ -1,9 +1,67 @@
 {
   "slug": "constellation-oil-services-holding-cosh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/constellation-oil-services-holding-cosh-xosl",
-  "scraped_at": "2026-11-07T08:00:07.270323+00:00",
+  "scraped_at": "2026-11-07T14:40:36.215845+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "16bbb7b9c4dbafeb",
+      "author": "@Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": null,
+      "text": "ute av denne aksjen og har selv slettet sine egne hausse-postinger. Vanlig prosedyre. 😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "d881c1b4b2dd9954",
+      "author": "Peanutter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peanutter",
+      "posted_relative": "for 4 t siden",
+      "text": "Skulle ikke selskapet kjøpe tilbake 5% av aksjene i selskapet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "2e15e1cbae7ce874",
+      "author": "Ruuns",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuns",
+      "posted_relative": "for 3 t siden",
+      "text": "Det blir kanskje vedtatt torsdag 19.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "0915b3c1e704e556",
+      "author": "HOFFCompoundCapital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hoffcompoundcapital",
+      "posted_relative": "for 6 t siden",
+      "text": "Da er",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 5,
+      "has_link": false
+    }
+  ]
 }

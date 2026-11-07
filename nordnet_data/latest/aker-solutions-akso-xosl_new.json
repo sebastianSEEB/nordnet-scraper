@@ -1,9 +1,25 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-11-07T08:00:11.007974+00:00",
+  "scraped_at": "2026-11-07T14:40:40.158935+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4e05b4cc80637296",
+      "author": "Symfoni",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/symfoni",
+      "posted_relative": null,
+      "text": "3. nov. Oslo (Infront TDN Direkt): DNB Carnegie oppgraderer anbefalingen sin på Aker Solutions til hold fra selg, og oppjusterer kursmålet på aksjen til 35 kroner fra 33 kroner.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 177,
+      "has_link": false
+    }
+  ]
 }

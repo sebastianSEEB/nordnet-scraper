@@ -1,9 +1,25 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-07T07:58:01.872817+00:00",
+  "scraped_at": "2026-11-07T14:38:28.594472+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "99d5c9e94d7a628b",
+      "author": "Nextbay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "posted_relative": null,
+      "text": "3. nov. Dukat AS (Tor Axel Volberg) øker i ALNG",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

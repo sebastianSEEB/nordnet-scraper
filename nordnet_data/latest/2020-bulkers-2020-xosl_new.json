@@ -1,9 +1,56 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-11-07T07:58:09.630881+00:00",
+  "scraped_at": "2026-11-07T14:38:37.288575+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "54e7dabc9fd4d0b0",
+      "author": "RateRaketten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rateraketten",
+      "posted_relative": null,
+      "text": "3. nov. https://www.finansavisen.no/energi/2026/11/02/8392408/fra-millionrater-til-310.000-kroner-dagen Blir spennende å se hvordan markedet priser 2020 etter emisjonen og hvis ratene holder seg på det lave nivået.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/02/8392408/fra-millionrater-til-310.000-kroner-dagen"
+      ],
+      "char_count": 214,
+      "has_link": true
+    },
+    {
+      "key": "e047402246089fbf",
+      "author": "IrquiM",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/irquim",
+      "posted_relative": null,
+      "text": "3. nov. Ingenting som tyder på at det er noe fornuft rundt denne aksjen når en ser hva folk driver og handler for nå, så man vet aldri",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "58c0c0b9e0cc35e9",
+      "author": "Vinzen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vinzen",
+      "posted_relative": null,
+      "text": "3. nov. Ser ut som denne døde ut fram til aksjesutslipp 😊 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

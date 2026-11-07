@@ -1,9 +1,49 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-07T07:59:04.898532+00:00",
+  "scraped_at": "2026-11-07T14:39:31.966558+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "47004b7194ac0d36",
+      "author": "Wholesale Gnome",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wholesale-gnome",
+      "posted_relative": "for 3 t siden",
+      "text": "· Jeg kommer i det minste til å se dette gjennom til slutten. Selv om jeg ikke har en spesielt storandel av denne spesifikke aksjen i porteføljen min.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "54b196c5228b1f7d",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 27 min siden",
+      "text": "Nå som Trump herjer i Iran igjen,så vil vel oljeprisen stige igjen?tror dere ikke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "fd7e515175b5e46b",
+      "author": "TWilson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twilson",
+      "posted_relative": "for 4 t siden",
+      "text": "· Super, takk for svar",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

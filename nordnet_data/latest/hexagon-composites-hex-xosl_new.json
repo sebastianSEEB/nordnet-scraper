@@ -1,39 +1,55 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-07T08:01:49.940320+00:00",
+  "scraped_at": "2026-11-07T14:42:18.606379+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "4f30843a4cdef726",
-      "author": "baba juan batsy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baba-juan-batsy",
-      "posted_relative": "for 1 t siden",
-      "text": "Hex sine resultater knuste estimat grunnlaget for 16kr av DnB. https://www.dnb.no/dnbnyheter/no/bors-og-marked/dnb-carnegies-anbefaling-pa-orkla-og-hexagon-composites Sleng linken til chat og mål opp med de faktiske resultatene.",
+      "key": "95b733115c485e0f",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 20 t siden",
+      "text": "«Knuste forventningene - spår estimatene kraftig opp» Noen med tilgang som vil dele litt: https://www.finansavisen.no/industri/2026/11/06/8393981/knuste-forventningene-spar-estimatene-kraftig-opp Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.dnb.no/dnbnyheter/no/bors-og-marked/dnb-carnegies-anbefaling-pa-orkla-og-hexagon-composites"
+      "engagement_numbers": [
+        9,
+        2
       ],
-      "char_count": 228,
+      "links": [
+        "https://www.finansavisen.no/industri/2026/11/06/8393981/knuste-forventningene-spar-estimatene-kraftig-opp"
+      ],
+      "char_count": 215,
       "has_link": true
     },
     {
-      "key": "fa3715177a9eaa39",
-      "author": "Bolee",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bolee",
-      "posted_relative": "for 56 min siden",
-      "text": "Clean Energy Fuels opp nesten 30 prosent etter fremleggelsen av sin kvartalsrapport.  Mange ting som peker i riktig retning nå🥳",
+      "key": "b4b0922e53c90f8c",
+      "author": "Popeye007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/popeye007",
+      "posted_relative": "for 4 t siden",
+      "text": "Kort oppsummert sa Grimsmo i artikkelen:  – Det er sterkt å levere en ebitda som er nesten 50 prosent bedre enn ventet, sier Grimsmo. – Vi tror de vil levere mer enn 300 millioner kroner i år. Historisk sesongvariasjon tilsier at fjerde kvartal blir sterkere enn tredje kvartal, noe som vil bety at ebitda ender på over 340 millioner kroner for helåret. Før kvartalsrapporten ventet analytikerne i snitt en ebitda på 310 millioner kroner i 2026. – Selskapet har nå en sunn balanse. Der ligger det ikke lenger en risiko, sier Grimsmo. Så har de sagt at de ikke skal putte mer penger i Purus, hvilket han holder fram som viktig og riktig for kursen i HEX.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 127,
+      "char_count": 653,
+      "has_link": false
+    },
+    {
+      "key": "bae5c14aa71187f4",
+      "author": "Popeye007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/popeye007",
+      "posted_relative": "for 4 t siden",
+      "text": "Takk! Det var interessant, selv om Chat GPT ikke fant det naturlig å foreslå en endring i DnB kursmål enten forsterket holdt som i dag, eller flyttet til 18-19.  For egen del synes jeg DnB har et lavt syn på lastebilmarkedet, det er dårlig i segmentet for small trucks men ikke for store lastebiler. En revisjon av deres analyse bør derfor kanskje også endre litt der og gi estimater basert også på en slik endring?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 415,
       "has_link": false
     }
   ]
