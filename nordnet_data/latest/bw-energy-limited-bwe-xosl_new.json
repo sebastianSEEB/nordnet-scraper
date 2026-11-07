@@ -1,9 +1,23 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-11-06T21:55:57.472866+00:00",
+  "scraped_at": "2026-11-07T01:29:42.035772+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9ae4f7b992ec6ef3",
+      "author": "lumpo capital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lumpo-capital",
+      "posted_relative": null,
+      "text": "2. nov. ·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 9,
+      "has_link": false
+    }
+  ]
 }

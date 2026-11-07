@@ -1,9 +1,23 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-06T21:53:07.075607+00:00",
+  "scraped_at": "2026-11-07T01:26:53.283601+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "975410876ff22abc",
+      "author": "Rockeseller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rockeseller",
+      "posted_relative": "for 1 t siden",
+      "text": "Vends shortandel gått ned enda bittelitt fra 4,77 til 4,68 %",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    }
+  ]
 }
