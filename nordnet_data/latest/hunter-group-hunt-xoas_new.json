@@ -1,9 +1,36 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-07T19:15:37.328113+00:00",
+  "scraped_at": "2026-11-07T23:18:12.698246+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "a63a0b1e32b13c1d",
+      "author": "@shippinganalytiker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippinganalytiker",
+      "posted_relative": null,
+      "text": "- hvordan har du hensyntatt selskapsskatten Hunter må betale i utregningen av utledet FFA-verdiene?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "52d0c69ba50b4967",
+      "author": "FondueForDays",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fonduefordays",
+      "posted_relative": "for 3 t siden",
+      "text": "Hei",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }
