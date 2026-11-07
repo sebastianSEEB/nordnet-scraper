@@ -97,6 +97,24 @@ FEATURE_NO = {
 }
 
 
+# Fase 1: oppmerksomhets-features (news_ml/attention.py). Brukes bare når research/config.json sier
+# phase1.attention_in_model = true, og det skal først skje når testene i research/phase1.py har bestått.
+def _attention_on():
+    try:
+        cfg_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "research", "config.json")
+        with open(cfg_path, encoding="utf-8") as f:
+            return bool(json.load(f).get("phase1", {}).get("attention_in_model"))
+    except (OSError, ValueError):
+        return False
+
+
+ATTENTION_ON = _attention_on()
+if ATTENTION_ON:
+    from news_ml.attention import ATTENTION_FEATURES, ATTENTION_LABELS  # noqa: E402
+    FEATURES = FEATURES + ATTENTION_FEATURES
+    FEATURE_NO = {**FEATURE_NO, **ATTENTION_LABELS}
+
+
 # =============================================================== data
 def load_prices():
     px = pd.read_csv(os.path.join(PRICE_DIR, "prices.csv"), parse_dates=["date"])
@@ -281,6 +299,11 @@ def build_panel(piv, cal, shares, news, tickers):
     f["n_financing_90"] = roll_sum(daily(k == "financing"), 90)
     f["n_mna_90"] = roll_sum(daily(k == "mna"), 90)
     f["n_guidance_30"] = roll_sum(daily(k == "guidance"), 30)
+
+    if ATTENTION_ON:
+        from news_ml.attention import daily_features
+        i2t = {u["issuer"]: u["ticker"] for u in load_universe()}
+        f.update({k: v.reindex(index=cal, columns=T) for k, v in daily_features(cal, T, i2t).items()})
 
     # ---- mål: kjøp neste åpning, selg ved slutt dag t+HOLD, minus OSEBX samme periode
     entry = O.shift(-1)

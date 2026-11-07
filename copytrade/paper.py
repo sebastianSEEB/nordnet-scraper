@@ -87,6 +87,13 @@ def load_prices(path=None):
     return opn, cls
 
 
+def load_raw_open(path=None, cal=None):
+    """Ujustert åpningskurs (dato x ticker) - for å sammenligne med kursen innsideren betalte."""
+    px = pd.read_csv(path or PRICE_CSV, usecols=["date", "ticker", "open"], parse_dates=["date"])
+    raw = px[px["open"] > 0].pivot_table(index="date", columns="ticker", values="open", aggfunc="last").sort_index()
+    return raw.reindex(cal) if cal is not None else raw
+
+
 def entry_index(cal, published_iso):
     """Index i kalenderen for første åpning vi faktisk kunne handlet på."""
     ts = pd.Timestamp(published_iso)
@@ -144,7 +151,7 @@ def insider_signals(opn, cls, issuer_to_ticker):
     return df
 
 
-def run_trades(sig, opn, hold):
+def run_trades(sig, opn, hold, raw_open=None):
     cal = opn.index
     last = len(cal) - 1
     bench = opn[BENCHMARK] if BENCHMARK in opn else None
@@ -155,6 +162,9 @@ def run_trades(sig, opn, hold):
             continue  # har allerede en åpen posisjon i aksjen fra et tidligere signal
         rec = {"id": r.id, "published": r.published, "ticker": r.ticker, "issuer_name": r.issuer_name,
                "role": r.role, "value_nok": int(r.value_nok), "title": r.title}
+        ins_price = getattr(r, "price", None)
+        if ins_price is not None and np.isfinite(ins_price) and ins_price > 0:
+            rec["insider_price"] = float(ins_price)
         if i > last:
             out.append({**rec, "status": "venter", "entry_date": None})
             continue
@@ -172,6 +182,13 @@ def run_trades(sig, opn, hold):
         if bench is not None and np.isfinite(bench.iloc[i]) and np.isfinite(bench.iloc[j]):
             bret = bench.iloc[j] / bench.iloc[i] - 1
         busy_until[r.ticker] = i + hold
+        if raw_open is not None and "insider_price" in rec and r.ticker in raw_open:
+            ro = raw_open[r.ticker].iloc[i]
+            if np.isfinite(ro) and ro > 0:
+                # Hvor mye dyrere vi kjøpte enn innsideren (Fase 1: sporing av inngangsglidning)
+                ratio = ro / rec["insider_price"]
+                if 0.5 < ratio < 2:   # ellers er kursen i meldingen trolig i feil valuta/enhet
+                    rec["entry_vs_insider"] = float(ratio - 1)
         out.append({**rec, "status": status, "entry_date": str(cal[i].date()), "exit_date": str(cal[j].date()),
                     "days_held": j - i, "ret": float(ret), "bench_ret": None if bret is None else float(bret),
                     "excess": None if bret is None else float(ret - bret), "pnl": float(STAKE * ret)})
@@ -185,12 +202,14 @@ def stats(trades):
     if len(rt) == 0:
         return {"n": 0}
     tstat = float(ex.mean() / (ex.std(ddof=1) / math.sqrt(len(ex)))) if len(ex) > 2 and ex.std() > 0 else None
+    slip = [t["entry_vs_insider"] for t in closed if t.get("entry_vs_insider") is not None]
     return {
         "n": len(closed), "n_open": sum(t["status"] == "åpen" for t in trades),
         "avg_ret": float(rt.mean()), "median_ret": float(np.median(rt)), "hit_rate": float((rt > 0).mean()),
         "avg_excess": float(ex.mean()) if len(ex) else None,
         "beat_bench": float((ex > 0).mean()) if len(ex) else None,
         "t_stat": tstat, "total_pnl": float(sum(t["pnl"] for t in closed)),
+        "median_entry_vs_insider": float(np.median(slip)) if slip else None, "n_slippage": len(slip),
     }
 
 
@@ -276,6 +295,7 @@ def main():
     ledger = load_ledger()
 
     sig = insider_signals(opn, cls, issuer_to_ticker)
+    raw_open = load_raw_open(cal=cal)
     variants = {}
     main_trades = []
     for key, v in INSIDER_VARIANTS.items():
@@ -284,7 +304,7 @@ def main():
             & (sig["role"].isin(v["roles"]) if v.get("roles") else True)
             & (sig["cluster_n"] >= v.get("cluster", 1))]
         for h in HOLDS:
-            tr = run_trades(chosen, opn, h)
+            tr = run_trades(chosen, opn, h, raw_open=raw_open)
             variants[f"{key}|{h}"] = {"label": v["label"], "hold": h, **stats(tr)}
             if (key, h) == MAIN:
                 main_trades = tr

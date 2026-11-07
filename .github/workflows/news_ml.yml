@@ -51,11 +51,12 @@ jobs:
           python copytrade/paper.py
           python copytrade/dashboard.py
 
-      - name: Forskning - kursarkiv, universlogg og Gate 0 (research/)
+      - name: Forskning - kursarkiv, universlogg, Gate 0 og Fase 1 (research/)
         continue-on-error: true
         run: |
           python research/archive_prices.py
           python research/gate0_insiders.py
+          python research/phase1.py
 
       - name: Commit resultater
         if: always()
