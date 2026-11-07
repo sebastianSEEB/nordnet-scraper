@@ -1,9 +1,40 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-07T01:29:19.644016+00:00",
+  "scraped_at": "2026-11-07T08:01:49.940320+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4f30843a4cdef726",
+      "author": "baba juan batsy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baba-juan-batsy",
+      "posted_relative": "for 1 t siden",
+      "text": "Hex sine resultater knuste estimat grunnlaget for 16kr av DnB. https://www.dnb.no/dnbnyheter/no/bors-og-marked/dnb-carnegies-anbefaling-pa-orkla-og-hexagon-composites Sleng linken til chat og mål opp med de faktiske resultatene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.dnb.no/dnbnyheter/no/bors-og-marked/dnb-carnegies-anbefaling-pa-orkla-og-hexagon-composites"
+      ],
+      "char_count": 228,
+      "has_link": true
+    },
+    {
+      "key": "fa3715177a9eaa39",
+      "author": "Bolee",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bolee",
+      "posted_relative": "for 56 min siden",
+      "text": "Clean Energy Fuels opp nesten 30 prosent etter fremleggelsen av sin kvartalsrapport.  Mange ting som peker i riktig retning nå🥳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    }
+  ]
 }

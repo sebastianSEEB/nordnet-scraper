@@ -1,9 +1,23 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-11-07T01:30:38.372288+00:00",
+  "scraped_at": "2026-11-07T08:03:11.451413+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c0c9c666b2680908",
+      "author": "Tordendahl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tordendahl",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser ut til at troen om bedring varte kort. Blir nok dessverre konflikt og stor uro i energipriser en stund til. \"USA har gjennomført nye angrep mot Iran. Det opplyser president Donald Trump til journalister. Ifølge Trump slo amerikanske styrker ut et lite iransk luftvernanlegg. Han sier angrepet varte en kort periode, melder NTB. Samtidig melder iranske medier at Iran har skutt ned en amerikansk MQ-9-drone. Det halvstatlige iranske nyhetsbyrået Tasnim melder at to missiler har truffet øya Qeshm. Det er foreløpig ikke meldt om offisielle skader. Vitner skal ha sett to prosjektiler treffe Suza-området på øya.\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 615,
+      "has_link": false
+    }
+  ]
 }
