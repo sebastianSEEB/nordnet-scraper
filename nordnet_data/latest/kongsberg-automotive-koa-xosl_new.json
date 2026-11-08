@@ -1,9 +1,43 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-11-08T16:58:02.763137+00:00",
+  "scraped_at": "2026-11-08T20:59:41.410231+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f0922e2f120b4a07",
+      "author": "Radiv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/radiv",
+      "posted_relative": null,
+      "text": "4. nov. · https://lnkd.in/p/ewhmWceA",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        24,
+        1
+      ],
+      "links": [
+        "https://lnkd.in/p/ewhmWceA"
+      ],
+      "char_count": 36,
+      "has_link": true
+    },
+    {
+      "key": "28a27c03bb0fbd6c",
+      "author": "oyhecan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oyhecan",
+      "posted_relative": null,
+      "text": "4. nov. Vitner om fortsatt prima kvalitet for Koa produktene💎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

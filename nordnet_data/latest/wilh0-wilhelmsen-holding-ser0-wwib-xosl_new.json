@@ -1,9 +1,42 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwib-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwib-xosl",
-  "scraped_at": "2026-11-08T16:51:06.512649+00:00",
+  "scraped_at": "2026-11-08T20:52:43.044947+00:00",
   "first_run": false,
   "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1c51e9b93b5fd145",
+      "author": "mpaets",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mpaets",
+      "posted_relative": null,
+      "text": "4. nov. https://www.finansavisen.no/finans/2026/11/04/8393299/wilh.-wilhelmsen-holding-okte-bokfort-egenkapital-med-2-6-milliarder-kroner",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/04/8393299/wilh.-wilhelmsen-holding-okte-bokfort-egenkapital-med-2-6-milliarder-kroner"
+      ],
+      "char_count": 137,
+      "has_link": true
+    },
+    {
+      "key": "f00d0163022d89a8",
+      "author": "Rudi83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rudi83",
+      "posted_relative": null,
+      "text": "4. nov. Pur kvalitet på absolutt alle parametere.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        17
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

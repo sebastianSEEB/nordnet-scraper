@@ -1,9 +1,23 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-08T16:57:43.173275+00:00",
+  "scraped_at": "2026-11-08T20:59:21.642013+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1d2a105aa7fa5473",
+      "author": "b112k",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/b112k",
+      "posted_relative": "for 3 min siden",
+      "text": "Spennende uke i vente",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

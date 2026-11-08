@@ -1,23 +1,27 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-11-08T16:53:22.010124+00:00",
+  "scraped_at": "2026-11-08T20:54:58.818706+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "f7dfb93d91e7be35",
-      "author": "Garrido",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/garrido",
+      "key": "c05291a43ea4dad6",
+      "author": "Gamle ulv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
       "posted_relative": null,
-      "text": "4. nov. · 100% 🤑",
+      "text": "4. nov. https://www.kyst.no/aquatraz-leroy/aquatraz-merdene-har-kommet-til-norge/2205738",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 16,
-      "has_link": false
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.kyst.no/aquatraz-leroy/aquatraz-merdene-har-kommet-til-norge/2205738"
+      ],
+      "char_count": 88,
+      "has_link": true
     }
   ]
 }
