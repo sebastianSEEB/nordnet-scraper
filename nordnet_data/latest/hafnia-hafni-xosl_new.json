@@ -1,9 +1,25 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-08T03:12:45.636658+00:00",
+  "scraped_at": "2026-11-08T10:52:16.888142+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "397acb91dd9c408f",
+      "author": "Ekkoloddet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ekkoloddet",
+      "posted_relative": null,
+      "text": "4. nov. Hafnia ned 4% siden klokken 10:00 i dag. ==> Noen som skjønner hvorfor? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    }
+  ]
 }

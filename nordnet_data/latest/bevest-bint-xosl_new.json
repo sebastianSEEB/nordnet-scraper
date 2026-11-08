@@ -1,9 +1,25 @@
 {
   "slug": "bevest-bint-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bevest-bint-xosl",
-  "scraped_at": "2026-11-08T03:19:40.604187+00:00",
+  "scraped_at": "2026-11-08T10:59:09.648075+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "231f712451e3ebf7",
+      "author": "Volven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
+      "posted_relative": null,
+      "text": "4. nov. Handelspause i Bevest, kanskje børsen bør legge inn justert egenkapital i algoritmene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    }
+  ]
 }

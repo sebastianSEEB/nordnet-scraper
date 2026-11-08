@@ -1,9 +1,38 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-11-08T03:17:42.215851+00:00",
+  "scraped_at": "2026-11-08T10:57:11.280466+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "89390fd322f61f20",
+      "author": "Erik09",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erik09",
+      "posted_relative": "for 51 min siden",
+      "text": "https://www.vg.no/nyheter/i/OynA2V/britisk-forsvarstopp-den-farligste-tiden-jeg-har-opplevd. Mulig det vil dryppe litt ned på KOG?💧🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.vg.no/nyheter/i/OynA2V/britisk-forsvarstopp-den-farligste-tiden-jeg-har-opplevd."
+      ],
+      "char_count": 132,
+      "has_link": true
+    },
+    {
+      "key": "75ba38df31ae9483",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 1 t siden",
+      "text": "Meglerens hovedscenario på 355–370 kroner bygger på en forventning om fortsatt sterk resultatvekst, drevet av den høye ordreinngangen og den rekordstore ordrereserven. De legger særlig vekt på den økende etterspørselen etter forsvarssystemer som NASAMS, NSM og JSM, samt selskapets gode markedsposisjon internasjonalt. Videre forventes det at Kongsberg Gruppen gradvis vil kunne øke produksjonskapasiteten og omsette den store ordrereserven til økte inntekter og bedre lønnsomhet. Verdsettelsen tar også høyde for selskapets sterke markedsutsikter og forventede vekst fremover. Det er naturligvis usikkerhet knyttet til både gjennomføring, marginer og markedsutvikling, men meglerens vurdering er at de fundamentale driverne støtter et kursnivå på 355–370 kroner før jul. Så får vi se da😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 788,
+      "has_link": false
+    }
+  ]
 }

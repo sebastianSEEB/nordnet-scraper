@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-11-08T03:15:46.130964+00:00",
+  "scraped_at": "2026-11-08T10:55:17.570972+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fd1ca71d777721e6",
+      "author": "Aruhoff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aruhoff",
+      "posted_relative": null,
+      "text": "4. nov. Kjempestor konkurs i byggenæringa i Trøndelag. Hvor mye taper SMN?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

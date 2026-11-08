@@ -1,9 +1,23 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-08T03:14:09.396594+00:00",
+  "scraped_at": "2026-11-08T10:53:42.108714+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "182115a997bb0ecb",
+      "author": "Thomas2738",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thomas2738",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvaler Invest solgte 500.000 aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

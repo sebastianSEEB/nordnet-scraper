@@ -1,9 +1,43 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-11-08T03:14:01.876517+00:00",
+  "scraped_at": "2026-11-08T10:53:34.445523+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cc0f98f7ac7be158",
+      "author": "Selskapslek",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
+      "posted_relative": "for 1 døgn siden · Endret",
+      "text": "Økt short med 0,54 prosent: Short nå er 3,36 %, fordelt på 3 aktører. Det gir 6. plass av de 43 aksjene som har offentlig short nå, opp fra 10. plass for en måned siden. Nivået er omtrent på snittet for siste år, som er 3,37 %. Høyest har den vært på 5,86 %, 4. feb. 2026. Siste melding kom 5. nov. 2026. Mer grafer og historikk: https://shortaksjer.netlify.app/ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [
+        "https://shortaksjer.netlify.app/"
+      ],
+      "char_count": 382,
+      "has_link": true
+    },
+    {
+      "key": "c7122efcefc32de9",
+      "author": "Myragubben",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myragubben",
+      "posted_relative": "for 2 t siden",
+      "text": "Blir spennende å følge med, for i USA dekkes nå shortposisjoner innen Tech inn igjen. Stemmer det at 10% av aksjene i NOD er shortet så blir det veldig interessant å se når de skaø kjøoes tilbake. https://www.finansavisen.no/finans/2026/11/07/8394101/tech-raset-big-short-legenden-casher-inn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/07/8394101/tech-raset-big-short-legenden-casher-inn"
+      ],
+      "char_count": 291,
+      "has_link": true
+    }
+  ]
 }

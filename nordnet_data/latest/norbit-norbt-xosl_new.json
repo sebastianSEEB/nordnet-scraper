@@ -1,9 +1,41 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-08T03:14:44.358106+00:00",
+  "scraped_at": "2026-11-08T10:54:17.586360+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d4a72c082d3f95c4",
+      "author": "Stein Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
+      "posted_relative": null,
+      "text": "4. nov. Det begynner i alle fall å tegne seg et bilde av et solid Q1 2027 innen PIR segmentet. Men dette ligger jo også i selskapets egen guiding. Det som blir spennende og viktig er om de nå har enda bedre visibilitet inn i 2027 enn de hadde ved Q2.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 250,
+      "has_link": false
+    },
+    {
+      "key": "d8033067fea8e3f5",
+      "author": "MaxAlwaysMax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "posted_relative": null,
+      "text": "4. nov. DET BLIR SPENNENDE Å SE HVA LIGGER I RAPPORTEN. 2026 Q3 - RAPPORT 12.NOV. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }

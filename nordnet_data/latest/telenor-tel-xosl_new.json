@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-08T03:17:49.796428+00:00",
+  "scraped_at": "2026-11-08T10:57:18.948851+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fa4b30f1bacc7a27",
+      "author": "ROPS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rops",
+      "posted_relative": "for 56 min siden",
+      "text": "· Jeg kjøper hvis prisen går ned, men ikke ennå, kanskje i slutten av neste uke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ]
 }
