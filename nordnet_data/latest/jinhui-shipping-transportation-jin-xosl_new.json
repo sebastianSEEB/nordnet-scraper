@@ -1,9 +1,44 @@
 {
   "slug": "jinhui-shipping-transportation-jin-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/jinhui-shipping-transportation-jin-xosl",
-  "scraped_at": "2026-11-08T10:52:44.469331+00:00",
+  "scraped_at": "2026-11-08T16:50:46.604193+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7f81b281978e007f",
+      "author": "TJ80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj80",
+      "posted_relative": null,
+      "text": "4. nov. · Hva blir Jinhuis Q3- og helårsresultat for 2026? Så er det ca. 25 dager til Q3-rapporten den 30. november. Jeg har laget en side som samler mine input og antagelser for Jinhui-caset: flåte, fraktrater, FFA-kurver, indre verdi og en prognose for Q3, Q4 og hele 2026. https://jinhui-research.pages.dev/ På prognosesiden kan du skru på ratene og driftskostnadene og legge ut din egen gjetning på veggen. https://jinhui-research.pages.dev/da/prognose Siden er et lite miniprosjekt for å finne ut hva Claude kan ift. analysemodeller m.m. Kommentarer og forbedringsforslag er svært velkomne. Kurs, fraktindeks og FFA-kurver oppdateres automatisk hver dag, og siden blir løpende oppdatert når det kommer nye pressemeldinger og regnskaper.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        4
+      ],
+      "links": [
+        "https://jinhui-research.pages.dev/",
+        "https://jinhui-research.pages.dev/da/prognose"
+      ],
+      "char_count": 741,
+      "has_link": true
+    },
+    {
+      "key": "98707fd4afeb522a",
+      "author": "bunch1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bunch1",
+      "posted_relative": null,
+      "text": "4. nov. · TJ80 - det er sannelig flott arbeid og takk for at du deler.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

@@ -1,27 +1,70 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-08T10:53:45.922127+00:00",
+  "scraped_at": "2026-11-08T16:51:50.202595+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "11797db196c284c7",
+      "key": "ff6cfa33e18832f3",
       "author": "zappaphone",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
-      "posted_relative": "for 1 t siden",
-      "text": "«Er AI-frykten reell?» https://www.finansavisen.no/teknologi/2026/11/08/8391151/vend-er-ai-frykten-reell",
+      "posted_relative": "for 7 t siden",
+      "text": "«Er AI-frykten reell?» https://www.finansavisen.no/teknologi/2026/11/08/8391151/vend-er-ai-frykten-reell Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        4,
+        3
       ],
       "links": [
         "https://www.finansavisen.no/teknologi/2026/11/08/8391151/vend-er-ai-frykten-reell"
       ],
-      "char_count": 104,
+      "char_count": 124,
       "has_link": true
+    },
+    {
+      "key": "b2c986167880d826",
+      "author": "Leo95",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leo95",
+      "posted_relative": "for 3 t siden",
+      "text": "In Håkon Nelson we trust. Har fortsatt troen! Selger selvfølgelig så fort det kommer bevis på at personlige agenter tar en større del av kaken til Finn. Enn så lenge er ikke det tilfelle og risikoen anser jeg som så liten at jeg sover fortsatt godt med å ha alt av sparepenger i Vend 🙃",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 285,
+      "has_link": false
+    },
+    {
+      "key": "71763b455e3ccde9",
+      "author": "Rockeseller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rockeseller",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Vends shortandel gått ned enda bittelitt fra 4,77 til 4,68 % Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "e5da603e5ddd7d1d",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 4 t siden",
+      "text": "Bare starten...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
     }
   ]
 }

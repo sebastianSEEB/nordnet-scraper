@@ -1,9 +1,39 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-11-08T10:56:21.852765+00:00",
+  "scraped_at": "2026-11-08T16:54:33.979976+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "881d5fe50efeb2b2",
+      "author": "aspeløv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
+      "posted_relative": null,
+      "text": "4. nov. · Endret Bertel O Sten har i dag kjøpt en kvart million aksjer, så det er ikke annet å forvente enn at kursen stiger, de eier nå mer enn 4 millioner aksjer Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 183,
+      "has_link": false
+    },
+    {
+      "key": "00829ec30bce6e84",
+      "author": "Fjellstar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjellstar",
+      "posted_relative": null,
+      "text": "4. nov. Ser at de hadde mer fokus på grid connection til de ulike lokasjonene enn tidligere i Q3 presentasjonen. Kan det potensielt ligge flere dc planer her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 158,
+      "has_link": false
+    }
+  ]
 }

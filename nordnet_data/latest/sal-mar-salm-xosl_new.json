@@ -1,9 +1,26 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-08T10:55:56.162298+00:00",
+  "scraped_at": "2026-11-08T16:54:05.809052+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fe8207884382da41",
+      "author": "TWOWS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
+      "posted_relative": null,
+      "text": "4. nov. Kanskje det blitt lettelser i toll til USA framover?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    }
+  ]
 }

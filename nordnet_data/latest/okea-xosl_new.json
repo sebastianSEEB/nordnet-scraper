@@ -1,9 +1,39 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-11-08T10:56:14.519650+00:00",
+  "scraped_at": "2026-11-08T16:54:25.915124+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4cfb014ca472275c",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": null,
+      "text": "4. nov. Godt fin rapport,resultat og utbytte. Men utviklingen her er ikke til å skryte av. Merkelig at den ligger i rødt idag, burde lagt på 50+",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "2ea921e9448a1fc2",
+      "author": "Porchegutt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/porchegutt",
+      "posted_relative": null,
+      "text": "4. nov. · Endret kr 100 når  krigen starter...Denne gang  er Trump en skadet løve.En farlig løve. Husk mine ord Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ]
 }

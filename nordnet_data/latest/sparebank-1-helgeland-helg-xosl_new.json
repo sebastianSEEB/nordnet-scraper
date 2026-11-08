@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-helgeland-helg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-helgeland-helg-xosl",
-  "scraped_at": "2026-11-08T10:58:24.340404+00:00",
+  "scraped_at": "2026-11-08T16:56:40.690228+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "192f75df1c1a4fa8",
+      "author": "No limits",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/no-limits",
+      "posted_relative": null,
+      "text": "4. nov. Fin oppgang ! Blir det oppkjøp ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }

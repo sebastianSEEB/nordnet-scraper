@@ -1,9 +1,23 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-11-08T10:55:13.839073+00:00",
+  "scraped_at": "2026-11-08T16:53:22.010124+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f7dfb93d91e7be35",
+      "author": "Garrido",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/garrido",
+      "posted_relative": null,
+      "text": "4. nov. · 100% 🤑",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 16,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,26 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-11-08T10:59:28.597745+00:00",
+  "scraped_at": "2026-11-08T16:57:47.056725+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d6e77dc72337db5c",
+      "author": "stratix",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
+      "posted_relative": null,
+      "text": "4. nov. Vi er inne i 3 uken av streiken, sannsynligvis går denne nå raskt mot avklaring. Fokuset blir igjen q3 og Reach Remote, og himmelferden kan begynne 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        10
+      ],
+      "links": [],
+      "char_count": 157,
+      "has_link": false
+    }
+  ]
 }

@@ -1,41 +1,37 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-08T10:55:29.284181+00:00",
+  "scraped_at": "2026-11-08T16:53:38.032830+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "6e089ca0cc2f5df8",
-      "author": "Tech1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech1",
+      "key": "459fcf62b4fdc7ef",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
       "posted_relative": null,
-      "text": "4. nov. Produktnytt: https://www.elopak.com/news/2026/parmovo-brings-out-the-best-of-the-eggs-in-cartons-with-eggscellence/",
+      "text": "4. nov. Er det noe omsetning utenfor børs igjen Hengslet ?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
-      ],
-      "links": [
-        "https://www.elopak.com/news/2026/parmovo-brings-out-the-best-of-the-eggs-in-cartons-with-eggscellence/"
-      ],
-      "char_count": 123,
-      "has_link": true
-    },
-    {
-      "key": "121abfc7c295e7c0",
-      "author": "hengslet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
-      "posted_relative": null,
-      "text": "4. nov. Hipp , hipp og hurra for valgresultatet i USA 😁",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5
+        3
       ],
       "links": [],
-      "char_count": 55,
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "10b1b2bfebcf3741",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "4. nov. · Ingenting så langt i dag",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
       "has_link": false
     }
   ]

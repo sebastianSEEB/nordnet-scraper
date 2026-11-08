@@ -1,9 +1,25 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-11-08T10:58:58.141901+00:00",
+  "scraped_at": "2026-11-08T16:57:16.015867+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "669da22c455ecc4e",
+      "author": "Jallaprinsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jallaprinsen",
+      "posted_relative": null,
+      "text": "4. nov. · Velkommen til 33-tallet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

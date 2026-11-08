@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-08T10:53:30.823947+00:00",
+  "scraped_at": "2026-11-08T16:51:34.434238+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dd5b4c03b9b2aea7",
+      "author": "Kintekunta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kintekunta",
+      "posted_relative": "for 4 t siden",
+      "text": "· Desentraliseringen av oljen og oljeprisen hjelpes ikke av en lav pris. Prisen vil være mye lavere for noen land og mye høyere for andre. Gjetter på at EU får høyest pris fordi vi har fiendtlige, kjøpte politikere.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 215,
+      "has_link": false
+    }
+  ]
 }
