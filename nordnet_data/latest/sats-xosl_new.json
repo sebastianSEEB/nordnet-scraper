@@ -1,69 +1,24 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-09T16:54:29.936193+00:00",
+  "scraped_at": "2026-11-09T18:00:54.070272+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "eeac110643297a30",
-      "author": "kariusogbaktus",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
-      "posted_relative": "for 5 t siden",
-      "text": "· Treningsbransjen set nye rekordar: https://www.nrk.no/artikkel/treningsbransjen-set-nye-rekordar-fleire-prioriterer-trening-1531586",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.nrk.no/artikkel/treningsbransjen-set-nye-rekordar-fleire-prioriterer-trening-1531586"
-      ],
-      "char_count": 133,
-      "has_link": true
-    },
-    {
-      "key": "d2baa615299a30ed",
-      "author": "ykyk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ykyk",
+      "key": "10db0ae91ddc2dd9",
+      "author": "aksjesimen33",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjesimen33",
       "posted_relative": null,
-      "text": "5. nov. Som vanlig var SATS dip en gavepakke for de med litt krutt + horisont på mer enn noen få dager. Vis 1 kommentar til",
+      "text": "5. nov. Virker ikke som CPOO er enig i hvert fall.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        3
+        1
       ],
       "links": [],
-      "char_count": 123,
-      "has_link": false
-    },
-    {
-      "key": "e28ab708454fc7fd",
-      "author": "ykyk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ykyk",
-      "posted_relative": null,
-      "text": "5. nov. Morsom timing på den 😂 Jeg økte på 43,35, 41,5 og 39,5 så det står seg greit for min del 😂",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 98,
-      "has_link": false
-    },
-    {
-      "key": "204e064dc5dd6a1e",
-      "author": "Michi13",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michi13",
-      "posted_relative": null,
-      "text": "5. nov. Var vi ikke enig om at den skal gå over 50? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
-      "links": [],
-      "char_count": 71,
+      "char_count": 50,
       "has_link": false
     }
   ]
