@@ -1,9 +1,36 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-11-09T07:27:32.926171+00:00",
+  "scraped_at": "2026-11-09T16:53:55.318658+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7f1b625fda9cc630",
+      "author": "Titersito",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/titersito",
+      "posted_relative": null,
+      "text": "5. nov. Medistim er såpass illikvid at slike nyheter ikke treffer akjsen verken på oppsiden eller nedsiden. Den er mye mer styrt etter når litt småstore aktører selger eller kjøper.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 181,
+      "has_link": false
+    },
+    {
+      "key": "48be71c37bc39388",
+      "author": "Travellingman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/travellingman",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvorfor går den opp?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

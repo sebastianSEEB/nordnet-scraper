@@ -1,9 +1,38 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwib-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwib-xosl",
-  "scraped_at": "2026-11-09T07:24:46.974667+00:00",
+  "scraped_at": "2026-11-09T16:51:12.636193+00:00",
   "first_run": false,
-  "total_posts_on_page": 5,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5c453157bed7dc29",
+      "author": "Ottotoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ottotoo",
+      "posted_relative": "for 8 t siden",
+      "text": "Selskapet ønsker å kjøpe billige aksjer fra oss andre. det er 2 dager til X. selskapet drives bra men gud bedre for en gjeng når det gjelder aksjer, andre aksjeeiere og familie......",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 182,
+      "has_link": false
+    },
+    {
+      "key": "cca8ebca3337603b",
+      "author": "terje84",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/terje84",
+      "posted_relative": "for 8 t siden",
+      "text": "du setter selv prisen i svarskjema da",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

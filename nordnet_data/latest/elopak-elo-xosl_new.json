@@ -1,9 +1,83 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-09T07:27:16.445302+00:00",
+  "scraped_at": "2026-11-09T16:53:39.402942+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "f0fd0a4a1c010b76",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": null,
+      "text": "5. nov. Tror nå nok en gang at det viser seg at det er enorm lite salgsvilje rundt 34 kroner og at det dermed fremstår som et solid gulv i dette område",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "19bc8541b799ff2c",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": null,
+      "text": "5. nov. det lyser sektor rotasjoner rund baut , så gode muligheter for at Elopak skyter videre opp i dagene som kommer .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "6916c8ecea8c8830",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 6 t siden",
+      "text": "Finnes mange grunner til å selge en aksje  og få grunner til å kjøpe ;) noen ser i alle fall potensiale på kjøp her da",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "5d16102ee5c9ccf5",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 6 t siden",
+      "text": "Blokk på 618 000 aksjer overført idag kl 09:20 til kurs 34,70. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "20d580f8f41fb7b1",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": null,
+      "text": "5. nov. Og nye produksjonslinjer :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

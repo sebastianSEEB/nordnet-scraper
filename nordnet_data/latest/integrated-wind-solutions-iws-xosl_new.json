@@ -1,9 +1,38 @@
 {
   "slug": "integrated-wind-solutions-iws-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/integrated-wind-solutions-iws-xosl",
-  "scraped_at": "2026-11-09T07:31:07.386156+00:00",
+  "scraped_at": "2026-11-09T16:57:26.197211+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8de995f9e8335274",
+      "author": "Stein58",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein58",
+      "posted_relative": null,
+      "text": "5. nov. Skal vi håpe på at den har begynt å gå nordover?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "36fdaeab18335530",
+      "author": "dr_noclue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dr_noclue",
+      "posted_relative": null,
+      "text": "5. nov. den har gått nordover de siste 5 årene...",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

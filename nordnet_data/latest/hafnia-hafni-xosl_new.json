@@ -1,9 +1,41 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-09T07:24:00.228444+00:00",
+  "scraped_at": "2026-11-09T16:50:25.638812+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "bfae96595206e89d",
+      "author": "JOLI66",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joli66",
+      "posted_relative": null,
+      "text": "5. nov. Pacific MR basket 🤑🤑🤑 Atlantic MR basket holder seg også sprek💪💪💪",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "f4278efa4f03d668",
+      "author": "Johannes14",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johannes14",
+      "posted_relative": null,
+      "text": "5. nov. Ordner seg når panikken har lagt seg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

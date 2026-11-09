@@ -1,9 +1,68 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-09T07:25:14.626291+00:00",
+  "scraped_at": "2026-11-09T16:51:39.151131+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "b7469214b221f9e9",
+      "author": "Quebrada",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quebrada",
+      "posted_relative": "for 1 t siden",
+      "text": "Trump og Rubio har uttalt at de er nødt til å gjøre noe med Iran. Får de tak i atomvåpen så kommer de til å bruke de mot vesten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "41cd652a518c43f9",
+      "author": "Karve",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karve",
+      "posted_relative": "for 9 t siden",
+      "text": "J.P Morgan kjøpt seg solid opp før helgen når Bluenord stupte ref børsmelding . De STORE kjøper når markedet skjelver🥴",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "843bb9e81a4c9064",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Nå som Trump herjer i Iran igjen,så vil vel oljeprisen stige igjen?tror dere ikke Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "e24f0639dab7d628",
+      "author": "Ligurio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ligurio",
+      "posted_relative": "for 2 t siden",
+      "text": "nei",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

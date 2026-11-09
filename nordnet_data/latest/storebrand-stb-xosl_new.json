@@ -1,25 +1,35 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-09T07:29:33.423608+00:00",
+  "scraped_at": "2026-11-09T16:55:54.329717+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "ddab770063c9db82",
-      "author": "Thassen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thassen",
-      "posted_relative": null,
-      "text": "5. nov. Et dumt spørsmål kanskje, men hva skjer med denne hvis en AI-boble brister?",
+      "key": "2b34a427fa307f26",
+      "author": "Mithrox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mithrox",
+      "posted_relative": "for 5 t siden",
+      "text": "Ikke en bjellesau, men som styremedlem regnes han som innsider og da er det alltid interessant å se når de kjøper, det er som regel basert på positiv interne signaler.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 167,
+      "has_link": false
+    },
+    {
+      "key": "2af9631ca9e056da",
+      "author": "ROPS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rops",
+      "posted_relative": "for 4 t siden",
+      "text": "· Ai-boblen hadde sprukket litt jeg eier noen ai-aksjer.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1,
-        3
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 83,
+      "char_count": 56,
       "has_link": false
     }
   ]

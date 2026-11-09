@@ -1,9 +1,102 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-09T07:28:59.098093+00:00",
+  "scraped_at": "2026-11-09T16:55:19.656070+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "dd3999c9d488fbe5",
+      "author": "ijpo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ijpo",
+      "posted_relative": null,
+      "text": "5. nov. Her kan du se om det er aktuelt for deg å henvende deg til norske skattemyndigheter for tilbakebetaling av withholding tax. For nordmenn med danske utbytteaksjer er det i alle fall denne måten vi får tilbakebetalt fra danske myndigheter. https://www.skatteetaten.no/en/person/taxes/get-the-taxes-right/shares-and-securities/about-shares-and-securities/reduced-withholding-tax-on-dividends/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.skatteetaten.no/en/person/taxes/get-the-taxes-right/shares-and-securities/about-shares-and-securities/reduced-withholding-tax-on-dividends/"
+      ],
+      "char_count": 397,
+      "has_link": true
+    },
+    {
+      "key": "e68e5e6a224ba6ea",
+      "author": "InvestorNJ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investornj",
+      "posted_relative": "for 5 t siden",
+      "text": "https://e24.no/boers-og-finans/i/X9GnEE/analytikere-dette-boer-du-vite-foer-dnbs-kapitalmarkedsdag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/X9GnEE/analytikere-dette-boer-du-vite-foer-dnbs-kapitalmarkedsdag"
+      ],
+      "char_count": 98,
+      "has_link": true
+    },
+    {
+      "key": "d197d44e8c4e96bb",
+      "author": "Bankmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bankmann",
+      "posted_relative": "for 7 t siden",
+      "text": "Kapitalmarkedsdag i morgen - før i tiden pleide det å være en positivt event. Men i det siste har mange aksjer falt på slike dager.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "ce09d624c5439c72",
+      "author": "Linjemannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/linjemannen",
+      "posted_relative": null,
+      "text": "5. nov. Intradag ATH. Passer fint på en dag hvor mye annet raser ned i uværet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "e1d4a113e2ef3c5e",
+      "author": "MariusHN01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariushn01",
+      "posted_relative": null,
+      "text": "5. nov. Har frigjort litt midler, er det dumt å kjøpe seg inn hær nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        18
+      ],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "338700eeaa1523b0",
+      "author": "EandL",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eandl",
+      "posted_relative": "for 5 t siden",
+      "text": "Innhold?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

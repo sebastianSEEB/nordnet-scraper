@@ -1,24 +1,39 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-11-09T07:24:38.990943+00:00",
+  "scraped_at": "2026-11-09T16:51:04.995090+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "618136c1c6181e04",
+      "key": "38e98fe8a30343ca",
       "author": "Cheapo",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
       "posted_relative": null,
-      "text": "5. nov. · DNB Carnegie hever WAWI kursmål til 210: \"Vi gjør begrensede estimatjusteringer på bakgrunn av Q3-rapporten, men er oppmuntret av Wallenius Wilhelmsens potensial til å sikre gunstige kontrakter i dette opphetede markedet for å dekke meste parten av 2027–29-fraktskapasiteten. Med tanke på potensialet for å øke transportkapasiteten gjennom innkommende nybygg og forbedret handelseffektivitet, mener vi konsensus er moderat. Vi gjentar KJØP og hever kursmålet til NOK210 (205).\"",
+      "text": "5. nov. · SB1 Markets i dag: \"Vi høyer vårt kursmål til NOK195/aksje (6x 2027e EBITDA) og oppgraderer WAWI til Kjøp, ettersom markedet har strammet seg betydelig til og flertallet av WAWIs fraktkapasitet for 2027 til 2029 forventes å være kontraktsfestet ved årsslutt med fornyelser til rater som reflekterer dagens markedsforhold. Vi løfter derfor våre estimater (+17%/+29% for henholdsvis 2027/28 EBITDA), hovedsakelig drevet av høyere forventede realiserte rater i Shipping Services, noe som etterlater oss 5%/16% over konsensus på 2027/28 EBITDA. WAWI til 5,6x H226 løpende EBITDA og 5,2x vår 2027e EBITDA på ~USD1,8 mrd. er attraktivt. Kjøp, kursmål NOK195.\"",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        4
       ],
       "links": [],
-      "char_count": 487,
+      "char_count": 663,
+      "has_link": false
+    },
+    {
+      "key": "7a75bf5155e6ef21",
+      "author": "Cheapo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
+      "posted_relative": null,
+      "text": "5. nov. · ABG høyer kursmålet til 205: \"TP NOK 205 (195) – BUY We base our target price of NOK 205 on our one-year forward NAV of NOK 186/sh, to which we apply a 10% premium as we believe the market will stay tight in the coming years.\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 236,
       "has_link": false
     }
   ]

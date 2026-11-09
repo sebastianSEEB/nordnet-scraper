@@ -1,9 +1,54 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-09T07:29:29.616573+00:00",
+  "scraped_at": "2026-11-09T16:55:50.490259+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8b07bba3a3ec3a87",
+      "author": "Egiherm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/egiherm",
+      "posted_relative": "for 6 t siden",
+      "text": "Vi må over 105.90 for å stige til gamle høyder. Håper Roche kjøper opsjonen på 9% i OFI slik at vi kan få 1 kr.  I EOU i tillegg til  kr,4,50 i ordinært utbytte",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        1
+      ],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    },
+    {
+      "key": "2a0d55e108d8b878",
+      "author": "JesperInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jesperinvest",
+      "posted_relative": "for 3 døgn siden",
+      "text": "Blir spennende å se om den klarer å gjøre om 102 nivået til support",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "30307733c54d5c2f",
+      "author": "kattenkatt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kattenkatt",
+      "posted_relative": "for 3 t siden",
+      "text": "· Er vel ikke umulig at det kan bli 2 nkr?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

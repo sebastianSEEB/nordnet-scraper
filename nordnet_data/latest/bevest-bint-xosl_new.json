@@ -1,22 +1,65 @@
 {
   "slug": "bevest-bint-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bevest-bint-xosl",
-  "scraped_at": "2026-11-09T07:31:03.075975+00:00",
+  "scraped_at": "2026-11-09T16:57:22.179445+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "d450d1df8bef0b35",
-      "author": "Baretap12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Tenke-Stay away Hvorfor i alle dager vurderer du kjøpe denne?",
+      "key": "31b86c8834b60de3",
+      "author": "Steffo01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffo01",
+      "posted_relative": "for 3 døgn siden",
+      "text": "På den ene siden så burte man ha kjøpt denne. På den andre siden så er det så skummelt med aksjer som det nesten ikke er omsetning i? Hvordan tenker dere? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "0cdecc72014758cc",
+      "author": "Volven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
+      "posted_relative": null,
+      "text": "5. nov. NAV kr 29,6 i Q2-rapporten, så etter Q3-tallene fra BEWI, vil NAV i Bevest antakelig overstige kr 30 i den kommende Q3-rapporten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    },
+    {
+      "key": "7ef51076711e22ae",
+      "author": "Volven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
+      "posted_relative": null,
+      "text": "5. nov. Når NAV er over 30 kroner, så er det tullete av børsen å ty til handelspause selv om det går fort oppover.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 61,
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "7f658d598c134fc9",
+      "author": "Steffo01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/steffo01",
+      "posted_relative": "for 2 t siden",
+      "text": "Spørs om de noen gang vil begynne å betale store utbytter? Hva tenker dere?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 75,
       "has_link": false
     }
   ]
