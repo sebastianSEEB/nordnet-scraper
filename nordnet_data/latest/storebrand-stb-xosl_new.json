@@ -1,9 +1,26 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-09T00:22:38.440591+00:00",
+  "scraped_at": "2026-11-09T07:29:33.423608+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ddab770063c9db82",
+      "author": "Thassen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thassen",
+      "posted_relative": null,
+      "text": "5. nov. Et dumt spørsmål kanskje, men hva skjer med denne hvis en AI-boble brister?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-09T00:24:24.244402+00:00",
+  "scraped_at": "2026-11-09T07:31:19.010313+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0f7d26ff6ce67a59",
+      "author": "bartS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barts",
+      "posted_relative": "for 32 min siden",
+      "text": "· Noe konkret angående Thor du tenker på her, eller bare 'en spennende uke', generelt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    }
+  ]
 }

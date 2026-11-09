@@ -1,9 +1,39 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-09T00:20:42.737126+00:00",
+  "scraped_at": "2026-11-09T07:27:40.840786+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "db1565759071fd0b",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 2 min siden · Endret",
+      "text": "Mest fornuftige fra dem noensinne. De tenker det samme som meg, og ser forbi ørsmå bom på ordrebok og økte kostnader for fremtidig vekst. Dette bør kunne gi et solid løft. Så tørr jeg påstå at det er ABSURD om dette er det som kreves for å løfte kursen - at 1 gjøk av en analytiker har sånn makt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 296,
+      "has_link": false
+    },
+    {
+      "key": "b9eee93c32a6497c",
+      "author": "Kanick",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
+      "posted_relative": "for 1 t siden",
+      "text": "DNB Carnegie höjer Autostore till köp (behåll), riktkurs 24 norska kronor (17) Dæven,grei oppjustering ☺️ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }

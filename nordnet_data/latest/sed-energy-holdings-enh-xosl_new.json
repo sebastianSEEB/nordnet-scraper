@@ -1,9 +1,36 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-09T00:19:51.524074+00:00",
+  "scraped_at": "2026-11-09T07:26:48.171430+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "83266115ca3b367b",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 31 min siden · Endret",
+      "text": "Ledelsen har vel annet å bedrive tiden med en å svare på masete mailer fra små investorer. At aksjen ikke stiger er ganske lett å forstå, selskapets inntjening blir lavere fremover, selskapet er pdd fult ut priset i aksje markedet og da står man stort sett igjen med risikoen og nedsiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 288,
+      "has_link": false
+    },
+    {
+      "key": "fc4f3f7ae746a110",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 6 min siden",
+      "text": "Arctic senker kursmålet fra 10-8 kr opprettholder kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }

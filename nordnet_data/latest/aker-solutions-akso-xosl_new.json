@@ -1,9 +1,25 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-11-09T00:19:24.374968+00:00",
+  "scraped_at": "2026-11-09T07:26:21.235010+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2eb62452e66abcd5",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": null,
+      "text": "5. nov. Aker Solutions ASA: Aker Solutions receives letter of award for engineering scope on the Maydan Mahzam project in Qatar Close i dag kl. 08:00 ∙ Cision ^1^Aker Solutions defines a sizeable contract as being between NOK 0.5 billion and NOK 1.5 billion.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 258,
+      "has_link": false
+    }
+  ]
 }

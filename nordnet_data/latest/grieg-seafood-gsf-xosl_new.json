@@ -1,9 +1,53 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-11-09T00:20:27.047031+00:00",
+  "scraped_at": "2026-11-09T07:27:24.452470+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "6c75259dc0e8a082",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 4 t siden",
+      "text": "På veg mot låne brudd https://www.finansavisen.no/sjomat/2026/11/06/8394048/pareto-grieg-er-pa-vei-mot-lanebrudd?zephr_sso_ott=bwIQEL Invester aldri i laks Det er Baretap Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/11/06/8394048/pareto-grieg-er-pa-vei-mot-lanebrudd?zephr_sso_ott=bwIQEL"
+      ],
+      "char_count": 190,
+      "has_link": true
+    },
+    {
+      "key": "0044b03c63768248",
+      "author": "carrlo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
+      "posted_relative": "for 16 min siden",
+      "text": "Rogaland har de siste ti årene vært blant de beste oppdretterne på Vestlandet når det gjelder utnyttelse og lønnsomhet, og er blant de billigste lakseselskapene målt etter EV/kg.  De siste fire årene har Rogaland skapt mer i samlet operasjonelt driftsresultat enn hele GSF er verdsatt til på børsen i dag. Fra 2022 til 2025 har Rogaland samlet levert 2,69 milliarder kroner i operasjonell EBIT. Det er i snitt 672 millioner kroner årlig. Det er nesten utrolig når vi sammenligner med en børsverdi på 2,51 milliarder. Rogaland sin historiske inntjening gir et bedre bilde av dokumentert lønnsomhet enn det vi får ved å bare se på overgangsåret 2026.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 648,
+      "has_link": false
+    },
+    {
+      "key": "df67ce85d041ea80",
+      "author": "carrlo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
+      "posted_relative": "for 3 min siden",
+      "text": "I analysen verdsetter Pareto GSF til: 31 kroner per aksje basert på underliggende eiendeler. 38,50 i sitt positive eiendelsscenario. 30,50 basert på normalisert inntjening. De forventer også at egenkapitalandelen igjen kommer over 30% i løpet av 2027.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 251,
+      "has_link": false
+    }
+  ]
 }

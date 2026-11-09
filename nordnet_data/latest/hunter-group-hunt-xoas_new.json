@@ -1,9 +1,43 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-09T00:21:50.379636+00:00",
+  "scraped_at": "2026-11-09T07:28:47.261205+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "626269a13489d10e",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 49 min siden",
+      "text": "«Betalingsstriden mellom Hunter Group og Mercuria fortsetter. Nå står 816 millioner kroner ubetalt.» https://www.finansavisen.no/shipping/2026/11/09/8394226/nekter-a-betale-kunde-skylder-816-mill.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/11/09/8394226/nekter-a-betale-kunde-skylder-816-mill."
+      ],
+      "char_count": 196,
+      "has_link": true
+    },
+    {
+      "key": "aa48fa95c16f9f6e",
+      "author": "phor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
+      "posted_relative": "for 30 min siden",
+      "text": "Selv med redusert betaling fra Mercuria ser oktober ut til å ha gitt rundt 3,51 kr per aksje etter skatt i faktisk mottatt verdi. Ved full betaling ville samme måned vært rundt 4,53 kr per aksje. Det sier litt om hvor ekstrem inntjeningen faktisk er på dagens ratenivåer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 271,
+      "has_link": false
+    }
+  ]
 }

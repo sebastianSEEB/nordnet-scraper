@@ -1,9 +1,25 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-09T00:18:52.496375+00:00",
+  "scraped_at": "2026-11-09T07:25:49.049834+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2204500aee50322f",
+      "author": "ShippingFond",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond",
+      "posted_relative": "for 44 min siden",
+      "text": "DOF Group ASA - Contract extension for Skandi Mariner i dag kl. 07:17 ∙ Oslo Børs DOF Group ASA (\"DOF\") is pleased to announce that the AHTS Skandi Mariner has had an option relating to its current contract declared. The contract was previously set to end in Q2 2027, and is now firm until Q3 2028. The value of the extension period is Significant*. *DOF defines a Significant contract as a contract with value between USD 15 million and USD 25 million. Contact information: Eirik Vardøy, Investor Relations DOF Group ASA Phone: +47 94 83 64 64",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 544,
+      "has_link": false
+    }
+  ]
 }
