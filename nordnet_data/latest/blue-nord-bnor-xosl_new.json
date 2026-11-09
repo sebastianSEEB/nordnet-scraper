@@ -1,9 +1,39 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-08T20:53:11.564389+00:00",
+  "scraped_at": "2026-11-09T00:18:16.308548+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e3dbdf90f97f43e4",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": "for 2 døgn siden",
+      "text": "· Det er bekymrende at det er så mange store institusjoner som tar hjem penger nå Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "8825bdbd11f79d83",
+      "author": "lasse1635",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
+      "posted_relative": "for 2 t siden",
+      "text": "· Hva hva betyr alt det dere sier? At vår aksje stiger? Fordi det er mer etterspørsel etter olje?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

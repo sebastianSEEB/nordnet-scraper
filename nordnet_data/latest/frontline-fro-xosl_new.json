@@ -1,9 +1,49 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-11-08T20:51:45.193617+00:00",
+  "scraped_at": "2026-11-09T00:16:50.337687+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c1ba33daa365f58e",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 59 min siden",
+      "text": "· RUBIO:SAMTALENE IKKE PRODUKTIVE, IRANSKE KRAV ENKELT OG GREIT UAKSEPTABLE 😔 11:07 PM · Nov 8, 2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "d6d847eca16c4313",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hvis ostepopen ikkje rører Pichaxe Mountain neste uke, så går ratene ned",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "4a5a1638636903c7",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 3 t siden",
+      "text": "Av hvem?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }
