@@ -55,7 +55,12 @@
  },
  "1204936061": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/1204936061",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:43:55.916290+00:00"
  },
  "123janjo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/123janjo",
@@ -86,7 +91,12 @@
  },
  "143obx": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/143obx",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:45:30.477576+00:00"
  },
  "1939coachbuild": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/1939coachbuild",
@@ -117,7 +127,12 @@
  },
  "1kita2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/1kita2",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:46:10.268876+00:00"
  },
  "1lggnas": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/1lggnas",
@@ -364,7 +379,12 @@
  },
  "929": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/929",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:46:11.743425+00:00"
  },
  "9kolai": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/9kolai",
@@ -377,7 +397,7 @@
  },
  "a20": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
-  "forum_posts": 90,
+  "forum_posts": 91,
   "stars": 1,
   "parsed_by": "regex3",
   "followers": 14,
@@ -818,7 +838,12 @@
  },
  "akar": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/akar",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:48:19.881569+00:00"
  },
  "akarjis": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/akarjis",
@@ -1029,7 +1054,12 @@
  },
  "aksjemannen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjemannen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:46:18.613005+00:00"
  },
  "aksjemeieriet-nr-4": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjemeieriet-nr-4",
@@ -1078,7 +1108,12 @@
  },
  "aksjesimen33": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjesimen33",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:48:58.101357+00:00"
  },
  "aksjesondre": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjesondre",
@@ -1188,6 +1223,15 @@
   "member_for": "11 år",
   "checked_at": "2026-11-07T08:47:22.423613+00:00"
  },
+ "al-forno": {
+  "url": "https://www.nordnet.no/aksjeforum/medlemmer/al-forno",
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 måneder",
+  "checked_at": "2026-11-09T09:50:34.023622+00:00"
+ },
  "al_manjana": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/al_manjana",
   "forum_posts": 11,
@@ -1235,7 +1279,12 @@
  },
  "alanda": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/alanda",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:44:55.326535+00:00"
  },
  "alaskaboy": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/alaskaboy",
@@ -1509,7 +1558,7 @@
  },
  "allstein": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/allstein",
-  "forum_posts": 13,
+  "forum_posts": 14,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 37,
@@ -1581,7 +1630,7 @@
  },
  "alph": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/alph",
-  "forum_posts": 42,
+  "forum_posts": 43,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 7,
@@ -1689,7 +1738,12 @@
  },
  "amadeusx": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/amadeusx",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "9 år",
+  "checked_at": "2026-11-09T09:49:42.934218+00:00"
  },
  "amaf2345": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/amaf2345",
@@ -1711,7 +1765,7 @@
  },
  "amatr-delux": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/amatr-delux",
-  "forum_posts": 40,
+  "forum_posts": 43,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 13,
@@ -1747,7 +1801,12 @@
  },
  "ameierr": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ameierr",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:46:39.533979+00:00"
  },
  "ameks": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ameks",
@@ -1877,7 +1936,12 @@
  },
  "andersgrondal": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/andersgrondal",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:44:19.115368+00:00"
  },
  "anderspanders": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/anderspanders",
@@ -2124,7 +2188,12 @@
  },
  "annenym": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/annenym",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 27,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:49:50.966751+00:00"
  },
  "anno67": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/anno67",
@@ -2276,7 +2345,12 @@
  },
  "araa": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/araa",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 13,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:46:43.622338+00:00"
  },
  "arathorn": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/arathorn",
@@ -2334,7 +2408,12 @@
  },
  "arha": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/arha",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 16,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:46:14.547142+00:00"
  },
  "arildlil": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/arildlil",
@@ -2446,7 +2525,7 @@
  },
  "arse": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/arse",
-  "forum_posts": 21,
+  "forum_posts": 22,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 4,
@@ -2491,7 +2570,7 @@
  },
  "aruhoff": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/aruhoff",
-  "forum_posts": 3,
+  "forum_posts": 4,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -2545,7 +2624,12 @@
  },
  "asbjorngrundt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/asbjorngrundt",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:48:24.011391+00:00"
  },
  "asger06": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/asger06",
@@ -2639,7 +2723,7 @@
  },
  "aso_86": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/aso_86",
-  "forum_posts": 8,
+  "forum_posts": 10,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -2648,7 +2732,7 @@
  },
  "aspelv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
-  "forum_posts": 36,
+  "forum_posts": 37,
   "stars": 0,
   "parsed_by": "regex3",
   "followers": 19,
@@ -2738,7 +2822,12 @@
  },
  "audun57": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/audun57",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:44:40.212635+00:00"
  },
  "augern": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/augern",
@@ -2922,7 +3011,7 @@
  },
  "b112k": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/b112k",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -2985,7 +3074,12 @@
  },
  "bacalhau": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bacalhau",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 35,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:44.488952+00:00"
  },
  "bacana": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bacana",
@@ -3025,7 +3119,12 @@
  },
  "badboydk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/badboydk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:45:44.022634+00:00"
  },
  "baewert": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/baewert",
@@ -3047,7 +3146,12 @@
  },
  "baggins91": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/baggins91",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 10,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:48:48.616043+00:00"
  },
  "bagnis": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bagnis",
@@ -3078,7 +3182,12 @@
  },
  "baiaz69": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/baiaz69",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:47:25.608390+00:00"
  },
  "bajazz": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bajazz",
@@ -3244,7 +3353,12 @@
  },
  "banki0": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/banki0",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:44:44.289555+00:00"
  },
  "bankmann": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bankmann",
@@ -3293,7 +3407,7 @@
  },
  "barcelona1986": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/barcelona1986",
-  "forum_posts": 54,
+  "forum_posts": 55,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 65,
@@ -3320,7 +3434,12 @@
  },
  "bareboat": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bareboat",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:45:48.087293+00:00"
  },
  "barebull66": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/barebull66",
@@ -3351,7 +3470,12 @@
  },
  "baremuligheter": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/baremuligheter",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:48:34.918687+00:00"
  },
  "barentz1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/barentz1",
@@ -3364,7 +3488,7 @@
  },
  "baretap12": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-  "forum_posts": 204,
+  "forum_posts": 210,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": null,
@@ -3409,7 +3533,7 @@
  },
  "barts": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/barts",
-  "forum_posts": 3,
+  "forum_posts": 4,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 4,
@@ -3445,7 +3569,7 @@
  },
  "bastus68": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68",
-  "forum_posts": 79,
+  "forum_posts": 81,
   "stars": 3,
   "parsed_by": "regex3",
   "followers": 183,
@@ -3490,7 +3614,7 @@
  },
  "bb-investments": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bb-investments",
-  "forum_posts": 11,
+  "forum_posts": 12,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -3544,7 +3668,7 @@
  },
  "bcc165": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bcc165",
-  "forum_posts": 9,
+  "forum_posts": 10,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -3607,7 +3731,12 @@
  },
  "bedlog": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bedlog",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "9 år",
+  "checked_at": "2026-11-09T09:44:58.039367+00:00"
  },
  "bedman1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bedman1",
@@ -3737,7 +3866,7 @@
  },
  "ben-hur": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ben-hur",
-  "forum_posts": 9,
+  "forum_posts": 10,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 55,
@@ -3836,7 +3965,12 @@
  },
  "benjaminbonne": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/benjaminbonne",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:43:47.473619+00:00"
  },
  "benjaminme": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/benjaminme",
@@ -3876,7 +4010,12 @@
  },
  "benredicfyfasan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfasan",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:45:27.727571+00:00"
  },
  "benredicfyfazan26": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/benredicfyfazan26",
@@ -3898,7 +4037,12 @@
  },
  "bensku": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bensku",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 18,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:48:26.724220+00:00"
  },
  "bent-burg": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bent-burg",
@@ -3956,7 +4100,7 @@
  },
  "berntolav": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/berntolav",
-  "forum_posts": 12,
+  "forum_posts": 13,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -4010,7 +4154,7 @@
  },
  "beyond-21": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/beyond-21",
-  "forum_posts": 36,
+  "forum_posts": 37,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 61,
@@ -4194,7 +4338,7 @@
  },
  "binga": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
-  "forum_posts": 12,
+  "forum_posts": 14,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -4212,7 +4356,12 @@
  },
  "binken": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/binken",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:59.132439+00:00"
  },
  "biocash": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/biocash",
@@ -4240,6 +4389,15 @@
   "followers": 2,
   "member_for": "2 år",
   "checked_at": "2026-11-07T08:43:52.521145+00:00"
+ },
+ "birgerino": {
+  "url": "https://www.nordnet.no/aksjeforum/medlemmer/birgerino",
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 måneder",
+  "checked_at": "2026-11-09T09:50:32.694237+00:00"
  },
  "birkeland-porteflje": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/birkeland-porteflje",
@@ -4598,7 +4756,7 @@
  },
  "blue2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/blue2",
-  "forum_posts": 46,
+  "forum_posts": 47,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 471,
@@ -4643,7 +4801,7 @@
  },
  "blx": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
-  "forum_posts": 70,
+  "forum_posts": 72,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -4706,7 +4864,12 @@
  },
  "boblerdk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/boblerdk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 65,
+  "member_for": "9 år",
+  "checked_at": "2026-11-09T09:50:16.096930+00:00"
  },
  "bobmarokk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bobmarokk",
@@ -4719,7 +4882,12 @@
  },
  "bobni": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bobni",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 måneder",
+  "checked_at": "2026-11-09T09:49:11.672190+00:00"
  },
  "bobnrd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bobnrd",
@@ -4786,7 +4954,12 @@
  },
  "bok75": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bok75",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 16,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:45:18.458186+00:00"
  },
  "bolee": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bolee",
@@ -5033,7 +5206,7 @@
  },
  "branthebroken": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/branthebroken",
-  "forum_posts": 52,
+  "forum_posts": 54,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 63,
@@ -5078,7 +5251,7 @@
  },
  "brd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/brd",
-  "forum_posts": 2,
+  "forum_posts": 4,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -5213,7 +5386,12 @@
  },
  "brst-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/brst-1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:45:23.744140+00:00"
  },
  "bruce-wayne-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bruce-wayne-2",
@@ -5316,7 +5494,12 @@
  },
  "buddydinero": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/buddydinero",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:45:46.707486+00:00"
  },
  "budfoxw": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/budfoxw",
@@ -5594,7 +5777,7 @@
  },
  "bunch1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/bunch1",
-  "forum_posts": 9,
+  "forum_posts": 10,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -5945,7 +6128,7 @@
  },
  "carrlo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/carrlo",
-  "forum_posts": 80,
+  "forum_posts": 82,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 473,
@@ -5954,7 +6137,12 @@
  },
  "cartwheel": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cartwheel",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:45:57.762849+00:00"
  },
  "cash-is-king-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cash-is-king-1",
@@ -6048,7 +6236,12 @@
  },
  "ceshare": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ceshare",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 12,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:46:06.030373+00:00"
  },
  "cflthakid": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cflthakid",
@@ -6151,7 +6344,7 @@
  },
  "charlie-spr": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/charlie-spr",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -6205,7 +6398,7 @@
  },
  "cheapo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cheapo",
-  "forum_posts": 42,
+  "forum_posts": 43,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 6,
@@ -6259,7 +6452,12 @@
  },
  "chinchilling": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/chinchilling",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:44:45.604983+00:00"
  },
  "chirp": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/chirp",
@@ -6308,7 +6506,12 @@
  },
  "chr1st1ant": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/chr1st1ant",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:47:33.650862+00:00"
  },
  "chr69": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/chr69",
@@ -6321,7 +6524,12 @@
  },
  "chrbah": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/chrbah",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "11 måneder",
+  "checked_at": "2026-11-09T09:48:32.206002+00:00"
  },
  "chriped": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/chriped",
@@ -6379,7 +6587,12 @@
  },
  "chrissern-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/chrissern-1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 måneder",
+  "checked_at": "2026-11-09T09:47:58.277149+00:00"
  },
  "christianms": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/christianms",
@@ -6450,7 +6663,12 @@
  },
  "cianordmaling": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cianordmaling",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 10,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:48:05.097500+00:00"
  },
  "cilledm": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cilledm",
@@ -6499,7 +6717,12 @@
  },
  "cl-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cl-2",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:43:54.512829+00:00"
  },
  "clanz": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/clanz",
@@ -6566,7 +6789,12 @@
  },
  "coacht": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/coacht",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "9 år",
+  "checked_at": "2026-11-09T09:46:01.990702+00:00"
  },
  "coalemusismyvibe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/coalemusismyvibe",
@@ -6777,7 +7005,12 @@
  },
  "crazydevill": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/crazydevill",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 uker",
+  "checked_at": "2026-11-09T09:46:40.862199+00:00"
  },
  "crescita": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/crescita",
@@ -6826,7 +7059,7 @@
  },
  "cronic": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
-  "forum_posts": 66,
+  "forum_posts": 69,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 52,
@@ -7240,7 +7473,12 @@
  },
  "datah": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/datah",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "9 måneder",
+  "checked_at": "2026-11-09T09:46:29.797574+00:00"
  },
  "datanerden": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/datanerden",
@@ -7307,7 +7545,7 @@
  },
  "deadhero": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/deadhero",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 4,
@@ -7406,7 +7644,12 @@
  },
  "dennisb-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dennisb-1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:50:25.671514+00:00"
  },
  "denstoretaperen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/denstoretaperen",
@@ -7516,6 +7759,15 @@
   "member_for": "6 år",
   "checked_at": "2026-11-08T09:04:50.718643+00:00"
  },
+ "dew_point": {
+  "url": "https://www.nordnet.no/aksjeforum/medlemmer/dew_point",
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:50:31.288372+00:00"
+ },
  "dfin": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dfin",
   "forum_posts": 1,
@@ -7554,7 +7806,12 @@
  },
  "diddipe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/diddipe",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:44:30.415178+00:00"
  },
  "diddy777": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/diddy777",
@@ -7706,7 +7963,7 @@
  },
  "dividenddynasty": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dividenddynasty",
-  "forum_posts": 41,
+  "forum_posts": 42,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 41,
@@ -7733,7 +7990,7 @@
  },
  "djensens": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/djensens",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 68,
@@ -7760,7 +8017,12 @@
  },
  "dmdm": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dmdm",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:45:34.473374+00:00"
  },
  "dn5": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dn5",
@@ -7782,7 +8044,12 @@
  },
  "dnvms": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dnvms",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:48:56.740156+00:00"
  },
  "dobnit": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dobnit",
@@ -7822,7 +8089,12 @@
  },
  "doktor-nielsen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/doktor-nielsen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 11,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:46:53.168945+00:00"
  },
  "dolfi": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dolfi",
@@ -7934,7 +8206,12 @@
  },
  "dorin": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dorin",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 18,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:47:37.653232+00:00"
  },
  "dorvmelando": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dorvmelando",
@@ -7965,7 +8242,7 @@
  },
  "doubt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/doubt",
-  "forum_posts": 27,
+  "forum_posts": 30,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 20,
@@ -7992,7 +8269,12 @@
  },
  "dr_mog": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dr_mog",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:46:13.149994+00:00"
  },
  "dr_noclue": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/dr_noclue",
@@ -8131,7 +8413,12 @@
  },
  "drivhuset": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/drivhuset",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:50:00.476481+00:00"
  },
  "drlvaas": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/drlvaas",
@@ -8477,7 +8764,12 @@
  },
  "edvardkk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/edvardkk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:44:38.873564+00:00"
  },
  "edvgs": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/edvgs",
@@ -8490,7 +8782,12 @@
  },
  "edvin70": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/edvin70",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:49.980182+00:00"
  },
  "effhe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/effhe",
@@ -8701,7 +8998,7 @@
  },
  "ekkoloddet": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ekkoloddet",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -8890,11 +9187,21 @@
  },
  "eltigre": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/eltigre",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:48:28.051397+00:00"
  },
  "eltomaso": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/eltomaso",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:45:22.421782+00:00"
  },
  "elvis-tcb": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/elvis-tcb",
@@ -9150,7 +9457,7 @@
  },
  "erik09": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/erik09",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -9159,7 +9466,12 @@
  },
  "erik9": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/erik9",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:44:12.426857+00:00"
  },
  "erikangell": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/erikangell",
@@ -9253,7 +9565,12 @@
  },
  "erlend1836": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/erlend1836",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 dager",
+  "checked_at": "2026-11-09T09:47:03.903113+00:00"
  },
  "erlendboyka": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/erlendboyka",
@@ -9275,7 +9592,7 @@
  },
  "erosen1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
-  "forum_posts": 101,
+  "forum_posts": 102,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 72,
@@ -9320,7 +9637,12 @@
  },
  "esp1-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/esp1-1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "10 måneder",
+  "checked_at": "2026-11-09T09:43:58.851720+00:00"
  },
  "esp1-25": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/esp1-25",
@@ -9342,7 +9664,12 @@
  },
  "espbd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/espbd",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:44:34.773609+00:00"
  },
  "espen-lke": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/espen-lke",
@@ -9530,7 +9857,12 @@
  },
  "exxonbunker": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/exxonbunker",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:45:21.106938+00:00"
  },
  "faau": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/faau",
@@ -9579,7 +9911,12 @@
  },
  "falketind": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/falketind",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 10,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:44:09.765122+00:00"
  },
  "fallingknife": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fallingknife",
@@ -9664,7 +10001,12 @@
  },
  "fariseus": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fariseus",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 5,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:44:31.727533+00:00"
  },
  "farse": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/farse",
@@ -9749,7 +10091,7 @@
  },
  "fattiglusen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusen",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -9794,7 +10136,7 @@
  },
  "favha": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
-  "forum_posts": 86,
+  "forum_posts": 88,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -9848,7 +10190,12 @@
  },
  "ferrer": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ferrer",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 188,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:44:02.945241+00:00"
  },
  "fersking-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fersking-1",
@@ -9951,7 +10298,7 @@
  },
  "filiperkul123": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/filiperkul123",
-  "forum_posts": 8,
+  "forum_posts": 9,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -10059,7 +10406,12 @@
  },
  "fiskaren365": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskaren365",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:44:13.750880+00:00"
  },
  "fiskebaron": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskebaron",
@@ -10189,7 +10541,7 @@
  },
  "fjellstar": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fjellstar",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -10216,7 +10568,12 @@
  },
  "flakjeft": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/flakjeft",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 uker",
+  "checked_at": "2026-11-09T09:46:17.291837+00:00"
  },
  "flaksinvest": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/flaksinvest",
@@ -10247,7 +10604,12 @@
  },
  "flaskefjes": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/flaskefjes",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:46:35.509763+00:00"
  },
  "flattis": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/flattis",
@@ -10269,7 +10631,12 @@
  },
  "fleso": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fleso",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:44:27.528334+00:00"
  },
  "flex-film": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/flex-film",
@@ -10363,7 +10730,12 @@
  },
  "flyfille": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/flyfille",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:47:09.367807+00:00"
  },
  "flyndre212": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/flyndre212",
@@ -10592,7 +10964,7 @@
  },
  "fotballsko": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fotballsko",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -10682,7 +11054,12 @@
  },
  "frank1976": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/frank1976",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:47:29.601002+00:00"
  },
  "frankafc": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/frankafc",
@@ -10758,7 +11135,12 @@
  },
  "freddan-65": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/freddan-65",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:09.174800+00:00"
  },
  "fredofavela": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/fredofavela",
@@ -11104,7 +11486,12 @@
  },
  "funnytrade": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/funnytrade",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:46:58.544615+00:00"
  },
  "furuan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/furuan",
@@ -11189,7 +11576,12 @@
  },
  "gaarde1504": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gaarde1504",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:57.785764+00:00"
  },
  "gaastock": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gaastock",
@@ -11256,7 +11648,7 @@
  },
  "gamle-ulv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gamle-ulv",
-  "forum_posts": 43,
+  "forum_posts": 44,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 50,
@@ -11283,11 +11675,21 @@
  },
  "gankzz": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gankzz",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 måneder",
+  "checked_at": "2026-11-09T09:44:00.253540+00:00"
  },
  "garrido": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/garrido",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:43:36.277917+00:00"
  },
  "garthelvis": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/garthelvis",
@@ -11714,7 +12116,12 @@
  },
  "glutenfri": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/glutenfri",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:44:05.689964+00:00"
  },
  "gmanders": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gmanders",
@@ -11790,7 +12197,12 @@
  },
  "gnumf": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gnumf",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:48:55.411215+00:00"
  },
  "gnusmas": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gnusmas",
@@ -12100,7 +12512,7 @@
  },
  "grabein-44": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/grabein-44",
-  "forum_posts": 18,
+  "forum_posts": 19,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 22,
@@ -12145,7 +12557,7 @@
  },
  "greatreset": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/greatreset",
-  "forum_posts": 75,
+  "forum_posts": 77,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 137,
@@ -12208,7 +12620,12 @@
  },
  "greentor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/greentor",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:48:22.620014+00:00"
  },
  "greggagregers": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/greggagregers",
@@ -12338,7 +12755,7 @@
  },
  "grunnmuren": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/grunnmuren",
-  "forum_posts": 6,
+  "forum_posts": 7,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -12419,7 +12836,7 @@
  },
  "gtrx09p": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gtrx09p",
-  "forum_posts": 35,
+  "forum_posts": 36,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -12527,7 +12944,7 @@
  },
  "gullfisk_1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
-  "forum_posts": 87,
+  "forum_posts": 89,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 54,
@@ -12680,7 +13097,12 @@
  },
  "gunxueqiu": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gunxueqiu",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:50:20.312475+00:00"
  },
  "gurengubb": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gurengubb",
@@ -12711,7 +13133,12 @@
  },
  "gurksallad": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gurksallad",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 7,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:49:29.400870+00:00"
  },
  "gurp": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/gurp",
@@ -13210,7 +13637,12 @@
  },
  "haperpadetbeste": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/haperpadetbeste",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 10,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:49:32.157486+00:00"
  },
  "happy71": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/happy71",
@@ -13340,7 +13772,7 @@
  },
  "harryjh": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
-  "forum_posts": 97,
+  "forum_posts": 98,
   "stars": 0,
   "parsed_by": "regex3",
   "followers": 34,
@@ -13430,7 +13862,7 @@
  },
  "hd28vs": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hd28vs",
-  "forum_posts": 24,
+  "forum_posts": 25,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 7,
@@ -13605,7 +14037,12 @@
  },
  "helland00": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/helland00",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:18.507974+00:00"
  },
  "hellfire73": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hellfire73",
@@ -13708,7 +14145,7 @@
  },
  "hengslet": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
-  "forum_posts": 64,
+  "forum_posts": 65,
   "stars": 1,
   "parsed_by": "regex3",
   "followers": 22,
@@ -14059,7 +14496,12 @@
  },
  "high-way-to": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/high-way-to",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:45:08.911766+00:00"
  },
  "hightowerh20": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hightowerh20",
@@ -14153,7 +14595,12 @@
  },
  "hjrnet": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hjrnet",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:48:33.538070+00:00"
  },
  "hjulgransskakning": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hjulgransskakning",
@@ -14202,7 +14649,12 @@
  },
  "hmmad": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hmmad",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 17,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:44:20.521403+00:00"
  },
  "hoasis": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hoasis",
@@ -14323,7 +14775,12 @@
  },
  "holeinone1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/holeinone1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "10 måneder",
+  "checked_at": "2026-11-09T09:46:47.744988+00:00"
  },
  "holms-invest": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/holms-invest",
@@ -14354,7 +14811,12 @@
  },
  "hongs": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hongs",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:49:33.498831+00:00"
  },
  "hopeatiikeri": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hopeatiikeri",
@@ -14367,7 +14829,12 @@
  },
  "hopful": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hopful",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:48:17.226936+00:00"
  },
  "hoppalong-c": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hoppalong-c",
@@ -14380,7 +14847,12 @@
  },
  "hoppestokken": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hoppestokken",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:45:33.143317+00:00"
  },
  "hoppyhotspur": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hoppyhotspur",
@@ -14456,7 +14928,7 @@
  },
  "hr-dust": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
-  "forum_posts": 42,
+  "forum_posts": 44,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 131,
@@ -14789,7 +15261,12 @@
  },
  "i-like": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/i-like",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 33,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:45:17.031057+00:00"
  },
  "i_feld": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/i_feld",
@@ -14892,7 +15369,12 @@
  },
  "identiwhy": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/identiwhy",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 5,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:49:17.150258+00:00"
  },
  "idesimen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/idesimen",
@@ -14923,7 +15405,7 @@
  },
  "idun0123": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/idun0123",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -15004,7 +15486,12 @@
  },
  "ihsv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ihsv",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 måneder",
+  "checked_at": "2026-11-09T09:48:07.773792+00:00"
  },
  "iiiiiiiiiiiiiiiiiii": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/iiiiiiiiiiiiiiiiiii",
@@ -15035,7 +15522,12 @@
  },
  "ijpo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ijpo",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 8,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:48:38.944797+00:00"
  },
  "ikka": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ikka",
@@ -15057,7 +15549,12 @@
  },
  "ikkeenekspert": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ikkeenekspert",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:47:55.488531+00:00"
  },
  "il-capitano-33": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/il-capitano-33",
@@ -15160,7 +15657,12 @@
  },
  "ingarsorensen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ingarsorensen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:45:04.923440+00:00"
  },
  "ingenmarkedsanalytiker": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ingenmarkedsanalytiker",
@@ -15173,7 +15675,12 @@
  },
  "ingeris": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ingeris",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 måneder",
+  "checked_at": "2026-11-09T09:47:59.653157+00:00"
  },
  "ingeus": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ingeus",
@@ -15186,7 +15693,12 @@
  },
  "ingi0": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ingi0",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:43:48.803684+00:00"
  },
  "ingoinst": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ingoinst",
@@ -15559,7 +16071,7 @@
  },
  "isf": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/isf",
-  "forum_posts": 14,
+  "forum_posts": 15,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 6,
@@ -15595,7 +16107,7 @@
  },
  "isopappa": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/isopappa",
-  "forum_posts": 21,
+  "forum_posts": 22,
   "stars": 1,
   "parsed_by": "regex3",
   "followers": 6,
@@ -15667,7 +16179,12 @@
  },
  "iversen-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/iversen-1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 99,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:47:51.036800+00:00"
  },
  "ivid": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ivid",
@@ -15887,7 +16404,7 @@
  },
  "jaff92": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
-  "forum_posts": 55,
+  "forum_posts": 57,
   "stars": 3,
   "parsed_by": "regex3",
   "followers": 26,
@@ -15905,7 +16422,12 @@
  },
  "jafi": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jafi",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "11 måneder",
+  "checked_at": "2026-11-09T09:48:41.685180+00:00"
  },
  "jagdpanther79": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jagdpanther79",
@@ -16026,7 +16548,12 @@
  },
  "jakobstengard": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jakobstengard",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:50:04.606462+00:00"
  },
  "jal62": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jal62",
@@ -16048,7 +16575,7 @@
  },
  "jallaprinsen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jallaprinsen",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 6,
@@ -16102,7 +16629,12 @@
  },
  "jan-oscar123": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jan-oscar123",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "8 måneder",
+  "checked_at": "2026-11-09T09:45:59.285915+00:00"
  },
  "jan6767": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jan6767",
@@ -16142,7 +16674,12 @@
  },
  "janharry": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/janharry",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 måneder",
+  "checked_at": "2026-11-09T09:49:46.941944+00:00"
  },
  "janibanani": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/janibanani",
@@ -16164,7 +16701,12 @@
  },
  "janlaser-01": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/janlaser-01",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 måneder",
+  "checked_at": "2026-11-09T09:46:31.261076+00:00"
  },
  "janm1000": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/janm1000",
@@ -16240,7 +16782,12 @@
  },
  "jarlekaltv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jarlekaltv",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:26.728176+00:00"
  },
  "jarmenkel": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jarmenkel",
@@ -16320,7 +16867,12 @@
  },
  "jayjay123456": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jayjay123456",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 15,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:50:18.985066+00:00"
  },
  "jaystank": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jaystank",
@@ -16468,7 +17020,12 @@
  },
  "jenseng": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jenseng",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 38,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:44:56.655863+00:00"
  },
  "jensky18": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jensky18",
@@ -16481,7 +17038,12 @@
  },
  "jenspeder": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jenspeder",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 måneder",
+  "checked_at": "2026-11-09T09:45:26.403613+00:00"
  },
  "jeppemann": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jeppemann",
@@ -16602,7 +17164,12 @@
  },
  "jhaurballe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jhaurballe",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:44:48.270907+00:00"
  },
  "jhonnykuskus": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jhonnykuskus",
@@ -16822,7 +17389,12 @@
  },
  "jobraa": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jobraa",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:50:13.411705+00:00"
  },
  "joe911": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/joe911",
@@ -16916,7 +17488,12 @@
  },
  "johannesroed": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/johannesroed",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:43:30.812759+00:00"
  },
  "johansolheim": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/johansolheim",
@@ -17064,7 +17641,12 @@
  },
  "jomi1978": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jomi1978",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:46:08.887744+00:00"
  },
  "jomifisk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jomifisk",
@@ -17194,7 +17776,12 @@
  },
  "jonnas": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jonnas",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:44:29.096501+00:00"
  },
  "jonnybanan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jonnybanan",
@@ -17261,7 +17848,7 @@
  },
  "jorgensorheim": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/jorgensorheim",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 24,
@@ -17396,7 +17983,12 @@
  },
  "ju-kai": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ju-kai",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": null,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:43:38.953521+00:00"
  },
  "ju320": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ju320",
@@ -17562,7 +18154,7 @@
  },
  "just4funny4you": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/just4funny4you",
-  "forum_posts": 9,
+  "forum_posts": 10,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 722,
@@ -17787,7 +18379,7 @@
  },
  "kal-el-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
-  "forum_posts": 60,
+  "forum_posts": 61,
   "stars": 1,
   "parsed_by": "regex3",
   "followers": 41,
@@ -17832,7 +18424,7 @@
  },
  "kalle1234": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-  "forum_posts": 50,
+  "forum_posts": 51,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 7,
@@ -17917,7 +18509,7 @@
  },
  "kanick": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
-  "forum_posts": 36,
+  "forum_posts": 37,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 11,
@@ -18169,7 +18761,12 @@
  },
  "kattemam": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kattemam",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 måneder",
+  "checked_at": "2026-11-09T09:46:38.213693+00:00"
  },
  "kattenkatt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kattenkatt",
@@ -18362,7 +18959,12 @@
  },
  "kennethstorm": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kennethstorm",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "8 måneder",
+  "checked_at": "2026-11-09T09:47:17.567531+00:00"
  },
  "kenny71": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kenny71",
@@ -18393,7 +18995,12 @@
  },
  "kent_r": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kent_r",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:49:02.183332+00:00"
  },
  "kenwin": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kenwin",
@@ -18505,7 +19112,7 @@
  },
  "khhk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/khhk",
-  "forum_posts": 3,
+  "forum_posts": 4,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -18730,7 +19337,7 @@
  },
  "kintekunta": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kintekunta",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -18802,7 +19409,12 @@
  },
  "kjekkeleif": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkeleif",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 14,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:49:37.533028+00:00"
  },
  "kjekkenkjell": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkenkjell",
@@ -18941,7 +19553,12 @@
  },
  "klatremus1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/klatremus1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:46:27.114364+00:00"
  },
  "klauska": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/klauska",
@@ -19044,7 +19661,12 @@
  },
  "knappenaler": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/knappenaler",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 uke",
+  "checked_at": "2026-11-09T09:48:45.916399+00:00"
  },
  "knasen88": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/knasen88",
@@ -19246,7 +19868,12 @@
  },
  "knuthv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/knuthv",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:49:34.831813+00:00"
  },
  "knuts1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/knuts1",
@@ -19286,7 +19913,12 @@
  },
  "kodda": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kodda",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 22,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:46:50.412987+00:00"
  },
  "koemmern": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/koemmern",
@@ -19308,7 +19940,12 @@
  },
  "kokosnd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kokosnd",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:36.249555+00:00"
  },
  "kol_pol": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kol_pol",
@@ -19420,7 +20057,12 @@
  },
  "konkylien": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/konkylien",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:47:40.318746+00:00"
  },
  "konrad123": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/konrad123",
@@ -19469,7 +20111,7 @@
  },
  "korona": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/korona",
-  "forum_posts": 73,
+  "forum_posts": 74,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 20,
@@ -19536,7 +20178,7 @@
  },
  "krabbepyse": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/krabbepyse",
-  "forum_posts": 18,
+  "forum_posts": 19,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 116,
@@ -19545,7 +20187,12 @@
  },
  "krackkrus": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/krackkrus",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:45:25.071997+00:00"
  },
  "krappmark": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/krappmark",
@@ -19639,7 +20286,7 @@
  },
  "krisnorwegian": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/krisnorwegian",
-  "forum_posts": 7,
+  "forum_posts": 8,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -19751,11 +20398,16 @@
  },
  "kruskontroll": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kruskontroll",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:06.191789+00:00"
  },
  "ks1977": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-  "forum_posts": 252,
+  "forum_posts": 259,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 269,
@@ -19800,7 +20452,12 @@
  },
  "kubb123": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kubb123",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:13.221503+00:00"
  },
  "kued": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kued",
@@ -19867,7 +20524,12 @@
  },
  "kurt1234": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kurt1234",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:45:31.804983+00:00"
  },
  "kurtaage": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kurtaage",
@@ -19952,7 +20614,12 @@
  },
  "kymera-rising": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kymera-rising",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:47:12.093022+00:00"
  },
  "kystfondet": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/kystfondet",
@@ -20190,7 +20857,7 @@
  },
  "langesv1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/langesv1",
-  "forum_posts": 3,
+  "forum_posts": 5,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -20280,7 +20947,7 @@
  },
  "largh": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/largh",
-  "forum_posts": 11,
+  "forum_posts": 12,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 167,
@@ -20370,7 +21037,12 @@
  },
  "larslars": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/larslars",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 9,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:45:54.970370+00:00"
  },
  "larsn": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/larsn",
@@ -20428,7 +21100,7 @@
  },
  "lasse1635": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lasse1635",
-  "forum_posts": 21,
+  "forum_posts": 23,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -20446,7 +21118,12 @@
  },
  "late447": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/late447",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:44:21.873837+00:00"
  },
  "lavpanne": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lavpanne",
@@ -20648,7 +21325,12 @@
  },
  "lenew": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lenew",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 10,
+  "member_for": "9 år",
+  "checked_at": "2026-11-09T09:44:16.408374+00:00"
  },
  "lenicois06": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lenicois06",
@@ -20661,7 +21343,12 @@
  },
  "lennrd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lennrd",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 måneder",
+  "checked_at": "2026-11-09T09:44:41.594048+00:00"
  },
  "lenovo1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lenovo1",
@@ -20674,7 +21361,7 @@
  },
  "leo95": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/leo95",
-  "forum_posts": 44,
+  "forum_posts": 45,
   "stars": 0,
   "parsed_by": "regex3",
   "followers": 6,
@@ -20719,7 +21406,12 @@
  },
  "leoneed": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/leoneed",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:43:51.816701+00:00"
  },
  "leonski": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/leonski",
@@ -20768,7 +21460,12 @@
  },
  "leviathan11": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/leviathan11",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 måneder",
+  "checked_at": "2026-11-09T09:47:28.268602+00:00"
  },
  "lez": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lez",
@@ -20790,7 +21487,7 @@
  },
  "lgoksen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
-  "forum_posts": 54,
+  "forum_posts": 55,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 41,
@@ -20992,7 +21689,7 @@
  },
  "linjemannen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/linjemannen",
-  "forum_posts": 35,
+  "forum_posts": 36,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 27,
@@ -21037,7 +21734,12 @@
  },
  "lisbergdk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lisbergdk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:47:44.352046+00:00"
  },
  "lissi1208": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lissi1208",
@@ -21077,7 +21779,12 @@
  },
  "littlecheddar": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/littlecheddar",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:47:24.268935+00:00"
  },
  "liverglimt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/liverglimt",
@@ -21144,7 +21851,12 @@
  },
  "llsnappi": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/llsnappi",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 7,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:45:02.057875+00:00"
  },
  "loading": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
@@ -21202,7 +21914,12 @@
  },
  "loker": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/loker",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 12,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:45:10.341865+00:00"
  },
  "lokmotivet": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lokmotivet",
@@ -21251,7 +21968,12 @@
  },
  "long_2026": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/long_2026",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 dager",
+  "checked_at": "2026-11-09T09:43:37.609978+00:00"
  },
  "longabel": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/longabel",
@@ -21318,7 +22040,12 @@
  },
  "longtermholder": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/longtermholder",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "9 måneder",
+  "checked_at": "2026-11-09T09:47:02.564250+00:00"
  },
  "lonw": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lonw",
@@ -21583,7 +22310,12 @@
  },
  "luksuskongen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/luksuskongen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:45:11.697650+00:00"
  },
  "lulupolett": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lulupolett",
@@ -21596,7 +22328,12 @@
  },
  "lumiere": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lumiere",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 29,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:46:59.877648+00:00"
  },
  "lumings-favourite": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lumings-favourite",
@@ -21699,7 +22436,7 @@
  },
  "luring4": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/luring4",
-  "forum_posts": 76,
+  "forum_posts": 78,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -21708,7 +22445,12 @@
  },
  "lurt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lurt",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:46:54.484125+00:00"
  },
  "luskefanten": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/luskefanten",
@@ -21721,7 +22463,12 @@
  },
  "luttamuna": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/luttamuna",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:46:19.938666+00:00"
  },
  "lvs": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/lvs",
@@ -21968,7 +22715,7 @@
  },
  "magne03": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/magne03",
-  "forum_posts": 6,
+  "forum_posts": 7,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 21,
@@ -22166,7 +22913,12 @@
  },
  "maltheee": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/maltheee",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 dager",
+  "checked_at": "2026-11-09T09:49:03.532408+00:00"
  },
  "mamano": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mamano",
@@ -22215,7 +22967,12 @@
  },
  "mangepnge": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mangepnge",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:45:42.683328+00:00"
  },
  "mann69": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mann69",
@@ -22282,7 +23039,12 @@
  },
  "mappelgren": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mappelgren",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:44:01.606788+00:00"
  },
  "mar-z": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mar-z",
@@ -22304,7 +23066,7 @@
  },
  "marbella1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/marbella1",
-  "forum_posts": 38,
+  "forum_posts": 39,
   "stars": 1,
   "parsed_by": "regex3",
   "followers": 12,
@@ -22371,7 +23133,12 @@
  },
  "marder-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/marder-2",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 11,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:45:07.589325+00:00"
  },
  "mardid": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mardid",
@@ -22420,7 +23187,12 @@
  },
  "marique": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/marique",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:45:38.538933+00:00"
  },
  "marit85": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/marit85",
@@ -22442,7 +23214,12 @@
  },
  "marius79": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/marius79",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:49:25.384194+00:00"
  },
  "marius98": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/marius98",
@@ -22509,7 +23286,12 @@
  },
  "markic": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/markic",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 dager",
+  "checked_at": "2026-11-09T09:50:21.661724+00:00"
  },
  "markmyword": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/markmyword",
@@ -22603,7 +23385,12 @@
  },
  "mart-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mart-1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:46:34.024892+00:00"
  },
  "martaifarta": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/martaifarta",
@@ -22877,7 +23664,12 @@
  },
  "matsrune": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/matsrune",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:43:32.135947+00:00"
  },
  "matste": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/matste",
@@ -22971,7 +23763,7 @@
  },
  "maxalwaysmax": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
-  "forum_posts": 17,
+  "forum_posts": 18,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 7,
@@ -23007,7 +23799,12 @@
  },
  "maxmanuskript": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/maxmanuskript",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:20.019755+00:00"
  },
  "maxmax1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/maxmax1",
@@ -23119,7 +23916,12 @@
  },
  "medman11": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/medman11",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 5,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:48:47.267129+00:00"
  },
  "medrik": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/medrik",
@@ -23168,7 +23970,12 @@
  },
  "mehra23": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mehra23",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:44:36.102809+00:00"
  },
  "meinich": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/meinich",
@@ -23199,7 +24006,7 @@
  },
  "mening": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mening",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -23271,7 +24078,7 @@
  },
  "metallian": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
-  "forum_posts": 74,
+  "forum_posts": 76,
   "stars": 0,
   "parsed_by": "regex3",
   "followers": 57,
@@ -23658,7 +24465,7 @@
  },
  "mini_85": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mini_85",
-  "forum_posts": 11,
+  "forum_posts": 12,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -24135,7 +24942,7 @@
  },
  "monkey76": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/monkey76",
-  "forum_posts": 38,
+  "forum_posts": 39,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -24153,7 +24960,12 @@
  },
  "monky-mooney": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/monky-mooney",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "10 måneder",
+  "checked_at": "2026-11-09T09:45:14.381266+00:00"
  },
  "mons25": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mons25",
@@ -24229,11 +25041,21 @@
  },
  "morkenstubbe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/morkenstubbe",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 13,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:47:26.939300+00:00"
  },
  "mormomor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mormomor",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:28.084525+00:00"
  },
  "morningstar_trades": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/morningstar_trades",
@@ -24327,7 +25149,7 @@
  },
  "morten834": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/morten834",
-  "forum_posts": 3,
+  "forum_posts": 4,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 4,
@@ -24435,7 +25257,12 @@
  },
  "mossii": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mossii",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:46:42.178822+00:00"
  },
  "mossmossmoss": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mossmossmoss",
@@ -24475,11 +25302,21 @@
  },
  "motty": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/motty",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 uke",
+  "checked_at": "2026-11-09T09:44:04.355179+00:00"
  },
  "motvind79": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/motvind79",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "10 måneder",
+  "checked_at": "2026-11-09T09:47:20.262807+00:00"
  },
  "mouthbreather": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mouthbreather",
@@ -24510,7 +25347,7 @@
  },
  "mpaets": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mpaets",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -24591,7 +25428,7 @@
  },
  "mr-evaporator": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-evaporator",
-  "forum_posts": 6,
+  "forum_posts": 7,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 312,
@@ -24609,7 +25446,12 @@
  },
  "mr-goodluck": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-goodluck",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:44:52.430936+00:00"
  },
  "mr-mister": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-mister",
@@ -24680,11 +25522,16 @@
  },
  "mr_tunes": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mr_tunes",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:45:41.283354+00:00"
  },
  "mrandersen89": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mrandersen89",
-  "forum_posts": 4,
+  "forum_posts": 6,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -24747,7 +25594,12 @@
  },
  "mrcointaner": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mrcointaner",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 6,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:30.833520+00:00"
  },
  "mrdobbalina": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mrdobbalina",
@@ -25039,7 +25891,12 @@
  },
  "muldvarpen_2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/muldvarpen_2",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 30,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:45:45.366272+00:00"
  },
  "multiple": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/multiple",
@@ -25079,7 +25936,12 @@
  },
  "mykle-2025": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/mykle-2025",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "10 måneder",
+  "checked_at": "2026-11-09T09:46:00.659723+00:00"
  },
  "myntkast": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/myntkast",
@@ -25110,7 +25972,12 @@
  },
  "myragubben": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/myragubben",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 391,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:43:44.324562+00:00"
  },
  "myrekroken": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/myrekroken",
@@ -25258,7 +26125,12 @@
  },
  "najdorf": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/najdorf",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 34,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:44:46.948920+00:00"
  },
  "nalid-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nalid-1",
@@ -25298,7 +26170,12 @@
  },
  "nattkriger": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nattkriger",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:49:41.566991+00:00"
  },
  "natur1337": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/natur1337",
@@ -25356,7 +26233,7 @@
  },
  "nbvnvbnvn": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nbvnvbnvn",
-  "forum_posts": 29,
+  "forum_posts": 30,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 7,
@@ -25392,7 +26269,12 @@
  },
  "nebsild": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nebsild",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:44:49.603852+00:00"
  },
  "neeskens": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
@@ -25459,7 +26341,12 @@
  },
  "nepnes": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nepnes",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 måneder",
+  "checked_at": "2026-11-09T09:49:44.255302+00:00"
  },
  "neptun3000": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/neptun3000",
@@ -25526,11 +26413,16 @@
  },
  "nesworld": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nesworld",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:47:47.020936+00:00"
  },
  "nettlkinvestor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nettlkinvestor",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 16,
@@ -25602,7 +26494,12 @@
  },
  "newbiekris": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/newbiekris",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 6,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:49:45.610582+00:00"
  },
  "newbinvester": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/newbinvester",
@@ -25660,7 +26557,7 @@
  },
  "ni1976": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ni1976",
-  "forum_posts": 21,
+  "forum_posts": 22,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -25714,7 +26611,12 @@
  },
  "nicklasalejandro": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nicklasalejandro",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 51,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:43:41.595967+00:00"
  },
  "nicks-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nicks-1",
@@ -25727,7 +26629,12 @@
  },
  "nico-hunter": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nico-hunter",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:46:04.711558+00:00"
  },
  "nico1234": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nico1234",
@@ -25776,11 +26683,16 @@
  },
  "nielsinvest": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nielsinvest",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:44:24.626228+00:00"
  },
  "nieto": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
-  "forum_posts": 150,
+  "forum_posts": 152,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -25924,7 +26836,12 @@
  },
  "nitelva-united": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nitelva-united",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "10 måneder",
+  "checked_at": "2026-11-09T09:48:15.876996+00:00"
  },
  "nkamok": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nkamok",
@@ -25964,7 +26881,7 @@
  },
  "no-limits": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/no-limits",
-  "forum_posts": 7,
+  "forum_posts": 9,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -25973,11 +26890,21 @@
  },
  "no-return": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/no-return",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 20,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:49:24.043028+00:00"
  },
  "noatoe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/noatoe",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:47:36.337498+00:00"
  },
  "nofacenocase": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nofacenocase",
@@ -25990,7 +26917,7 @@
  },
  "nokar": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nokar",
-  "forum_posts": 49,
+  "forum_posts": 50,
   "stars": 1,
   "parsed_by": "regex3",
   "followers": 23,
@@ -26017,7 +26944,12 @@
  },
  "nolosi": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nolosi",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:47:10.743853+00:00"
  },
  "nommon": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nommon",
@@ -26237,7 +27169,12 @@
  },
  "norfood": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/norfood",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:46:36.870936+00:00"
  },
  "norfra": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/norfra",
@@ -26250,7 +27187,12 @@
  },
  "norfredrik": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/norfredrik",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:48:59.426307+00:00"
  },
  "norsemangrey": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/norsemangrey",
@@ -26389,7 +27331,12 @@
  },
  "novice-investor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/novice-investor",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:49:53.764446+00:00"
  },
  "nowinning": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nowinning",
@@ -26510,7 +27457,12 @@
  },
  "nupen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nupen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:50:12.043907+00:00"
  },
  "nupen46": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/nupen46",
@@ -26842,7 +27794,7 @@
  },
  "offameg": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/offameg",
-  "forum_posts": 3,
+  "forum_posts": 4,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 10,
@@ -26914,7 +27866,7 @@
  },
  "oggiwara1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/oggiwara1",
-  "forum_posts": 9,
+  "forum_posts": 10,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 54,
@@ -26923,7 +27875,7 @@
  },
  "ohahah": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
-  "forum_posts": 46,
+  "forum_posts": 47,
   "stars": 0,
   "parsed_by": "regex3",
   "followers": 6,
@@ -26950,7 +27902,12 @@
  },
  "oisteinds": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/oisteinds",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 måneder",
+  "checked_at": "2026-11-09T09:47:52.393350+00:00"
  },
  "oivindb": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/oivindb",
@@ -27026,7 +27983,12 @@
  },
  "olabalder": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/olabalder",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:52.701109+00:00"
  },
  "olaf-kvendbo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/olaf-kvendbo",
@@ -27048,7 +28010,12 @@
  },
  "olamurer": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/olamurer",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:45:39.865854+00:00"
  },
  "olanordman": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/olanordman",
@@ -27340,7 +28307,12 @@
  },
  "oljeski": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/oljeski",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 34,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:46:51.781817+00:00"
  },
  "olsen-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/olsen-2",
@@ -27542,7 +28514,7 @@
  },
  "onklskrue": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
-  "forum_posts": 41,
+  "forum_posts": 42,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 148,
@@ -27587,7 +28559,12 @@
  },
  "ooooooooo0": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ooooooooo0",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:49:15.676114+00:00"
  },
  "ophon": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
@@ -27672,11 +28649,16 @@
  },
  "opptimist": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/opptimist",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:46:24.338601+00:00"
  },
  "opptimisten4": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/opptimisten4",
-  "forum_posts": 22,
+  "forum_posts": 23,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 8,
@@ -27748,7 +28730,7 @@
  },
  "optimus-prime-7": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
-  "forum_posts": 77,
+  "forum_posts": 78,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -27757,11 +28739,16 @@
  },
  "optochris": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/optochris",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:48:30.849630+00:00"
  },
  "orgu": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/orgu",
-  "forum_posts": 7,
+  "forum_posts": 8,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -27842,7 +28829,12 @@
  },
  "oskar-black-landrock": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/oskar-black-landrock",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:47:53.760183+00:00"
  },
  "osl": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/osl",
@@ -27855,7 +28847,12 @@
  },
  "oslo1974": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/oslo1974",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:47:06.732680+00:00"
  },
  "otbmaster": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/otbmaster",
@@ -27922,7 +28919,12 @@
  },
  "overeliten87": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/overeliten87",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 8,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:49:38.859664+00:00"
  },
  "overlay": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/overlay",
@@ -28016,7 +29018,7 @@
  },
  "oyhecan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/oyhecan",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 8,
@@ -28106,7 +29108,7 @@
  },
  "pacman75": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pacman75",
-  "forum_posts": 13,
+  "forum_posts": 14,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 38,
@@ -28115,7 +29117,7 @@
  },
  "padelboy": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/padelboy",
-  "forum_posts": 1,
+  "forum_posts": 2,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -28214,7 +29216,7 @@
  },
  "pantareiognaerjeglei": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
-  "forum_posts": 41,
+  "forum_posts": 42,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -28367,7 +29369,12 @@
  },
  "pauserom": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pauserom",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:48:02.391868+00:00"
  },
  "paven777": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/paven777",
@@ -28497,7 +29504,12 @@
  },
  "pedro-11": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pedro-11",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:48:11.882073+00:00"
  },
  "pedro100": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pedro100",
@@ -28573,7 +29585,12 @@
  },
  "peng-e-sekk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/peng-e-sekk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:50:14.772045+00:00"
  },
  "pengertilhenger": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pengertilhenger",
@@ -28586,7 +29603,7 @@
  },
  "pengesluk-20": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
-  "forum_posts": 58,
+  "forum_posts": 59,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 77,
@@ -28892,7 +29909,12 @@
  },
  "petrov69": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/petrov69",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 dager",
+  "checked_at": "2026-11-09T09:50:08.059075+00:00"
  },
  "petterfranord": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/petterfranord",
@@ -29049,7 +30071,7 @@
  },
  "phor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
-  "forum_posts": 20,
+  "forum_posts": 22,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -29148,7 +30170,12 @@
  },
  "pimping": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pimping",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 måneder",
+  "checked_at": "2026-11-09T09:47:08.050711+00:00"
  },
  "pinarello": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pinarello",
@@ -29440,7 +30467,7 @@
  },
  "popeye007": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/popeye007",
-  "forum_posts": 6,
+  "forum_posts": 7,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -29449,7 +30476,7 @@
  },
  "porchegutt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/porchegutt",
-  "forum_posts": 11,
+  "forum_posts": 13,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 7,
@@ -29683,11 +30710,21 @@
  },
  "pronet": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pronet",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 måneder",
+  "checked_at": "2026-11-09T09:47:21.592040+00:00"
  },
  "proppen44": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/proppen44",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:50:29.897353+00:00"
  },
  "prosperityx1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/prosperityx1",
@@ -29718,7 +30755,7 @@
  },
  "pryp": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-  "forum_posts": 330,
+  "forum_posts": 334,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 523,
@@ -29907,7 +30944,12 @@
  },
  "radiv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/radiv",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:43:40.287966+00:00"
  },
  "radyrbukken": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/radyrbukken",
@@ -29920,7 +30962,12 @@
  },
  "rafsin": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rafsin",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 17,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:47:39.005358+00:00"
  },
  "ragnarokk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ragnarokk",
@@ -30072,7 +31119,12 @@
  },
  "ranilsen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ranilsen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 9,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:49:55.114038+00:00"
  },
  "raputin": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/raputin",
@@ -30148,7 +31200,7 @@
  },
  "raten": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
-  "forum_posts": 50,
+  "forum_posts": 51,
   "stars": 1,
   "parsed_by": "regex3",
   "followers": 8,
@@ -30166,7 +31218,12 @@
  },
  "ratione-deductus": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ratione-deductus",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:50:10.717199+00:00"
  },
  "rattus": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rattus",
@@ -30296,7 +31353,12 @@
  },
  "real-odd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/real-odd",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 måneder",
+  "checked_at": "2026-11-09T09:47:56.927843+00:00"
  },
  "realbluebox": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/realbluebox",
@@ -30561,7 +31623,12 @@
  },
  "remi_trd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/remi_trd",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:48:18.543227+00:00"
  },
  "remontadan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/remontadan",
@@ -30646,7 +31713,7 @@
  },
  "retiro": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/retiro",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -30781,7 +31848,7 @@
  },
  "rich_booker": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rich_booker",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -30817,7 +31884,12 @@
  },
  "riffling": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/riffling",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:47:43.013549+00:00"
  },
  "rigg": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rigg",
@@ -30902,7 +31974,12 @@
  },
  "rinvestor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rinvestor",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:44:37.540439+00:00"
  },
  "risikoaversjon": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/risikoaversjon",
@@ -30933,15 +32010,30 @@
  },
  "risky58": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/risky58",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "9 år",
+  "checked_at": "2026-11-09T09:44:15.081127+00:00"
  },
  "riskyt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/riskyt",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:01.038245+00:00"
  },
  "ritajaan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ritajaan",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:43:57.416621+00:00"
  },
  "ritgra": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ritgra",
@@ -30999,7 +32091,12 @@
  },
  "ro-pet": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-pet",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:47:13.449985+00:00"
  },
  "ro-te": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ro-te",
@@ -31084,11 +32181,16 @@
  },
  "roblaks": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/roblaks",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 måneder",
+  "checked_at": "2026-11-09T09:44:08.381212+00:00"
  },
  "rockeseller": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rockeseller",
-  "forum_posts": 28,
+  "forum_posts": 29,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -31398,7 +32500,7 @@
  },
  "rops": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rops",
-  "forum_posts": 15,
+  "forum_posts": 17,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 214,
@@ -31524,7 +32626,12 @@
  },
  "rs2m": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rs2m",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:47:48.364127+00:00"
  },
  "rs80": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rs80",
@@ -31537,7 +32644,7 @@
  },
  "rsteinstraitbetalen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rsteinstraitbetalen",
-  "forum_posts": 6,
+  "forum_posts": 7,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 18,
@@ -31573,7 +32680,7 @@
  },
  "rudi83": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rudi83",
-  "forum_posts": 6,
+  "forum_posts": 7,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 25,
@@ -31600,7 +32707,12 @@
  },
  "rukvick": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rukvick",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:45:52.203083+00:00"
  },
  "rulletrappe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rulletrappe",
@@ -31613,7 +32725,12 @@
  },
  "rulp": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/rulp",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 uke",
+  "checked_at": "2026-11-09T09:49:48.268578+00:00"
  },
  "run65": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/run65",
@@ -31941,7 +33058,12 @@
  },
  "salutt": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/salutt",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:47:32.306886+00:00"
  },
  "samara86": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/samara86",
@@ -32107,7 +33229,7 @@
  },
  "sanoj1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sanoj1",
-  "forum_posts": 33,
+  "forum_posts": 34,
   "stars": 0,
   "parsed_by": "regex3",
   "followers": 1,
@@ -32134,7 +33256,12 @@
  },
  "santi-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/santi-1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:43:50.473548+00:00"
  },
  "santropolis": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/santropolis",
@@ -32390,7 +33517,7 @@
  },
  "seagold": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/seagold",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -32462,7 +33589,12 @@
  },
  "seget": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/seget",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 7,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:50:09.401973+00:00"
  },
  "segnis": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/segnis",
@@ -32520,7 +33652,7 @@
  },
  "selskapslek": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
-  "forum_posts": 22,
+  "forum_posts": 23,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 19,
@@ -32556,11 +33688,21 @@
  },
  "semipermanent": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/semipermanent",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 dager",
+  "checked_at": "2026-11-09T09:50:01.943043+00:00"
  },
  "semmelweiss": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/semmelweiss",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:45:37.158714+00:00"
  },
  "senor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/senor",
@@ -32735,7 +33877,7 @@
  },
  "shareholderinne": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/shareholderinne",
-  "forum_posts": 15,
+  "forum_posts": 16,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -32861,7 +34003,7 @@
  },
  "shippingfond": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond",
-  "forum_posts": 62,
+  "forum_posts": 64,
   "stars": 3,
   "parsed_by": "regex3",
   "followers": 165,
@@ -33077,7 +34219,12 @@
  },
  "sillyinvest": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sillyinvest",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:48:37.577479+00:00"
  },
  "silob": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/silob",
@@ -33126,7 +34273,7 @@
  },
  "simlar2412": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/simlar2412",
-  "forum_posts": 22,
+  "forum_posts": 23,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -33234,11 +34381,21 @@
  },
  "singleton": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/singleton",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:48:06.433534+00:00"
  },
  "singolainen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/singolainen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:44:42.941285+00:00"
  },
  "sinkan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sinkan",
@@ -33287,7 +34444,12 @@
  },
  "sisar": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sisar",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 45,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:48:43.148893+00:00"
  },
  "sistemann-inn": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
@@ -33309,7 +34471,12 @@
  },
  "sivle": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sivle",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:50:03.274851+00:00"
  },
  "sjabby-sheik": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sjabby-sheik",
@@ -33376,7 +34543,12 @@
  },
  "sjo73": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sjo73",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:49:00.753370+00:00"
  },
  "sjohansen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sjohansen",
@@ -33542,7 +34714,12 @@
  },
  "skipperdaddy": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/skipperdaddy",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 9,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:45:49.440352+00:00"
  },
  "skipssjefen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/skipssjefen",
@@ -33748,7 +34925,12 @@
  },
  "skywards255": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/skywards255",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:49:49.606155+00:00"
  },
  "sl34": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sl34",
@@ -34004,7 +35186,7 @@
  },
  "snakzz": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/snakzz",
-  "forum_posts": 35,
+  "forum_posts": 36,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -34085,11 +35267,16 @@
  },
  "snor74": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/snor74",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 5,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:47:45.692925+00:00"
  },
  "snordlia": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/snordlia",
-  "forum_posts": 3,
+  "forum_posts": 4,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 42,
@@ -34134,11 +35321,21 @@
  },
  "snowlax": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/snowlax",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:48:10.547845+00:00"
  },
  "snstorm": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/snstorm",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:46:32.692298+00:00"
  },
  "snusfondet-forvalteren": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/snusfondet-forvalteren",
@@ -34187,7 +35384,12 @@
  },
  "soebyvej": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/soebyvej",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:49:04.868038+00:00"
  },
  "soelbaek": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/soelbaek",
@@ -34389,7 +35591,7 @@
  },
  "sonofpipervika": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sonofpipervika",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -34443,7 +35645,7 @@
  },
  "soseinen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/soseinen",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 6,
@@ -34875,7 +36077,12 @@
  },
  "starbo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/starbo",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "11 måneder",
+  "checked_at": "2026-11-09T09:46:45.079078+00:00"
  },
  "stavarilla": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stavarilla",
@@ -35032,7 +36239,7 @@
  },
  "stein-rune": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
-  "forum_posts": 19,
+  "forum_posts": 20,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 9,
@@ -35068,7 +36275,12 @@
  },
  "stelle0001": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stelle0001",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:47:30.953661+00:00"
  },
  "steller": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/steller",
@@ -35162,7 +36374,12 @@
  },
  "stiannord": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stiannord",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 70,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:44:59.365960+00:00"
  },
  "stifler20": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stifler20",
@@ -35220,7 +36437,12 @@
  },
  "stocido": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stocido",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:46:21.398137+00:00"
  },
  "stockbite": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stockbite",
@@ -35395,7 +36617,12 @@
  },
  "storeulv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/storeulv",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:48:40.315211+00:00"
  },
  "stormann": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stormann",
@@ -35417,7 +36644,12 @@
  },
  "storo16": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/storo16",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:47:49.701595+00:00"
  },
  "stortro": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stortro",
@@ -35430,7 +36662,7 @@
  },
  "storttap-20": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
-  "forum_posts": 30,
+  "forum_posts": 31,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 1,
@@ -35439,7 +36671,12 @@
  },
  "strandhugg": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/strandhugg",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:46:15.944832+00:00"
  },
  "strategizer": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/strategizer",
@@ -35452,7 +36689,7 @@
  },
  "stratix": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
-  "forum_posts": 29,
+  "forum_posts": 30,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 10,
@@ -35470,7 +36707,12 @@
  },
  "straxxx": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/straxxx",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:47:22.919234+00:00"
  },
  "streetglide2016": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/streetglide2016",
@@ -35582,7 +36824,12 @@
  },
  "stupendo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stupendo",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:48:14.552966+00:00"
  },
  "stupfull": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/stupfull",
@@ -35613,7 +36860,12 @@
  },
  "styrmann1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/styrmann1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:47:05.360556+00:00"
  },
  "su-per": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/su-per",
@@ -35635,11 +36887,21 @@
  },
  "subterminal": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/subterminal",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 måneder",
+  "checked_at": "2026-11-09T09:43:34.953139+00:00"
  },
  "sudie": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sudie",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:49:22.690671+00:00"
  },
  "sue": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sue",
@@ -35688,7 +36950,12 @@
  },
  "sunnasunna1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnasunna1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:50:05.934749+00:00"
  },
  "sunnmore": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/sunnmore",
@@ -35755,7 +37022,12 @@
  },
  "supermann81": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/supermann81",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:48:21.232424+00:00"
  },
  "superninja-1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/superninja-1",
@@ -35786,7 +37058,7 @@
  },
  "supra2jzgte": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
-  "forum_posts": 35,
+  "forum_posts": 36,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 5,
@@ -35858,7 +37130,7 @@
  },
  "svartbak": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/svartbak",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -36060,7 +37332,12 @@
  },
  "swzz": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/swzz",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 24,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:46:25.706401+00:00"
  },
  "syb": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/syb",
@@ -36118,7 +37395,12 @@
  },
  "syndin": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/syndin",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:49:56.456971+00:00"
  },
  "syrinbusk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/syrinbusk",
@@ -36257,7 +37539,12 @@
  },
  "talia": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/talia",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:46:49.068749+00:00"
  },
  "talltaaka": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/talltaaka",
@@ -36306,7 +37593,12 @@
  },
  "tandersh": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tandersh",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:49:21.355104+00:00"
  },
  "tanja74": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tanja74",
@@ -36364,7 +37656,12 @@
  },
  "taptaptap": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/taptaptap",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "8 år",
+  "checked_at": "2026-11-09T09:46:46.400153+00:00"
  },
  "taqiadk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/taqiadk",
@@ -36377,7 +37674,12 @@
  },
  "taraldsen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/taraldsen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "2 måneder",
+  "checked_at": "2026-11-09T09:49:40.231545+00:00"
  },
  "tarkka": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tarkka",
@@ -36471,7 +37773,7 @@
  },
  "tech1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tech1",
-  "forum_posts": 7,
+  "forum_posts": 8,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -36615,7 +37917,7 @@
  },
  "ter-to": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
-  "forum_posts": 87,
+  "forum_posts": 88,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 31,
@@ -36651,7 +37953,12 @@
  },
  "terjinoh": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/terjinoh",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 dager",
+  "checked_at": "2026-11-09T09:46:28.478276+00:00"
  },
  "terk3l": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/terk3l",
@@ -36673,7 +37980,12 @@
  },
  "terne2000": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/terne2000",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "9 måneder",
+  "checked_at": "2026-11-09T09:48:03.766866+00:00"
  },
  "terragady": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/terragady",
@@ -36749,7 +38061,12 @@
  },
  "tesh": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tesh",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 7,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:43:53.192135+00:00"
  },
  "tesk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
@@ -36762,7 +38079,7 @@
  },
  "teslaterje": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/teslaterje",
-  "forum_posts": 12,
+  "forum_posts": 13,
   "stars": 3,
   "parsed_by": "sr-only",
   "followers": 156,
@@ -36888,11 +38205,16 @@
  },
  "thars": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thars",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "11 år",
+  "checked_at": "2026-11-09T09:47:16.214062+00:00"
  },
  "thassen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thassen",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -36955,7 +38277,12 @@
  },
  "the-market-wizard": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/the-market-wizard",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 77,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:45:29.104131+00:00"
  },
  "the-mechanic": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/the-mechanic",
@@ -37094,7 +38421,12 @@
  },
  "thediddler": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thediddler",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 uke",
+  "checked_at": "2026-11-09T09:44:50.954758+00:00"
  },
  "thedude303": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thedude303",
@@ -37170,7 +38502,12 @@
  },
  "theoinvest": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/theoinvest",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "11 måneder",
+  "checked_at": "2026-11-09T09:44:11.105509+00:00"
  },
  "thereal_morgankane": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thereal_morgankane",
@@ -37183,7 +38520,12 @@
  },
  "therealjaddamasa": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/therealjaddamasa",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 12,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:45:35.818969+00:00"
  },
  "thesistulling": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thesistulling",
@@ -37214,11 +38556,16 @@
  },
  "thewolfofoslo": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thewolfofoslo",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:50:28.448114+00:00"
  },
  "thinkpadd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thinkpadd",
-  "forum_posts": 10,
+  "forum_posts": 11,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 35,
@@ -37236,7 +38583,12 @@
  },
  "thip": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thip",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:45:53.630173+00:00"
  },
  "thodd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thodd",
@@ -37249,7 +38601,12 @@
  },
  "thoffen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thoffen",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:50:23.014486+00:00"
  },
  "thom11": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thom11",
@@ -37271,7 +38628,7 @@
  },
  "thomas2738": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thomas2738",
-  "forum_posts": 3,
+  "forum_posts": 6,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -37424,7 +38781,12 @@
  },
  "thunnfisk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/thunnfisk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:46:22.828588+00:00"
  },
  "tia74": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tia74",
@@ -37491,7 +38853,12 @@
  },
  "tidemannrdtri": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tidemannrdtri",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 år",
+  "checked_at": "2026-11-09T09:47:18.932146+00:00"
  },
  "tidshorisont": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tidshorisont",
@@ -37567,7 +38934,7 @@
  },
  "tigeren100": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tigeren100",
-  "forum_posts": 3,
+  "forum_posts": 4,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -37612,7 +38979,12 @@
  },
  "tilgjengelig": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tilgjengelig",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "9 måneder",
+  "checked_at": "2026-11-09T09:43:33.531420+00:00"
  },
  "tiltproof": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tiltproof",
@@ -37760,7 +39132,12 @@
  },
  "tittern": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tittern",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:47:01.242820+00:00"
  },
  "tiur1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tiur1",
@@ -37782,7 +39159,7 @@
  },
  "tj80": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tj80",
-  "forum_posts": 2,
+  "forum_posts": 3,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 6,
@@ -37800,7 +39177,12 @@
  },
  "tjglind": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tjglind",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 måneder",
+  "checked_at": "2026-11-09T09:45:56.422336+00:00"
  },
  "tjm-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tjm-2",
@@ -37849,7 +39231,12 @@
  },
  "tmsfv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tmsfv",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 måned",
+  "checked_at": "2026-11-09T09:46:03.359429+00:00"
  },
  "tobiasaa": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tobiasaa",
@@ -37916,7 +39303,7 @@
  },
  "toddy1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/toddy1",
-  "forum_posts": 5,
+  "forum_posts": 6,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 39,
@@ -38015,7 +39402,12 @@
  },
  "tomhallvard": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tomhallvard",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 8,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:45:06.269205+00:00"
  },
  "tomk-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tomk-2",
@@ -38109,7 +39501,12 @@
  },
  "tommyto": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tommyto",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 7,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:44:23.304183+00:00"
  },
  "tompalompaborshaj": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tompalompaborshaj",
@@ -38176,7 +39573,12 @@
  },
  "tonybor": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tonybor",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 5,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:50:24.342318+00:00"
  },
  "toppero1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/toppero1",
@@ -38189,7 +39591,12 @@
  },
  "toppgunn": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/toppgunn",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "9 måneder",
+  "checked_at": "2026-11-09T09:47:41.648493+00:00"
  },
  "toppjeger": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/toppjeger",
@@ -38337,7 +39744,12 @@
  },
  "tormod70": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tormod70",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:44:33.400842+00:00"
  },
  "tormykl": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tormykl",
@@ -38359,7 +39771,12 @@
  },
  "tors1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tors1",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:51.371842+00:00"
  },
  "torsiv": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/torsiv",
@@ -38399,7 +39816,12 @@
  },
  "torunn3770": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/torunn3770",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "9 år",
+  "checked_at": "2026-11-09T09:46:55.838514+00:00"
  },
  "tos": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tos",
@@ -38412,7 +39834,7 @@
  },
  "tospann": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
-  "forum_posts": 119,
+  "forum_posts": 120,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -38929,7 +40351,12 @@
  },
  "trtah": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/trtah",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:44:17.790078+00:00"
  },
  "trubaduren64": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/trubaduren64",
@@ -39099,7 +40526,12 @@
  },
  "tulligull": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tulligull",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:48:29.514600+00:00"
  },
  "tullingen56": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tullingen56",
@@ -39319,7 +40751,7 @@
  },
  "twows": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/twows",
-  "forum_posts": 16,
+  "forum_posts": 17,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -39346,7 +40778,12 @@
  },
  "tyssi": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tyssi",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "3 uker",
+  "checked_at": "2026-11-09T09:45:15.696494+00:00"
  },
  "tzen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/tzen",
@@ -39422,7 +40859,7 @@
  },
  "uklar": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
-  "forum_posts": 92,
+  "forum_posts": 93,
   "stars": 3,
   "parsed_by": "regex3",
   "followers": 9,
@@ -39521,7 +40958,12 @@
  },
  "una14": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/una14",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 uker",
+  "checked_at": "2026-11-09T09:48:25.398978+00:00"
  },
  "unbanked": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/unbanked",
@@ -39579,7 +41021,7 @@
  },
  "upanddown67": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
-  "forum_posts": 95,
+  "forum_posts": 96,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 3,
@@ -39633,7 +41075,12 @@
  },
  "utbytte67": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/utbytte67",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:44:53.876567+00:00"
  },
  "utbyttebytte": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttebytte",
@@ -39664,7 +41111,12 @@
  },
  "utbyttemaskinen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttemaskinen",
-  "forum_posts": 1
+  "forum_posts": 2,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 65,
+  "member_for": "11 måneder",
+  "checked_at": "2026-11-09T09:43:42.996859+00:00"
  },
  "utbyttereisen": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttereisen",
@@ -39740,7 +41192,12 @@
  },
  "vacuumcleaner": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vacuumcleaner",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:45:00.689389+00:00"
  },
  "vadz": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vadz",
@@ -39807,7 +41264,7 @@
  },
  "valderama64": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/valderama64",
-  "forum_posts": 16,
+  "forum_posts": 18,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 6,
@@ -39870,7 +41327,12 @@
  },
  "vargfire": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vargfire",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "8 måneder",
+  "checked_at": "2026-11-09T09:49:10.338305+00:00"
  },
  "varskoville": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/varskoville",
@@ -39910,7 +41372,7 @@
  },
  "vdh": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vdh",
-  "forum_posts": 19,
+  "forum_posts": 20,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 2,
@@ -39973,7 +41435,12 @@
  },
  "vehmas": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vehmas",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 3,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:44:07.029821+00:00"
  },
  "velgetbrukernavn": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/velgetbrukernavn",
@@ -40067,7 +41534,12 @@
  },
  "vespan": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vespan",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "6 år",
+  "checked_at": "2026-11-09T09:45:50.765860+00:00"
  },
  "vestinvest1": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vestinvest1",
@@ -40143,7 +41615,7 @@
  },
  "vicant": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vicant",
-  "forum_posts": 31,
+  "forum_posts": 32,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 19,
@@ -40233,7 +41705,12 @@
  },
  "vigle": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vigle",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:44:25.971872+00:00"
  },
  "vihaa": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/vihaa",
@@ -40309,7 +41786,12 @@
  },
  "viktor31": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/viktor31",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "7 måneder",
+  "checked_at": "2026-11-09T09:49:07.547985+00:00"
  },
  "viktor47": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/viktor47",
@@ -40560,7 +42042,7 @@
  },
  "volven": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/volven",
-  "forum_posts": 21,
+  "forum_posts": 23,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 7,
@@ -40704,7 +42186,12 @@
  },
  "wargeh": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wargeh",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:52.373692+00:00"
  },
  "warp10": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/warp10",
@@ -40771,7 +42258,12 @@
  },
  "we90": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/we90",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:49:08.880127+00:00"
  },
  "weeeken": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/weeeken",
@@ -40865,7 +42357,12 @@
  },
  "wholesale-gnome": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wholesale-gnome",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "3 måneder",
+  "checked_at": "2026-11-09T09:50:17.445808+00:00"
  },
  "wian": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wian",
@@ -40878,7 +42375,12 @@
  },
  "wilhje": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wilhje",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 4,
+  "member_for": "11 måneder",
+  "checked_at": "2026-11-09T09:45:19.781487+00:00"
  },
  "will122": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/will122",
@@ -41080,7 +42582,12 @@
  },
  "wkt16": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wkt16",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 3,
+  "member_for": "2 år",
+  "checked_at": "2026-11-09T09:49:13.000915+00:00"
  },
  "wocky47": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wocky47",
@@ -41156,7 +42663,12 @@
  },
  "wolfofsmapenger": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wolfofsmapenger",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 år",
+  "checked_at": "2026-11-09T09:48:54.045213+00:00"
  },
  "wolking": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/wolking",
@@ -41295,7 +42807,12 @@
  },
  "xbay": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/xbay",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "4 år",
+  "checked_at": "2026-11-09T09:47:34.990406+00:00"
  },
  "xcelerator": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/xcelerator",
@@ -41461,7 +42978,7 @@
  },
  "ydkd": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ydkd",
-  "forum_posts": 14,
+  "forum_posts": 15,
   "stars": 1,
   "parsed_by": "sr-only",
   "followers": 20,
@@ -41488,7 +43005,12 @@
  },
  "yieldhunter": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/yieldhunter",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:49:36.168897+00:00"
  },
  "ykyk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ykyk",
@@ -41501,7 +43023,12 @@
  },
  "ylioppilas-larvanto": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ylioppilas-larvanto",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 6,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:47:14.788661+00:00"
  },
  "ymse-2": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ymse-2",
@@ -41559,15 +43086,25 @@
  },
  "ysk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ysk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 15,
+  "member_for": "1 år",
+  "checked_at": "2026-11-09T09:46:07.377879+00:00"
  },
  "ytresnillfjord": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ytresnillfjord",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 2,
+  "member_for": "7 år",
+  "checked_at": "2026-11-09T09:46:57.221948+00:00"
  },
  "yvinda": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/yvinda",
-  "forum_posts": 8,
+  "forum_posts": 9,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 24,
@@ -41639,7 +43176,7 @@
  },
  "zappaphone": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
-  "forum_posts": 48,
+  "forum_posts": 50,
   "stars": 2,
   "parsed_by": "regex3",
   "followers": 22,
@@ -41675,7 +43212,12 @@
  },
  "zaratustra": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zaratustra",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 1,
+  "parsed_by": "sr-only",
+  "followers": 1,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:45:13.047085+00:00"
  },
  "zebentrades": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zebentrades",
@@ -41688,7 +43230,7 @@
  },
  "zenbird": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zenbird",
-  "forum_posts": 4,
+  "forum_posts": 5,
   "stars": 0,
   "parsed_by": "sr-only",
   "followers": 0,
@@ -41724,7 +43266,12 @@
  },
  "zikkzakk": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zikkzakk",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 12,
+  "member_for": "10 år",
+  "checked_at": "2026-11-09T09:45:03.382935+00:00"
  },
  "zimo9": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zimo9",
@@ -41800,11 +43347,16 @@
  },
  "zollnation": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zollnation",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 0,
+  "parsed_by": "sr-only",
+  "followers": 0,
+  "member_for": "5 måneder",
+  "checked_at": "2026-11-09T09:50:27.123821+00:00"
  },
  "zonnoe": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zonnoe",
-  "forum_posts": 59,
+  "forum_posts": 60,
   "stars": 3,
   "parsed_by": "regex3",
   "followers": 54,
@@ -41849,7 +43401,12 @@
  },
  "zral": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zral",
-  "forum_posts": 1
+  "forum_posts": 1,
+  "stars": 2,
+  "parsed_by": "sr-only",
+  "followers": 8,
+  "member_for": "12 år",
+  "checked_at": "2026-11-09T09:49:14.333630+00:00"
  },
  "zrallings": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/zrallings",
@@ -41862,7 +43419,7 @@
  },
  "ztrejfer": {
   "url": "https://www.nordnet.no/aksjeforum/medlemmer/ztrejfer",
-  "forum_posts": 13,
+  "forum_posts": 14,
   "stars": 2,
   "parsed_by": "sr-only",
   "followers": 14,
