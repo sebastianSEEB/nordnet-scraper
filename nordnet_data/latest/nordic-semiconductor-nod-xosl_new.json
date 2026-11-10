@@ -1,40 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-11-10T16:42:22.149153+00:00",
+  "scraped_at": "2026-11-10T22:02:55.262684+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "eb05ed45fa84f62e",
-      "author": "Selskapslek",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/selskapslek",
-      "posted_relative": null,
-      "text": "6. nov. · Endret Økt short med 0,54 prosent: Short nå er 3,36 %, fordelt på 3 aktører. Det gir 6. plass av de 43 aksjene som har offentlig short nå, opp fra 10. plass for en måned siden. Nivået er omtrent på snittet for siste år, som er 3,37 %. Høyest har den vært på 5,86 %, 4. feb. 2026. Siste melding kom 5. nov. 2026. Mer grafer og historikk: https://shortaksjer.netlify.app/ Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        2
-      ],
-      "links": [
-        "https://shortaksjer.netlify.app/"
-      ],
-      "char_count": 399,
-      "has_link": true
-    },
-    {
-      "key": "771c7e821f8150e1",
-      "author": "Ultimo4000",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ultimo4000",
-      "posted_relative": null,
-      "text": "6. nov. SQUAREPOINT OPS LLC\t1 078 919\t0,54%\t05.11.2026. Flaggmelding, er det hit aksjene tok veien?",
+      "key": "979f9612f2a84c86",
+      "author": "Bjes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjes",
+      "posted_relative": "for 18 min siden",
+      "text": "Gratis verktøy: statistiske prediksjoner, krakkrisiko og dippkalender for over 12 000 fond og aksjer i Norge, USA, Europa og Asia: https://sepoh.github.io/QuantAnalytics/ *Ikke investeringsrådgivning, kun automatiske beregninger uten garanti, så gjør alltid din egen vurdering.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://sepoh.github.io/QuantAnalytics/"
+      ],
+      "char_count": 277,
+      "has_link": true
+    },
+    {
+      "key": "218285db37345968",
+      "author": "Myragubben",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myragubben",
+      "posted_relative": null,
+      "text": "6. nov. Jeg ser det skrives at Nasdaq har korrigert mye, men at NOD ikke har gjort det..Det må da være direkte feil? Jeg ser at fra stengetid onsdag har NOD falt 6,2% mens Nasdaq100 har falt 4,9%. Nod har altså falt betraktelig mer enn Nasdaq, så det har vært en overreaksjon i  NOD sammenlignet med Nasdaq, mener jeg. Silikon Labs er f.eks det selskapet som er mest likt NOD, og Silicon Labs har falt med 0,5% i samme tidsrom.  De enkeltaksjene som har hatt størst fall nå er knyttet til AI og prosessering direkte. NOD er ikke i den kategorien,desember ril en hel rekke OEMs som lager produkter direkte til forbruker eller industri. Det er på lang nær stort fall i disse markedene.  Nå ser jeg at flere store fond bekrefter at de er på kjøpsknappen i tech igjen, med mye tørt krutt. Blant annet er Storebrand i markedet med milliarder som skal investeres.  Det kan vel gjerne se ut som markedet skal opp igjen basert på dette, tenker nå jeg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        4
+      ],
       "links": [],
-      "char_count": 99,
+      "char_count": 943,
       "has_link": false
     }
   ]

@@ -1,22 +1,37 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-11-10T16:43:28.868753+00:00",
+  "scraped_at": "2026-11-10T22:04:01.157856+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "37f60af0ef5616e0",
+      "key": "8225e3a303340b2b",
       "author": "spurtus",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spurtus",
-      "posted_relative": null,
-      "text": "6. nov. Kan det komme oppdaterte kursmål neste uke?",
+      "posted_relative": "for 1 t siden",
+      "text": "Har gått bra de siste dagene. Mye usikkerhet i verden nå, så tror det kan komme flere fall slik vi nylig har sett. Men B2 er solid, har nok en gang gitt en sterk rapport, så vil tro vi ser 26 i løpet av dette året👍",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 51,
+      "char_count": 214,
+      "has_link": false
+    },
+    {
+      "key": "6f240ff60344ab53",
+      "author": "Aapo assets",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aapo-assets",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hva er dine tanker, når vil vi se 26?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 39,
       "has_link": false
     }
   ]

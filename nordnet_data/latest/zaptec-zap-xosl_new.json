@@ -1,22 +1,55 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-10T16:42:38.106522+00:00",
+  "scraped_at": "2026-11-10T22:03:10.943762+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "2ae96ac191121c1c",
-      "author": "J egs",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/j-egs",
-      "posted_relative": "for 1 t siden",
-      "text": "Tror dere den fortsetter ned litt til i morgen, eller stopper det i dag?",
+      "key": "2ff813dbe4ec7eae",
+      "author": "Zaptecletsgo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zaptecletsgo",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Ny betalt analyse KURSMÅL: 79 NOK https://vasro.de/wp-content/uploads/2026/11/VASRO-GmbH_Update-Equity-Report_Zaptec_EN_10112026.pdf Vis 1 kommentar til",
       "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        3
+      ],
+      "links": [
+        "https://vasro.de/wp-content/uploads/2026/11/VASRO-GmbH_Update-Equity-Report_Zaptec_EN_10112026.pdf"
+      ],
+      "char_count": 152,
+      "has_link": true
+    },
+    {
+      "key": "b81351276d9ce8f6",
+      "author": "Koemmern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/koemmern",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg tror ikke, jeg vet. Og det jeg vet er at denne DRITTAKSJE faller i morgen. Som vanelig!!!!",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 72,
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "e7bb6fc7b51ca74e",
+      "author": "R1ppi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/r1ppi",
+      "posted_relative": "for 2 t siden",
+      "text": "· Skjønner ikke at de bruker penger på noe så unyttig...",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 56,
       "has_link": false
     }
   ]

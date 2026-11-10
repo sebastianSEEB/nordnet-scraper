@@ -1,9 +1,52 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-10T16:43:36.731391+00:00",
+  "scraped_at": "2026-11-10T22:04:09.028108+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ef276c526f65c2c7",
+      "author": "mork08",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mork08",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Tror dere dette er rett tidspunkt å kjøpe seg inn? Synnes selv denne aksjen ser lavt priset ut og ser ut som vi kan forvente et høyere resultat i Q4 viss du ser på hvordan resultatene har vært historisk. -Nybegynner Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 235,
+      "has_link": false
+    },
+    {
+      "key": "94055ed5fc05eb0b",
+      "author": "Pacman75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pacman75",
+      "posted_relative": "for 2 t siden",
+      "text": "Utrolig svak aksje, flere selgere enn kjøpere",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "caa81c7c27a4974a",
+      "author": "Pacman75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pacman75",
+      "posted_relative": "for 2 t siden",
+      "text": "Langsiktig ok, kortsiktig litt usikker..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }

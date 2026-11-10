@@ -1,9 +1,38 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-10T16:41:03.454295+00:00",
+  "scraped_at": "2026-11-10T22:01:37.184530+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2dd8d5d4130e5aef",
+      "author": "givemefive",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/givemefive",
+      "posted_relative": "for 5 t siden",
+      "text": "Mye saklige uttalelser her. Raketter og greier... Hvorfor ikke lese igjennom det som er skrevet før det blir trykket på enter ? Dette blir for dumt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 148,
+      "has_link": false
+    },
+    {
+      "key": "7423ab94130c0abd",
+      "author": "hphill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hphill",
+      "posted_relative": "for 10 t siden",
+      "text": "Jeg mener den kommer mye Opp ! 🚀 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

@@ -1,51 +1,24 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-10T16:44:38.541213+00:00",
+  "scraped_at": "2026-11-10T22:05:11.049182+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "f75fa14496681f65",
-      "author": "Payo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payo",
-      "posted_relative": "for 3 t siden",
-      "text": "· Bry dere ikke om at aksjen hopper opp og ned. Sjekk hva analytikerne sier 25-30 er spennet og de er veldig forsiktige. Dere sitter på en vinner om dere eier aksjen langsiktig 3 år da bør verdien være ca. 100 kr per aksje. Vis 1 kommentar til",
+      "key": "0e739ccccb8aadbf",
+      "author": "stian1992",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stian1992",
+      "posted_relative": "for 5 t siden",
+      "text": "100kr var litt i overkant optimistisk. Er vi heldige ligger den på 23-28 og utbytte på 0,5.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4,
-        3
+        1
       ],
       "links": [],
-      "char_count": 243,
-      "has_link": false
-    },
-    {
-      "key": "98359f7a6245aede",
-      "author": "Barcabert",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcabert",
-      "posted_relative": "for 58 min siden",
-      "text": "100 kr om 3 år? Det var da voldsomt. DNO har en track record som tilsier at det er hinsides all forventning. Visst er det et par triggere i horisonten, men olje-/gassprisen skal ganske så skyhøyt opp før vi har 100 kr i kikkerten.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 230,
-      "has_link": false
-    },
-    {
-      "key": "bb9ed30708b76f3a",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 37 min siden",
-      "text": "?  Virker som det er mange som ikke har vært med på dette før",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 61,
+      "char_count": 91,
       "has_link": false
     }
   ]

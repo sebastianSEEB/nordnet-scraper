@@ -1,9 +1,53 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-10T16:46:08.166509+00:00",
+  "scraped_at": "2026-11-10T22:06:39.500433+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b4aa63d413620ceb",
+      "author": "safe_heaven",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
+      "posted_relative": "for 4 t siden",
+      "text": "AKER BP: SB1M oppgraderer aksjen fra nøytral til kjøp med uendret kursmål NOK 395. SEB oppgraderer fra selg til hold, kutter dog kursmålet til NOK 318 (322) - SEB antar f.ø en Brentpris i gjennomsnitt på USD 78 per fat i 2027 og USD 70 i 2028.  XI",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 247,
+      "has_link": false
+    },
+    {
+      "key": "693d6b66bf218186",
+      "author": "Jackpoot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpoot",
+      "posted_relative": "for 4 t siden",
+      "text": "Gratulerer til alle tradere som tjente 1 % i dag Ingen vet hvor haren hopper i morgen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "fd24fa5cb209556d",
+      "author": "Jackpoot",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpoot",
+      "posted_relative": "for 8 t siden",
+      "text": "Blir spennende og følge omsetningen i sluttauksjon i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    }
+  ]
 }

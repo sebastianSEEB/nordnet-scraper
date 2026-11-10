@@ -1,24 +1,53 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-10T16:42:46.200388+00:00",
+  "scraped_at": "2026-11-10T22:03:18.912602+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "753e0ebe0194232a",
-      "author": "Himalaya734",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
-      "posted_relative": "for 26 min siden",
-      "text": "Veldig gode analyser og betraktninger her!",
+      "key": "f5173c1c0a723d70",
+      "author": "funin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funin",
+      "posted_relative": "for 3 t siden",
+      "text": "Dagens melding om funn virker veldig positiv, men har gitt skuffende lite (umiddelbar) utslag på kursen. Men om selskapets ledelse vurderte dette til å være veldig bra for selskapets verdi, ville det ikke vært naturlig at det kom melding om innsidekjøp? (Med mindre det er noe annet som gjør at de ikke kan handle selvsagt).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 324,
+      "has_link": false
+    },
+    {
+      "key": "daef36bf2a162674",
+      "author": "DrDrago",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
+      "posted_relative": "for 1 t siden",
+      "text": "· I henhold til EUs markedsmisbruksforordning (MAR) gjelder et strengt lovkrav som forbyr personer med ledelsesansvar (innsidere) å handle med selskapets aksjer, gjeldsinstrumenter eller derivater i 30 kalenderdager før en delårsrapport eller regnskapsoppgjør offentliggjøres. Neste rapport er 18 November.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 42,
+      "char_count": 306,
+      "has_link": false
+    },
+    {
+      "key": "d193616370c46f34",
+      "author": "DrDrago",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
+      "posted_relative": "for 1 t siden",
+      "text": "· Min gjetning er at institusjoner som tar dette, tar posisjon og deretter oppdaterer markedet med nye analyser etter kvartalsrapporten 18 Nov hvor styret gir en oppdatert tilstandsrapport.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 189,
       "has_link": false
     }
   ]

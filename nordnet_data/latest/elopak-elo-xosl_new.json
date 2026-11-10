@@ -1,9 +1,43 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-10T16:44:19.189573+00:00",
+  "scraped_at": "2026-11-10T22:04:51.301941+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5ee1c699c9353c6d",
+      "author": "Verdens sterkeste bjørn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verdens-sterkeste-bjrn",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Volldal med kjøp: https://e24.no/bors/nyheter/a/306190?pinnedEntry=306190",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [
+        "https://e24.no/bors/nyheter/a/306190?pinnedEntry=306190"
+      ],
+      "char_count": 73,
+      "has_link": true
+    },
+    {
+      "key": "7408aeb3eab2b691",
+      "author": "HilduX",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hildux",
+      "posted_relative": "for 2 t siden",
+      "text": "Var dette den lille brikken som manglet i puslespillet så vi kan kaste loss snart🥳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }
