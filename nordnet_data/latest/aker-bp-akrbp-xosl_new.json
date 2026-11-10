@@ -1,9 +1,41 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-09T18:01:53.920257+00:00",
+  "scraped_at": "2026-11-10T01:07:10.560724+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1923d0e2df0f8517",
+      "author": "Khushal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/khushal",
+      "posted_relative": "for 13 t siden",
+      "text": "BP solgte torsdag rundt 5 % av Aker BP, for om lag 1,06 milliarder dollar. Prisen var 311 kroner per aksje, ifølge flere nyhetskilder. BP eier nå 10,9 %, ned fra 15,9 %, og kan ikke selge flere aksjer de neste 90 dagene. Teknisk analyse: https://aksjekompass.no/aksje/aker-bp?nordnet Aksjen falt 9,8 % den dagen, fra 354,00 til 319,30. Volumet var 6,7 ganger normalt. Fredag endte den på 316,80, ned 19 % på en uke og rett over salgsprisen på 311. For tre uker siden brøt aksjen opp gjennom 373–375. Nå er det nivået motstand igjen. Under kursen ligger støtte på 288–296, fra bunnene i mars. Selskapet er det samme som for en uke siden. Kvartalsrapporten 29. oktober viste en kontantstrøm fra driften på 2,4 milliarder dollar. Produksjonsmålet på 380 000–400 000 fat per dag står fast. Kvartalsutbyttet er 0,6615 dollar per aksje. Mitt syn: Fallet handler om hvem som solgte, ikke om selskapet. 311 er nå prisen markedet følger med på, fordi det er det de store kjøperne betalte forrige uke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [
+        "https://aksjekompass.no/aksje/aker-bp?nordnet"
+      ],
+      "char_count": 991,
+      "has_link": true
+    },
+    {
+      "key": "43e7705d1a1a78a1",
+      "author": "Kingkongz5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kingkongz5",
+      "posted_relative": "for 3 t siden",
+      "text": "Fare for at den faller mer nå siden oljeprisen faller mye",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

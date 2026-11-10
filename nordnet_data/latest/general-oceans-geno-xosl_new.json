@@ -1,38 +1,50 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-09T18:03:26.124847+00:00",
+  "scraped_at": "2026-11-10T01:08:43.957038+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "bcdf72e48edb3cd2",
-      "author": "Oxion",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oxion",
-      "posted_relative": "for 1 t siden",
-      "text": "· HVORFOR STIGER DEN 13% I DAG.???? Var det et mer passende spørsmål ?",
+      "key": "c744b463bc871c94",
+      "author": "N00bish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/n00bish",
+      "posted_relative": "for 6 t siden",
+      "text": "Holder folk igjennom rapporten, eller selges den rett før?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "11317eed73ba9588",
+      "author": "iversen_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iversen-1",
+      "posted_relative": "for 2 t siden",
+      "text": "Holder! Har lang tidshorisont. Hva med deg?",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 70,
+      "char_count": 43,
       "has_link": false
     },
     {
-      "key": "85f9281e5a5ae024",
-      "author": "MAVO",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
-      "posted_relative": "for 3 t siden",
-      "text": "· Kjøp billig 🫡",
+      "key": "ac71ff8f1b8bd12e",
+      "author": "mmagne",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mmagne",
+      "posted_relative": "for 4 t siden",
+      "text": "I allverden skjedde i ettermiddag?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        4,
-        6
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 15,
+      "char_count": 34,
       "has_link": false
     }
   ]

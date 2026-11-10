@@ -1,9 +1,23 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-11-09T17:58:42.093045+00:00",
+  "scraped_at": "2026-11-10T01:03:58.968575+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "18deb0a5cb6c31c1",
+      "author": "gnumf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gnumf",
+      "posted_relative": null,
+      "text": "5. nov. Hvem var det?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

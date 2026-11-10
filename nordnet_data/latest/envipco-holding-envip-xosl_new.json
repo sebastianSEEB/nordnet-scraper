@@ -1,9 +1,38 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-11-09T18:03:45.317480+00:00",
+  "scraped_at": "2026-11-10T01:09:02.730137+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8a6ba268d8c08400",
+      "author": "GarthElvis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/garthelvis",
+      "posted_relative": "for 13 t siden",
+      "text": "Noen som tenker å selge før resultatet om to dager og evt kjøpe tilbake rett etter? Eller kan det være positive resultater?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "9e20d1abc370ea0d",
+      "author": "Fplkongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fplkongen",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg sitter, toget går noe voldsomt om tallene leverer (ref Hexagon C på fredag). Blir spennende!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    }
+  ]
 }

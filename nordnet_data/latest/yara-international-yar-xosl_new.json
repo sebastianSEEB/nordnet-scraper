@@ -1,9 +1,23 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-09T18:02:13.224628+00:00",
+  "scraped_at": "2026-11-10T01:07:30.472353+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fb3ed0b8072cbc7c",
+      "author": "amatooridiskonttaaja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatooridiskonttaaja",
+      "posted_relative": "for 3 t siden",
+      "text": "· 🙄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 3,
+      "has_link": false
+    }
+  ]
 }

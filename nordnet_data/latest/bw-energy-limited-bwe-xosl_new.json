@@ -1,9 +1,39 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-11-09T18:01:09.935173+00:00",
+  "scraped_at": "2026-11-10T01:06:27.066609+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d5eb6e4a56ca1795",
+      "author": "Hodetovervann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hodetovervann",
+      "posted_relative": null,
+      "text": "2. nov. Nei. Nå må selskapet nesten ha blitt kanskje billig igjen. Virker personlig som en stor overreaksjon (Obs mine egne meninger)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "e28ea65ff14862dd",
+      "author": "OAST",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oast",
+      "posted_relative": "for 1 t siden",
+      "text": "faller og faller.  Umulig å vite hvor bunnen er",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

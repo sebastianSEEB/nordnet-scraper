@@ -1,9 +1,26 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-11-09T17:57:24.969504+00:00",
+  "scraped_at": "2026-11-10T01:02:40.630033+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e0e367981a67a66e",
+      "author": "Maltheee",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maltheee",
+      "posted_relative": null,
+      "text": "6. nov. · Hvis man skal sette stop loss på hva er en god verdi da? Kjøpte den i 94,15",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-09T17:58:30.362357+00:00",
+  "scraped_at": "2026-11-10T01:03:47.006673+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "30f56407db1cfd42",
+      "author": "arctic_fulmar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arctic_fulmar",
+      "posted_relative": "for 5 t siden",
+      "text": "Ja vel, 127 USD/fat for det store løftet i oktober… Ingen oppside-risk for capex pga riggulykken.  Og tallene for CIV står i Q2 pres til DNO. Da får vi regne på årsresultatet allerede, og det var ikke en gang jul :) Hva var skattenivået i Tunisia? 50%?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 252,
+      "has_link": false
+    },
+    {
+      "key": "43d4d9abf71efb6d",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 3 t siden",
+      "text": "· Det saudiarabiske energidepartementet har nylig bekreftet at EAST-WEST PIPELINE har blitt truffet av Ansar Allah (houthiene), og dette har ført til at det har brutt ut en brann på stedet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 189,
+      "has_link": false
+    }
+  ]
 }
