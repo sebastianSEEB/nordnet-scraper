@@ -1,9 +1,23 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-10T15:14:59.513938+00:00",
+  "scraped_at": "2026-11-10T16:42:34.179539+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "12d0492b2db1040d",
+      "author": "TRGO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trgo",
+      "posted_relative": "for 1 t siden",
+      "text": "De mener nok at de skal tjene mer på de pengene de tar inn i obligasjonen enn hva den koster i renteutgifter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    }
+  ]
 }

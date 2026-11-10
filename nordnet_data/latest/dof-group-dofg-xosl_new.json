@@ -1,28 +1,36 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-10T15:15:19.730797+00:00",
+  "scraped_at": "2026-11-10T16:42:54.111101+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "eef1a1fabbc164a8",
-      "author": "Driftsentralen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/driftsentralen",
-      "posted_relative": null,
-      "text": "6. nov. · Endret Følger tett med på denne aksjen, vi nærmer oss bunn. Da er det kun 1 ting å gjøre 🙈🎯 https://oslo-trader.com",
-      "reply_count": 2,
+      "key": "934cad9679459db3",
+      "author": "Oljeski",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oljeski",
+      "posted_relative": "for 1 t siden",
+      "text": "Tungt inne her, hovedsaklig pågrunn av at de har høy dekning de neste årene, og veldig bra utbytte. Har sett analyser og laget oversikt av flåten for å dynamisk oppgradere nye oppdrag på fartøyne. Men skjønner ikke helt aksjen likevel. Hvorfor stiger vi så mye i dag, samtidig som olja er ned kraftig? Forventninger til torsdag? Eller har realiteten med at kontraktene allerede er på plass sunket inn, så folk skjønner oljeprisen dag til dag ikke er kritisk",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        5,
-        4
-      ],
-      "links": [
-        "https://oslo-trader.com"
-      ],
-      "char_count": 125,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 457,
+      "has_link": false
+    },
+    {
+      "key": "d1cbe3691e71347d",
+      "author": "JesperInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jesperinvest",
+      "posted_relative": null,
+      "text": "6. nov. · 110🎯",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
     }
   ]
 }
