@@ -1,9 +1,41 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-10T01:04:46.932632+00:00",
+  "scraped_at": "2026-11-10T08:58:45.392787+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f5fe89892116ae99",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 19 t siden · Endret",
+      "text": "Siden ledelsen sa noe om at de kan få bestiling på 100000 enheter i 2027. Da må det være store ordrer på vei nå og kan komme når som helst. Ledelsen ga en hint på ordrer som er på vei. Hva kan være bedre en det. Nemlig en bekreftelse på bestillinger som kan komme snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [],
+      "char_count": 269,
+      "has_link": false
+    },
+    {
+      "key": "7ea8e1f2aad1f80e",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 21 min siden",
+      "text": "Virker som aksjen skal passerer 40 idag med god margin. Kommer det en stor bestiling snart. Kan aksjen se ny topp notering på kort tid",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    }
+  ]
 }

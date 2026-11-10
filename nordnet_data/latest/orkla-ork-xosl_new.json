@@ -1,9 +1,23 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-10T01:07:34.625778+00:00",
+  "scraped_at": "2026-11-10T09:01:34.616810+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c6709a71006287ab",
+      "author": "Schiffwasright",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/schiffwasright",
+      "posted_relative": "for 5 min siden",
+      "text": "RSI ser litt strukket ut nå... sikkert ok å ta noe av borde en stund,,,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

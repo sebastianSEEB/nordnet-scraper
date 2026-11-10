@@ -1,9 +1,23 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-10T01:09:33.749689+00:00",
+  "scraped_at": "2026-11-10T09:03:35.033190+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3aceaf1d5ffde07f",
+      "author": "liverglimt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/liverglimt",
+      "posted_relative": "for 1 min siden",
+      "text": "Nå som det nærmer seg, kan noen av dere som har oversikt fortelle hvor mange aksjer de som skal selge seg ned har?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    }
+  ]
 }

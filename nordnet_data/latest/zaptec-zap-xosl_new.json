@@ -1,9 +1,38 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-10T01:03:39.541355+00:00",
+  "scraped_at": "2026-11-10T08:57:37.281980+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "091f9d40dafa2a89",
+      "author": "Fattiglusa5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusa5",
+      "posted_relative": "for 27 min siden",
+      "text": "Gjennomsnittlig kursmål blant analytikerne ligger på 67,80 NOK (blant annet har Clarksons et kursmål på 70 NOK)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "96624f57840da1ac",
+      "author": "Fattiglusa5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusa5",
+      "posted_relative": "for 1 t siden",
+      "text": "Håper dem blør litt nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

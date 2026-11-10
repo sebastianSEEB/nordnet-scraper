@@ -1,9 +1,38 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-11-10T01:03:24.199085+00:00",
+  "scraped_at": "2026-11-10T08:57:20.926974+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "aced18b1912fd22a",
+      "author": "Vigeland2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vigeland2025",
+      "posted_relative": null,
+      "text": "6. nov. Dette er litt som NEL når vi hadde den grønne boblen. Massiv markedsverdi, lite omsetning og småsparerfavoritt. Vi får se om denne også knekker.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 152,
+      "has_link": false
+    },
+    {
+      "key": "519f9fa1452851e2",
+      "author": "Vigeland2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vigeland2025",
+      "posted_relative": null,
+      "text": "6. nov. Det er bare et forvarsel for hva som vil komme.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

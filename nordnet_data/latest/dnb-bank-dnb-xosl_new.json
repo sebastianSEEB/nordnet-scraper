@@ -1,9 +1,54 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-10T01:07:02.949637+00:00",
+  "scraped_at": "2026-11-10T09:01:02.458182+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bf5736da1465d454",
+      "author": "Nero2021",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nero2021",
+      "posted_relative": "for 9 min siden",
+      "text": "Varsel om ekstremt utbytte fra - over 50% av resultat skal tilfalle aksjonærene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "af01c62032ae6f70",
+      "author": "e38",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/e38",
+      "posted_relative": "for 34 min siden",
+      "text": "Jeg så vekk i 5 min.. hva skjedde 😂",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "bba6cc1b01ff6b77",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 58 min siden",
+      "text": "· Den går og den går...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

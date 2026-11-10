@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-10T01:08:36.356403+00:00",
+  "scraped_at": "2026-11-10T09:02:36.722124+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "aa398a8255ba7402",
+      "author": "Fiskestank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "posted_relative": null,
+      "text": "6. nov. Jeg har ikke sett en analyse som problematiserer at 4 av 6 markeder ikke nådde aktivt forecast i 3Q, første kvartal etter nedskrivingen. Marginalt ja, men allikevel et relativt tydelig rødt flagg!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        13
+      ],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    }
+  ]
 }

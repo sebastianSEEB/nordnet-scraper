@@ -1,52 +1,27 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-10T01:07:14.799743+00:00",
+  "scraped_at": "2026-11-10T09:01:14.642820+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "765cdc175b4c9b92",
-      "author": "ROPS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rops",
-      "posted_relative": "for 15 t siden",
-      "text": "· Jeg la inn kjøp 134,2 nok jeg kjøpte også leroy seafood om morgenen. Vis 1 kommentar til",
+      "key": "74e105b8301f75d8",
+      "author": "ContraContrarian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/contracontrarian",
+      "posted_relative": "for 1 t siden",
+      "text": "Som jeg skrev i en tråd i oktober så bør vi ha en interesse i å ha samfunnskritisk infrastruktur på egen jord og ikke være avhengig av Elon Musk (eller andre) ute i den store verden for kommunikasjon.  Godt å se at myndighetene er ute med dette budskapet nå. https://www.dn.no/telekom/nkom/telenor/bredband/nkom-om-satellitter-beredskap-bor-veie-tungt/2-1-2066940",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
-        2
+        3
       ],
-      "links": [],
-      "char_count": 90,
-      "has_link": false
-    },
-    {
-      "key": "8ada69cf6406e972",
-      "author": "norfredrik",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/norfredrik",
-      "posted_relative": null,
-      "text": "5. nov. Har snitt på 126,9,- og synes det går greit hittil!",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "5999b05d14e13f24",
-      "author": "PimpFunk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pimpfunk",
-      "posted_relative": "for 2 t siden",
-      "text": "· Sushi til middag da?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 22,
-      "has_link": false
+      "links": [
+        "https://www.dn.no/telekom/nkom/telenor/bredband/nkom-om-satellitter-beredskap-bor-veie-tungt/2-1-2066940"
+      ],
+      "char_count": 363,
+      "has_link": true
     }
   ]
 }

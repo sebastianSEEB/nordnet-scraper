@@ -1,40 +1,93 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-10T01:06:04.434404+00:00",
+  "scraped_at": "2026-11-10T09:00:03.367810+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "67e97186a499cba8",
-      "author": "toppjeger",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toppjeger",
-      "posted_relative": "for 7 t siden",
-      "text": "Det er ikke posetivt at antallet shortsolgte aksjer går ned. Når selskaper snur trender, og stiger er shorterne plutselig kjøpere, når de skal dekke inn. Shortere er bra for bra aksjekursen...",
+      "key": "d767e48029dabf55",
+      "author": "Popeye007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/popeye007",
+      "posted_relative": "for 20 min siden",
+      "text": "Shorterne har normalt lånt aksjene av en bank, typisk JP Morgan, som da har kjøpt de for å låne ut. Om det gjøres uten syntetiske posisjoner, så skal jo shorterne kjøpe tilbake og levere tilbake der de er lånt fra. Utlåneren skal jo ikke sitte på de, så de selges igjen. Dermed selges de aksjene ut en gang til.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 192,
+      "char_count": 311,
       "has_link": false
     },
     {
-      "key": "706822c47bdb7056",
-      "author": "Isf",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isf",
-      "posted_relative": "for 10 t siden",
-      "text": "Der gikk sannelig shortandelen litt ned - det må vel også være et godt tegn? Vis 1 kommentar til",
+      "key": "f9bbb6ae39346b6f",
+      "author": "Popeye007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/popeye007",
+      "posted_relative": "for 53 min siden",
+      "text": "Det virker som analytikerne i sum ønsket å ta ned sine forventninger og så etter knagger å henge det på. DnB brukte 45% nedgang i lastebilmarkedet som grunn. Nedgangen var for små pick ups etc., markedet for store biler var bra, jfr, Cummins q3 rapport. Markedet ser nok gjennom det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 283,
+      "has_link": false
+    },
+    {
+      "key": "3fb2b89c2a028b22",
+      "author": "investor_rotten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investor_rotten",
+      "posted_relative": "for 16 t siden",
+      "text": "Gir blanke hva DnB kommer med av kursmål. Porteføljen deres er ned 0,3 prosent i år. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        10,
+        16,
         2
       ],
       "links": [],
-      "char_count": 96,
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "7642323509027688",
+      "author": "fritidsinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fritidsinvest",
+      "posted_relative": "for 48 min siden",
+      "text": "Klarer vi se opp mot 14 tallet igjen før nyttår👀 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "e7c338d882058ae3",
+      "author": "krabbePyse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krabbepyse",
+      "posted_relative": "for 24 min siden",
+      "text": "Det er 11% opp til 14. Tipper vi er der ila november.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "a052dcccac9826ea",
+      "author": "Fplkongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fplkongen",
+      "posted_relative": "for 54 min siden",
+      "text": "· Fra Porsche til #Ruter altså",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
       "has_link": false
     }
   ]

@@ -1,24 +1,35 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-11-10T01:02:13.225705+00:00",
+  "scraped_at": "2026-11-10T08:56:10.526748+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "8ce64559a256796a",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": null,
-      "text": "5. nov. · Endret Omsatt på 203 over dam nå, potensial tatt ut, får håpe det ikke blir mye styggere. 200ma ca 185. Det mest bullish utbytte scenario er 15 kroner, så om 200ma kan bli testet fremover, behøver ikke være en oddsbombe",
-      "reply_count": 3,
+      "key": "7b41675ebbb80cef",
+      "author": "lundeljung",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lundeljung",
+      "posted_relative": "for 19 min siden",
+      "text": "· Spørsmålet er snart om man skal dumpe denne den lekker kraftig frem mot Q3 jeg har sannelig svært for å se meningen med utviklingen",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 229,
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "6386310a463a9e2f",
+      "author": "Enrontrader",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enrontrader",
+      "posted_relative": "for 2 min siden",
+      "text": "· det er triste skyer over all transport",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
       "has_link": false
     }
   ]

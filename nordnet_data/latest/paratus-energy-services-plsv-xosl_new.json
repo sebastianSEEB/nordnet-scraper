@@ -1,22 +1,40 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-11-10T01:04:42.901600+00:00",
+  "scraped_at": "2026-11-10T08:58:41.440111+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a3981d84d2df84f2",
-      "author": "Sykkelpoteten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sykkelpoteten",
-      "posted_relative": "for 2 t siden",
-      "text": "Hvilken båt er egentlig Neptune? Er det DOF sin gamle Skandi Neptune eller Viking Neptune eller noen andre?",
+      "key": "9969eca1a5a240c9",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 18 t siden",
+      "text": "· Hadde jo vært så koselig om vi kunne klatre over 50-streken for siste gang nå",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        1,
+        5
+      ],
       "links": [],
-      "char_count": 107,
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "c21b8f0a28a92273",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 1 t siden",
+      "text": "Blir det utbytte i år?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 22,
       "has_link": false
     }
   ]

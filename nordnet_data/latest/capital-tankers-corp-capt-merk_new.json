@@ -1,9 +1,51 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-10T01:03:16.254623+00:00",
+  "scraped_at": "2026-11-10T08:57:13.207993+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "d5e58bace959671b",
+      "author": "Karl Marx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karl-marx",
+      "posted_relative": "for 31 min siden",
+      "text": "· Likevel følger den oljeprisen nedover.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "50d920d8681bef2e",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 25 min siden",
+      "text": "Hvor mange aksjer har Spetalen solgt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "1635f782e95d705e",
+      "author": "LordRupertEverton",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lordruperteverton",
+      "posted_relative": "for 21 min siden",
+      "text": "· Mange, det ligner",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,41 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-11-10T01:06:15.852254+00:00",
+  "scraped_at": "2026-11-10T09:00:15.038033+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1883fddbfe937d9b",
+      "author": "birder72",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/birder72",
+      "posted_relative": "for 41 min siden",
+      "text": "Innstramming av kraft gjør at avtalen til NSKOG på kraft bare blir mer verdifull. Uten å vite det sikkert så antar jeg de nå også selger overskuddskraft med god fortjeneste.  På sikt bør alle datalagring senter være selvforsynt med kraft i form av kjernekraftverk. Mangler foreløpig politisk vilje til å åpne opp for kjernekraft. NND burde undersøkt mulighetene ifbm demontering av reaktor og en plan for området etterpå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 421,
+      "has_link": false
+    },
+    {
+      "key": "23e36daa1f0db983",
+      "author": "Helmax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/helmax",
+      "posted_relative": "for 22 t siden · Endret",
+      "text": "Selv med utbygging av ny papirmaskin ved Saugbrug har Norske Skog 80-100 MW i ledig strømkapasitet. Nok til å forsyne et datasenter, hvor de ikke behøver å søke om konsesjon (?). Så vidt jeg kan bedømme det stiller Norske Skog meget sterkt i forhandlingene om avtale med nye utbyggere, etter at Statnett stopper nye konsesjoner til datasenter. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 363,
+      "has_link": false
+    }
+  ]
 }

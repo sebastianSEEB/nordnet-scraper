@@ -1,9 +1,23 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-10T01:02:05.609281+00:00",
+  "scraped_at": "2026-11-10T08:56:01.965639+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "309a106c216aae84",
+      "author": "Fesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fesk",
+      "posted_relative": "for 36 min siden",
+      "text": "· Hvor langt ned skal denne?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

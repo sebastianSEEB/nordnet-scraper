@@ -1,25 +1,40 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-11-10T01:02:40.630033+00:00",
+  "scraped_at": "2026-11-10T08:56:38.442523+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "e0e367981a67a66e",
-      "author": "Maltheee",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maltheee",
-      "posted_relative": null,
-      "text": "6. nov. · Hvis man skal sette stop loss på hva er en god verdi da? Kjøpte den i 94,15",
+      "key": "5b1cc592ad9a307e",
+      "author": "saastot_sileaksi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saastot_sileaksi",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://gcaptain.com/hoegh-autoliners-taps-byd-battery-technology-for-ammonia-powered-car-carrier/ \"Höegh Autoliners har signert en avtale med den kinesiske batteriprodusenten BYD om å installere et maritimt batterisystem om bord på sitt kommende bilskip Aurora No. 12, som kombinerer batterilagring, solcellepaneler og en akselgenerator med ammoniakkindrevet framdrift.\" \"Höegh sier skipet vil være det første dypvanns-bilskipet som kombinerer alle fire teknologiene, noe som gjør det til det mest drivstoffeffektive rene bil- og lastebilskipet (PCTC) som noen gang er bygget.\"",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        5
+        2,
+        1
       ],
+      "links": [
+        "https://gcaptain.com/hoegh-autoliners-taps-byd-battery-technology-for-ammonia-powered-car-carrier/"
+      ],
+      "char_count": 580,
+      "has_link": true
+    },
+    {
+      "key": "d525d9ba4deaa628",
+      "author": "LArgh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/largh",
+      "posted_relative": "for 1 t siden",
+      "text": "Lurer på om det kan være positivt for fremtidige fraktoppdrag at HAUTO oppretter et forhold til en stor kinesisk bilprodusent som BYD gjennom å kjøpe batteriteknologien deres.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 85,
+      "char_count": 175,
       "has_link": false
     }
   ]

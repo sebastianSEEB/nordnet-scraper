@@ -1,9 +1,38 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-10T01:06:12.143512+00:00",
+  "scraped_at": "2026-11-10T09:00:11.087216+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "90bcacddbb51c75f",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": null,
+      "text": "6. nov. Torodd Gøystdal, HR- og driftsdirektør i Sats, solgte torsdag 303.248 aksjer til en snittkurs på 44,39 kroner. Det fremgår av en børsmelding fra treningsstudiokjeden. Det tilsvarer et salg på drøyt 13,5 millioner kroner. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 248,
+      "has_link": false
+    },
+    {
+      "key": "2c4c56e96b466030",
+      "author": "Michi13",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michi13",
+      "posted_relative": "for 3 t siden",
+      "text": "Og det skal åpnes 18 nye sentere!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

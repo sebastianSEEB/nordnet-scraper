@@ -1,37 +1,85 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-11-10T01:09:02.730137+00:00",
+  "scraped_at": "2026-11-10T09:03:04.155656+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "8a6ba268d8c08400",
-      "author": "GarthElvis",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/garthelvis",
-      "posted_relative": "for 13 t siden",
-      "text": "Noen som tenker å selge før resultatet om to dager og evt kjøpe tilbake rett etter? Eller kan det være positive resultater?",
+      "key": "a77d181ef2a1aec4",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.dnews.gr/eidhseis/opinion/621580/anakyklosi-gia-tous-polites-ki-oxi-anakyklosi-ergolavikon-symferonton Ser ut som det gikk DRS Hellas sin vei. Og ryktene sier vel at DRS Hellas har gitt Texan de fleste kontraktene... Kan bli en bra dag, igjen!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        3,
+        11
+      ],
+      "links": [
+        "https://www.dnews.gr/eidhseis/opinion/621580/anakyklosi-gia-tous-polites-ki-oxi-anakyklosi-ergolavikon-symferonton"
+      ],
+      "char_count": 255,
+      "has_link": true
+    },
+    {
+      "key": "19343b2e2a1fec33",
+      "author": "Cabinas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cabinas",
+      "posted_relative": "for 30 min siden",
+      "text": "Er det shorts som ikke tror på selskapet som ligger med salgspress ? Det er fair, men objektivt sett, man må vel kunne si at det ser bedre ut enn noen gang.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
       "links": [],
-      "char_count": 123,
+      "char_count": 156,
       "has_link": false
     },
     {
-      "key": "9e20d1abc370ea0d",
-      "author": "Fplkongen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fplkongen",
-      "posted_relative": "for 5 t siden",
-      "text": "Jeg sitter, toget går noe voldsomt om tallene leverer (ref Hexagon C på fredag). Blir spennende!",
+      "key": "961238220009f6ed",
+      "author": "matste",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matste",
+      "posted_relative": "for 16 min siden",
+      "text": "Kan noen forklare hvorfor Pareto/Fabian senker kursen i dag, ikke for eksempel imorgen når de/alle får riktige  informasjoner ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "b5e922a725c2c4f6",
+      "author": "naidra",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/naidra",
+      "posted_relative": "for 1 t siden",
+      "text": "Fantastisk! Merkelig tidspunkt av Pareto å senke kursmålet nå når alt det de har sakt tidligere er på vei til å realisere seg?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 126,
+      "has_link": false
+    },
+    {
+      "key": "af2523c12418c26a",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 4 min siden · Endret",
+      "text": "Pareto  senker kursmålet på aksjen hovedsakelig som følge av høyere renter og valutaeffekter.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 96,
+      "char_count": 93,
       "has_link": false
     }
   ]
