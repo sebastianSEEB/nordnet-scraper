@@ -1,24 +1,92 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-10T09:02:36.722124+00:00",
+  "scraped_at": "2026-11-10T15:20:05.611698+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "aa398a8255ba7402",
-      "author": "Fiskestank",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "key": "8194c782fd3b359b",
+      "author": "Ergate",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ergate",
       "posted_relative": null,
-      "text": "6. nov. Jeg har ikke sett en analyse som problematiserer at 4 av 6 markeder ikke nådde aktivt forecast i 3Q, første kvartal etter nedskrivingen. Marginalt ja, men allikevel et relativt tydelig rødt flagg!",
+      "text": "6. nov. Du har et godt poeng når det gjelder Q3 og risikoen for at konsensus ligger for høyt. Men jeg synes du er for kategorisk når du konkluderer med at forventningene for 2027 uten tvil må betydelig ned. Regnestykket ditt er interessant, og jeg ser poenget med at nye investeringer må komme tidlig nok til å bidra vesentlig til renteinntektene i 2027. Men jeg mener det er nødvendig å se nærmere på forutsetningene før man kan fastslå at konsensus er urealistisk. Axactor har kommunisert et investeringsmål på EUR 200–400 millioner årlig fra 2027, mens analytikerkonsensus ligger på EUR 289 millioner. Det betyr ikke at inntektsestimatene automatisk nås, men viser hvilket investeringsnivå analytikerne faktisk forventer. Samtidig har selskapet gjennomført en omfattende restrukturering, redusert gjeldsbelastningen og oppnådd bedre finansieringsbetingelser. Rentekostnadene på lån falt med 17 % i Q3 sammenlignet med året før. Dette er relevant for resultat før skatt i 2027. Jeg mener også at man må se på hvordan nye investeringer gjennom samarbeidet med Fortress påvirker både inntekter, finansiering og resultatfordelingen, samt utviklingen i 3PC-virksomheten. Jeg er enig i at EUR 72 millioner før skatt er et ambisiøst estimat. Men for å konkludere med at det er urealistisk, må vi ha en fullstendig resultatmodell som inkluderer både porteføljeinntekter, kostnader, finansiering og investeringstidspunkt. Jeg utelukker absolutt ikke at konsensus kan bli nedjustert. Men jeg synes det er for tidlig å fastslå at det nødvendigvis vil skje. Det er forskjell på å påvise en risiko og å dokumentere at et bestemt resultatnivå ikke kan oppnås.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1648,
+      "has_link": false
+    },
+    {
+      "key": "08e564e5313dd74f",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": null,
+      "text": "6. nov. Renter er fortsatt på vei ned da de har obligasjon som skal innfris. Hva de eventuelt har tapt før refinansiering er jo ikke interessant for fremtidige inntjening nå.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "47c4e1339a502cad",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": null,
+      "text": "6. nov. Vi har ihvertfall tatt en bra posisjon her og tenker sitte en god stund til caset får materialisert seg og utbytter kommer. So long. Long",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        13
+        1,
+        4
       ],
       "links": [],
-      "char_count": 204,
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "4414027c41c573bd",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 36 min siden",
+      "text": "Aktører som ønsker kjøpe aksjer så billig som mulig for kunder",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    },
+    {
+      "key": "90f33c1b0d98d702",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
+      "posted_relative": "for 4 t siden",
+      "text": "Over en million aksjer til salgs på 4,35 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "f1efad893f7dfbea",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 3 t siden",
+      "text": "At den er verdt det dobbelte i dag. Long",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
       "has_link": false
     }
   ]

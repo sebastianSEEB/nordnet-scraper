@@ -1,9 +1,54 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-10T08:57:49.642979+00:00",
+  "scraped_at": "2026-11-10T15:15:15.741618+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5775c2105e1f7708",
+      "author": "MORTEN R",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morten-r",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Hvor mye tror dere kursen går opp når det kommer 2 store kontrakter ? Er 120 umulig ?  3 kvartal tjente de jo veldig mye penger . Kjempeavtalen i Australia med gruvedrift er jo også spennende for fremtiden . Dette burde jo skaffe flere store kontrakter og så skal jo Tomra også selge et av konseptene sine . Dette burde generer mye penger inn . Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 364,
+      "has_link": false
+    },
+    {
+      "key": "73bcd368c3ad954b",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 52 min siden · Endret",
+      "text": "Oljepris faller under 90$, svakere NOK derfor skal TOM videre opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "580c74222fd20caa",
+      "author": "MORTEN R",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/morten-r",
+      "posted_relative": "for 2 t siden",
+      "text": "Tror at markedet priser Tomrakursen alt for lavt ..",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

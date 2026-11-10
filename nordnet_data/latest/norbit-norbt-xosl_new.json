@@ -1,68 +1,98 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-10T08:58:05.403887+00:00",
+  "scraped_at": "2026-11-10T15:15:31.684869+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "total_posts_on_page": 8,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "5eb49d8b649e551e",
+      "key": "0571d5a13fd9b4ac",
+      "author": "captntommy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/captntommy",
+      "posted_relative": "for 1 t siden",
+      "text": "kjøp nå: høyere risiko men også mulighet på å tjene gevinst kjøp senere: tryggere spesielt dersom du vil holde disse aksjene langsiktig, men du kan gå glipp av en positiv endring etter rapporten. Det er selvfølgelig også mulig at det skjer en negativ reaksjon",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 259,
+      "has_link": false
+    },
+    {
+      "key": "ddfc8fa27cce82aa",
       "author": "Stein Rune",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stein-rune",
-      "posted_relative": "for 40 min siden",
-      "text": "Småsparere som selger. Så her er det shortcovering eller større investorer som kjøper.",
+      "posted_relative": "for 5 t siden",
+      "text": "Ved en litt positiv rapport, med positive utsiker for Q4. Da vil vi kunne se en kombinasjon av småsparere med fomo, institusjonelle investorer som returnerer og fortsettelse av short cover under press. Da kan det gå fort tilbake over 200 :) Lov å håpe.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 86,
-      "has_link": false
-    },
-    {
-      "key": "ecc6bfaf53b5c946",
-      "author": "Jagger",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jagger",
-      "posted_relative": null,
-      "text": "6. nov. Nå må du begynne å følge med på hva som skjer rundt om i verden da!",
-      "reply_count": 1,
-      "is_reply": false,
       "engagement_numbers": [
-        7
+        3,
+        1
       ],
       "links": [],
-      "char_count": 75,
+      "char_count": 252,
       "has_link": false
     },
     {
-      "key": "62885ebdac6dce0b",
-      "author": "favha",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "key": "4b9fd5a09e8da3db",
+      "author": "MAVO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mavo",
       "posted_relative": "for 3 t siden",
-      "text": "Ser vi 170 i dag? Personlig hadde jeg troen på 180+ før rapport.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        3
-      ],
-      "links": [],
-      "char_count": 64,
-      "has_link": false
-    },
-    {
-      "key": "984dc80558bfc9ee",
-      "author": "MaxAlwaysMax",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
-      "posted_relative": null,
-      "text": "6. nov. DET DER MÅ JO VÆRE SHORT. INGEN ANNEN GRUNN",
+      "text": "Kjøpte mer NORBIT og GENO. Robot og forsvar vil se massiv vekst de neste 10 årene.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 51,
+      "char_count": 82,
+      "has_link": false
+    },
+    {
+      "key": "d6fb1e4583285679",
+      "author": "Concorde 940",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/concorde-940",
+      "posted_relative": "for 5 t siden",
+      "text": "Vi satser på en positiv rapport på torsdag, etter Q2 rapporten gikk Nobit ned 25%",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 81,
+      "has_link": false
+    },
+    {
+      "key": "8643dae08ef1bad4",
+      "author": "favha",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
+      "posted_relative": "for 5 t siden",
+      "text": "Kanskje 180 i løpet av morgendagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    },
+    {
+      "key": "6d6b458cea9fe560",
+      "author": "sHenriksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shenriksen",
+      "posted_relative": "for 2 t siden",
+      "text": "Kjøpe før eller etter rapporten?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 32,
       "has_link": false
     }
   ]

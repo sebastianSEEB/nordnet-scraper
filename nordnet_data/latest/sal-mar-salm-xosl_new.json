@@ -1,24 +1,67 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-10T08:59:47.514750+00:00",
+  "scraped_at": "2026-11-10T15:17:14.348727+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 6,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "93bfcaa1fc5928df",
-      "author": "refsky",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/refsky",
+      "key": "bbdce4ebc64516f7",
+      "author": "Fastfive20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fastfive20",
       "posted_relative": null,
-      "text": "6. nov. Børsen faller, men mat ska dem ha...!",
+      "text": "6. nov. Det er på sånne ‘’skumle dager’’ man faktisk får mulighet til å laste opp flere aksjer billigere enn de fundamentalt er verdt😀 God helg!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "0feecd2cc8a457d9",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 32 min siden",
+      "text": "· Danske Bank høyer kursmålet for Salmar til 640 norske kroner (620), gjentar kjøp - BN",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 45,
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "6790a5da5e0c35b3",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": null,
+      "text": "6. nov. I hovedsak tech fallet i går som dro ned det meste av børser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    },
+    {
+      "key": "7e360987c17daeb4",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": null,
+      "text": "6. nov. Hva var grunnen til at det falt fra 600+ og til dagens nivå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 68,
       "has_link": false
     }
   ]

@@ -1,50 +1,80 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-10T08:59:39.506342+00:00",
+  "scraped_at": "2026-11-10T15:17:06.290415+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "2af044d1a6b6c4a5",
-      "author": "Prewia",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
-      "posted_relative": "for 39 min siden",
-      "text": "· Spørsmålet er hvor lavt oljeprisen skal gå om det roer seg i Iran, man har jo vært med på en del krakk, i mellomtiden mens oljenivået, som lavest under 10 kr, har jeg for meg Vis 1 kommentar til",
+      "key": "cbcc853deb5bb624",
+      "author": "Payo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/payo",
+      "posted_relative": "for 1 t siden",
+      "text": "· Bry dere ikke om at aksjen hopper opp og ned. Sjekk hva analytikerne sier 25-30 er spennet og de er veldig forsiktige. Dere sitter på en vinner om dere eier aksjen langsiktig 3 år da bør verdien være ca. 100 kr per aksje.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 223,
+      "has_link": false
+    },
+    {
+      "key": "f8649a6ce31501d8",
+      "author": "Amatørkongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
+      "posted_relative": "for 2 t siden",
+      "text": "DNO prises nå på ca PE 5 med forvented inntjening i 2027. Det er ganske lavt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "59b78a861f6e0935",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 2 min siden",
+      "text": "· Den hopper vel ikke den går jo ned hver dag, i over en uke nå,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "2812a596147545b7",
+      "author": "A320",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a320",
+      "posted_relative": "for 4 t siden",
+      "text": "Straffer seg å være kjip på utbytte 🫣 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
         3
       ],
       "links": [],
-      "char_count": 196,
+      "char_count": 57,
       "has_link": false
     },
     {
-      "key": "f61471c2b2035756",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 46 min siden · Endret",
-      "text": "Produksjon er vel grei,  men prisen lokalt er jo svak, kanskje det får levert til verdensmarkedet og markedspris snart",
+      "key": "ddab6a956cfad198",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 3 min siden",
+      "text": "ADHD gutta som styrer Dno i dag",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 118,
-      "has_link": false
-    },
-    {
-      "key": "4499408d87d444ad",
-      "author": "W0nder",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/w0nder",
-      "posted_relative": "for 18 min siden",
-      "text": "Oljeprisen blir nok manipulert hver uke, fysisk så endrer det seg ikke så mye og prisen er reelt stabilt høy.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 109,
+      "char_count": 31,
       "has_link": false
     }
   ]

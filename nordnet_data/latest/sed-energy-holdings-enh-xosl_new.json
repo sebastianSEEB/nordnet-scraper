@@ -1,53 +1,81 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-10T08:58:52.742616+00:00",
+  "scraped_at": "2026-11-10T15:16:19.140129+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "a0ed3d2d27a84385",
+      "key": "a626cdf6f0256060",
       "author": "Offentlif profilnavn",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/offentlif-profilnavn",
-      "posted_relative": "for 9 min siden",
-      "text": "Kjære investor , Takk for forespørselen din. Utbetalingen av utbyttet for andre kvartal er utsatt til desember ettersom fullføringen av kapitalreduksjonsprosessen har tatt lengre tid enn først antatt. Vi beklager forsinkelsen og eventuelle ulemper dette har medført, og setter pris på din forståelse. Med vennlig hilsen, ENH-laget",
+      "posted_relative": "for 6 t siden",
+      "text": "Kjære investor , Takk for forespørselen din. Utbetalingen av utbyttet for andre kvartal er utsatt til desember ettersom fullføringen av kapitalreduksjonsprosessen har tatt lengre tid enn først antatt. Vi beklager forsinkelsen og eventuelle ulemper dette har medført, og setter pris på din forståelse. Med vennlig hilsen, ENH-laget Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        4
+      ],
+      "links": [],
+      "char_count": 350,
+      "has_link": false
+    },
+    {
+      "key": "e1e813b82e828a8b",
+      "author": "donmik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/donmik",
+      "posted_relative": "for 5 t siden",
+      "text": "Det er vel NDAs rundt alt som omhandler fusjonen før den blir offentliggjort.  Så i tilfelle det er årsaken så kan de nok ikke refere til det i en mail med en fra forumet her.. Men er det ingen åpenbar årsaken så er jo usikkerheten borte og vi skal i teorien ta igjen aksjefallet som funlgte..",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 293,
+      "has_link": false
+    },
+    {
+      "key": "daa6798f07d9e828",
+      "author": "iHHelg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ihhelg",
+      "posted_relative": "for 45 min siden · Endret",
+      "text": "Nei. Desember gjelder. (Står vitterlig rett under denne kommentaren 😅)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 330,
+      "char_count": 70,
       "has_link": false
     },
     {
-      "key": "a3524434d07ea77e",
-      "author": "beerboy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beerboy",
-      "posted_relative": "for 9 t siden",
-      "text": "Har Nordnet gjort en feil vedr. fremtidig utbytte på denne? Får det ikke helt til å stemme. Andre som har høyere utbytte enn det som står i rapporten? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2,
-        2
-      ],
-      "links": [],
-      "char_count": 170,
-      "has_link": false
-    },
-    {
-      "key": "9479a44cbf84f4e3",
-      "author": "Fanteguten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fanteguten",
-      "posted_relative": "for 2 t siden",
-      "text": "Skylder vel helst på leverandør av data,  bra på mye, men får ikke til alt🫣",
+      "key": "d3045f9078916021",
+      "author": "DestinationEverywhere",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/destinationeverywhere",
+      "posted_relative": "for 46 min siden",
+      "text": "Utbytteutbetaling både i november og desember? Stemmer dette?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 75,
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "30ec85e45fd004e4",
+      "author": "Skare13",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skare13",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvor mye prosent kommer nå i desember?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
       "has_link": false
     }
   ]

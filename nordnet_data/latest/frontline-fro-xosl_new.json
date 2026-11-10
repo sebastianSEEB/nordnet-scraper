@@ -1,97 +1,128 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-11-10T08:55:53.210186+00:00",
+  "scraped_at": "2026-11-10T15:13:18.263349+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 6,
+  "new_posts_count": 8,
   "posts": [
     {
-      "key": "6444e0211dc58551",
-      "author": "Torbenito",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/torbenito",
-      "posted_relative": "for 49 min siden",
-      "text": "· Sooo, aksjen handles ned selv om dødvannet i Gulfen vil fortsette i det jeg anslår blir en lang tid.  Visst kan rentene komme ned fra topp, men jeg ser ikke en retur til normalen med det første. Jeg åpner for spekulasjoner og kommentarer 😉👍🏻",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        7
-      ],
-      "links": [],
-      "char_count": 243,
-      "has_link": false
-    },
-    {
-      "key": "aeb08f5a0a0d397e",
-      "author": "Jegern666",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jegern666",
-      "posted_relative": "for 23 min siden",
-      "text": "Tjener ikke front penger for tiden🤔",
+      "key": "26ad55e7d9918cf8",
+      "author": "Jaff92",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jaff92",
+      "posted_relative": "for 1 t siden",
+      "text": "Noen som sa at Hormuz er stengt? xD \"– Vi sendte fire skip gjennom stredet i dag, sa Khalid Alhammad ifølge nyhetsbyrået.\" https://www.finansavisen.no/energi/2026/11/10/8394611/usa-hjelper-saudi-arabiske-oljetankere-gjennom-hormuzstredet",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/10/8394611/usa-hjelper-saudi-arabiske-oljetankere-gjennom-hormuzstredet"
+      ],
+      "char_count": 237,
+      "has_link": true
+    },
+    {
+      "key": "cc384daa4f4e4da6",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "https://x.com/christankerfund Chris rapporterer litt fra DHT conf. call.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/christankerfund"
+      ],
+      "char_count": 72,
+      "has_link": true
+    },
+    {
+      "key": "1c4b79434655195b",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "Det vil antagelig bli en del lagerfylling. Litt avhengig av hvor billig olja er. Det ligger også mye ekstra skip rett utenfor Oman som brukes til STS transfer. Disse blir arbeidsledige og kan smette inn stredet og plukke opp olje. Det kan sikkert bli litt kaos med kø ved lastehavnene osv. Mr Market ser ut til å hate tanken på fred, så vær forberedt på sentiment dumping av aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 382,
+      "has_link": false
+    },
+    {
+      "key": "6ccd65adf11e81e2",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 56 min siden",
+      "text": "BreakWave @DryBulkETF Freight Futures AM Update   Tankers  VLCC:  down ~6% Suezmax:  down ~8% $BWET 3:02 PM · Nov 10, 2026 Beklager. Postet feil futures oppdatering isted. Dette er dagens og dessverre langt kjipere. Dette er hovedsaklig TD3C men regner med det korrelerer med de andre rutene til en viss grad.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 309,
+      "has_link": false
+    },
+    {
+      "key": "306101fc692b880a",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 39 min siden",
+      "text": "Er d ikkje deilig å konstatere hva klokken er ved å se på aksjekursen da😉",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "ed33079d8768f7c7",
+      "author": "saha125",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saha125",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skjer hvis krig slutte og det blir fred avtale mellom Iran og USA?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    },
+    {
+      "key": "505b41742037628d",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er jo overhode ikke noe nytt:))",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
       "char_count": 35,
       "has_link": false
     },
     {
-      "key": "44e388b80bbccedd",
-      "author": "vetikke4",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vetikke4",
-      "posted_relative": "for 6 min siden",
-      "text": "Er dette er bra kjøp langsiktig?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 32,
-      "has_link": false
-    },
-    {
-      "key": "072a40aeac9d28be",
-      "author": "saha125",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saha125",
-      "posted_relative": "for 34 min siden",
-      "text": "Ned til 400 soon",
+      "key": "6428401d0be10e26",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 41 min siden",
+      "text": "Da var klokken 15.30 ja.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
+        1,
         1
       ],
       "links": [],
-      "char_count": 16,
-      "has_link": false
-    },
-    {
-      "key": "cd50251e8ca56444",
-      "author": "Xlan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xlan",
-      "posted_relative": "for 13 min siden",
-      "text": "· 350 er støtte",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 15,
-      "has_link": false
-    },
-    {
-      "key": "7cbd6245dac3df54",
-      "author": "Baretap12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
-      "posted_relative": "for 29 min siden",
-      "text": "360 spenn",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 9,
+      "char_count": 24,
       "has_link": false
     }
   ]

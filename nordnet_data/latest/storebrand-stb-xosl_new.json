@@ -1,9 +1,39 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-10T09:01:38.487257+00:00",
+  "scraped_at": "2026-11-10T15:19:06.786201+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0e7820a639c6bb6b",
+      "author": "trbj49",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trbj49",
+      "posted_relative": "for 1 t siden",
+      "text": "Nei, men tett unna! 👍🌞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "ee19e5924c66f75a",
+      "author": "Zydenboy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zydenboy",
+      "posted_relative": "for 2 t siden",
+      "text": "· ATH i dag på close?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

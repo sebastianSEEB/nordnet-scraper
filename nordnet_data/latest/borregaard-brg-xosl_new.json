@@ -1,9 +1,38 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-11-10T09:00:42.304867+00:00",
+  "scraped_at": "2026-11-10T15:18:09.676258+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8b02f8fa8fcd5ccb",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 29 min siden",
+      "text": "NUMERIC INVESTORS LLC gikk under synlig short i går:  \t- \t< 0,5% \t09.11.2026 591 319 \t0,59% \t10.09.2026 https://ssr.finanstilsynet.no/Home/Details/NO0010657505",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/NO0010657505"
+      ],
+      "char_count": 159,
+      "has_link": true
+    },
+    {
+      "key": "c67b6ad11120ca5f",
+      "author": "alayim",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alayim",
+      "posted_relative": "for 5 t siden",
+      "text": "Vet noen hvorfor det er marginalt med innside-kjøp på disse nivåene, og etter en tilsynelatende god rapport? En solgte jo faktisk mye",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    }
+  ]
 }

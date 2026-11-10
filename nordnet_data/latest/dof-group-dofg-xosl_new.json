@@ -1,41 +1,28 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-10T08:57:53.466173+00:00",
+  "scraped_at": "2026-11-10T15:15:19.730797+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "17581f2606aabf69",
-      "author": "Fisker94",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
+      "key": "eef1a1fabbc164a8",
+      "author": "Driftsentralen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/driftsentralen",
       "posted_relative": null,
-      "text": "6. nov. DOF dundrer ned idag igjenn.. kansje det blir litt påfyll før neste fredag 😬",
-      "reply_count": null,
+      "text": "6. nov. · Endret Følger tett med på denne aksjen, vi nærmer oss bunn. Da er det kun 1 ting å gjøre 🙈🎯 https://oslo-trader.com",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [
-        4,
-        1
+        5,
+        4
       ],
-      "links": [],
-      "char_count": 84,
-      "has_link": false
-    },
-    {
-      "key": "ee50bca72eb26914",
-      "author": "jvtran",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jvtran",
-      "posted_relative": null,
-      "text": "6. nov. allerede fylt på. Ikke noen grunn å vente på en slik gavepakke :)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
+      "links": [
+        "https://oslo-trader.com"
       ],
-      "links": [],
-      "char_count": 73,
-      "has_link": false
+      "char_count": 125,
+      "has_link": true
     }
   ]
 }

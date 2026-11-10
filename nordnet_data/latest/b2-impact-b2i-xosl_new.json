@@ -1,25 +1,38 @@
 {
   "slug": "b2-impact-b2i-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/b2-impact-b2i-xosl",
-  "scraped_at": "2026-11-10T08:58:29.392449+00:00",
+  "scraped_at": "2026-11-10T15:15:56.150448+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "c2fbcbdf2b9073b1",
-      "author": "Boffa72",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/boffa72",
-      "posted_relative": null,
-      "text": "6. nov. opptur i dag",
+      "key": "9cd0baa7ae434093",
+      "author": "JOE911",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joe911",
+      "posted_relative": "for 7 min siden",
+      "text": "Blir vist en annen dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "152f4eb93b4c5cb6",
+      "author": "JOE911",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joe911",
+      "posted_relative": "for 5 t siden",
+      "text": "· Til 28 og forbi🦸",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         7,
-        4
+        1
       ],
       "links": [],
-      "char_count": 20,
+      "char_count": 18,
       "has_link": false
     }
   ]

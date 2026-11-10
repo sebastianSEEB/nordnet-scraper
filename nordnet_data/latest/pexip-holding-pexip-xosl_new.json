@@ -1,9 +1,53 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-11-10T08:59:32.010994+00:00",
+  "scraped_at": "2026-11-10T15:16:58.541474+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "dd4e66795c34d6bc",
+      "author": "Ottotoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ottotoo",
+      "posted_relative": "for 3 t siden",
+      "text": "Da er vi på vei opp igjen. Bør nærme seg kr 80 h is markedet får lov til å operre normalt uten nye kriger, spioner, utroskap og donald utsagn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "ba4852960d3d1b4b",
+      "author": "@Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "Tydelig grønt signal mottatt på 68 NOK",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "35f8df416da7792f",
+      "author": "Senthil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/senthil",
+      "posted_relative": "for 3 t siden",
+      "text": "·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1,
+      "has_link": false
+    }
+  ]
 }

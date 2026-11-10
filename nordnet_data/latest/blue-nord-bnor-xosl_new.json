@@ -1,9 +1,96 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-10T08:57:17.138607+00:00",
+  "scraped_at": "2026-11-10T15:14:43.481898+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "b0bd2cbbdfe30023",
+      "author": "verstingen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verstingen",
+      "posted_relative": "for 48 min siden",
+      "text": "Da blei det kjøp igjen her på meg på 525, etter å ha vært ute siden 600😊 Vil nok kanskje falle mer, men da er det bare å fylle på😃👌",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "2762f5ae619cbec0",
+      "author": "BBBTRH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbbtrh",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Får BNOR aksjonærer noe utbytte/kompensasjon likt Vår Energi for det som går nå i november? Tillagt sluttoppgjør??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "161cf6382c6f0f94",
+      "author": "BBBTRH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbbtrh",
+      "posted_relative": "for 3 t siden",
+      "text": "Da stoler jeg på at to smartinger tenker bedre enn bare en😁👍🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "48bfb42173ed8173",
+      "author": "Quebrada",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/quebrada",
+      "posted_relative": "for 5 t siden",
+      "text": "Bra vi har noen med erfaring da",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    },
+    {
+      "key": "d11027987920851b",
+      "author": "TwistedFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twistedfox",
+      "posted_relative": "for 2 t siden",
+      "text": "· Faller enormt 🫤",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    },
+    {
+      "key": "eb6cc73c1c11be3a",
+      "author": "BBBTRH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbbtrh",
+      "posted_relative": "for 1 t siden",
+      "text": "Herlig 😁👍🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }
