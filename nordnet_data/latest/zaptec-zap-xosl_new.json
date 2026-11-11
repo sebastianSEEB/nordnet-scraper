@@ -1,24 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-11T10:00:33.728390+00:00",
+  "scraped_at": "2026-11-11T14:43:35.263908+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9e28d3eb475aa321",
-      "author": "Fattiglusa5",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusa5",
-      "posted_relative": "for 1 t siden",
-      "text": "Én million installerte ladere. Den 9. november markerte selskapet ti år og milepælen på over 1 000 000 installerte ladere. I september 2026 alene ble det installert 33 000 enheter, som er en oppgang på 43 prosent fra året før.  Nederland passerer Norge. Nederland var selskapets største marked i tredje kvartal med en omsetning på 114 millioner kroner, drevet av en statlig tilskuddsordning for den nye laderen Zaptec Go 2. Til sammenligning omsatte Norge for 99 millioner kroner i samme periode.",
+      "key": "248a3c82d5c11e64",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 21 min siden",
+      "text": "Mange korte videoer fra Zaptec DE i dag: https://www.youtube.com/@gozaptec/videos",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        9
+        1
       ],
+      "links": [
+        "https://www.youtube.com/@gozaptec/videos"
+      ],
+      "char_count": 81,
+      "has_link": true
+    },
+    {
+      "key": "866952d2a707e900",
+      "author": "Verdens sterkeste bjørn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verdens-sterkeste-bjrn",
+      "posted_relative": "for 52 min siden",
+      "text": "Markedsføring ja. Ikke så stor finansiell effekt….  I Storbritannia registrerte Polestar 864 nye biler i oktober 2026. Hittil i år er tallet 13 103, altså i snitt rundt 1 310 biler per måned. Oktober var svakere enn snittet og ned 31 % fra oktober i fjor; registreringene hittil i år er ned 5,6 %. Dette er SMMTs registreringstall, som brukes som mål på nybilsalget.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 496,
+      "char_count": 366,
       "has_link": false
     }
   ]

@@ -1,9 +1,25 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-11T10:03:59.863796+00:00",
+  "scraped_at": "2026-11-11T14:46:55.600353+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cf1f3a9cf1b432ef",
+      "author": "Fattiglusa5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusa5",
+      "posted_relative": "for 2 t siden",
+      "text": "https://e24.no/boers-og-finans/i/OynMMw/dnb-faar-kritikk?x_domain_id=c872b2f4-49a5-4495-8a70-34b33b9c6b49",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/OynMMw/dnb-faar-kritikk?x_domain_id=c872b2f4-49a5-4495-8a70-34b33b9c6b49"
+      ],
+      "char_count": 105,
+      "has_link": true
+    }
+  ]
 }

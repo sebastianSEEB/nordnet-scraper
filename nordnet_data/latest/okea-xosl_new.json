@@ -1,9 +1,38 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-11-11T10:03:04.163874+00:00",
+  "scraped_at": "2026-11-11T14:46:01.526047+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "34bb8e05d63af763",
+      "author": "Staff78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/staff78",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er mange andre faktorer som styrer dette også, men normalt så pleier aksjer å stige noe før utbytte og noe etter utbytte slik at kursen ca 3 uker etter utbytte er på samme nivå som to uker før utbytte (dersom alle andre faktorer er uforandret)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 247,
+      "has_link": false
+    },
+    {
+      "key": "50796bc3af43521e",
+      "author": "Lohrengren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lohrengren",
+      "posted_relative": "for 3 t siden",
+      "text": "Skal kursen opp eller ned før utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

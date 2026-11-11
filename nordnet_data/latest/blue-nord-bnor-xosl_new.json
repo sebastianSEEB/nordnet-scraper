@@ -1,37 +1,82 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-11T10:00:14.136165+00:00",
+  "scraped_at": "2026-11-11T14:43:14.776636+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "973aae05227ef402",
-      "author": "TwistedFox",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twistedfox",
-      "posted_relative": "for 21 t siden",
-      "text": "· Faller enormt 🫤 Vis 1 kommentar til",
+      "key": "bba58e5761e0995c",
+      "author": "Freydis",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/freydis",
+      "posted_relative": "for 1 t siden",
+      "text": "· Hvorfor stiger oljen og oljeaksjene i dag? - har Trump sagt noe tåpelig om Iran igjen?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1,
+        1
       ],
       "links": [],
-      "char_count": 37,
+      "char_count": 88,
       "has_link": false
     },
     {
-      "key": "3d16debf87e5d9b1",
-      "author": "Revisorsrambo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revisorsrambo",
-      "posted_relative": "for 2 t siden",
-      "text": "· Brannsalg",
+      "key": "d686e8eac38f3852",
+      "author": "BBBTRH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bbbtrh",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Kjøper neste dipp:) Håper på kurser rundt 500-525.  En freds-tweet og vi er der.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "3cef6d9617078443",
+      "author": "Enghaug",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enghaug",
+      "posted_relative": "for 12 min siden",
+      "text": "Hei. Er ny i denne aksjen. Er det faste utbytter? Når er evt. neste?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 11,
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "246646aa8d4af973",
+      "author": "Bjakken Lasson",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjakken-lasson",
+      "posted_relative": "for 4 t siden",
+      "text": "Har vi tro på 600 📈før emisjonen gjennomføres. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "e65af89cf4da860e",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 48 min siden",
+      "text": "Ja har jo nylig vært en konflikt igjen for få dager siden❤️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 59,
       "has_link": false
     }
   ]

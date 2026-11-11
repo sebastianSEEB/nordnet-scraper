@@ -1,64 +1,96 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-11T10:01:00.907099+00:00",
+  "scraped_at": "2026-11-11T14:44:02.387093+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "7e8b857ed3c0e63c",
-      "author": "Brainhart",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brainhart",
-      "posted_relative": "for 59 min siden · Endret",
-      "text": "Norbit har skuffet på alle rapporter i år. Jeg tror at selv om de leverer på forventningene så kan kursen falle. Da tenker jeg langsiktig og fyller på. Hvis mange tenker som jeg gjør kommer kursen til å stige og jeg byrde fyllt på nå.  Hvis Nordnet skuffer så beholder jeg det jeg har da alle piler peker oppover med forbehold om at blir det fred i SO Asia og Ukraina får vi sektorrotasjon og da kommer forsvarsaksjer til å falle. Hvor pengene da går når også olje og AI mister momentum er jeg usikker på.",
+      "key": "254d041d5f95ee3d",
+      "author": "rpedersen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rpedersen",
+      "posted_relative": "for 3 t siden",
+      "text": "Europa (inkludert Ukraina)  kommer til å bygge forsvar i mange år framover. Vi har sett hva Putins regime er i stand til.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    },
+    {
+      "key": "7907b079bc9f0206",
+      "author": "Thip",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thip",
+      "posted_relative": "for 3 t siden",
+      "text": "høres ut som like stor spredning som analytikere, slår den ikke den høyeste så stuper kursen igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "cf8427a43e8d6a65",
+      "author": "MaxAlwaysMax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "posted_relative": "for 7 min siden · Endret",
+      "text": "Denne kommer til å fly etter rapport lekasje",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 505,
+      "char_count": 44,
       "has_link": false
     },
     {
-      "key": "9f08a54c7590e2ee",
-      "author": "Levon",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/levon",
-      "posted_relative": "for 3 min siden",
-      "text": "Uansett hvordan det går i morgen er du godt posisjonert, KevintheG. Du har kjøpt litt i dag og kan vurdere å kjøpe litt mer i morgen.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 133,
-      "has_link": false
-    },
-    {
-      "key": "f3eecc1b19257c16",
-      "author": "kevintheG",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kevintheg",
-      "posted_relative": "for 42 min siden",
-      "text": "Ble en liten posisjon her før resultat🚀 Vis 1 kommentar til",
+      "key": "f4ab6d00bc461f2a",
+      "author": "Tuna fish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tuna-fish",
+      "posted_relative": "for 4 t siden",
+      "text": "· Bli med 158 i morgen ? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        3
+        2
       ],
       "links": [],
-      "char_count": 59,
+      "char_count": 44,
       "has_link": false
     },
     {
-      "key": "d75d2cff42e25343",
-      "author": "favha",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/favha",
-      "posted_relative": "for 1 t siden",
-      "text": "175 i dag?",
+      "key": "e95852dbdbc33211",
+      "author": "MaxAlwaysMax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "posted_relative": "for 41 min siden",
+      "text": "Hvorfor har denne gått ned i dag?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    },
+    {
+      "key": "382b8e04b4dfdecd",
+      "author": "kevintheG",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kevintheg",
+      "posted_relative": "for 40 min siden",
+      "text": "Frykt for morgendagen vil jeg tro",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 10,
+      "char_count": 33,
       "has_link": false
     }
   ]

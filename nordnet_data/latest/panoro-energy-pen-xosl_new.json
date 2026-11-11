@@ -1,69 +1,40 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-11T10:00:41.741550+00:00",
+  "scraped_at": "2026-11-11T14:43:42.998427+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "d5620bd470ee427e",
-      "author": "matsnil",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
-      "posted_relative": "for 2 t siden",
-      "text": "· Oljen fortsetter å stupe mens houthiene angriper Yanbu etter allerede å ha rammet Saudi-Arabias øst-vest-rørledning. Samtidig fortsetter Iran å sprerenge tankskip... Og Kinas råoljeimport har nådd sitt høyeste nivå siden mars. I mellomtiden anklager Iran USA for å sprede fake news, og gjentar sine 7 krav, som i det vesentlige beløper seg til en fullstendig amerikansk kapitulation. Likevel fortsetter oljeprisene å falle... Ingen problem: Vi har algos nå. Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        5,
-        2
-      ],
-      "links": [],
-      "char_count": 479,
-      "has_link": false
-    },
-    {
-      "key": "409e135bb3c79ee1",
-      "author": "funin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funin",
-      "posted_relative": "for 15 t siden",
-      "text": "Dagens melding om funn virker veldig positiv, men har gitt skuffende lite (umiddelbar) utslag på kursen. Men om selskapets ledelse vurderte dette til å være veldig bra for selskapets verdi, ville det ikke vært naturlig at det kom melding om innsidekjøp? (Med mindre det er noe annet som gjør at de ikke kan handle selvsagt). Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        2
-      ],
-      "links": [],
-      "char_count": 344,
-      "has_link": false
-    },
-    {
-      "key": "3b90919038ab4f58",
-      "author": "DrDrago",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
-      "posted_relative": "for 1 t siden",
-      "text": "· Den store casen er jo likevel Heliumyndet som har en market cap på 16 milliarder 100 % eid av et selskap med en market cap på 4.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 130,
-      "has_link": false
-    },
-    {
-      "key": "4d4c2cf71e1ffa73",
-      "author": "ratata_",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ratata-1",
-      "posted_relative": "for 2 t siden",
-      "text": "Nå har det vel ikke vært noe nytt funn enda. De har fått bekreftet teorien sin om at det er noe der av 3. parter.",
+      "key": "4bf565132a7fb659",
+      "author": "mestned",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mestned",
+      "posted_relative": "for 56 min siden",
+      "text": "https://www.finansavisen.no/shipping/2026/11/11/8394885/amerikanske-myndigheter-vurderer-brannsalg-av-tankskip Trodde trafikken gjennom Hormuz gikk som normalt jeg og at vi ikke hadde behov for nye skyteskiver..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/11/11/8394885/amerikanske-myndigheter-vurderer-brannsalg-av-tankskip"
+      ],
+      "char_count": 211,
+      "has_link": true
+    },
+    {
+      "key": "d98302b43c8a90de",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 7 t siden",
+      "text": "· Oljen fortsetter å stupe mens houthiene angriper Yanbu etter allerede å ha rammet Saudi-Arabias øst-vest-rørledning. Samtidig fortsetter Iran å sprerenge tankskip... Og Kinas råoljeimport har nådd sitt høyeste nivå siden mars. I mellomtiden anklager Iran USA for å sprede fake news, og gjentar sine 7 krav, som i det vesentlige beløper seg til en fullstendig amerikansk kapitulation. Likevel fortsetter oljeprisene å falle... Ingen problem: Vi har algos nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
       "links": [],
-      "char_count": 113,
+      "char_count": 459,
       "has_link": false
     }
   ]

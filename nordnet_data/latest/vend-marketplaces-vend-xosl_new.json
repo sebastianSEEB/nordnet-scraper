@@ -1,9 +1,38 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-11T10:00:30.031473+00:00",
+  "scraped_at": "2026-11-11T14:43:31.321542+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b52879f51b050f64",
+      "author": "xster123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xster123",
+      "posted_relative": "for 4 t siden",
+      "text": "Lurer på om vi nå skal ned å snuse på nivået mellom 202-209 kr. som er fib. 0.618-0.5. Aksjen tyder på at den trenger et lite pusterom etter en måneds oppgang. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 179,
+      "has_link": false
+    },
+    {
+      "key": "ffe3c0551fd9163d",
+      "author": "Tpbraut",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tpbraut",
+      "posted_relative": "for 22 min siden",
+      "text": "Kurs 200 er ikke urealistisk etter denne stigningen",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }
