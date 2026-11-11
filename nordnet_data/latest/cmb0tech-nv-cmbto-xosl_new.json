@@ -1,9 +1,27 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-11-11T02:22:49.008090+00:00",
+  "scraped_at": "2026-11-11T10:00:06.301058+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fc1f4a2de6440c2b",
+      "author": "baker brun",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baker-brun",
+      "posted_relative": "for 3 t siden",
+      "text": "Trøim-rederi tredobler overskuddet Tor Olav Trøims Himalaya Shipping legger bak seg et svært lønnsomt kvartal. Nå åpner toppsjefen for å videreføre de høye utbetalingene til aksjonærene. https://www.finansavisen.no/shipping/2026/11/10/8394475/troim-rederi-tredobler-overskuddet-kan-opprettholde-utbyttene",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/11/10/8394475/troim-rederi-tredobler-overskuddet-kan-opprettholde-utbyttene"
+      ],
+      "char_count": 304,
+      "has_link": true
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-11T02:24:29.032570+00:00",
+  "scraped_at": "2026-11-11T10:01:47.363603+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "56045a552d1ccc47",
+      "author": "HilduX",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hildux",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "For året med dagens aksjekurs er utbyttet på ca 18.8% Hva det blir etter en eventuell fusjon vet vi ikke enda. De har meldt tre forskjellige scenarioer avhengig av kontrakter . Bear 1.4 NOK basic 1.7 NOK BULL 2.4 NOK. Mener jeg å huske. Men først skal det fusjoneres. Uten fusjon så er det muligheter for at det blir noe lavere en dagens  nivå for en periode til markedet løsner igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 385,
+      "has_link": false
+    },
+    {
+      "key": "e717c5d2365e4d85",
+      "author": "Volatilen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/volatilen",
+      "posted_relative": "for 47 min siden",
+      "text": "Noen store poster på 6,80 går i dag, klokken 09:00.20 gikk det en på 370000 aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-11T02:22:56.809372+00:00",
+  "scraped_at": "2026-11-11T10:00:14.136165+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "973aae05227ef402",
+      "author": "TwistedFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twistedfox",
+      "posted_relative": "for 21 t siden",
+      "text": "· Faller enormt 🫤 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    },
+    {
+      "key": "3d16debf87e5d9b1",
+      "author": "Revisorsrambo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revisorsrambo",
+      "posted_relative": "for 2 t siden",
+      "text": "· Brannsalg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 11,
+      "has_link": false
+    }
+  ]
 }

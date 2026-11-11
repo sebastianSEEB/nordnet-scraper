@@ -1,9 +1,41 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-11T02:27:06.178334+00:00",
+  "scraped_at": "2026-11-11T10:04:31.782424+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "447153e98659e688",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 19 t siden",
+      "text": "Kursen nærmer seg et brudd over langsiktig SMA, samtidig som den allerede ligger godt over kortsiktig SMA. MACD viser også en positiv utvikling med økende momentum. Forhåpentligvis får vi også en styrking av NOK mot euroen fremover, noe som kan bidra positivt til Orklas kostnadsbilde. 110++ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 311,
+      "has_link": false
+    },
+    {
+      "key": "dde6dc62e1a5aabf",
+      "author": "MrPoopenstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrpoopenstein",
+      "posted_relative": "for 4 t siden",
+      "text": "· Haterne forsvant fra kommentarene veldig raskt 👌🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

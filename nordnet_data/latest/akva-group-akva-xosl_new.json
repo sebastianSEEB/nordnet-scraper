@@ -1,9 +1,38 @@
 {
   "slug": "akva-group-akva-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akva-group-akva-xosl",
-  "scraped_at": "2026-11-11T02:27:47.728753+00:00",
+  "scraped_at": "2026-11-11T10:05:13.865513+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "385a1f01316d808a",
+      "author": "YtreSnillfjord",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ytresnillfjord",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvorfor er ikke kursen den samme som tilbudet? Den er nå lavere. Fristen for å kjøpe i markedet og selge til oppkjøper er ikke forbi. Jeg har sett i flere aksjer at kursen avviker fra det oppkjøper tilbyr. Er det fordi det ikke er noen garanti for at oppkjøpet går igjennom?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 274,
+      "has_link": false
+    },
+    {
+      "key": "2a65bf7956553a69",
+      "author": "Drabantenes Maradona",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drabantenes-maradona",
+      "posted_relative": "for 56 min siden",
+      "text": "Fordi det tar tid før oppgjøret kommer. Tid = penger",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

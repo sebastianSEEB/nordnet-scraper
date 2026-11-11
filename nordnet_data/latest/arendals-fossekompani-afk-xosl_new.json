@@ -1,9 +1,23 @@
 {
   "slug": "arendals-fossekompani-afk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/arendals-fossekompani-afk-xosl",
-  "scraped_at": "2026-11-11T02:27:24.979583+00:00",
+  "scraped_at": "2026-11-11T10:04:51.366799+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4e154b4a5f2a9c75",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 1 t siden",
+      "text": "Fin teknisk denne nå. Spennende å se om trianglet på ca 196 brytes...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

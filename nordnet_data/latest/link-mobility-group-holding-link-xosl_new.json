@@ -1,9 +1,51 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-11T02:23:08.287510+00:00",
+  "scraped_at": "2026-11-11T10:00:26.163564+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "38bccd9fe2315852",
+      "author": "Josef Kåresen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josef-karesen",
+      "posted_relative": null,
+      "text": "7. nov. Vi får se på mandag hvordan shorten endret seg på fredag..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    },
+    {
+      "key": "0268697ab4f477de",
+      "author": "Josef Kåresen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josef-karesen",
+      "posted_relative": "for 1 t siden",
+      "text": "Rassmussen gruppen (Portia) har solgt sine aksjer i Link🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "3a6f0e5b7fde01a2",
+      "author": "Spirri",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spirri",
+      "posted_relative": "for 15 min siden",
+      "text": "Har de solgt eller bare gått ut av listen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

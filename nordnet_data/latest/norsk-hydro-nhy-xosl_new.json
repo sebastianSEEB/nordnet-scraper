@@ -1,9 +1,23 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-11T02:26:51.082749+00:00",
+  "scraped_at": "2026-11-11T10:04:16.005060+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a1a2dc2c2b1abab5",
+      "author": "ABC Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/abc-invest",
+      "posted_relative": "for 1 t siden",
+      "text": "Markedsverdi 134 milliarder, energi biten alene er vel verdt ganske mye..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

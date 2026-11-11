@@ -1,9 +1,116 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-11T02:26:23.485788+00:00",
+  "scraped_at": "2026-11-11T10:03:47.837693+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
+  "posts": [
+    {
+      "key": "27480c46656d6d56",
+      "author": "Proffen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
+      "posted_relative": "for 18 min siden · Endret",
+      "text": "Finansavisen publiserte 10. november en sak basert på Bloomberg-materialet for Mercuria versus Baltic saken. Den fremhever at Christopher Loveday ikke bare kalte ratene «nonsense» i interne dokumenter – han forklarte også i retten at han mente TD3C burde vært suspendert helt fra krigens begynnelse. ￼ Det er viktig fordi dette ikke bare handler om frustrasjon eller intern uenighet. Det er en forklaring fra en person med direkte ansvar for indeksproduksjonen om at han mente grunnlaget for publisering ikke lenger var forsvarlig. Dette er et moment som styrker Mercurias argument om at Baltic burde ha suspendert indeksen. Det er særlig relevant sammen med Cox' tidligere uttalelse om at Baltic trolig ville ha suspendert en annen indeks under tilsvarende omstendigheter. Men vi må fortsatt vente på Baltics sluttinnlegg og dommerens vurdering. Jeg finner ingen ny børsmelding fra Hunter eller nye opplysninger om betalingskravet. https://www.finansavisen.no/shipping/2026/11/10/8394723/baltic-ansatt-kaller-tankraten-nonsense",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/11/10/8394723/baltic-ansatt-kaller-tankraten-nonsense"
+      ],
+      "char_count": 1028,
+      "has_link": true
+    },
+    {
+      "key": "d203eea0c95ecf77",
+      "author": "TRD 100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/11/11/8394851/oljeprisene-stiger-onsdag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/11/8394851/oljeprisene-stiger-onsdag"
+      ],
+      "char_count": 79,
+      "has_link": true
+    },
+    {
+      "key": "687474dc24b28cf6",
+      "author": "Raul38",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raul38",
+      "posted_relative": "for 1 t siden",
+      "text": "· https://www.nordnet.no/market/news/be620311-f6b8-43b3-aec3-4798432f1641",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.nordnet.no/market/news/be620311-f6b8-43b3-aec3-4798432f1641"
+      ],
+      "char_count": 73,
+      "has_link": true
+    },
+    {
+      "key": "a339677704825e75",
+      "author": "CeShare",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ceshare",
+      "posted_relative": "for 7 min siden",
+      "text": "En erklæring om at TD3C burde vært suspendert mars–juli gjelder Baltic Exchange, ikke Hunters kontrakt, som viser til TD3C slik den faktisk ble publisert? Og siden Mercuria bare bestrider perioden frem til 3. juli: står vel tilbakeholdet etter det, rundt 50 mill. dollar, uten grunnlag uansett utfall?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 301,
+      "has_link": false
+    },
+    {
+      "key": "31e166d9760020f9",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 19 min siden · Endret",
+      "text": "hele det dervivat og future segmentet er gjennom shortet av mercuria m.fl. de satt på slike short  i vinter i TD3C da markedet snudde og de tapte hundrevis av millioner usd, de kommer ikke til å løse disse inn før noen kjøper den opp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "4fa7beaea5d7075f",
+      "author": "FutureInvestpr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/futureinvestpr",
+      "posted_relative": "for 5 min siden",
+      "text": "Sitt stille i båten mine venner, hvorfor tror du denne har steget så jwl jevnt og trutt og viser så ekstrem styrke de siste årene. 100kr ila 2030:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 147,
+      "has_link": false
+    },
+    {
+      "key": "35bf980697668fb7",
+      "author": "Headsett",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/headsett",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvordan ser ffa ut i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

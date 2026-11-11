@@ -1,9 +1,23 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-11-11T02:27:29.079107+00:00",
+  "scraped_at": "2026-11-11T10:04:55.314583+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f4588a85cb7422b2",
+      "author": "Gussern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gussern",
+      "posted_relative": "for 1 t siden",
+      "text": "Å der kom julenissen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

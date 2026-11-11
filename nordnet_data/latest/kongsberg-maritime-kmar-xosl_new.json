@@ -1,9 +1,23 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-11T02:25:26.384855+00:00",
+  "scraped_at": "2026-11-11T10:02:46.408961+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8f683b864f2ef1fd",
+      "author": "Errons",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/errons",
+      "posted_relative": "for 1 t siden",
+      "text": "Den faller slik den uansett gjør 😂",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

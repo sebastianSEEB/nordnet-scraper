@@ -1,9 +1,51 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-11T02:27:55.239693+00:00",
+  "scraped_at": "2026-11-11T10:05:21.664433+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f2f415de08a68b59",
+      "author": "nepsen123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nepsen123",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvordan blir det med utbytte fremover?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "3f6b7e23e53d5d08",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 1 t siden",
+      "text": "Vil tro 50% av overskudd.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    },
+    {
+      "key": "bae26c5f85dfb923",
+      "author": "Skittentind Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skittentind-invest",
+      "posted_relative": "for 1 t siden",
+      "text": "· Klasse",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

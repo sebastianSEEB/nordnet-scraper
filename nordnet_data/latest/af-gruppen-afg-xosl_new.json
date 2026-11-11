@@ -1,9 +1,23 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-11-11T02:27:13.631067+00:00",
+  "scraped_at": "2026-11-11T10:04:39.585309+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "822e090cd9b7accb",
+      "author": "Willern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willern",
+      "posted_relative": "for 39 min siden",
+      "text": "· Cash 💸",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }
