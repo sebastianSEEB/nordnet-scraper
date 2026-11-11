@@ -1,9 +1,38 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-10T22:08:02.907286+00:00",
+  "scraped_at": "2026-11-11T02:28:07.079539+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "88600b87d032709a",
+      "author": "trani",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trani",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Motsatt finnes det ikke kjøpere som ønsker å ta blokken!? Nytt stup sikte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "68e6547d07a55b7e",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
+      "posted_relative": "for 15 t siden",
+      "text": "Over en million aksjer til salgs på 4,35",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }

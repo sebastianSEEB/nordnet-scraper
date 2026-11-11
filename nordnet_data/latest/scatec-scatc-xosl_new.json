@@ -1,9 +1,23 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-11-10T22:03:41.954455+00:00",
+  "scraped_at": "2026-11-11T02:23:46.369059+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5326bca190a5a285",
+      "author": "goldenocean10",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/goldenocean10",
+      "posted_relative": "for 4 t siden",
+      "text": "Merkelig at shorten øker",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }
