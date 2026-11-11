@@ -1,11 +1,9 @@
 {
   "tickers": 120,
-  "with_prices": 119,
+  "with_prices": 120,
   "benchmark": "OSEBX.OL",
-  "missing": [
-    "COSH.OL"
-  ],
-  "rows": 200336,
+  "missing": [],
+  "rows": 200875,
   "with_shares": 119,
-  "last_date": "2026-11-10"
+  "last_date": "2026-11-11"
 }

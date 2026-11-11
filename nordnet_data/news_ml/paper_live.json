@@ -1,40 +1,7 @@
 {
  "started": "2026-10-28",
- "cash": 573.295157,
+ "cash": 35156.351009,
  "positions": [
-  {
-   "ticker": "B2I.OL",
-   "signal_date": "2026-10-28",
-   "entry_date": "2026-10-29",
-   "entry_px": 23.200001,
-   "shares": 537.7155,
-   "cost": 12500.0,
-   "held": 9,
-   "p": 0.607691,
-   "last_px": 24.6
-  },
-  {
-   "ticker": "AKRBP.OL",
-   "signal_date": "2026-10-28",
-   "entry_date": "2026-10-29",
-   "entry_px": 385.0,
-   "shares": 32.402597,
-   "cost": 12500.0,
-   "held": 9,
-   "p": 0.602853,
-   "last_px": 314.600006
-  },
-  {
-   "ticker": "BNOR.OL",
-   "signal_date": "2026-10-28",
-   "entry_date": "2026-10-29",
-   "entry_px": 629.0,
-   "shares": 19.833068,
-   "cost": 12500.0,
-   "held": 9,
-   "p": 0.586232,
-   "last_px": 532.0
-  },
   {
    "ticker": "ENDUR.OL",
    "signal_date": "2026-10-30",
@@ -42,9 +9,9 @@
    "entry_px": 19.403928,
    "shares": 641.840185,
    "cost": 12479.179344,
-   "held": 7,
+   "held": 8,
    "p": 0.558649,
-   "last_px": 20.281649
+   "last_px": 20.375692
   },
   {
    "ticker": "HAUTO.OL",
@@ -53,9 +20,9 @@
    "entry_px": 182.399994,
    "shares": 68.279723,
    "cost": 12479.179344,
-   "held": 7,
+   "held": 8,
    "p": 0.555495,
-   "last_px": 169.899994
+   "last_px": 176.600006
   },
   {
    "ticker": "NSKOG.OL",
@@ -64,9 +31,9 @@
    "entry_px": 36.400002,
    "shares": 337.455436,
    "cost": 12307.994364,
-   "held": 5,
+   "held": 6,
    "p": 0.577035,
-   "last_px": 36.099998
+   "last_px": 35.900002
   },
   {
    "ticker": "NHY.OL",
@@ -75,9 +42,9 @@
    "entry_px": 65.720001,
    "shares": 186.904719,
    "cost": 12307.994364,
-   "held": 5,
+   "held": 6,
    "p": 0.557298,
-   "last_px": 69.459999
+   "last_px": 70.139999
   },
   {
    "ticker": "VAR.OL",
@@ -86,13 +53,72 @@
    "entry_px": 51.060001,
    "shares": 241.434633,
    "cost": 12352.357427,
-   "held": 4,
+   "held": 5,
    "p": 0.559508,
-   "last_px": 48.580002
+   "last_px": 49.599998
   }
  ],
- "pending": [],
- "closed": [],
+ "pending": [
+  {
+   "ticker": "BNOR.OL",
+   "signal_date": "2026-11-11",
+   "alloc": 12186.474147,
+   "p": 0.580336
+  },
+  {
+   "ticker": "BRG.OL",
+   "signal_date": "2026-11-11",
+   "alloc": 12186.474147,
+   "p": 0.569497
+  },
+  {
+   "ticker": "SCATC.OL",
+   "signal_date": "2026-11-11",
+   "alloc": 12186.474147,
+   "p": 0.56729
+  }
+ ],
+ "closed": [
+  {
+   "ticker": "B2I.OL",
+   "signal_date": "2026-10-28",
+   "entry_date": "2026-10-29",
+   "entry_px": 23.200001,
+   "shares": 537.7155,
+   "cost": 12500.0,
+   "held": 10,
+   "p": 0.607691,
+   "last_px": 25.0,
+   "exit_date": "2026-11-11",
+   "ret": 0.07328
+  },
+  {
+   "ticker": "AKRBP.OL",
+   "signal_date": "2026-10-28",
+   "entry_date": "2026-10-29",
+   "entry_px": 385.0,
+   "shares": 32.402597,
+   "cost": 12500.0,
+   "held": 10,
+   "p": 0.602853,
+   "last_px": 322.200012,
+   "exit_date": "2026-11-11",
+   "ret": -0.166461
+  },
+  {
+   "ticker": "BNOR.OL",
+   "signal_date": "2026-10-28",
+   "entry_date": "2026-10-29",
+   "entry_px": 629.0,
+   "shares": 19.833068,
+   "cost": 12500.0,
+   "held": 10,
+   "p": 0.586232,
+   "last_px": 543.0,
+   "exit_date": "2026-11-11",
+   "ret": -0.140175
+  }
+ ],
  "equity": [
   {
    "date": "2026-10-28",
@@ -133,7 +159,11 @@
   {
    "date": "2026-11-10",
    "equity": 96057.885195
+  },
+  {
+   "date": "2026-11-11",
+   "equity": 97491.79318
   }
  ],
- "last_date": "2026-11-10"
+ "last_date": "2026-11-11"
 }
