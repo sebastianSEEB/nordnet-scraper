@@ -1,68 +1,25 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-11T14:46:05.423498+00:00",
+  "scraped_at": "2026-11-11T17:47:16.621562+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "6e16e866c859e1b1",
-      "author": "kariusogbaktus",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
-      "posted_relative": "for 2 døgn siden",
-      "text": "· Treningsbransjen set nye rekordar: https://www.nrk.no/artikkel/treningsbransjen-set-nye-rekordar-fleire-prioriterer-trening-1531586 Vis 1 kommentar til",
+      "key": "e37ebfac73180e4e",
+      "author": "Aksjehandler_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjehandler-2",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.finansavisen.no/tjenester/2026/11/11/8395030/sats-topp-dumper-sats-aksjer-solgt-for-33-mill.-pa-under-en-uke",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
+      "engagement_numbers": [],
       "links": [
-        "https://www.nrk.no/artikkel/treningsbransjen-set-nye-rekordar-fleire-prioriterer-trening-1531586"
+        "https://www.finansavisen.no/tjenester/2026/11/11/8395030/sats-topp-dumper-sats-aksjer-solgt-for-33-mill.-pa-under-en-uke"
       ],
-      "char_count": 153,
+      "char_count": 120,
       "has_link": true
-    },
-    {
-      "key": "c26feae16bb176bc",
-      "author": "Binken",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binken",
-      "posted_relative": null,
-      "text": "6. nov. · Endret Hvor stor andel solgte Torodd av sine aksjer i Sats? Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 89,
-      "has_link": false
-    },
-    {
-      "key": "ff5f7f00b8f448cb",
-      "author": "kariusogbaktus",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
-      "posted_relative": "for 1 t siden",
-      "text": "Å Gøystdal forsetter å selge. Skal han fratre stillingen eller er det andre årsaker",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 83,
-      "has_link": false
-    },
-    {
-      "key": "e40abcd7ce787ce0",
-      "author": "Murrinho",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/murrinho",
-      "posted_relative": "for 1 t siden",
-      "text": "Nye 309 k. Kun 311 k igjen nå. Muligens på vei ut av selskapet han kanskje?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 75,
-      "has_link": false
     }
   ]
 }
