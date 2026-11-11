@@ -1,9 +1,39 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-11-11T17:47:43.941756+00:00",
+  "scraped_at": "2026-11-11T23:54:19.602638+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f1c45e10f3d6f923",
+      "author": "KMWD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kmwd",
+      "posted_relative": "for 11 t siden",
+      "text": "· : Vis 1 kommentar til",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    },
+    {
+      "key": "5d0628f00f7dd1a0",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Sikkert et høyt hus",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

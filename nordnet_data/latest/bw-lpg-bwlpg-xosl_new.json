@@ -1,23 +1,25 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-11-11T17:43:16.529209+00:00",
+  "scraped_at": "2026-11-11T23:49:53.916189+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "9790917db399d96c",
+      "key": "0c827bb2a384d6a8",
       "author": "safe_heaven",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 33 min siden",
-      "text": "Når en mener noe er overvurdert mhp verdi, kan en plassere veddemål ihh til det",
+      "posted_relative": "for 1 t siden",
+      "text": "Ikke noe hokus pokus https://www.gurufocus.com/news/9140843/is-bw-lpg-ltd-bwlp-overvalued-after-34-rally-gf-value-says-overvalued?utm_source=marketwatch&utm_medium=syndication&utm_campaign=headlines&r=4bf001661e6fdd88d0cd7a5659ff9748&mod=mw_quote_news",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 79,
-      "has_link": false
+      "links": [
+        "https://www.gurufocus.com/news/9140843/is-bw-lpg-ltd-bwlp-overvalued-after-34-rally-gf-value-says-overvalued?utm_source=marketwatch&utm_medium=syndication&utm_campaign=headlines&r=4bf001661e6fdd88d0cd7a5659ff9748&mod=mw_quote_news"
+      ],
+      "char_count": 251,
+      "has_link": true
     }
   ]
 }

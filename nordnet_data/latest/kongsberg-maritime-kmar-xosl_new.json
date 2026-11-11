@@ -1,9 +1,70 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-11T17:46:56.820829+00:00",
+  "scraped_at": "2026-11-11T23:53:33.190580+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "8ec1e5f9d8bf0f67",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 2 t siden",
+      "text": "Deres utbyttepolitikk står omtalt her: https://www.kongsbergmaritime.com/investor-relations/dividend/ \"the aim is to pay a yearly dividend in the range of 40 to 60% of earnings after tax\" \"Any dividend will be decided by the general meeting\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.kongsbergmaritime.com/investor-relations/dividend/"
+      ],
+      "char_count": 241,
+      "has_link": true
+    },
+    {
+      "key": "a9817b4c865319cb",
+      "author": "Arne Edgar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arne-edgar",
+      "posted_relative": "for 5 t siden",
+      "text": "Tror ikke oljepris har stor innvirkning på denne, alfa omega er nybygg, kontrakter og teknologisk utvikling er veldig viktig, i denne bransjen må de være framoverlent og er det bra som Kongsberg bruker å være betyr prisen på produktet deres ganske lite",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 252,
+      "has_link": false
+    },
+    {
+      "key": "9e9e4227cea87ebe",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": "for 5 t siden",
+      "text": "Irriterer meg at jeg ikke hadde cash på 56kr..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    },
+    {
+      "key": "fbc0326e3e99f19a",
+      "author": "Eltedeig",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eltedeig",
+      "posted_relative": "for 2 t siden",
+      "text": "Er det noen som vet noe angående utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

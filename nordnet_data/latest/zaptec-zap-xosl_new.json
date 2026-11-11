@@ -1,38 +1,55 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-11T17:44:43.417527+00:00",
+  "scraped_at": "2026-11-11T23:51:18.724216+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "e26e6f53a155c89e",
-      "author": "MisKina",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
-      "posted_relative": "for 2 t siden",
-      "text": "· Vår shorter, fikk visst handlet litt med seg selv her i aksjonen og fikk den 0,40kr ned, forventet 😂 Men vi glemmer ikke det gode regnskapet, og avventer kurs 65-75 med tålmodighet 👍 Vis 1 kommentar til",
+      "key": "aefda09c0cc5a5fd",
+      "author": "ZappaPlaysZappa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaplayszappa",
+      "posted_relative": "for 3 t siden",
+      "text": "· Danmark Regjeringen vil avlyse planlagt økning i avgifter på elbiler i 2027 https://www.dr.dk/nyheder/politik/regeringen-vil-aflyse-planlagt-stigning-i-afgifter-paa-elbiler-i-2027",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
         2
       ],
+      "links": [
+        "https://www.dr.dk/nyheder/politik/regeringen-vil-aflyse-planlagt-stigning-i-afgifter-paa-elbiler-i-2027"
+      ],
+      "char_count": 181,
+      "has_link": true
+    },
+    {
+      "key": "0d90c6a0f7940a1c",
+      "author": "MisKina",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
+      "posted_relative": "for 8 t siden",
+      "text": "· Vår shorter, fikk visst handlet litt med seg selv her i aksjonen og fikk den 0,40kr ned, forventet 😂 Men vi glemmer ikke det gode regnskapet, og avventer kurs 65-75 med tålmodighet 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
       "links": [],
-      "char_count": 204,
+      "char_count": 184,
       "has_link": false
     },
     {
-      "key": "21b303c2abee60ad",
-      "author": "Stefan007",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
-      "posted_relative": "for 1 t siden",
-      "text": "· en del avventende kanskje for å se hva som skjer med de der ordrene han snakket om",
+      "key": "0e9317b31cd43b52",
+      "author": "hacksaw",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hacksaw",
+      "posted_relative": "for 7 t siden",
+      "text": "· Ikke overraskende, selv om det er noen her inne Hvor man ikke har lov til å nevne navnet 😂😇",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 84,
+      "char_count": 93,
       "has_link": false
     }
   ]

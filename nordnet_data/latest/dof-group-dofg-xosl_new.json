@@ -1,41 +1,27 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-11T17:44:59.771801+00:00",
+  "scraped_at": "2026-11-11T23:51:35.942459+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "d607cbad3726fa37",
-      "author": "Erinor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erinor",
-      "posted_relative": "for 1 t siden",
-      "text": "https://newsweb.oslobors.no/message/686243 Denne var jo fin etter stengetid 😄 spent på morgendagen om vi skyter fart🚀",
+      "key": "83becc3cd0dbf09f",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 6 t siden",
+      "text": "Dof bygger backlog: https://osvnyheter.no/offshore-nyheter-2026-uke-46",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        17,
-        1
+        7
       ],
       "links": [
-        "https://newsweb.oslobors.no/message/686243"
+        "https://osvnyheter.no/offshore-nyheter-2026-uke-46"
       ],
-      "char_count": 117,
+      "char_count": 70,
       "has_link": true
-    },
-    {
-      "key": "a0ed151fc644a512",
-      "author": "Fisker94",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fisker94",
-      "posted_relative": "for 1 t siden",
-      "text": "Vakkert",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 7,
-      "has_link": false
     }
   ]
 }

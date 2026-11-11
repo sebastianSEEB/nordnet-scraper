@@ -1,23 +1,27 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-11T17:48:07.329609+00:00",
+  "scraped_at": "2026-11-11T23:54:43.056747+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "76a37a014e5cc2c8",
-      "author": "Oggiwara1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oggiwara1",
-      "posted_relative": "for 1 t siden",
-      "text": "Helt klart at en må lese mer enn lystige overskrifter fra ledelsen for å få med seg det som egentlig foregår. Ja, det er positive tegn på topplinjen. Men fremdeles klarer ikke ledelsen å omsette det til bunnlinjen. Og det er bunnlinjen utbyttet vårt skal betales fra. De tar en del positive grep på kostnadssiden nå, enn om det er laaaangt på overtid. Så får vi se til neste år og året deretter om det har båret frukter, slik at vi kan se organisk vekst på bunnlinjen også.",
+      "key": "0ee6c7b14602035a",
+      "author": "Markus Persen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/markus-persen",
+      "posted_relative": "for 5 t siden",
+      "text": "Til dere som ønsker en oppdatert analyse av DNB: https://www.youtube.com/watch?v=daD8ZwprwZg",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 473,
-      "has_link": false
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.youtube.com/watch?v=daD8ZwprwZg"
+      ],
+      "char_count": 92,
+      "has_link": true
     }
   ]
 }
