@@ -1,22 +1,22 @@
 {
-  "started": "2026-11-10T09:43:13.302507+00:00",
-  "candidates": 4886,
-  "due": 67,
-  "checked": 44,
-  "parsed_stars": 44,
+  "started": "2026-11-11T09:19:13.032710+00:00",
+  "candidates": 4923,
+  "due": 60,
+  "checked": 38,
+  "parsed_stars": 38,
   "http_errors": {
-    "404": 23
+    "404": 22
   },
   "parsed_by": {
-    "sr-only": 44
+    "sr-only": 38
   },
   "debug_saved": 0,
-  "finished": "2026-11-10T09:44:26.394388+00:00",
+  "finished": "2026-11-11T09:20:18.510613+00:00",
   "star_distribution": {
-    "0": 2742,
-    "1": 628,
-    "2": 1034,
-    "3": 459
+    "0": 2765,
+    "1": 633,
+    "2": 1040,
+    "3": 463
   },
-  "total_checked_ever": 4863
+  "total_checked_ever": 4901
 }
