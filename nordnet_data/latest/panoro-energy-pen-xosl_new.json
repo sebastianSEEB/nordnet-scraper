@@ -1,54 +1,51 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-12T15:36:51.130383+00:00",
+  "scraped_at": "2026-11-12T21:16:08.876840+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 8,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "a2a6726ef778dc23",
+      "key": "c439f3f0576e3968",
       "author": "DrDrago",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
-      "posted_relative": "for 2 min siden",
-      "text": "· Hei Jeg fikk en kommentar på FA Forum om at selskapet har oppdatert sin guiding for q4 til mellom 2,1-2,5 millioner fat. Har dermed gjort omberegninger (ved hjelp av Google Pro) De vil kunne dele ut 4,20 NOK per aksje for 2026 alternativt som jeg spekulerer i å betale ned på lånene og da får de følgende muligheter for 2027. (Attached) Best er å lese innlegget via lenken. Oppsummert et råbra kjøp allerede på eksisterende forretningsvolumer samtidig som heliumkilden kan gi et enda større løft hvis det blir en kommersiell suksess. https://www.finansavisen.no/forum/thread/212595/uppdaterar-2026-ars-siffror-per-estimat-om-23-miljoner-lyft-q4 https://www.finansavisen.no/forum/thread/212459/panoro-energy-nya-heliumf",
-      "reply_count": 1,
+      "posted_relative": "for 47 min siden · Endret",
+      "text": "· Jeg oppdaterte litt ting i kalkulasjonen. La til resterende salg av olje til BRENT 90 $ (fikk da en omsetning på 409,1 musd) samt justerte ned valutakurskonverteringen til 9,54 mot NOK i stedet for 11 kr som lå i modellen. Jeg har bare gjort forenklede antagelser, men det finnes kanskje strafferenter eller annet som gjør det uøkonomisk å innløse dem på forskudd?",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [
-        "https://www.finansavisen.no/forum/thread/212459/panoro-energy-nya-heliumf",
-        "https://www.finansavisen.no/forum/thread/212595/uppdaterar-2026-ars-siffror-per-estimat-om-23-miljoner-lyft-q4"
-      ],
-      "char_count": 720,
-      "has_link": true
+      "links": [],
+      "char_count": 366,
+      "has_link": false
     },
     {
-      "key": "0ae66c60de7d5061",
+      "key": "82cebe7f0f3a37e6",
       "author": "DrDrago",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
-      "posted_relative": "for 9 min siden",
-      "text": "Innlegget er slettet. Vis 1 kommentar til",
+      "posted_relative": "for 5 t siden",
+      "text": "· Se innlegget ovenfor i stedet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    },
+    {
+      "key": "8fa6667414f64f55",
+      "author": "DrDrago",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
+      "posted_relative": "for 5 t siden",
+      "text": "Innlegget er slettet.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         13,
-        2
+        4
       ],
       "links": [],
-      "char_count": 41,
-      "has_link": false
-    },
-    {
-      "key": "b675f23a54f04ec6",
-      "author": "Olsen72",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olsen72",
-      "posted_relative": "for 23 min siden · Endret",
-      "text": "1,5 -2,0 nok i utbytte?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 23,
+      "char_count": 21,
       "has_link": false
     }
   ]

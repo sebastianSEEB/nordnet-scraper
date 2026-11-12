@@ -1,9 +1,36 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-11-12T15:37:07.369403+00:00",
+  "scraped_at": "2026-11-12T21:16:24.903154+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "237a0accc4edcd32",
+      "author": "trani",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trani",
+      "posted_relative": "for 5 t siden",
+      "text": "Lakseprisene skal opp fremover, så her kan lsg stige frem til 50kr frem til årsskifte. Så her er det bare til å hamstre!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "7dcc75eb5a0e0a54",
+      "author": "trani",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trani",
+      "posted_relative": "for 5 t siden",
+      "text": "Er bare til å kjøpe! Tror ikke man bør satse på kurser under 44 om man vil være med på oppgangen!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 97,
+      "has_link": false
+    }
+  ]
 }

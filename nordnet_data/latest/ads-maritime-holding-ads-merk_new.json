@@ -1,9 +1,23 @@
 {
   "slug": "ads-maritime-holding-ads-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/ads-maritime-holding-ads-merk",
-  "scraped_at": "2026-11-12T15:36:08.003431+00:00",
+  "scraped_at": "2026-11-12T21:15:24.734125+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3389d0c9a25ea832",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
+      "posted_relative": "for 1 t siden",
+      "text": "kommer det ikke noe utbytte i år?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

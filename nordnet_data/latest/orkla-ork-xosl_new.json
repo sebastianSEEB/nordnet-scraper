@@ -1,9 +1,23 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-12T15:40:40.247297+00:00",
+  "scraped_at": "2026-11-12T21:19:56.683196+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cddf5138c2b2d7cd",
+      "author": "pappkrus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pappkrus",
+      "posted_relative": "for 5 t siden",
+      "text": "Orkla eier ikke elkem",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }
