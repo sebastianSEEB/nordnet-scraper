@@ -1,42 +1,22 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-12T13:32:37.555833+00:00",
+  "scraped_at": "2026-11-12T15:41:29.346088+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "7bd57ccc64e70649",
-      "author": "Huckleberryfinn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huckleberryfinn",
-      "posted_relative": "for 2 t siden",
-      "text": "· https://newsweb.oslobors.no/message/686311 Et styremedlem solgte hver eneste posisjon han hadde i Pareto. Noen idéer om hvorfor?",
+      "key": "8a2d194247d9ab11",
+      "author": "saksbehandleren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saksbehandleren",
+      "posted_relative": "for 1 t siden",
+      "text": "Personer tar gevinst/tap hele tiden. Det er et individ bak funksjonen styremedlem. Jeg ville ikke lagt det så mye på selskapet - her er det jo informert tydelig over flere kvartalsrapporter at de sliter og vil fortsette med det i tiden fremover.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1,
-        6
-      ],
-      "links": [
-        "https://newsweb.oslobors.no/message/686311"
-      ],
-      "char_count": 130,
-      "has_link": true
-    },
-    {
-      "key": "ecc7671e93f79468",
-      "author": "mfas",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mfas",
-      "posted_relative": "for 42 min siden",
-      "text": "63% av PB's utlån er eiendomsrelatert (ref. Q3 presentasjon). Styremedlemmet som dumper sine aksjer er tilknyttet eiendomsbransjen (i følge Finansavisen). Eiendomssjefen i samme selskap (Merkantilbygg, Pål Gundersen) har også solgt alle sine PB-aksjer.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 252,
+      "char_count": 245,
       "has_link": false
     }
   ]
