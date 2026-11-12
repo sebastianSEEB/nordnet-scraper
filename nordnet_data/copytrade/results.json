@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T23:01:18.842313+00:00",
- "price_last_date": "2026-11-11",
+ "generated_at": "2026-11-12T22:28:48.873069+00:00",
+ "price_last_date": "2026-11-12",
  "paper_started_at": "2026-10-30T16:04:43.860866+00:00",
  "main_key": "senior_500k|20",
  "n_insider_buys_parsed": 1610,
@@ -8,200 +8,200 @@
   "senior_500k|5": {
    "label": "CEO/CFO/styreleder, ≥ 500k",
    "hold": 5,
-   "n": 290,
-   "n_open": 5,
-   "avg_ret": 0.009157118591207374,
-   "median_ret": 0.002285817306174054,
-   "hit_rate": 0.5206896551724138,
-   "avg_excess": 0.009569447863793443,
-   "beat_bench": 0.5310344827586206,
-   "t_stat": 2.26459778964623,
-   "total_pnl": 26555.64391450138
+   "n": 291,
+   "n_open": 4,
+   "avg_ret": 0.009308171400093525,
+   "median_ret": 0.0024213854919898914,
+   "hit_rate": 0.5223367697594502,
+   "avg_excess": 0.009712070855272825,
+   "beat_bench": 0.5326460481099656,
+   "t_stat": 2.304966954448005,
+   "total_pnl": 27086.77877427215
   },
   "senior_500k|20": {
    "label": "CEO/CFO/styreleder, ≥ 500k",
    "hold": 20,
    "n": 262,
    "n_open": 7,
-   "avg_ret": 0.017378399732876686,
+   "avg_ret": 0.017378396642406084,
    "median_ret": 0.010132180797122081,
    "hit_rate": 0.5381679389312977,
-   "avg_excess": 0.008856769050429675,
+   "avg_excess": 0.008856765959959073,
    "beat_bench": 0.5038167938931297,
-   "t_stat": 1.2631946996969607,
-   "total_pnl": 45531.4073001369
+   "t_stat": 1.2631943157514078,
+   "total_pnl": 45531.39920310396
   },
   "senior_500k|60": {
    "label": "CEO/CFO/styreleder, ≥ 500k",
    "hold": 60,
-   "n": 230,
-   "n_open": 11,
-   "avg_ret": 0.054108507021005274,
-   "median_ret": 0.04198458553644768,
-   "hit_rate": 0.5652173913043478,
-   "avg_excess": 0.017333169943697376,
-   "beat_bench": 0.508695652173913,
-   "t_stat": 1.402842446759508,
-   "total_pnl": 124449.5661483121
+   "n": 232,
+   "n_open": 9,
+   "avg_ret": 0.05506590782777838,
+   "median_ret": 0.04261858054463663,
+   "hit_rate": 0.5689655172413793,
+   "avg_excess": 0.01850062057630996,
+   "beat_bench": 0.5129310344827587,
+   "t_stat": 1.506941674108334,
+   "total_pnl": 127752.90616044585
   },
   "alle_100k|5": {
    "label": "Alle innsidere, ≥ 100k",
    "hold": 5,
-   "n": 906,
-   "n_open": 8,
-   "avg_ret": 0.0048177970022083095,
-   "median_ret": 0.002931170233300584,
-   "hit_rate": 0.5275938189845475,
-   "avg_excess": 0.00237593664133513,
-   "beat_bench": 0.5044150110375276,
-   "t_stat": 1.0076963236525416,
-   "total_pnl": 43649.24084000729
+   "n": 909,
+   "n_open": 5,
+   "avg_ret": 0.00490442275789639,
+   "median_ret": 0.0031974304207880166,
+   "hit_rate": 0.528052805280528,
+   "avg_excess": 0.002463886201538354,
+   "beat_bench": 0.506050605060506,
+   "t_stat": 1.048131935271545,
+   "total_pnl": 44581.20286927817
   },
   "alle_100k|20": {
    "label": "Alle innsidere, ≥ 100k",
    "hold": 20,
    "n": 734,
    "n_open": 18,
-   "avg_ret": 0.01484317560232185,
+   "avg_ret": 0.01484317346321708,
    "median_ret": 0.010530161717363984,
    "hit_rate": 0.555858310626703,
-   "avg_excess": 0.003691969623891764,
+   "avg_excess": 0.0036919674847869935,
    "beat_bench": 0.494550408719346,
-   "t_stat": 0.9006522610749376,
-   "total_pnl": 108948.90892104241
+   "t_stat": 0.900651764017761,
+   "total_pnl": 108948.8932200134
   },
   "alle_100k|60": {
    "label": "Alle innsidere, ≥ 100k",
    "hold": 60,
-   "n": 565,
-   "n_open": 24,
-   "avg_ret": 0.054471416862690886,
-   "median_ret": 0.03144099847536119,
-   "hit_rate": 0.5787610619469027,
-   "avg_excess": 0.01590605540836264,
-   "beat_bench": 0.49911504424778763,
-   "t_stat": 1.6125459991543543,
-   "total_pnl": 307763.50527420384
+   "n": 568,
+   "n_open": 21,
+   "avg_ret": 0.054811936675175046,
+   "median_ret": 0.032299907118730764,
+   "hit_rate": 0.5809859154929577,
+   "avg_excess": 0.01638472207388059,
+   "beat_bench": 0.5017605633802817,
+   "t_stat": 1.6688869564613844,
+   "total_pnl": 311331.80031499424
   },
   "alle_1m|5": {
    "label": "Alle innsidere, ≥ 1 mill",
    "hold": 5,
-   "n": 361,
-   "n_open": 4,
-   "avg_ret": 0.0030335129102898196,
-   "median_ret": 0.0026954132612890813,
-   "hit_rate": 0.5318559556786704,
-   "avg_excess": 0.001281184573221888,
-   "beat_bench": 0.5152354570637119,
-   "t_stat": 0.29812257798298186,
-   "total_pnl": 10950.981606146252
+   "n": 362,
+   "n_open": 3,
+   "avg_ret": 0.0031718530418428383,
+   "median_ret": 0.002772257922604826,
+   "hit_rate": 0.5276243093922652,
+   "avg_excess": 0.0014187279664994448,
+   "beat_bench": 0.5165745856353591,
+   "t_stat": 0.3308733188631169,
+   "total_pnl": 11482.10801147107
   },
   "alle_1m|20": {
    "label": "Alle innsidere, ≥ 1 mill",
    "hold": 20,
    "n": 304,
    "n_open": 5,
-   "avg_ret": 0.010990879302214575,
+   "avg_ret": 0.010990877049308278,
    "median_ret": 0.010449177773657725,
    "hit_rate": 0.5493421052631579,
-   "avg_excess": 0.00040497156573147296,
+   "avg_excess": 0.0004049693128251772,
    "beat_bench": 0.4967105263157895,
-   "t_stat": 0.05771482937462711,
-   "total_pnl": 33412.273078732316
+   "t_stat": 0.05771451010728483,
+   "total_pnl": 33412.26622989718
   },
   "alle_1m|60": {
    "label": "Alle innsidere, ≥ 1 mill",
    "hold": 60,
-   "n": 250,
-   "n_open": 9,
-   "avg_ret": 0.033226961199608,
-   "median_ret": 0.02443746546487835,
-   "hit_rate": 0.54,
-   "avg_excess": -0.005053192432441849,
-   "beat_bench": 0.472,
-   "t_stat": -0.3998940239477922,
-   "total_pnl": 83067.40299902002
+   "n": 251,
+   "n_open": 8,
+   "avg_ret": 0.03380485833158114,
+   "median_ret": 0.025163134870114456,
+   "hit_rate": 0.5418326693227091,
+   "avg_excess": -0.0043722251954801915,
+   "beat_bench": 0.47410358565737054,
+   "t_stat": -0.3468837868554452,
+   "total_pnl": 84850.19441226867
   },
   "klynge|5": {
    "label": "Klynge: ≥ 2 innsidere kjøper innen 10 d",
    "hold": 5,
    "n": 333,
    "n_open": 2,
-   "avg_ret": 0.00016237769055669923,
+   "avg_ret": 0.00016237310972067975,
    "median_ret": 0.0031974304207880166,
    "hit_rate": 0.5255255255255256,
-   "avg_excess": -0.0011260976030621663,
+   "avg_excess": -0.0011261021838981859,
    "beat_bench": 0.46546546546546547,
-   "t_stat": -0.29389781661114167,
-   "total_pnl": 540.7177095538103
+   "t_stat": -0.2938989832931843,
+   "total_pnl": 540.7024553698633
   },
   "klynge|20": {
    "label": "Klynge: ≥ 2 innsidere kjøper innen 10 d",
    "hold": 20,
    "n": 264,
    "n_open": 4,
-   "avg_ret": 0.010938253110306264,
-   "median_ret": 0.009069195855665013,
-   "hit_rate": 0.5416666666666666,
-   "avg_excess": -0.002374991510293025,
+   "avg_ret": 0.010938248639965951,
+   "median_ret": 0.009069116293125457,
+   "hit_rate": 0.5454545454545454,
+   "avg_excess": -0.0023749959806333375,
    "beat_bench": 0.48484848484848486,
-   "t_stat": -0.34367840475533523,
-   "total_pnl": 28876.988211208547
+   "t_stat": -0.34367903579468134,
+   "total_pnl": 28876.976409510127
   },
   "klynge|60": {
    "label": "Klynge: ≥ 2 innsidere kjøper innen 10 d",
    "hold": 60,
    "n": 224,
    "n_open": 9,
-   "avg_ret": 0.05727667045881592,
+   "avg_ret": 0.0572766699122408,
    "median_ret": 0.04510776224990276,
    "hit_rate": 0.59375,
-   "avg_excess": 0.012235020753004157,
+   "avg_excess": 0.012235020206429036,
    "beat_bench": 0.5044642857142857,
-   "t_stat": 0.9209381090243985,
-   "total_pnl": 128299.7418277477
+   "t_stat": 0.9209380172099648,
+   "total_pnl": 128299.74060341943
   }
  },
  "main": {
   "stats": {
    "n": 262,
    "n_open": 7,
-   "avg_ret": 0.017378399732876686,
+   "avg_ret": 0.017378396642406084,
    "median_ret": 0.010132180797122081,
    "hit_rate": 0.5381679389312977,
-   "avg_excess": 0.008856769050429675,
+   "avg_excess": 0.008856765959959073,
    "beat_bench": 0.5038167938931297,
-   "t_stat": 1.2631946996969607,
-   "total_pnl": 45531.4073001369
+   "t_stat": 1.2631943157514078,
+   "total_pnl": 45531.39920310396
   },
   "by_year": {
    "2020": {
     "n": 48,
-    "avg_excess": 0.027162660033955805
+    "avg_excess": 0.02716263235143711
    },
    "2021": {
     "n": 38,
-    "avg_excess": -0.014916848048795278
+    "avg_excess": -0.014916858646791136
    },
    "2022": {
     "n": 54,
-    "avg_excess": 0.002979426471363889
+    "avg_excess": 0.0029794259594329224
    },
    "2023": {
     "n": 34,
-    "avg_excess": 0.005403525663567783
+    "avg_excess": 0.0054035456618063155
    },
    "2024": {
     "n": 31,
-    "avg_excess": 0.007660668610500445
+    "avg_excess": 0.007660668013993863
    },
    "2025": {
     "n": 32,
-    "avg_excess": 0.03078062831395278
+    "avg_excess": 0.030780635189455383
    },
    "2026": {
     "n": 25,
-    "avg_excess": 0.0006574520179983789
+    "avg_excess": 0.000657454736447387
    }
   },
   "equity": [
@@ -715,11 +715,11 @@
    ],
    [
     "2021-11-14",
-    20508
+    20507
    ],
    [
     "2021-11-21",
-    20508
+    20507
    ],
    [
     "2021-11-28",
@@ -803,35 +803,35 @@
    ],
    [
     "2022-04-17",
-    29972
+    29971
    ],
    [
     "2022-04-24",
-    29972
+    29971
    ],
    [
     "2022-05-01",
-    29972
+    29971
    ],
    [
     "2022-05-08",
-    29972
+    29971
    ],
    [
     "2022-05-15",
-    29972
+    29971
    ],
    [
     "2022-05-22",
-    29972
+    29971
    ],
    [
     "2022-05-29",
-    29972
+    29971
    ],
    [
     "2022-06-05",
-    29972
+    29971
    ],
    [
     "2022-06-12",
@@ -1773,12 +1773,12 @@
     "title": "Elkem ASA - Mandatory notification of trade - primary insider",
     "status": "åpen",
     "entry_date": "2026-11-02",
-    "exit_date": "2026-11-11",
-    "days_held": 7,
-    "ret": 0.044516163487588134,
-    "bench_ret": -0.029794858467680596,
-    "excess": 0.07431102195526873,
-    "pnl": 445.16163487588136,
+    "exit_date": "2026-11-12",
+    "days_held": 8,
+    "ret": 0.060645195745652636,
+    "bench_ret": -0.018264664572453793,
+    "excess": 0.07890986031810643,
+    "pnl": 606.4519574565263,
     "first_seen": "2026-10-30T16:04:49.846633+00:00"
    },
    {
@@ -1791,12 +1791,12 @@
     "title": "Scatec ASA: Mandatory notification of trade by primary insider",
     "status": "åpen",
     "entry_date": "2026-11-02",
-    "exit_date": "2026-11-11",
-    "days_held": 7,
-    "ret": 0.0806831372321366,
-    "bench_ret": -0.029794858467680596,
-    "excess": 0.1104779956998172,
-    "pnl": 806.8313723213661,
+    "exit_date": "2026-11-12",
+    "days_held": 8,
+    "ret": 0.05712601162489661,
+    "bench_ret": -0.018264664572453793,
+    "excess": 0.0753906761973504,
+    "pnl": 571.2601162489661,
     "first_seen": "2026-10-30T16:04:49.846636+00:00"
    },
    {
@@ -1809,12 +1809,12 @@
     "title": "Zaptec ASA: Purchase of shares by a Primary Insider",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": 0.06776558363262875,
-    "bench_ret": -0.009727927419439175,
-    "excess": 0.07749351105206792,
-    "pnl": 677.6558363262875,
+    "exit_date": "2026-11-12",
+    "days_held": 5,
+    "ret": 0.053113582544392024,
+    "bench_ret": 0.0020407475927841645,
+    "excess": 0.05107283495160786,
+    "pnl": 531.1358254439202,
     "first_seen": "2026-11-04T22:07:24.691868+00:00"
    },
    {
@@ -1827,12 +1827,12 @@
     "title": "Mandatory notification of trade - Protector Forsikring ASA",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.032188841201716833,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.032078353878729704,
-    "pnl": 321.8884120171683,
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.030042918454935563,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.018046833600202428,
+    "pnl": 300.4291845493556,
     "first_seen": "2026-11-05T22:15:42.964428+00:00"
    },
    {
@@ -1845,12 +1845,12 @@
     "title": "Mandatory notification of trade primary insider",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.047258979206049156,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.04714849188306203,
-    "pnl": 472.58979206049156,
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.07183364839319473,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.05983756353846159,
+    "pnl": 718.3364839319472,
     "first_seen": "2026-11-05T22:15:42.964431+00:00"
    },
    {
@@ -1863,12 +1863,12 @@
     "title": "Mandatory notification of trade by Primary Insider",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": 0.02499995512120856,
-    "bench_ret": 0.01383601809180024,
-    "excess": 0.011163937029408322,
-    "pnl": 249.9995512120856,
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": 0.02941176470588225,
+    "bench_ret": 0.025884733735690446,
+    "excess": 0.0035270309701918023,
+    "pnl": 294.1176470588225,
     "first_seen": "2026-11-10T00:30:24.747654+00:00"
    },
    {
@@ -1881,12 +1881,12 @@
     "title": "Elopak ASA: Mandatory notification of trade by primary insider",
     "status": "åpen",
     "entry_date": "2026-11-11",
-    "exit_date": "2026-11-11",
-    "days_held": 0,
-    "ret": 0.0,
-    "bench_ret": 0.0,
-    "excess": 0.0,
-    "pnl": 0.0,
+    "exit_date": "2026-11-12",
+    "days_held": 1,
+    "ret": 0.008287271567344101,
+    "bench_ret": 0.011884284468969497,
+    "excess": -0.003597012901625396,
+    "pnl": 82.87271567344101,
     "first_seen": "2026-11-10T21:59:26.100641+00:00"
    }
   ],
@@ -2155,10 +2155,10 @@
     "entry_date": "2026-05-29",
     "exit_date": "2026-06-26",
     "days_held": 20,
-    "ret": 0.04315614631423759,
+    "ret": 0.04315614940231094,
     "bench_ret": -0.04941559752598934,
-    "excess": 0.09257174384022693,
-    "pnl": 431.5614631423759,
+    "excess": 0.09257174692830028,
+    "pnl": 431.5614940231094,
     "first_seen": "2026-10-30T16:04:49.846602+00:00"
    },
    {
@@ -2299,10 +2299,10 @@
     "entry_date": "2026-04-24",
     "exit_date": "2026-05-27",
     "days_held": 20,
-    "ret": -0.015606816314949978,
+    "ret": -0.015606751441798128,
     "bench_ret": 0.01812429441406782,
-    "excess": -0.0337311107290178,
-    "pnl": -156.06816314949978,
+    "excess": -0.03373104585586595,
+    "pnl": -156.06751441798127,
     "first_seen": "2026-10-30T16:04:49.846584+00:00"
    },
    {
@@ -2353,10 +2353,10 @@
     "entry_date": "2025-12-01",
     "exit_date": "2026-01-05",
     "days_held": 20,
-    "ret": 0.05997934067611954,
+    "ret": 0.059979449980894994,
     "bench_ret": 0.05422223489519551,
-    "excess": 0.005757105780924032,
-    "pnl": 599.7934067611955,
+    "excess": 0.005757215085699485,
+    "pnl": 599.7944998089499,
     "first_seen": "2026-10-30T16:04:49.846578+00:00"
    },
    {
@@ -2446,12 +2446,12 @@
     "title": "Elopak ASA: Mandatory notification of trade by primary insider",
     "status": "åpen",
     "entry_date": "2026-11-11",
-    "exit_date": "2026-11-11",
-    "days_held": 0,
-    "ret": 0.0,
-    "bench_ret": 0.0,
-    "excess": 0.0,
-    "pnl": 0.0,
+    "exit_date": "2026-11-12",
+    "days_held": 1,
+    "ret": 0.008287271567344101,
+    "bench_ret": 0.011884284468969497,
+    "excess": -0.003597012901625396,
+    "pnl": 82.87271567344101,
     "first_seen": "2026-11-10T21:59:26.100641+00:00"
    },
    {
@@ -2464,12 +2464,12 @@
     "title": "Mandatory notification of trade by Primary Insider",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": 0.02499995512120856,
-    "bench_ret": 0.01383601809180024,
-    "excess": 0.011163937029408322,
-    "pnl": 249.9995512120856,
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": 0.02941176470588225,
+    "bench_ret": 0.025884733735690446,
+    "excess": 0.0035270309701918023,
+    "pnl": 294.1176470588225,
     "first_seen": "2026-11-10T00:30:24.747654+00:00"
    },
    {
@@ -2482,12 +2482,12 @@
     "title": "Mandatory notification of trade primary insider",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.047258979206049156,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.04714849188306203,
-    "pnl": 472.58979206049156,
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.07183364839319473,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.05983756353846159,
+    "pnl": 718.3364839319472,
     "first_seen": "2026-11-05T22:15:42.964431+00:00"
    },
    {
@@ -2500,12 +2500,12 @@
     "title": "Mandatory notification of trade - Protector Forsikring ASA",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.032188841201716833,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.032078353878729704,
-    "pnl": 321.8884120171683,
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.030042918454935563,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.018046833600202428,
+    "pnl": 300.4291845493556,
     "first_seen": "2026-11-05T22:15:42.964428+00:00"
    },
    {
@@ -2518,12 +2518,12 @@
     "title": "Zaptec ASA: Purchase of shares by a Primary Insider",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": 0.06776558363262875,
-    "bench_ret": -0.009727927419439175,
-    "excess": 0.07749351105206792,
-    "pnl": 677.6558363262875,
+    "exit_date": "2026-11-12",
+    "days_held": 5,
+    "ret": 0.053113582544392024,
+    "bench_ret": 0.0020407475927841645,
+    "excess": 0.05107283495160786,
+    "pnl": 531.1358254439202,
     "first_seen": "2026-11-04T22:07:24.691868+00:00"
    },
    {
@@ -2536,12 +2536,12 @@
     "title": "Scatec ASA: Mandatory notification of trade by primary insider",
     "status": "åpen",
     "entry_date": "2026-11-02",
-    "exit_date": "2026-11-11",
-    "days_held": 7,
-    "ret": 0.0806831372321366,
-    "bench_ret": -0.029794858467680596,
-    "excess": 0.1104779956998172,
-    "pnl": 806.8313723213661,
+    "exit_date": "2026-11-12",
+    "days_held": 8,
+    "ret": 0.05712601162489661,
+    "bench_ret": -0.018264664572453793,
+    "excess": 0.0753906761973504,
+    "pnl": 571.2601162489661,
     "first_seen": "2026-10-30T16:04:49.846636+00:00"
    },
    {
@@ -2554,20 +2554,20 @@
     "title": "Elkem ASA - Mandatory notification of trade - primary insider",
     "status": "åpen",
     "entry_date": "2026-11-02",
-    "exit_date": "2026-11-11",
-    "days_held": 7,
-    "ret": 0.044516163487588134,
-    "bench_ret": -0.029794858467680596,
-    "excess": 0.07431102195526873,
-    "pnl": 445.16163487588136,
+    "exit_date": "2026-11-12",
+    "days_held": 8,
+    "ret": 0.060645195745652636,
+    "bench_ret": -0.018264664572453793,
+    "excess": 0.07890986031810643,
+    "pnl": 606.4519574565263,
     "first_seen": "2026-10-30T16:04:49.846633+00:00"
    }
   ]
  },
  "stars": {
-  "profiles_checked": 4901,
-  "three_star": 463,
-  "two_star": 1040,
+  "profiles_checked": 4942,
+  "three_star": 467,
+  "two_star": 1041,
   "top_users": [
    {
     "user": "nordnetadrian",
@@ -2671,7 +2671,7 @@
     "user": "utbytteinvest",
     "stars": 3,
     "followers": 356,
-    "forum_posts": 9,
+    "forum_posts": 10,
     "url": "https://www.nordnet.no/aksjeforum/medlemmer/utbytteinvest"
    },
    {
@@ -2706,7 +2706,7 @@
     "user": "leffe-junior",
     "stars": 3,
     "followers": 293,
-    "forum_posts": 44,
+    "forum_posts": 45,
     "url": "https://www.nordnet.no/aksjeforum/medlemmer/leffe-junior"
    },
    {
@@ -2825,7 +2825,7 @@
     "user": "bastus68",
     "stars": 3,
     "followers": 183,
-    "forum_posts": 82,
+    "forum_posts": 84,
     "url": "https://www.nordnet.no/aksjeforum/medlemmer/bastus68"
    },
    {
@@ -2839,7 +2839,7 @@
     "user": "shippingfond",
     "stars": 3,
     "followers": 165,
-    "forum_posts": 64,
+    "forum_posts": 65,
     "url": "https://www.nordnet.no/aksjeforum/medlemmer/shippingfond"
    },
    {
@@ -2852,447 +2852,469 @@
   ],
   "recent_posts": [
    {
-    "key": "cbda9c2835c6bc2f",
-    "user": "rougeard",
-    "stars": 3,
-    "slug": "frontline-fro-xosl",
-    "posted_at": "2026-11-11T17:41:58.666133+00:00",
-    "text": "Fortsetter opp i US nå, så ser lovende ut...",
-    "sentiment": 0.908,
-    "relevance": 0.25,
-    "in_watchlist": true
-   },
-   {
-    "key": "216cdc58e557b5f6",
-    "user": "alexnordnet",
-    "stars": 2,
-    "slug": "kongsberg-gruppen-kog-xosl",
-    "posted_at": "2026-11-11T17:40:11.469412+00:00",
-    "text": "· Vil Kongsberg være en del av FREYJA?",
-    "sentiment": -0.018,
-    "relevance": 0.6,
-    "in_watchlist": true
-   },
-   {
-    "key": "55d4ff726aaabd5b",
-    "user": "horsebear",
-    "stars": 2,
-    "slug": "circio-holding-crna-xosl",
-    "posted_at": "2026-11-11T16:50:03.153374+00:00",
-    "text": "Solid Biosciences opp 8,5%. 🙄😊",
-    "sentiment": 0.574,
-    "relevance": 0.35,
-    "in_watchlist": true
-   },
-   {
-    "key": "ebfab7aa7d11ccec",
-    "user": "bear-72",
-    "stars": 2,
-    "slug": "telenor-tel-xosl",
-    "posted_at": "2026-11-11T16:48:19.503570+00:00",
-    "text": "· Det er jo det man gjør på intradagsbevegelsen...?",
-    "sentiment": -0.243,
-    "relevance": 0.25,
-    "in_watchlist": true
-   },
-   {
-    "key": "76a37a014e5cc2c8",
-    "user": "oggiwara1",
-    "stars": 2,
-    "slug": "dnb-bank-dnb-xosl",
-    "posted_at": "2026-11-11T16:48:07.327857+00:00",
-    "text": "Helt klart at en må lese mer enn lystige overskrifter fra ledelsen for å få med seg det som egentlig foregår. Ja, det er positive tegn på topplinjen. Men fremdeles klarer ikke ledelsen å omsette det til bunnlinjen. Og det er bunnlinjen utbyttet vårt skal betales fra. De tar en de",
-    "sentiment": 0.902,
-    "relevance": 0.45,
-    "in_watchlist": true
-   },
-   {
-    "key": "164a090258c2c1e5",
-    "user": "shippinganalytiker",
-    "stars": 2,
-    "slug": "hunter-group-hunt-xoas",
-    "posted_at": "2026-11-11T16:47:55.290811+00:00",
-    "text": "· VLCC TD3C FFA +2-3%↗️ TD3C TCE (AG>CN) -65k til 1,103k⬇️ https://x.com/plmlindstroem/status/2120550298024370651?a=bYxlmkU3EfnAaBue_SM&s=20",
-    "sentiment": -0.023,
-    "relevance": 0.45,
-    "in_watchlist": true
-   },
-   {
-    "key": "7fd174199fba5f27",
-    "user": "wololo",
-    "stars": 2,
-    "slug": "autostore-auto-xosl",
-    "posted_at": "2026-11-11T16:46:48.562961+00:00",
-    "text": "· Godt sagt",
-    "sentiment": 0.379,
-    "relevance": 0.05,
-    "in_watchlist": true
-   },
-   {
-    "key": "79f7158d9b1fd02f",
-    "user": "osake",
-    "stars": 2,
-    "slug": "b2-impact-b2i-xosl",
-    "posted_at": "2026-11-11T16:45:35.627790+00:00",
-    "text": "Over ------ aksjer, avkastning 111%, pluss utbyttene opp gjennom. Ingen grunn til å selge.",
-    "sentiment": 0.306,
-    "relevance": 0.55,
-    "in_watchlist": true
-   },
-   {
-    "key": "d607cbad3726fa37",
-    "user": "erinor",
+    "key": "e7d51821102e2361",
+    "user": "destructere",
     "stars": 2,
     "slug": "dof-group-dofg-xosl",
-    "posted_at": "2026-11-11T16:44:59.770849+00:00",
-    "text": "https://newsweb.oslobors.no/message/686243 Denne var jo fin etter stengetid 😄 spent på morgendagen om vi skyter fart🚀",
-    "sentiment": 0.952,
-    "relevance": 0.25,
-    "in_watchlist": true
-   },
-   {
-    "key": "5136426066d5605f",
-    "user": "pasjo",
-    "stars": 2,
-    "slug": "blue-nord-bnor-xosl",
-    "posted_at": "2026-11-11T16:44:23.509546+00:00",
-    "text": "Trump ble mykere etter at han tapte mellomvalget😂",
-    "sentiment": -0.346,
-    "relevance": 0.25,
-    "in_watchlist": true
-   },
-   {
-    "key": "359454aa00786355",
-    "user": "sheriff1978",
-    "stars": 2,
-    "slug": "thor-medical-trmed-xosl",
-    "posted_at": "2026-11-11T15:50:27.847780+00:00",
-    "text": "Dette blir spennende.  Man går ikke på podiet med mindre man har noe matnyttig å komme med av informasjon.",
-    "sentiment": 0.477,
-    "relevance": 0.25,
-    "in_watchlist": true
-   },
-   {
-    "key": "c86b28f5fbc4a9b5",
-    "user": "valderama64",
-    "stars": 2,
-    "slug": "kongsberg-gruppen-kog-xosl",
-    "posted_at": "2026-11-11T15:48:11.469412+00:00",
-    "text": "https://www.nettavisen.no/nyheter/russisk-ekspert-kongsberg-er-et-legitimt-mal/s/80-95-239987",
-    "sentiment": -0.182,
-    "relevance": 0.6,
-    "in_watchlist": true
-   },
-   {
-    "key": "a5e6cda56836d156",
-    "user": "shippinganalytiker",
-    "stars": 2,
-    "slug": "hunter-group-hunt-xoas",
-    "posted_at": "2026-11-11T15:47:55.290811+00:00",
-    "text": "· HODL",
+    "posted_at": "2026-11-12T21:16:16.678679+00:00",
+    "text": "og",
     "sentiment": null,
     "relevance": null,
     "in_watchlist": true
    },
    {
-    "key": "6bc8812a34056674",
-    "user": "verdens-sterkeste-bjrn",
-    "stars": 3,
-    "slug": "atea-xosl",
-    "posted_at": "2026-11-11T15:47:36.095321+00:00",
-    "text": "Hvorfor er denne aksjen så slapp? Er ingen short registrert, det er en compounder, jeg mener den er lavt priset, snart utbytte osv.",
-    "sentiment": -0.9,
-    "relevance": 0.55,
-    "in_watchlist": true
-   },
-   {
-    "key": "d0dd6bb6de656475",
-    "user": "yamarin64dc",
-    "stars": 3,
-    "slug": "norbit-norbt-xosl",
-    "posted_at": "2026-11-11T15:45:11.633178+00:00",
-    "text": "Enig!  Hvor er",
-    "sentiment": -0.479,
-    "relevance": 0.05,
-    "in_watchlist": true
-   },
-   {
-    "key": "e79a3d3c2c866541",
-    "user": "knez",
-    "stars": 3,
-    "slug": "hafnia-hafni-xosl",
-    "posted_at": "2026-11-11T15:43:08.463141+00:00",
-    "text": "· Det har ingen betydning for kursen.",
-    "sentiment": -0.314,
-    "relevance": 0.35,
-    "in_watchlist": true
-   },
-   {
-    "key": "c1441bea5b31252d",
-    "user": "w0nder",
+    "key": "4828f0e8fe55221c",
+    "user": "superhansen",
     "stars": 2,
-    "slug": "salmon-evolution-salme-xosl",
-    "posted_at": "2026-11-11T14:47:22.468557+00:00",
-    "text": "Takk",
+    "slug": "dof-group-dofg-xosl",
+    "posted_at": "2026-11-12T21:16:16.678679+00:00",
+    "text": ".",
     "sentiment": null,
     "relevance": null,
     "in_watchlist": true
    },
    {
-    "key": "bc4ac80ff2112042",
-    "user": "viper77",
+    "key": "bfecd94909b0ecf4",
+    "user": "sykkelpoteten",
     "stars": 2,
-    "slug": "aker-bp-akrbp-xosl",
-    "posted_at": "2026-11-11T14:43:03.279693+00:00",
-    "text": "Slapp av, den tryner sikkert på slutten av dagen i dag også som vanlig:)",
-    "sentiment": 0.366,
+    "slug": "dof-group-dofg-xosl",
+    "posted_at": "2026-11-12T21:07:16.678679+00:00",
+    "text": "Horizon Arctic er en kjempebåt det burde være mulig å få tak i.",
+    "sentiment": 0.92,
     "relevance": 0.25,
     "in_watchlist": true
    },
    {
-    "key": "f617ec7d834f1e0e",
-    "user": "kattost",
+    "key": "a8fd4c65511b5af7",
+    "user": "sistemann-inn",
     "stars": 2,
-    "slug": "bw-lpg-bwlpg-xosl",
-    "posted_at": "2026-11-11T14:39:09.275080+00:00",
-    "text": "Shorthandel er tillatt, så nei det er det ikke.",
-    "sentiment": -0.416,
-    "relevance": 0.25,
+    "slug": "klaveness-combination-carriers-kcc-xosl",
+    "posted_at": "2026-11-12T20:50:42.488395+00:00",
+    "text": "Om en ser litt på utviklingen av aksjekursen til KCC siden årets begynnelse så ser den ut til å være undervurdert. Den har riktignok gått noenlunde jevnt og trutt fra 80 til rundt 120 siden nyttår. Men shipping generelt har jo gått til himmels.  Har kombinasjonsskipene deres noen",
+    "sentiment": 0.403,
+    "relevance": 1.0,
     "in_watchlist": true
    },
    {
-    "key": "1f82c5e26b831203",
-    "user": "bastus68",
-    "stars": 3,
-    "slug": "scatec-scatc-xosl",
-    "posted_at": "2026-11-11T14:39:06.340578+00:00",
-    "text": "Det er forventet, eller i hvert fall sannsynlig, at det blir en dobbeltøkning i desember i USA. Rentenivået er på vei oppover over store deler av verden",
-    "sentiment": 0.086,
-    "relevance": 0.35,
-    "in_watchlist": true
-   },
-   {
-    "key": "e918c8579d5528aa",
-    "user": "2good2go",
+    "key": "583f384bdd1d014c",
+    "user": "baretap12",
     "stars": 2,
-    "slug": "circio-holding-crna-xosl",
-    "posted_at": "2026-11-11T14:38:51.709632+00:00",
-    "text": "Dette går vegen etterhvert som de kunngjør inn/ utlisensieringer - vi får holde vi som tror. Det er noen som ønsker seg aksjene våres, vi sitter nok for stødig🤭",
-    "sentiment": 0.502,
-    "relevance": 0.55,
-    "in_watchlist": true
-   },
-   {
-    "key": "e029874555c6e6f6",
-    "user": "2good2go",
-    "stars": 2,
-    "slug": "circio-holding-crna-xosl",
-    "posted_at": "2026-11-11T14:36:51.709632+00:00",
-    "text": "Det er akkurat det som ønskes - at den \"vanlige\" aksjonær mister troen på aksjen og selger. Slik å bare slik kan de største få meir.",
-    "sentiment": -0.848,
-    "relevance": 0.45,
-    "in_watchlist": true
-   },
-   {
-    "key": "55f92e804bd474e0",
-    "user": "ztrejfer",
-    "stars": 2,
-    "slug": "circio-holding-crna-xosl",
-    "posted_at": "2026-11-11T14:33:51.709632+00:00",
-    "text": "· Analyst Group i dag om Circio: https://analystgroup.se/bolag/circio-holding/comment-on-circios-research-collaboration-with-solid-biosciences",
-    "sentiment": 0.181,
-    "relevance": 0.7,
-    "in_watchlist": true
-   },
-   {
-    "key": "9c47e8a8816bf11e",
-    "user": "onklskrue",
-    "stars": 2,
-    "slug": "autostore-auto-xosl",
-    "posted_at": "2026-11-11T14:33:38.128007+00:00",
-    "text": "· https://www.autostoresystem.com/cases/autostore-leads-parts-authority-to-new-success",
-    "sentiment": 0.444,
-    "relevance": 0.6,
-    "in_watchlist": true
-   },
-   {
-    "key": "7595eee0bba3bd55",
-    "user": "masfd3s",
-    "stars": 2,
-    "slug": "kongsberg-gruppen-kog-xosl",
-    "posted_at": "2026-11-11T14:32:59.510708+00:00",
-    "text": "På lang sikt? Ja 1000% sikkert hvis du kan la de ligge i 2år er den sikkert opp 50% fra dagens kurs.",
-    "sentiment": 0.349,
-    "relevance": 0.55,
-    "in_watchlist": true
-   },
-   {
-    "key": "b1f4f3a734460261",
-    "user": "nysgjerrigfjo",
-    "stars": 2,
-    "slug": "sal-mar-salm-xosl",
-    "posted_at": "2026-11-11T14:29:42.267543+00:00",
-    "text": "· 🤞",
-    "sentiment": null,
-    "relevance": null,
-    "in_watchlist": true
-   },
-   {
-    "key": "aa3fed122b402ada",
-    "user": "cool-hand",
-    "stars": 2,
-    "slug": "hafnia-hafni-xosl",
-    "posted_at": "2026-11-11T14:23:01.513844+00:00",
-    "text": "· Jeg forventer at vi kommer til å ligge en smule lavere denne gangen, ratene i q2 var høye, og i q3, som jeg ikke har den totale oversikten over, var også flott, men veldig volatilt, slik jeg husker det. Så skulle de visst ha færre off-hire days planlagt i q3. Vi får se om det h",
-    "sentiment": 0.447,
+    "slug": "constellation-oil-services-holding-cosh-xosl",
+    "posted_at": "2026-11-12T20:16:44.644051+00:00",
+    "text": "Da kan det vel omsider bli litt fortgang her og forhåpentligvis litt oppgang. Aksje kursen er jo et evig langt gjesp siste 9 måneder med omtrent en rett strek i aksje kursen som resultat. Null oppgang siden 14 februar i dette regi markedet som koker er godt kjempet. Nærmer seg q3",
+    "sentiment": 0.731,
     "relevance": 0.65,
     "in_watchlist": true
    },
    {
-    "key": "248a3c82d5c11e64",
-    "user": "zappaphone",
+    "key": "5c74aee8d2ccc14d",
+    "user": "gesu_1974",
     "stars": 2,
-    "slug": "zaptec-zap-xosl",
-    "posted_at": "2026-11-11T14:22:35.262956+00:00",
-    "text": "Mange korte videoer fra Zaptec DE i dag: https://www.youtube.com/@gozaptec/videos",
-    "sentiment": 0.149,
+    "slug": "dof-group-dofg-xosl",
+    "posted_at": "2026-11-12T20:16:16.678679+00:00",
+    "text": "Så bra at det blir en konstruktiv diskusjon her. Man lærer av både riktig tolkning og noen feil. Takk",
+    "sentiment": 0.868,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "dabfea3f5e5fa891",
+    "user": "jaff92",
+    "stars": 3,
+    "slug": "frontline-fro-xosl",
+    "posted_at": "2026-11-12T20:14:16.860199+00:00",
+    "text": "50 skip angrepet ila 40 dager, detiblant to av Sinokors VLCC skip på to dager. https://www.tradewindsnews.com/tankers/sinokor-vlcc-evacuated-as-strait-of-hormuz-attacks-hit-50-ships-in-45-days/2-1-2073046",
+    "sentiment": -0.218,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "c902f0557d67ce93",
+    "user": "larrert",
+    "stars": 2,
+    "slug": "okea-xosl",
+    "posted_at": "2026-11-12T19:18:30.277013+00:00",
+    "text": "Blir fin dag i morgen :)",
+    "sentiment": 0.918,
+    "relevance": 0.05,
+    "in_watchlist": true
+   },
+   {
+    "key": "36d1dd624cc236b5",
+    "user": "spitsbergen",
+    "stars": 2,
+    "slug": "general-oceans-geno-xosl",
+    "posted_at": "2026-11-12T17:21:05.020728+00:00",
+    "text": "Selg eller kjøp ?  Falt 11% prosent og omtrent fire ganger så høy omsetning som normalt. Har sett gjennom presentasjonen og tror dette er en « overreaksjon « . Dette er ett selskap som gikk på børs i mars 26, all erfaring tilsier at man « må være « tålmodige med denne type teknil",
+    "sentiment": -0.038,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "8d2b56ec711621cd",
+    "user": "wololo",
+    "stars": 2,
+    "slug": "autostore-auto-xosl",
+    "posted_at": "2026-11-12T17:18:06.745390+00:00",
+    "text": "https://www.nordnet.no/aksjeforum/grupper/autoyield Bli med i gruppa da vel, så får vi yield automatisk inn på konto om et par år 😎🦄",
+    "sentiment": 0.278,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "9f7d19030fa9caf0",
+    "user": "rudi83",
+    "stars": 3,
+    "slug": "veidekke-vei-xosl",
+    "posted_at": "2026-11-12T17:17:39.728129+00:00",
+    "text": "Ja det hadde vel kanskje gått litt bedre med budsjettet på Fornebubanen om de hadde valgt Veidekke.",
+    "sentiment": -0.196,
     "relevance": 0.6,
     "in_watchlist": true
    },
    {
-    "key": "cb7f8d323b707c67",
-    "user": "linjemannen",
+    "key": "41b2dd9b7d8cff3a",
+    "user": "pryp",
     "stars": 2,
-    "slug": "scatec-scatc-xosl",
-    "posted_at": "2026-11-11T14:21:06.340578+00:00",
-    "text": "Rammevilkår er viktige - og dette er eksempler på hvordan Scatec nå får en mer velvillig atmosfære å utvikle seg i.  Slikt kan en aksjeeier like. 👍",
-    "sentiment": 0.805,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-11-12T17:14:21.165987+00:00",
+    "text": "ECO en del høyere enn Oslo. Man får ta med seg det positive og. Vis 1 kommentar til",
+    "sentiment": 0.607,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "5497d42d76024847",
+    "user": "pryp",
+    "stars": 2,
+    "slug": "frontline-fro-xosl",
+    "posted_at": "2026-11-12T17:14:16.860199+00:00",
+    "text": "· Front Nausta (2019 - Modern Scrubber) On Subs (Estimated Voyage CII: B 🟢) Vitol Chevron Houston [Oil Company or Trader Relet] (TCE: RV USD 310K @ 47 days / Actual USD 374K @ 40 days)",
+    "sentiment": -0.003,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "cddf5138c2b2d7cd",
+    "user": "pappkrus",
+    "stars": 2,
+    "slug": "orkla-ork-xosl",
+    "posted_at": "2026-11-12T16:19:56.682285+00:00",
+    "text": "Orkla eier ikke elkem",
+    "sentiment": -0.616,
+    "relevance": 0.4,
+    "in_watchlist": true
+   },
+   {
+    "key": "cbe2c1a9b5fe35a9",
+    "user": "turenn",
+    "stars": 2,
+    "slug": "napatech-napa-xosl",
+    "posted_at": "2026-11-12T16:17:07.863443+00:00",
+    "text": "Isberg handler manipulasjon nå? Heh...",
+    "sentiment": -0.226,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "3e2722be918e63ca",
+    "user": "solbakken",
+    "stars": 3,
+    "slug": "capital-tankers-corp-capt-merk",
+    "posted_at": "2026-11-12T16:15:36.641979+00:00",
+    "text": "Litt merkelig at fraktrater følger oljeprisen ned. Det er ulogisk for med lavere oljepris stiger etterspørselen etter både olje og oljetankere.",
+    "sentiment": -0.82,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "34a4b0b4f3778331",
+    "user": "overras",
+    "stars": 3,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-11-12T16:14:21.165987+00:00",
+    "text": "· Hørte den, og det var noen spennende perspektiver som også kan brukes på andre tankaksjer",
+    "sentiment": 0.78,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "9dfa5f56973ed5c1",
+    "user": "pryp",
+    "stars": 2,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-11-12T16:14:21.165987+00:00",
+    "text": "Oman ga RV langt under 400K. Midt i den værste bombarderingen. Det er ett problem å få ut nok olje når det er som mest hett også. Men for all del. Ratefallet kan sikkert reverseres også. Tiden vil vise.",
+    "sentiment": -0.859,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "5890b936f8bb765f",
+    "user": "tesk",
+    "stars": 2,
+    "slug": "okea-xosl",
+    "posted_at": "2026-11-12T15:38:13.670661+00:00",
+    "text": "dette er bare latterlig, velkommen til sirkus OSE. Gjentar bare oppsummeringen ved siden av her: OKEA gjenopptar utbytte etter sterkt Q3",
+    "sentiment": 1.0,
     "relevance": 0.8,
     "in_watchlist": true
    },
    {
-    "key": "64aed618b9e9a6e0",
-    "user": "gulldoser",
+    "key": "370272bfa26bdf16",
+    "user": "pryp",
+    "stars": 2,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-11-12T15:34:04.750626+00:00",
+    "text": "Beklager å komme med det åpenbaresom er at ratefallet er halvert. Futures ser ikke kjempe lovende ut og Det kommer nye skip. Dette er ikke bull faktorer i notorisk volatilt marked.  Så får hver enkelt regne på om yielden er god nok for egen investering. Glem heller ikke at skips ",
+    "sentiment": -0.414,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "d892a50178bc5290",
+    "user": "egpml",
+    "stars": 2,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-11-12T15:31:04.766868+00:00",
+    "text": "Huttu tu i morgen",
+    "sentiment": -0.764,
+    "relevance": 0.05,
+    "in_watchlist": true
+   },
+   {
+    "key": "488c9e2f3896d208",
+    "user": "mira20",
+    "stars": 2,
+    "slug": "kongsberg-gruppen-kog-xosl",
+    "posted_at": "2026-11-12T15:27:12.970962+00:00",
+    "text": "Opp eller ned? Alle kuler går ned når de har mistet farten.",
+    "sentiment": -0.276,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "e72b5bc7ad5526e2",
+    "user": "krabbepyse",
+    "stars": 2,
+    "slug": "hexagon-composites-hex-xosl",
+    "posted_at": "2026-11-12T15:24:09.616862+00:00",
+    "text": "På høy tid med ei litta børsmelding nå 🤑",
+    "sentiment": 0.737,
+    "relevance": 0.35,
+    "in_watchlist": true
+   },
+   {
+    "key": "7cdd3917781f78ae",
+    "user": "zonnoe",
     "stars": 3,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-11-12T15:21:04.766868+00:00",
+    "text": "Var det dette isfjellet Titanic traff på",
+    "sentiment": -0.521,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "5f5d2ff3e405cdd1",
+    "user": "destructere",
+    "stars": 2,
+    "slug": "dof-group-dofg-xosl",
+    "posted_at": "2026-11-12T15:20:59.501639+00:00",
+    "text": "Jeg ønsker bare korrekt bilde, både for min egen del men også andre som evnt. leser kommentarer. Fortsatt usikker hvordan du får 47 mill. Legger med skjermbilde fra Cashflow q2 og q3. De hadde 226mill i operating activities, 184mill i net.",
+    "sentiment": -0.292,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "8daccaecf5f2b64b",
+    "user": "trbj49",
+    "stars": 2,
     "slug": "storebrand-stb-xosl",
-    "posted_at": "2026-11-11T14:01:30.363080+00:00",
-    "text": "Redd det gikk for fort og at det går litt ned",
-    "sentiment": -0.802,
+    "posted_at": "2026-11-12T15:18:44.100558+00:00",
+    "text": "· Tror ATH sitter på close i dag!!! 🍾🥂",
+    "sentiment": 0.784,
     "relevance": 0.25,
     "in_watchlist": true
    },
    {
-    "key": "3486bbef43551039",
-    "user": "kjell100",
-    "stars": 2,
-    "slug": "hunter-group-hunt-xoas",
-    "posted_at": "2026-11-11T13:56:43.657577+00:00",
-    "text": "\"Mercuria krevde opprinnelig i søksmålet sitt å få TD3C suspendert med tilbakevirkende kraft, men har justert kravet sitt flere ganger, og sist krevde de bare at retten skulle avgjøre at Baltic burde ha suspendert ruten fra mars til juli.\" Mars til juli.  Fra rettssaken.",
-    "sentiment": -0.457,
-    "relevance": 0.35,
-    "in_watchlist": true
-   },
-   {
-    "key": "e65af89cf4da860e",
-    "user": "pasjo",
-    "stars": 2,
-    "slug": "blue-nord-bnor-xosl",
-    "posted_at": "2026-11-11T13:55:14.775721+00:00",
-    "text": "Ja har jo nylig vært en konflikt igjen for få dager siden❤️",
-    "sentiment": 0.09,
-    "relevance": 0.25,
-    "in_watchlist": true
-   },
-   {
-    "key": "f969d6cdee47c200",
-    "user": "olavlad",
-    "stars": 2,
-    "slug": "constellation-oil-services-holding-cosh-xosl",
-    "posted_at": "2026-11-11T13:53:17.663956+00:00",
-    "text": "Dette blir ikke noe problem. Ved neste avstemning trenger selskapet kun majoriteten av de nåværende stemmene. «No quorum needed»",
-    "sentiment": 0.038,
-    "relevance": 0.35,
-    "in_watchlist": true
-   },
-   {
-    "key": "866952d2a707e900",
-    "user": "verdens-sterkeste-bjrn",
+    "key": "ca7c232ac0e667fd",
+    "user": "relax",
     "stars": 3,
-    "slug": "zaptec-zap-xosl",
-    "posted_at": "2026-11-11T13:51:35.262956+00:00",
-    "text": "Markedsføring ja. Ikke så stor finansiell effekt….  I Storbritannia registrerte Polestar 864 nye biler i oktober 2026. Hittil i år er tallet 13 103, altså i snitt rundt 1 310 biler per måned. Oktober var svakere enn snittet og ned 31 % fra oktober i fjor; registreringene hittil i",
-    "sentiment": -0.04,
+    "slug": "aker-bp-akrbp-xosl",
+    "posted_at": "2026-11-12T14:59:17.030372+00:00",
+    "text": "· Hvilke da? 🙂",
+    "sentiment": 0.475,
+    "relevance": 0.05,
+    "in_watchlist": true
+   },
+   {
+    "key": "943888e832a75f59",
+    "user": "egpml",
+    "stars": 2,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-11-12T14:42:04.766868+00:00",
+    "text": "Algoritmen jobber på, så meglerhusa får inn pæng",
+    "sentiment": 0.24,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "8a2d194247d9ab11",
+    "user": "saksbehandleren",
+    "stars": 2,
+    "slug": "pareto-bank-parb-xosl",
+    "posted_at": "2026-11-12T14:41:29.345290+00:00",
+    "text": "Personer tar gevinst/tap hele tiden. Det er et individ bak funksjonen styremedlem. Jeg ville ikke lagt det så mye på selskapet - her er det jo informert tydelig over flere kvartalsrapporter at de sliter og vil fortsette med det i tiden fremover.",
+    "sentiment": -0.778,
     "relevance": 0.55,
     "in_watchlist": true
    },
    {
-    "key": "350cff2cc6fe9e2a",
-    "user": "rivierakid",
+    "key": "7d5b354cd49fdad1",
+    "user": "trbj49",
     "stars": 2,
-    "slug": "salmon-evolution-salme-xosl",
-    "posted_at": "2026-11-11T13:49:22.468557+00:00",
-    "text": "2,8M smolt? Det er 12600T laks som skal slaktes i 2027. Vis 1 kommentar til",
-    "sentiment": -0.121,
+    "slug": "dnb-bank-dnb-xosl",
+    "posted_at": "2026-11-12T14:40:08.924097+00:00",
+    "text": "Den kostnadsgraden har jeg ingen tro på at vil skje. De fabler også om 9% årlig vekst i provisjonsinntekter hvilket jeg mener er totalt over ambisiøst. Men lykke til,, jeg er stadig aksjonær!",
+    "sentiment": 0.655,
+    "relevance": 0.55,
+    "in_watchlist": true
+   },
+   {
+    "key": "efec03ff7d8ece23",
+    "user": "elgat",
+    "stars": 2,
+    "slug": "circio-holding-crna-xosl",
+    "posted_at": "2026-11-12T14:40:04.766868+00:00",
+    "text": "Tenkt det samme, Cameleonen. Høsten varer til desember",
+    "sentiment": -0.005,
     "relevance": 0.25,
     "in_watchlist": true
    },
    {
-    "key": "05c498e8f4ad642a",
-    "user": "salmo-salar",
+    "key": "b4b2104aee1f5e3c",
+    "user": "emperor_oslo",
     "stars": 2,
-    "slug": "salmon-evolution-salme-xosl",
-    "posted_at": "2026-11-11T13:49:22.468557+00:00",
-    "text": "De guider rundt 12000 tonn i 2027.",
-    "sentiment": 0.135,
-    "relevance": 0.25,
+    "slug": "end-r-endur-xosl",
+    "posted_at": "2026-11-12T14:39:05.545652+00:00",
+    "text": "De er konservative. Husker jeg ikke helt feil så initierte de dekning i starten av 2026 med 100kr. Så har de løpt etter kursen med type 5 økinger så langt i år. Skulle tro de ikke hadde annet å gjøre. Fortsetter de i samme tempo (hvorfor skulle de ikke?) så har de kursmål på 200k",
+    "sentiment": -0.413,
+    "relevance": 0.55,
     "in_watchlist": true
    },
    {
-    "key": "4bf565132a7fb659",
-    "user": "mestned",
+    "key": "1cb24e6882cc805b",
+    "user": "uklar",
     "stars": 3,
-    "slug": "panoro-energy-pen-xosl",
-    "posted_at": "2026-11-11T13:47:42.994049+00:00",
-    "text": "https://www.finansavisen.no/shipping/2026/11/11/8394885/amerikanske-myndigheter-vurderer-brannsalg-av-tankskip Trodde trafikken gjennom Hormuz gikk som normalt jeg og at vi ikke hadde behov for nye skyteskiver..",
-    "sentiment": -0.414,
+    "slug": "moreld-morld-xosl",
+    "posted_at": "2026-11-12T14:38:29.432481+00:00",
+    "text": "Må bare holde på aksjer da de er i gang med tilbakekjøp av aksjer 👌",
+    "sentiment": 0.593,
+    "relevance": 0.45,
+    "in_watchlist": true
+   },
+   {
+    "key": "66c7ec0522364953",
+    "user": "tompalompaborshaj",
+    "stars": 2,
+    "slug": "bakkafrost-bakka-xosl",
+    "posted_at": "2026-11-12T14:37:38.988075+00:00",
+    "text": "· Jeg vil si at på lang sikt vil denne aksjen bli kanon, så fort de får Skottland til å gå fra et svart hull til å gå med overskudd, vil aksjen utvikle seg bra, og jeg tror på eierfamilien og deres filosofi om å eie hele produksjonsleddet, og når applecross er i gang for fullt i ",
+    "sentiment": 0.805,
+    "relevance": 0.55,
+    "in_watchlist": true
+   },
+   {
+    "key": "b7e6a04e9406a785",
+    "user": "tbrx",
+    "stars": 2,
+    "slug": "capital-tankers-corp-capt-merk",
+    "posted_at": "2026-11-12T14:36:19.349544+00:00",
+    "text": "Mange regner med at markedet skal falle i 27 og enda mer i 28. Glemmer de at Trump sitter bak spakene. For han er det umulig å akseptere Irans betingelser. Dermed vil Iran fortsette å sette skip ut av spill. Fortsetter raketter og miner ødeleggelsene av oljetransporten i dagens t",
+    "sentiment": 0.094,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "0a3c75860147f9e9",
+    "user": "knors",
+    "stars": 3,
+    "slug": "capital-tankers-corp-capt-merk",
+    "posted_at": "2026-11-12T14:36:19.349544+00:00",
+    "text": "· Og hva bygger du den spådommen på karl30 ?",
+    "sentiment": -0.019,
+    "relevance": 0.25,
+    "in_watchlist": true
+   },
+   {
+    "key": "8636d5790b663267",
+    "user": "tbrx",
+    "stars": 2,
+    "slug": "okeanis-eco-tankers-oet-xosl",
+    "posted_at": "2026-11-12T14:35:04.750626+00:00",
+    "text": "Mange regner med at markedet skal falle i 27 og enda mer i 28. Glemmer de at Trump sitter bak spakene. For han er det umulig å akseptere Irans betingelser. Dermed vil Iran fortsette å sette skip ut av spill. Fortsetter raketter og miner ødeleggelsene av oljetransporten i dagens t",
+    "sentiment": 0.094,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "ff61f94c035117c9",
+    "user": "tbrx",
+    "stars": 2,
+    "slug": "frontline-fro-xosl",
+    "posted_at": "2026-11-12T14:35:00.443101+00:00",
+    "text": "Mange regner med at markedet skal falle i 27 og enda mer i 28. Glemmer de at Trump sitter bak spakene. For han er det umulig å akseptere Irans betingelser. Dermed vil Iran fortsette å sette skip ut av spill. Fortsetter raketter og miner ødeleggelsene av oljetransporten i dagens t",
+    "sentiment": 0.094,
+    "relevance": 0.65,
+    "in_watchlist": true
+   },
+   {
+    "key": "8e4a6568bd8867cf",
+    "user": "krabbepyse",
+    "stars": 2,
+    "slug": "hexagon-composites-hex-xosl",
+    "posted_at": "2026-11-12T13:39:09.616862+00:00",
+    "text": "Neste stopp er toppen på 14,50 fra august. Bryter vi den ila november? Det er nå kun 8% opp dit. Vis 1 kommentar til",
+    "sentiment": -0.031,
     "relevance": 0.35,
     "in_watchlist": true
    },
    {
-    "key": "e40abcd7ce787ce0",
-    "user": "murrinho",
+    "key": "55c4a455bcbf6a10",
+    "user": "wololo",
     "stars": 2,
-    "slug": "sats-xosl",
-    "posted_at": "2026-11-11T13:46:05.422684+00:00",
-    "text": "Nye 309 k. Kun 311 k igjen nå. Muligens på vei ut av selskapet han kanskje?",
-    "sentiment": 0.042,
-    "relevance": 0.25,
-    "in_watchlist": true
-   },
-   {
-    "key": "3286d1600d7c7c9a",
-    "user": "linjemannen",
-    "stars": 2,
-    "slug": "scatec-scatc-xosl",
-    "posted_at": "2026-11-11T13:45:15.674500+00:00",
-    "text": "Den stanger litt på dårligere renteutsikter etter inflasjonstall fra US i går. Håper det er en forbigående utfordring og at rentenivået ikke klatrer høyere nå.  Dupper det litt nedover igjen på rentefronten så kan kursen få et fornyet løft fremover. Vis 1 kommentar til",
-    "sentiment": -0.537,
-    "relevance": 0.45,
-    "in_watchlist": true
-   },
-   {
-    "key": "3810c36291bc80fa",
-    "user": "linjemannen",
-    "stars": 2,
-    "slug": "scatec-scatc-xosl",
-    "posted_at": "2026-11-11T13:44:06.340578+00:00",
-    "text": "Den stanger litt på dårligere renteutsikter etter inflasjonstall fra US i går. Håper det er en forbigående utfordring og at rentenivået ikke klatrer høyere nå.  Dupper det litt nedover igjen på rentefronten så kan kursen få et fornyet løft fremover.",
-    "sentiment": -0.537,
-    "relevance": 0.45,
+    "slug": "autostore-auto-xosl",
+    "posted_at": "2026-11-12T13:38:49.696174+00:00",
+    "text": "· 🥸",
+    "sentiment": null,
+    "relevance": null,
     "in_watchlist": true
    }
   ],
   "trades": [
+   {
+    "id": "star:0e662430ed5efcb5",
+    "published": "2026-11-12T10:29:30.294718+00:00",
+    "ticker": "VEI.OL",
+    "issuer_name": "veidekke-vei-xosl",
+    "role": "@calers",
+    "value_nok": 0,
+    "title": "Veidekke ❤️",
+    "status": "venter",
+    "entry_date": null
+   },
+   {
+    "id": "star:933269b962e77308",
+    "published": "2026-11-12T09:29:30.294718+00:00",
+    "ticker": "VEI.OL",
+    "issuer_name": "veidekke-vei-xosl",
+    "role": "@rudi83",
+    "value_nok": 0,
+    "title": "De har stålkontroll på å vinne offentlige prosjekter nå, og de er i en god posisjon når private bygg og anlegg kommer ti",
+    "status": "venter",
+    "entry_date": null
+   },
    {
     "id": "star:cbda9c2835c6bc2f",
     "published": "2026-11-11T17:41:58.666133+00:00",
@@ -3301,8 +3323,14 @@
     "role": "@rougeard",
     "value_nok": 0,
     "title": "Fortsetter opp i US nå, så ser lovende ut...",
-    "status": "venter",
-    "entry_date": null
+    "status": "åpen",
+    "entry_date": "2026-11-12",
+    "exit_date": "2026-11-12",
+    "days_held": 0,
+    "ret": 0.0,
+    "bench_ret": 0.0,
+    "excess": 0.0,
+    "pnl": 0.0
    },
    {
     "id": "star:ce3a235544bc5b05",
@@ -3312,8 +3340,14 @@
     "role": "@ingeus",
     "value_nok": 0,
     "title": "Starlink er fremtiden, alle kjøper det nå. Billig, brukes over hele kloden🤷‍♂️ teleoperatører vil dø ut",
-    "status": "venter",
-    "entry_date": null
+    "status": "åpen",
+    "entry_date": "2026-11-12",
+    "exit_date": "2026-11-12",
+    "days_held": 0,
+    "ret": 0.0,
+    "bench_ret": 0.0,
+    "excess": 0.0,
+    "pnl": 0.0
    },
    {
     "id": "star:4e154b4a5f2a9c75",
@@ -3323,8 +3357,14 @@
     "role": "@batty-2",
     "value_nok": 0,
     "title": "Fin teknisk denne nå. Spennende å se om trianglet på ca 196 brytes...",
-    "status": "venter",
-    "entry_date": null
+    "status": "åpen",
+    "entry_date": "2026-11-12",
+    "exit_date": "2026-11-12",
+    "days_held": 0,
+    "ret": 0.0,
+    "bench_ret": 0.0,
+    "excess": 0.0,
+    "pnl": 0.0
    },
    {
     "id": "star:46619b206b94fb90",
@@ -3334,8 +3374,14 @@
     "role": "@bastus68",
     "value_nok": 0,
     "title": "Siste mulighet er i dag, om man ønsker å få med seg utbyttet på 0,27$ denne gang 📈",
-    "status": "venter",
-    "entry_date": null
+    "status": "åpen",
+    "entry_date": "2026-11-12",
+    "exit_date": "2026-11-12",
+    "days_held": 0,
+    "ret": 0.0,
+    "bench_ret": 0.0,
+    "excess": 0.0,
+    "pnl": 0.0
    },
    {
     "id": "star:7a2124e3b3db68da",
@@ -3347,12 +3393,12 @@
     "title": "· Hva er interessant med denne aksjen på sikt? Har ikke støttet på den før, men synes den er interessant. Hvorfor invest",
     "status": "åpen",
     "entry_date": "2026-11-11",
-    "exit_date": "2026-11-11",
-    "days_held": 0,
-    "ret": 0.0,
-    "bench_ret": 0.0,
-    "excess": 0.0,
-    "pnl": 0.0
+    "exit_date": "2026-11-12",
+    "days_held": 1,
+    "ret": -0.010845047998992219,
+    "bench_ret": 0.011884284468969497,
+    "excess": -0.022729332467961716,
+    "pnl": -108.45047998992219
    },
    {
     "id": "star:f48f18b73640829f",
@@ -3364,12 +3410,12 @@
     "title": "Har solgt og gjenkjøpt Europris : kjøpte til 46 i 2022 solgte til  67, kjøpte igjen til   71 og nå er kursen 83 og der b",
     "status": "åpen",
     "entry_date": "2026-11-10",
-    "exit_date": "2026-11-11",
-    "days_held": 1,
-    "ret": 0.0,
-    "bench_ret": 0.0008990335653282777,
-    "excess": -0.0008990335653282777,
-    "pnl": 0.0
+    "exit_date": "2026-11-12",
+    "days_held": 2,
+    "ret": 0.0012048008930252152,
+    "bench_ret": 0.012794002404935334,
+    "excess": -0.011589201511910119,
+    "pnl": 12.048008930252152
    },
    {
     "id": "star:a3ab4ec252973583",
@@ -3381,12 +3427,12 @@
     "title": "3 dager igjen! Blir spennende å se!",
     "status": "åpen",
     "entry_date": "2026-11-10",
-    "exit_date": "2026-11-11",
-    "days_held": 1,
-    "ret": 0.025437177031908398,
-    "bench_ret": 0.0008990335653282777,
-    "excess": 0.02453814346658012,
-    "pnl": 254.37177031908396
+    "exit_date": "2026-11-12",
+    "days_held": 2,
+    "ret": 0.022257575388180406,
+    "bench_ret": 0.012794002404935334,
+    "excess": 0.009463572983245072,
+    "pnl": 222.57575388180408
    },
    {
     "id": "star:1d6c814961d4760d",
@@ -3398,12 +3444,12 @@
     "title": "Kjekt å se deg i dette forumet også, Myra. Jeg tenkte akkurat det samme, at det har vært en overreaksjon mht salg i NOD ",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": 0.07719296460960345,
-    "bench_ret": 0.01383601809180024,
-    "excess": 0.06335694651780321,
-    "pnl": 771.9296460960345
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": 0.09883037366365133,
+    "bench_ret": 0.025884733735690446,
+    "excess": 0.07294563992796088,
+    "pnl": 988.3037366365132
    },
    {
     "id": "star:c5c5a82c76e2670f",
@@ -3415,12 +3461,12 @@
     "title": "Dette var gode nyheter på søndagskvelden! En oppgang på ~20k/dag for Jade er slettes ikke verst. Det øker også sannsynli",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": 0.037499984105427986,
-    "bench_ret": 0.01383601809180024,
-    "excess": 0.023663966013627746,
-    "pnl": 374.99984105427984
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": 0.0625,
+    "bench_ret": 0.025884733735690446,
+    "excess": 0.036615266264309554,
+    "pnl": 625.0
    },
    {
     "id": "star:b9f74f8ff730082d",
@@ -3432,12 +3478,12 @@
     "title": "Jeg er lang som en døgnflue (i denne aksjen), men jeg handler inn en six-pack og nyter allikevel litt berg-og-dalbane. F",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": 0.03703700069828186,
-    "bench_ret": 0.01383601809180024,
-    "excess": 0.023200982606481624,
-    "pnl": 370.3700069828186
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": -0.043209883205314936,
+    "bench_ret": 0.025884733735690446,
+    "excess": -0.06909461694100538,
+    "pnl": -432.09883205314935
    },
    {
     "id": "star:e1a75b469263b078",
@@ -3449,12 +3495,12 @@
     "title": "Caset er fortsatt bra - er bare annen børspanikk som drar denne med seg i dragesuget. Kan absolutt gå videre nedover, me",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": 0.022500038146972656,
-    "bench_ret": 0.01383601809180024,
-    "excess": 0.008664020055172417,
-    "pnl": 225.00038146972656
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": 0.05833331743876147,
+    "bench_ret": 0.025884733735690446,
+    "excess": 0.03244858370307102,
+    "pnl": 583.3331743876147
    },
    {
     "id": "star:116319e1745459a3",
@@ -3466,11 +3512,11 @@
     "title": "\"Grunnet regulatoriske forhold og en fusjon, som bokstavelig talt gir selskapet flere ben å stå på, er utbyttedato juste",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
+    "exit_date": "2026-11-12",
+    "days_held": 3,
     "ret": 0.02564103670581619,
-    "bench_ret": 0.01383601809180024,
-    "excess": 0.01180501861401595,
+    "bench_ret": 0.025884733735690446,
+    "excess": -0.0002436970298742569,
     "pnl": 256.4103670581619
    },
    {
@@ -3483,12 +3529,12 @@
     "title": "Håpløst med disse postene dine loading, helt uten substans. Du skrev nøyaktig det samme for to dager siden. Mye som tyde",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": 0.005093365522728099,
-    "bench_ret": 0.01383601809180024,
-    "excess": -0.00874265256907214,
-    "pnl": 50.933655227280994
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": 0.037351390343777435,
+    "bench_ret": 0.025884733735690446,
+    "excess": 0.01146665660808699,
+    "pnl": 373.51390343777433
    },
    {
     "id": "star:2936f57dce55d795",
@@ -3500,12 +3546,12 @@
     "title": "· Virkelig bra kontrakt 💪",
     "status": "åpen",
     "entry_date": "2026-11-09",
-    "exit_date": "2026-11-11",
-    "days_held": 2,
-    "ret": -0.03500900640066118,
-    "bench_ret": 0.01383601809180024,
-    "excess": -0.04884502449246142,
-    "pnl": -350.0900640066118
+    "exit_date": "2026-11-12",
+    "days_held": 3,
+    "ret": -0.015372561763465353,
+    "bench_ret": 0.025884733735690446,
+    "excess": -0.0412572954991558,
+    "pnl": -153.72561763465353
    },
    {
     "id": "star:b51e929dd025e315",
@@ -3517,12 +3563,12 @@
     "title": "Nok en ny Posetiv melding og det skjer mye hos Moreld 😎🙌500mill-1 milliard Vis 1 kommentar til",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.08812512754427959,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.08801464022129246,
-    "pnl": 881.2512754427959
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.08001988163774176,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.06802379678300863,
+    "pnl": 800.1988163774176
    },
    {
     "id": "star:35d965963fbfd5a3",
@@ -3534,12 +3580,12 @@
     "title": "Når Mercuria nå har endret kravet mot Baltic til kun å gjelde fra mars- juli, har de jo ingen argumenter for å holde igj",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": -0.07296646910625537,
-    "bench_ret": 0.00011048732298712949,
-    "excess": -0.0730769564292425,
-    "pnl": -729.6646910625537
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": -0.01913873851469783,
+    "bench_ret": 0.011996084854733136,
+    "excess": -0.031134823369430964,
+    "pnl": -191.3873851469783
    },
    {
     "id": "star:8cf82021602fbf0d",
@@ -3551,12 +3597,12 @@
     "title": "Viktig å huske at Q3 2025 var nokså middels. Likevel positive tegn totalt sett. #steikjefinegardine",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.05329586619519211,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.05318537887220498,
-    "pnl": 532.958661951921
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.056100979365966364,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.04410489451123323,
+    "pnl": 561.0097936596636
    },
    {
     "id": "star:24877420902749e4",
@@ -3568,12 +3614,12 @@
     "title": "Jeg også har kommet frem til samme konklusjon at det lønner seg å kjøpe Bluenord, men kursen svinger gjennom dage. For ø",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": -0.016544117647058876,
-    "bench_ret": 0.00011048732298712949,
-    "excess": -0.016654604970046005,
-    "pnl": -165.44117647058874
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.0018382352941177516,
+    "bench_ret": 0.011996084854733136,
+    "excess": -0.010157849560615384,
+    "pnl": 18.382352941177516
    },
    {
     "id": "star:145bfdd576fe606f",
@@ -3585,12 +3631,12 @@
     "title": "den skal det, men den vil nok fortsatt hoppe og sprette frem til alle aksjene blir handlbare her",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": -0.06232133601212764,
-    "bench_ret": 0.00011048732298712949,
-    "excess": -0.06243182333511477,
-    "pnl": -623.2133601212764
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": -0.043453415599058465,
+    "bench_ret": 0.011996084854733136,
+    "excess": -0.0554495004537916,
+    "pnl": -434.5341559905846
    },
    {
     "id": "star:941f5a3b1535fd1d",
@@ -3602,12 +3648,12 @@
     "title": "Min GAV er på 201,87, så troa har jeg! Men om den klarer det innen datoen du har satt får tiden vise.",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.077987382996757,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.07787689567376987,
-    "pnl": 779.87382996757
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.08805031446540879,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.07605422961067565,
+    "pnl": 880.5031446540878
    },
    {
     "id": "star:f5e05ece6821298b",
@@ -3619,12 +3665,12 @@
     "title": "Der ja! Over 100, endelig litt bevgelse i Tomra. Jeg tror mellomvalget faller godt ut for Tomra. Kanskje man får oversku",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.03058104023101893,
-    "bench_ret": 0.00011048732298712949,
-    "excess": 0.0304705529080318,
-    "pnl": 305.8104023101893
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.028542335324260648,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.016546250469527513,
+    "pnl": 285.4233532426065
    },
    {
     "id": "star:bc894d917591386e",
@@ -3636,12 +3682,12 @@
     "title": "SEB oppgraderer Höegh Autoliners til kjøp fra hold og hever kursmålet til 207 kroner pr aksje, fra tidligere 132 kroner.",
     "status": "åpen",
     "entry_date": "2026-11-06",
-    "exit_date": "2026-11-11",
-    "days_held": 3,
-    "ret": 0.0,
-    "bench_ret": 0.00011048732298712949,
-    "excess": -0.00011048732298712949,
-    "pnl": 0.0
+    "exit_date": "2026-11-12",
+    "days_held": 4,
+    "ret": 0.028504999006714105,
+    "bench_ret": 0.011996084854733136,
+    "excess": 0.01650891415198097,
+    "pnl": 285.04999006714104
    },
    {
     "id": "star:3f38581afe32ebf0",
@@ -3653,12 +3699,12 @@
     "title": "Fin artikkel i finansavisen om Orkla!  Trenger ikke abonnement. https://www.finansavisen.no/finans/2026/11/04/8388659/ov",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": 0.04228125054857368,
-    "bench_ret": -0.009727927419439175,
-    "excess": 0.052009177968012854,
-    "pnl": 422.8125054857368
+    "exit_date": "2026-11-12",
+    "days_held": 5,
+    "ret": 0.03736482955542009,
+    "bench_ret": 0.0020407475927841645,
+    "excess": 0.03532408196263592,
+    "pnl": 373.6482955542009
    },
    {
     "id": "star:51a305d55b5c0fbc",
@@ -3670,12 +3716,12 @@
     "title": "Pur kvalitet på absolutt alle parametere.",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": 0.002409638554216942,
-    "bench_ret": -0.009727927419439175,
-    "excess": 0.012137565973656117,
-    "pnl": 24.09638554216942
+    "exit_date": "2026-11-12",
+    "days_held": 5,
+    "ret": 0.01686746987951815,
+    "bench_ret": 0.0020407475927841645,
+    "excess": 0.014826722286733984,
+    "pnl": 168.67469879518148
    },
    {
     "id": "star:fc06db206fc2a4bf",
@@ -3687,12 +3733,12 @@
     "title": "He He, sitter rolig i båten, spent på hva Okeanis har å fortelle under Q3. Tror på sterkt Q3 og sterk guiding for Q4. Sk",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": -0.02252816020025028,
-    "bench_ret": -0.009727927419439175,
-    "excess": -0.012800232780811105,
-    "pnl": -225.2816020025028
+    "exit_date": "2026-11-12",
+    "days_held": 5,
+    "ret": 0.026282853566958808,
+    "bench_ret": 0.0020407475927841645,
+    "excess": 0.024242105974174644,
+    "pnl": 262.82853566958806
    },
    {
     "id": "star:cbf6bf173aa547ff",
@@ -3704,12 +3750,12 @@
     "title": "Et par leveregler jeg har: 1.) Børsen er et sted som overfører verdier fra de utålmodige til de tålmodige. 2.) Be fearfu",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": 0.03413545723384881,
-    "bench_ret": -0.009727927419439175,
-    "excess": 0.043863384653287985,
-    "pnl": 341.3545723384881
+    "exit_date": "2026-11-12",
+    "days_held": 5,
+    "ret": 0.040850605352120706,
+    "bench_ret": 0.0020407475927841645,
+    "excess": 0.03880985775933654,
+    "pnl": 408.50605352120704
    },
    {
     "id": "star:4a262265161494f4",
@@ -3721,12 +3767,12 @@
     "title": "Jeg kjøpte i går og fikk den faktisk litt billigere enn kjøpsprisen jeg satte, da handelen gikk inn i sluttaksjonen i gå",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": 0.012903213500976562,
-    "bench_ret": -0.009727927419439175,
-    "excess": 0.022631140920415738,
-    "pnl": 129.03213500976562
+    "exit_date": "2026-11-12",
+    "days_held": 5,
+    "ret": 0.04516133954448076,
+    "bench_ret": 0.0020407475927841645,
+    "excess": 0.043120591951696596,
+    "pnl": 451.6133954448076
    },
    {
     "id": "star:d55f39eeb795967c",
@@ -3738,46 +3784,12 @@
     "title": "TAM vokser! Nisjen blir mer og mer relevant for bedrifter! Pexip effektiviserer! Årevis med sterk cashflow generering li",
     "status": "åpen",
     "entry_date": "2026-11-05",
-    "exit_date": "2026-11-11",
-    "days_held": 4,
-    "ret": -0.021067416633323788,
-    "bench_ret": -0.009727927419439175,
-    "excess": -0.011339489213884613,
-    "pnl": -210.67416633323788
-   },
-   {
-    "id": "star:6aec6895c568d45f",
-    "published": "2026-11-04T07:49:00.543362+00:00",
-    "ticker": "SOMA.OL",
-    "issuer_name": "solstad-maritime-soma-xosl",
-    "role": "@largh",
-    "value_nok": 0,
-    "title": "Utbytte på 1,11 NOK per aksje. Veldig bra!",
-    "status": "åpen",
-    "entry_date": "2026-11-04",
-    "exit_date": "2026-11-11",
+    "exit_date": "2026-11-12",
     "days_held": 5,
-    "ret": 0.024040789646222027,
-    "bench_ret": -0.010231744734997439,
-    "excess": 0.034272534381219466,
-    "pnl": 240.40789646222026
-   },
-   {
-    "id": "star:135e357758315568",
-    "published": "2026-11-04T07:44:12.236241+00:00",
-    "ticker": "SOFF.OL",
-    "issuer_name": "solstad-offshore-soff-xosl",
-    "role": "@allstein",
-    "value_nok": 0,
-    "title": "Dette var vel en veldig bra rapport ? 3 kr i utbytte.",
-    "status": "åpen",
-    "entry_date": "2026-11-04",
-    "exit_date": "2026-11-11",
-    "days_held": 5,
-    "ret": -0.04484585814952691,
-    "bench_ret": -0.010231744734997439,
-    "excess": -0.03461411341452947,
-    "pnl": -448.4585814952691
+    "ret": -0.016853890444890163,
+    "bench_ret": 0.0020407475927841645,
+    "excess": -0.018894638037674327,
+    "pnl": -168.53890444890163
    }
   ],
   "stats": {

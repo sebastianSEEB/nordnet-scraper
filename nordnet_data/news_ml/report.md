@@ -1,33 +1,33 @@
 # Nyhets-ML: paper trading-backtest
 
-Generert 2026-11-11T23:01 UTC · 120 aksjer · 38882 børsmeldinger
-Testperiode (modellen har aldri sett disse dagene): 2021-12-01 → 2026-11-11
+Generert 2026-11-12T22:28 UTC · 120 aksjer · 38911 børsmeldinger
+Testperiode (modellen har aldri sett disse dagene): 2021-12-01 → 2026-11-12
 
 | | ML-strategi | Regel (KOG-mønster) | OSEBX |
 |---|---|---|---|
-| Total avkastning | +20.4 % | +14.8 % | +77.1 % |
-| Årlig (CAGR) | +3.8 % | +2.8 % | +12.2 % |
-| Største fall | -37.4 % | -6.1 % | -16.1 % |
-| Sharpe | 0.30 | 0.63 | 0.88 |
-| Handler | 964 | 64 | – |
-| Treffrate | +51.9 % | +59.4 % | – |
+| Total avkastning | -5.1 % | +13.1 % | +77.1 % |
+| Årlig (CAGR) | -1.1 % | +2.5 % | +12.2 % |
+| Største fall | -33.5 % | -5.7 % | -16.1 % |
+| Sharpe | 0.03 | 0.57 | 0.88 |
+| Handler | 965 | 57 | – |
+| Treffrate | +47.7 % | +56.1 % | – |
 
-**Tilfeldighetstest:** 51.0 % av 300 tilfeldige porteføljer med samme handelsfrekvens endte like godt eller bedre (median tilfeldig: +20.8 %).
+**Tilfeldighetstest:** 72.3 % av 300 tilfeldige porteføljer med samme handelsfrekvens endte like godt eller bedre (median tilfeldig: +13.6 %).
 
-**AUC ut-av-utvalget:** 0.497 (0,50 = mynt­kast) · **IC:** 0.010 (t = 2.8)
+**AUC ut-av-utvalget:** 0.499 (0,50 = mynt­kast) · **IC:** 0.013 (t = 3.5)
 
 ## Viktigste signaler (permutasjon, siste 9 mnd)
 
-- Kursreaksjon på forrige rapport: +0.0058
-- Dager siden kvartalsrapport: +0.0053
-- Omsetning (log): +0.0040
-- Avkastning 120 d: +0.0034
-- Volum-z (20 d mot 60 d): +0.0026
-- Avkastning 60 d: +0.0026
-- Avkastning 5 d: +0.0023
-- Avstand til SMA200: +0.0022
-- Emisjoner/lån 90 d: +0.0011
-- Kursreaksjon på kontrakter 90 d: +0.0010
+- Omsetning (log): +0.0051
+- Kursreaksjon på forrige rapport: +0.0045
+- Dager siden kvartalsrapport: +0.0039
+- Avkastning 60 d: +0.0033
+- Avkastning 120 d: +0.0027
+- Meravkastning 60 d: +0.0024
+- Rang avkastning 60 d: +0.0024
+- Volum-z (20 d mot 60 d): +0.0023
+- Avkastning 5 d: +0.0021
+- Guiding/oppdatering 30 d: +0.0018
 
 ## ⚠ Sentiment-scoringen feiler
 
@@ -35,21 +35,21 @@ Siste forsøk 2026-10-30T12:59: HTTP 400: {"type":"error","error":{"type":"inval
 
 ## Forumsentiment som tillegg
 
-Periode med forumdata: 2026-08-31 → 2026-11-11 (53 handelsdager, 43 med fasit = ca. 4.3 uavhengige 10-dagersperioder).
+Periode med forumdata: 2026-08-31 → 2026-11-12 (54 handelsdager, 44 med fasit = ca. 4.4 uavhengige 10-dagersperioder).
 
 | Signal | Samme dag (reagerer) | Neste 10 dager (forutsier) | p (tilfeldig) |
 |---|---|---|---|
-| Antall innlegg 5 d | 0.011 | -0.009 | 0.814 |
-| Forum-oppmerksomhet mot normalt | -0.006 | 0.01 | 0.812 |
-| Sentiment 5 d | 0.045 | -0.04 | 0.28 |
-| Sentiment 20 d | 0.026 | 0.026 | 0.546 |
-| Stemningen snur (5 d mot 20 d) | 0.049 | -0.039 | 0.264 |
-| Forum positivt mens kursen faller | None | -0.015 | 0.656 |
-| Andel nyhet/analyse-innlegg | 0.015 | -0.004 | 0.938 |
-| Modellscore (uten forum) | -0.096 | -0.012 | 0.758 |
-| Kombinert (modell + forum) | -0.198 | -0.015 | 0.684 |
+| Antall innlegg 5 d | 0.005 | -0.018 | 0.668 |
+| Forum-oppmerksomhet mot normalt | -0.007 | 0.006 | 0.894 |
+| Sentiment 5 d | 0.048 | -0.035 | 0.352 |
+| Sentiment 20 d | 0.027 | 0.027 | 0.512 |
+| Stemningen snur (5 d mot 20 d) | 0.051 | -0.034 | 0.328 |
+| Forum positivt mens kursen faller | None | -0.011 | 0.756 |
+| Andel nyhet/analyse-innlegg | 0.015 | -0.004 | 0.906 |
+| Modellscore (uten forum) | -0.093 | -0.018 | 0.642 |
+| Kombinert (modell + forum) | -0.191 | -0.017 | 0.628 |
 
-Paper trading i perioden: modell alene -1.0 % (38 handler), modell + forum -4.3 % (40 handler), OSEBX -0.5 %. Tilfeldig median -1.6 %.
+Paper trading i perioden: modell alene -3.3 % (40 handler), modell + forum -5.6 % (40 handler), OSEBX -0.5 %. Tilfeldig median -2.3 %.
 
 ## Begrensninger
 
