@@ -1,9 +1,52 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-12T04:49:41.425846+00:00",
+  "scraped_at": "2026-11-12T13:27:29.512782+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ae0f77718cd007e3",
+      "author": "karl30",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karl30",
+      "posted_relative": "for 4 t siden",
+      "text": "Selskapet blir nok kjøpt opp før jul.. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "0cbc4795ab462d32",
+      "author": "@karl30",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karl30",
+      "posted_relative": null,
+      "text": "Holder du på med en gjetningskonkurranse eller ???",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    },
+    {
+      "key": "f4fe563e4e62ce11",
+      "author": "Jmsoborg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jmsoborg",
+      "posted_relative": "for 3 t siden",
+      "text": "·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1,
+      "has_link": false
+    }
+  ]
 }

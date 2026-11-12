@@ -1,9 +1,82 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-11-12T04:53:05.031871+00:00",
+  "scraped_at": "2026-11-12T13:30:52.584454+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "fbf054772fb2453e",
+      "author": "remark",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/remark",
+      "posted_relative": "for 6 t siden",
+      "text": "Fra Nordea: \"This shifts the focus towards the other remaining assets, NESFircroft and AKOFS Offshore, which both hold conservative book values relative to peers and fundamental earnings. We estimate an updated fair SOTP-based NAV of NOK 23, which assumes NESFircroft and HMH at discounted peer multiples. We apply a 10% discount to the fair NAV to factor in the duration and unwinding aspect of the crystallisation, deriving a trimmed, risked fair NAV-based target price of NOK 21 (23).\" Greit å ha i bakhodet at kursmålet nedjusteres mindre enn utbyttet, dvs at de ser mer verdi nå enn de gjorde da de satte kursmål 23.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 621,
+      "has_link": false
+    },
+    {
+      "key": "ca5a5fbe0bdc5cd7",
+      "author": "GalleriSAMR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gallerisamr",
+      "posted_relative": "for 3 t siden",
+      "text": "Burde ikke Nordnet få inn utbytteinformasjonen (ex-dag og størrelse på utbyttet) i \"utbytte-boksen\" ovenfor forumet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
+      "has_link": false
+    },
+    {
+      "key": "8b6cb6225758dd95",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 8 t siden",
+      "text": "· SEB senker kursmålet for Akastor til 14,50 norske kroner (17,50), gjentar kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "6cb71457a053035f",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 7 t siden",
+      "text": "· Nordea senker kursmålet for Akastor til 21 norske kroner (23), gjentar kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "113547c7b1432a24",
+      "author": "Barolo_0105",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barolo_0105",
+      "posted_relative": "for 3 t siden",
+      "text": "· Er der nå.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,40 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-12T04:50:14.502940+00:00",
+  "scraped_at": "2026-11-12T13:28:01.408034+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9aaaa2ec6238625e",
+      "author": "DrDrago",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
+      "posted_relative": "for 6 t siden",
+      "text": "· Burde være en positiv faktor. Selskapet vil ha gode rapporter fremover på disse brent-nivåene og med fordoblet produksjon. Oppdateringer rundt funnet vil sannsynligvis bli diskontert til om det er en farm-out-avtale på gang, deretter prøveboringer og strømningsrapporter fra disse.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 283,
+      "has_link": false
+    },
+    {
+      "key": "02f55e424d338d3f",
+      "author": "Henning83",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henning83",
+      "posted_relative": "for 1 t siden",
+      "text": "Q4 guiding er feil. Skal være 2,1-2,5 millioner fat.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    }
+  ]
 }

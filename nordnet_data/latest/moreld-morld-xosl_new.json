@@ -1,9 +1,23 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-11-12T04:51:51.478867+00:00",
+  "scraped_at": "2026-11-12T13:29:38.247088+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dc15c3ac2a86a36f",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": "for 1 t siden",
+      "text": "Synes Moreld-aksjen viser stor styrke. Kanskje vi ikke skal så mye lenger ned før aksjen løfter seg videre?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    }
+  ]
 }

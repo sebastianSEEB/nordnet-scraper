@@ -1,9 +1,40 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-11-12T04:49:50.878545+00:00",
+  "scraped_at": "2026-11-12T13:27:37.442615+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f76297e90648f7a1",
+      "author": "Myragubben",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myragubben",
+      "posted_relative": null,
+      "text": "8. nov. Blir spennende å følge med, for i USA dekkes nå shortposisjoner innen Tech inn igjen. Stemmer det at 10% av aksjene i NOD er shortet så blir det veldig interessant å se når de skaø kjøoes tilbake. https://www.finansavisen.no/finans/2026/11/07/8394101/tech-raset-big-short-legenden-casher-inn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/07/8394101/tech-raset-big-short-legenden-casher-inn"
+      ],
+      "char_count": 299,
+      "has_link": true
+    },
+    {
+      "key": "98ec0dbd49e6da6c",
+      "author": "PelleRagnar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pelleragnar",
+      "posted_relative": "for 3 t siden",
+      "text": "Nå er Google Pixel Tag i salg, og litt spent på om noen snart foretar en «teardown»…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-11-12T04:50:10.426066+00:00",
+  "scraped_at": "2026-11-12T13:27:57.495217+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dbfdefa1686c1660",
+      "author": "Skurken1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skurken1",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg tar litt risiko, men en kalkulert risiko som jeg med stor sansynlighet aldri vil angre på",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    }
+  ]
 }

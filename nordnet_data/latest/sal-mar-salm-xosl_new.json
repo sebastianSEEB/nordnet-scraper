@@ -1,9 +1,27 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-12T04:52:14.543075+00:00",
+  "scraped_at": "2026-11-12T13:30:01.874651+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9573152f984d774e",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": "for 5 t siden",
+      "text": "\"Fjerner laksetollen: Norge vil inn i gigantmarked Norsk laks får tollfri adgang til Brasil, der Chile dominerer markedet. Nå setter Norges sjømatråd inn støtet for å sikre norske eksportører en større del av lakseimporten.\" https://www.finansavisen.no/sjomat/2026/11/12/8395179/fjerner-laksetollen-norge-vil-inn-i-gigantmarked",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/11/12/8395179/fjerner-laksetollen-norge-vil-inn-i-gigantmarked"
+      ],
+      "char_count": 327,
+      "has_link": true
+    }
+  ]
 }

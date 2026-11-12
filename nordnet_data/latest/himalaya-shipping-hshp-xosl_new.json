@@ -1,9 +1,56 @@
 {
   "slug": "himalaya-shipping-hshp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/himalaya-shipping-hshp-xosl",
-  "scraped_at": "2026-11-12T04:48:53.280855+00:00",
+  "scraped_at": "2026-11-12T13:26:43.890851+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2b29f599e3a05de2",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 4 t siden",
+      "text": "· 136-170 det er et ganske bredt spenn i hvordan man ser på framtiden . Ja ja  Er bare å sitte rolig i båten om ikke engang de velbetalte \"proffene\" kan spå framtiden så kan jeg det enda mindre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 193,
+      "has_link": false
+    },
+    {
+      "key": "1e2a4776e9313a01",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 6 t siden",
+      "text": "· Det er sprikende kursmål som Rapporteres inn nå i morgentimene Analytikerne virker ikke helt enige",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "3cd9b6230e411bbc",
+      "author": "alph",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alph",
+      "posted_relative": "for 39 min siden",
+      "text": "· 12 Nov BCI 40,357 +1,232 MTD 35,665 YTD 33,631 2026 FFA 39,000 2027 FFA 32,000 $HSHP",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    }
+  ]
 }

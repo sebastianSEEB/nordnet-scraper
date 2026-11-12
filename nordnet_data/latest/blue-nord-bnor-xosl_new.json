@@ -1,9 +1,25 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-12T04:49:46.156490+00:00",
+  "scraped_at": "2026-11-12T13:27:33.500230+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7f810cc4432a7d25",
+      "author": "Phingoc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phingoc",
+      "posted_relative": "for 2 t siden",
+      "text": "1 BNOR aksje = 9,71 VAR aksjer pluss 90,11kr  (9,71 * 1,368kr) + 76,83kr Har man 100 BNOR aksjer, så får man 971 VAR aksjer og 9011 NOK.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    }
+  ]
 }

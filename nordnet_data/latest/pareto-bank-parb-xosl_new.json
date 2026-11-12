@@ -1,9 +1,43 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-12T04:54:50.198276+00:00",
+  "scraped_at": "2026-11-12T13:32:37.555833+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7bd57ccc64e70649",
+      "author": "Huckleberryfinn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huckleberryfinn",
+      "posted_relative": "for 2 t siden",
+      "text": "· https://newsweb.oslobors.no/message/686311 Et styremedlem solgte hver eneste posisjon han hadde i Pareto. Noen idéer om hvorfor?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        6
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/686311"
+      ],
+      "char_count": 130,
+      "has_link": true
+    },
+    {
+      "key": "ecc7671e93f79468",
+      "author": "mfas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mfas",
+      "posted_relative": "for 42 min siden",
+      "text": "63% av PB's utlån er eiendomsrelatert (ref. Q3 presentasjon). Styremedlemmet som dumper sine aksjer er tilknyttet eiendomsbransjen (i følge Finansavisen). Eiendomssjefen i samme selskap (Merkantilbygg, Pål Gundersen) har også solgt alle sine PB-aksjer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 252,
+      "has_link": false
+    }
+  ]
 }

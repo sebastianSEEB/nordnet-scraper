@@ -1,9 +1,36 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-12T04:52:18.297171+00:00",
+  "scraped_at": "2026-11-12T13:30:05.898267+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c6ff74c9bfdfc508",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Du bestemmer deg for en pris du mener er god. Faller det under den da så kjøper du mere naturligvis. Kr 65 er stopp. Over det blir det å sitte i ro. Faller den under kjøpes mere hvis man har likviditet til det.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 210,
+      "has_link": false
+    },
+    {
+      "key": "40d72fb02a4f00fb",
+      "author": "AliceInWonderland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aliceinwonderland",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg gikk tungt inn på 54,4kr. Nå er det bare for meg å sitte stille i båten så lenge som mulig.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    }
+  ]
 }

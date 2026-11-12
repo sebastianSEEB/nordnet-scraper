@@ -1,9 +1,51 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-12T04:50:18.370026+00:00",
+  "scraped_at": "2026-11-12T13:28:05.653364+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "42cc0fd2c7e01eb8",
+      "author": "KingKrypt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kingkrypt",
+      "posted_relative": "for 4 t siden",
+      "text": "Spørsmål til dere som driver med TA! Jeg følger en del med på motstandsnivåer via volumprofilen, og slik jeg ser det nå har vi brutt gjennom en ganske stor volumprofil. Men dette avhenger jo veldig av hvor langt tilbake i tid man setter volumprofilen. Jeg har foreløpig satt startdatoen til 10.10.2023, rett før korreksjonen. Hva tenker dere om dette utgangspunktet? Ville dere brukt samme periode, eller valgt noe annet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 421,
+      "has_link": false
+    },
+    {
+      "key": "d872bcc7c7fc2440",
+      "author": "Zickmode",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zickmode",
+      "posted_relative": "for 5 t siden",
+      "text": "Envipco har siste årene vannet ut aksjonærene kraftig. Det er nok det mest sannsynlige scenarioet at de fortsetter med. Konkurs er veldig usannsynlig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "d44e684e5aa8047f",
+      "author": "Green Living Athletics",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/green-living-athletics",
+      "posted_relative": "for 3 t siden",
+      "text": "Bruker selv 6-12 mnd når jeg tenker teknisk lenger. Hva mener du med \"volumprofilen\". At du bruker volum som trendsetter?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    }
+  ]
 }

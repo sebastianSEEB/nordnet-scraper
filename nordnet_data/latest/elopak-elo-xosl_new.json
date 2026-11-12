@@ -1,9 +1,52 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-12T04:51:47.666930+00:00",
+  "scraped_at": "2026-11-12T13:29:34.282669+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "94f4a904adf51305",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 5 t siden",
+      "text": "Dnb fond har troa  og på kort tid doblet aksjesits ut fra siste investorliste . Tett på 5%  .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "d5865c59c4560acb",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser ut til at det pusher gjennom den tekniske sperren nå .  Det er på tide :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "14ab833a9e2e0b27",
+      "author": "HFalck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hfalck",
+      "posted_relative": "for 53 min siden",
+      "text": "blir å fylle på litt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

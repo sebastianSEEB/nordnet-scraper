@@ -1,9 +1,53 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-12T04:49:58.499077+00:00",
+  "scraped_at": "2026-11-12T13:27:45.671605+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ddf8de0cb73f0af1",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 31 min siden",
+      "text": "Det sier vel noe om i overkant nevrotiske aksjeeiere. Jeg tror at den daglige handelen i Link domineres av en god del retail-aksjonærer som ikke alltid reagerer like rasjonelt på ulike meldinger som kommer. De profesjonelle sitter mer i ro og gjør lite med sine aksjer i selskapet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 281,
+      "has_link": false
+    },
+    {
+      "key": "d1ff05652200f836",
+      "author": "Andyviking",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andyviking",
+      "posted_relative": "for 2 t siden",
+      "text": "Er så utrolig hvordan denne aksjen har en evne til å falle på kjøpsanbefaling:( Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 99,
+      "has_link": false
+    },
+    {
+      "key": "9e952be262bc07ce",
+      "author": "Thomas2738",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thomas2738",
+      "posted_relative": null,
+      "text": "8. nov. Hvaler Invest solgte 500.000 aksjer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }
