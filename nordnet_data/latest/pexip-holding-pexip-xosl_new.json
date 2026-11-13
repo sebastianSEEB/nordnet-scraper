@@ -1,70 +1,37 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-11-13T14:57:43.943410+00:00",
+  "scraped_at": "2026-11-13T18:19:43.178595+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a7a34b7fe607873f",
-      "author": "Inbestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": null,
-      "text": "9. nov. Kjøpsanbefalingene hyler inn, men hva speler det for rolle når den fortsatt... 🤷",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        5
-      ],
-      "links": [],
-      "char_count": 88,
-      "has_link": false
-    },
-    {
-      "key": "7adadaa2657ab3cb",
-      "author": "gstandre1997",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gstandre1997",
-      "posted_relative": null,
-      "text": "9. nov. 5 eller 5,5 kr. Mulig mindre og tilbakekjøp om aksjen faller videre",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 75,
-      "has_link": false
-    },
-    {
-      "key": "66b38ce23528a9a5",
-      "author": "Wian",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wian",
-      "posted_relative": "for 2 t siden",
-      "text": "Innsidekjøp fra CEO er aldri feil. God helg snart! :)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 53,
-      "has_link": false
-    },
-    {
-      "key": "f0a63926b0651dbf",
+      "key": "e470e5cba8c36db2",
       "author": "gstandre1997",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gstandre1997",
       "posted_relative": "for 2 t siden",
-      "text": "CEO øker skin in the game! Betryggende fra ledelsen.",
+      "text": "Drahjelp fra Microsoft for å holde veksten i S&C oppe kvartalene som kommer? https://techwatch.no/nyheter/strategi/article19834122.ece",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
+      "engagement_numbers": [],
+      "links": [
+        "https://techwatch.no/nyheter/strategi/article19834122.ece"
       ],
+      "char_count": 134,
+      "has_link": true
+    },
+    {
+      "key": "102a1f62d85d5546",
+      "author": "ydkd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ydkd",
+      "posted_relative": "for 12 min siden",
+      "text": "småbeløp......!?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 52,
+      "char_count": 16,
       "has_link": false
     }
   ]

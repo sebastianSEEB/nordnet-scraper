@@ -1,24 +1,52 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-13T14:56:06.022228+00:00",
+  "scraped_at": "2026-11-13T18:18:05.179769+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "760912d92b0a84d3",
-      "author": "Oksenn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oksenn",
-      "posted_relative": "for 1 t siden",
-      "text": "Økte utbytter og et kursmål på 150kr!  Kjøpe før det er for sent, få med utbytte og oppgang 🐂",
+      "key": "a6f61d866eb5d65b",
+      "author": "mohalj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
+      "posted_relative": "for 3 t siden",
+      "text": "DOF GROUP: Pareto øker kursmålet til NOK 150 (148), gjentar kjøp. DNB gjentar kjøp og NOK 150.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        3
       ],
       "links": [],
-      "char_count": 93,
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "1ec2a0f471270128",
+      "author": "TwistedFox",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/twistedfox",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvor long tenker dere som er her. Bra rapport, skuffende markedreaksjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "cdbcb6759376aafb",
+      "author": "lakafanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lakafanten",
+      "posted_relative": "for 2 t siden",
+      "text": "Her får man avkastning i form av utbytter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
       "has_link": false
     }
   ]

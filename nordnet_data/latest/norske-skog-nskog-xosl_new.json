@@ -1,9 +1,23 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-11-13T14:58:28.223108+00:00",
+  "scraped_at": "2026-11-13T18:20:26.517866+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "734fe56dc3ababca",
+      "author": "Flyver",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/flyver",
+      "posted_relative": "for 2 t siden",
+      "text": "Utrolig svak for tiden, om ikke der snart kommer positive meldinger blir vi hengende på dette nivået hverfall til neste qtalls rapport",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    }
+  ]
 }
