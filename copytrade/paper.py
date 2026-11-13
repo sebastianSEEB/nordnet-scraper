@@ -23,6 +23,17 @@ Strategi 2 - STJERNEBRUKERE (kun live, ingen backtest)
     bruker som har 3 stjerner nå hadde ikke nødvendigvis det for et år siden.
     Derfor bare forover-paper-trading fra første kjøring.
 
+Strategi 3 - KOMBINERT (kun forover, låst 2026-11-13, se copytrade/KOMBINERT.md)
+    Samme handler som hovedstrategien, men med en score:
+        score = 1 + 0,5 x stjerne-enighet
+    Stjerne-enighet = minst ett positivt innlegg (samme regel som strategi 2)
+    fra en 3-stjerners bruker om aksjen, publisert innen de 10 siste
+    handelsdagene før innsidehandelens inngang. Score 1,5 = 15 000 kr i stedet
+    for 10 000. Kombinasjonen kan bare endre størrelsen, aldri legge til handler.
+    Testen: har handler MED stjerne-enighet høyere meravkastning enn handler
+    UTEN? Vurderes først ved 100 lukkede handler, og krever t >= 3.
+    Ingen parametre skal justeres etterpå - feiler den, droppes den.
+
 Ledger (nordnet_data/copytrade/ledger.json) husker når hvert signal ble sett
 FØRSTE gang. "Ekte live"-tallene bruker kun signaler sett etter oppstart, så
 de kan ikke være pyntet i ettertid.
@@ -65,6 +76,12 @@ HOLDS = [5, 20, 60]
 MAIN = ("senior_500k", 20)
 STAR_MIN_SENT = 0.3
 STAR_HOLD = 20
+
+# Kombinert strategi - LÅST 2026-11-13. Ikke endre disse etter at resultater er sett.
+COMBO_BONUS = 0.5       # score = 1 + COMBO_BONUS * stjerne-enighet
+COMBO_WINDOW = 10       # handelsdager før inngang et stjerneinnlegg teller
+COMBO_REVIEW_N = 100    # vurderes først når så mange kombinerte handler er lukket
+COMBO_T_HURDLE = 3.0    # t-verdi som kreves for å si at stjerne-enighet hjelper
 
 
 # ------------------------------------------------------------------ kurser
@@ -254,6 +271,69 @@ def star_signals(universe_slugs):
     return posts, summary
 
 
+# ------------------------------------------------------------------ kombinert
+def star_index(star_sig, cal, slug_to_ticker):
+    """{ticker: [(første handelsdag innlegget kunne vært brukt, bruker), ...]}"""
+    out = {}
+    for p in star_sig:
+        tk = slug_to_ticker.get(p["slug"])
+        if tk and p.get("posted_at"):
+            out.setdefault(tk, []).append((entry_index(cal, p["posted_at"]), p["user"]))
+    return out
+
+
+def combo_trades(trades, stars_by_ticker, cal, ledger):
+    """Hovedstrategiens handler med stjerne-enighet og score. Enigheten låses i
+    ledgeren første gang handelen har en inngangsdato, så senere innlegg eller
+    endrede stjerner ikke kan flytte en handel i ettertid."""
+    frozen = ledger.setdefault("combo_flags", {})
+    out = []
+    for t in trades:
+        key = f"insider:{t['id']}"
+        if key in frozen:
+            users = frozen[key]
+        else:
+            i = int(cal.searchsorted(pd.Timestamp(t["entry_date"]))) if t.get("entry_date") else len(cal)
+            # k <= i: innlegget var publisert før åpningen vi handlet på (ingen titting fremover)
+            users = sorted({u for k, u in stars_by_ticker.get(t["ticker"], []) if i - COMBO_WINDOW < k <= i})
+            if t.get("entry_date"):
+                frozen[key] = users
+        agree = bool(users)
+        score = 1 + COMBO_BONUS * agree
+        rec = {**t, "star_agree": agree, "star_users": users, "score": score, "stake": STAKE * score}
+        if t.get("ret") is not None:
+            rec["pnl_main"] = t["pnl"]
+            rec["pnl"] = float(STAKE * score * t["ret"])
+        out.append(rec)
+    return out
+
+
+def combo_stats(trades):
+    """Testen: meravkastning for handler MED stjerne-enighet minus handler UTEN (Welch t)."""
+    closed = [t for t in trades if t["status"] == "lukket" and t.get("excess") is not None]
+    yes = np.array([t["excess"] for t in closed if t["star_agree"]])
+    no = np.array([t["excess"] for t in closed if not t["star_agree"]])
+    t_diff = None
+    if len(yes) > 1 and len(no) > 1:
+        se = math.sqrt(yes.var(ddof=1) / len(yes) + no.var(ddof=1) / len(no))
+        if se > 0:
+            t_diff = float((yes.mean() - no.mean()) / se)
+    ready = len(closed) >= COMBO_REVIEW_N
+    return {
+        "n": len(closed), "n_open": sum(t["status"] == "åpen" for t in trades),
+        "n_flagged": int(len(yes)),
+        "n_flagged_open": sum(t["status"] == "åpen" and t["star_agree"] for t in trades),
+        "avg_excess_flagged": float(yes.mean()) if len(yes) else None,
+        "avg_excess_unflagged": float(no.mean()) if len(no) else None,
+        "diff": float(yes.mean() - no.mean()) if len(yes) and len(no) else None,
+        "t_diff": t_diff,
+        "pnl_combo": float(sum(t["pnl"] for t in closed)),
+        "pnl_main": float(sum(t["pnl_main"] for t in closed)),
+        "review_at_n": COMBO_REVIEW_N, "t_hurdle": COMBO_T_HURDLE, "ready_for_review": ready,
+        "passed": bool(ready and t_diff is not None and t_diff >= COMBO_T_HURDLE),
+    }
+
+
 # ------------------------------------------------------------------ ledger
 def load_ledger():
     if os.path.exists(LEDGER):
@@ -313,6 +393,12 @@ def main():
                       & (sdf["published"] >= ledger["started_at"])].sort_values("published")
             star_trades = run_trades(sdf, opn, STAR_HOLD)
 
+    # Kombinert: bare innsidesignaler sett første gang ETTER at kombinasjonen ble låst
+    combo_start = ledger.setdefault("combo_started_at", datetime.now(timezone.utc).isoformat())
+    combo_base = [t for t in main_trades if t["first_seen"] >= combo_start
+                  and (t["published"] or "") >= combo_start[:10]]
+    combo = combo_trades(combo_base, star_index(star_sig, cal, slug_to_ticker), cal, ledger)
+
     results = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "price_last_date": str(cal[-1].date()) if len(cal) else None,
@@ -327,6 +413,11 @@ def main():
                  "live_stats": stats(live), "live_trades": live[-30:][::-1]},
         "stars": {**star_summary, "recent_posts": star_posts[:40], "trades": star_trades[::-1][:30],
                   "stats": stats(star_trades)},
+        "combo": {"label": "Kombinert: innsidekjøp, 1,5x størrelse ved stjerne-enighet",
+                  "started_at": combo_start, "bonus": COMBO_BONUS, "window": COMBO_WINDOW,
+                  "stats": combo_stats(combo),
+                  "open": [t for t in combo if t["status"] in ("åpen", "venter")][::-1],
+                  "recent_closed": [t for t in combo if t["status"] == "lukket"][-30:][::-1]},
     }
     with open(os.path.join(OUT_DIR, "results.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=1, default=str)
@@ -334,6 +425,9 @@ def main():
         json.dump(ledger, f, indent=1)
     m = results["main"]["stats"]
     print(f"Hovedstrategi ({MAIN}): {m}")
+    c = results["combo"]["stats"]
+    print(f"Kombinert (fra {combo_start[:10]}): lukket={c['n']} med enighet={c['n_flagged']} "
+          f"diff={c['diff']} t={c['t_diff']} (vurderes ved {COMBO_REVIEW_N})")
     for k, v in variants.items():
         print(f"  {k:18s} n={v.get('n', 0):4d}  snitt={v.get('avg_ret', 0) or 0:+.2%}  "
               f"mer={v.get('avg_excess') or 0:+.2%}  t={v.get('t_stat') or 0:.2f}")
