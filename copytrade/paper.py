@@ -34,6 +34,12 @@ Strategi 3 - KOMBINERT (kun forover, låst 2026-11-13, se copytrade/KOMBINERT.md
     UTEN? Vurderes først ved 100 lukkede handler, og krever t >= 3.
     Ingen parametre skal justeres etterpå - feiler den, droppes den.
 
+Strategi 4 - FORUM-SIGNALER FOROVER (låst 2026-11-13, se copytrade/FORUM.md)
+    De samme 8 testene som backtesten av forum-innlegg (3/2/0-1 stjerner, positivt
+    og negativt, hold 5 og 20 dager), nå kjørt forover. Stjerner og sentiment fryses
+    i forum_signals.jsonl når systemet ser innlegget, og inngang er første åpning
+    etter det. Slik fjernes skjevheten i backtesten, som brukte dagens stjerner.
+
 Ledger (nordnet_data/copytrade/ledger.json) husker når hvert signal ble sett
 FØRSTE gang. "Ekte live"-tallene bruker kun signaler sett etter oppstart, så
 de kan ikke være pyntet i ettertid.
@@ -82,6 +88,27 @@ COMBO_BONUS = 0.5       # score = 1 + COMBO_BONUS * stjerne-enighet
 COMBO_WINDOW = 10       # handelsdager før inngang et stjerneinnlegg teller
 COMBO_REVIEW_N = 100    # vurderes først når så mange kombinerte handler er lukket
 COMBO_T_HURDLE = 3.0    # t-verdi som kreves for å si at stjerne-enighet hjelper
+
+# Forum-signaler forover - LÅST 2026-11-13 (se copytrade/FORUM.md). Samme 8 tester som
+# backtesten, alle rapporteres, ingen legges til eller fjernes etter at resultater er sett.
+FORUM_TESTS = [
+    ("T1", "3 stjerner, positivt innlegg", (3,), "pos", 5),
+    ("T2", "3 stjerner, positivt innlegg", (3,), "pos", 20),
+    ("T3", "2 stjerner, positivt innlegg", (2,), "pos", 5),
+    ("T4", "2 stjerner, positivt innlegg", (2,), "pos", 20),
+    ("T5", "0-1 stjerner, positivt (kontroll)", (0, 1), "pos", 5),
+    ("T6", "0-1 stjerner, positivt (kontroll)", (0, 1), "pos", 20),
+    ("T7", "3 stjerner, negativt innlegg", (3,), "neg", 5),
+    ("T8", "3 stjerner, negativt innlegg", (3,), "neg", 20),
+]
+FORUM_SENT = 0.3          # positivt >= 0,3, negativt <= -0,3
+FORUM_REVIEW_N = 100      # en test vurderes først når så mange handler er lukket
+FORUM_T_HURDLE = 3.0      # t på ukesnitt som kreves
+FORUM_LOG = os.path.join(OUT_DIR, "forum_signals.jsonl")
+# Backtest 2026-08-03 til 2026-11-12 med DAGENS stjerner (skjevt i favør av 3 stjerner).
+# Bare til sammenligning: {test: (snitt meravkastning, t på ukesnitt)}
+FORUM_BACKTEST = {"T1": (0.0041, 1.09), "T2": (0.0150, 0.74), "T3": (-0.0026, -1.60), "T4": (-0.0002, -0.59),
+                  "T5": (-0.0022, -1.47), "T6": (0.0017, -1.56), "T7": (-0.0066, -1.63), "T8": (0.0083, 0.59)}
 
 
 # ------------------------------------------------------------------ kurser
@@ -345,6 +372,94 @@ def combo_stats(trades):
     }
 
 
+# ------------------------------------------------------------------ forum-signaler
+def freeze_forum_signals(started_at, slug_to_ticker):
+    """Legger nye, sentiment-scorede innlegg til i forum_signals.jsonl (bare tillegg, aldri endring).
+    Stjerner og sentiment fryses slik de var DA systemet så innlegget, så senere
+    stjerneendringer eller ny scoring ikke kan flytte et signal i ettertid."""
+    known = set()
+    if os.path.exists(FORUM_LOG):
+        for line in open(FORUM_LOG, encoding="utf-8"):
+            if line.strip():
+                known.add(json.loads(line)["key"])
+    profiles = json.load(open(os.path.join(OUT_DIR, "profiles.json"), encoding="utf-8")) \
+        if os.path.exists(os.path.join(OUT_DIR, "profiles.json")) else {}
+    scores = {}
+    sp = os.path.join(DATA_DIR, "sentiment", "scores.jsonl")
+    if os.path.exists(sp):
+        for line in open(sp, encoding="utf-8"):
+            if line.strip():
+                s = json.loads(line)
+                if s.get("model", "regel") != "regel" and s.get("sentiment") is not None:
+                    scores[s["key"]] = s["sentiment"]
+    from archive_posts import iter_archive
+    now = datetime.now(timezone.utc).isoformat()
+    new = []
+    for p in iter_archive(DATA_DIR):
+        posted = p.get("posted_at") or p.get("scraped_at")
+        if not posted or posted < started_at or p["key"] in known or p["key"] not in scores:
+            continue
+        tk = slug_to_ticker.get(p.get("slug"))
+        if not tk:
+            continue
+        user = (p.get("profile_url") or "").rstrip("/").rsplit("/", 1)[-1]
+        prof = profiles.get(user, {})
+        known.add(p["key"])
+        new.append({"key": p["key"], "posted_at": posted, "frozen_at": now, "ticker": tk, "user": user,
+                    "stars": prof.get("stars") if prof.get("checked_at") else None,
+                    "sent": round(float(scores[p["key"]]), 3)})
+    if new:
+        with open(FORUM_LOG, "a", encoding="utf-8") as f:
+            for r in new:
+                f.write(json.dumps(r, ensure_ascii=False) + "\n")
+    return len(new)
+
+
+def weekly_t(trades):
+    """t-verdi på ukesnitt (inngangsuke), fordi handler som overlapper i tid ikke er uavhengige."""
+    closed = [t for t in trades if t["status"] == "lukket" and t.get("excess") is not None]
+    if len(closed) < 3:
+        return None, 0
+    df = pd.DataFrame(closed)
+    w = df.groupby(pd.to_datetime(df["entry_date"]).dt.to_period("W"))["excess"].mean()
+    if len(w) < 3 or w.std(ddof=1) == 0:
+        return None, int(len(w))
+    return float(w.mean() / (w.std(ddof=1) / math.sqrt(len(w)))), int(len(w))
+
+
+def forum_tests(opn):
+    """Kjører de 8 låste testene på de frosne signalene. Inngang = første åpning ETTER at
+    systemet så innlegget (frozen_at), så vi aldri handler på en åpning som allerede har vært."""
+    rows = []
+    if os.path.exists(FORUM_LOG):
+        rows = [json.loads(l) for l in open(FORUM_LOG, encoding="utf-8") if l.strip()]
+    sig = pd.DataFrame([r for r in rows if r["stars"] is not None and r["ticker"] in opn])
+    out = []
+    for tid, label, groups, side, hold in FORUM_TESTS:
+        trades = []
+        if not sig.empty:
+            g = sig[sig["stars"].isin(groups)]
+            g = g[g["sent"] >= FORUM_SENT] if side == "pos" else g[g["sent"] <= -FORUM_SENT]
+            if not g.empty:
+                g = pd.DataFrame({"id": "forum:" + g["key"], "published": g["frozen_at"], "ticker": g["ticker"],
+                                  "issuer_name": g["ticker"], "role": "@" + g["user"], "value_nok": 0,
+                                  "title": "", "sort": g["frozen_at"]}).sort_values("sort")
+                trades = run_trades(g, opn, hold)
+        s = stats(trades)
+        tw, weeks = weekly_t(trades)
+        bt = FORUM_BACKTEST.get(tid, (None, None))
+        out.append({"test": tid, "label": label, "hold": hold, **s, "t_weekly": tw, "weeks": weeks,
+                    "open_now": sum(t["status"] == "åpen" for t in trades),
+                    # flere innlegg om samme aksje gir bare én handel, så tell aksjer, ikke innlegg
+                    "pending": len({t["ticker"] for t in trades if t["status"] == "venter"}
+                                   - {t["ticker"] for t in trades if t["status"] == "åpen"}),
+                    "ready_for_review": s.get("n", 0) >= FORUM_REVIEW_N,
+                    "passed": bool(s.get("n", 0) >= FORUM_REVIEW_N and tw is not None
+                                   and (tw >= FORUM_T_HURDLE if side == "pos" else tw <= -FORUM_T_HURDLE)),
+                    "backtest_avg_excess": bt[0], "backtest_t_weekly": bt[1]})
+    return out, len(rows)
+
+
 # ------------------------------------------------------------------ ledger
 def load_ledger():
     if os.path.exists(LEDGER):
@@ -410,6 +525,11 @@ def main():
                   and (t["published"] or "") >= combo_start[:10]]
     combo = combo_trades(combo_base, star_index(star_sig, cal, slug_to_ticker), cal, ledger)
 
+    # Forum-signaler forover: de 8 backtest-testene, med stjerner frosset da innlegget ble sett
+    forum_start = ledger.setdefault("forum_started_at", datetime.now(timezone.utc).isoformat())
+    n_new_forum = freeze_forum_signals(forum_start, slug_to_ticker)
+    forum, n_forum = forum_tests(opn)
+
     results = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "price_last_date": str(cal[-1].date()) if len(cal) else None,
@@ -429,6 +549,9 @@ def main():
                   "stats": combo_stats(combo),
                   "open": [t for t in combo if t["status"] in ("åpen", "venter")][::-1],
                   "recent_closed": [t for t in combo if t["status"] == "lukket"][-30:][::-1]},
+        "forum_tests": {"started_at": forum_start, "signals_logged": n_forum, "signals_new": n_new_forum,
+                        "sent_threshold": FORUM_SENT, "review_at_n": FORUM_REVIEW_N,
+                        "t_hurdle": FORUM_T_HURDLE, "tests": forum},
     }
     with open(os.path.join(OUT_DIR, "results.json"), "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=1, default=str)
@@ -439,6 +562,10 @@ def main():
     c = results["combo"]["stats"]
     print(f"Kombinert (fra {combo_start[:10]}): lukket={c['n']} med enighet={c['n_flagged']} "
           f"diff={c['diff']} t={c['t_diff']} (vurderes ved {COMBO_REVIEW_N})")
+    print(f"Forum-signaler (fra {forum_start[:10]}): {n_forum} logget, {n_new_forum} nye")
+    for f_ in forum:
+        print(f"  {f_['test']} {f_['label']:34s} {f_['hold']:2d} d  lukket={f_.get('n', 0):4d} "
+              f"åpne={f_['open_now']:3d}  mer={f_.get('avg_excess') or 0:+.2%}  t_uke={f_['t_weekly']}")
     for k, v in variants.items():
         print(f"  {k:18s} n={v.get('n', 0):4d}  snitt={v.get('avg_ret', 0) or 0:+.2%}  "
               f"mer={v.get('avg_excess') or 0:+.2%}  t={v.get('t_stat') or 0:.2f}")
