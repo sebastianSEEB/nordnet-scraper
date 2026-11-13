@@ -1,9 +1,68 @@
 {
   "slug": "veidekke-vei-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/veidekke-vei-xosl",
-  "scraped_at": "2026-11-13T02:18:54.333485+00:00",
+  "scraped_at": "2026-11-13T10:20:39.065676+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "7aa2fb939cf5b5d6",
+      "author": "Kong__kurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kong__kurs",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Solgte meg ned litt i september ifjor på 165 for da tenkte jeg da har man fått ut maksimalt av aksjen på ei stund. Så feil kan man ta. Nå begynner det å bli gøy å eie denne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 173,
+      "has_link": false
+    },
+    {
+      "key": "8a614968eb7a4879",
+      "author": "ElseNordnet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elsenordnet",
+      "posted_relative": "for 3 t siden",
+      "text": "God rapport - leverer stabilt og solid gang på gang. Veldig glad for å ha en slik hjørnestein i porteføljen 😊💪🏻 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11,
+        5
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    },
+    {
+      "key": "7868e65d7b421334",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 1 t siden",
+      "text": "Litt gøy å eie en aksje der analytikerne hele tiden  må \"løpe etter\" aksjekursen med kursmålene sine :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "beb7e4c1eb1852b0",
+      "author": "Armoa Invest LTD",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/armoa-invest-ltd",
+      "posted_relative": "for 1 t siden",
+      "text": "Ansatt salg på nyåret.  Blir 3000 nye da..",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

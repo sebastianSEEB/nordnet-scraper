@@ -1,9 +1,53 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-13T02:20:44.380435+00:00",
+  "scraped_at": "2026-11-13T10:22:31.868936+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "84a6b4e376fb9841",
+      "author": "Ophon",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ophon",
+      "posted_relative": "for 1 t siden",
+      "text": "Altså jeg klager aldri når jeg går i butikken og finner varer i butikken som er billigere enn jeg forventer 😆",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "f5d74b3cebf1f042",
+      "author": "Benja016",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benja016",
+      "posted_relative": "for 2 t siden",
+      "text": "Oljeprisen opp over 2 % men liten reaksjon i kursen….. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "2c06812d2541b8ca",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 2 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

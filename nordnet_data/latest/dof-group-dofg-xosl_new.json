@@ -1,9 +1,84 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-13T02:17:35.242118+00:00",
+  "scraped_at": "2026-11-13T10:19:19.345382+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "fe40fc4cbdbe9df7",
+      "author": "Erinor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erinor",
+      "posted_relative": "for 4 t siden",
+      "text": "I går etter stengetid ble det handlet 7 mill aksjer - verdi rett under 900 mill😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "870fc783b940069c",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": "for 2 t siden",
+      "text": "Pareto øker kursmål fra 148 til 150 og gjentar kjøp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "00f245757a6d4eb6",
+      "author": "alexen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alexen",
+      "posted_relative": "for 45 min siden",
+      "text": "Når kom denne fra PAR ? I dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    },
+    {
+      "key": "4bfc3fd635c2ba2f",
+      "author": "Zozo6",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zozo6",
+      "posted_relative": "for 1 t siden",
+      "text": "· Når er x-dagen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    },
+    {
+      "key": "b2db7fcf05ee2f29",
+      "author": "Stian O L",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stian-o-l",
+      "posted_relative": "for 1 t siden",
+      "text": "· 20. november.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,38 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-13T02:17:46.484471+00:00",
+  "scraped_at": "2026-11-13T10:19:30.793053+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "3529ab4dc11eecf8",
+      "key": "67d3e6b173f70e20",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 44 min siden",
+      "text": "Kjøpsmulighet? Vurderer å dytte flere sjetonger på bordet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        5
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "6d5add250c8d3e9b",
       "author": "Henry226",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henry226",
-      "posted_relative": "for 2 t siden",
-      "text": "Teknologiselskapet Norbit la frem tall for tredje kvartal torsdag: Inntektene kom inn på 676,7 millioner kroner, opp fra 505,4 i tilsvarende kvartal i fjor. Resultatet før skatt var på 92 millioner kroner, opp fra 69 millioner i tredje kvartal i 2025. Driftsresultatet var på 115,5 millioner, sammenlignet med 75,4 millioner i fjorårets tredje kvartal. – Alle forretningssegmentene bidro til vekst i kvartalet, noe som viser styrken og robustheten i vår forretningsmodell med diversifiserte virksomhetsområder, sier konsernsjef Per Jørgen Weisethaunet i en uttalelse",
+      "posted_relative": "for 9 min siden",
+      "text": "· Det bør du! 🎉",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 566,
+      "char_count": 15,
       "has_link": false
     }
   ]

@@ -1,9 +1,38 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-13T02:22:07.983528+00:00",
+  "scraped_at": "2026-11-13T10:23:55.848967+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3bac392d4bfcc33a",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 24 min siden · Endret",
+      "text": "Insider har jo kjøpt for 2.4 milliarder. Kursen blir beveget av miniputt volum som representerer 0,.00001% av aksjene. Så det er tulle kurs. Vil den gå opp?. Ja selvsagt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 170,
+      "has_link": false
+    },
+    {
+      "key": "5ec6eb8f860a602f",
+      "author": "Fiskestank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "posted_relative": "for 2 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

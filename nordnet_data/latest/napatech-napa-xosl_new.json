@@ -1,9 +1,23 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-13T02:18:24.404434+00:00",
+  "scraped_at": "2026-11-13T10:20:09.157444+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9631d422427ae7d2",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": "for 9 min siden",
+      "text": "· noen positive nyheter fra bransjen Cerebras-aksjen beveger seg endelig i riktig retning på bakgrunn av rapporten i går \"Vi overgikk prognosene våre over hele linjen for tredje kvartal på rad og leverte sekvensielle forbedringer på alle kjernefinansielle metrikker,\" sa Bob Komin, finansdirektør i Cerebras. \"Vi vant nye stjernekunder, inkludert hyperscalers, neoclouds og store bedrifter. Og vi så pipelinen vår for høyhastighets-AI-inferens øke med mer enn 10x i kvartalet.\" La oss håpe vi snart kan lese noe lignende fra D-Matrix",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 533,
+      "has_link": false
+    }
+  ]
 }

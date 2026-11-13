@@ -1,9 +1,52 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-13T02:22:15.882765+00:00",
+  "scraped_at": "2026-11-13T10:24:03.331228+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "bf7cc21e6bd1adea",
+      "author": "MaxAlwaysMax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "posted_relative": "for 2 t siden",
+      "text": "Arctic senker kursmålet for General Oceans til 25 norske kroner (30), gjentar kjøpsanbefaling – BN",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "55aba5df43e3e2eb",
+      "author": "DagArne",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dagarne",
+      "posted_relative": "for 1 t siden",
+      "text": "Står det noe om omsetninsmål og EBITDA I rapporten?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "b5a32deb86e7dd36",
+      "author": "luskefanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luskefanten",
+      "posted_relative": "for 1 t siden",
+      "text": "· bunnlinjen er et bevegelig mål",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

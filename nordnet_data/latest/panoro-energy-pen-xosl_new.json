@@ -1,22 +1,41 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-13T02:17:27.381826+00:00",
+  "scraped_at": "2026-11-13T10:19:11.368745+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "03e8927e9414bc07",
-      "author": "Henning83",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henning83",
-      "posted_relative": "for 3 t siden",
-      "text": "Regner du oppkjøp med i FCFE DrDrago? Det er jo en form for investering.  Er temmelig sikker på at de vil betale ned på obligasjonslånet når de får så mye cash på bok etter Q4.",
-      "reply_count": null,
+      "key": "389965687821fa7a",
+      "author": "DrDrago",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
+      "posted_relative": "for 46 min siden",
+      "text": "· En vennlig sjel påpekte at antall løft var for lavt for 2027. Oppdatert til 20.000 fat om dagen. God fredag til dere! :) https://www.finansavisen.no/forum/thread/212595/uppdaterar-2026-ars-siffror-per-estimat-om-23-miljoner-lyft-q4",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/forum/thread/212595/uppdaterar-2026-ars-siffror-per-estimat-om-23-miljoner-lyft-q4"
+      ],
+      "char_count": 233,
+      "has_link": true
+    },
+    {
+      "key": "624593f8ac13cd47",
+      "author": "DrDrago",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/drdrago",
+      "posted_relative": "for 48 min siden",
+      "text": "· Hei igjen! En vennlig sjel merket seg at produksjonen var for lav for 2027. Oppdaterte til 20.000 fat om dagen og Voila. Det er oppdatert i linken, men legger ved et bilde fra 2027 her. God fredag alle sammen!",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 176,
+      "char_count": 211,
       "has_link": false
     }
   ]

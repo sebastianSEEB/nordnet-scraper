@@ -1,9 +1,38 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-13T02:17:16.244272+00:00",
+  "scraped_at": "2026-11-13T10:18:59.552771+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "542dd8d7dfcd81eb",
+      "author": "heltsjef",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heltsjef",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvis de ikke snart kommer med melding om hva de skal bruke pengene fra lånet til, vil kursen fortsette å synke. Aksjemarkedet hater usikkerhet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    },
+    {
+      "key": "ac331b1aa08758d4",
+      "author": "artige",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/artige",
+      "posted_relative": "for 1 t siden",
+      "text": "Helt riktig. Stort oppslag nå i FA med farlig aksje. Da skal den videre ned.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    }
+  ]
 }

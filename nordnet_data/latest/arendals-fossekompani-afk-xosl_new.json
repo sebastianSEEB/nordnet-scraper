@@ -1,9 +1,23 @@
 {
   "slug": "arendals-fossekompani-afk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/arendals-fossekompani-afk-xosl",
-  "scraped_at": "2026-11-13T02:21:26.338026+00:00",
+  "scraped_at": "2026-11-13T10:23:14.446419+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a482643cee6b63df",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 1 t siden",
+      "text": "Nytt forsøk i dag....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

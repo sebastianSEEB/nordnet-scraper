@@ -1,9 +1,25 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-11-13T02:18:34.980763+00:00",
+  "scraped_at": "2026-11-13T10:20:20.246054+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4fbaf3a4ae9833f5",
+      "author": "sQruf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sqruf",
+      "posted_relative": null,
+      "text": "9. nov. Hva gjorde at dere valgte å kjøpe denne aksjen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

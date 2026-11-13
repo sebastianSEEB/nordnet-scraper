@@ -1,9 +1,53 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-13T02:17:12.629645+00:00",
+  "scraped_at": "2026-11-13T10:18:55.607086+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "5cc942cda0572ce5",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 1 t siden",
+      "text": "Etter min mening er Link nå en sikker aksje og sitte i. Etter Jensen Huang sitt sidesprang noe som sendte Nvida rett vest er selskapet det samme. Fr link som er godt drevet med et solid kvartal bak oss og en kvartals rapport som komunierer økte marginer fremover. Med et solid tilbakekjøp av aksjer i kvartal 1 mener jeg caset er solid. Dagens prisen relekterer på ingen måte verdiene og fremtids utsiktene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 407,
+      "has_link": false
+    },
+    {
+      "key": "c164ee40e3680eb4",
+      "author": "KapteinTruse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kapteintruse",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Ble det en ny runde med tilbakekjøp? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 56,
+      "has_link": false
+    },
+    {
+      "key": "222ec0a7bf673bc0",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 1 t siden",
+      "text": "Kfr side 8 i Q3-presentasjonen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

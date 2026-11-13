@@ -1,22 +1,80 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-11-13T02:16:08.213381+00:00",
+  "scraped_at": "2026-11-13T10:17:50.684215+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "aa4aac6ebcaa7961",
-      "author": "abc123456789",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/abc123456789",
-      "posted_relative": "for 4 t siden",
-      "text": "· nei sannsynligvis 15",
+      "key": "9099d86480e69225",
+      "author": "Dd007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dd007",
+      "posted_relative": "for 1 t siden",
+      "text": "· Er det noen som kort kan forklare meg denne aksjen? Har akkurat kjøpt litt i den, men synes ikke det gir mening. Takk på forhånd! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 151,
+      "has_link": false
+    },
+    {
+      "key": "e49bdc22f0943e39",
+      "author": "staalel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/staalel",
+      "posted_relative": "for 19 t siden",
+      "text": "Hvorfor går den opp? Er jo dømt nord og ned pga utvanningsemisjonen. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "deb82823aa1de512",
+      "author": "Dd007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dd007",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Hva skyldes det store fallet, og lønner det seg å investere i den?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "00790eec8eaac915",
+      "author": "Stordal_inv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stordal_inv",
+      "posted_relative": "for 25 min siden",
+      "text": "· Klassisk vacuum-case!👍",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 22,
+      "char_count": 24,
+      "has_link": false
+    },
+    {
+      "key": "443ca93a573efd53",
+      "author": "abc123456789",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/abc123456789",
+      "posted_relative": "for 2 t siden",
+      "text": "· 🚀 go’morgen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 13,
       "has_link": false
     }
   ]

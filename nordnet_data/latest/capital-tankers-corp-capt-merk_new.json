@@ -1,9 +1,39 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-13T02:16:57.247885+00:00",
+  "scraped_at": "2026-11-13T10:18:40.036244+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cd071fe7f482e369",
+      "author": "McapVenture",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mcapventure",
+      "posted_relative": "for 3 t siden",
+      "text": "Suez fortsetter fallet, men Aframax begynner å flate ut ? ihvertfall mindre fall nå enn tidligere. ( 12.11.26 ) SUEZ TCE AVG  -18k to 228k ned 7,8% AFRA TCE AVG -2k to 144k ned 1,4% Både FRO og CAPT er ned 12% siste 30 dager, men OET har holdt seg sterkere med ned 6%.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 268,
+      "has_link": false
+    },
+    {
+      "key": "5aa8999b842d51f2",
+      "author": "Chinchilling",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chinchilling",
+      "posted_relative": "for 3 t siden",
+      "text": "Kilder til TCE AVG?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

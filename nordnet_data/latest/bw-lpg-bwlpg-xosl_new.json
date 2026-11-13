@@ -1,9 +1,42 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-11-13T02:15:56.797541+00:00",
+  "scraped_at": "2026-11-13T10:17:38.840500+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "db10793b7408f020",
+      "author": "MrCointaner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrcointaner",
+      "posted_relative": "for 2 t siden",
+      "text": "· BW LPG Limited kunngjør salg av BW Mistral https://www.placera.se/telegram/avanza/16_08aa1f61-3e26-4948-af01-817e62c27e50.html",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [
+        "https://www.placera.se/telegram/avanza/16_08aa1f61-3e26-4948-af01-817e62c27e50.html"
+      ],
+      "char_count": 128,
+      "has_link": true
+    },
+    {
+      "key": "fd45d7dc0ab0b7b1",
+      "author": "Aksjehandler_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjehandler-2",
+      "posted_relative": "for 16 min siden",
+      "text": "PAS øker BWLPG til 273 (262)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

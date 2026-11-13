@@ -1,9 +1,39 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-11-13T02:15:44.698557+00:00",
+  "scraped_at": "2026-11-13T10:17:26.763913+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "52d2927c0ee5b303",
+      "author": "Barcelona1986",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcelona1986",
+      "posted_relative": "for 2 t siden",
+      "text": "Har Aristides rett, snur ratene oppover igjen snarlig.  Nivået fra oktober var umulig, oljen ble kort og godt for dyr.  Vi ser jo hvordan eksporten fra USA har stupt.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 166,
+      "has_link": false
+    },
+    {
+      "key": "28372f5c83710f92",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 17 t siden",
+      "text": "ECO en del høyere enn Oslo. Man får ta med seg det positive og.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

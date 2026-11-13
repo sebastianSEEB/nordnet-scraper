@@ -1,9 +1,23 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-11-13T02:17:38.830228+00:00",
+  "scraped_at": "2026-11-13T10:19:23.253670+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "07037ae6bda865d6",
+      "author": "Brainhart",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/brainhart",
+      "posted_relative": "for 29 min siden",
+      "text": "Det vanlige er sma 200 vs SMA50. Det skjedde for en måned siden. Momentum er litt fallende.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    }
+  ]
 }

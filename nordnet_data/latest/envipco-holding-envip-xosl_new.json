@@ -1,9 +1,40 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-11-13T02:22:34.905099+00:00",
+  "scraped_at": "2026-11-13T10:24:22.036389+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f759d6288cbcce2b",
+      "author": "RudderGain",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruddergain",
+      "posted_relative": "for 2 t siden",
+      "text": "Jeg har begynt å følge denne, og har vel egentlig planer om å gå inn, men er usikker på kjøpstidspunkt. Ser at kontantene har falt fra 59,9 til 18,0 MEUR i rapporten, og det blir vurdert en risiko for nytt brudd på lånekrav ved årsskiftet.  Hva er menigheten sin vurdering av dette? Klarer de å få nok inntekter fremover slik at vi unngår emisjon rundt årsskiftet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 364,
+      "has_link": false
+    },
+    {
+      "key": "91350818ecb30a72",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 2 t siden",
+      "text": "Kommer ikke til å være noe risiko. Samme skjedde i fjor. De har en vill ordrebok for 27, så bankene kommer ikke til å kreve noen emisjon.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 137,
+      "has_link": false
+    }
+  ]
 }

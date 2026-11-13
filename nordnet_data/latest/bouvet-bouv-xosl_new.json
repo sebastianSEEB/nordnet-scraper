@@ -1,9 +1,40 @@
 {
   "slug": "bouvet-bouv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bouvet-bouv-xosl",
-  "scraped_at": "2026-11-13T02:18:50.489727+00:00",
+  "scraped_at": "2026-11-13T10:20:35.157646+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d4e901bb0615f9a6",
+      "author": "AaronTheCat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aaronthecat",
+      "posted_relative": "for 1 t siden",
+      "text": "ABG Sundal Collier oppgraderte Bouvet fra Hold til Kjøp og hevet kursmålet til 65 NOK fra 50 NOK. Pareto Securities økte sitt kursmål for Bouvet til 52 NOK fra 50 NOK, og opprettholder en Hold-anbefaling. ABG påpeker at Bouvet sannsynligvis har passert bunnen etter seks kvartaler på rad med fallende utnyttelsesgrad og driftsresultat. Et stort underpresterende markedssegment som falt 25 % i 2026, forventes å hente seg inn igjen, noe som vil støtte inntektsveksten innen 2027.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 478,
+      "has_link": false
+    },
+    {
+      "key": "54c17b801574a26a",
+      "author": "Batty",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/batty-2",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Cup and handle... en formasjon med potensiale mot 60...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

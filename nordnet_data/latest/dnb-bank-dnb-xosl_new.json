@@ -1,9 +1,25 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-13T02:20:36.640465+00:00",
+  "scraped_at": "2026-11-13T10:22:24.095942+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "85beb9dc30dfd697",
+      "author": "Oggiwara1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oggiwara1",
+      "posted_relative": "for 1 t siden",
+      "text": "AI søppel fra en nystartet \"børs kanal\"...",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

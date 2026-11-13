@@ -1,9 +1,41 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-13T02:20:47.980152+00:00",
+  "scraped_at": "2026-11-13T10:22:35.766336+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "93fe7b8372f85b78",
+      "author": "akmg",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
+      "posted_relative": "for 2 t siden",
+      "text": "SB1 Markets reduserte sitt kursmål for Telenor til 135 NOK fra 165 NOK, samtidig som de opprettholder en nøytral anbefaling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    },
+    {
+      "key": "7f5d746489587d86",
+      "author": "Lillehaavard",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillehaavard",
+      "posted_relative": "for 1 t siden",
+      "text": "Bare fint det! Får telenor handlet aksjer på 135kr kontra 165. Tenk hvor mye det har å si på utbyttene de neste årene.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    }
+  ]
 }

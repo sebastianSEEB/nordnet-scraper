@@ -1,9 +1,39 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-13T02:19:24.754502+00:00",
+  "scraped_at": "2026-11-13T10:21:11.517485+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e8c4c5999cdce5bb",
+      "author": "Supra2jzgte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supra2jzgte",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvilken mnd fremmover pleier å være best i lakse eksport?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    },
+    {
+      "key": "b3ca4d82fdbb3b55",
+      "author": "refsky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/refsky",
+      "posted_relative": "for 3 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }
