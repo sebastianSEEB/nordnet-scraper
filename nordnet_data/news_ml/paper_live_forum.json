@@ -1,40 +1,7 @@
 {
  "started": "2026-10-30",
- "cash": 0.0,
+ "cash": 38497.18303,
  "positions": [
-  {
-   "ticker": "ENDUR.OL",
-   "signal_date": "2026-10-30",
-   "entry_date": "2026-11-02",
-   "entry_px": 19.403928,
-   "shares": 642.911052,
-   "cost": 12500.0,
-   "held": 9,
-   "p": 1.0,
-   "last_px": 22.068442
-  },
-  {
-   "ticker": "HAUTO.OL",
-   "signal_date": "2026-10-30",
-   "entry_date": "2026-11-02",
-   "entry_px": 182.399994,
-   "shares": 68.393643,
-   "cost": 12500.0,
-   "held": 9,
-   "p": 0.989796,
-   "last_px": 177.699997
-  },
-  {
-   "ticker": "NSKOG.OL",
-   "signal_date": "2026-10-30",
-   "entry_date": "2026-11-02",
-   "entry_px": 35.950001,
-   "shares": 347.009728,
-   "cost": 12500.0,
-   "held": 9,
-   "p": 0.979592,
-   "last_px": 36.299999
-  },
   {
    "ticker": "NHY.OL",
    "signal_date": "2026-11-03",
@@ -42,9 +9,9 @@
    "entry_px": 65.720001,
    "shares": 190.453241,
    "cost": 12541.670554,
-   "held": 7,
+   "held": 8,
    "p": 1.0,
-   "last_px": 69.339996
+   "last_px": 68.459999
   },
   {
    "ticker": "DOFG.OL",
@@ -53,9 +20,9 @@
    "entry_px": 129.100006,
    "shares": 96.952646,
    "cost": 12541.670554,
-   "held": 7,
+   "held": 8,
    "p": 0.989474,
-   "last_px": 128.399994
+   "last_px": 127.099998
   },
   {
    "ticker": "SOMA.OL",
@@ -64,9 +31,9 @@
    "entry_px": 28.450001,
    "shares": 439.95033,
    "cost": 12541.670554,
-   "held": 7,
+   "held": 8,
    "p": 0.978947,
-   "last_px": 27.75
+   "last_px": 27.35
   },
   {
    "ticker": "BRG.OL",
@@ -75,9 +42,9 @@
    "entry_px": 156.0,
    "shares": 80.851603,
    "cost": 12638.126342,
-   "held": 6,
+   "held": 7,
    "p": 1.0,
-   "last_px": 156.800003
+   "last_px": 155.600006
   },
   {
    "ticker": "YAR.OL",
@@ -86,13 +53,72 @@
    "entry_px": 385.100006,
    "shares": 31.712252,
    "cost": 12236.861996,
-   "held": 6,
+   "held": 7,
    "p": 0.989583,
-   "last_px": 406.100006
+   "last_px": 406.399994
   }
  ],
- "pending": [],
- "closed": [],
+ "pending": [
+  {
+   "ticker": "NSKOG.OL",
+   "signal_date": "2026-11-13",
+   "alloc": 12669.912941,
+   "p": 1.0
+  },
+  {
+   "ticker": "PRS.OL",
+   "signal_date": "2026-11-13",
+   "alloc": 12669.912941,
+   "p": 0.978495
+  },
+  {
+   "ticker": "OKEA.OL",
+   "signal_date": "2026-11-13",
+   "alloc": 12669.912941,
+   "p": 0.967742
+  }
+ ],
+ "closed": [
+  {
+   "ticker": "ENDUR.OL",
+   "signal_date": "2026-10-30",
+   "entry_date": "2026-11-02",
+   "entry_px": 19.403928,
+   "shares": 642.911052,
+   "cost": 12500.0,
+   "held": 10,
+   "p": 1.0,
+   "last_px": 22.099789,
+   "exit_date": "2026-11-13",
+   "ret": 0.134383
+  },
+  {
+   "ticker": "HAUTO.OL",
+   "signal_date": "2026-10-30",
+   "entry_date": "2026-11-02",
+   "entry_px": 182.399994,
+   "shares": 68.393643,
+   "cost": 12500.0,
+   "held": 10,
+   "p": 0.989796,
+   "last_px": 176.399994,
+   "exit_date": "2026-11-13",
+   "ret": -0.036759
+  },
+  {
+   "ticker": "NSKOG.OL",
+   "signal_date": "2026-10-30",
+   "entry_date": "2026-11-02",
+   "entry_px": 35.950001,
+   "shares": 347.009728,
+   "cost": 12500.0,
+   "held": 10,
+   "p": 0.979592,
+   "last_px": 35.450001,
+   "exit_date": "2026-11-13",
+   "ret": -0.017849
+  }
+ ],
  "equity": [
   {
    "date": "2026-10-30",
@@ -133,7 +159,11 @@
   {
    "date": "2026-11-12",
    "equity": 102357.293385
+  },
+  {
+   "date": "2026-11-13",
+   "equity": 101359.303526
   }
  ],
- "last_date": "2026-11-12"
+ "last_date": "2026-11-13"
 }
