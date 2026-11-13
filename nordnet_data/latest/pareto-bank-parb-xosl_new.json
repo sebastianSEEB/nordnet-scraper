@@ -1,25 +1,40 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-13T10:23:44.017147+00:00",
+  "scraped_at": "2026-11-13T15:00:37.571432+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "7d369c02b232cada",
-      "author": "Fruen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fruen",
-      "posted_relative": "for 44 min siden",
-      "text": "Interessant inside-transaksjon. Håkon Astrup var i mange år kåret til landets beste megler inntil han sluttet i DNB. Han var sammen med Vegard Toverud (nå CFO i banken) de to eneste analytikerne som fulgte Pareto Bank. Begge har kjøpt relativt store poster de siste dagene. https://www.nordnet.no/market/news/c2e28e52-855d-4cc2-aede-2fd4e6aa3851",
+      "key": "32faff71f7aac7a3",
+      "author": "Henry226",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henry226",
+      "posted_relative": "for 30 min siden",
+      "text": "Kjøpte første gang litt her i dag.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [
-        "https://www.nordnet.no/market/news/c2e28e52-855d-4cc2-aede-2fd4e6aa3851"
+      "engagement_numbers": [
+        2
       ],
-      "char_count": 345,
-      "has_link": true
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    },
+    {
+      "key": "09f5b392b3890f86",
+      "author": "Leroen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leroen",
+      "posted_relative": "for 3 t siden",
+      "text": "Kjøper inn første posisjon nå 🥳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
     }
   ]
 }

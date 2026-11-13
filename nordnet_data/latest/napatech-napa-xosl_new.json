@@ -1,22 +1,41 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-13T10:20:09.157444+00:00",
+  "scraped_at": "2026-11-13T14:56:57.015154+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9631d422427ae7d2",
-      "author": "tug of war",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
-      "posted_relative": "for 9 min siden",
-      "text": "· noen positive nyheter fra bransjen Cerebras-aksjen beveger seg endelig i riktig retning på bakgrunn av rapporten i går \"Vi overgikk prognosene våre over hele linjen for tredje kvartal på rad og leverte sekvensielle forbedringer på alle kjernefinansielle metrikker,\" sa Bob Komin, finansdirektør i Cerebras. \"Vi vant nye stjernekunder, inkludert hyperscalers, neoclouds og store bedrifter. Og vi så pipelinen vår for høyhastighets-AI-inferens øke med mer enn 10x i kvartalet.\" La oss håpe vi snart kan lese noe lignende fra D-Matrix",
+      "key": "cc3dc0bc3b1c4d54",
+      "author": "myrekroken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myrekroken",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/teknologi/2026/11/13/8395624/sissener-selger-alt-i-norsk-ai-aksje Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/11/13/8395624/sissener-selger-alt-i-norsk-ai-aksje"
+      ],
+      "char_count": 113,
+      "has_link": true
+    },
+    {
+      "key": "7af4ee5599ca6512",
+      "author": "Sapper71",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sapper71",
+      "posted_relative": "for 51 min siden",
+      "text": "Kan virke som det er sammenhenger mellom graden av nevrotisme og volalitet. Venter spent på 2027 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 533,
+      "char_count": 98,
       "has_link": false
     }
   ]

@@ -1,39 +1,57 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-11-13T10:24:22.036389+00:00",
+  "scraped_at": "2026-11-13T15:01:16.552630+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "f759d6288cbcce2b",
-      "author": "RudderGain",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruddergain",
-      "posted_relative": "for 2 t siden",
-      "text": "Jeg har begynt å følge denne, og har vel egentlig planer om å gå inn, men er usikker på kjøpstidspunkt. Ser at kontantene har falt fra 59,9 til 18,0 MEUR i rapporten, og det blir vurdert en risiko for nytt brudd på lånekrav ved årsskiftet.  Hva er menigheten sin vurdering av dette? Klarer de å få nok inntekter fremover slik at vi unngår emisjon rundt årsskiftet?",
+      "key": "964a91b2ddf4e2ae",
+      "author": "Mikoner",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mikoner",
+      "posted_relative": "for 4 t siden",
+      "text": "Envipco expands UK retail reach through additional preferred supplier agreement https://storage.mfn.se/a6a1bf2b-31c5-47a5-b3d1-51b313149806/envipco-expands-uk-retail-reach-through-additional-preferred-supplier-agreement.pdf Til dere som lurte på hvorfor vi fikk litt dra hjelp:) Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        10,
+        4
       ],
-      "links": [],
-      "char_count": 364,
-      "has_link": false
+      "links": [
+        "https://storage.mfn.se/a6a1bf2b-31c5-47a5-b3d1-51b313149806/envipco-expands-uk-retail-reach-through-additional-preferred-supplier-agreement.pdf"
+      ],
+      "char_count": 298,
+      "has_link": true
     },
     {
-      "key": "91350818ecb30a72",
-      "author": "StortTap 2.0",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
-      "posted_relative": "for 2 t siden",
-      "text": "Kommer ikke til å være noe risiko. Samme skjedde i fjor. De har en vill ordrebok for 27, så bankene kommer ikke til å kreve noen emisjon.",
-      "reply_count": 3,
+      "key": "df6fa870b6e32d7a",
+      "author": "MortenRev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortenrev",
+      "posted_relative": "for 4 t siden",
+      "text": "Her vil det kunne selges masse Flex maskiner, som også er tungt insentivert fra myndighetene 🥳",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 137,
+      "char_count": 94,
+      "has_link": false
+    },
+    {
+      "key": "7f13b37813d636dc",
+      "author": "StortTap 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/storttap-20",
+      "posted_relative": "for 3 t siden",
+      "text": "Tja kommentaren min var ganske nøyaktig her, mot jul ble til i dag!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 67,
       "has_link": false
     }
   ]

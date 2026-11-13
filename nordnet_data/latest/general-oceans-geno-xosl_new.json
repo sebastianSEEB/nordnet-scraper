@@ -1,51 +1,54 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-13T10:24:03.331228+00:00",
+  "scraped_at": "2026-11-13T15:00:57.002833+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
+  "total_posts_on_page": 9,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "bf7cc21e6bd1adea",
-      "author": "MaxAlwaysMax",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "key": "1869052a0ae23117",
+      "author": "Herremedbart",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herremedbart",
       "posted_relative": "for 2 t siden",
-      "text": "Arctic senker kursmålet for General Oceans til 25 norske kroner (30), gjentar kjøpsanbefaling – BN",
+      "text": "· Short? https://www.mfn.se/ob/a/general-oceans/geno-flagging-i-general-oceans-asa-4640dae6.iframe?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
+        1
+      ],
+      "links": [
+        "https://www.mfn.se/ob/a/general-oceans/geno-flagging-i-general-oceans-asa-4640dae6.iframe?"
+      ],
+      "char_count": 99,
+      "has_link": true
+    },
+    {
+      "key": "f4606ea7cd81c6a5",
+      "author": "Pelle J69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pelle-j69",
+      "posted_relative": "for 3 t siden",
+      "text": "· Jeg har vært med i denne siden noteringen og har også fylt på med mer. Jeg tviler ikke på at den har en god framtid, og når jeg får løs penger i nærheten av tid, vil jeg fylle på da prisnivåene per aksje er veldig attraktive for tiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 98,
+      "char_count": 237,
       "has_link": false
     },
     {
-      "key": "55aba5df43e3e2eb",
-      "author": "DagArne",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dagarne",
-      "posted_relative": "for 1 t siden",
-      "text": "Står det noe om omsetninsmål og EBITDA I rapporten?",
+      "key": "1db13da7ef09c3b4",
+      "author": "MaxAlwaysMax",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/maxalwaysmax",
+      "posted_relative": "for 2 t siden",
+      "text": "Ja tilsvarer 2.500.000 kroner",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 51,
-      "has_link": false
-    },
-    {
-      "key": "b5a32deb86e7dd36",
-      "author": "luskefanten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luskefanten",
-      "posted_relative": "for 1 t siden",
-      "text": "· bunnlinjen er et bevegelig mål",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 32,
+      "char_count": 29,
       "has_link": false
     }
   ]

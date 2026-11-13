@@ -1,9 +1,40 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-11-13T10:23:10.835523+00:00",
+  "scraped_at": "2026-11-13T15:00:03.262524+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "37ef97e395e40e17",
+      "author": "olveh643",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olveh643",
+      "posted_relative": "for 2 t siden",
+      "text": "Lagt til i FA sin innsideportefølje https://www.finansavisen.no/finans/2026/11/13/8395542/naermer-seg-oslo-bors-legger-mer-energi-i-potten",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/13/8395542/naermer-seg-oslo-bors-legger-mer-energi-i-potten"
+      ],
+      "char_count": 138,
+      "has_link": true
+    },
+    {
+      "key": "9772d8388b94fc38",
+      "author": "iversen_",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iversen-1",
+      "posted_relative": "for 12 min siden",
+      "text": "Investor Kristian Falnes prater litt om investeringen sin i Bonheur i podcasten StockUp episode 150. Fra ca 42 min - 49 min.  For dere som er interesserte!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    }
+  ]
 }

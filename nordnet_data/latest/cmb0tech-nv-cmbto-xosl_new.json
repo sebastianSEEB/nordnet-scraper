@@ -1,9 +1,55 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-11-13T10:18:36.392548+00:00",
+  "scraped_at": "2026-11-13T14:55:21.212070+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b044056b07be939d",
+      "author": "cab4me",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cab4me",
+      "posted_relative": "for 2 t siden",
+      "text": "Baltic dry var i går opp for 7.ende dag på rad. Burde vel straks begynne klatringen mot 200 igjen. Under 2 uker nå så får vi resultatet fra Q3, og håpet bør jo være å slå følge med Himalaya sine resultater.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 206,
+      "has_link": false
+    },
+    {
+      "key": "6c03c5c3fc57d60a",
+      "author": "Sky is the limit",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sky-is-the-limit",
+      "posted_relative": null,
+      "text": "9. nov. Baltic Dry-indeksen starter uken med en oppgang på nesten to prosent.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "1692ceccb8e16a6d",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 41 min siden",
+      "text": "Ja nesten forundret over at den ikke har gått mer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

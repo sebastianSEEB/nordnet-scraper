@@ -1,9 +1,54 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-11-13T10:21:57.620876+00:00",
+  "scraped_at": "2026-11-13T14:58:47.548869+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8f87c1ac6c7c0b48",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 4 t siden",
+      "text": "Det tynnes ut på selgersiden. Får vi et rykk snart? Kurs nå 150,-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "2375f56cc86d0cc7",
+      "author": "Erlendboyka",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erlendboyka",
+      "posted_relative": null,
+      "text": "9. nov. Kid går bra syns æ 🤑 m1000rr no snart",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "9b9df59cdbc5509e",
+      "author": "Erlendboyka",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erlendboyka",
+      "posted_relative": null,
+      "text": "9. nov. Syns æ å 🫨",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

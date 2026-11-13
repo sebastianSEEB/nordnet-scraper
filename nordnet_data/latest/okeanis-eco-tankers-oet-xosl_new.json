@@ -1,38 +1,70 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-11-13T10:17:26.763913+00:00",
+  "scraped_at": "2026-11-13T14:54:09.202575+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "52d2927c0ee5b303",
-      "author": "Barcelona1986",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcelona1986",
-      "posted_relative": "for 2 t siden",
-      "text": "Har Aristides rett, snur ratene oppover igjen snarlig.  Nivået fra oktober var umulig, oljen ble kort og godt for dyr.  Vi ser jo hvordan eksporten fra USA har stupt.",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 166,
-      "has_link": false
-    },
-    {
-      "key": "28372f5c83710f92",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 17 t siden",
-      "text": "ECO en del høyere enn Oslo. Man får ta med seg det positive og.",
+      "key": "9e69c3a1a4a89740",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 3 t siden",
+      "text": "Clarksons litt mer optimistisk enn mine grove tall i går; https://www.finansavisen.no/shipping/2026/11/13/8395592/venter-utbytteboom-fra-okeanis De anslår utbytte på 12,2USD for Q4 og totalt 25,7$ for Q3/26-Q1/27. Jeg var mer konservativ i min tilnærming og forutsatte full normalisering ila Q4 og 11,5USD i Q4 og totalt 22,5USD for Q3/26-Q1/27 For Q2/27-Q4/27 så estimerer de 9,6USD (12,8USD annualisert) hvilket er litt lavere enn min grove tilnærming (10,5USD ut fra 14USD annualisert) - så de tenker vel at Sinokor ikke vil ha så stor effekt. For 2028 så har de 7,3USD (jeg har ikke satt noe lavere tall for 2028 enn 2027 selv om det bør være base-case siden det er da nybyggene begynner å bite, så får vi se hvor mye CII klarer å kompensere). Mer overraskende; artikkelen har OET sin NAV på 775kr/aksje hvilket betyr at P/NAV bare er ca 1,1 (det er dog på historisk idiotisk dyre skipsverdier så NAV kan korrigere kraftig ned)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
-        4
+        4,
+        6
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/11/13/8395592/venter-utbytteboom-fra-okeanis"
+      ],
+      "char_count": 931,
+      "has_link": true
+    },
+    {
+      "key": "fe17b556761958a3",
+      "author": "Kjell100",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjell100",
+      "posted_relative": "for 4 min siden",
+      "text": "OKEANIS `s sjef: \"Koreksjonen er over, og raten vil gå oppover igjen\"! Okeanis CEO sees rates ‘close to the bottom’ after ‘huge’ correction Okeanis has 48% of 4Q26 VLCC spot days booked at $688,800 per day and 60% of 4Q26 suezmax spot days booked at $410,900 per day Correction is ending, and rates will stabilise and go higher again, predicts Okeanis CEO Aristidis Alafouzos He expects the status quo of US-military-protected Hormuz shuttles and Gulf of Oman ship-to-ship transfers to continue https://www.lloydslist.com/LL1159005/Okeanis-CEO-sees-rates-close-to-the-bottom-after-huge-correction",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.lloydslist.com/LL1159005/Okeanis-CEO-sees-rates-close-to-the-bottom-after-huge-correction"
+      ],
+      "char_count": 596,
+      "has_link": true
+    },
+    {
+      "key": "36c488731ad793e3",
+      "author": "knors",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knors",
+      "posted_relative": "for 41 min siden",
+      "text": "· Både NAV, skipseverdier og rater skal vel noe ned over de kommende årene og 44 dollar i transportkostnader per fat olje er jo ikke holdbart på lengre sikt. Men jeg mener neppe at vi skal ned på 50000 per dag for en VLCC igjen. Jeg ser ikke akkurat for meg at de geopolitiske spenningene løser seg i løpet av de neste 3 til 9 månedene, og endelig er vel Sinokor fortsatt en faktor i markedet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
       "links": [],
-      "char_count": 63,
+      "char_count": 393,
+      "has_link": false
+    },
+    {
+      "key": "1f1d426ed5f87bb8",
+      "author": "oselas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oselas",
+      "posted_relative": "for 4 min siden",
+      "text": "Hva skjedde der? Fra 848 til 823 på få minutter?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
       "has_link": false
     }
   ]

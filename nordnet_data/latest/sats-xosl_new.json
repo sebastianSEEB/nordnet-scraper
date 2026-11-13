@@ -1,9 +1,27 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-13T10:21:34.979606+00:00",
+  "scraped_at": "2026-11-13T14:58:24.217201+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f6a51a05c5ab2f39",
+      "author": "kariusogbaktus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
+      "posted_relative": null,
+      "text": "9. nov. · Treningsbransjen set nye rekordar: https://www.nrk.no/artikkel/treningsbransjen-set-nye-rekordar-fleire-prioriterer-trening-1531586 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.nrk.no/artikkel/treningsbransjen-set-nye-rekordar-fleire-prioriterer-trening-1531586"
+      ],
+      "char_count": 161,
+      "has_link": true
+    }
+  ]
 }

@@ -1,41 +1,35 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-11-13T10:17:38.840500+00:00",
+  "scraped_at": "2026-11-13T14:54:22.120178+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
+  "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "db10793b7408f020",
-      "author": "MrCointaner",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrcointaner",
+      "key": "e189f509a2da8ea6",
+      "author": "Mickem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mickem",
       "posted_relative": "for 2 t siden",
-      "text": "· BW LPG Limited kunngjør salg av BW Mistral https://www.placera.se/telegram/avanza/16_08aa1f61-3e26-4948-af01-817e62c27e50.html",
-      "reply_count": null,
+      "text": "· Hyggelig å få en god pris for en skute de kjøpte for en betydelig lavere pris. Men, skal man drive med frakt, så kan man ikke bare selge alle skutene. Å bygge nytt er heller ikke billig for tiden",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [
-        8
-      ],
-      "links": [
-        "https://www.placera.se/telegram/avanza/16_08aa1f61-3e26-4948-af01-817e62c27e50.html"
-      ],
-      "char_count": 128,
-      "has_link": true
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 197,
+      "has_link": false
     },
     {
-      "key": "fd45d7dc0ab0b7b1",
-      "author": "Aksjehandler_",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjehandler-2",
-      "posted_relative": "for 16 min siden",
-      "text": "PAS øker BWLPG til 273 (262)",
+      "key": "e29ec85592db19bd",
+      "author": "ALLVIS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/allvis",
+      "posted_relative": "for 4 t siden",
+      "text": "fra hvor, har du den infoen? finner den ikke under nyheter.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 28,
+      "char_count": 59,
       "has_link": false
     }
   ]

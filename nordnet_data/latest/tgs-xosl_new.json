@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-11-13T10:21:19.797825+00:00",
+  "scraped_at": "2026-11-13T14:58:08.134361+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a1016fc52b3681ee",
+      "author": "Lind2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lind2",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Går TGS i 200 nå før jul ? ... når folk forstår nye ordremuligheter for 2027 ... @",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    }
+  ]
 }

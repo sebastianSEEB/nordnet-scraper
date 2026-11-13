@@ -1,9 +1,23 @@
 {
   "slug": "havila-shipping-havi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/havila-shipping-havi-xosl",
-  "scraped_at": "2026-11-13T10:18:25.420363+00:00",
+  "scraped_at": "2026-11-13T14:55:09.625621+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "42fccb78869bfe1b",
+      "author": "Underdogwins",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/underdogwins",
+      "posted_relative": null,
+      "text": "9. nov. · Hvis du tror på domstolene, blir det en blyballong.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    }
+  ]
 }

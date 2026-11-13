@@ -1,25 +1,88 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-11-13T10:20:46.945428+00:00",
+  "scraped_at": "2026-11-13T14:57:35.981200+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "bce9980a63c20df5",
-      "author": "Knfo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "key": "0305ba0ad179d74b",
+      "author": "Reder",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reder",
       "posted_relative": null,
-      "text": "9. nov. · Endret Moreld fortsetter klatringen og 30-tallet rykker stadig nærmere😊🚀 Vis 1 kommentar til",
+      "text": "9. nov. https://tv.finansavisen.no/nb/watch/9122",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        11,
-        3
+        7,
+        7
+      ],
+      "links": [
+        "https://tv.finansavisen.no/nb/watch/9122"
+      ],
+      "char_count": 48,
+      "has_link": true
+    },
+    {
+      "key": "75dc52774799d6b6",
+      "author": "Venn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/venn",
+      "posted_relative": null,
+      "text": "9. nov. · Endret Med tilbakekjøp som enda en medvind her er det bare å lene seg tilbake og gni seg i hendene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
       ],
       "links": [],
-      "char_count": 102,
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "add7ae6124046624",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": "for 2 t siden",
+      "text": "Er imponert over styrken denne aksjen viser. Her er det viktig å være posisjonert før neste rykk kommer👍😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "4eaa19d5d77139ec",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": null,
+      "text": "9. nov. Jepp og det er mot normalt😊🚀",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "a4dba2f21a793c33",
+      "author": "LukasOtterlei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lukasotterlei",
+      "posted_relative": null,
+      "text": "9. nov. Opp 4% på en ex dag💀",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        18,
+        2
+      ],
+      "links": [],
+      "char_count": 28,
       "has_link": false
     }
   ]
