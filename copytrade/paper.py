@@ -232,6 +232,12 @@ def equity_curve(trades, cal):
 
 
 # ------------------------------------------------------------------ stjernebrukere
+def user_row(u, p):
+    return {"user": u, "stars": p["stars"], "followers": p.get("followers"),
+            "forum_posts": p.get("forum_posts"), "url": p.get("url"),
+            "three_since": p.get("three_since"), "three_streak_checks": p.get("three_streak_checks", 0)}
+
+
 def star_signals(universe_slugs):
     prof_path = os.path.join(OUT_DIR, "profiles.json")
     if not os.path.exists(prof_path):
@@ -265,9 +271,14 @@ def star_signals(universe_slugs):
                "three_star": sum(1 for p in profiles.values() if p.get("stars") == 3),
                "two_star": sum(1 for p in profiles.values() if p.get("stars") == 2),
                "top_users": sorted(
-                   [{"user": u, "stars": p["stars"], "followers": p.get("followers"),
-                     "forum_posts": p.get("forum_posts"), "url": p.get("url")} for u, p in starred.items()],
-                   key=lambda r: (-r["stars"], -(r["followers"] or 0)))[:40]}
+                   [user_row(u, p) for u, p in starred.items()],
+                   key=lambda r: (-r["stars"], -(r["followers"] or 0)))[:40],
+               # Lengst med 3 stjerner (nedre grense: telles fra første gang vi så dem, se stars.py)
+               "veterans": sorted(
+                   [user_row(u, p) for u, p in starred.items() if p.get("stars") == 3 and p.get("three_since")],
+                   key=lambda r: (-r["three_streak_checks"], r["three_since"], -(r["followers"] or 0)))[:50],
+               "history_since": min((p["first_checked_at"] for p in profiles.values()
+                                     if p.get("first_checked_at")), default=None)}
     return posts, summary
 
 

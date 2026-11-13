@@ -11,8 +11,17 @@ Profilene vi sjekker er de som har skrevet i forumet på aksjene i watchlisten
 på nytt etter --recheck-days dager. Kjøres inkrementelt - noen hundre profiler
 per kjøring, så Nordnet ikke får en storm av forespørsler.
 
+Stjernehistorikk (fra 2026-11-13): Nordnet viser bare DAGENS stjerner, ikke hvor
+lenge brukeren har hatt dem. Derfor logger vi hver sjekk selv:
+    star_log             [[dato, stjerner], ...]  - ny rad bare når stjernene endrer seg
+    first_checked_at     første gang vi sjekket profilen
+    three_since          første sjekk i den nåværende 3-stjerners-perioden (None ellers)
+    three_streak_checks  antall sjekker på rad med 3 stjerner
+three_since er en NEDRE grense: en bruker som hadde 3 stjerner første gang vi så
+ham, kan ha hatt dem i årevis. Med sjekk hver 14. dag gir et halvt år ca. 13 sjekker.
+
 Output:
-    nordnet_data/copytrade/profiles.json        {brukernavn: {stars, followers, ...}}
+    nordnet_data/copytrade/profiles.json        {brukernavn: {stars, followers, star_log, ...}}
     nordnet_data/copytrade/stars_status.json    hvor mange som ble parset, feil
     nordnet_data/copytrade/debug/profile_*.html to rå sider hvis parsingen feiler,
                                                 så regexene kan rettes
@@ -95,6 +104,33 @@ def _extras(html):
     return {"followers": followers, "member_for": member}
 
 
+def backfill_history(p):
+    """Profiler sjekket før historikken fantes: start loggen fra siste kjente sjekk."""
+    if "star_log" in p or not p.get("checked_at") or p.get("stars") is None:
+        return
+    day = p["checked_at"][:10]
+    p["first_checked_at"] = p["checked_at"]
+    p["star_log"] = [[day, p["stars"]]]
+    p["three_streak_checks"] = 1 if p["stars"] == 3 else 0
+    p["three_since"] = day if p["stars"] == 3 else None
+
+
+def update_history(p, stars, at):
+    """Legg en ny sjekk inn i stjernehistorikken (kalles bare når stjernene ble funnet)."""
+    day = at[:10]
+    p.setdefault("first_checked_at", at)
+    log = p.setdefault("star_log", [])
+    if not log or log[-1][1] != stars:
+        log.append([day, stars])
+    if stars == 3:
+        p["three_streak_checks"] = p.get("three_streak_checks", 0) + 1
+        if not p.get("three_since"):
+            p["three_since"] = day
+    else:
+        p["three_streak_checks"] = 0
+        p["three_since"] = None
+
+
 def candidate_profiles(data_dir):
     posts = Counter()
     url_of = {}
@@ -133,6 +169,8 @@ def main():
     for user, n in posts.items():
         profiles.setdefault(user, {"url": url_of[user]})
         profiles[user]["forum_posts"] = n
+    for p in profiles.values():
+        backfill_history(p)
 
     due = [u for u in posts if (profiles[u].get("checked_at") or "") < cutoff]
     due.sort(key=lambda u: (profiles[u].get("checked_at") is not None, -posts[u]))  # aldri sjekket + mest aktive først
@@ -159,6 +197,8 @@ def main():
         info = parse_profile(r.text)
         profiles[user].update(info)
         profiles[user]["checked_at"] = datetime.now(timezone.utc).isoformat()
+        if info["stars"] is not None:
+            update_history(profiles[user], info["stars"], profiles[user]["checked_at"])
         status["checked"] += 1
         status["parsed_by"][info["parsed_by"] or "ikke funnet"] += 1
         if info["stars"] is not None:

@@ -136,6 +136,8 @@ function stars(){
       <div class="meta">${esc(p.slug)}</div><div class="post">${esc(p.text)}</div></div>`).join("");
   const users = (ST.top_users || []).slice(0, 20).map(u =>
     `<tr><td><a href="${esc(u.url)}">@${esc(u.user)}</a></td><td>${"★".repeat(u.stars)}</td><td>${u.followers ?? "–"}</td><td>${u.forum_posts ?? "–"}</td></tr>`).join("");
+  const vets = (ST.veterans || []).map(u =>
+    `<tr><td><a href="${esc(u.url)}">@${esc(u.user)}</a></td><td>${day(u.three_since)}</td><td>${u.three_streak_checks}</td><td>${u.followers ?? "–"}</td></tr>`).join("");
   return `<section class="panel"><h2>Stjernebrukere i forumet</h2>
     <p class="hint">${ST.profiles_checked || 0} profiler sjekket · ${ST.three_star || 0} med 3 stjerner (topp 10 % risikojustert avkastning) · ${ST.two_star || 0} med 2.
     Handlene deres er bak innlogging, så vi paper trader det de skriver: et positivt innlegg (sentiment ≥ 0,3) fra en 3-stjerners bruker = kjøp, hold 20 dager. Bare forover, fra oppstart.</p>
@@ -143,6 +145,9 @@ function stars(){
     <h2>Stjerne-handler</h2>${cards((ST.trades || []).slice(0, 10), "Ingen ennå. Krever at stjernene er hentet og at innleggene er sentiment-scoret.")}
     <details><summary>Siste innlegg fra stjernebrukere</summary><div class="cards" style="margin-top:10px">${posts || '<p class="empty">Ingen ennå.</p>'}</div></details>
     <details><summary>Topp stjernebrukere</summary><table style="margin-top:10px"><thead><tr><th>Bruker</th><th>★</th><th>Følgere</th><th>Innlegg</th></tr></thead><tbody>${users}</tbody></table></details>
+    <details><summary>Lengst med 3 stjerner (topp 50)</summary>
+      <p class="hint" style="margin-top:10px">Nordnet viser bare dagens stjerner, så vi logger selv fra ${day(ST.history_since)}. «Sett med 3★ siden» er en nedre grense, og profilene sjekkes hver 14. dag – listen blir meningsfull først etter noen måneder.</p>
+      ${vets ? `<table><thead><tr><th>Bruker</th><th>Sett med 3★ siden</th><th>Sjekker på rad</th><th>Følgere</th></tr></thead><tbody>${vets}</tbody></table>` : '<p class="empty">Ingen historikk ennå.</p>'}</details>
   </section>`;
 }
 
