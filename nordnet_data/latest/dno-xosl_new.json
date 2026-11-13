@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-12T21:18:02.986545+00:00",
+  "scraped_at": "2026-11-13T02:19:16.978207+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "435042c9f8993fe4",
+      "author": "CVS1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cvs1",
+      "posted_relative": "for 3 t siden",
+      "text": "Oljen stiger 🥰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

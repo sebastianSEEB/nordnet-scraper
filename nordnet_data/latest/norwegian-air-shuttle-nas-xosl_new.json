@@ -1,55 +1,38 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-11-12T21:15:48.385516+00:00",
+  "scraped_at": "2026-11-13T02:17:08.726031+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "27b098a91fd22d43",
+      "key": "b5d8bac7880ebbde",
+      "author": "red-art",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/red-art",
+      "posted_relative": "for 2 t siden",
+      "text": "Dette var stort sett standard kampanjer på en liten andel billetter. Hvor stor prosentandel er det vel ingen som vet bortsett fra flyselskapene selv. Ellers kjører de dynamiske prismodeller som sikrer den totale inntjeningen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 225,
+      "has_link": false
+    },
+    {
+      "key": "590d45f0005d1faa",
       "author": "Analytikeren77",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/analytikeren77",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "Jet fuel prisene og trafikktallene Begge er høye. Men, vet vi noe mer om de faktiske inntektene? Billettprisene ble dumpet i august for høsten-vinteren 2026.",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "Jet fuel prisene og trafikktallene Begge er høye. Men, vet vi noe mer om de faktiske inntektene? Billettprisene ble dumpet i august for høsten-vinteren 2026. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 157,
-      "has_link": false
-    },
-    {
-      "key": "499335790c7d0de8",
-      "author": "kal--el",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kal-el-2",
-      "posted_relative": "for 4 t siden",
-      "text": "olje opp og den har stiget opp over 20% på en mnd..",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 51,
-      "has_link": false
-    },
-    {
-      "key": "bf7260c875c50954",
-      "author": "iamelg",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iamelg",
-      "posted_relative": "for 5 t siden",
-      "text": "Hva er grunnen til dette fallet?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
+        2,
         2
       ],
       "links": [],
-      "char_count": 32,
+      "char_count": 177,
       "has_link": false
     }
   ]
