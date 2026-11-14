@@ -1,53 +1,25 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-11-14T14:36:41.670945+00:00",
+  "scraped_at": "2026-11-14T19:33:51.408957+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "0c52450af47da09d",
-      "author": "Binga",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "Ny tanker gått på mine. Den fjerde i løp av de siste 24 timene. Tragisk for de det gjelder, men bra for tankaksjer! https://x.com/AJENews/status/2121550295100489877",
+      "key": "a7d0714561a52725",
+      "author": "Markus Persen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/markus-persen",
+      "posted_relative": "for 2 t siden",
+      "text": "På nyhetene har det kommet frem at et tankskip har kollidert med et cruiseskip nær New Orleans. Mange av dere lurer sikkert på om dette påvirker Frontline, og det korte svaret er: sannsynligvis ikke direkte, for mer : https://www.youtube.com/watch?v=HpwHRPlontc",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [
-        "https://x.com/AJENews/status/2121550295100489877"
+        "https://www.youtube.com/watch?v=HpwHRPlontc"
       ],
-      "char_count": 164,
+      "char_count": 261,
       "has_link": true
-    },
-    {
-      "key": "1b752fd0b3adf346",
-      "author": "ks1977",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-      "posted_relative": "for 46 min siden",
-      "text": "Ja, i motsetning til i fjor høst (frem til jul) så fikk vi den tradisjonelle ratekollapsen (kanskje ikke så rart fra de nivåene vi så).  Blir spennende å se hvor ratene flater ut (og evt tar en liten rebound). OET trodde at vi nå var ved en ratebunn (på et nivå vi ikke engang turte drømme om for et år siden), men de klarte åpenbart ikke å se for seg hvor høyt (og lenge) ratene skulle (siden de sluttet 5 VLCCer på kort (100-150 dager) TC med \"dårlige\" rater før ratene tok helt hinsides av) så om de har rett i sin antagelse gjenstår å se. Det store spørsmålet (kursmessig) er egentlig hvilke rater markedet egentlig hadde priset inn fremover (det hadde ikke priset inn at GoO skulle være 750k veldig lenge, men det har heller ikke priset inn at vi skal rett tilbake til 50k)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 778,
-      "has_link": false
-    },
-    {
-      "key": "adb480e0c6963086",
-      "author": "blx",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
-      "posted_relative": "for 4 t siden · Endret",
-      "text": "Ratene falt kraftig denne uken, slik som jeg sa på søndag.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 58,
-      "has_link": false
     }
   ]
 }

@@ -1,9 +1,25 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-11-14T14:43:53.635718+00:00",
+  "scraped_at": "2026-11-14T19:40:47.375234+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b2f6ab5d911161bf",
+      "author": "Marnar King",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marnar-king-1",
+      "posted_relative": "for 3 t siden",
+      "text": "· RVM Systems tok i huse Moldova... https://ecoretsda.md/en/noutati/rvm-equipment-tender-winner/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://ecoretsda.md/en/noutati/rvm-equipment-tender-winner/"
+      ],
+      "char_count": 96,
+      "has_link": true
+    }
+  ]
 }
