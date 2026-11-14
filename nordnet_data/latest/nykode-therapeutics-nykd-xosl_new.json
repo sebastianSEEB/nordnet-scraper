@@ -1,9 +1,26 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-14T19:38:43.120024+00:00",
+  "scraped_at": "2026-11-14T23:33:58.957108+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e06b15daccb9e6d9",
+      "author": "lrs04",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lrs04",
+      "posted_relative": null,
+      "text": "10. nov. · La oss se hva selskapet presenterer nå på Guggenheim Conference",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

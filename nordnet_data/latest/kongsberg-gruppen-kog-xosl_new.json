@@ -1,9 +1,27 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-11-14T19:38:54.393298+00:00",
+  "scraped_at": "2026-11-14T23:34:11.247660+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "013f823888124084",
+      "author": "Jadevadeja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jadevadeja",
+      "posted_relative": "for 2 t siden",
+      "text": "Bare spenne setebeltet! Brikkene faller på plass for FREYA. kongsberg skal levere;  Kommandosentralen.  Integrere radarer, sensorer og våpensystemer. Systemet skal koble seg til NATOs Link 1 https://en.interfax.com.ua/news/general/1236564.html?utm_source=chatgpt.com",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://en.interfax.com.ua/news/general/1236564.html?utm_source=chatgpt.com"
+      ],
+      "char_count": 266,
+      "has_link": true
+    }
+  ]
 }
