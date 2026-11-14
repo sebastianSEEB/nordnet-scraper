@@ -1,66 +1,38 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-11-13T18:17:53.395301+00:00",
+  "scraped_at": "2026-11-14T00:03:31.131426+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "b36c146d2d5036aa",
+      "key": "78a24ba7430a23f3",
       "author": "Knol",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knol",
-      "posted_relative": "for 2 t siden",
-      "text": "Tipper det er \"bjellesauene\" som leker seg litt!",
+      "posted_relative": "for 8 t siden",
+      "text": "Tipper det er \"bjellesauene\" som leker seg litt! Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         3,
-        1
+        2
       ],
       "links": [],
-      "char_count": 48,
+      "char_count": 68,
       "has_link": false
     },
     {
-      "key": "c3ba95a868bfe6a4",
-      "author": "Syvermo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syvermo",
-      "posted_relative": "for 3 t siden",
-      "text": "Hva skjer nå mon tro? Vis 1 kommentar til",
+      "key": "67a184bff5afa637",
+      "author": "gribbern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gribbern",
+      "posted_relative": "for 4 t siden",
+      "text": "De leker ikke tar gevinsten å løper som f",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
+      "engagement_numbers": [],
       "links": [],
       "char_count": 41,
-      "has_link": false
-    },
-    {
-      "key": "837032d2247663a6",
-      "author": "Feskarna",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/feskarna",
-      "posted_relative": "for 2 t siden",
-      "text": "Ja noen er det ihvertfall🤦‍♂️",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 29,
-      "has_link": false
-    },
-    {
-      "key": "d264500c25826ea6",
-      "author": "Rampeline",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rampeline",
-      "posted_relative": "for 2 t siden",
-      "text": "Synker ofte på ettermiddagen",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 28,
       "has_link": false
     }
   ]

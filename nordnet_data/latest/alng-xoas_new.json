@@ -1,9 +1,29 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-13T18:16:27.528997+00:00",
+  "scraped_at": "2026-11-14T00:02:05.043088+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dfa7d82f9a53ed56",
+      "author": "Nextbay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "posted_relative": null,
+      "text": "9. nov. Vi nærmer oss Q3 (18/11). Ikke mange hus som dekker denne med analyser,  så vi lager vår egen... Husk at dette spørsmålet gjelder Q3, og ikke hva som har skjedd de siste uker i Q4. Hva forventer vi blir resultatet i Q3? Bli medlem av Nordnet Social for å se resultatene Logg inn Underskuddet reduseres med 55% % Resultat omtrent som Q2 % Snudd til overskudd, trading % 19 stemmer • Avsluttet Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        42,
+        42,
+        16,
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 419,
+      "has_link": false
+    }
+  ]
 }
