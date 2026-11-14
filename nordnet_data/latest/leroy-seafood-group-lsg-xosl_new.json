@@ -1,9 +1,40 @@
 {
   "slug": "leroy-seafood-group-lsg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/leroy-seafood-group-lsg-xosl",
-  "scraped_at": "2026-11-14T07:11:34.405387+00:00",
+  "scraped_at": "2026-11-14T14:38:49.108019+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "67779cffd3b8aeea",
+      "author": "CakeyWakey",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cakeywakey",
+      "posted_relative": null,
+      "text": "10. nov. Nei, det er fordi de bevisst sparer biomasse til prisene blir bedre ut over vinteren. Så jeg tenker at det gir strategisk mening.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "1ff372226dc0d97e",
+      "author": "trani",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trani",
+      "posted_relative": null,
+      "text": "10. nov. Lsg leverer sterkt resultat. Men fallende inntekter bør man absolutt ikke se bort ifra. Første fare signal? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    }
+  ]
 }

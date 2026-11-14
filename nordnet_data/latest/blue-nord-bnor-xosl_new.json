@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-14T07:10:52.594901+00:00",
+  "scraped_at": "2026-11-14T14:38:05.769858+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6027055b4ce8267a",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 48 min siden",
+      "text": "Siste frist er vel nå Mandag 16.11,hvis du skal få med fusjonspenger var det ikke så?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "73318016f806fd69",
+      "author": "Tylo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tylo-1",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva gjør folk nå, kjøper man?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,38 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-14T07:14:55.163945+00:00",
+  "scraped_at": "2026-11-14T14:42:20.666179+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "95b4cd85e9008b33",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": null,
+      "text": "10. nov. Jeg har også lastet opp Yara aksjer idag :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "a5eeb506f2021feb",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": null,
+      "text": "10. nov. · Jeg har flyttet kapital til Novo :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

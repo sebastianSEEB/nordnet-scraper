@@ -1,9 +1,54 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-11-14T07:11:45.849866+00:00",
+  "scraped_at": "2026-11-14T14:39:01.511412+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "d161cceec4d2a2ff",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": null,
+      "text": "10. nov. Elkem vil øke salgsprisene på ferrosilisium i EU med minst 10 prosent fra nivåene i tredje kvartal, ifølge en melding. Prisene vil øke umiddelbart, eller så snart kontraktene tillater det. Selskapet viser til varige økninger i kostnadene, inkludert prisene på kull og energi og bredere inflasjonspress. Elkem har satt i gang effektivitetsforbedringer som motvirker noe av dette, men kostnadsnivået krever økte priser, skriver selskapet i meldingen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 457,
+      "has_link": false
+    },
+    {
+      "key": "217fe82658d131fb",
+      "author": "Noor1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/noor1",
+      "posted_relative": null,
+      "text": "10. nov. · Og det er ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    },
+    {
+      "key": "acb40d7cafcc8590",
+      "author": "Enghaug",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enghaug",
+      "posted_relative": null,
+      "text": "10. nov. Godnyhet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

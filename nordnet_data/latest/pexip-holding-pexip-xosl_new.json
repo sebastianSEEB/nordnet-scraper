@@ -1,9 +1,38 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-11-14T07:13:00.906593+00:00",
+  "scraped_at": "2026-11-14T14:40:21.634841+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c0169e278f6f4546",
+      "author": "Ottotoo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ottotoo",
+      "posted_relative": null,
+      "text": "10. nov. Da er vi på vei opp igjen. Bør nærme seg kr 80 h is markedet får lov til å operre normalt uten nye kriger, spioner, utroskap og donald utsagn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "f3ac394d3d79d89a",
+      "author": "Senthil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/senthil",
+      "posted_relative": null,
+      "text": "10. nov. ·",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 10,
+      "has_link": false
+    }
+  ]
 }

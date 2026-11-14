@@ -1,9 +1,55 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-11-14T07:15:21.449594+00:00",
+  "scraped_at": "2026-11-14T14:42:48.237600+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3289ae4951af33b5",
+      "author": "lklars1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lklars1",
+      "posted_relative": null,
+      "text": "10. nov. Merkelig med nedgang etter den rapporten, vel?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    },
+    {
+      "key": "919e677ae0d3928b",
+      "author": "mpp02",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mpp02",
+      "posted_relative": null,
+      "text": "10. nov. · God rapport, vil tro vi ser 90 før jul",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        8
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "c3704b25bab8c9ca",
+      "author": "MrCP",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrcp",
+      "posted_relative": null,
+      "text": "10. nov. Nei ned til 80",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

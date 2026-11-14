@@ -1,9 +1,38 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-14T07:15:59.021391+00:00",
+  "scraped_at": "2026-11-14T14:43:26.374779+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d402f9d4319f6e74",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
+      "posted_relative": null,
+      "text": "10. nov. Over en million aksjer til salgs på 4,35",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "dc201bf05599dd44",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": null,
+      "text": "10. nov. At den er verdt det dobbelte i dag. Long",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }
