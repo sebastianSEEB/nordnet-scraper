@@ -1,9 +1,26 @@
 {
   "slug": "austevoll-seafood-auss-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/austevoll-seafood-auss-xosl",
-  "scraped_at": "2026-11-14T00:04:51.442922+00:00",
+  "scraped_at": "2026-11-14T07:12:34.419501+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "38ca3453eb5739f0",
+      "author": "ydkd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ydkd",
+      "posted_relative": null,
+      "text": "10. nov. Svakt resultat. Jeg selger",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        15
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

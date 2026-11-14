@@ -1,9 +1,38 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-14T00:03:23.270177+00:00",
+  "scraped_at": "2026-11-14T07:11:07.955743+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3a25e04d4fa932e4",
+      "author": "Middagsbuffet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
+      "posted_relative": null,
+      "text": "10. nov. · Citigroup hever kursmålet for Vend Marketplaces til 255 norske kroner (247), gjentar nøytral",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "d8a0357dee7b5f63",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": null,
+      "text": "10. nov. Frykt for AI disrupsjon",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }
