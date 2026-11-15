@@ -1,9 +1,25 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-14T23:29:05.630480+00:00",
+  "scraped_at": "2026-11-15T03:41:53.628393+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "09a79b124b13f5b8",
+      "author": "Ligurio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ligurio",
+      "posted_relative": null,
+      "text": "11. nov. Bruk gjerne Demp-knappen - det gjor jeg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }
