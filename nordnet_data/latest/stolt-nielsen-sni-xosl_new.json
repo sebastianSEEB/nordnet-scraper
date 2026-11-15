@@ -1,9 +1,25 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-11-15T03:41:57.623745+00:00",
+  "scraped_at": "2026-11-15T11:37:50.596668+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a1787f3b706b2c5c",
+      "author": "bladerunner63",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bladerunner63",
+      "posted_relative": null,
+      "text": "11. nov. · Mon tro om juleutbyttet blir kunngjort om få dager? Hva kan vi forvente?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    }
+  ]
 }

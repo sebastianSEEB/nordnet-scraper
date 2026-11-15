@@ -1,9 +1,38 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-15T03:46:33.398351+00:00",
+  "scraped_at": "2026-11-15T11:42:42.651813+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "650109ffce5f3c04",
+      "author": "sjøogland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjogland",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Takk for kommentar, -de må nok en god del opp i t/c leie på videreleie så da vil jo det antagelig spise rett inn i bunnlinja til Hunter. Så oppsiden fremover vil henge mye på de neste kontraktene de inngår, og nå er vel markedet på topp så det blir spennende å se hva de får til.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 279,
+      "has_link": false
+    },
+    {
+      "key": "053c16cf83ebc894",
+      "author": "sjøogland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjogland",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Kan noen gi en vurdering av Hunters prising mot Okeanis sin?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    }
+  ]
 }

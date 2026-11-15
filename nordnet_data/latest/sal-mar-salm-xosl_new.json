@@ -1,9 +1,38 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-15T03:45:32.397996+00:00",
+  "scraped_at": "2026-11-15T11:41:37.978092+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5d1fa9dea7c9cc7c",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": null,
+      "text": "11. nov. Oslo (Infront TDN Direkt): Gjennomsnittlig eksportpris var 73,35 kroner pr kilo for fersk eller kjølt oppdrettslaks i uke 45, ned 2,2 prosent fra foregående uke.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 170,
+      "has_link": false
+    },
+    {
+      "key": "83d3dfa4212700cd",
+      "author": "NysgjerrigFJO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nysgjerrigfjo",
+      "posted_relative": null,
+      "text": "11. nov. · Hvor vil dette være om en måned..?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

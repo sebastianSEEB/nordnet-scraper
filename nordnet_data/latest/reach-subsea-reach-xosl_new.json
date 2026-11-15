@@ -1,9 +1,40 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-11-15T03:49:05.457445+00:00",
+  "scraped_at": "2026-11-15T11:45:25.726431+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9a79d663a681f3d8",
+      "author": "Rototiller",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rototiller",
+      "posted_relative": null,
+      "text": "11. nov. Saken betyr ikke så mye i det store og det hele, men er selvfølgelig en belastning Reach vil håndtere utmerket også mens prosessen for å synliggjøre verdier pågår. Streiken vil få en rask og smidig avslutning med selskapets og de ansattes beste for øyet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 263,
+      "has_link": false
+    },
+    {
+      "key": "03826b9440031a49",
+      "author": "stratix",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
+      "posted_relative": null,
+      "text": "11. nov. Statnett ble en sort svane. Om Statnett i det hele tatt har noe sak, ender en slik sak ofte med et forlik med et betydelig lavere beløp. Reach har nok også en sterk sak, og ingen er tjent med dyre runder i retten.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 222,
+      "has_link": false
+    }
+  ]
 }
