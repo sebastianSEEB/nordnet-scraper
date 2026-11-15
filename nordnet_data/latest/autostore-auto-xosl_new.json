@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-15T18:13:16.984912+00:00",
+  "scraped_at": "2026-11-15T23:18:15.529358+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ab99b38a42053577",
+      "author": "hahaja",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hahaja",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "· Jeg er enig. Bortsett fra en barnslig pågående diskusjon mellom to brukere. Men når aksjen snart blir mer populær vil det tiltrekke seg troll.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 144,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,26 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-15T18:11:21.970302+00:00",
+  "scraped_at": "2026-11-15T23:16:22.369563+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "e0de957119149162",
+      "author": "KingKong75",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kingkong75",
+      "posted_relative": null,
+      "text": "11. nov. Tomra-konkurrenten Envipco leverte nok et kvartal under forventningene, med negativ EBITDA og svak kontantstrøm. Selskapet kan komme i brudd med lånebetingelsene og kan måtte hente ny kapital i 2027. Dette styrker Tomras relative posisjon, ettersom Tomra har større skala, en sterkere markedsposisjon og bedre finansiell kapasitet til å møte veksten i det globale pantemarkedet. En svekket konkurrent kan også gi Tomra bedre muligheter til å vinne nye kontrakter og markedsandeler.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        8
+      ],
+      "links": [],
+      "char_count": 490,
+      "has_link": false
+    }
+  ]
 }

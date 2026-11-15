@@ -1,9 +1,25 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-11-15T18:17:01.548331+00:00",
+  "scraped_at": "2026-11-15T23:21:58.156850+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5b5b81ae1cb5fe59",
+      "author": "h3nk1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/h3nk1",
+      "posted_relative": "for 3 t siden",
+      "text": "Positivt at det går mot løsning for streiken. Det tar ned risiko for Q4.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    }
+  ]
 }
