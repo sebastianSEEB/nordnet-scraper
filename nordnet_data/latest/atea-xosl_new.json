@@ -1,9 +1,26 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-11-15T11:42:22.797316+00:00",
+  "scraped_at": "2026-11-15T18:14:04.402749+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ef0477bde505928d",
+      "author": "Verdens sterkeste bjørn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verdens-sterkeste-bjrn",
+      "posted_relative": null,
+      "text": "11. nov. Hvorfor er denne aksjen så slapp? Er ingen short registrert, det er en compounder, jeg mener den er lavt priset, snart utbytte osv.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    }
+  ]
 }

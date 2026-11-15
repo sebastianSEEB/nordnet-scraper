@@ -1,9 +1,43 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-15T11:42:55.773643+00:00",
+  "scraped_at": "2026-11-15T18:14:36.550827+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7209f70629f9aa40",
+      "author": "Fattiglusa5",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fattiglusa5",
+      "posted_relative": null,
+      "text": "11. nov. https://e24.no/boers-og-finans/i/OynMMw/dnb-faar-kritikk?x_domain_id=c872b2f4-49a5-4495-8a70-34b33b9c6b49",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/OynMMw/dnb-faar-kritikk?x_domain_id=c872b2f4-49a5-4495-8a70-34b33b9c6b49"
+      ],
+      "char_count": 114,
+      "has_link": true
+    },
+    {
+      "key": "7ec730ba8514c2e1",
+      "author": "Markus Persen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/markus-persen",
+      "posted_relative": null,
+      "text": "11. nov. Til dere som ønsker en oppdatert analyse av DNB: https://www.youtube.com/watch?v=daD8ZwprwZg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [
+        "https://www.youtube.com/watch?v=daD8ZwprwZg"
+      ],
+      "char_count": 101,
+      "has_link": true
+    }
+  ]
 }

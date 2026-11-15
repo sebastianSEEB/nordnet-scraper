@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-11-15T11:42:59.877849+00:00",
+  "scraped_at": "2026-11-15T18:14:40.773907+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "51bbab6d4f67d33b",
+      "author": "nbvnvbnvn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nbvnvbnvn",
+      "posted_relative": "for 58 min siden",
+      "text": "Her er noe om KOG direkte fra FA for et time siden: \"NRK: Nammo-informasjon lå åpent på nett etter bruk av Musk-tjeneste\" og  \"Ansatte i våpenkonsernet Nammo brukte Elon Musks AI-verktøy Grok til å lage apper. Sikkerhetseksperter fant informasjon om ammunisjon og eksplosiver åpent tilgjengelig på internett, melder NRK.\" Alt er ikke bar gull og grønne skoger ..  Først NVD og så dette. Hva er det US driver med. FA: https://www.finansavisen.no/industri/2026/11/15/8395933/nrk-nammo-informasjon-la-apent-pa-nett-etter-bruk-av-musk-tjeneste NRK: https://www.nrk.no/artikkel/info-fra-norsk-vapengigant-lekket-via-musk-selskap-1532718",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/11/15/8395933/nrk-nammo-informasjon-la-apent-pa-nett-etter-bruk-av-musk-tjeneste",
+        "https://www.nrk.no/artikkel/info-fra-norsk-vapengigant-lekket-via-musk-selskap-1532718"
+      ],
+      "char_count": 631,
+      "has_link": true
+    },
+    {
+      "key": "e30ee05f8a7f82ad",
+      "author": "larsullern86",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsullern86",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg er usikker på den Ukrainske interceptoren. Ukraina har ingenting annet på det teknologiske nivået der. Missilene deres ellers Flamingo etc er jo helt stone age ift hva som kreves i Freya.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 191,
+      "has_link": false
+    }
+  ]
 }

@@ -1,37 +1,42 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-15T11:42:42.651813+00:00",
+  "scraped_at": "2026-11-15T18:14:24.597869+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "650109ffce5f3c04",
-      "author": "sjøogland",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjogland",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "Takk for kommentar, -de må nok en god del opp i t/c leie på videreleie så da vil jo det antagelig spise rett inn i bunnlinja til Hunter. Så oppsiden fremover vil henge mye på de neste kontraktene de inngår, og nå er vel markedet på topp så det blir spennende å se hva de får til.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 279,
-      "has_link": false
-    },
-    {
-      "key": "053c16cf83ebc894",
-      "author": "sjøogland",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjogland",
-      "posted_relative": "for 1 døgn siden",
-      "text": "Kan noen gi en vurdering av Hunters prising mot Okeanis sin?",
+      "key": "7d9641ed4c66a2cc",
+      "author": "Binga",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/binga",
+      "posted_relative": "for 1 døgn siden · Endret",
+      "text": "Ny tanker gått på mine. Den fjerde i løp av de siste 24 timene. Tragisk for de det gjelder, men bra for Hunter! https://x.com/AJENews/status/2121550295100489877 Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        5,
+        2
+      ],
+      "links": [
+        "https://x.com/AJENews/status/2121550295100489877"
+      ],
+      "char_count": 180,
+      "has_link": true
+    },
+    {
+      "key": "3b533f47b2cebd40",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 3 t siden",
+      "text": "To nye som er sprengt i Hormuzstredet idag,man kan ikke tro annet ratene snur kraftig opp med dette  scenarioet  Around 80 VLCCs remain tied up in Gulf of Oman shuttle operations, with round trips taking 23 days instead of the usual 9–10. That's a massive loss of fleet efficiency, even as Middle East crude exports recover to 80–85% of pre-conflict levels.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
       "links": [],
-      "char_count": 60,
+      "char_count": 357,
       "has_link": false
     }
   ]

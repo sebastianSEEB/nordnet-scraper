@@ -1,9 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-15T11:39:25.428424+00:00",
+  "scraped_at": "2026-11-15T18:11:09.041673+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e7c8043971371b25",
+      "author": "MisKina",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
+      "posted_relative": null,
+      "text": "11. nov. · Vår shorter, fikk visst handlet litt med seg selv her i aksjonen og fikk den 0,40kr ned, forventet 😂 Men vi glemmer ikke det gode regnskapet, og avventer kurs 65-75 med tålmodighet 👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        1
+      ],
+      "links": [],
+      "char_count": 193,
+      "has_link": false
+    },
+    {
+      "key": "1d2ee1d3d8504976",
+      "author": "hacksaw",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hacksaw",
+      "posted_relative": null,
+      "text": "11. nov. · Ikke overraskende, selv om det er noen her inne Hvor man ikke har lov til å nevne navnet 😂😇",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    }
+  ]
 }

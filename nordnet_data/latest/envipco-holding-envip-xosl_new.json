@@ -1,9 +1,23 @@
 {
   "slug": "envipco-holding-envip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl",
-  "scraped_at": "2026-11-15T11:45:03.062361+00:00",
+  "scraped_at": "2026-11-15T18:16:38.628059+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b67f1833ed06e0ff",
+      "author": "MortenRev",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortenrev",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er gammelt nytt :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

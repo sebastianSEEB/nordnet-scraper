@@ -1,9 +1,23 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-15T11:43:34.446564+00:00",
+  "scraped_at": "2026-11-15T18:15:13.399646+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "78d146458e9b5b91",
+      "author": "Gulldoser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gulldoser",
+      "posted_relative": null,
+      "text": "11. nov. Redd det gikk for fort og at det går litt ned",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    }
+  ]
 }
