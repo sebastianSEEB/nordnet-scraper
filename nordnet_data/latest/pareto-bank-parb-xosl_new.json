@@ -1,9 +1,28 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-16T03:48:24.746273+00:00",
+  "scraped_at": "2026-11-16T12:19:16.818326+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "35a1230ec86c657a",
+      "author": "Huckleberryfinn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huckleberryfinn",
+      "posted_relative": null,
+      "text": "12. nov. · https://newsweb.oslobors.no/message/686311 Et styremedlem solgte hver eneste posisjon han hadde i Pareto. Noen idéer om hvorfor?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        9
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/686311"
+      ],
+      "char_count": 139,
+      "has_link": true
+    }
+  ]
 }

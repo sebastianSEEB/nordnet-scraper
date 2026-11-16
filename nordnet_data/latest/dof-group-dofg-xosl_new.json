@@ -1,9 +1,56 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-16T03:43:53.553665+00:00",
+  "scraped_at": "2026-11-16T12:14:45.471000+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "514242fece4d48bf",
+      "author": "Metallian",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/metallian",
+      "posted_relative": "for 3 t siden",
+      "text": "Dof med detaljer og bekreftelse på LOIen i oktober for prosjekt i APAC https://osvnyheter.no/offshore-nyheter-2026-uke-47",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://osvnyheter.no/offshore-nyheter-2026-uke-47"
+      ],
+      "char_count": 121,
+      "has_link": true
+    },
+    {
+      "key": "a8c3eeb87b41de5b",
+      "author": "mardam18",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mardam18",
+      "posted_relative": "for 3 t siden",
+      "text": "· DOF er nå glade for å kunngjøre tildelingen av en Stor* undervannskontrakt for SURF-tjenester i APAC-regionen av Amplitude Energy Limited (AEL) for deres East Coast Supply Project. *DOF definerer en Stor kontrakt som en kontrakt med en verdi mellom 50 og 100 millioner USD.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        19,
+        1
+      ],
+      "links": [],
+      "char_count": 275,
+      "has_link": false
+    },
+    {
+      "key": "5949602c50c24a78",
+      "author": "mohalj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
+      "posted_relative": "for 2 t siden",
+      "text": "Men aksjene faller alikevell 😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

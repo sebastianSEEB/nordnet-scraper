@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-16T03:43:18.880586+00:00",
+  "scraped_at": "2026-11-16T12:14:09.082789+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "542b38570c6cc7fe",
+      "author": "potluck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/potluck",
+      "posted_relative": "for 3 t siden",
+      "text": "Du mister kursoppgang og utbyttet for den delen som tilsvarer kontantoppgjøret, dersom alternativet hadde vært å investere den samme summen i Vår Energi.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "d7cb7523134c6c6a",
+      "author": "potluck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/potluck",
+      "posted_relative": "for 3 t siden",
+      "text": "Retten til å få utbyttet for 3.kvartal blir lagt på sluttoppgjøret, så her bør det holde å eie aksjen når fusjonen gjennomføres. AI surrer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 139,
+      "has_link": false
+    }
+  ]
 }

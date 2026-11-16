@@ -1,9 +1,23 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-11-16T03:42:06.497611+00:00",
+  "scraped_at": "2026-11-16T12:12:58.278316+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f2db53002e966d47",
+      "author": "Rentesrente",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rentesrente",
+      "posted_relative": "for 3 t siden",
+      "text": "Noen som vet når eventuelt utbytte kunngjøres?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

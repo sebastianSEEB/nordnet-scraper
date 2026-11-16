@@ -1,9 +1,71 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-11-16T03:46:39.159191+00:00",
+  "scraped_at": "2026-11-16T12:17:30.829392+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "e23ed69ce0a2fc00",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 4 t siden",
+      "text": "· Pareto Securities senker kursmålet for Akastor til 10,50 norske kroner (18), gjentar kjøp Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        8
+      ],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "682a4eb9bb0dad30",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Enig ,stort sprik i kursmål 🙈tror nok verdien er vesentlig større en hva som blir lagt til grunn her 🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    },
+    {
+      "key": "3df9033a1a095c2d",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 5 t siden",
+      "text": "· Fearnley senker kursmålet for Akastor til 16 norske kroner (22), gjentar kjøp - BN",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "eb59bab0a9a5f590",
+      "author": "ASO_86",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aso_86",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvorfor er denne aksjen så billig?! 🤑🤪",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

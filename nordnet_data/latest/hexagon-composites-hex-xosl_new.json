@@ -1,9 +1,51 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-16T03:46:03.455267+00:00",
+  "scraped_at": "2026-11-16T12:16:55.868745+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "fc6014f38a7d8275",
+      "author": "obfisher",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/obfisher",
+      "posted_relative": "for 1 t siden",
+      "text": "Datasenter kommer uansett. Får de ikke kraften de ønsker seg blir mer basert på gass som bør være gull for HC. Jo mere motstand jo bedre er min tanke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    },
+    {
+      "key": "340c23d279891c05",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 3 t siden",
+      "text": "Ser ut til nytt byks i løpet av uka/dagen.  Ha en fin dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "1201a5adcffd6447",
+      "author": "MarSvin80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marsvin80",
+      "posted_relative": "for 1 t siden",
+      "text": "Du postet jo nylig at det var på tide at du kjøpte mer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 55,
+      "has_link": false
+    }
+  ]
 }

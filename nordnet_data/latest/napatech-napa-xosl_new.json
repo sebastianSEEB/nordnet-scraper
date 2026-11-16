@@ -1,9 +1,38 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-16T03:44:45.461355+00:00",
+  "scraped_at": "2026-11-16T12:15:37.297532+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d21d42f6cea1408d",
+      "author": "Funbet777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funbet777",
+      "posted_relative": "for 1 t siden",
+      "text": "· Ikke ennå når den kommer lenger ned 👍👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "c81c77afa8daed3f",
+      "author": "Funbet777",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funbet777",
+      "posted_relative": "for 2 t siden",
+      "text": "· Da skal vi ned igjen..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

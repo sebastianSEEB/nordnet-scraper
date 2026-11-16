@@ -1,9 +1,23 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-16T03:45:39.992827+00:00",
+  "scraped_at": "2026-11-16T12:16:31.713148+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "8aafc336beeebce5",
+      "author": "fosa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fosa",
+      "posted_relative": "for 3 t siden",
+      "text": "Sikkert noe utbytte som skal reinvesteres I morgen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

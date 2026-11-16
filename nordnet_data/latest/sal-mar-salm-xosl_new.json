@@ -1,9 +1,58 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-16T03:45:47.741135+00:00",
+  "scraped_at": "2026-11-16T12:16:39.952376+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "f9ffc3bc0b7a058b",
+      "author": "zappaphone",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zappaphone",
+      "posted_relative": null,
+      "text": "12. nov. \"Fjerner laksetollen: Norge vil inn i gigantmarked Norsk laks får tollfri adgang til Brasil, der Chile dominerer markedet. Nå setter Norges sjømatråd inn støtet for å sikre norske eksportører en større del av lakseimporten.\" https://www.finansavisen.no/sjomat/2026/11/12/8395179/fjerner-laksetollen-norge-vil-inn-i-gigantmarked",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://www.finansavisen.no/sjomat/2026/11/12/8395179/fjerner-laksetollen-norge-vil-inn-i-gigantmarked"
+      ],
+      "char_count": 336,
+      "has_link": true
+    },
+    {
+      "key": "a8d82170a660b6d5",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": "for 1 t siden",
+      "text": "Lakseprisene med et kraftig hopp opp idag,- 5-6 kr opp fra forrige uke! Følgende priser levert Oslo denne uke: 2/3 70 3/6 75-77 6+ 80",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "e1605035cc8a489a",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 42 min siden",
+      "text": "Nå snakker vi.  Dette lover bra!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

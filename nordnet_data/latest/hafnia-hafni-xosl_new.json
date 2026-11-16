@@ -1,9 +1,25 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-16T03:42:02.381091+00:00",
+  "scraped_at": "2026-11-16T12:12:54.187036+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ae9cd9cacb97d99a",
+      "author": "JOLI66",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joli66",
+      "posted_relative": null,
+      "text": "12. nov. MR spot, 11. november: MR Atlantic Basket $69,695/day (-$241) MR Pacific Basket $85,958/day (+$653)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    }
+  ]
 }

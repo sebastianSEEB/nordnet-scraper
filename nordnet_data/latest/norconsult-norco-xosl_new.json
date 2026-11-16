@@ -1,9 +1,36 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-16T03:44:37.432383+00:00",
+  "scraped_at": "2026-11-16T12:15:29.520382+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b54c471d7bcab31e",
+      "author": "@Schummy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/schummy",
+      "posted_relative": null,
+      "text": "skriver, utgjør tilbakekjøpet en merkbar andel av en gjennomsnittlig dagsomsetning i NORCO. Men gjennomsnittlig dagsomsetning trekkes ganske kraftig opp av endel enkeltdager med svært store volum og tilbakekjøpet vil derfor utgjøre en betydelig andel av en typisk dagsomsetning i NORCO gjennom tilbakekjøpsperioden.  Foreløpig har ikke markedet reagert så mye på dette men alt annet likt (unngå generell markedsnedgang eller negative nyheter fra selskapet)  vil tilbakekjøpet medføre en gradvis stigende kurs gjennom hele kjøpsperioden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 536,
+      "has_link": false
+    },
+    {
+      "key": "02f0604c25976bc7",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 3 t siden",
+      "text": "Som de foregående skriver; dette skal være positivt for aksjekursen.  Tilbakekjøp av egne aksjer er ofte et alternativ til å betale utbytte. For 2026 gjør altså Norconsult begge deler.  Som",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 189,
+      "has_link": false
+    }
+  ]
 }

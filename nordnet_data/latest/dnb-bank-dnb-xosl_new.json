@@ -1,9 +1,68 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-16T03:47:02.784837+00:00",
+  "scraped_at": "2026-11-16T12:17:54.676888+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "7794f05ae0c157fa",
+      "author": "Ola x",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ola-x",
+      "posted_relative": null,
+      "text": "12. nov. DNB Bank har oppgradert sine langsiktige finansielle mål og sikter nå mot en egenkapitalavkastning over 15 % og en kostnadsgrad under 38 % innen utgangen av 2028.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 171,
+      "has_link": false
+    },
+    {
+      "key": "69160631861d2963",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": "for 2 t siden",
+      "text": "nå lukter det 330,- av DNB. De neste 5 årene så skal vi ha et overskudd på minst 150,- pr aksje (mitt estimat).",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "1377977f38867b92",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": null,
+      "text": "12. nov. Skal DNB slutte over 330,- idag? Ja tror jeg. \"BUY AND HOLD!\" Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    },
+    {
+      "key": "51c08965f01882c3",
+      "author": "Ola x",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ola-x",
+      "posted_relative": null,
+      "text": "12. nov. organisk vekst på bunnlinjen også. ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

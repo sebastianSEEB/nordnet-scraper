@@ -1,9 +1,43 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-16T03:45:20.318710+00:00",
+  "scraped_at": "2026-11-16T12:16:12.009377+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "393098b2c46221b0",
+      "author": "Tech1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech1",
+      "posted_relative": "for 3 t siden",
+      "text": "Prisingen er lav  \"I analytikerens dekningsunivers får også Elopak, Borregaard og Envipco tommelen opp. – Elopak-kursen har oppside dersom noen av kapasitetsbegrensningene i USA blir redusert, utdyper han.  – Aksjen handles til elleve ganger forventet resultat i 2027, mot et historisk snitt siden børsnoteringen på tolv ganger. https://www.finansavisen.no/industri/2026/11/16/8395877/har-en-doblingskandidat",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/11/16/8395877/har-en-doblingskandidat"
+      ],
+      "char_count": 408,
+      "has_link": true
+    },
+    {
+      "key": "48212506bb2172a4",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": null,
+      "text": "12. nov. Dnb fond har troa  og på kort tid doblet aksjesits ut fra siste investorliste . Tett på 5%  .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        7
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    }
+  ]
 }
