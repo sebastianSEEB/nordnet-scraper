@@ -1,41 +1,9 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-15T23:19:23.108340+00:00",
+  "scraped_at": "2026-11-16T03:46:50.914741+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "92e79cf99e56a3d1",
-      "author": "tomaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tomaa",
-      "posted_relative": "for 4 t siden",
-      "text": "https://www.dn.no/jus/hunter-group/sparket-toppsjef-saksokte-hunter-group-tapte-i-retten/2-1-2074313?utm_source=dn.no&utm_medium=push",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        11,
-        2
-      ],
-      "links": [
-        "https://www.dn.no/jus/hunter-group/sparket-toppsjef-saksokte-hunter-group-tapte-i-retten/2-1-2074313?utm_source=dn.no&utm_medium=push"
-      ],
-      "char_count": 133,
-      "has_link": true
-    },
-    {
-      "key": "69de401c8f3565e0",
-      "author": "MrRokke",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrokke",
-      "posted_relative": "for 4 t siden",
-      "text": "Hva betyr dette, går kursen opp nå",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 34,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
