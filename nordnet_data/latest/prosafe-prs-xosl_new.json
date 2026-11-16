@@ -1,70 +1,86 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-16T12:20:26.880352+00:00",
+  "scraped_at": "2026-11-16T16:31:20.717822+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "8eb3342fae9dffee",
-      "author": "Groguluru",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "key": "446909db5759ec45",
+      "author": "penga ut av vindu",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/penga-ut-av-vindu",
+      "posted_relative": "for 2 t siden",
+      "text": "Åpning av anbud kl 18 30 norsk tid. Hvor langt ut i tid kan budrunden ta? Nårtid kan man forvente å få svar på hvem som vinner kontrakten?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        14
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "dfd3f85d35aa7ddb",
+      "author": "AlphaTrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alphatrade",
       "posted_relative": "for 1 t siden",
-      "text": "Det er nok pga de som har satt seg inn i casen vet at kvartalsrapporten vil vise bedring fra forige kvartal + at de neste kvartalene fremover vil bli enda bedre, ref Notos på bedre kontrakt + Caledonia start kontrakt Q1 27. Så er det og naturligvis en kjemperosin i pølsa med nye kontrakter som vil komme inn. Året 27 er allerde sikret med en mye bedre inntjening enn hva 26 ender på bare på dagens backlog.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        10
-      ],
-      "links": [],
-      "char_count": 407,
-      "has_link": false
-    },
-    {
-      "key": "0065c0b011d6485a",
-      "author": "alex70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
-      "posted_relative": "for 1 t siden",
-      "text": "Virker dom PRS skal få kontrakt nærmeste dagene. Aksjen stiger uten nyheter. Noen veit meren markedet igjen",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4,
-        1
-      ],
-      "links": [],
-      "char_count": 107,
-      "has_link": false
-    },
-    {
-      "key": "0341de58a5d2866e",
-      "author": "Utbyttejeger",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
-      "posted_relative": "for 4 t siden",
-      "text": "Kun 4 dager til rapport - bør vel se økt kjøpsinteresse nå 👍",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        10
-      ],
-      "links": [],
-      "char_count": 60,
-      "has_link": false
-    },
-    {
-      "key": "cbf779b366796597",
-      "author": "tou_pilsner",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tou_pilsner",
-      "posted_relative": "for 3 t siden",
-      "text": "Han er vel endelig kicket ut av forumet",
+      "text": "Floatel kommer til å by høyt. De er ikke interessert i å flytte riggene over til Petrobras i 4 år når de kan få høyere rater andre steder.",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "2f10994a771e1492",
+      "author": "AlphaTrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alphatrade",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Prosafe bør gå helt ned til USD 130k om det er det som må til. Zephyrus og Eurus går på USD 115k og USD 86k i dag.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    },
+    {
+      "key": "2645446aebddb2e0",
+      "author": "Mrhifi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrhifi",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "· Slett ikke sikkert prosafe har budt på 140.000.$ rate 🧐 (Rate låst i 4 år) Hvor stramt er markedet 🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 102,
+      "has_link": false
+    },
+    {
+      "key": "fa1516bc3fe61a43",
+      "author": "AlphaTrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alphatrade",
+      "posted_relative": "for 3 t siden",
+      "text": "Jeg har endret konklusjon. Prosafe vinner dette.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 39,
+      "char_count": 48,
       "has_link": false
     }
   ]

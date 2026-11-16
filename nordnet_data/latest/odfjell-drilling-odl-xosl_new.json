@@ -1,9 +1,39 @@
 {
   "slug": "odfjell-drilling-odl-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/odfjell-drilling-odl-xosl",
-  "scraped_at": "2026-11-16T12:15:09.651596+00:00",
+  "scraped_at": "2026-11-16T16:26:04.797443+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "418b1cac6a62cb63",
+      "author": "Thorstein1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thorstein1",
+      "posted_relative": "for 3 døgn siden",
+      "text": "lurer på hvorfor noen synes at denne burde ha en p/e under 20, jeg kjøper ivertfall Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "13858f0270caac8b",
+      "author": "sdv247",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sdv247",
+      "posted_relative": "for 44 min siden · Endret",
+      "text": "Et syklisk offshore selskap midt i høysyklus skal ikke prises til 20 P/E…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

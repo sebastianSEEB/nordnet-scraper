@@ -1,9 +1,41 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-16T12:14:29.264980+00:00",
+  "scraped_at": "2026-11-16T16:25:24.535678+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6bffe9ef1184f73a",
+      "author": "Don Sony",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/don-sony",
+      "posted_relative": null,
+      "text": "12. nov. Dette er en veldig fin inngangspris. Aksjen skal godt over 70 når Q4 slippes i februar. Kommer til å se jevn og fin vekst fram til da, parallelt med at forventningene tar seg opp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 188,
+      "has_link": false
+    },
+    {
+      "key": "fa91774301a6b6e0",
+      "author": "Stefan007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan007",
+      "posted_relative": null,
+      "text": "12. nov. · Ikke klokt. Men hvis man snur på det, er det et kjøpsanledning så det holder",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    }
+  ]
 }

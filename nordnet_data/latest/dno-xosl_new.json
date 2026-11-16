@@ -1,22 +1,67 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-16T12:16:31.713148+00:00",
+  "scraped_at": "2026-11-16T16:27:25.577867+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "8aafc336beeebce5",
-      "author": "fosa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fosa",
-      "posted_relative": "for 3 t siden",
-      "text": "Sikkert noe utbytte som skal reinvesteres I morgen",
+      "key": "4cd254a3da178f9c",
+      "author": "CTI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cti",
+      "posted_relative": "for 35 min siden",
+      "text": "Trur ikke det skjer, OKEA er lite attraktivt med gamle felt i porteføljen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 50,
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "4589364fa3543c25",
+      "author": "Amatørkongen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
+      "posted_relative": "for 3 t siden",
+      "text": "Han er vel i Norge for å hente utbyttet som utbetales i morgen, haha",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "7954f6f67bacd53a",
+      "author": "Kongenavshareville",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongenavshareville",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvorfor er DNO bedre enn peers i dag? Skjedd noe nytt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "249653c7758b421e",
+      "author": "A320",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a320",
+      "posted_relative": "for 51 min siden",
+      "text": "Hva tenker dere om at DNO kjøper opp  Okea ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 44,
       "has_link": false
     }
   ]

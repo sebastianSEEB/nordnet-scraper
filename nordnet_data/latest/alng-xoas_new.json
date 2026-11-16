@@ -1,72 +1,71 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-16T12:13:06.687583+00:00",
+  "scraped_at": "2026-11-16T16:24:01.968038+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 4,
   "posts": [
     {
-      "key": "4b7afdf72a0e267a",
-      "author": "Nextbay",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
-      "posted_relative": null,
-      "text": "9. nov. Vi nærmer oss Q3 (18/11). Ikke mange hus som dekker denne med analyser,  så vi lager vår egen... Husk at dette spørsmålet gjelder Q3, og ikke hva som har skjedd de siste uker i Q4. Hva forventer vi blir resultatet i Q3? Bli medlem av Nordnet Social for å se resultatene Logg inn Underskuddet reduseres med 55% % Resultat omtrent som Q2 % Snudd til overskudd, trading % 19 stemmer • Avsluttet",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        42,
-        42,
-        16,
-        1,
-        6
-      ],
-      "links": [],
-      "char_count": 399,
-      "has_link": false
-    },
-    {
-      "key": "94d3deca77e8f555",
-      "author": "Nextbay",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
-      "posted_relative": "for 3 min siden",
-      "text": "Stemmer nok bra, mistenker at de hadde en trade fra Kina til Korea… kort tur men blir uansett spennende å lese rapporten siden de er ganske tilbakeholdne med informasjon ellers…",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 177,
-      "has_link": false
-    },
-    {
-      "key": "e8fbd81ed7565f54",
-      "author": "acpeters",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acpeters",
-      "posted_relative": "for 3 t siden",
-      "text": "Bra aktivitet, nok en last levert. WilForce på vei vestover fra Indonesia for ny last",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        1
-      ],
-      "links": [],
-      "char_count": 85,
-      "has_link": false
-    },
-    {
-      "key": "561e1054514dd1e4",
+      "key": "33ed3987beb00f2e",
       "author": "Sluket",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
       "posted_relative": "for 1 t siden",
-      "text": "Yup, høy flåteutnyttelse for Q4 så langt.",
+      "text": "Ikke så veldig mye nei. Ifølge Reuters så prøver europa å trekke mer LNG vekk fra asiatiske markeder, men det går tregt. Fraktratene er trolig ikke høye nok. Følg med på langtidsvarselet, kulda kommer muligens tidligere enn forventet til hele europa.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 41,
+      "char_count": 250,
+      "has_link": false
+    },
+    {
+      "key": "4527850c4a5eca92",
+      "author": "BerntOlav",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/berntolav",
+      "posted_relative": "for 2 t siden",
+      "text": "På tide blir spennende, er vel først i q3 vi får se break Even gå kraftig ned pga avtalen, men det vi fleste venter på er vel en handel eller iallefall god guiding på en handel før årsslutt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 189,
+      "has_link": false
+    },
+    {
+      "key": "d00c8f6188722c6a",
+      "author": "acpeters",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acpeters",
+      "posted_relative": "for 7 t siden",
+      "text": "Bra aktivitet, nok en last levert. WilForce på vei vestover fra Indonesia for ny last Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "cef3a6b47b53fd78",
+      "author": "@Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": null,
+      "text": "har du noe info å komme med sluket?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 35,
       "has_link": false
     }
   ]

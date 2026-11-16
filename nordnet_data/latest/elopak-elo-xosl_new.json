@@ -1,42 +1,55 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-16T12:16:12.009377+00:00",
+  "scraped_at": "2026-11-16T16:27:06.107280+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "393098b2c46221b0",
-      "author": "Tech1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech1",
+      "key": "604352310c23a257",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
       "posted_relative": "for 3 t siden",
-      "text": "Prisingen er lav  \"I analytikerens dekningsunivers får også Elopak, Borregaard og Envipco tommelen opp. – Elopak-kursen har oppside dersom noen av kapasitetsbegrensningene i USA blir redusert, utdyper han.  – Aksjen handles til elleve ganger forventet resultat i 2027, mot et historisk snitt siden børsnoteringen på tolv ganger. https://www.finansavisen.no/industri/2026/11/16/8395877/har-en-doblingskandidat",
+      "text": "Da er vi ved et spennende motstandsnivå i området 37,30-37,40.  Den har jo vært oppe og yppet seg på dette nivået noen ganger etter det store mars-fallet så det blir interessant å se om den har nok fart og volum til å komme seg gjennom og etablere seg på oppsiden denne gangen. Personlig valgte jeg å selge 25% på 37,40 med håp om plukke den opp igjen et stykke under 37. Jeg er ikke overbevist om at det var lurt :-)",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
-      ],
-      "links": [
-        "https://www.finansavisen.no/industri/2026/11/16/8395877/har-en-doblingskandidat"
-      ],
-      "char_count": 408,
-      "has_link": true
-    },
-    {
-      "key": "48212506bb2172a4",
-      "author": "hengslet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
-      "posted_relative": null,
-      "text": "12. nov. Dnb fond har troa  og på kort tid doblet aksjesits ut fra siste investorliste . Tett på 5%  .",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        7
+        2,
+        3
       ],
       "links": [],
-      "char_count": 102,
+      "char_count": 417,
+      "has_link": false
+    },
+    {
+      "key": "0d432de1f1ff1f84",
+      "author": "saksbehandleren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/saksbehandleren",
+      "posted_relative": "for 2 t siden",
+      "text": "Da ser vi hvorfor vi sliter sånn med å komme over motstanden :')",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "f0b6798a238380a6",
+      "author": "HFalck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hfalck",
+      "posted_relative": null,
+      "text": "12. nov. blir å fylle på litt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 29,
       "has_link": false
     }
   ]
