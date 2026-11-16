@@ -1,67 +1,50 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-16T16:27:25.577867+00:00",
+  "scraped_at": "2026-11-16T22:41:12.591568+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "4cd254a3da178f9c",
-      "author": "CTI",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cti",
-      "posted_relative": "for 35 min siden",
-      "text": "Trur ikke det skjer, OKEA er lite attraktivt med gamle felt i porteføljen",
+      "key": "0da0c41a28dad05d",
+      "author": "UMn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/umn",
+      "posted_relative": "for 2 t siden",
+      "text": "Bijan i norge? Ser det blir nevnt her i dag at Bijan skal være i Norge. Er det noen som kan si hvor den informasjonen kommer fra, eller om dette er bekreftet noe sted? Jeg har forsøkt å finne noe offentlig om det, men har foreløpig ikke funnet noen bekreftelse",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 73,
+      "char_count": 260,
       "has_link": false
     },
     {
-      "key": "4589364fa3543c25",
-      "author": "Amatørkongen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/amatrkongen",
-      "posted_relative": "for 3 t siden",
-      "text": "Han er vel i Norge for å hente utbyttet som utbetales i morgen, haha",
+      "key": "667114a4a4c103ee",
+      "author": "Real Odd",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/real-odd",
+      "posted_relative": "for 5 t siden",
+      "text": "Okea har steget mye i år. Visst Okea finner olje på Arkenstone brønnen neste år, Så kan det vere ett godt kjøp.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "b6d07b14c7fd32e0",
+      "author": "A320",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a320",
+      "posted_relative": "for 7 t siden",
+      "text": "Hva tenker dere om at DNO kjøper opp  Okea ? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 68,
-      "has_link": false
-    },
-    {
-      "key": "7954f6f67bacd53a",
-      "author": "Kongenavshareville",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongenavshareville",
-      "posted_relative": "for 4 t siden",
-      "text": "Hvorfor er DNO bedre enn peers i dag? Skjedd noe nytt?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 54,
-      "has_link": false
-    },
-    {
-      "key": "249653c7758b421e",
-      "author": "A320",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a320",
-      "posted_relative": "for 51 min siden",
-      "text": "Hva tenker dere om at DNO kjøper opp  Okea ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 44,
+      "char_count": 64,
       "has_link": false
     }
   ]

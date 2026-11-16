@@ -1,9 +1,23 @@
 {
   "slug": "protector-forsikring-prot-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/protector-forsikring-prot-xosl",
-  "scraped_at": "2026-11-16T16:25:44.921570+00:00",
+  "scraped_at": "2026-11-16T22:39:31.464202+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f1a3cdba6d04cbaf",
+      "author": "Mr All-In",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-all-in",
+      "posted_relative": "for 20 min siden",
+      "text": "Medgründer og tidligere administrerende direktør Sverre Bjerkeli selger seg ned med 21,27 % bare noen uker etter siste kjøp.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

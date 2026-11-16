@@ -1,9 +1,25 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-11-16T16:30:26.969873+00:00",
+  "scraped_at": "2026-11-16T22:44:09.246515+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bc60f8b42b5edf26",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 13 min siden",
+      "text": "https://www.nordnet.no/market/news/8c043e64-4b64-4621-bb01-47824852b398 De kjøper 5000  aksjer per dag i snitt. Fremskrevet til nyttår blir det +\\- 200 000 aksjer og ikke 500 000 slik de har sagt 🤔 Så de bør vel minst doble takten på kjøpene?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.nordnet.no/market/news/8c043e64-4b64-4621-bb01-47824852b398"
+      ],
+      "char_count": 242,
+      "has_link": true
+    }
+  ]
 }

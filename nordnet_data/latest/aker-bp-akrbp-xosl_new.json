@@ -1,24 +1,52 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-16T16:28:56.576479+00:00",
+  "scraped_at": "2026-11-16T22:42:41.468925+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 1,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "661afb662872c49a",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": null,
-      "text": "12. nov. Aksjer er \"sjelden\" fair priset, enten overpriset eller underpriset. Du vet ikke at når aksjen noteres rundt 393 så kan en få den for 310, 10 dager senere.",
+      "key": "66f1935adbd12310",
+      "author": "Persienne",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/persienne",
+      "posted_relative": "for 3 døgn siden",
+      "text": "Kgh ltd økte shorten igjen i Aker bp dem mener tydeligvis mere fall Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 164,
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "66467641eca17952",
+      "author": "Persienne",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/persienne",
+      "posted_relative": "for 1 t siden",
+      "text": "Ser ut som kgh får en innertier med short i Aker bp",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "21d8a15f727a5da4",
+      "author": "Jhonnykuskus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jhonnykuskus",
+      "posted_relative": null,
+      "text": "12. nov. · .",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 12,
       "has_link": false
     }
   ]

@@ -1,37 +1,40 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-16T16:27:29.567012+00:00",
+  "scraped_at": "2026-11-16T22:41:16.486063+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "9cd572519ff45ef0",
-      "author": "Kanick",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kanick",
-      "posted_relative": "for 8 min siden",
-      "text": "Selskapet prises kanskje relativt høyt og? Selv om det ser meget lovende ut fremover.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 85,
-      "has_link": false
-    },
-    {
-      "key": "e1157d4ce2ec8bf5",
-      "author": "Willern",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willern",
-      "posted_relative": "for 4 t siden",
-      "text": "Hva skyldes dagens nedgang? Vis 1 kommentar til",
+      "key": "98b36eedb20ab33b",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Skrue, det er så stille i fjøset i dag hvorfor? Åpnade akkurat en Gramona La Cuvée Corpinnat🥂☀️",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        3,
+        6
       ],
       "links": [],
-      "char_count": 47,
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "a2ebe77d65e64766",
+      "author": "mingus77",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mingus77",
+      "posted_relative": "for 3 t siden",
+      "text": "Pass på så du ikke drikker oppe pengene dine.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 45,
       "has_link": false
     }
   ]
