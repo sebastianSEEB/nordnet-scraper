@@ -1,9 +1,38 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-17T16:29:48.319487+00:00",
+  "scraped_at": "2026-11-17T22:01:41.102738+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "87e47e10b5a8abcd",
+      "author": "knirkmqsqueak",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knirkmqsqueak",
+      "posted_relative": "for 2 t siden",
+      "text": "Den spesielle årsaken er nok at den doblet sek på omtrent åtte uker hvis du spoler enda lengre tilbake. Det siste året slik jeg ser det er en \"pust i bakken\", eller konsollidering. Jeg er ganske sikker på at denne vil vokse fint fremover, kanskje ikke jevnt, men bra i det lange bildet.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 286,
+      "has_link": false
+    },
+    {
+      "key": "5640f0d051e50a10",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 3 t siden",
+      "text": "gikk fra 231 til 166 på 3 uker, noen spesiell årsak ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    }
+  ]
 }

@@ -1,41 +1,28 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-11-17T16:27:46.030380+00:00",
+  "scraped_at": "2026-11-17T21:59:33.037184+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "6017eab86d7e1fe5",
-      "author": "Proffen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
-      "posted_relative": "for 1 t siden",
-      "text": "Herregud, må man begynne å selge seg ut av denne hver dag før 1530???",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        1
-      ],
-      "links": [],
-      "char_count": 69,
-      "has_link": false
-    },
-    {
-      "key": "e1b5fd27d45ab683",
-      "author": "pryp",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
-      "posted_relative": "for 51 min siden",
-      "text": "Er ikke noe vits i å kjøpe før ihvertfall...",
+      "key": "32a54b5829cd75ca",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 3 t siden",
+      "text": "Det er visst en risiko for manko på tomme skip på vei til GoO... (nederste lenke) Samtidig har oljeflyten gjennom stredet vært en del redusert i det siste pga alle \"minene\" (lenke rett under) Dersom dette (om \"få\" skip på vei til GoO) stemmer og kommer samtidig som at flyten gjennom stredet tar seg opp igjen, så kanskje vi kan få en boost på GoO-ratene igjen (neppe i nærheten av de sykeste nivåene vi så på topp, men takker for alle grønne prosenter vi kan få) https://x.com/TankerTrackers/status/2121281065168109675 https://www.bloomberg.com/news/articles/2026-11-17/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDkyOTM2NCwiZXhwIjoxNzk1NTM0MTY0LCJhcnRpY2xlSWQiOiJUT04wNUhLSVAzSUMwMCIsImJjb25uZWN0SWQiOiIzM0JFQTZCREEzRUI0MTVFOEY5QkQyNUI4Q0E1RURFRSJ9.KPQZg45Uy2drDFvhfMY7zXVqViK8APO35JjjmvB5jQ4&leadSource=article-gifting",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
-      "links": [],
-      "char_count": 44,
-      "has_link": false
+      "links": [
+        "https://www.bloomberg.com/news/articles/2026-11-17/gulf-oil-flow-at-risk-from-lack-of-empty-tankers-tracker-says?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDkyOTM2NCwiZXhwIjoxNzk1NTM0MTY0LCJhcnRpY2xlSWQiOiJUT04wNUhLSVAzSUMwMCIsImJjb25uZWN0SWQiOiIzM0JFQTZCREEzRUI0MTVFOEY5QkQyNUI4Q0E1RURFRSJ9.KPQZg45Uy2drDFvhfMY7zXVqViK8APO35JjjmvB5jQ4&leadSource=article-gifting",
+        "https://x.com/TankerTrackers/status/2121281065168109675"
+      ],
+      "char_count": 949,
+      "has_link": true
     }
   ]
 }

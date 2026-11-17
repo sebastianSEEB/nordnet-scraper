@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-17T16:29:02.987191+00:00",
+  "scraped_at": "2026-11-17T22:00:52.380613+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "46b53d4139d45583",
+      "author": "Stefan1967",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stefan1967",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva tid gå BN over til VÅR ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,39 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-17T16:32:26.886507+00:00",
+  "scraped_at": "2026-11-17T22:04:24.032040+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "851893c59a228f99",
-      "author": "fred hauge",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fred-hauge",
-      "posted_relative": "for 47 min siden",
-      "text": "Hva tenker folk om utbytte som kommer",
+      "key": "c7fc2edf477a77a2",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden · Endret · Donald Trump har satt i gang nye angrep på Iran midt i voksende dommedagsfrykt i USA utløst av en teknologisk mørklegging og trusler om en \"skitten bombe\" i Washington. https://www.dailymail.com/news/article-16300741/trump-iran-strikes-washington-blackout.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
+      "links": [
+        "https://www.dailymail.com/news/article-16300741/trump-iran-strikes-washington-blackout.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_mailonline"
+      ],
+      "char_count": 362,
+      "has_link": true
+    },
+    {
+      "key": "85ea40f85a4dfb96",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 5 t siden",
+      "text": "Raten havnet på 0 idag på 1,064 mill usd , og lite bevegelse i de andre segmentene",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 37,
+      "char_count": 82,
       "has_link": false
     }
   ]

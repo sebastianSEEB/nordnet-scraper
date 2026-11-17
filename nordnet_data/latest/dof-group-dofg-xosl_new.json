@@ -1,24 +1,40 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-17T16:29:37.108112+00:00",
+  "scraped_at": "2026-11-17T22:01:28.336489+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "573022c62f8f6b5a",
-      "author": "mohalj",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
-      "posted_relative": "for 1 t siden",
-      "text": "DOF GROUP: Kepler øker kursmålet til NOK 170 (160), gjentar kjøp.",
+      "key": "4ef786893b526016",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "De sier vel selv at de har god kontroll og viisibilitet for de neste 2 år, allerede nå.. Det betyr 12-14 kr i utbytte pr år, minst. Så da er selskapet attraktivt hvilket Fredriksen økning også tilsier. Trodde ikke at BWLlpg skulle over kr 200 så solgte for tidlig der.  Dof kan fort også være et 200kr selskap.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        10
+        2
       ],
       "links": [],
-      "char_count": 65,
+      "char_count": 310,
+      "has_link": false
+    },
+    {
+      "key": "ff7882b55234b7d6",
+      "author": "mohalj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mohalj",
+      "posted_relative": "for 7 t siden",
+      "text": "DOF GROUP: Kepler øker kursmålet til NOK 170 (160), gjentar kjøp. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        2
+      ],
+      "links": [],
+      "char_count": 85,
       "has_link": false
     }
   ]

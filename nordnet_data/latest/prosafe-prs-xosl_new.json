@@ -1,24 +1,68 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-17T16:35:04.697424+00:00",
+  "scraped_at": "2026-11-17T22:07:08.530913+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 7,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "cab7728a5119a1e1",
-      "author": "Syverbd",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/syverbd",
+      "key": "4dc229b20498a63e",
+      "author": "Junior63",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/junior63",
       "posted_relative": "for 2 t siden",
-      "text": "Enig i at dette ikke er så negativt. Det viser at Prosafe ikke senker prisen bare for å få oppdraget, de vet at de vil få solgt inn denne til andre prosjekter til høyere pris.",
+      "text": "Her er AI sitt svar på dette med formelen med budet og da også hvordan drivstoff kommer som et element inn ! Det er jo Herr AI som må brukes her 😊 Sorry men det gir jo en indikasjon på hvordan dette fungerer. Presiserer at vi ikke kan stole på at det er fasit🧐 « I anbud for flotel/boligrigger er CDE (Custo Diário Equivalente / Total Evaluert Pris) det avgjørende tildelingskriteriet for selve rangeringen før teknisk og kommersiell godkjenning.  Slik slår regnestykket ut for Safe Eurus vs. Guinevere:  • Direkte kontraktsverdi (Dagrate + Mobilisering): Guinevere ligger omtrent $1,0M lavere enn Prosafe (Safe Eurus) før drivstoff inkluderes. • Drivstoffkomponenten: Petrobras beregner en teoretisk drivstoffkostnad basert på oppgitt forbruk i anbudspapirene multiplisert med deres egen referansepris på bunkers/drivstoff over kontraktsperioden. Her har Safe Eurus en beregnet fordel på rundt $6,5M. • Netto CDE-resultat: Når drivstoffkostnaden legges inn i formelen, henter Safe Eurus inn forspranget og ender opp med en total evaluert kostnad som er omtrent $5,5M lavere enn konkurrenten.  Veien videre i Petrobras-prosessen:  • Negociação (Forhandlinger): Som laveste CDE-tilbyder blir Prosafe innkalt først til direkte prisforhandlinger, der Petrobras normalt forsøker å presse dagraten ytterligere ned fra det opprinnelige budet. • Habilitação (Teknisk og juridisk kontroll): Parallelt eller rett i etterkant gjennomgås dokumentasjonen for å bekrefte at Safe Eurus oppfyller alle tekniske, sikkerhetsmessige og finansielle krav i anbudet (inklusive de oppgitte forbrukstallene). • Risikomomentet: Det eneste som kan hindre tildeling til Prosafe nå, er dersom anbudsdokumentene for denne spesifikke runden har unntatt drivstoff fra CDE-beregningen, eller dersom riggen faller gjennom på tekniske krav under habilitação.»",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 1826,
+      "has_link": false
+    },
+    {
+      "key": "7d7f9b3cc3e423ca",
+      "author": "Mr.Robot12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrrobot12",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvis fuel credit på opptil 3 % ikke allerede er tatt med i budresultatet, kan dette faktisk snu hele anbudet i Prosafes favør. Et enkelt regneeksempel: Safe Eurus (Prosafe): * Budpris: 214,5 mill. USD * Fuel credit på 3 %: ca. 6,4 mill. USD * Evaluert pris: 208,1 mill. USD Guinevere (BlueOOS): * Budpris: 213,5 mill. USD * Fuel credit på 0 % (forutsatt) * Evaluert pris: 213,5 mill. USD",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 387,
+      "has_link": false
+    },
+    {
+      "key": "f6f27a31d2533bec",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 4 t siden",
+      "text": "Noen som vet om Petrobras går i forhandlinger basert på bud alene, eller om de og regner inn fuel kost over 4år når de velger vinner av tender?  Jeg ser at Eurus vil bruke ca 5-6million USD over 4år mindre i fuelkost, og da er jo Eurus vinner på totalpris siden de bydde 1mill USD høyere (214 VS 213). Får litt tvetydige svar på dette når jeg spør AI/googler.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
         5
       ],
       "links": [],
-      "char_count": 175,
+      "char_count": 359,
+      "has_link": false
+    },
+    {
+      "key": "c8b6b157e21cbfa1",
+      "author": "Mrhifi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrhifi",
+      "posted_relative": "for 4 t siden",
+      "text": "· Vanvittig overreaksjon, det er jo mega bull tilbudsprosessen trots alt. Men kult at quick profit investors gikk BUST på kort sikt 🥳 Love it 😇",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 143,
       "has_link": false
     }
   ]
