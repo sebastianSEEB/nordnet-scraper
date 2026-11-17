@@ -1,9 +1,25 @@
 {
   "slug": "kid-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kid-xosl",
-  "scraped_at": "2026-11-17T04:56:04.709376+00:00",
+  "scraped_at": "2026-11-17T14:02:14.698338+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b4fc7c21ecb7605f",
+      "author": "Hr Dust",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hr-dust",
+      "posted_relative": null,
+      "text": "13. nov. Det tynnes ut på selgersiden. Får vi et rykk snart? Kurs nå 150,-",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

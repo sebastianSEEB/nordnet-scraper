@@ -1,9 +1,40 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-17T04:51:48.589791+00:00",
+  "scraped_at": "2026-11-17T13:57:51.026244+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e98175ad230f2231",
+      "author": "Nextbay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "posted_relative": "for 28 min siden",
+      "text": "Oppsummering av skipenes aktivitet Q3  https://x.com/henriksen_46966/status/2122678915298664795?a=rO30KBFbf7gQr4JWH3M&s=61",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://x.com/henriksen_46966/status/2122678915298664795?a=rO30KBFbf7gQr4JWH3M&s=61"
+      ],
+      "char_count": 122,
+      "has_link": true
+    },
+    {
+      "key": "e7f45cfc5d79195d",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 1 t siden",
+      "text": "S&P Global Energy: LNG importen mot Asia har økt 11% siste 30 dager MM. Dette er på linje med 2024 og 2025, men forskjellen i 2026 er at denne økningen inntreffer 1 måned tidligere enn normalt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 193,
+      "has_link": false
+    }
+  ]
 }

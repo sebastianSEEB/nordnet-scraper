@@ -1,9 +1,125 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-17T04:53:22.671665+00:00",
+  "scraped_at": "2026-11-17T13:59:27.875324+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 8,
+  "posts": [
+    {
+      "key": "b9c643ea49b7be87",
+      "author": "RogerJr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rogerjr",
+      "posted_relative": "for 3 min siden",
+      "text": "Er panteautomater og sorteringsmaskiner det neste som blir hacket? Ser sånn ut på kursen hvertfall. Vi får se..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 111,
+      "has_link": false
+    },
+    {
+      "key": "f03eaf93d8983c5e",
+      "author": "mr.parker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrparker-1",
+      "posted_relative": "for 5 t siden",
+      "text": "· Hvis den treffer 90 igjen, kan det hende jeg kjøper mer, selv om jeg er litt eksponert mot denne aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "3d5692eb6af45609",
+      "author": "ElseNordnet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/elsenordnet",
+      "posted_relative": "for 19 min siden",
+      "text": "Akkurat når jeg trodde det var på vei oppover igjen..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "d8336fd133ed05d0",
+      "author": "Affogato",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/affogato",
+      "posted_relative": "for 11 min siden",
+      "text": "· Går den under 90 så fordobler jeg posisjonen min :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "cb79db981258f11f",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Kursen er på vei opp nå :). Kjøpsmulighet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        3
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "97373820e2c125df",
+      "author": "Ceandem",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ceandem",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hva skjedde, hvorfor falt den så mye",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        12
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    },
+    {
+      "key": "4dc1e726ce2e5124",
+      "author": "kevintheG",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kevintheg",
+      "posted_relative": "for 5 t siden",
+      "text": "Ble ett lodd her Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    },
+    {
+      "key": "e5a1458617d8cd74",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": "for 3 t siden",
+      "text": "upanddown Dette er spam.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

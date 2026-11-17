@@ -1,9 +1,54 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-17T04:55:14.294177+00:00",
+  "scraped_at": "2026-11-17T14:01:23.583135+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b1bc005c4b20a901",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 3 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        6
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "479e06de69dd12b3",
+      "author": "LeoSala",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leosala",
+      "posted_relative": "for 1 t siden",
+      "text": "Bypaxx snakk nå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    },
+    {
+      "key": "8b1d86b030564952",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 1 t siden",
+      "text": "Om hva?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
+      "has_link": false
+    }
+  ]
 }

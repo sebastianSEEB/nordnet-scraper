@@ -1,9 +1,38 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-17T04:58:06.201780+00:00",
+  "scraped_at": "2026-11-17T14:04:17.321729+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "12cf6030de73b34c",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 4 t siden",
+      "text": "Små volum påvirker kursen mye. Kortsiktig øre trading. Tror du Fortress har tenkt til å ikke tape 2.4 milliarder så er dagens kurs en \" tullekurs\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "4140214c33777f95",
+      "author": "Fiskestank",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskestank",
+      "posted_relative": null,
+      "text": "13. nov. Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-11-17T04:51:40.859938+00:00",
+  "scraped_at": "2026-11-17T13:57:42.813115+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "bcc89d4a42b2905b",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 1 t siden",
+      "text": "Det er jo nesten ingen bevegelse her her kan du vente lenge får å kjøpe eller selge den var lit mer fart i for et år siden",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    }
+  ]
 }

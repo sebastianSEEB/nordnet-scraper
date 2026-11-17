@@ -1,9 +1,25 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-11-17T04:58:02.158544+00:00",
+  "scraped_at": "2026-11-17T14:04:13.280269+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "99cf488718ac890b",
+      "author": "Dozen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dozen",
+      "posted_relative": null,
+      "text": "13. nov. Lou Macari! Gammel helt!!",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

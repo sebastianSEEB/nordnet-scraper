@@ -1,9 +1,28 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-17T04:52:51.700652+00:00",
+  "scraped_at": "2026-11-17T13:58:55.221426+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b952df4386e6e729",
+      "author": "keyb9",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/keyb9",
+      "posted_relative": null,
+      "text": "13. nov. Lite nyheter her inne om at karen fra BI kjøper seg inn for 5 millioner kroner. Er ikke det en grei nyhet? Analytiker mener det er rabatt å kjøpe Bluenord for å få Vår Energi aksjer. Her er artikkel fra Finansavisen: https://www.finansavisen.no/energi/2026/11/13/8395392/andreas-w.-hofstad-laster-opp-med-aksjer-for-oljefusjon",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        8
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/13/8395392/andreas-w.-hofstad-laster-opp-med-aksjer-for-oljefusjon"
+      ],
+      "char_count": 335,
+      "has_link": true
+    }
+  ]
 }

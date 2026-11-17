@@ -1,9 +1,67 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-17T04:57:07.249479+00:00",
+  "scraped_at": "2026-11-17T14:03:18.533523+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "8a8a170a93165488",
+      "author": "Strimpern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/strimpern",
+      "posted_relative": "for 49 min siden",
+      "text": "Storebrand faller i dag etter den positive nyheten fra Oslo tingrett i morges (medhold i skattesaken mot staten som kan gi rundt 1,6 mrd. tilbake hvis dommen blir stående). Slik jeg leser dette er det egentlig ganske udramatisk. Aksjen har allerede gått nesten 8 % den siste måneden inn mot dommen, og staten kommer nok til å vurdere å anke saken videre. Da er det ganske typisk med litt gevinstsikring og «sell the news» på en ellers litt rød børsdag. Ser man på volumet i dag er det heller ikke noe voldsomt trykk – rundt 23–24 mill. i omsetning så langt er ganske tynt for Storebrand. Så jeg tar nedgangen på under 1 % sålangt i dag med knusende ro, ser mer ut som vanlig hverdagsstøy enn noen stor markedsreaksjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 718,
+      "has_link": false
+    },
+    {
+      "key": "bfa4bd0bc2027cf0",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": "for 6 t siden",
+      "text": "Storebrand får medhold i skattesak Oslo tingrett gir finanskonsernet Storebrands heleide datterselskap Storebrand Livsforsikring medhold i en skattesak, opplyser selskapet i en børsmelding. Retten setter til side Skatteklagenemndas vedtak fra oktober 2025. Dersom Storebrands tolkning blir stående i en rettskraftig dom, kan selskapet tilbakeføre en tidligere bokført skattekostnad på om lag 1,6 milliarder kroner som skatteinntekt i regnskapet. Dommen er ikke rettskraftig og kan ankes. Den gir i seg selv ikke grunnlag for å endre regnskapet. Tvisten gjelder tolkningen av overgangsregelen til nye skatteregler for livsforsikrings- og pensjonsselskaper fra inntektsåret 2018.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 677,
+      "has_link": false
+    },
+    {
+      "key": "7b9ad3b670222e93",
+      "author": "tonjf",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tonjf",
+      "posted_relative": "for 2 t siden",
+      "text": "Misset jeg noe her nå ? Siden den ramlet slik ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "4e598166666fa88c",
+      "author": "Kristoffer stromnes",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kristoffer-stromnes",
+      "posted_relative": "for 6 t siden",
+      "text": "Kan dette påvirke kursen ?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }

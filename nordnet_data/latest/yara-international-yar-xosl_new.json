@@ -1,9 +1,38 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-17T04:56:59.579302+00:00",
+  "scraped_at": "2026-11-17T14:03:10.738730+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "190d303965855a83",
+      "author": "upanddown67",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/upanddown67",
+      "posted_relative": null,
+      "text": "13. nov. EU gasspris stiger videre idag etter melding om det kke blir avtale med Iran. igår.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "d5ea266e1ce62b2f",
+      "author": "NQ-Luckystrike",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nq-luckystrike",
+      "posted_relative": "for 5 t siden",
+      "text": "Tror du har rett.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

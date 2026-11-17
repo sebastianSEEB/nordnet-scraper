@@ -1,9 +1,68 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-17T04:56:24.093010+00:00",
+  "scraped_at": "2026-11-17T14:02:34.452369+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "b44ef9e5dd3763d0",
+      "author": "phd78",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phd78",
+      "posted_relative": "for 1 t siden",
+      "text": "Skulle gjerne sett noen insidere kjøpe ja. Men nå har de vel uansett handelskarantene siden det er mindre enn 30 dager til kvartalsrapport, samt handelsforbud hvis de har innside informasjon som ikke har blitt børsmeldt ennå",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 224,
+      "has_link": false
+    },
+    {
+      "key": "6ed1f78da5558223",
+      "author": "Subterminal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/subterminal",
+      "posted_relative": "for 2 t siden",
+      "text": "Hmmmm , handler via DNB  , og fullførte handler dukker ikke opp i handels loggen eller ordredybde. Ikke første gang dette skjer . Er vel ikke greit .Driver DNB å manipulerer kursen her?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 185,
+      "has_link": false
+    },
+    {
+      "key": "078dd1872a0b8d02",
+      "author": "VDH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vdh",
+      "posted_relative": "for 2 t siden",
+      "text": "Samme har skjedd med meg når jeg handlet via Nordea..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "353a0cc7dc1af576",
+      "author": "LetsGoForIt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/letsgoforit",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvor er ledelsen i dette drittselskapet?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    }
+  ]
 }
