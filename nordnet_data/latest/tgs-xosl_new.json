@@ -1,9 +1,23 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-11-17T14:01:35.629990+00:00",
+  "scraped_at": "2026-11-17T16:31:34.203338+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7ddd2bbefbfbb62a",
+      "author": "mann69",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mann69",
+      "posted_relative": null,
+      "text": "13. nov. Nei 😜. Tror ikke det",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 29,
+      "has_link": false
+    }
+  ]
 }

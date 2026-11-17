@@ -1,9 +1,39 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-11-17T14:05:22.685420+00:00",
+  "scraped_at": "2026-11-17T16:35:12.180997+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6e43a2b32bd8c947",
+      "author": "Ter-to",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ter-to",
+      "posted_relative": "for 3 døgn siden · Endret",
+      "text": "Et skikkelig jafs noen gjorde 14:38; 1,27mill aksjer, litt vanskelig å se på tlf men ser ut for til rundt 2,08. Tror vi får en fin grønn uke.  God helg😊 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        2
+      ],
+      "links": [],
+      "char_count": 172,
+      "has_link": false
+    },
+    {
+      "key": "3bc9cdfb58b582d9",
+      "author": "john1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/john1",
+      "posted_relative": "for 1 t siden",
+      "text": "· Trist",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
+      "has_link": false
+    }
+  ]
 }

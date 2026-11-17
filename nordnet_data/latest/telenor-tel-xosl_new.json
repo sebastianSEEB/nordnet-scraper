@@ -1,69 +1,40 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-17T14:02:54.624003+00:00",
+  "scraped_at": "2026-11-17T16:32:50.253236+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "4f398385628ef871",
-      "author": "ØienEriksen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ieneriksen",
-      "posted_relative": null,
-      "text": "13. nov. Golden cross - Sma 20 > Sma50, med kurs nå over fallende Sma 200🌟👀 Kan signalisere skifte i momentum, og videre oppgang! Vis 1 kommentar til",
+      "key": "95f27b3715b64576",
+      "author": "Travellingman",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/travellingman",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.abcnyheter.no/nyheter/birgitte-engebretsen-gar-av-som-sjef-i-telenor-norge-etter-a-ha-fatt-en-alvorlig-kreftdiagnose/1736171",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        5,
-        3
+      "engagement_numbers": [],
+      "links": [
+        "https://www.abcnyheter.no/nyheter/birgitte-engebretsen-gar-av-som-sjef-i-telenor-norge-etter-a-ha-fatt-en-alvorlig-kreftdiagnose/1736171"
       ],
-      "links": [],
-      "char_count": 149,
-      "has_link": false
+      "char_count": 136,
+      "has_link": true
     },
     {
-      "key": "8d3b2351672bf64b",
+      "key": "20dd1651fc72dd4c",
       "author": "akmg",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akmg",
       "posted_relative": null,
-      "text": "13. nov. SB1 Markets reduserte sitt kursmål for Telenor til 135 NOK fra 165 NOK, samtidig som de opprettholder en nøytral anbefaling.",
+      "text": "13. nov. SB1 Markets reduserte sitt kursmål for Telenor til 135 NOK fra 165 NOK, samtidig som de opprettholder en nøytral anbefaling. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        1
+        2
       ],
       "links": [],
-      "char_count": 133,
-      "has_link": false
-    },
-    {
-      "key": "38d39a80cfc87101",
-      "author": "Lillehaavard",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lillehaavard",
-      "posted_relative": null,
-      "text": "13. nov. Bare fint det! Får telenor handlet aksjer på 135kr kontra 165. Tenk hvor mye det har å si på utbyttene de neste årene.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        8
-      ],
-      "links": [],
-      "char_count": 127,
-      "has_link": false
-    },
-    {
-      "key": "d40c6a5d046023fe",
-      "author": "sanderh123",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sanderh123",
-      "posted_relative": "for 16 min siden",
-      "text": "Skifte i momentum var jo forsåvidt riktig",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 41,
+      "char_count": 153,
       "has_link": false
     }
   ]

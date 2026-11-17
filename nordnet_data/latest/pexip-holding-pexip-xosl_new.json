@@ -1,40 +1,56 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-11-17T14:01:11.368017+00:00",
+  "scraped_at": "2026-11-17T16:31:11.127309+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "12f23ee1ad88876d",
+      "key": "015323b985cb4193",
       "author": "gstandre1997",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gstandre1997",
       "posted_relative": null,
-      "text": "13. nov. CEO øker skin in the game! Betryggende fra ledelsen. Vis 1 kommentar til",
+      "text": "13. nov. Drahjelp fra Microsoft for å holde veksten i S&C oppe kvartalene som kommer? https://techwatch.no/nyheter/strategi/article19834122.ece",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6,
-        2
+        3
+      ],
+      "links": [
+        "https://techwatch.no/nyheter/strategi/article19834122.ece"
+      ],
+      "char_count": 143,
+      "has_link": true
+    },
+    {
+      "key": "45b16760991f36c8",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 1 t siden",
+      "text": "Liten omsetning her...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
       "links": [],
-      "char_count": 81,
+      "char_count": 22,
       "has_link": false
     },
     {
-      "key": "e1d7f8c6ce6562ed",
-      "author": "Wian",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wian",
-      "posted_relative": null,
-      "text": "13. nov. Innsidekjøp fra CEO er aldri feil. God helg snart! :)",
+      "key": "cd077c89afb87bfd",
+      "author": "HFalck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hfalck",
+      "posted_relative": "for 1 t siden",
+      "text": "Kjøp litt da 👌🏻",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        6
+        1
       ],
       "links": [],
-      "char_count": 62,
+      "char_count": 15,
       "has_link": false
     }
   ]
