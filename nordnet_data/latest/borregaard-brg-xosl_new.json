@@ -1,9 +1,23 @@
 {
   "slug": "borregaard-brg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/borregaard-brg-xosl",
-  "scraped_at": "2026-11-18T03:26:13.719278+00:00",
+  "scraped_at": "2026-11-18T12:31:19.757014+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7952ec08b10d7bf7",
+      "author": "Øy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/y",
+      "posted_relative": "for 1 t siden",
+      "text": "En i ledelsen solgte en god del for ca 14 dager siden. Stusset selv over at hun valgte å kutte beholdningen. Meldt høyere utgifter i 2027, mulig det er årsaken. Eller at hun vil ha cash til å kjøpe julegaver",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 207,
+      "has_link": false
+    }
+  ]
 }

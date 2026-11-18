@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-18T03:26:46.304221+00:00",
+  "scraped_at": "2026-11-18T12:31:52.456130+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9608679c239ca69b",
+      "author": "jdjddjdhe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jdjddjdhe",
+      "posted_relative": "for 7 min siden",
+      "text": "8,7 mill i omsetning 🤣🤣🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 24,
+      "has_link": false
+    }
+  ]
 }

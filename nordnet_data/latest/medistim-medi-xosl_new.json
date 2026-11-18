@@ -1,9 +1,56 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-11-18T03:25:05.501009+00:00",
+  "scraped_at": "2026-11-18T12:30:12.713026+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "591ee336986bee61",
+      "author": "Trendy76",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trendy76",
+      "posted_relative": "for 4 t siden",
+      "text": "Styreleder har handlet aksjer: https://www.nordnet.no/market/news/c3cdba51-072d-47c2-92c0-ff171adf039b",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [
+        "https://www.nordnet.no/market/news/c3cdba51-072d-47c2-92c0-ff171adf039b"
+      ],
+      "char_count": 102,
+      "has_link": true
+    },
+    {
+      "key": "d1dcf6597a6fd488",
+      "author": "KonkursFørLunsj",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/konkursfrlunsj",
+      "posted_relative": "for 4 t siden",
+      "text": "Helt utrolig! Jeg kjøpte en liten post igår bare før at ha, så at si og kursen går opp! Det skjer jævligt selden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 113,
+      "has_link": false
+    },
+    {
+      "key": "1b94b2e2eaba317a",
+      "author": "Titersito",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/titersito",
+      "posted_relative": "for 3 t siden",
+      "text": "Slapp av. Du vil se røde tall før lunsj",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

@@ -1,40 +1,53 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-18T03:21:40.940517+00:00",
+  "scraped_at": "2026-11-18T12:26:53.834795+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "619948a80c7fe81e",
+      "key": "2c6e5c116b45d0d0",
       "author": "Nextbay",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
-      "posted_relative": "for 12 t siden · Endret",
-      "text": "Oppsummering av skipenes aktivitet Q3 https://x.com/henriksen_46966/status/2122678915298664795?a=rO30KBFbf7gQr4JWH3M&s=61 Vis 1 kommentar til",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Tap i Q3 redusert med 7.8% vs Q2.  Ingen trading på plass enda.  Begge skip på kontrakt start Q4, men betingelsene er noe vanskelig å tolke.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        2
+        2,
+        9
       ],
-      "links": [
-        "https://x.com/henriksen_46966/status/2122678915298664795?a=rO30KBFbf7gQr4JWH3M&s=61"
-      ],
-      "char_count": 141,
-      "has_link": true
+      "links": [],
+      "char_count": 140,
+      "has_link": false
     },
     {
-      "key": "cda52ef3654475d0",
-      "author": "Nextbay",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "key": "363a8d1a9e7a39fb",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 3 t siden",
+      "text": "China Gas og Venture dobler sin kontrakt som ble inngått i september, den nye 20 års avtalen blir 1 tonn LNG årlig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 115,
+      "has_link": false
+    },
+    {
+      "key": "33bea1203d833629",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
       "posted_relative": "for 1 t siden",
-      "text": "B/E er vel litt høyere, men spørsmålet er vel ratene de har oppnådd for turene til Wilpride, om det oppveier pausen Wilforce hadde i september. Men viktigst for kursen blir nok guidingen for Q4 som ser ut til å ha begynt bra, og selvsagt status for ALNG Trading.",
+      "text": "Når blir det penger på oss?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 262,
+      "char_count": 27,
       "has_link": false
     }
   ]

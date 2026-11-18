@@ -1,9 +1,23 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-11-18T03:29:04.121461+00:00",
+  "scraped_at": "2026-11-18T12:34:07.230318+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "297260b18e0b9c6b",
+      "author": "Aksjoman007",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjoman007",
+      "posted_relative": "for 20 min siden",
+      "text": "· Jeg har et forklaringsproblem...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }

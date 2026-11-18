@@ -1,9 +1,54 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-18T03:23:07.019208+00:00",
+  "scraped_at": "2026-11-18T12:28:15.694725+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "037856f6703ae95b",
+      "author": "Hans Hans Hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hans-hans-hansen",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva tror folk om videre utvikling? Kjøpte endel nede på 10 kr merket da mente jeg den var alt for rimelig, har solgt litt oppover og tradet litt svingningene, men sitter igjen med ca 25% av beholdningen fremdeles. Planen er å fortsette å kjøpe litt hvis den \"dupper\" men hvordan tror folk den vil tåle f.eks AI-rekyl i USA? Vil den operere som en defensiv aksje selvom den er en vekst-case? Tanker?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 398,
+      "has_link": false
+    },
+    {
+      "key": "32d284d0628d7d4a",
+      "author": "hacksaw",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hacksaw",
+      "posted_relative": "for 2 t siden",
+      "text": "· Håpløst Man tåler rett og slett ikke en liten opptrend her inne, straks skal det daytrades, for å tjene noen småpenger. Håper virkelig det er noen som blir ristet av og det vil det være, hvis vi fikk noen store spillere på banen. Ps ut fra veksten og regnskapene våre burde vi være rundt kurs 65. Men akk 👎 nei",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 312,
+      "has_link": false
+    },
+    {
+      "key": "fc07eba1be7ca479",
+      "author": "MisKina",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miskina",
+      "posted_relative": "for 1 t siden",
+      "text": "· Jeps noen har funnet et system for å følge Citadels press ned og avvente opp. Og så videre 😎😂. Kommer til å ta litt tid å høste våre gode regnskaper på denne måten. Sur RØV og regnskaper glemmes raskt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 202,
+      "has_link": false
+    }
+  ]
 }

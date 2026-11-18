@@ -1,9 +1,38 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-18T03:22:41.974122+00:00",
+  "scraped_at": "2026-11-18T12:27:51.709180+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "27a77c8bb0ccbe9d",
+      "author": "kdb1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kdb1",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "12 dager til rapport. Noen som har regnet på hva utbytte kan bli?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "d9d7594be4e223bb",
+      "author": "JOLI66",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/joli66",
+      "posted_relative": "for 6 min siden",
+      "text": "Hva tror dere om DPP ratene fremover?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

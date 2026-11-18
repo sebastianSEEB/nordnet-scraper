@@ -1,9 +1,25 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-18T03:28:17.210145+00:00",
+  "scraped_at": "2026-11-18T12:33:21.430412+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "148557377a1cff1b",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva skal til for at det snur her? Er litt kunskaps løs til den her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

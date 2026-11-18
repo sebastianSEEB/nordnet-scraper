@@ -1,9 +1,25 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-11-18T03:26:01.935922+00:00",
+  "scraped_at": "2026-11-18T12:31:08.414258+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "2d5ff4751ac3d957",
+      "author": "J77JtheMoneyMaker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/j77jthemoneymaker",
+      "posted_relative": "for 3 t siden",
+      "text": "De siste tiders oppmerksomhet rundt datasikkerhet, sammen med helgens hendelse på IT-området , kan være positivt for Atea. Selskapet tyngde  innen blant annet IT-infrastruktur, datahåndtering og sikkerhet, og økt oppmerksomhet på slike områder kan føre til større etterspørsel etter løsningene og tjenestene selskapet tilbyr.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 325,
+      "has_link": false
+    }
+  ]
 }

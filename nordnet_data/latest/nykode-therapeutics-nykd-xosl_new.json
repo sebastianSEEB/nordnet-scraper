@@ -1,9 +1,38 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-18T03:26:25.856540+00:00",
+  "scraped_at": "2026-11-18T12:31:32.193967+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8b9ede250a71d9e8",
+      "author": "Oilbum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oilbum",
+      "posted_relative": "for 1 t siden",
+      "text": "Det ryktes om gode nyheter ved presentasjon av Q3 kommende mandag, god anledning å fylle på litt. Blir spennende å høre hva de har opplevd med presentasjoner både i US og UK.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "ef2277484621970a",
+      "author": "NillerT",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nillert",
+      "posted_relative": "for 2 t siden",
+      "text": "· Han er jo bare lei av å ha tapte penger på dette, det er jeg sannelig meg også. Jeg blir kompensert på min FDA-godkjenningsgruppe, håper jeg...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 145,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,96 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-18T03:26:50.254309+00:00",
+  "scraped_at": "2026-11-18T12:31:56.469212+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "a9dd911b54d9101f",
+      "author": "BLAWOR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blawor",
+      "posted_relative": "for 1 t siden",
+      "text": "· Jeg har akkurat lansert et lite prosjekt og vil veldig gjerne ha din ærlige mening om det. Det heter SimplyTradeWebhook. Det tar alarmer fra TradingView (eller TrendSpider, eller din egen bot) og gjør dem om til ekte ordrer på din egen meglerkonto, automatisk. Ingen programmering trengs, og den holder aldri på pengene dine: ordrene går rett til megleren din med din egen API-nøkkel. Slik fungerer det: 1. Du kobler til megleren din (paper/demopenger eller live). 2. Nettstedet oppretter en privat webhook-lenke og en ferdig alarmmelding. 3. Du limer dem inn i varselet ditt. 4. Hver alarm vises i en logg som Mottatt, Utført, Avvist eller Blokker, med årsaken på enkelt språk. Det koster ingenting å prøve: gratisplanen inkluderer en paper-konto (demopenger), ingen kort kreves, og det er en 5-dagers gratis prøveperiode på de betalte planene hvis du vil teste det på en ekte konto. Kan du avse 15 minutter denne uken? Koble til en paper-konto, send et testvarsel, og fortell meg deretter: - hvor sto det fast? - hva mangler (en megler, en funksjon)? - ville du brukt det, og hva ville vært en rettferdig pris? https://simplytradewebhook.com Det er helt nytt, så noen meglere er fortsatt i beta (Trading 212 og Alpaca er de mest testede). Det er akkurat derfor tilbakemeldingen din betyr noe. Hvis du har spørsmål, kan du svare her eller skrive til info@simplytradewebhook.com. Takk! Marko",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://simplytradewebhook.com"
+      ],
+      "char_count": 1393,
+      "has_link": true
+    },
+    {
+      "key": "021871d563a914b6",
+      "author": "Rivierakid",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rivierakid",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Sterk margin? Her er oppstilling (oms/ebit/ebit% ujustert): 2025 - 208 mrd/14,4 mrd/6,9% 2026 YTD - 160 mrd/19 mrd/11,9% 2026e - 214 mrd/25,5 mrd/11,9% 2027e - 222 mrd/25,7 mrd/11,9% = 11,9% er sterk margin, godt over peers og NHY snitt (8,5% og 7,3%, ifølge AI)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 262,
+      "has_link": false
+    },
+    {
+      "key": "59df4bca0c563dc2",
+      "author": "avemee",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/avemee",
+      "posted_relative": "for 4 t siden",
+      "text": "Solgte meg ut igjen på rundt 110. Er vel bare å vente på at det snur",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "3f5c6fc2cc699733",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": "for 40 min siden",
+      "text": "· god idé, men navnet er ikke fengende... jeg ville endret navnet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 65,
+      "has_link": false
+    },
+    {
+      "key": "b4c9b32170ffeb26",
+      "author": "Kongenavshareville",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongenavshareville",
+      "posted_relative": "for 4 t siden",
+      "text": "Det var da voldsomt 😄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "9a280de3b3147eab",
+      "author": "Emmmm",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emmmm",
+      "posted_relative": "for 23 t siden",
+      "text": "· Ganske opprørt…🙄🙄🙄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

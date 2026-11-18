@@ -1,9 +1,36 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-11-18T03:21:36.991131+00:00",
+  "scraped_at": "2026-11-18T12:26:49.590272+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "d1945b0cf4eb206c",
+      "author": "krusten1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krusten1",
+      "posted_relative": "for 1 min siden",
+      "text": "· Er det noen som har erfaring med utbyttebeskatning som danske? De har hovedkvarter i Singapore, men er et norsk selskap, og man må jo generelt tilbakesøke utbytteskatt fra Norge, men jeg kan ikke helt gjennomskue om det er nødvendig her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 239,
+      "has_link": false
+    },
+    {
+      "key": "9c2094a7f850f401",
+      "author": "NielsInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nielsinvest",
+      "posted_relative": "for 3 t siden",
+      "text": "· Q3-tall 24. november, forventer gode tall og at aksjekursen skal opp. Er det noen som har en ide om hva vi kan forvente i utbytte?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    }
+  ]
 }
