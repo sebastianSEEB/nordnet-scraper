@@ -1,22 +1,95 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-11-17T22:01:16.084059+00:00",
+  "scraped_at": "2026-11-18T03:23:10.971883+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "dde481d5bd3ba5a4",
-      "author": "Inbestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "key": "7dc2c84d75f7c1ce",
+      "author": "mustitrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mustitrade",
       "posted_relative": "for 3 t siden",
-      "text": "gikk fra 108 til 82 på 2 uker, noen spesiell årsak ?",
+      "text": "Gevinst sikring, treffer en solid motstand også tror jeg mange tenker at kvartalstallene var allerede priset in og at selskapet trenger flere store avtaler, men syntes prisen nå er fin. Regner med at den skal opp igjen rimelig snart!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 52,
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "922e9d3f1da52b4d",
+      "author": "khanenterprise",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/khanenterprise",
+      "posted_relative": "for 2 t siden",
+      "text": "Er dette tennis aksje eller? Hva skjer her",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    },
+    {
+      "key": "7b3c4c169d5c3b79",
+      "author": "Ghostkilla",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ghostkilla",
+      "posted_relative": "for 2 t siden",
+      "text": "River av meg hodet av denne tennisaksjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "dd537c714ccdc570",
+      "author": "khanenterprise",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/khanenterprise",
+      "posted_relative": "for 2 t siden",
+      "text": "Kunne ikke sagt det bedre!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "faaa7084ac8b1abf",
+      "author": "Ghostkilla",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ghostkilla",
+      "posted_relative": "for 2 t siden",
+      "text": "Hele kitron leker seg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    },
+    {
+      "key": "980140506cbc39d8",
+      "author": "Ghostkilla",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ghostkilla",
+      "posted_relative": "for 2 t siden",
+      "text": "· Ingen skit",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 12,
       "has_link": false
     }
   ]

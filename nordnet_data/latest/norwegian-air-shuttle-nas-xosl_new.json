@@ -1,9 +1,23 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-11-17T22:01:00.186396+00:00",
+  "scraped_at": "2026-11-18T03:22:54.565766+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "c70a05560ceeb44a",
+      "author": "Truger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/truger",
+      "posted_relative": "for 3 t siden",
+      "text": "· Panikker shortere her eller ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }
