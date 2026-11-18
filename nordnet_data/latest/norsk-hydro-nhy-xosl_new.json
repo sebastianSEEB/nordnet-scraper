@@ -1,70 +1,22 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-18T16:02:44.243739+00:00",
+  "scraped_at": "2026-11-18T21:03:57.571786+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 4,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "12923357eb1aa9c0",
-      "author": "BLAWOR",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blawor",
-      "posted_relative": "for 4 t siden",
-      "text": "· Jeg har akkurat lansert et lite prosjekt og vil veldig gjerne ha din ærlige mening om det. Det heter SimplyTradeWebhook. Det tar alarmer fra TradingView (eller TrendSpider, eller din egen bot) og gjør dem om til ekte ordrer på din egen meglerkonto, automatisk. Ingen programmering trengs, og den holder aldri på pengene dine: ordrene går rett til megleren din med din egen API-nøkkel. Slik fungerer det: 1. Du kobler til megleren din (paper/demopenger eller live). 2. Nettstedet oppretter en privat webhook-lenke og en ferdig alarmmelding. 3. Du limer dem inn i varselet ditt. 4. Hver alarm vises i en logg som Mottatt, Utført, Avvist eller Blokker, med årsaken på enkelt språk. Det koster ingenting å prøve: gratisplanen inkluderer en paper-konto (demopenger), ingen kort kreves, og det er en 5-dagers gratis prøveperiode på de betalte planene hvis du vil teste det på en ekte konto. Kan du avse 15 minutter denne uken? Koble til en paper-konto, send et testvarsel, og fortell meg deretter: - hvor sto det fast? - hva mangler (en megler, en funksjon)? - ville du brukt det, og hva ville vært en rettferdig pris? https://simplytradewebhook.com Det er helt nytt, så noen meglere er fortsatt i beta (Trading 212 og Alpaca er de mest testede). Det er akkurat derfor tilbakemeldingen din betyr noe. Hvis du har spørsmål, kan du svare her eller skrive til info@simplytradewebhook.com. Takk! Marko Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [
-        "https://simplytradewebhook.com"
-      ],
-      "char_count": 1413,
-      "has_link": true
-    },
-    {
-      "key": "5bdb318806d622ea",
-      "author": "oddafan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oddafan",
-      "posted_relative": "for 1 t siden",
-      "text": "Dette kommentarfelt er ikke for markedsføring. Innlegget bør fjernes av Nordnet",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 79,
-      "has_link": false
-    },
-    {
-      "key": "db28b055efe70804",
-      "author": "Kongenavshareville",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongenavshareville",
-      "posted_relative": "for 7 t siden",
-      "text": "Det var da voldsomt 😄 Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        2
-      ],
-      "links": [],
-      "char_count": 41,
-      "has_link": false
-    },
-    {
-      "key": "1ca834d315b6b6f1",
-      "author": "Lundart",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lundart",
-      "posted_relative": "for 44 min siden",
-      "text": "· salget pågår:)",
+      "key": "6620d9c701970977",
+      "author": "Kalospratto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalospratto",
+      "posted_relative": "for 2 t siden",
+      "text": "Altså Visa er vel innen finans og Hydro er industri. De skaper faktisk noe og det er i dag mindre lønnsomt.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 16,
+      "char_count": 107,
       "has_link": false
     }
   ]

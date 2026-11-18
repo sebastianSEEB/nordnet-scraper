@@ -1,17 +1,32 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-18T16:02:59.983933+00:00",
+  "scraped_at": "2026-11-18T21:04:13.494511+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "ee7066c0f7a349ad",
+      "key": "0e6f3d10d4f321b0",
+      "author": "Forum er min Research",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/forum-er-min-research",
+      "posted_relative": "for 58 min siden",
+      "text": "Jeg mener en kjøpspris på rundt 97/100 kroner for Orkla vil være et fornuftig nivå. Det gir en god sikkerhetsmargin og trygghet som langsiktig investor, samtidig som man kan sove godt om natten. Dagens kursmål på rundt 94 kroner bør ikke tillegges for stor betydning, da slike estimater ofte inneholder mye støy. Orkla viser god underliggende utvikling, solide merkevarer og en EBIT-margin på 10,5–11 %",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 402,
+      "has_link": false
+    },
+    {
+      "key": "09514640fc9cc5bf",
       "author": "Inbestor",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
       "posted_relative": "for 1 døgn siden",
-      "text": "dobbel topp ved 107 Bli medlem av Nordnet Social for å gi din stemme Logg inn JA NEI 16 stemmer • 1 dag 22 timer igjen",
+      "text": "dobbel topp ved 107 Bli medlem av Nordnet Social for å gi din stemme Logg inn JA NEI 18 stemmer • 1 dag 17 timer igjen",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
@@ -22,16 +37,18 @@
       "has_link": false
     },
     {
-      "key": "bb772b1dc4213d5e",
-      "author": "Inbestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 40 min siden",
-      "text": "fan, jag såg dobbel toppen komme å så nølte jeg med å selge meg ut",
+      "key": "e30e81eb23629f99",
+      "author": "tesk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tesk",
+      "posted_relative": "for 5 t siden",
+      "text": "merkelig at Orkla faller mer enn indeksen, skulle tro de solgte olje / gass",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        4
+      ],
       "links": [],
-      "char_count": 66,
+      "char_count": 75,
       "has_link": false
     }
   ]

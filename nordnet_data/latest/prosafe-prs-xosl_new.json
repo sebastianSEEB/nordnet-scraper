@@ -1,9 +1,25 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-18T16:04:56.261833+00:00",
+  "scraped_at": "2026-11-18T21:06:12.255886+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "18c01702ef11ef4e",
+      "author": "Very long 12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/very-long-12",
+      "posted_relative": "for 2 t siden",
+      "text": "Sterk dag for prs . etter å ha vært ned  over 2%.... jakten mot 6,3 kr har startet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 82,
+      "has_link": false
+    }
+  ]
 }

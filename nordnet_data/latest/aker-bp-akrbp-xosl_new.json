@@ -1,9 +1,23 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-18T16:02:36.647689+00:00",
+  "scraped_at": "2026-11-18T21:03:49.241503+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "6dc47a73a2610042",
+      "author": "Hammerås",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hammeras",
+      "posted_relative": "for 3 t siden",
+      "text": "Er dette en fin tid og kjøpe på?🤔",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }
