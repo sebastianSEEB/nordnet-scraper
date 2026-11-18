@@ -1,29 +1,7 @@
 {
  "started": "2026-10-28",
- "cash": 26176.616999,
+ "cash": 50307.731832,
  "positions": [
-  {
-   "ticker": "NSKOG.OL",
-   "signal_date": "2026-11-03",
-   "entry_date": "2026-11-04",
-   "entry_px": 36.400002,
-   "shares": 337.455436,
-   "cost": 12307.994364,
-   "held": 9,
-   "p": 0.577035,
-   "last_px": 34.900002
-  },
-  {
-   "ticker": "NHY.OL",
-   "signal_date": "2026-11-03",
-   "entry_date": "2026-11-04",
-   "entry_px": 65.720001,
-   "shares": 186.904719,
-   "cost": 12307.994364,
-   "held": 9,
-   "p": 0.557298,
-   "last_px": 68.139999
-  },
   {
    "ticker": "VAR.OL",
    "signal_date": "2026-11-04",
@@ -31,9 +9,9 @@
    "entry_px": 51.060001,
    "shares": 241.434633,
    "cost": 12352.357427,
-   "held": 8,
+   "held": 9,
    "p": 0.559508,
-   "last_px": 48.632
+   "last_px": 48.740002
   },
   {
    "ticker": "BNOR.OL",
@@ -42,9 +20,9 @@
    "entry_px": 545.0,
    "shares": 22.315782,
    "cost": 12186.474147,
-   "held": 3,
+   "held": 4,
    "p": 0.580336,
-   "last_px": 550.0
+   "last_px": 553.0
   },
   {
    "ticker": "BRG.OL",
@@ -53,9 +31,9 @@
    "entry_px": 158.0,
    "shares": 76.975324,
    "cost": 12186.474147,
-   "held": 3,
+   "held": 4,
    "p": 0.569497,
-   "last_px": 156.199997
+   "last_px": 155.0
   },
   {
    "ticker": "SCATC.OL",
@@ -64,12 +42,19 @@
    "entry_px": 89.75,
    "shares": 119.909035,
    "cost": 10783.402715,
-   "held": 3,
+   "held": 4,
    "p": 0.56729,
-   "last_px": 87.5
+   "last_px": 86.199997
   }
  ],
- "pending": [],
+ "pending": [
+  {
+   "ticker": "NHY.OL",
+   "signal_date": "2026-11-17",
+   "alloc": 12085.402171,
+   "p": 0.603917
+  }
+ ],
  "closed": [
   {
    "ticker": "B2I.OL",
@@ -135,6 +120,32 @@
    "last_px": 176.399994,
    "exit_date": "2026-11-13",
    "ret": -0.036759
+  },
+  {
+   "ticker": "NSKOG.OL",
+   "signal_date": "2026-11-03",
+   "entry_date": "2026-11-04",
+   "entry_px": 36.400002,
+   "shares": 337.455436,
+   "cost": 12307.994364,
+   "held": 10,
+   "p": 0.577035,
+   "last_px": 34.200001,
+   "exit_date": "2026-11-17",
+   "ret": -0.064194
+  },
+  {
+   "ticker": "NHY.OL",
+   "signal_date": "2026-11-03",
+   "entry_date": "2026-11-04",
+   "entry_px": 65.720001,
+   "shares": 186.904719,
+   "cost": 12307.994364,
+   "held": 10,
+   "p": 0.557298,
+   "last_px": 67.620003,
+   "exit_date": "2026-11-17",
+   "ret": 0.024799
   }
  ],
  "equity": [
@@ -193,7 +204,11 @@
   {
    "date": "2026-11-16",
    "equity": 97220.21477
+  },
+  {
+   "date": "2026-11-17",
+   "equity": 96683.217367
   }
  ],
- "last_date": "2026-11-16"
+ "last_date": "2026-11-17"
 }
