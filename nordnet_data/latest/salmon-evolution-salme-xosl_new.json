@@ -1,22 +1,40 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-11-18T12:34:07.230318+00:00",
+  "scraped_at": "2026-11-18T16:04:52.282511+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "297260b18e0b9c6b",
-      "author": "Aksjoman007",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aksjoman007",
-      "posted_relative": "for 20 min siden",
-      "text": "· Jeg har et forklaringsproblem...",
+      "key": "44dae449a392e3ec",
+      "author": "aframvi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframvi",
+      "posted_relative": "for 2 t siden",
+      "text": "I dag går det ned og i morgen går det opp. Det går opp og ned her i livet, det er vel derfor det er så mange ta oss. ?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2,
+        1
+      ],
       "links": [],
-      "char_count": 34,
+      "char_count": 118,
+      "has_link": false
+    },
+    {
+      "key": "0ee93c16ab6355b4",
+      "author": "thoomaas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thoomaas",
+      "posted_relative": "for 56 min siden",
+      "text": "Takk for at du deler dine kloke råd med oss andre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 49,
       "has_link": false
     }
   ]

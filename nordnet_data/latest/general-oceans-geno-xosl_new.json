@@ -1,24 +1,38 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-18T12:33:21.430412+00:00",
+  "scraped_at": "2026-11-18T16:04:07.559138+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "148557377a1cff1b",
+      "key": "dc175520d95b53b8",
       "author": "Rabbaghast",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
-      "posted_relative": "for 2 t siden",
-      "text": "Hva skal til for at det snur her? Er litt kunskaps løs til den her.",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva skal til for at det snur her? Er litt kunskaps løs til den her. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        1,
+        2
       ],
       "links": [],
-      "char_count": 67,
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "5274e9ad7ddf635a",
+      "author": "luskefanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luskefanten",
+      "posted_relative": "for 47 min siden",
+      "text": "· Gjennomgangen av 6-18 måneder",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
       "has_link": false
     }
   ]

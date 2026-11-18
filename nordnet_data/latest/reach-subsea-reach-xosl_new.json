@@ -1,95 +1,40 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-11-18T12:34:03.214292+00:00",
+  "scraped_at": "2026-11-18T16:04:48.370653+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 6,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a7a36bc2e2ffb9f9",
-      "author": "stratix",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
-      "posted_relative": "for 3 t siden",
-      "text": "Nesten litt misunnelig på de som kommer seg inn på disse nivåene",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 64,
-      "has_link": false
-    },
-    {
-      "key": "f8b9cbc28b2967e9",
-      "author": "stratix",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
-      "posted_relative": "for 1 t siden",
-      "text": "Bedre volum på oppgang viser at interessen tar seg opp",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 54,
-      "has_link": false
-    },
-    {
-      "key": "f3c8ca0cbfb506f1",
-      "author": "Leon91",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leon91",
-      "posted_relative": "for 15 t siden",
-      "text": "DeepOcean bedre på alt! Vis 1 kommentar til",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 43,
-      "has_link": false
-    },
-    {
-      "key": "36e3ca143cf90674",
-      "author": "ydkd",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ydkd",
+      "key": "7fdebc8c60697cd4",
+      "author": "hath",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hath",
       "posted_relative": "for 2 t siden",
-      "text": "da blir jeg med. pris ved 4,3kr er godt",
+      "text": "Mange av de som kjøpte aksjer i Flyr før konkursen brukte akkurat samme argumentasjon .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 87,
+      "has_link": false
+    },
+    {
+      "key": "4039f467e0055227",
+      "author": "stratix",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stratix",
+      "posted_relative": "for 6 t siden",
+      "text": "Nesten litt misunnelig på de som kommer seg inn på disse nivåene Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        1
+        2
       ],
       "links": [],
-      "char_count": 39,
-      "has_link": false
-    },
-    {
-      "key": "f56201f0b0c3e400",
-      "author": "TranTran",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trantran",
-      "posted_relative": "for 1 t siden",
-      "text": "Ja, det er halv pris av toppen.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 31,
-      "has_link": false
-    },
-    {
-      "key": "5e435bbefe7bdebb",
-      "author": "Cowboy1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cowboy1",
-      "posted_relative": "for 1 t siden",
-      "text": "Ikke på USV",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 11,
+      "char_count": 84,
       "has_link": false
     }
   ]

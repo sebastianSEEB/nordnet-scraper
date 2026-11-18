@@ -1,39 +1,39 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-18T12:32:16.719262+00:00",
+  "scraped_at": "2026-11-18T16:03:03.958468+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "46f7e63d41a402b6",
-      "author": "BLAWOR",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blawor",
-      "posted_relative": "for 1 t siden",
-      "text": "· Jeg har akkurat lansert et lite prosjekt og vil veldig gjerne ha din ærlige mening om det. Det heter SimplyTradeWebhook. Den tar alarmer fra TradingView (eller TrendSpider, eller din egen bot) og gjør dem om til ekte ordrer på din egen meglerkonto, helt automatisk. Ingen programmering trengs, og den holder aldri pengene dine: ordrene går rett til megleren din med din egen API-nøkkel. Slik fungerer det: 1. Du kobler til megleren din (papir-/demopenger eller live). 2. Nettstedet oppretter en privat webhook-lenke og en ferdiglaget alarmmelding. 3. Du limer dem inn i alarmen din. 4. Hver alarm vises i en logg som Mottatt, Utført, Avvist eller Blokkert, med årsaken på enkelt språk. Det koster ingenting å prøve: gratisplanen inkluderer en papirkonto (demopenger), ingen kort kreves, og det er en 5-dagers gratis prøveperiode på betalingsplanene hvis du vil teste den på en ekte konto. Kan du avse 15 minutter denne uken? Koble til en papirkonto, send en testalarm, og fortell meg deretter: - hvor sto du fast? - hva mangler (en megler, en funksjon)? - ville du brukt det, og hva ville være en rettferdig pris? https://simplytradewebhook.com Den er helt ny, så noen meglere er fremdeles i beta (Trading 212 og Alpaca er de mest testede). Det er akkurat derfor tilbakemeldingen din betyr noe. Hvis du har spørsmål, kan du svare her eller skrive til info@simplytradewebhook.com. Takk! Marko Vis 1 kommentar til",
+      "key": "5d241e7de91be29d",
+      "author": "Anticheat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anticheat",
+      "posted_relative": "for 2 t siden",
+      "text": "Hadde heller skåret av meg høyre arm enn å trykke på linken der 😂",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        4
       ],
-      "links": [
-        "https://simplytradewebhook.com"
-      ],
-      "char_count": 1413,
-      "has_link": true
+      "links": [],
+      "char_count": 65,
+      "has_link": false
     },
     {
-      "key": "20c8fc190719232f",
-      "author": "Mithrox",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mithrox",
-      "posted_relative": "for 26 min siden",
-      "text": "Nå er denne reklamen også spammet på mange forskjellige selskapssider her på Nordnet forumet, det er helt klart ikke innenfor hva som er forventet i dette forumet.",
+      "key": "35eb16bdd6cc89a0",
+      "author": "BLAWOR",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blawor",
+      "posted_relative": "for 1 t siden",
+      "text": "Innlegget er slettet.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 163,
+      "char_count": 21,
       "has_link": false
     }
   ]
