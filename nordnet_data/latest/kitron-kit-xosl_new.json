@@ -1,23 +1,27 @@
 {
   "slug": "kitron-kit-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kitron-kit-xosl",
-  "scraped_at": "2026-11-18T21:00:19.476623+00:00",
+  "scraped_at": "2026-11-19T02:17:36.940300+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 8,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "9367cb4019d90781",
-      "author": "Sasha15",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "key": "29fc1eb1116265a7",
+      "author": "Henrik95",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/henrik95",
       "posted_relative": "for 4 t siden",
-      "text": "Kitron: Kursen er ca. 4,2 % under SMA200. RSI er under 50, MACD er negativ, og alle 12 glidende gjennomsnittssignalene i teknikkilden er salg. Kursdata er oppdatert etter børsslutt.",
+      "text": "Med nesten 70 ledige stillinger kan det vel ikke gå så veldig dårlig med Kitron 😀 https://career.kitron.com",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 181,
-      "has_link": false
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://career.kitron.com"
+      ],
+      "char_count": 107,
+      "has_link": true
     }
   ]
 }

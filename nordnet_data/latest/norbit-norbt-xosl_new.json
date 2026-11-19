@@ -1,9 +1,23 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-18T21:00:43.207438+00:00",
+  "scraped_at": "2026-11-19T02:18:00.572727+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "023547cd60ea65a1",
+      "author": "Xlan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/xlan",
+      "posted_relative": "for 4 t siden",
+      "text": "Da er gapet tetta.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 18,
+      "has_link": false
+    }
+  ]
 }

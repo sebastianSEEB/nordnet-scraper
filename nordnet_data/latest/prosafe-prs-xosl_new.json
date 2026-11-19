@@ -1,24 +1,38 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-18T21:06:12.255886+00:00",
+  "scraped_at": "2026-11-19T02:23:25.666291+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "18c01702ef11ef4e",
-      "author": "Very long 12",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/very-long-12",
-      "posted_relative": "for 2 t siden",
-      "text": "Sterk dag for prs . etter å ha vært ned  over 2%.... jakten mot 6,3 kr har startet",
+      "key": "732e54dec9ab15f3",
+      "author": "AlphaTrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alphatrade",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Ser det er registrert 780.000 aksjer off-market litt før kl. 18 i kveld.  Samlet verdi NOK 3,1 mill. Total omsatt aksjer for NOK 14 mill. i dag.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5
+        3,
+        1
       ],
       "links": [],
-      "char_count": 82,
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "2a1878dad8480d8f",
+      "author": "Black sheep",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/black-sheep",
+      "posted_relative": "for 3 t siden",
+      "text": "Hvor finner du denne informasjonen? Og til hvilken kurs ble de solgt for?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
       "has_link": false
     }
   ]
