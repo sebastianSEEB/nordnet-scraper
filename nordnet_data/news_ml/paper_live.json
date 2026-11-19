@@ -1,18 +1,7 @@
 {
  "started": "2026-10-28",
- "cash": 50307.731832,
+ "cash": 49710.909829,
  "positions": [
-  {
-   "ticker": "VAR.OL",
-   "signal_date": "2026-11-04",
-   "entry_date": "2026-11-05",
-   "entry_px": 51.060001,
-   "shares": 241.434633,
-   "cost": 12352.357427,
-   "held": 9,
-   "p": 0.559508,
-   "last_px": 48.740002
-  },
   {
    "ticker": "BNOR.OL",
    "signal_date": "2026-11-11",
@@ -20,9 +9,9 @@
    "entry_px": 545.0,
    "shares": 22.315782,
    "cost": 12186.474147,
-   "held": 4,
+   "held": 5,
    "p": 0.580336,
-   "last_px": 553.0
+   "last_px": 542.0
   },
   {
    "ticker": "BRG.OL",
@@ -31,9 +20,9 @@
    "entry_px": 158.0,
    "shares": 76.975324,
    "cost": 12186.474147,
-   "held": 4,
+   "held": 5,
    "p": 0.569497,
-   "last_px": 155.0
+   "last_px": 154.0
   },
   {
    "ticker": "SCATC.OL",
@@ -42,17 +31,28 @@
    "entry_px": 89.75,
    "shares": 119.909035,
    "cost": 10783.402715,
-   "held": 4,
+   "held": 5,
    "p": 0.56729,
-   "last_px": 86.199997
+   "last_px": 84.75
+  },
+  {
+   "ticker": "NHY.OL",
+   "signal_date": "2026-11-17",
+   "entry_date": "2026-11-18",
+   "entry_px": 66.639999,
+   "shares": 180.990869,
+   "cost": 12085.402171,
+   "held": 1,
+   "p": 0.603917,
+   "last_px": 65.559998
   }
  ],
  "pending": [
   {
-   "ticker": "NHY.OL",
-   "signal_date": "2026-11-17",
-   "alloc": 12085.402171,
-   "p": 0.603917
+   "ticker": "NSKOG.OL",
+   "signal_date": "2026-11-18",
+   "alloc": 11961.039398,
+   "p": 0.555136
   }
  ],
  "closed": [
@@ -146,6 +146,19 @@
    "last_px": 67.620003,
    "exit_date": "2026-11-17",
    "ret": 0.024799
+  },
+  {
+   "ticker": "VAR.OL",
+   "signal_date": "2026-11-04",
+   "entry_date": "2026-11-05",
+   "entry_px": 51.060001,
+   "shares": 241.434633,
+   "cost": 12352.357427,
+   "held": 10,
+   "p": 0.559508,
+   "last_px": 47.68,
+   "exit_date": "2026-11-18",
+   "ret": -0.069928
   }
  ],
  "equity": [
@@ -208,7 +221,11 @@
   {
    "date": "2026-11-17",
    "equity": 96683.217367
+  },
+  {
+   "date": "2026-11-18",
+   "equity": 95688.315183
   }
  ],
- "last_date": "2026-11-17"
+ "last_date": "2026-11-18"
 }
