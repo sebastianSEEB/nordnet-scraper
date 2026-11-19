@@ -1,9 +1,36 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-11-19T16:06:52.897370+00:00",
+  "scraped_at": "2026-11-19T19:19:16.205807+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "70d909fe50f6407d",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Innside handel i HMH i dag.  Thomas W. McGee Finansdirektør (CFO) i HMH Holding aksjer: 140 000 aksjer Ca. 11,77 USD per aksje Samlet kjøpesum: Ca. 1,65 millioner USD Kjøpsdato: 17. november 2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 195,
+      "has_link": false
+    },
+    {
+      "key": "81cdb1f69c1a2cd1",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 24 min siden · Endret",
+      "text": "Ny innside handel  i HMH  Eirik Bergsvik Konsernsjef (CEO) i HMH Holding 8 000 aksjer 11,01 USD per aksje Samlet kjøpesum: 88 080 USD (ca. 880 000 kr) Kjøpsdato: 18. november 2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 179,
+      "has_link": false
+    }
+  ]
 }

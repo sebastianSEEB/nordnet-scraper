@@ -1,52 +1,37 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-19T16:05:00.515323+00:00",
+  "scraped_at": "2026-11-19T19:17:24.294126+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "0c2a11f05611cfc4",
-      "author": "tug of war",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "key": "26e79809ef424eb1",
+      "author": "Polarstjernen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarstjernen",
       "posted_relative": "for 1 t siden",
-      "text": "· 3 positive ting om NAPA Q4 vil markere retur til overskudd etter flere års investering i AI-muligheten.  Ingeniørkostnader har blitt tatt over PNL ordrer har begynt å komme, 3000 enheter fra D-Matrix -  Tier-1 OEM har fremdeles ikke begynt å bestille. Alt kommer på bakgrunn av samarbeid med Intel topping av produksjon?  mgmt snakket om på Q3 at hvis D-matrix vil levere 1GW innen 2029, vil det tilsvare 100k eller enhetsbestilling til NAPA.  jeg tror det er mer som 250k -  da vil omsetning og overskudd skyte i været sjekk ut videosamtalen med HC Andersen fra 8. sep - det er litt mer bakgrunn om dansk fungerer for deg",
+      "text": "AMD er vel en direkte konkurrent til D-Matrix, så dagens kraftige kursfall kan tolkes positivt  for Napatech.  Kursraset kommer etter at Hunterbrook Media publiserte en granskning av AMDs forbindelser til kinesiske selskaper underlagt amerikanske eksportrestriksjoner. https://www.finansavisen.no/teknologi/2026/11/19/8397210/amd-stuper-pa-wall-street-etter-alvorlige-kina-anklager-fra-hunterbrook",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/11/19/8397210/amd-stuper-pa-wall-street-etter-alvorlige-kina-anklager-fra-hunterbrook"
       ],
-      "links": [],
-      "char_count": 624,
-      "has_link": false
+      "char_count": 397,
+      "has_link": true
     },
     {
-      "key": "34ac30c835133957",
-      "author": "diddy777",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/diddy777",
-      "posted_relative": "for 1 t siden",
-      "text": "Hei alle sammen, er amatør så ikke skyt meg.  Men kan dere som har vært her i aksjen en stund gi meg 3 positive ting om Napatech i dag og fremtids planer så er dere greie.  Jeg har KIT aksjer i en annen platform men har ca 50k jeg vil inn med her på nordnet igjenn etter å ha blitt skuffet som alle andre av tildelingen av ANT i dag.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 333,
-      "has_link": false
-    },
-    {
-      "key": "2e4e61140609c7c7",
-      "author": "alex70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
-      "posted_relative": "for 1 t siden",
-      "text": "Nvidia stiger pent idag og burde dra med seg  andre AI aksjer. Tror Napatech kan plutselig stige kraftig.",
+      "key": "1c351f093c8d8150",
+      "author": "Polarstjernen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/polarstjernen",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Når de nå henter inn 81 milliarder dollar får de et ganske stor handlingsrom til utvikling og nye investeringer. Nå tror jeg dessverre ikke noe av dette regner ned på D-Matrix og Napatech med det første. Når det er sagt er jeg enig i at positive sentimenter innen AI generelt  er positivt for Napatech.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 105,
+      "char_count": 302,
       "has_link": false
     }
   ]
