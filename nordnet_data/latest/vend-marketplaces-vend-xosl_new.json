@@ -1,9 +1,38 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-19T10:54:29.917511+00:00",
+  "scraped_at": "2026-11-19T16:03:48.530665+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b8871aef32c44bf7",
+      "author": "artige",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/artige",
+      "posted_relative": "for 1 t siden",
+      "text": "Har alle solgt seg ut? Er der noe håp for denne?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "fffa37174f3fe4fd",
+      "author": "Il Capitano 33",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/il-capitano-33",
+      "posted_relative": "for 47 min siden",
+      "text": "Kjøper litt hver dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

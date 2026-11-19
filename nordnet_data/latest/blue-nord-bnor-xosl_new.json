@@ -1,22 +1,37 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-19T10:54:14.546073+00:00",
+  "scraped_at": "2026-11-19T16:03:32.226666+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "4a9aa5b9f265e022",
-      "author": "Gammel rotte",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gammel-rotte",
+      "key": "6880ecb231692f82",
+      "author": "Gjøkur",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gjkur",
+      "posted_relative": "for 4 t siden",
+      "text": "Her er det så gott som null omsettning. 3 mnd snitt er 128,000 aksjer/dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "bf9419fbf42e69c5",
+      "author": "Leviathan11",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/leviathan11",
       "posted_relative": "for 1 t siden",
-      "text": "· Skal jeg forstå det slik at det kommer mer enn 76,83 NOK i kontanter?",
+      "text": "· Hvorfor faller denne, når Vår er opp?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 71,
+      "char_count": 39,
       "has_link": false
     }
   ]

@@ -1,24 +1,54 @@
 {
   "slug": "moreld-morld-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/moreld-morld-xosl",
-  "scraped_at": "2026-11-19T10:56:17.251640+00:00",
+  "scraped_at": "2026-11-19T16:05:39.286429+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "a61fcd135bde809f",
-      "author": "Knfo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "key": "55ae12d090805e48",
+      "author": "pennyinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pennyinvest",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg blir litt bekymret angående inside salget når denne personen har blitt kåret til verdens beste analytiker innen oljeservice 😳",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "f8c691ff2a92273c",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
       "posted_relative": "for 2 t siden",
-      "text": "Denne mannen må vi få ut av styret. Det er lite tillitsvekkende at et styremedlem lemper ut aksjer langt under kursestimatene til flere meglerhus.",
+      "text": "95% av tingene jeg bekymrer meg for skjer aldri, hvilket viser at det hjelper å bekymre seg.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "8265b579a8032ab1",
+      "author": "Vulkansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vulkansen",
+      "posted_relative": "for 4 t siden",
+      "text": "Det burde være litt smitteeffekt fra euforien rundt Subsea7 til Moreld...?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 146,
+      "char_count": 74,
       "has_link": false
     }
   ]

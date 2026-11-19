@@ -1,50 +1,65 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-11-19T10:58:16.030260+00:00",
+  "scraped_at": "2026-11-19T16:07:40.675133+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "35dcb4023a65e30d",
-      "author": "EspAsk",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espask",
-      "posted_relative": "for 1 t siden",
-      "text": "Det burde være slik, men hvor lenge er «en stund»? Stredet har jo vært helt stengt ganske så lenge og det har blitt varslet at lagrene slurpet luft. Det virker ikke som at markedet bryr seg. Verdien på oljeaksjer varierte med hva ostepoppen bablet i kjøkkendøra på flyet. Men det virker som at babbelet gjennomskues nå.",
+      "key": "9c286163cf4269d9",
+      "author": "matsnil",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/matsnil",
+      "posted_relative": "for 3 t siden",
+      "text": "IEA rapport https://www.iea.org/news/as-an-unprecedented-shock-reshapes-the-energy-world-its-duration-will-determine-the-scale-of-the-change",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.iea.org/news/as-an-unprecedented-shock-reshapes-the-energy-world-its-duration-will-determine-the-scale-of-the-change"
+      ],
+      "char_count": 140,
+      "has_link": true
+    },
+    {
+      "key": "47d6e191c288c645",
+      "author": "Funnyname",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funnyname",
+      "posted_relative": "for 2 t siden",
+      "text": "Hvor leste jeg det var mer ledig kapasitet på tankbåter? Fler som jaktet den samme olja og ratene falt?  Har vel ikke så mye å gjøre med det totale olje tilbudet men forteller jo noe om at etterspørselen begynner å mettes.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 319,
+      "char_count": 222,
       "has_link": false
     },
     {
-      "key": "5b925837e754baa8",
-      "author": "Knivslidan",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knivslidan",
+      "key": "cae2592806e2b5a2",
+      "author": "mh4878",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mh4878",
       "posted_relative": "for 1 t siden",
-      "text": "· Med dagens kurs og direkte avkastning føles VÅR relativt trygg. Den nye funksjonen her på Nordnet fra FactSet prognostiserer dessuten for høyt utbytte. Jeg sier kjøp. Men som alltid - ikke bare den, men spred risikoen. Lykke til - jeg har 50% investeringsselskaper og 50% olje. Ingen fond.",
-      "reply_count": null,
+      "text": "Vår har høy andel av inntektene sine fra gass, så du bør sjekke \"TTF Natural Gas Futures\" også. Den ligger fremdeles 1-2 % lavere enn på tirsdag.",
+      "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 291,
+      "char_count": 145,
       "has_link": false
     },
     {
-      "key": "995920601b6495dc",
-      "author": "H.Eilertsen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heilertsen",
-      "posted_relative": "for 13 t siden",
-      "text": "Hei, er ny her tror dere det er lurt å satse vår energi på et kortsiktig aksje kjøp eller et langsiktig fond. Vis 1 kommentar til",
+      "key": "12962ef1f9fc22fe",
+      "author": "Funnyname",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/funnyname",
+      "posted_relative": "for 1 t siden",
+      "text": "Brent opp 1,57 Vår opp 0,02🤔",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 129,
+      "char_count": 28,
       "has_link": false
     }
   ]

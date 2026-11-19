@@ -1,38 +1,53 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-19T10:56:40.842701+00:00",
+  "scraped_at": "2026-11-19T16:06:02.645322+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "6caecb5eb9fec1bd",
-      "author": "ASK invest AS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-invest-as",
-      "posted_relative": "for 2 t siden",
-      "text": "Lukter på 700,- innen Jul.Mye positivt rundt Salmar som leverer.",
+      "key": "e6a1e60fecd789cf",
+      "author": "kurhan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurhan",
+      "posted_relative": "for 1 t siden",
+      "text": "Da er nok en stor-shorter begynt å kaste kortene, Caisse de depot et placement du Quebec. Ligger ikke nå på lista over short > 0,5%",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
-        1
+        2
       ],
       "links": [],
-      "char_count": 64,
+      "char_count": 131,
       "has_link": false
     },
     {
-      "key": "36e3c80dd006f890",
-      "author": "Albertaa",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/albertaa",
-      "posted_relative": "for 1 t siden",
-      "text": "Har trua no 😁👍🏼",
+      "key": "e254f80a6ef77517",
+      "author": "ASK invest AS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-invest-as",
+      "posted_relative": "for 7 t siden",
+      "text": "Lukter på 700,- innen Jul.Mye positivt rundt Salmar som leverer. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "e619716278d958bb",
+      "author": "Pett2022",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pett2022",
+      "posted_relative": "for 2 t siden",
+      "text": "innen juli ja",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 15,
+      "char_count": 13,
       "has_link": false
     }
   ]
