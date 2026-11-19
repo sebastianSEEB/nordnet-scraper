@@ -1,9 +1,39 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-19T02:18:39.274041+00:00",
+  "scraped_at": "2026-11-19T10:55:39.426051+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4480b91bbd4b9934",
+      "author": "tug of war",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tug-of-war",
+      "posted_relative": "for 2 t siden",
+      "text": "· At Anthropic prissettes over det opprinnelige intervallet burde være positivt for hele bransjen siden de får finansiering til sine beregningsforpliktelser jeg foretrekker leverandørene så ikke med i IPO-en.  noen som vil avsløre hvor mange aksjer en liten småsparer fikk? jeg er lang i Nvidia, Napatech, Inficon, Munters, Technoprobe og SK Hynix i stedet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 356,
+      "has_link": false
+    },
+    {
+      "key": "5811788f7479faa1",
+      "author": "Kris94",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kris94",
+      "posted_relative": "for 52 min siden",
+      "text": "Fikk 5 stk😅 søkte om 25",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 23,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,58 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-19T02:19:37.305004+00:00",
+  "scraped_at": "2026-11-19T10:56:36.827545+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8e2fb24f49fe9743",
+      "author": "Solbakk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solbakk",
+      "posted_relative": "for 2 t siden",
+      "text": "Amazon skal øke brutto logistikkapasitet med om lag 91 millioner kvadratfot i 2027, 38% mer enn i 2026. Investeringene skal blant annet rettes mot robotiserte lagre for mindre varer, inbound cross-docks og leveringsstasjoner. Ikke bekreftet ordre til Autostore, men... https://finance.yahoo.com/technology/articles/amazon-accelerate-logistics-expansion-2027-175500823.html",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        19,
+        3
+      ],
+      "links": [
+        "https://finance.yahoo.com/technology/articles/amazon-accelerate-logistics-expansion-2027-175500823.html"
+      ],
+      "char_count": 372,
+      "has_link": true
+    },
+    {
+      "key": "9e11d8fa9ce8c6e8",
+      "author": "wololo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wololo",
+      "posted_relative": "for 2 t siden",
+      "text": "Snart får vi momentum og er på 20-tallet 😉 Folk begynner å våkne nå og det skjer før du vet ordet av det 💪",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        18
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    },
+    {
+      "key": "907d4bb3f0965eee",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 2 t siden",
+      "text": "2027 blir Autostore sitt år. Jeg tror det kommer til å eksplodere.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 66,
+      "has_link": false
+    }
+  ]
 }

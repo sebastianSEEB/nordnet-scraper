@@ -1,22 +1,50 @@
 {
   "slug": "var-energi-var-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/var-energi-var-xosl",
-  "scraped_at": "2026-11-19T02:21:18.848075+00:00",
+  "scraped_at": "2026-11-19T10:58:16.030260+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "6fce419f6dbde816",
-      "author": "H.Eilertsen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heilertsen",
-      "posted_relative": "for 4 t siden",
-      "text": "Hei, er ny her tror dere det er lurt å satse vår energi på et kortsiktig aksje kjøp eller et langsiktig fond.",
+      "key": "35dcb4023a65e30d",
+      "author": "EspAsk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/espask",
+      "posted_relative": "for 1 t siden",
+      "text": "Det burde være slik, men hvor lenge er «en stund»? Stredet har jo vært helt stengt ganske så lenge og det har blitt varslet at lagrene slurpet luft. Det virker ikke som at markedet bryr seg. Verdien på oljeaksjer varierte med hva ostepoppen bablet i kjøkkendøra på flyet. Men det virker som at babbelet gjennomskues nå.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 109,
+      "char_count": 319,
+      "has_link": false
+    },
+    {
+      "key": "5b925837e754baa8",
+      "author": "Knivslidan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knivslidan",
+      "posted_relative": "for 1 t siden",
+      "text": "· Med dagens kurs og direkte avkastning føles VÅR relativt trygg. Den nye funksjonen her på Nordnet fra FactSet prognostiserer dessuten for høyt utbytte. Jeg sier kjøp. Men som alltid - ikke bare den, men spred risikoen. Lykke til - jeg har 50% investeringsselskaper og 50% olje. Ingen fond.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 291,
+      "has_link": false
+    },
+    {
+      "key": "995920601b6495dc",
+      "author": "H.Eilertsen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/heilertsen",
+      "posted_relative": "for 13 t siden",
+      "text": "Hei, er ny her tror dere det er lurt å satse vår energi på et kortsiktig aksje kjøp eller et langsiktig fond. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 129,
       "has_link": false
     }
   ]

@@ -1,9 +1,27 @@
 {
   "slug": "bw-energy-limited-bwe-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-energy-limited-bwe-xosl",
-  "scraped_at": "2026-11-19T02:20:20.459461+00:00",
+  "scraped_at": "2026-11-19T10:57:18.746573+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "76a015925111225b",
+      "author": "PantaReiOgNåErJegLei",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pantareiognaerjeglei",
+      "posted_relative": "for 3 t siden",
+      "text": "BW Energy er nevnt i denne artikkelen i E24.no i dag: https://e24.no/boers-og-finans/i/lMA93o/disse-aksjene-har-stoerst-oppside-paa-oslo-boers Aksjen har en beregnet oppside på 57.3%, for hva det nå er verdt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/lMA93o/disse-aksjene-har-stoerst-oppside-paa-oslo-boers"
+      ],
+      "char_count": 208,
+      "has_link": true
+    }
+  ]
 }

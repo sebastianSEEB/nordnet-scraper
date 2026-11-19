@@ -1,9 +1,53 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-19T02:18:46.367303+00:00",
+  "scraped_at": "2026-11-19T10:55:46.723353+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "91dbebf3bc8f4176",
+      "author": "ACE-Minitrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ace-minitrade",
+      "posted_relative": "for 34 min siden",
+      "text": "Utbyttekapasiteten til selskapet endres ikke av at utbetalingstidspunktet endres. Å spå færre utbytteutbetalinger blir bare spekulasjon. For meg virker det ikke riktig å knytte noe \"mest sannsynlig\" til den spådommen, i alle fall. Med tanke på fusjonen med Ventura håper jeg det snart kan komme noen mer konkrete oppklaringer fra selskapet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 340,
+      "has_link": false
+    },
+    {
+      "key": "c912097619d58b52",
+      "author": "Mountain_2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mountain_2",
+      "posted_relative": "for 12 min siden",
+      "text": "Men hvorfor er utbyttet erstattet ( superseded ) som det står? Virker jo rart, noen som har info eller grunnen til at dette er gjort?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    },
+    {
+      "key": "d5256c9c56065cd8",
+      "author": "osake",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/osake",
+      "posted_relative": "for 2 t siden",
+      "text": "Veldig svak utvikling på denne. Kanskje fortjent da jeg kjøpte fredag 13?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        11
+      ],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

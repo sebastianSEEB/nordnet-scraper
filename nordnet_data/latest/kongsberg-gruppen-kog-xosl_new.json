@@ -1,9 +1,97 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-11-19T02:20:59.562505+00:00",
+  "scraped_at": "2026-11-19T10:57:56.982217+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "6356b5ca1098a7e3",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 2 t siden",
+      "text": "Hva de blir enig om? De kan hvertfall ikke bli enige om noe som helst hva som skjer i Ukraina. Da blir det i såfall på Putin sine premisser. Skjer det? Nei.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 156,
+      "has_link": false
+    },
+    {
+      "key": "3541633dd68b731d",
+      "author": "Jackpac",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jackpac",
+      "posted_relative": "for 2 t siden",
+      "text": "Det gjennomsnittlige kursmålet blant analytikerne ligger på 409 NOK, noe som tilsvarer rundt 21 % oppside fra dagens nivå Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        4
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "6e422f3b8eba16b4",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": "for 2 t siden",
+      "text": "Jeg tror uansett hva de gutta blir enig om i Kina,tror jeg at kongen av droner ikke har noe problemer fremover. Kongsberg er ledene på dette.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 141,
+      "has_link": false
+    },
+    {
+      "key": "3db86896c48ce1e4",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 21 min siden",
+      "text": "For roboter er den det. Veldig volatil og høyt volum. Perfekt for algoritmene.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "49b780f7f66f3db3",
+      "author": "Raudnord",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raudnord",
+      "posted_relative": "for 3 t siden",
+      "text": "Hva skjer med lotteriaksjen idag? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "f47ff4d897b0957a",
+      "author": "DoubleO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/doubleo",
+      "posted_relative": "for 2 t siden",
+      "text": "· grønt over alt, god dag i dag?",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 32,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-19T02:19:41.105546+00:00",
+  "scraped_at": "2026-11-19T10:56:40.842701+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6caecb5eb9fec1bd",
+      "author": "ASK invest AS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-invest-as",
+      "posted_relative": "for 2 t siden",
+      "text": "Lukter på 700,- innen Jul.Mye positivt rundt Salmar som leverer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        1
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    },
+    {
+      "key": "36e3c80dd006f890",
+      "author": "Albertaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/albertaa",
+      "posted_relative": "for 1 t siden",
+      "text": "Har trua no 😁👍🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }

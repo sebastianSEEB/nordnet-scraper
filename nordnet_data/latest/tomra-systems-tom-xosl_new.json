@@ -1,50 +1,98 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-19T02:17:45.149307+00:00",
+  "scraped_at": "2026-11-19T10:54:45.240040+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 7,
+  "new_posts_count": 6,
   "posts": [
     {
-      "key": "17593e5a77e19748",
-      "author": "Smellyglove",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/smellyglove",
-      "posted_relative": "for 7 t siden",
-      "text": "Helt opp til fem år tilbake. Rødt rødt rødt rødt etc. Det må jo være et svakt drevet selskap? Vis 1 kommentar til",
+      "key": "2154ec390f4cc07a",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 3 t siden",
+      "text": "Robert Næss lister opp selskapene ved Oslo Børs med størst oppside i forhold til analytikernes kursmål. Der finner vi Tomra: https://e24.no/boers-og-finans/i/lMA93o/disse-aksjene-har-stoerst-oppside-paa-oslo-boers",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/lMA93o/disse-aksjene-har-stoerst-oppside-paa-oslo-boers"
+      ],
+      "char_count": 213,
+      "has_link": true
+    },
+    {
+      "key": "33687c5f022c6fec",
+      "author": "Sonypus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sonypus",
+      "posted_relative": "for 32 min siden",
+      "text": "Utdrag fra finansavisen: Alamut Investment Management mener Tomra-aksjen skal falle mer enn 50 prosent, ifølge Bloomberg. Finanstilsynets shortregister viser at hedgefondet har shortet nesten 2,1 millioner aksjer, tilsvarende 187 millioner kroner.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 247,
+      "has_link": false
+    },
+    {
+      "key": "d421563787cd097f",
+      "author": "Miga-invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miga-invest",
+      "posted_relative": "for 18 min siden",
+      "text": "Stemmer det denne posisjonen kom 3, november slik at markedet kjenner til dette synet noe som nok har påvirket kursen i det siste. Vi får se senere i dag om det er noen forandringer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 182,
+      "has_link": false
+    },
+    {
+      "key": "e657ff52e89e8a38",
+      "author": "Vilja Valtakari",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vilja-valtakari",
+      "posted_relative": "for 13 t siden",
+      "text": "· Den er ned 36%, burde jeg kjøpe mer nå? Jeg planlegger å beholde denne i lang tid. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    },
+    {
+      "key": "1171599881f62f89",
+      "author": "Villbekk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/villbekk",
+      "posted_relative": "for 1 t siden",
+      "text": "Vi får virkelig håpe de har spart noen gode nyheter til kapitalmarked dagen på tirsdag 🤞💰",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 113,
+      "char_count": 89,
       "has_link": false
     },
     {
-      "key": "b7666a348cd95cfe",
-      "author": "Vilja Valtakari",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vilja-valtakari",
-      "posted_relative": "for 5 t siden",
-      "text": "· Den er ned 36%, burde jeg kjøpe mer nå? Jeg planlegger å beholde denne i lang tid.",
+      "key": "a384d8172d955bb2",
+      "author": "Sonypus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sonypus",
+      "posted_relative": "for 31 min siden",
+      "text": "Svaret er NEI.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 84,
-      "has_link": false
-    },
-    {
-      "key": "9449856e3ceb5751",
-      "author": "Kaloev",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kaloev",
-      "posted_relative": "for 1 min siden · Endret",
-      "text": "Er jeg dempa enda?😆",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 19,
+      "char_count": 14,
       "has_link": false
     }
   ]

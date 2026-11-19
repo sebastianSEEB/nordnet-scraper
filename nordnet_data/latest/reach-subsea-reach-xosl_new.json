@@ -1,9 +1,36 @@
 {
   "slug": "reach-subsea-reach-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/reach-subsea-reach-xosl",
-  "scraped_at": "2026-11-19T02:23:17.562577+00:00",
+  "scraped_at": "2026-11-19T11:00:11.718924+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ddadf45d793948d9",
+      "author": "Arthurs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arthurs",
+      "posted_relative": "for 3 t siden",
+      "text": "Subsea 7 overgår analytikernes forventinger med god margin, og oppjusterer samtidig prognosene for året.  - Ikke direkte sammenlignbart, men likevel!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    },
+    {
+      "key": "10c528ab61ec2985",
+      "author": "Jokerman01",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jokerman01",
+      "posted_relative": "for 5 min siden",
+      "text": "10K aksjer i innsidekjøp. Rett og slett latterlig…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }

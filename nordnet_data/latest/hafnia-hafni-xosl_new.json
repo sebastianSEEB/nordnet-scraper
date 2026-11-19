@@ -1,51 +1,79 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-19T02:15:57.034304+00:00",
+  "scraped_at": "2026-11-19T10:53:01.789597+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 9,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "eaf84d93e4691074",
+      "key": "6eda6bb4390f467d",
       "author": "JannB",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jannb",
-      "posted_relative": "for 4 t siden",
-      "text": "Hafnia burde kunne solgt unna torm posten og delt ut penga. Jeg er heller ikke spesielt fornøyd med å \"få\" en aksje jeg ikke har hverken kunnskap om, eller oversikt over.",
+      "posted_relative": "for 2 t siden",
+      "text": "Nettopp derfor jeg tenker hafnia selv kunne tatt jobben med nedsalg av assetsa, så vi slipper å tulle med det. Jeg har heller ikke noe dansk i portefølja av samme årsak.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    },
+    {
+      "key": "5a81db3d5cefd8eb",
+      "author": "livet leves nu",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/livet-leves-nu",
+      "posted_relative": "for 38 min siden",
+      "text": "· hvis de ikke kan utdele aksjer i et annet selskap enn seg selv, må de først ha solgt torm-aksjene før de kan utdele, noe som kan forsinke utdelingen vesentlig.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 170,
+      "char_count": 161,
       "has_link": false
     },
     {
-      "key": "6dfc4e6913133b9a",
-      "author": "Ligurio",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ligurio",
-      "posted_relative": "for 13 t siden",
-      "text": "Jeg selger og kjøper noe som gir cash - til en litt høyere avkastning.  Så får de styre på og dele ut danske aksjer, til dem som gidder. Vis 1 kommentar til",
+      "key": "b696ea7f0b75643b",
+      "author": "sharine",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sharine",
+      "posted_relative": "for 2 t siden",
+      "text": "· Får vi som Hafnia-aksjonærer utbetalt ekstraordinært utbytte, eller får vi overdratt en Torm-aksje for hver 26,3 Hafnia-aksje vi eier? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
-        3
+        1,
+        2
       ],
       "links": [],
       "char_count": 156,
       "has_link": false
     },
     {
-      "key": "8a7845efda480db4",
-      "author": "tepinvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tepinvest",
-      "posted_relative": "for 4 t siden",
-      "text": "· Hva med når utbyttet går fra?",
+      "key": "ea578e3a8c2eb180",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 1 t siden",
+      "text": "Ikke ta .eg på det men var det ikke nevnt 26 eller 27 November om Ex dag?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 31,
+      "char_count": 73,
+      "has_link": false
+    },
+    {
+      "key": "8d1387e43ff81c0e",
+      "author": "Bearto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bearto",
+      "posted_relative": "for 2 t siden",
+      "text": "Er det sagt noe om ex-dato for Q3?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 34,
       "has_link": false
     }
   ]

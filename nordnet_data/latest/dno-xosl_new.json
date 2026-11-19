@@ -1,9 +1,72 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-19T02:19:33.596778+00:00",
+  "scraped_at": "2026-11-19T10:56:32.706996+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "dd97037907850bc1",
+      "author": "solb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solb",
+      "posted_relative": "for 40 min siden",
+      "text": "· Nikolai Lyngø ga en oppdatering på morgonmøtet vårt., Høydepunktene var: 1) Bestla (ex Brasse) er satt til å starte produksjonen i desember, det er før tidsplanen og under budsjett. Bestla skal løfte OKEA-produksjonen med 10 kboe/d første olje.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 246,
+      "has_link": false
+    },
+    {
+      "key": "d288cb7a86213f2c",
+      "author": "solb",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solb",
+      "posted_relative": "for 1 t siden",
+      "text": "DNOs andel er: Bestla-feltet (PL 740): 39,2788 %. DNO Norge er en av de største eierne, på linje med operatør OKEA. Da burde det vel bli \"10 kboe/d first oil\" på DNO også?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        7
+      ],
+      "links": [],
+      "char_count": 171,
+      "has_link": false
+    },
+    {
+      "key": "89a2e340a934466c",
+      "author": "Huskis56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
+      "posted_relative": "for 1 t siden",
+      "text": "DNO og øvrige norske oljeselskaper har full  stabil produkslon til VELDIG gode priser. Veiledende pris 92 dollar fatet.  PENGENE RENNER INN.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    },
+    {
+      "key": "821ad0f7802ceef2",
+      "author": "Huskis56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
+      "posted_relative": "for 1 t siden",
+      "text": "Og Spesielt for DNO,  der mesteparten går rett inn på Kontantkonto.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    }
+  ]
 }

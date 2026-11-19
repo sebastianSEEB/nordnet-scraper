@@ -1,9 +1,23 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-19T02:17:12.409781+00:00",
+  "scraped_at": "2026-11-19T10:54:14.546073+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4a9aa5b9f265e022",
+      "author": "Gammel rotte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gammel-rotte",
+      "posted_relative": "for 1 t siden",
+      "text": "· Skal jeg forstå det slik at det kommer mer enn 76,83 NOK i kontanter?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

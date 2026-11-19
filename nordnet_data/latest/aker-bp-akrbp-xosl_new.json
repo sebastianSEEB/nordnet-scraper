@@ -1,22 +1,37 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-19T02:21:03.547200+00:00",
+  "scraped_at": "2026-11-19T10:58:00.878764+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "14eab089f0bd77b7",
-      "author": "Rambo2",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rambo2",
-      "posted_relative": "for 5 t siden",
-      "text": "Det må det være nå, den er opp bare 24% i år, mot tungrode Equinor som betaler eldige utbytter er opp 66% i år 🤷",
+      "key": "29fa02e14bc564af",
+      "author": "Hammerås",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hammeras",
+      "posted_relative": "for 17 t siden",
+      "text": "Er dette en fin tid og kjøpe på?🤔 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 53,
+      "has_link": false
+    },
+    {
+      "key": "c495a5206b32e9fa",
+      "author": "ABC Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/abc-invest",
+      "posted_relative": "for 1 t siden",
+      "text": "EQ har tilbakekjøp..",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 112,
+      "char_count": 20,
       "has_link": false
     }
   ]
