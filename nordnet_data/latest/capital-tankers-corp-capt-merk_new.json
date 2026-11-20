@@ -1,9 +1,39 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-20T01:31:36.394507+00:00",
+  "scraped_at": "2026-11-20T09:24:11.157753+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "81afa64e53034b24",
+      "author": "Vice1000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vice1000",
+      "posted_relative": "for 33 min siden",
+      "text": "Syke greier, denne aksjen har et kursmål på 290 kr, men går kun nedover selv om rater og verdier på båter er bra.. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "2e12ae4eae7b3fa3",
+      "author": "Olavlad",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/olavlad",
+      "posted_relative": "for 7 min siden",
+      "text": "Her er det tilbud ja. NAV greit under 0.5 nå. Her vil noen ut.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

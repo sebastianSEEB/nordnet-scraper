@@ -1,9 +1,39 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-20T01:35:33.976779+00:00",
+  "scraped_at": "2026-11-20T09:28:08.283381+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "59a2408ce775a0ca",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 1 t siden",
+      "text": "HYDRO: SOLGT CA 59% AV 4.KV-PRIMÆRPROD. TIL CA. USD 3.148/TONN Close 23 okt. 07:16 ∙ TDN Finans",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "4b1c946f488cc62c",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": "for 1 t siden",
+      "text": "· Blitt ett botnlaust sluk denne😂",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

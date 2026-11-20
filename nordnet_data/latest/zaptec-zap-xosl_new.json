@@ -1,9 +1,68 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-20T01:31:59.248428+00:00",
+  "scraped_at": "2026-11-20T09:24:34.910452+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "b0c6a1813c218e09",
+      "author": "Kenroth",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kenroth",
+      "posted_relative": "for 23 min siden",
+      "text": "· Det er underholdende å følge Citadels kamp på finanstilsynet.no for å skremme Zaptec-investorer til å selge aksjene sine. De ligger konstant og dekker noen av sine shortposisjoner for deretter å øke dem igjen når skremmemisjonen deres ikke helt lykkes, for igjen å skremme med nytt salg. De fleste Zaptec-eiere vet utmerket godt at Zaptec er det ledende produktet i et kraftig stigende elbilmarked, så å selge på disse nivåene er det dummeste man kan gjøre.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 459,
+      "has_link": false
+    },
+    {
+      "key": "f9efc4957fc01099",
+      "author": "taivermannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/taivermannen",
+      "posted_relative": "for 9 min siden",
+      "text": "Dette er kanskje en upopulær mening men jeg tror ikke Citadel bryr seg særlig mye om at dere eksisterer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "fa4cd34a2b374b05",
+      "author": "OMG2025",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omg2025",
+      "posted_relative": "for 23 min siden",
+      "text": "mest sannsynlig ifbm Q3 og statsbudsjett å gjøre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    },
+    {
+      "key": "3547ccb141098b2c",
+      "author": "Enghaug",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enghaug",
+      "posted_relative": "for 1 t siden",
+      "text": "Hva skjer nå aaaa",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 17,
+      "has_link": false
+    }
+  ]
 }

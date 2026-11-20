@@ -1,9 +1,38 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-11-20T01:32:34.116849+00:00",
+  "scraped_at": "2026-11-20T09:25:09.321266+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "af5f634f19ace9dc",
+      "author": "Snasken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snasken",
+      "posted_relative": "for 45 min siden",
+      "text": "· Eg hadde ikkje venta Elkem opp i dag, men fallet var i største laget. Er det noko nytt eg ikkje har fått med meg, eller er det berre spekulative krefter som virkar?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 166,
+      "has_link": false
+    },
+    {
+      "key": "1bb29c6392533788",
+      "author": "NQ-Luckystrike",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nq-luckystrike",
+      "posted_relative": "for 11 min siden",
+      "text": "Generell resesjons og rentefrykt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

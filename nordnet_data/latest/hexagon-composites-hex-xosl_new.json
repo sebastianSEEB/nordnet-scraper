@@ -1,9 +1,56 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-20T01:34:20.527495+00:00",
+  "scraped_at": "2026-11-20T09:26:55.847095+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3c5ab10bc1fd5b8a",
+      "author": "fiskarta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskarta",
+      "posted_relative": "for 1 t siden",
+      "text": "https://signalcleveland.org/ohio-approves-two-large-power-plants-exclusively-for-data-centers/?utm_source=chatgpt.com Blir mer og mer vanlig at gass driver datasenter over dammen til tross for lokal motstand.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [
+        "https://signalcleveland.org/ohio-approves-two-large-power-plants-exclusively-for-data-centers/?utm_source=chatgpt.com"
+      ],
+      "char_count": 208,
+      "has_link": true
+    },
+    {
+      "key": "8edbe021702e2343",
+      "author": "Harlin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harlin",
+      "posted_relative": "for 6 min siden",
+      "text": "Forklaringen ligger nok delvis i at Hex sammen med flere norske mindre/mellomstore selskaper er målgruppen for algoritmehandel fra internasjonale banker, som igjen korreleres med det amerikanske markedet. \"Ventecase\" med få børsmeldinger er spesielt utsatt, og da kan aksjen i større grad styres. Man opplever en frikobling fra det underliggende fundamentale, da algoritmene kun fokuserer på det som skjer \"nå\", opp mot hvor stort volumet er. Lykkes selskapet vil kursen gå dit den fortjener uansett over tid, mislykkes de er utfallet gitt uansett. Det å følge kursen time for time blir da helt meningsløst og nedbrytende. Algoritmehandelen er helt følelsesløs, \"langsiktige investorer\" som følger kursen tett er proppfulle av følelser :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 739,
+      "has_link": false
+    },
+    {
+      "key": "06cd0834eed5e85e",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 1 t siden",
+      "text": "Bedre utsikter enn noensinne og ufortjent juling nå. Bare å ri det av. Det kommer flere datasenter ordre og trucksegmentet vokser.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    }
+  ]
 }

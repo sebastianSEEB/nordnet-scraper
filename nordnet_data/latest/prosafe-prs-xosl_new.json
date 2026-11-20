@@ -1,22 +1,73 @@
 {
   "slug": "prosafe-prs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/prosafe-prs-xosl",
-  "scraped_at": "2026-11-20T01:37:46.231973+00:00",
+  "scraped_at": "2026-11-20T09:30:19.883506+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "b38e55d70725654d",
-      "author": "alex70",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
-      "posted_relative": "for 3 t siden",
-      "text": "Hva har det der over med PRS å gjøre ?",
-      "reply_count": 2,
+      "key": "2db6c20b11131cf8",
+      "author": "Groguluru",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/groguluru",
+      "posted_relative": "for 1 t siden",
+      "text": "Petrobras var lynsnar med å hive ut en ny tender: https://controlbid.com.br/licitacoes/7004693013",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        15,
+        12
+      ],
+      "links": [
+        "https://controlbid.com.br/licitacoes/7004693013"
+      ],
+      "char_count": 97,
+      "has_link": true
+    },
+    {
+      "key": "5d251cc0fa131542",
+      "author": "AlphaTrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alphatrade",
+      "posted_relative": "for 1 t siden",
+      "text": "Q3 som forventet. EBITDA på USD 16 mill. mot mitt USD 15 mill. korrigert for reklassifisering. Cash overraskende sterkt, som vil øke for hvert kvartal fremover. Sterkt marked utenfor Petrobras. Vi får se om Eurus får jobb. Riggen er selskapets dårligste eiendel, bidrar ikke med mer enn USD 1,8 mill i kvartalsvis EBITDA. En evt warm stacked periode kompenseres mer enn 100% av økende inntjening fra Notos. Å miste 2028-kontrakten er kanskje ikke så dumt når de kan få 150-200k/d andre steder.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        7
+      ],
       "links": [],
-      "char_count": 38,
+      "char_count": 493,
+      "has_link": false
+    },
+    {
+      "key": "b6316d8ac244caf7",
+      "author": "AlphaTrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alphatrade",
+      "posted_relative": "for 1 t siden",
+      "text": "Fra Pareto i dag tidlig: \" We also expect another Petrobras tender shortly, although specifications and tender details remain unknown. The company also commented on a tender from an independent operator in Brazil (likely Equinor) for a six-month firm period plus options, starting in 2027. This could be a potential opportunity for Safe Eurus/Safe Zephyrus\".",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 358,
+      "has_link": false
+    },
+    {
+      "key": "323981b58fcd9198",
+      "author": "Botn Bruk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/botn-bruk",
+      "posted_relative": "for 11 min siden · Endret",
+      "text": "Reese nevner at han forventer mye \"recontracting\" i månedene fremover.  No further SPS until 2Q 2029.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 101,
       "has_link": false
     }
   ]

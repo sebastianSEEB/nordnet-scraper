@@ -1,9 +1,67 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-20T01:32:06.816535+00:00",
+  "scraped_at": "2026-11-20T09:24:42.654241+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "56de95381c26c1f7",
+      "author": "bigstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bigstein",
+      "posted_relative": "for 1 t siden",
+      "text": "· Clarksons Platou Securities senker kursmålet for Panoro Energy til 56 norske kroner (58), gjentar kjøp - BN",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        4
+      ],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "10fab3a1f4bb1068",
+      "author": "Scanmar33",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/scanmar33",
+      "posted_relative": "for 1 t siden",
+      "text": "Hvordan ser aksjonærlistene ut etter disse dagene? Hvem har solgt/kjøpt?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 72,
+      "has_link": false
+    },
+    {
+      "key": "03859f22114e6b77",
+      "author": "NPNI",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/npni",
+      "posted_relative": "for 57 min siden",
+      "text": "· Alle pengene tuller rundt borte i Anthropic 🫪",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "18e5a85bf63c60dc",
+      "author": "loading",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loading",
+      "posted_relative": "for 4 min siden",
+      "text": "Mange selger seg ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-20T01:31:40.182054+00:00",
+  "scraped_at": "2026-11-20T09:24:15.149147+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c42db4ab7c34086f",
+      "author": "Pasjo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pasjo",
+      "posted_relative": "for 32 min siden",
+      "text": "Nå er det vel lurt å kjøpe blue nord så det koster etter😂👍",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "67edf2ec9f62ec75",
+      "author": "YPTS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ypts",
+      "posted_relative": "for 10 min siden",
+      "text": "Sikkert for å korrigere til sammenslåingen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 42,
+      "has_link": false
+    }
+  ]
 }

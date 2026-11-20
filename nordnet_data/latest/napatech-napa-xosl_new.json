@@ -1,9 +1,52 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-20T01:33:04.160130+00:00",
+  "scraped_at": "2026-11-20T09:25:39.706546+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3032ee58eab5e1c3",
+      "author": "Augustavesta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/augustavesta",
+      "posted_relative": "for 15 min siden",
+      "text": "· Kan det ikke komme noen gode nyheter snart, den faller jo under kritisk støttenivå",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "fd71208e2ea4967b",
+      "author": "Kurtebill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurtebill",
+      "posted_relative": "for 1 t siden",
+      "text": "Så ut som det ikke var særlig positivt...",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "14a11bf5384d7a0b",
+      "author": "Marit85",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marit85",
+      "posted_relative": "for 34 min siden",
+      "text": "Dette gjør vondt 🥹 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        2
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

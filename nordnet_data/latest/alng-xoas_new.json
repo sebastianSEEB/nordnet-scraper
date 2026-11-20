@@ -1,9 +1,26 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-20T01:30:38.573922+00:00",
+  "scraped_at": "2026-11-20T09:23:13.860654+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a1499a2c12b48c93",
+      "author": "acpeters",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acpeters",
+      "posted_relative": null,
+      "text": "16. nov. Bra aktivitet, nok en last levert. WilForce på vei vestover fra Indonesia for ny last Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 114,
+      "has_link": false
+    }
+  ]
 }
