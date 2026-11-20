@@ -1,25 +1,37 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-20T09:23:13.860654+00:00",
+  "scraped_at": "2026-11-20T15:44:51.722156+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 11,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "a1499a2c12b48c93",
-      "author": "acpeters",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/acpeters",
+      "key": "6e5f922a81a58eef",
+      "author": "BerntOlav",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/berntolav",
       "posted_relative": null,
-      "text": "16. nov. Bra aktivitet, nok en last levert. WilForce på vei vestover fra Indonesia for ny last Vis 1 kommentar til",
+      "text": "16. nov. På tide blir spennende, er vel først i q3 vi får se break Even gå kraftig ned pga avtalen, men det vi fleste venter på er vel en handel eller iallefall god guiding på en handel før årsslutt",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4,
-        2
+        1
       ],
       "links": [],
-      "char_count": 114,
+      "char_count": 198,
+      "has_link": false
+    },
+    {
+      "key": "dd49b7694bcb3361",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
+      "posted_relative": null,
+      "text": "16. nov.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 8,
       "has_link": false
     }
   ]

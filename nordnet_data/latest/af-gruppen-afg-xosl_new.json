@@ -1,40 +1,55 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-11-20T09:28:31.834947+00:00",
+  "scraped_at": "2026-11-20T15:50:20.558249+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "ce0c92a4001b9075",
-      "author": "Ju-Kai",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ju-kai",
+      "key": "3a52556ba813f400",
+      "author": "Willern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willern",
       "posted_relative": null,
-      "text": "16. nov. For mye fra DNB C er bare enten rene spekulasjoner eller forsøk på å påvirke markedet,. Stoler i tugangsp aldri på noen av de proffe og deres analyser, men leser de, gjør egne vurderinger i forhold til egen strategi.",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 225,
-      "has_link": false
-    },
-    {
-      "key": "9212a774c11c8560",
-      "author": "sgbr",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sgbr",
-      "posted_relative": null,
-      "text": "16. nov. Samme sangen fra DNB etter hver AF resultatfremleggelse. En av de gamle algoritme feilene fra DNB som de ikke har fått ryddet ?",
+      "text": "16. nov. Tanker fremover? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1,
-        1
+        2
       ],
       "links": [],
-      "char_count": 136,
+      "char_count": 45,
+      "has_link": false
+    },
+    {
+      "key": "94ca12ee46f3c08c",
+      "author": "sgbr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sgbr",
+      "posted_relative": null,
+      "text": "16. nov. Ser ingen skjær i sjøen..god drift.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    },
+    {
+      "key": "de6b8da64019ed7f",
+      "author": "Kodda",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kodda",
+      "posted_relative": null,
+      "text": "16. nov. Bra utbytte AF idag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 28,
       "has_link": false
     }
   ]

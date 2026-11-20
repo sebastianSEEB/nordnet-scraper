@@ -1,41 +1,52 @@
 {
   "slug": "akastor-akast-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/akastor-akast-xosl",
-  "scraped_at": "2026-11-20T09:27:29.548981+00:00",
+  "scraped_at": "2026-11-20T15:49:16.399607+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "80c9a142190a7047",
-      "author": "DebetSjef",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/debetsjef",
-      "posted_relative": "for 1 t siden · Endret",
-      "text": "· Live NAV: https://www.akastor.com/investor",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [
-        "https://www.akastor.com/investor"
-      ],
-      "char_count": 44,
-      "has_link": true
-    },
-    {
-      "key": "5cf6755743a21445",
-      "author": "Svarttinden",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/svarttinden",
-      "posted_relative": "for 2 t siden · Endret",
-      "text": "Fra investorlista. Skikongen Bjørn Dæhlie har god teft for riktige investeringer, og finansiell muskelkraft for å bryte mållinja først👏 Anaxo Capital AS rister i aksjetreet og sveiper inn  656 065 aksjer i Akastor.. Rett inn på topp 28👍 … Anaxo Capital ble etablert i januar 2010 på initiativ fra Peder Backe, Bjørn Dæhlie og Ole Anker-Rasch. Selskapet er en videreføring av felles investeringsvirksomhet som ble opprettet i 2000. Initiativtakerne har i dag en betydelig eksponering i fondet.😎",
+      "key": "ce1d99f91129fef2",
+      "author": "Mortz82",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mortz82",
+      "posted_relative": "for 1 t siden",
+      "text": "Når vi har fått ‘tilbakebetaling av kapital’ vil GAV automatisk justeres hos Nordnet etter det har kommet inn? Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 493,
+      "char_count": 130,
+      "has_link": false
+    },
+    {
+      "key": "9b56d792ad26daa7",
+      "author": "91anoch87an",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/91anoch87an",
+      "posted_relative": "for 2 t siden",
+      "text": "· Stabil aksje i dag, kjøper på meg noen hundre til.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 52,
+      "has_link": false
+    },
+    {
+      "key": "83088b8cab8b995b",
+      "author": "spekkhoggeren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/spekkhoggeren",
+      "posted_relative": "for 28 min siden",
+      "text": "Litt snurr der. Skal ordnes automatisk ja",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

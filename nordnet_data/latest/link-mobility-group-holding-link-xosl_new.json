@@ -1,9 +1,73 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-20T09:24:27.219639+00:00",
+  "scraped_at": "2026-11-20T15:46:07.157818+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "84c1af076927bbdd",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/blokkhandler",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/blokkhandler"
+      ],
+      "char_count": 40,
+      "has_link": true
+    },
+    {
+      "key": "5eabc1dbf9ae48bf",
+      "author": "Sistemann inn..",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "Det trades jo vilt i denne aksjen da. Veldig mange som kjøper i bølgedalene og selger med gevinst. Noe som betyr mer enn shortingen, såvidt jeg kan forstå. Har selv tjent litt på dette.  Men har nå sittet stille siden Q3. For det er jo ikke uten risiko heller - tradingen altså. Store norske investorer sitter jo stille og de har vel folk som har analysert Link opp og ned i mente. Tror vel likevel ikke disse svingningene er over med det første:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 447,
+      "has_link": false
+    },
+    {
+      "key": "f9f7189a6c22d5ed",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 5 t siden",
+      "text": "Da var beholdningen økt...så får vi se om kniven stopper her i overkant av 23 eller om den skal videre. Støttenivåer fungerer ikke nødvendigvis så godt på dager som dette.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 171,
+      "has_link": false
+    },
+    {
+      "key": "c2b9e2dc4dfbcc77",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 1 t siden",
+      "text": "Det gikk nettopp en handel på 500.000 aksjer til 28kr off market. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

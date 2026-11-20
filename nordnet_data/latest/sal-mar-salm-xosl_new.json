@@ -1,24 +1,40 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-20T09:26:40.180194+00:00",
+  "scraped_at": "2026-11-20T15:48:24.956483+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "42e73b4b85fc9963",
-      "author": "Kalle1234",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": "for 53 min siden",
-      "text": "Salmar holder seg godt på en ellers rød børs i dag.  Er det fra nå vi ser en fin økning i kiloprisene frem mot jul.  Da blir det laks til forrett på juleaften her😊",
+      "key": "0649e46bd0cbaeaf",
+      "author": "The test",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-test",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "Nå faller fôrsalget. Markedet strammes til https://ilaks.no/na-faller-forsalget-markedet-strammes-til/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2
+        1,
+        1
       ],
+      "links": [
+        "https://ilaks.no/na-faller-forsalget-markedet-strammes-til/"
+      ],
+      "char_count": 102,
+      "has_link": true
+    },
+    {
+      "key": "2091c61d80a79bd4",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": "for 5 t siden",
+      "text": "Det lover bra!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 163,
+      "char_count": 14,
       "has_link": false
     }
   ]

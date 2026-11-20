@@ -1,9 +1,40 @@
 {
   "slug": "pexip-holding-pexip-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pexip-holding-pexip-xosl",
-  "scraped_at": "2026-11-20T09:26:24.967422+00:00",
+  "scraped_at": "2026-11-20T15:48:08.757247+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "02840bf738b091e7",
+      "author": "mr.mouse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrmouse",
+      "posted_relative": null,
+      "text": "16. nov. · Endret Får vi etablert brudd over 71kr og at den stenger over 71 er det etter min mening tydelige signaler for god kortsiktig oppgang de neste dagene😛🤘🏼",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 163,
+      "has_link": false
+    },
+    {
+      "key": "a059d79338b011bc",
+      "author": "HFalck",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hfalck",
+      "posted_relative": "for 3 t siden",
+      "text": "Får fylle på litt da",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 20,
+      "has_link": false
+    }
+  ]
 }

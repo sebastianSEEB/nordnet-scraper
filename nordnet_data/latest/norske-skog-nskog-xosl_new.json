@@ -1,9 +1,39 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-11-20T09:27:07.282157+00:00",
+  "scraped_at": "2026-11-20T15:48:53.164100+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ae3dfe8cf1164382",
+      "author": "skogenskonge123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skogenskonge123",
+      "posted_relative": "for 6 t siden",
+      "text": "Aspeløv viser gang på gang at han ikke forstår markedet. Har også prøvd å forklare tidligere.  Det er tallene som tilslutt avgjør verdien.  Short balanserer markedet for en mest mulig riktig pris.  Er llike mye \"manipulasjon\" oppover som nedover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 246,
+      "has_link": false
+    },
+    {
+      "key": "9d121c341bbbd68b",
+      "author": "aspeløv",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aspelv",
+      "posted_relative": "for 2 døgn siden",
+      "text": "så er kjeltringene i gang med å presse kursen ned, de får bare holde på, de har allerede tapt uhorvelig mye penger, selv om de har skremt mange til å selge alt for billig Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 190,
+      "has_link": false
+    }
+  ]
 }

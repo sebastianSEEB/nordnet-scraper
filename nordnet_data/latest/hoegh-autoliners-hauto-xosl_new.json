@@ -1,9 +1,39 @@
 {
   "slug": "hoegh-autoliners-hauto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hoegh-autoliners-hauto-xosl",
-  "scraped_at": "2026-11-20T09:23:37.050573+00:00",
+  "scraped_at": "2026-11-20T15:45:15.291761+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "7e40f1a641c7eca5",
+      "author": "Iwin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iwin",
+      "posted_relative": "for 1 t siden",
+      "text": "det kan også sees som bra at kursen går ned hvis man vil reinvestere utbyttet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    },
+    {
+      "key": "d1b5c61ecf3206af",
+      "author": "MagnusFB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magnusfb",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Hele utbyttet og vel så det forsvant på papiret i dag😢 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    }
+  ]
 }

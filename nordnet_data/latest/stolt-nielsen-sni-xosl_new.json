@@ -1,37 +1,24 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-11-20T09:23:06.186071+00:00",
+  "scraped_at": "2026-11-20T15:44:43.654019+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "58f75fafe1c72b79",
-      "author": "Rentesrente",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rentesrente",
-      "posted_relative": null,
-      "text": "16. nov. Noen som vet når eventuelt utbytte kunngjøres?",
+      "key": "0aeb802d50798010",
+      "author": "UKretired",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ukretired",
+      "posted_relative": "for 4 t siden",
+      "text": "Hei Harryjh. Denne har vært på tilbud lenge. Jeg tar også en liten bit her nå, så får vi se hva januar bringer.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        1
       ],
       "links": [],
-      "char_count": 55,
-      "has_link": false
-    },
-    {
-      "key": "9d872b073cd80991",
-      "author": "Harryjh",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
-      "posted_relative": "for 30 min siden",
-      "text": "På tilbud i dag kjøpe en liten klatt i dag da",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 45,
+      "char_count": 111,
       "has_link": false
     }
   ]
