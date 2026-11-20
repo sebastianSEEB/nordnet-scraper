@@ -1,69 +1,85 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-20T15:46:30.914602+00:00",
+  "scraped_at": "2026-11-20T18:08:30.228951+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 4,
+  "total_posts_on_page": 7,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "684f105150ff0b1b",
-      "author": "neeskens",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
-      "posted_relative": "for 5 t siden",
-      "text": "3 store eier nå ca 50% av selskapet. Maersk 25% Geveran 15% Folketrygden 10% Solide langsiktige og profesjonelle eiere  Vi har tatt en posisjon igjen. Long Vis 1 kommentar til",
+      "key": "ee3be32f6abef560",
+      "author": "Always The Sun",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/always-the-sun",
+      "posted_relative": "for 58 min siden · Endret",
+      "text": "Nytt kjøp av Mærsk (A.P. Møller) i dag, 650k aksjer https://newsweb.oslobors.no/message/687106",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        15,
+        2
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/687106"
+      ],
+      "char_count": 94,
+      "has_link": true
+    },
+    {
+      "key": "e3e5f550157a107d",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 42 min siden",
+      "text": "Litt spesielt at de 2 største aksjonærene  plutselig begynner å hamstre aksjer for over 1.5 milliarder. Fond e.l som må selge ser ned ?.  Eller order fra de 2 aksjonærene. At selskapet går helt hinsides bra vet jo fra tidligere..... Merkelig",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 175,
+      "char_count": 241,
       "has_link": false
     },
     {
-      "key": "7455a2e87b663f98",
-      "author": "Middagsbuffet",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/middagsbuffet",
-      "posted_relative": "for 3 t siden",
-      "text": "Så det samme i Edda Wind før Fredriksen kjøpte opp hele greiene… Kan det samme skje her?",
+      "key": "ae6cb3fc0477e037",
+      "author": "Bull_dog",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bull_dog",
+      "posted_relative": "for 1 t siden",
+      "text": "Nytt kjøp av .P.Møller💪 A.P. Møller Maritime ApS, a company closely related to Erik Bergöö, Vice Chairperson of DOF Group ASA (the \"Company\"), has today purchased 650,000 shares in the Company at an average price of NOK 123.384 per share.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 238,
+      "has_link": false
+    },
+    {
+      "key": "b4395f1c803caea1",
+      "author": "Pengesluk 2.0",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pengesluk-20",
+      "posted_relative": "for 1 t siden",
+      "text": "Vinner vi hele anbudet i Brasil? Vanvittig til «innside» de siste dagene Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 92,
+      "has_link": false
+    },
+    {
+      "key": "7b128ff805a99e1b",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 41 min siden",
+      "text": "De er  utsolgt gange 10 fremover",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 88,
-      "has_link": false
-    },
-    {
-      "key": "da303fee4b21209a",
-      "author": "Errons",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/errons",
-      "posted_relative": "for 2 t siden",
-      "text": "Hvorfor selger folket i dag når ikke de gjorde det i går?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4,
-        1
-      ],
-      "links": [],
-      "char_count": 57,
-      "has_link": false
-    },
-    {
-      "key": "fa4bf9c28049b4b2",
-      "author": "KjekkeLeif",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjekkeleif",
-      "posted_relative": "for 42 min siden",
-      "text": "Markedet oppfører seg aldri rasjonelt.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 38,
+      "char_count": 32,
       "has_link": false
     }
   ]

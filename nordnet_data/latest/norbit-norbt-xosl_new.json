@@ -1,22 +1,38 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-20T15:46:42.728098+00:00",
+  "scraped_at": "2026-11-20T18:08:42.023603+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "91880f67579d3305",
+      "key": "857156c893347829",
       "author": "Tikamp",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
-      "posted_relative": "for 14 min siden",
-      "text": "Kapital går dra norske selskaper for å kjøpe dippen i amerikanske selskaper?",
+      "posted_relative": "for 1 t siden",
+      "text": "Nasdaq 100 er ned nesten 3%. Forsvar er et alternativ når AI faller",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 76,
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "6135e7edad452b50",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 1 t siden",
+      "text": "Amerikanske forsvarsaksjer stiger",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 33,
       "has_link": false
     }
   ]

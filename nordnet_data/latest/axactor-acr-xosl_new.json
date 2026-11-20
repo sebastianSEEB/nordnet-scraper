@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-20T15:51:14.708195+00:00",
+  "scraped_at": "2026-11-20T18:13:04.104972+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "568e1a9e44318663",
+      "author": "BananJens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bananjens",
+      "posted_relative": null,
+      "text": "16. nov. Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 30,
+      "has_link": false
+    }
+  ]
 }
