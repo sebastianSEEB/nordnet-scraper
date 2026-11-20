@@ -1,6 +1,6 @@
 {
  "started": "2026-10-28",
- "cash": 49710.909829,
+ "cash": 37749.870431,
  "positions": [
   {
    "ticker": "BNOR.OL",
@@ -9,9 +9,9 @@
    "entry_px": 545.0,
    "shares": 22.315782,
    "cost": 12186.474147,
-   "held": 5,
+   "held": 7,
    "p": 0.580336,
-   "last_px": 542.0
+   "last_px": 521.0
   },
   {
    "ticker": "BRG.OL",
@@ -20,9 +20,9 @@
    "entry_px": 158.0,
    "shares": 76.975324,
    "cost": 12186.474147,
-   "held": 5,
+   "held": 7,
    "p": 0.569497,
-   "last_px": 154.0
+   "last_px": 150.600006
   },
   {
    "ticker": "SCATC.OL",
@@ -31,9 +31,9 @@
    "entry_px": 89.75,
    "shares": 119.909035,
    "cost": 10783.402715,
-   "held": 5,
+   "held": 7,
    "p": 0.56729,
-   "last_px": 84.75
+   "last_px": 82.400002
   },
   {
    "ticker": "NHY.OL",
@@ -42,17 +42,34 @@
    "entry_px": 66.639999,
    "shares": 180.990869,
    "cost": 12085.402171,
-   "held": 1,
+   "held": 3,
    "p": 0.603917,
-   "last_px": 65.559998
+   "last_px": 64.279999
+  },
+  {
+   "ticker": "NSKOG.OL",
+   "signal_date": "2026-11-18",
+   "entry_date": "2026-11-19",
+   "entry_px": 35.099998,
+   "shares": 340.088827,
+   "cost": 11961.039398,
+   "held": 2,
+   "p": 0.555136,
+   "last_px": 35.0
   }
  ],
  "pending": [
   {
-   "ticker": "NSKOG.OL",
-   "signal_date": "2026-11-18",
-   "alloc": 11961.039398,
-   "p": 0.555136
+   "ticker": "VEND.OL",
+   "signal_date": "2026-11-20",
+   "alloc": 11798.322947,
+   "p": 0.562293
+  },
+  {
+   "ticker": "OKEA.OL",
+   "signal_date": "2026-11-20",
+   "alloc": 11798.322947,
+   "p": 0.55526
   }
  ],
  "closed": [
@@ -225,7 +242,15 @@
   {
    "date": "2026-11-18",
    "equity": 95688.315183
+  },
+  {
+   "date": "2026-11-19",
+   "equity": 95366.535042
+  },
+  {
+   "date": "2026-11-20",
+   "equity": 94386.583578
   }
  ],
- "last_date": "2026-11-18"
+ "last_date": "2026-11-20"
 }
