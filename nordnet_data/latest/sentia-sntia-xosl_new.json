@@ -1,9 +1,23 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-11-19T19:20:34.929923+00:00",
+  "scraped_at": "2026-11-20T01:36:12.379258+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fc8e37e4dace70bc",
+      "author": "RGP1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rgp1",
+      "posted_relative": "for 54 min siden",
+      "text": "Kjøpe mer? Vente? 🧐",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }

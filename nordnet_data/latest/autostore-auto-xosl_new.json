@@ -1,9 +1,25 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-19T19:18:21.627720+00:00",
+  "scraped_at": "2026-11-20T01:34:01.486498+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "37c2665008f86bcd",
+      "author": "CDO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cdo",
+      "posted_relative": "for 5 t siden",
+      "text": "Hva tenker folk om denne langsiktig?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-19T19:20:07.833446+00:00",
+  "scraped_at": "2026-11-20T01:35:45.428148+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "488ad3d7ac0ebe99",
+      "author": "mr.parker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrparker-1",
+      "posted_relative": "for 5 t siden",
+      "text": "· Den var nede på 290 i fjor før den steg",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }
