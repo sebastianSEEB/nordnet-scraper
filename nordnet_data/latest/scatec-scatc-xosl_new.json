@@ -1,9 +1,25 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-11-20T18:08:46.210877+00:00",
+  "scraped_at": "2026-11-21T00:30:09.625715+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b85df48347c610b5",
+      "author": "beana",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beana",
+      "posted_relative": "for 53 min siden",
+      "text": "Øker og øker: https://ssr.finanstilsynet.no/Home/Details/NO0010715139",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/NO0010715139"
+      ],
+      "char_count": 69,
+      "has_link": true
+    }
+  ]
 }

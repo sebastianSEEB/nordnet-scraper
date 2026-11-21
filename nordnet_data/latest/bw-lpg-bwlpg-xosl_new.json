@@ -1,9 +1,38 @@
 {
   "slug": "bw-lpg-bwlpg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bw-lpg-bwlpg-xosl",
-  "scraped_at": "2026-11-20T18:06:50.911972+00:00",
+  "scraped_at": "2026-11-21T00:28:09.631446+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "37ed2c2cfcf7aa77",
+      "author": "ArveSynden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arvesynden",
+      "posted_relative": "for 3 t siden",
+      "text": "Med det sterke resultatet fra Product Services, gode spot-rater (har brukt snitt-TCE på $93.587) & litt fra salg av båter er jeg optimistisk & håper på utbytte opp mot $1,90/aksje. Har da trukket fra for 58 døgn i dokk, klassing av båter. Vet at AI's oppsummering av analytikere's estimat ligger betydelig lavere. Men i mitt regneark ender jeg opp med EBIT/aksje på $2,70; 75% av det er hele $2,03. Med samme regneark traff jeg veldig godt for Q2, men jeg kan jo bomme nå.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 472,
+      "has_link": false
+    },
+    {
+      "key": "a596cc9b6689911c",
+      "author": "ArveSynden",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arvesynden",
+      "posted_relative": "for 5 t siden",
+      "text": "Fearnleys rapporterte onsdag sin 10.de strake uke med spot-rater tett på eller over rekordhøye $200.000/døgn (rapporterer ukentlig snitt-rate for siste 30 døgn).  Ser frem til Q3-rapporten med tall for Q4-guiding; Q4 blir nok meget sterkt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 239,
+      "has_link": false
+    }
+  ]
 }
