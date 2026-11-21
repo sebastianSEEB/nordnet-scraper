@@ -1,9 +1,23 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-11-21T00:28:53.206351+00:00",
+  "scraped_at": "2026-11-21T07:51:04.905860+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ccb52312096f9d9d",
+      "author": "Eriksens Oppsparte",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eriksens-oppsparte",
+      "posted_relative": null,
+      "text": "17. nov. Kan jo lese børsmeldingen istedenfor å bare synse her inne. Dividend amount in NOK: 2,76834 per share",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 110,
+      "has_link": false
+    }
+  ]
 }
