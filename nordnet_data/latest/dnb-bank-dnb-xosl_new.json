@@ -1,9 +1,25 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-21T07:55:10.408262+00:00",
+  "scraped_at": "2026-11-21T15:50:06.751500+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4e35f93560961cc1",
+      "author": "Andinvest96",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/andinvest96",
+      "posted_relative": null,
+      "text": "17. nov. Hvorfor er denne lenken her? Hva har det med aksjen å gjøre? Tekniske problemer??",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 90,
+      "has_link": false
+    }
+  ]
 }

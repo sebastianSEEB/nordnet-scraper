@@ -1,9 +1,38 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-21T07:53:47.959953+00:00",
+  "scraped_at": "2026-11-21T15:48:44.383368+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "deadaa1198968be1",
+      "author": "Lien25",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lien25",
+      "posted_relative": "for 10 min siden",
+      "text": "Neste bunn på 19 før den går videre opp?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 40,
+      "has_link": false
+    },
+    {
+      "key": "df098380b34dc979",
+      "author": "Lien25",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lien25",
+      "posted_relative": "for 3 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

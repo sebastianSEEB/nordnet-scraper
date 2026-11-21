@@ -1,22 +1,42 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-21T07:57:27.626118+00:00",
+  "scraped_at": "2026-11-21T15:52:26.263438+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "de6675ee72672cee",
-      "author": "LarsInvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larsinvest-1",
-      "posted_relative": "for 1 t siden",
-      "text": "Jasper Kurth (CEO i Thor Medical) sier potensialet er enormt. Behandlingene er foreløpig bare i kliniske studier, og det vil ta et par, tre år før de blir tilgjengelige for folk flest. Helse- og omsorgsdepartementet (statssekretær Karl Kristian Bekeng) avviser kritikken og sier at pasienter skal få tilgang så raskt og rettferdig som mulig når behandlingen er dokumentert trygg og effektiv. Norge har høy kreftoverlevelse, og de ønsker at flere pasienter deltar i kliniske studier.",
+      "key": "5ddb490dddbdbbba",
+      "author": "Arnica",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arnica",
+      "posted_relative": "for 16 t siden",
+      "text": "https://www.nrk.no/vestfoldogtelemark/ny-kreftmedisin-kan-komme-sent-til-norge-1.18056596 Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        22,
+        2
+      ],
+      "links": [
+        "https://www.nrk.no/vestfoldogtelemark/ny-kreftmedisin-kan-komme-sent-til-norge-1.18056596"
+      ],
+      "char_count": 109,
+      "has_link": true
+    },
+    {
+      "key": "c64c9bdcd463aa9a",
+      "author": "Notrich",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/notrich",
+      "posted_relative": "for 1 t siden",
+      "text": "Advancell  \"Thor er en nøkkelpartner\"",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
       "links": [],
-      "char_count": 482,
+      "char_count": 37,
       "has_link": false
     }
   ]

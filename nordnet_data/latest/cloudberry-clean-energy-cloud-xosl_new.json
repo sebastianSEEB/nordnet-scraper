@@ -1,9 +1,28 @@
 {
   "slug": "cloudberry-clean-energy-cloud-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cloudberry-clean-energy-cloud-xosl",
-  "scraped_at": "2026-11-21T07:56:35.111321+00:00",
+  "scraped_at": "2026-11-21T15:51:33.668444+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f2b6070827d5b392",
+      "author": "Stjärnklubben",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stjarnklubben",
+      "posted_relative": null,
+      "text": "17. nov. · https://www.expressen.se/ekonomi/vinterns-elprischock-vantas-bli-varre-an-2022/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [
+        "https://www.expressen.se/ekonomi/vinterns-elprischock-vantas-bli-varre-an-2022/"
+      ],
+      "char_count": 90,
+      "has_link": true
+    }
+  ]
 }
