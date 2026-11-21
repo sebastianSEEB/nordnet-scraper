@@ -1,42 +1,40 @@
 {
   "slug": "thor-medical-trmed-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/thor-medical-trmed-xosl",
-  "scraped_at": "2026-11-21T15:52:26.263438+00:00",
+  "scraped_at": "2026-11-21T21:25:18.411319+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "5ddb490dddbdbbba",
-      "author": "Arnica",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arnica",
-      "posted_relative": "for 16 t siden",
-      "text": "https://www.nrk.no/vestfoldogtelemark/ny-kreftmedisin-kan-komme-sent-til-norge-1.18056596 Vis 1 kommentar til",
+      "key": "b2821d40d954a0c2",
+      "author": "Ovesagmo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ovesagmo",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/helse/2026/11/21/8396878/john-fredriksen-tror-pa-kreftmedisin-de-neste-manedene-skal-alt-skje",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        22,
-        2
+        1,
+        4
       ],
       "links": [
-        "https://www.nrk.no/vestfoldogtelemark/ny-kreftmedisin-kan-komme-sent-til-norge-1.18056596"
+        "https://www.finansavisen.no/helse/2026/11/21/8396878/john-fredriksen-tror-pa-kreftmedisin-de-neste-manedene-skal-alt-skje"
       ],
-      "char_count": 109,
+      "char_count": 121,
       "has_link": true
     },
     {
-      "key": "c64c9bdcd463aa9a",
-      "author": "Notrich",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/notrich",
-      "posted_relative": "for 1 t siden",
-      "text": "Advancell  \"Thor er en nøkkelpartner\"",
+      "key": "71dfa8cd637cf647",
+      "author": "Supertrikker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/supertrikker",
+      "posted_relative": "for 48 min siden",
+      "text": "Artikkelen omhandler Zelluna og ikke TRMED",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 37,
+      "char_count": 42,
       "has_link": false
     }
   ]
