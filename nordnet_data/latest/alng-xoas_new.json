@@ -1,9 +1,23 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-21T21:18:15.899848+00:00",
+  "scraped_at": "2026-11-22T01:46:17.717681+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3a0bac41fdd429d9",
+      "author": "Nextbay",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "posted_relative": null,
+      "text": "18. nov. B/E er vel litt høyere, men spørsmålet er vel ratene de har oppnådd for turene til Wilpride, om det oppveier pausen Wilforce hadde i september. Men viktigst for kursen blir nok guidingen for Q4 som ser ut til å ha begynt bra, og selvsagt status for ALNG Trading.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 271,
+      "has_link": false
+    }
+  ]
 }
