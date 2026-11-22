@@ -1,9 +1,26 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-22T01:51:22.413427+00:00",
+  "scraped_at": "2026-11-22T09:05:15.577960+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a8a2738c49e59b21",
+      "author": "Kongenavshareville",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongenavshareville",
+      "posted_relative": null,
+      "text": "18. nov. Det var da voldsomt 😄 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 50,
+      "has_link": false
+    }
+  ]
 }
