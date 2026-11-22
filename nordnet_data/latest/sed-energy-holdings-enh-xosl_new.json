@@ -1,9 +1,23 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-22T16:59:50.634777+00:00",
+  "scraped_at": "2026-11-22T22:18:49.133003+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "07ef9c5ec8dc45ee",
+      "author": "ruuno88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuno88",
+      "posted_relative": "for 54 min siden",
+      "text": "Hvem bryr seg om din livshistorie når har hatt flaks uten skills",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }

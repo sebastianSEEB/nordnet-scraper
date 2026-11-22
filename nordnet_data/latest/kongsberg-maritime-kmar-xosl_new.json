@@ -1,9 +1,41 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-22T17:00:50.195801+00:00",
+  "scraped_at": "2026-11-22T22:19:49.996815+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4aaa671f3a8667d2",
+      "author": "Stonkstock",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stonkstock",
+      "posted_relative": "for 1 t siden",
+      "text": "https://e24.no/boers-og-finans/i/LoAqOV/utbytteaksjene-som-kan-gi-deg-mest-penger-i-2027?utm_source=iosapp&utm_medium=share",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://e24.no/boers-og-finans/i/LoAqOV/utbytteaksjene-som-kan-gi-deg-mest-penger-i-2027?utm_source=iosapp&utm_medium=share"
+      ],
+      "char_count": 123,
+      "has_link": true
+    },
+    {
+      "key": "5ec085da08033cff",
+      "author": "Stonkstock",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stonkstock",
+      "posted_relative": "for 1 t siden",
+      "text": "Bryne trekker frem Kongsberg Maritime: – Vi liker selskap som er feilpriset på grunn av midlertidig svakhet, men ikke varig svekket. Etter vårt syn faller Kongsberg Maritime i denne kategorien, og vi tror et sterkt kvartal innen service og vedlikehold i 2027 vil være en god trigger for en reprising av selskapet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 313,
+      "has_link": false
+    }
+  ]
 }
