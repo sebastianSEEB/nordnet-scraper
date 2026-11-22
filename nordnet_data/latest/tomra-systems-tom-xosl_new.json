@@ -1,9 +1,40 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-22T09:01:49.654697+00:00",
+  "scraped_at": "2026-11-22T16:58:47.252171+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4b6de4ad0dcbefd2",
+      "author": "Surefire",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/surefire",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/industri/2026/11/22/8397736/tomra-aksjen-priser-inn-worst-case",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/industri/2026/11/22/8397736/tomra-aksjen-priser-inn-worst-case"
+      ],
+      "char_count": 90,
+      "has_link": true
+    },
+    {
+      "key": "f755f6d1fca7b04e",
+      "author": "Surefire",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/surefire",
+      "posted_relative": "for 1 t siden",
+      "text": "Jeg tror til sjuende og sist så kommer de beste automatene til å seire. Også i tillegg den som bruker mest på forskning og utvikling.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 133,
+      "has_link": false
+    }
+  ]
 }

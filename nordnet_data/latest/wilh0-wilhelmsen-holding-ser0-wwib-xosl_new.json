@@ -1,9 +1,54 @@
 {
   "slug": "wilh0-wilhelmsen-holding-ser0-wwib-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wilh0-wilhelmsen-holding-ser0-wwib-xosl",
-  "scraped_at": "2026-11-22T09:00:53.071618+00:00",
+  "scraped_at": "2026-11-22T16:57:46.973569+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2e8c56ce7aac07ff",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "18. nov. nå er det fin tids punkt å kjøpe Bli medlem av Nordnet Social for å se resultatene Logg inn Ja % Nei % 24 stemmer • Avsluttet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        71,
+        29
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "ecce6d2094f90712",
+      "author": "sjøogland",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjogland",
+      "posted_relative": null,
+      "text": "18. nov. · Endret Ja det tenker jeg og, har balansert 50/50 mellom A- og B aksjer på morgen. Dvs kjøpt meg opp i B aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    },
+    {
+      "key": "ad8869c1f496a044",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": null,
+      "text": "18. nov. nå er det fin tids punkt å kjøpe folkens",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    }
+  ]
 }

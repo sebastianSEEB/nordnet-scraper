@@ -1,9 +1,26 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-11-22T09:04:04.812552+00:00",
+  "scraped_at": "2026-11-22T17:01:06.183552+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "214b846793238f7f",
+      "author": "Tiger-Boy",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tiger-boy",
+      "posted_relative": null,
+      "text": "18. nov. EnQuest (UK basert) med ca. 31' fat per dag i produksjon selges for 9 mrd. NOK. Selskapet har 122 mill. 2P reserver. Burde indikere merverdier i Okea selv om skatteregimet ikke er helt sammenlignbart. Synspunkter?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 222,
+      "has_link": false
+    }
+  ]
 }

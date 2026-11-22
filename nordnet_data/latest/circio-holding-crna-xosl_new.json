@@ -1,9 +1,56 @@
 {
   "slug": "circio-holding-crna-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/circio-holding-crna-xosl",
-  "scraped_at": "2026-11-22T09:04:56.375569+00:00",
+  "scraped_at": "2026-11-22T17:01:57.723715+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "af4396b0bfa164e6",
+      "author": "Hulten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hulten",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Interessant innlegg fra Victor Levitsky om utfordringene med ssDNA, blant annet inflammasjon og effektivt genuttrykk. Slik jeg forstår ham, ser han et potensial for at circVec kan gjøre slike DNA-systemer mer effektive og bidra til å løse noen av begrensningene. Det gjenstår selvfølgelig å se hva de pågående forsøkene viser. Hvis circVec viser seg å gi betydelige fordeler på tvers av ulike DNA-systemer, får vi håpe Circios patentbeskyttelse er sterk nok til å sikre selskapet en del av verdiene som skapes. https://www.linkedin.com/posts/victor-levitsky-742b6310_whetherssdnacan-deliver-on-its-promise-share-7529975196364009472-kdZ5/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        17,
+        1
+      ],
+      "links": [
+        "https://www.linkedin.com/posts/victor-levitsky-742b6310_whetherssdnacan-deliver-on-its-promise-share-7529975196364009472-kdZ5/"
+      ],
+      "char_count": 637,
+      "has_link": true
+    },
+    {
+      "key": "d804290cbc24dd74",
+      "author": "GreatReset",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/greatreset",
+      "posted_relative": "for 1 t siden",
+      "text": "Er det en skrivefeil i notatet - tocenntech eller skal det være tcelltech?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 74,
+      "has_link": false
+    },
+    {
+      "key": "495d45ab6c6a9f30",
+      "author": "appa64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/appa64",
+      "posted_relative": "for 4 t siden",
+      "text": "Jeg sitter til oppkjøp. Eventuelt 0.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

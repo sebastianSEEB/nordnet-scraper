@@ -1,25 +1,65 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-22T09:05:15.577960+00:00",
+  "scraped_at": "2026-11-22T17:02:18.573349+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "a8a2738c49e59b21",
-      "author": "Kongenavshareville",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kongenavshareville",
-      "posted_relative": null,
-      "text": "18. nov. Det var da voldsomt 😄 Vis 1 kommentar til",
+      "key": "1aa2a50d57a6cf3c",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Synes at \"verdipapiret\" NHY aksjen,er blitt en stor parodi. Blir nesten mobba av de \"store\" Er kjørt ned mye på tull og vas. Vis 1 kommentar til",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3,
         2
       ],
       "links": [],
-      "char_count": 50,
+      "char_count": 144,
+      "has_link": false
+    },
+    {
+      "key": "2dd8042309d91038",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": "for 3 t siden",
+      "text": "Korreksjonen starter imorra etter å ha rast over 30%  siste måneder🤣🙁. Blir en stygg dag. Nhy bruker å falle mest. Vi skal ned til 50.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "f60e7ca6c28dbe9c",
+      "author": "oddafan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oddafan",
+      "posted_relative": null,
+      "text": "18. nov. Dette kommentarfelt er ikke for markedsføring. Innlegget bør fjernes av Nordnet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 88,
+      "has_link": false
+    },
+    {
+      "key": "8d82e408a25b72a7",
+      "author": "Lundart",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lundart",
+      "posted_relative": null,
+      "text": "18. nov. · salget pågår:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 25,
       "has_link": false
     }
   ]

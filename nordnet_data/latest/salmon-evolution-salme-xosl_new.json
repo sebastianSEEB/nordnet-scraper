@@ -1,22 +1,53 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-11-22T09:07:24.800625+00:00",
+  "scraped_at": "2026-11-22T17:04:32.952726+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "00961b73df3ecdcf",
-      "author": "Dorin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dorin",
-      "posted_relative": "for 20 min siden",
-      "text": "Heller, Rakett eller Emisjon ? Personlig håper æ at bunnen e nådd og at selskapet slipper emi... Avventer litt til, så vurdere ny handel. Ned 48 prosent nå på denne aksjen.",
+      "key": "3112dce0e38db7aa",
+      "author": "aframvi",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aframvi",
+      "posted_relative": null,
+      "text": "18. nov. I dag går det ned og i morgen går det opp. Det går opp og ned her i livet, det er vel derfor det er så mange ta oss. ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    },
+    {
+      "key": "67e9b9c5e018cf83",
+      "author": "thoomaas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thoomaas",
+      "posted_relative": null,
+      "text": "18. nov. Takk for at du deler dine kloke råd med oss andre",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 58,
+      "has_link": false
+    },
+    {
+      "key": "cfdb7af87c7f9762",
+      "author": "Repentless",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/repentless",
+      "posted_relative": "for 3 t siden",
+      "text": "· «Mange spaker å dra i!»",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 172,
+      "char_count": 25,
       "has_link": false
     }
   ]

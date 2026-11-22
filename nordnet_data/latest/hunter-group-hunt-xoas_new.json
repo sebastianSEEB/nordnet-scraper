@@ -1,79 +1,83 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-22T09:04:48.390021+00:00",
+  "scraped_at": "2026-11-22T17:01:49.515571+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
   "new_posts_count": 5,
   "posts": [
     {
-      "key": "dc2a4436c7dbc404",
-      "author": "phor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "Side 13, punkt 2.7 og side 23, note 11 i årsrapporten til Jacktel for 2025. Står det at utsatt skattefordel allerede er beregnet med gjeldende skattesats. 76,531 MUSD er skatteverdien av det fremførbare underskuddet, mens samlet netto utsatt skattefordel er 95,277 MUSD. Sistnevnte tilsvarer ca. 6,71 kr pr. Hunter-aksje. Dette er tall pr. 31.12.2025, så noe av underskuddet er nok allerede benyttet i 2026. Når det gjelder konsernbidrag, holder det vel at Hunter eier over 90 % av aksjene og stemmerettighetene ved årsskiftet. Sånn sett kan de få utnyttet deler av skattefordelen allerede i 2026.",
+      "key": "cd1b7eb4c05ca4b2",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 31 min siden · Endret",
+      "text": "Da fant jeg dette som gir et innblikk for de av dere lik meg selv som et i bakleksa med skattefordelen og fremførbart underskudd diskusjonene på forumet  I oppkjøpet der Hunter Group (gjennom datterselskapet Hg Projectco 1) byr 1,63 milliarder kroner for Jacktel, betyr det fremførbare underskuddet at Jacktel har et betydelig skattemessig tap fra tidligere år som kan brukes til å redusere skatt på fremtidige overskudd i konsernet. Ifølge Jacktels årsrapport for 2025 hadde selskapet et fremførbart underskudd på om lag 76,5 millioner dollar ved utgangen av 2025, i tillegg til rundt 24,1 millioner dollar i fremførbare, ikke-fradragsberettigede rentekostnader. Hva dette konkret betyr i denne transaksjonen • Betydelig skattebesparelse. Med en norsk selskapsskatt på 22 % har et fremførbart underskudd på 76,5 millioner dollar en teoretisk skatteverdi på rundt 16,8 millioner dollar (cirka 160–180 millioner kroner, avhengig av valutakurs). Dette er skatt Jacktel slipper å betale på sine egne overskudd i årene fremover, noe som styrker kontantstrømmen fra boligriggen Haven. • Mulighet for konsernbidrag ved >90 % eierskap. Hunter Group har stilt som betingelse å oppnå minst 90 % aksept i budet for å gjennomføre oppkjøpet og tvangsinnløse resten. Når Hunter Group eier over 90 %, danner selskapene et skattekonsern. Det betyr at Hunter Group – som har tjent store penger i tankmarkedet i 2026 – i prinsippet kan overføre skattepliktig overskudd (konsernbidrag) til Jacktel og avregne dette mot Jacktels fremførbare underskudd, slik at hele konsernet sparer skatt raskere. • Lav risiko for bortfall (skatteloven § 13-3). Jacktel er et operativt riggselskap med reell drift, kontrakter på norsk sokkel og en rigg verdsatt til rundt 150 millioner dollar. Fordi Hunter Group kjøper en etablert virksomhet med langsiktig kontantstrøm – og ikke et «tomt» selskap – vil det forretningsmessige motivet normalt veie tyngst. Dermed er det lav risiko for at Skatteetaten avskjærer underskuddet. • Ikke balanseført verdi. Jacktel hadde per utgangen av 2025 ikke bokført denne utsatt skattefordelen i balansen sin. For Hunter Group fungerer dette derfor som en ekstra oppside og kontantstrømfordel utover de bokførte verdiene i selskapet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 2232,
+      "has_link": false
+    },
+    {
+      "key": "9271488b6ed00007",
+      "author": "@Rovi87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rovi87",
+      "posted_relative": null,
+      "text": "Jeg er helt enig i at man bør være sikker før man legger dette til grunn i en verdsettelse. Men AI-svaret ditt bygger fortsatt på samme feilaktige forutsetning og beregner 22 % av en verdi som allerede er oppgitt etter skatt. At skattefordelen virker stor sammenlignet med kjøpesummen, er heller ikke et argument mot regnskapstallene. Jacktel har ikke balanseført fordelen fordi de ikke har kunnet sannsynliggjøre tilstrekkelig fremtidig skattepliktig overskudd. Det interessante med Hunter er nettopp muligheten for å utnytte underskuddet langt raskere gjennom konsernbidrag. Det er selvfølgelig ikke gitt at hele den nominelle skatteverdien på 5,53 kr blir ekstra aksjonærverdi. Jeg er enig i at man skal være kritisk, men da må man også være villig til å revurdere egne konklusjoner når dokumentasjonen viser noe annet.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        6
+      ],
+      "links": [],
+      "char_count": 822,
+      "has_link": false
+    },
+    {
+      "key": "43e726eb6b99013f",
+      "author": "Proffen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
+      "posted_relative": "for 20 t siden",
+      "text": "Angående det fremførbarte underskuddet tror jeg det er viktig å presisere noe. Jacktel gikk såvidt i underskudd i 2024 men gikk i pluss i 2025 og hadde et veldig bra år. For HUNT-caset er det viktigste at Jacktel nå ser ut til å være en lønnsom virksomhet med mulighet til å utnytte skatteposisjonen fremover – ikke et selskap som fortsatt taper penger og lever på gamle skattefradrag. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
         2
       ],
       "links": [],
-      "char_count": 597,
+      "char_count": 405,
       "has_link": false
     },
     {
-      "key": "106e8cd6a17528bc",
-      "author": "bahiom",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bahiom",
-      "posted_relative": "for 5 t siden",
-      "text": "Hunter kjøper Jack med en premie på ca 9%. På det \"verste\" var Hunt ned ca 20% på fredag, endte ca ned 10%. Dvs prisen på Jack - via Hunt- på et tidspunkt var ca 10% lavere enn NAV (i følge børskurs). Rett eller galt tenkt (sånn omtrentlig)?? I tillegg; ratene opp, bwet opp, enda ingen tilbakelevering, mulig fortsatt press på rater, rapport fra Jack til uken etc. Er ikke eubstansverdier høyere enn før dippen, men de utålmodige må vente på pengene/ lavere utbytte (om de ikke bare vil selge litt aksjer?",
+      "key": "e44e77518726c283",
+      "author": "nopetter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
+      "posted_relative": "for 6 t siden · Endret",
+      "text": "Jacktel hadde ca 70 millioner usd i gjeld inkludert obligasjonslån etter det jeg så fra siste q rapport da overtar Hunter gjelden også i samme slengen tipper de har skatte ekspertise som har gitt dem råd om hvordan et fremførbart underskudd kan brukes  siden det er noen som stiller spørsmål om saken på andre innlegg. Utover det så driver de med solide pluss tall.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        2,
         1
       ],
       "links": [],
-      "char_count": 506,
+      "char_count": 365,
       "has_link": false
     },
     {
-      "key": "8ea28ad368ab5a9a",
-      "author": "goodnews",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/goodnews",
-      "posted_relative": "for 3 t siden",
-      "text": "Jeg tror også at denne droppen var ubegrunnet. Forventet reaksjon, men ser ikke at selskapet har blitt svekket på noen måte, heller motsatt.",
-      "reply_count": null,
+      "key": "8404b50c202746e1",
+      "author": "Rovi87",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rovi87",
+      "posted_relative": "for 7 t siden · Endret",
+      "text": "Når det gjelder dette underskuddet til Jacktel er jeg ganske sikker på 76 531 er grunnlaget for skatten ikke selve skatten. SE BILDE. så om noen regner med 5-6 i verdi på dette er det helt feil. Verdien er litt over 1 krone.",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        11
+      ],
       "links": [],
-      "char_count": 140,
-      "has_link": false
-    },
-    {
-      "key": "627f4be7aaa013cd",
-      "author": "goodnews",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/goodnews",
-      "posted_relative": "for 3 t siden",
-      "text": "At markedet reagerte så negativt på fredag, virker snodig. Realsjon var forventet, men burde heller vært liten dropp og endt i pluss…?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 134,
-      "has_link": false
-    },
-    {
-      "key": "6776b59c2460f0ba",
-      "author": "goodnews",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/goodnews",
-      "posted_relative": "for 3 t siden",
-      "text": "Ganske sikker på at det kommer fin oppgang, når aksjonærene får tenkt og gått gjennom dette. Jeg er ikke bekymret 😊",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 115,
+      "char_count": 224,
       "has_link": false
     }
   ]

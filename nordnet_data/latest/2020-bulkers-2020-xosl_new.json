@@ -1,9 +1,53 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-11-22T09:00:26.229376+00:00",
+  "scraped_at": "2026-11-22T16:57:18.557250+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "2991c25aabffed25",
+      "author": "ks1977",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
+      "posted_relative": "for 7 t siden",
+      "text": "10-15 øre (de går over til kvartalsvis når de en gang starter opp igjen med utbytter - ingen anelse om når det blir).  Ref side 12 i presenasjonen (lenke i bunn) hvor de angir 19% i FCFE basert på emisjonskursen på 0,299USD Det er da under forutsetning av at ting (spesielt ratene) ikke har endret seg. Det har jeg ikke fulgt med på https://2020bulkers.com/content/uploads/2026/09/Company-presentation-2020-Bulkers-16-September-2026.pdf",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://2020bulkers.com/content/uploads/2026/09/Company-presentation-2020-Bulkers-16-September-2026.pdf"
+      ],
+      "char_count": 436,
+      "has_link": true
+    },
+    {
+      "key": "23342d233c61564e",
+      "author": "Fluzzz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fluzzz",
+      "posted_relative": "for 2 t siden",
+      "text": "Nybegynner her, kjøpte til 11. Er det forventet nedgang i morgen? Bør jeg selge?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "c6afb895bf68f4ba",
+      "author": "Logas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/logas",
+      "posted_relative": "for 5 t siden",
+      "text": "Hvor mye ned er den forventet å synke? Når bør en kjøpe seg inn igjen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

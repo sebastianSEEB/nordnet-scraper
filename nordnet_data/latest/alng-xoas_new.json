@@ -1,40 +1,22 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-22T09:00:18.573797+00:00",
+  "scraped_at": "2026-11-22T16:57:10.118070+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "978508d99d3b4925",
-      "author": "Nextbay",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nextbay",
+      "key": "f8320747cbdc82df",
+      "author": "rolf hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rolf-hansen",
       "posted_relative": null,
-      "text": "18. nov. · Endret Tap i Q3 redusert med 7.8% vs Q2.  Ingen trading på plass enda.  Begge skip på kontrakt start Q4, men betingelsene er noe vanskelig å tolke.",
+      "text": "18. nov. Når blir det penger på oss?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2,
-        9
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 158,
-      "has_link": false
-    },
-    {
-      "key": "aa08aa1d66e2f9ef",
-      "author": "Sluket",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
-      "posted_relative": null,
-      "text": "18. nov. China Gas og Venture dobler sin kontrakt som ble inngått i september, den nye 20 års avtalen blir 1 tonn LNG årlig.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 124,
+      "char_count": 36,
       "has_link": false
     }
   ]
