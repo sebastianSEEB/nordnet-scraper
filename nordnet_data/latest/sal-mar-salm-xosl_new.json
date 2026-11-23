@@ -1,51 +1,69 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-23T13:53:54.733656+00:00",
+  "scraped_at": "2026-11-23T18:47:30.036904+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 3,
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "1c597135570b62a1",
-      "author": "ASK invest AS",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-invest-as",
+      "key": "f2cf7125db187c6a",
+      "author": "kurhan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurhan",
       "posted_relative": null,
-      "text": "19. nov. Lukter på 700,- innen Jul.Mye positivt rundt Salmar som leverer. Vis 1 kommentar til",
+      "text": "19. nov. Da er nok en stor-shorter begynt å kaste kortene, Caisse de depot et placement du Quebec. Ligger ikke nå på lista over short > 0,5%",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
         3
       ],
       "links": [],
-      "char_count": 93,
+      "char_count": 140,
       "has_link": false
     },
     {
-      "key": "8dd22cdb1fd5c5ba",
-      "author": "MariusB",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
-      "posted_relative": "for 1 t siden",
-      "text": "Noe nytt om prisene eddie?",
+      "key": "1d641732ff1a8ba8",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": "for 3 t siden",
+      "text": "Bra drag og noen biler 4/6 solgt på 80 Oslo idag👍",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 26,
+      "char_count": 49,
       "has_link": false
     },
     {
-      "key": "dfd8adf84913d9cf",
-      "author": "Pett2022",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pett2022",
-      "posted_relative": null,
-      "text": "19. nov. innen juli ja",
-      "reply_count": 1,
+      "key": "8fe0e62dd701686a",
+      "author": "Enzomaresca",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/enzomaresca",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvorfor stiger Salmar så mye iforhold til mowi?",
+      "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        3
+      ],
       "links": [],
-      "char_count": 22,
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "8f35faebef1e9718",
+      "author": "kurhan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kurhan",
+      "posted_relative": "for 3 t siden",
+      "text": "Veldig bra volum. Kan være en shortskvis.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 41,
       "has_link": false
     }
   ]

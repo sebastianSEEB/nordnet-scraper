@@ -1,9 +1,23 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-23T13:55:42.178566+00:00",
+  "scraped_at": "2026-11-23T18:49:19.107558+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ab034c8401ff26e4",
+      "author": "KoffeinKapital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/koffeinkapital",
+      "posted_relative": "for 4 t siden",
+      "text": "· Så er det sektorrotasjon igjen, folk tror risikoen for at AI-boblen brister har forsvunnet, fordi Jensen Huang er gjeninnsatt som sjef for Nvidia 😂",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,23 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-11-23T13:52:18.913746+00:00",
+  "scraped_at": "2026-11-23T18:45:55.065402+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ab487adf6440dcb3",
+      "author": "oddafan",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oddafan",
+      "posted_relative": "for 2 t siden",
+      "text": "Kinesiske priser som fyller opp EU lagrene før en eventuell EU toll på silisium?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ]
 }

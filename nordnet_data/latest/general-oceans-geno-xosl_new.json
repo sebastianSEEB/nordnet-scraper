@@ -1,24 +1,37 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-23T13:56:51.572558+00:00",
+  "scraped_at": "2026-11-23T18:50:28.071663+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "9ca245899dca3a1d",
-      "author": "Rullestolmannen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rullestolmannen",
-      "posted_relative": "for 4 t siden",
-      "text": "God inngang nå tenker dere? Kursmål 24",
-      "reply_count": 1,
+      "key": "91a0cdcff826e6dc",
+      "author": "Stone Rokk",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stone-rokk",
+      "posted_relative": "for 3 t siden",
+      "text": "Undervanns overvåkning blir i årene som kommer en viktig infrastruktur med tanke på sabotasje oa. Geno ligger i forkant innen slikt forsvar teknologi.",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1
+        2
       ],
       "links": [],
-      "char_count": 38,
+      "char_count": 150,
+      "has_link": false
+    },
+    {
+      "key": "0cc3934decd9812f",
+      "author": "BorseBørs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
+      "posted_relative": "for 4 t siden",
+      "text": "GENO snur fra minus til 1% opp av at Jensen får tilbake stillingen sin i Nvidia... Verden er tydeligvis ikke stor :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 116,
       "has_link": false
     }
   ]
