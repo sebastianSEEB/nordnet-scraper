@@ -1,9 +1,41 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-11-23T03:23:16.300247+00:00",
+  "scraped_at": "2026-11-23T13:52:14.878508+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "02da0e883fe9db7a",
+      "author": "Barcelona1986",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/barcelona1986",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "JP har hundrevis av fond med forskjellige mandater.  Flere er lukkede fond (dvs ikke handlet) herunder kan være rene short-fond som alltid skal være short som en hedge (store investorer/hedgefonds kan da ha større eller mindre posisjoner av slike rene short-fond fortløpende som alternativ hedge mot fall) etc etc.  JP er ikke \"1 forvalter, med ett mandat\".  Dette gjelder JP globalt. Videre er JP SE vel også kontofører for en rekke aktører utenfor NORDEN som handler i nordiske aksjer, og bruker JP som kontofører VPS.  Slik som oljefondet bruker Citibank som kontofører globalt.  Dvs at Oljefondet ikke fremstår med eget navn i aksjonærregistre i det hele tatt.  JP SE vil da som regel ha et stort antall forskjellige kunder som de leverer kontofører-tjenester til.  Kan være egne og andres fond, store private aktører etc.   Ganske sikkert at JPs egne fond eller egenforvaltning er langt lavere enn de 7.2%.  Kanskje det aller meste tilhører eksterne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 955,
+      "has_link": false
+    },
+    {
+      "key": "43d8f4c7328f62d7",
+      "author": "ebpe",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ebpe",
+      "posted_relative": "for 4 t siden",
+      "text": "J.P. Morgan SE sitter  forvalter nærmere 7% eierandel i Scatec,  sammtidig shorter de 2,28 %  Hvilken strategi har de med det?  Vil de øke eierandel eller selge seg ned?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 169,
+      "has_link": false
+    }
+  ]
 }

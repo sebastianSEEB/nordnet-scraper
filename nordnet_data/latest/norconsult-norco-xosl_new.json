@@ -1,9 +1,23 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-23T03:23:42.723097+00:00",
+  "scraped_at": "2026-11-23T13:52:43.067907+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "32975a6059640392",
+      "author": "BB Investments",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bb-investments",
+      "posted_relative": null,
+      "text": "19. nov. Så jævli og.. sku vært i 40 egt men Oslo gambling er blåst🥴😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 69,
+      "has_link": false
+    }
+  ]
 }

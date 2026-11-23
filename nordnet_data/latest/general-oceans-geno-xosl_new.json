@@ -1,9 +1,25 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-23T03:27:43.952629+00:00",
+  "scraped_at": "2026-11-23T13:56:51.572558+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9ca245899dca3a1d",
+      "author": "Rullestolmannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rullestolmannen",
+      "posted_relative": "for 4 t siden",
+      "text": "God inngang nå tenker dere? Kursmål 24",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,52 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-23T03:24:51.336619+00:00",
+  "scraped_at": "2026-11-23T13:53:54.733656+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1c597135570b62a1",
+      "author": "ASK invest AS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ask-invest-as",
+      "posted_relative": null,
+      "text": "19. nov. Lukter på 700,- innen Jul.Mye positivt rundt Salmar som leverer. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        3
+      ],
+      "links": [],
+      "char_count": 93,
+      "has_link": false
+    },
+    {
+      "key": "8dd22cdb1fd5c5ba",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": "for 1 t siden",
+      "text": "Noe nytt om prisene eddie?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "dfd8adf84913d9cf",
+      "author": "Pett2022",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pett2022",
+      "posted_relative": null,
+      "text": "19. nov. innen juli ja",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 22,
+      "has_link": false
+    }
+  ]
 }

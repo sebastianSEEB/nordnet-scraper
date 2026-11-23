@@ -1,9 +1,58 @@
 {
   "slug": "jinhui-shipping-transportation-jin-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/jinhui-shipping-transportation-jin-xosl",
-  "scraped_at": "2026-11-23T03:21:38.316746+00:00",
+  "scraped_at": "2026-11-23T13:50:33.079681+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8ec279912fc8c058",
+      "author": "TJ80",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tj80",
+      "posted_relative": "for 28 min siden",
+      "text": "· Forventet nettoresultat på 48 mill. USD (P/E = 1,6) https://jinhui-research.pages.dev/ er oppdatert :)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://jinhui-research.pages.dev/"
+      ],
+      "char_count": 104,
+      "has_link": true
+    },
+    {
+      "key": "f0656b000251468d",
+      "author": "bunch1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bunch1",
+      "posted_relative": "for 2 t siden",
+      "text": "· Enda et skip solgt. 5,2 mill. USD i forventet fortjeneste. Fint, men det blir mindre og mindre å seile fortjenesten hjem med til de nye skipene ankommer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 155,
+      "has_link": false
+    },
+    {
+      "key": "f7df1e6fb29fe92c",
+      "author": "Jærbu1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jrbu1",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "da var «jin bi» solgt med 5,2 mil usd i gevinst",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    }
+  ]
 }

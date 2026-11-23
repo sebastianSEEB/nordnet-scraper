@@ -1,9 +1,54 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-23T03:24:47.661159+00:00",
+  "scraped_at": "2026-11-23T13:53:50.724443+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "c07b3cec74fc9176",
+      "author": "talentlos",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/talentlos",
+      "posted_relative": "for 5 t siden",
+      "text": "Har fulgt mye med på denne her, har også tro på at denne innen et år kan doble seg.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 83,
+      "has_link": false
+    },
+    {
+      "key": "07a3fd54b8062cad",
+      "author": "wololo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wololo",
+      "posted_relative": "for 3 t siden",
+      "text": "Kommer til å blåse forbi 20.. 22 neste tipper jeg 😋",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    },
+    {
+      "key": "2922aac7b605dbeb",
+      "author": "Willern",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willern",
+      "posted_relative": "for 2 døgn siden",
+      "text": "Skjer i dag a. Ræva uke Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        7
+      ],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

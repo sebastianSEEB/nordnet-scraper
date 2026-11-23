@@ -1,9 +1,25 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-11-23T03:24:13.241550+00:00",
+  "scraped_at": "2026-11-23T13:53:14.599327+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "178389ce29e59b78",
+      "author": "Kleo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
+      "posted_relative": null,
+      "text": "19. nov. · Endret Pareto Securities hever anbefalingen til kjøp (hold), og hever kursmålet til 245 kr (230)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 107,
+      "has_link": false
+    }
+  ]
 }

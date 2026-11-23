@@ -1,9 +1,52 @@
 {
   "slug": "tomra-systems-tom-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tomra-systems-tom-xosl",
-  "scraped_at": "2026-11-23T03:22:56.840169+00:00",
+  "scraped_at": "2026-11-23T13:51:54.594827+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "3232eae7a010230d",
+      "author": "Surefire",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/surefire",
+      "posted_relative": "for 2 t siden",
+      "text": "Det er en kortsiktig tankegang. Funker ikke hvis en skal bli verdensledende. Jeg for eksempel handler som oftest i butikkene som har pantemaskin som tar i mot pant sekkevis.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 173,
+      "has_link": false
+    },
+    {
+      "key": "acd6532578f58d32",
+      "author": "Surefire",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/surefire",
+      "posted_relative": "for 22 t siden",
+      "text": "Jeg tror til sjuende og sist så kommer de beste automatene til å seire. Også i tillegg den som bruker mest på forskning og utvikling. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "2f9b1b06325fef65",
+      "author": "Yamarin64dc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/yamarin64dc",
+      "posted_relative": "for 8 min siden · Endret",
+      "text": "Er det ikke Kapitalmarkedsdag for Tomra i morgen? Da kan det jo komme noe ...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 77,
+      "has_link": false
+    }
+  ]
 }

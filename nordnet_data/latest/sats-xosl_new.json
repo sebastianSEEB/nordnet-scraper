@@ -1,9 +1,23 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-23T03:25:14.557535+00:00",
+  "scraped_at": "2026-11-23T13:54:19.176498+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "852e251a4d93df05",
+      "author": "Michi13",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/michi13",
+      "posted_relative": "for 1 t siden",
+      "text": "Fortsatt 1,9 mio aksjer selskapet vil kjøpe. Håper det kan bli en fin julegave 😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    }
+  ]
 }

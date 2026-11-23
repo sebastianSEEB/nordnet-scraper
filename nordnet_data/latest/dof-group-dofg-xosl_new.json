@@ -1,9 +1,56 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-23T03:23:00.640104+00:00",
+  "scraped_at": "2026-11-23T13:51:58.815265+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "7c70d543d084382d",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Jeg tenker en halvering av yielden ville vært normalt. Så en kurs godt over 200. P/e på ca 12 ville også gitt over kr200. Så vi er på vei dit!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 143,
+      "has_link": false
+    },
+    {
+      "key": "4bfefa0ba340de34",
+      "author": "Kontormannen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kontormannen",
+      "posted_relative": "for 6 t siden",
+      "text": "Hvorfor går ikke kursen mer ned de enorme innsidekjøpene? Og er det blokksalg utenom børs eller kjøper de i markedet? 🧐",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "57d4e4a8bb41abcf",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 58 min siden",
+      "text": "Og Ose kundene selger",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

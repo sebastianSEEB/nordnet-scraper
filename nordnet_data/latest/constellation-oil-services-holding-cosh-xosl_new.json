@@ -1,9 +1,54 @@
 {
   "slug": "constellation-oil-services-holding-cosh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/constellation-oil-services-holding-cosh-xosl",
-  "scraped_at": "2026-11-23T03:23:27.708687+00:00",
+  "scraped_at": "2026-11-23T13:52:26.677995+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "ca80d36a084a5b4f",
+      "author": "Coinflipper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coinflipper",
+      "posted_relative": "for 5 t siden",
+      "text": "Data som hentes fra tredjepart og slike hendelser kommer gjerne inn i ettertid. Du er hjertelig velkommen til å regne på det selv selvfølgelig :D",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "058f1897e279b8e5",
+      "author": "Peanutter",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/peanutter",
+      "posted_relative": "for 6 t siden",
+      "text": "Hvorfor oppdaterer ikke nordnet ny kommende Direkteavkastning med over 7 kr?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    },
+    {
+      "key": "911c47af280d263c",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": "for 4 t siden",
+      "text": "Endeløst med selgere…",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

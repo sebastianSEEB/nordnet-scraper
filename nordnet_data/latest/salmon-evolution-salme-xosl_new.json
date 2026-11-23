@@ -1,9 +1,39 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-11-23T03:28:29.697249+00:00",
+  "scraped_at": "2026-11-23T13:57:38.199165+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9a83bfc05cc8b666",
+      "author": "Investnpc",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investnpc",
+      "posted_relative": "for 11 min siden",
+      "text": "Tror på en langsom rakett innen de neste 5 årene, håper politikerne kommer på banen og høyere laksepriser. Mye som kan skje på oppsiden.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 136,
+      "has_link": false
+    },
+    {
+      "key": "137f06438d74b6ed",
+      "author": "Feskarna",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/feskarna",
+      "posted_relative": null,
+      "text": "19. nov. Kanskje investorer endelig får øynene opp for dyrevelferd og  faktisk våkner opp og ser hva Salmon holder på med 👏🥳",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        15,
+        11
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,26 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-23T03:26:04.712001+00:00",
+  "scraped_at": "2026-11-23T13:55:09.665563+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "0072f7c6f22d0437",
+      "author": "Kleo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kleo2",
+      "posted_relative": null,
+      "text": "19. nov. Pareto Securities hever kursmålet for DNB til 360 kroner (350), gjentar kjøp,",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 86,
+      "has_link": false
+    }
+  ]
 }

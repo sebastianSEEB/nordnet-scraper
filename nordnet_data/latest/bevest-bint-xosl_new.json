@@ -1,9 +1,26 @@
 {
   "slug": "bevest-bint-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bevest-bint-xosl",
-  "scraped_at": "2026-11-23T03:28:07.023578+00:00",
+  "scraped_at": "2026-11-23T13:57:15.175188+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "99b9e4a05269681d",
+      "author": "CarefulInvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/carefulinvest",
+      "posted_relative": null,
+      "text": "19. nov. Aksjekursen tilsvarer nå 32% rabatt i forhold til underliggende verdier. Det er naturligvis en holding-rabatt involvert, men det betyr at selskapet har betydelig oppside hvis de realiserer verdier. Nå ser det ut til at det er en konsolideringsfase på gang i oppdrettsbransjen, så nå begynner det å bli sannsynlig at det skjer noe her.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        1
+      ],
+      "links": [],
+      "char_count": 343,
+      "has_link": false
+    }
+  ]
 }

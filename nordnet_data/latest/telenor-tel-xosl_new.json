@@ -1,9 +1,41 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-23T03:26:15.998261+00:00",
+  "scraped_at": "2026-11-23T13:55:21.994529+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "332fb5881aa1c3fb",
+      "author": "Jabbadabbadooo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jabbadabbadooo",
+      "posted_relative": "for 5 t siden",
+      "text": "Helt til Musk synes du ser på for mye rart på internett, og slår av nettet ditt noen uker... 😄 Skrinla tanken på starlink da Musk bremset Ukrainas tilgang da de begynte å få litt overtak på Russland.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        10
+      ],
+      "links": [],
+      "char_count": 199,
+      "has_link": false
+    },
+    {
+      "key": "9055dd20a307fed3",
+      "author": "Millinea",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/millinea",
+      "posted_relative": "for 5 t siden",
+      "text": "Etter siste prisøkning på mobilt bredbånd har jeg og 4 andre jeg kjenner gått over til Starlink. 60% billigere. Bare noe å tenke på",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ]
 }

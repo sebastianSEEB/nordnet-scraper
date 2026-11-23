@@ -1,9 +1,85 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-11-23T03:27:32.741423+00:00",
+  "scraped_at": "2026-11-23T13:56:39.480074+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "2e38bb72fbd3b056",
+      "author": "Finansfranz",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/finansfranz",
+      "posted_relative": "for 5 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/11/23/8395724/schjodt-partner-einar-caspersen-sitter-pa-milliardformue",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/23/8395724/schjodt-partner-einar-caspersen-sitter-pa-milliardformue"
+      ],
+      "char_count": 110,
+      "has_link": true
+    },
+    {
+      "key": "b2c05453a6f74d21",
+      "author": "Fjellveien invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjellveien-invest",
+      "posted_relative": "for 4 t siden",
+      "text": "Noen som ar en tanke om hvorfor det går så bra her mens AI aksjer ellers går nedover?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    },
+    {
+      "key": "81c745b2c2f125d0",
+      "author": "Valderama64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/valderama64",
+      "posted_relative": null,
+      "text": "19. nov. Er det kontrakt med Sverige du sikter til eller kommer det noe nytt ?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 78,
+      "has_link": false
+    },
+    {
+      "key": "7632cd6a180c3127",
+      "author": "SevSnape",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sevsnape",
+      "posted_relative": "for 1 t siden",
+      "text": "De fleste tech aksjer er oppe i premarket i dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "f120b226c06df0f3",
+      "author": "A20",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/a20",
+      "posted_relative": null,
+      "text": "19. nov. Kanskje 60 idag. God kontrakt på gang",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        1
+      ],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

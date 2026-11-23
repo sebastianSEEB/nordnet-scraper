@@ -1,9 +1,27 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-23T03:25:56.924580+00:00",
+  "scraped_at": "2026-11-23T13:55:01.634039+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1922c1df3e1d4712",
+      "author": "omvo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/omvo",
+      "posted_relative": null,
+      "text": "19. nov. · Viser frem APC-målrettet DNA-vaksineplattform på det 3. årlige Personalized Cancer Vaccine Summit https://newsweb.oslobors.no/message/687007",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/687007"
+      ],
+      "char_count": 151,
+      "has_link": true
+    }
+  ]
 }
