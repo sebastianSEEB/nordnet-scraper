@@ -1,9 +1,23 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-11-22T22:17:17.650598+00:00",
+  "scraped_at": "2026-11-23T03:22:29.307833+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ce074185c2b4a46f",
+      "author": "Johnny4Cash",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johnny4cash",
+      "posted_relative": "for 16 t siden",
+      "text": "Har det noe å si om du sletter din nordnet konto? Du deler jo ingenting som er fornuftig ei heller skriver noe som er saklig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    }
+  ]
 }
