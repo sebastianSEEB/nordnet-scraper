@@ -1,9 +1,52 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-24T18:16:54.609217+00:00",
+  "scraped_at": "2026-11-24T21:41:21.844746+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 11,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "258dd00eac4c0e64",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": null,
+      "text": "19. nov. Gikk litt analytisk til verk på ordlyden i rapporten og har gjort meg opp følgende tanker (mulig jeg tar feil): - Begge båtene er satt på en gunstig midlertidig TC kontrakt som trolig har en innledende låst leieperiode (for eks. 2-3 måneder), deretter en åpen periode hvor man kan avslutte TC gitt at \"certain conditions\" inntreffer. Et slikt tilfelle kan være spot under et visst nivå, for eks. 20USD JKM, eller fred i Hormuz - vanskelig å si konkret. - Ledelsen ønsker å maksimere profitt \"until long-term employment is available\". Dette støtter opp om en \"løs\" TC nå, og låst TC utpå vårparten 2027, jamfør 2026. Egen-handel kan skje uten bruk av egne båter (ref. børsmelding i mars), så dersom begge båter er på låst TC så vil ikke dette nødvendigvis utsette en handel. - De påpeker at trading går \"slower than anticipated\" grunnet høy spot pris. Om fred oppnås i Hormuz via dialog, eller en avslutning oppnås via lynagrep mot Pickaxe Mountain (en legitim exit for Trump), så vil Hormuz åpne og Qatar sin låste LNG kapasitet frigjøres. Qatar stanser da spotkjøp og deres egne båter returnerer til kontraktfestet seilaser. Etterspørsel etter spot faller, TTF/JKM vil trolig stupe og døren åpner seg for ALNG Trading. Summert sett: ALNG sikrer seg inntekt nå i påvente av lavere spot priser. Hva mener dere? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 1338,
+      "has_link": false
+    },
+    {
+      "key": "da35b4912ee9d9d4",
+      "author": "Baretap12",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/baretap12",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Bruke skipene til å holde det gående og på beina? Er du klar over hvor raten nå ligger? Og hvor mye Alng taper på hver tur de inngår på dagens rate, ta en realitets sjekk De har en ok buffer vedr emisjonen i våres, men pengene brenner fort At aksjen nå står over emisjons kurs er egentlig ufattelig og nesten uforståelig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 321,
+      "has_link": false
+    },
+    {
+      "key": "557cff172ca3b5a8",
+      "author": "BerntOlav",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/berntolav",
+      "posted_relative": "for 1 t siden",
+      "text": "Vises her, men omsetning på 99k, ventemodus på første trade, men aksjen har vært illikvid lenge så store poster er umulig å kjøpe selge uten å bevege kursen veldig mange prosent, kjøpte 3k aksjer fra utbytte av andre aksjer som et lodd for den nye tradingen  såvidt i pluss men er vente-spill",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 292,
+      "has_link": false
+    }
+  ]
 }

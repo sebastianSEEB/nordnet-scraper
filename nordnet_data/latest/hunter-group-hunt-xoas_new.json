@@ -1,127 +1,25 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-24T18:21:32.981418+00:00",
+  "scraped_at": "2026-11-24T21:45:54.414785+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 8,
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "1555b06665a1c7c9",
+      "key": "f300bb1499364063",
       "author": "nopetter",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 1 t siden",
-      "text": "Falt faktisk 1k usd idag  Dirty tanker spot rates tick up overall  FFA up VLCC TD3C Q1 FFA +8%⏫(pic) TD3C TCE (AG>CN) -1k to 1,096k➡️ TD34 TCE (GOO>CN) +3k to 332k➡️ TD22 TCE (US>CN) +9k to 270k↗️ SUEZ TCE  +10k to 264k⬆️ AFRA TCE -1k to 219k➡️    BWET +5.8%",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Citadel har satt den samme shorten på nytt den 23/11 som man ser på listen så har slike shorter blitt satt jevnlig https://ssr.finanstilsynet.no/Home/Details/NO0012953720",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
-      "links": [],
-      "char_count": 258,
-      "has_link": false
-    },
-    {
-      "key": "e0e2e4d1ad16462e",
-      "author": "nopetter",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 3 t siden · Endret",
-      "text": "Blir nok en liten opptur i TD3C raten idag også siden FFA er flat i øyeblikket. BWET opp ca 2% Freight Futures AM Update   Dry Bulk  Capesize:  up ~1% Panamax:  flat Tankers  VLCC:  flat Suezmax:  up ~1%",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        13,
-        3
+      "links": [
+        "https://ssr.finanstilsynet.no/Home/Details/NO0012953720"
       ],
-      "links": [],
-      "char_count": 203,
-      "has_link": false
-    },
-    {
-      "key": "81dfb65dfbafc01c",
-      "author": "Kjetil2000",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjetil2000",
-      "posted_relative": "for 4 t siden",
-      "text": "Tror dere denne kommer til å gå mer opp eller ned i nærmeste fremtid?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3,
-        5
-      ],
-      "links": [],
-      "char_count": 69,
-      "has_link": false
-    },
-    {
-      "key": "d4eea1538d629bdf",
-      "author": "TRD 100",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trd-100",
-      "posted_relative": "for 2 t siden",
-      "text": "kan den plis falle så jeg kan komme meg inn igjen får fomo🥲",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        3
-      ],
-      "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "38a06653983ea89f",
-      "author": "Iluna",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/iluna",
-      "posted_relative": "for 4 t siden",
-      "text": "Er solgt veldi mye nå rundt 21,  skal nok ned tenker jeg🤔",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 57,
-      "has_link": false
-    },
-    {
-      "key": "73bdfc4fe2fe6a55",
-      "author": "Gaffe",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gaffe",
-      "posted_relative": "for 3 t siden",
-      "text": "Noen tar fortjeneste",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 20,
-      "has_link": false
-    },
-    {
-      "key": "afd08f8d90ae1a94",
-      "author": "Loker",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loker",
-      "posted_relative": "for 4 t siden",
-      "text": "Hva skjedde nå`?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1,
-        1
-      ],
-      "links": [],
-      "char_count": 16,
-      "has_link": false
-    },
-    {
-      "key": "9b8058f7eeb3aab0",
-      "author": "Emirates 1969",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emirates-1969",
-      "posted_relative": "for 4 t siden",
-      "text": "· 22;)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        9
-      ],
-      "links": [],
-      "char_count": 6,
-      "has_link": false
+      "char_count": 170,
+      "has_link": true
     }
   ]
 }
