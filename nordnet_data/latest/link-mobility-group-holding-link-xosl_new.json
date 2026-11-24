@@ -1,22 +1,54 @@
 {
   "slug": "link-mobility-group-holding-link-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/link-mobility-group-holding-link-xosl",
-  "scraped_at": "2026-11-24T11:47:46.127336+00:00",
+  "scraped_at": "2026-11-24T18:18:09.523976+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "67f54e3a9a20ee4a",
-      "author": "Josef Kåresen",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josef-karesen",
-      "posted_relative": "for 3 t siden",
-      "text": "Hvorfor så opptatt av Twilio?",
+      "key": "e24a9444293ec827",
+      "author": "Sistemann inn..",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Det er vel kjent at for et snaut år siden bikket kursen 35. Så det er mest et spørsmål om tid før det går oppover igjen. Et bra Q4 med god guiding er vel hva markedet venter på nå.  Inntil da er det trading som gjelder. Med en fortsatt volatil kurs.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 29,
+      "char_count": 249,
+      "has_link": false
+    },
+    {
+      "key": "b4a5e8aba9651184",
+      "author": "Sistemann inn..",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sistemann-inn",
+      "posted_relative": "for 20 t siden",
+      "text": "Analytikernes kursmål for de neste 12 månedene er i snitt langt over dagens børskurs. Ingen av analytikerne som nordnett dekker er under. Bare nevner det. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        2
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "bcc4d6d12843db14",
+      "author": "MariusB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mariusb",
+      "posted_relative": null,
+      "text": "20. nov. Det gikk nettopp en handel på 500.000 aksjer til 28kr off market.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        5
+      ],
+      "links": [],
+      "char_count": 74,
       "has_link": false
     }
   ]

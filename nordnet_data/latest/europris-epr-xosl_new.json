@@ -1,37 +1,54 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-11-24T11:49:13.851724+00:00",
+  "scraped_at": "2026-11-24T18:19:37.538996+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "2cef75aa4b6caa24",
-      "author": "bareple",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bareple",
+      "key": "c88e0f75549ba7fb",
+      "author": "OMinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ominvest",
       "posted_relative": "for 3 t siden",
-      "text": "Har veldig lyst til å kjøpe meg inn her, hva mener du er en god pris å kjøpe seg inn på? Vis 1 kommentar til",
+      "text": "https://www.finansavisen.no/handel/2026/11/24/8398158/vend-gar-ut-utbytteaksje-kommer-inn",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        3
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/handel/2026/11/24/8398158/vend-gar-ut-utbytteaksje-kommer-inn"
+      ],
+      "char_count": 89,
+      "has_link": true
+    },
+    {
+      "key": "f9050a1c27a32988",
+      "author": "bareple",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bareple",
+      "posted_relative": "for 10 t siden",
+      "text": "Har veldig lyst til å kjøpe meg inn her, hva mener du er en god pris å kjøpe seg inn på?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
       ],
       "links": [],
-      "char_count": 108,
+      "char_count": 88,
       "has_link": false
     },
     {
-      "key": "61a6d06a5577bcff",
-      "author": "OMinvest",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ominvest",
-      "posted_relative": "for 38 min siden",
-      "text": "Jeg mener at nåværende pris er en god pris.",
+      "key": "d9ed639a6b66c81c",
+      "author": "ruuno88",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ruuno88",
+      "posted_relative": "for 6 t siden",
+      "text": "· .",
       "reply_count": 1,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 43,
+      "char_count": 3,
       "has_link": false
     }
   ]
