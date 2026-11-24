@@ -1,9 +1,25 @@
 {
   "slug": "atea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/atea-xosl",
-  "scraped_at": "2026-11-23T18:48:13.148432+00:00",
+  "scraped_at": "2026-11-24T01:25:43.680567+00:00",
   "first_run": false,
   "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "3df1246c7b659f3f",
+      "author": "Dilten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/dilten",
+      "posted_relative": "for 5 t siden · Endret",
+      "text": "https://www.finansavisen.no/finans/2026/11/23/8397909/svenske-forvaltere-kaster-seg-over-billige-norske-aksjer Fra saken:  «For eksempel liker de Atea bedre enn den svenske konkurrenten Dustin»",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/23/8397909/svenske-forvaltere-kaster-seg-over-billige-norske-aksjer"
+      ],
+      "char_count": 193,
+      "has_link": true
+    }
+  ]
 }

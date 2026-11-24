@@ -1,9 +1,39 @@
 {
   "slug": "grieg-seafood-gsf-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/grieg-seafood-gsf-xosl",
-  "scraped_at": "2026-11-23T18:47:10.652402+00:00",
+  "scraped_at": "2026-11-24T01:24:41.603638+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "03046e41438e08af",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": "for 4 t siden",
+      "text": "Det er vel ikke unaturlig at majoriteten i et selskap ønsker å være delaktig i denne type prosesser. De skriver at kandidaten er funnet med god hjelp av eksterne.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 162,
+      "has_link": false
+    },
+    {
+      "key": "c048d206dd928002",
+      "author": "Eddie23",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eddie23",
+      "posted_relative": "for 6 t siden",
+      "text": "Knut Nesse foreslått som ny styreleder i GSF! Fantastisk flink mann og en strategisk ringrev👍👏🏻👏🏻 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        3
+      ],
+      "links": [],
+      "char_count": 117,
+      "has_link": false
+    }
+  ]
 }

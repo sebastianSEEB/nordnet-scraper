@@ -1,40 +1,57 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-11-23T18:47:41.824885+00:00",
+  "scraped_at": "2026-11-24T01:25:12.599122+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "8cd5ab3f97ee465a",
-      "author": "Cod Master",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cod-master",
-      "posted_relative": null,
-      "text": "19. nov. Mer fra Petter Kongslie: *** What if? Following our update on Endur (see link to latest research report below), common feedback has been around \"what if Endur delivers same MoM or IRR on the other acquisitions they have conducted, but where you do not have enough data yet?\". Good questions, lets (try) to do the math! MoM has been 2.5x on average on Repstad, BMO and TotalBetong with a corresponding average IRR of 30% based on 3.7 years. That is very good numbers, just to be clear, and we do not expect Endur to be able to replicate this. Nevertheless, the remaining 9 acquisitions, conducted in 4Q25 and onwards, generated EBITA of NOK200m combined and by assuming 2.5x MoM, incremental EBITA is NOK300m and maybe NOK275 if we adjust for contribution already included in our 2027 estimates (most relevant given that this is pro-forma). Indeed, we model group EBITA of NOK715m in 2027 and NOK767m in 2028 and if Endur can replicate same MoM multiples as described above, we are close to NOK1.0bn without underlying growth in the existing business (BMO, Repstad, TotalBetong and Marcon within Infrastructure). Adding underlying organic growth on these assets, we are looking at NOK1.2bn. Further, assuming same timeline as above (3.7 years), this should be in 2030. We only have estimates to 2028 today (NOK767m), but if we extrapolating our estimate to 2030, we would be looking at ~NOK950m. Bottom line: without further acquisitions, this scenario outlines a track towards group EBITA of NOK1.0-1.2bn by 2030. At 12x EV/EBIT (as we assume no further M&A compounding), NOK1bn net cash (due to no additional M&A included) and accumulated DPS of ~NOK10, that is ~NOK250-300 per share or 15-20% IRR from the current share price (NOK145).",
+      "key": "d8e4d3e7ab30266d",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": "for 4 t siden · Endret",
+      "text": "Endúr-datterselskap vil begjære oppbud, overfaktureringen på oppdrag for Sjøforsvaret ble spikeren i kisten for Endúr Maritime: https://newsweb.oslobors.no/message/687236",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        10,
-        1
+        2,
+        3
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/687236"
+      ],
+      "char_count": 170,
+      "has_link": true
+    },
+    {
+      "key": "b0ca008a0fad938b",
+      "author": "EMPEROR_OSLO",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emperor_oslo",
+      "posted_relative": null,
+      "text": "19. nov. · Endret Takk for deling. Veldig verdifullt.  Han burde også ha et eget separat kursmål som inkluderer økt compounder-aktivitet. Da snakker vi fort området 500kr.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
       ],
       "links": [],
-      "char_count": 1746,
+      "char_count": 171,
       "has_link": false
     },
     {
-      "key": "67af1f0466f9e817",
-      "author": "Tom_Peng_Pung",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tom_peng_pung",
-      "posted_relative": null,
-      "text": "19. nov. Nydelige nye kursmål. Dessverre ligger forsinkelse på oversikten hos Nordnet, så kursmål der er snitt 158,71 (140-185).  Om oversikten din er riktig er gjennomsnittlige kursmål altså kr 168,50, eller 15,7% opp fra sluttkurs.",
-      "reply_count": 1,
+      "key": "44863fb8a747ba70",
+      "author": "VDH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vdh",
+      "posted_relative": "for 3 t siden",
+      "text": "Veldig fornuftig! 👏",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 233,
+      "char_count": 19,
       "has_link": false
     }
   ]

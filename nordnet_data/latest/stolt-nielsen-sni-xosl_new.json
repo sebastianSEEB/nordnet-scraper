@@ -1,9 +1,25 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-11-23T18:43:47.652182+00:00",
+  "scraped_at": "2026-11-24T01:21:23.098063+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "91558117cd8407a7",
+      "author": "Rambo2",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rambo2",
+      "posted_relative": null,
+      "text": "19. nov. · 1$",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 13,
+      "has_link": false
+    }
+  ]
 }
