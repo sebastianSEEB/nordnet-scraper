@@ -1,9 +1,38 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-24T01:27:47.475890+00:00",
+  "scraped_at": "2026-11-24T11:52:58.290649+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4611bc73a05d340d",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": "for 3 t siden",
+      "text": "Tenker aksjen kommer sterkt tilbake så fort de melder at de har kjøpt nye porteføljer med lån til gunstige priser og resultatene beyner å formulere seg løpet av første halv år 2027",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 180,
+      "has_link": false
+    },
+    {
+      "key": "495656375eececad",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 2 t siden",
+      "text": "Den bør minst dobble seg for å være priset mere korrekt. Det kommer. Long",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 73,
+      "has_link": false
+    }
+  ]
 }

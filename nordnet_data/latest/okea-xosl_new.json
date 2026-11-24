@@ -1,9 +1,27 @@
 {
   "slug": "okea-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okea-xosl",
-  "scraped_at": "2026-11-24T01:25:20.806624+00:00",
+  "scraped_at": "2026-11-24T11:50:25.876154+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "13f8ddabf43bdb71",
+      "author": "PriiceX",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/priicex",
+      "posted_relative": null,
+      "text": "20. nov. Investtech kommer med anbefaling på OKEA i dag. https://e24.no/boers-og-finans/i/KL3XmX/ukens-investtech-disse-aksjene-boer-du-eie-i-desember?utm_source=iosapp&utm_medium=share.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://e24.no/boers-og-finans/i/KL3XmX/ukens-investtech-disse-aksjene-boer-du-eie-i-desember?utm_source=iosapp&utm_medium=share."
+      ],
+      "char_count": 186,
+      "has_link": true
+    }
+  ]
 }

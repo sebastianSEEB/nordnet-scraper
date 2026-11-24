@@ -1,41 +1,42 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-24T01:24:57.096909+00:00",
+  "scraped_at": "2026-11-24T11:50:01.061488+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 7,
   "new_posts_count": 2,
   "posts": [
     {
-      "key": "a6ab3cb6e66c2d5f",
-      "author": "wololo",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wololo",
-      "posted_relative": "for 5 t siden",
-      "text": "jeg vurderer å dempe brukere som spør sånne spørsmål framover på nordnet",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
-      "links": [],
-      "char_count": 72,
-      "has_link": false
-    },
-    {
-      "key": "726c156ecafcc266",
-      "author": "isaklodemel",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isaklodemel",
-      "posted_relative": "for 9 t siden",
-      "text": "Kjøp eller selg fremover ??",
+      "key": "47b30a47eb870bae",
+      "author": "BM1985",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bm1985",
+      "posted_relative": "for 3 t siden",
+      "text": "AutoStore – interessante signaler fra USA 🇺🇸 Har undersøkt amerikanske importdata for AutoStore AS på ImportInfo. Noen interessante funn: * 1 907 registreringer knyttet til AutoStore-søket. * Store aktører som Dematic, Swisslog, Bastian Solutions og Element Logic dukker opp i leverandør- og mottakernettverket. * Forsendelser omfatter robotkomponenter, aluminiumskonstruksjoner og deler til automatiserte lagersystemer. * Amazon dukker opp som et interessant spor i en konkret forsendelse knyttet til et AutoStore-prosjekt. Importdata kan gi investorer verdifull innsikt i faktisk vareflyt og prosjektaktivitet i USA, utover det som fremkommer i kvartalsrapportene. Amazon-sporet er interessant, men er ikke i seg selv bekreftelse på en direkte ordre. Kilde: https://www.importinfo.com/search?s=autostore",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        5
+        18
       ],
-      "links": [],
-      "char_count": 27,
-      "has_link": false
+      "links": [
+        "https://www.importinfo.com/search?s=autostore"
+      ],
+      "char_count": 805,
+      "has_link": true
+    },
+    {
+      "key": "785c09b6c26f655d",
+      "author": "BM1985",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bm1985",
+      "posted_relative": "for 1 min siden",
+      "text": "https://www.finansavisen.no/teknologi/2026/11/24/8397847/pareto-analytiker-anbefaler-fire-teknologiaksjer Noen med tilgang? Ser auto i taggen til artikkelen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/11/24/8397847/pareto-analytiker-anbefaler-fire-teknologiaksjer"
+      ],
+      "char_count": 157,
+      "has_link": true
     }
   ]
 }

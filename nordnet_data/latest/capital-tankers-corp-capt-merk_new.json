@@ -1,9 +1,41 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-24T01:22:29.038945+00:00",
+  "scraped_at": "2026-11-24T11:47:29.901347+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "854d5b7d27268a64",
+      "author": "Vice1000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vice1000",
+      "posted_relative": null,
+      "text": "20. nov. Syke greier, denne aksjen har et kursmål på 290 kr, men går kun nedover selv om rater og verdier på båter er bra..",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        3
+      ],
+      "links": [],
+      "char_count": 123,
+      "has_link": false
+    },
+    {
+      "key": "2337e0fdea364918",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": null,
+      "text": "20. nov. Har bygd en liten/medium pos her i dag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 48,
+      "has_link": false
+    }
+  ]
 }

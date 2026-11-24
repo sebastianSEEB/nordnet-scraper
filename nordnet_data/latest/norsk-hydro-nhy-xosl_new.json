@@ -1,9 +1,51 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-24T01:26:30.790104+00:00",
+  "scraped_at": "2026-11-24T11:51:38.381122+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8e0a7aeee81cf5d8",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 1 t siden",
+      "text": "10% minimum . Vil det si at NHY holder tilbake med å love for mye levering på ett tidlig stadie for sin \"edle\" aluminium   ;-)) Norsk Hydro ska täcka minst 10 procent av Mercedes-Benz aluminiumbehov Close 10 nov. 10:07 ∙ Finwire",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 228,
+      "has_link": false
+    },
+    {
+      "key": "861768ace9bc374a",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": "for 4 t siden",
+      "text": "Kjenner jo lusa på gangen. Anbefalinger kommer når meglerhusa er inne🤨😆",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    },
+    {
+      "key": "92b4b53565b3d74a",
+      "author": "tickneat",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tickneat",
+      "posted_relative": "for 3 t siden",
+      "text": "· volum og kursbevegelser viser at noen gikk inn i dag med dype lommer",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 70,
+      "has_link": false
+    }
+  ]
 }

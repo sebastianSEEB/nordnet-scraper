@@ -1,9 +1,38 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-11-24T01:24:10.565172+00:00",
+  "scraped_at": "2026-11-24T11:49:13.851724+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2cef75aa4b6caa24",
+      "author": "bareple",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bareple",
+      "posted_relative": "for 3 t siden",
+      "text": "Har veldig lyst til å kjøpe meg inn her, hva mener du er en god pris å kjøpe seg inn på? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "61a6d06a5577bcff",
+      "author": "OMinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ominvest",
+      "posted_relative": "for 38 min siden",
+      "text": "Jeg mener at nåværende pris er en god pris.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 43,
+      "has_link": false
+    }
+  ]
 }

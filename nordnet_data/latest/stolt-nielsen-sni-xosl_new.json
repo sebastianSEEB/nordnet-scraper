@@ -1,24 +1,39 @@
 {
   "slug": "stolt-nielsen-sni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/stolt-nielsen-sni-xosl",
-  "scraped_at": "2026-11-24T01:21:23.098063+00:00",
+  "scraped_at": "2026-11-24T11:46:22.563191+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "91558117cd8407a7",
-      "author": "Rambo2",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rambo2",
+      "key": "1c1c03161e1e5336",
+      "author": "UKretired",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ukretired",
       "posted_relative": null,
-      "text": "19. nov. · 1$",
-      "reply_count": null,
+      "text": "20. nov. Hei Harryjh. Denne har vært på tilbud lenge. Jeg tar også en liten bit her nå, så får vi se hva januar bringer.",
+      "reply_count": 2,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 13,
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "0743708622bd6d2e",
+      "author": "Harryjh",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harryjh",
+      "posted_relative": null,
+      "text": "20. nov. På tilbud i dag kjøpe en liten klatt i dag da",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 54,
       "has_link": false
     }
   ]

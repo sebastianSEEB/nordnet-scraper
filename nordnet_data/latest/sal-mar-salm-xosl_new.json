@@ -1,39 +1,55 @@
 {
   "slug": "sal-mar-salm-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sal-mar-salm-xosl",
-  "scraped_at": "2026-11-24T01:25:01.136837+00:00",
+  "scraped_at": "2026-11-24T11:50:05.064783+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "738e460ccb4ba89c",
-      "author": "Kalle1234",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
-      "posted_relative": "for 3 t siden",
-      "text": "Kiloprisene har jo akkurat startet veien oppover så ser ingen grunn for å selge nå.  Forhåpentligvis går kiloprisen mye opp fremover.  Fôrpriser faller fremover også, pluss flere og flere kjøper jo laks som er et relativt billig og sunt protein.  Jeg har troen på mye høyere kurs utover vinteren.  Dette er selvfølgelig min mening😊",
+      "key": "099fa30a0e1f394d",
+      "author": "The test",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-test",
+      "posted_relative": null,
+      "text": "20. nov. · Endret Nå faller fôrsalget. Markedet strammes til https://ilaks.no/na-faller-forsalget-markedet-strammes-til/",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        2,
         1
       ],
+      "links": [
+        "https://ilaks.no/na-faller-forsalget-markedet-strammes-til/"
+      ],
+      "char_count": 120,
+      "has_link": true
+    },
+    {
+      "key": "d107e7288405849d",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": null,
+      "text": "20. nov. Salmar holder seg godt på en ellers rød børs i dag.  Er det fra nå vi ser en fin økning i kiloprisene frem mot jul.  Da blir det laks til forrett på juleaften her😊",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 331,
+      "char_count": 172,
       "has_link": false
     },
     {
-      "key": "f242b72a59e62f51",
-      "author": "AKF",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/akf",
-      "posted_relative": "for 6 t siden",
-      "text": "Selger folk under denne oppgangen eller sitter dere fremdeles stille i båten?",
+      "key": "016e12ec838cc954",
+      "author": "Kalle1234",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kalle1234",
+      "posted_relative": null,
+      "text": "20. nov. Det lover bra!",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 77,
+      "char_count": 23,
       "has_link": false
     }
   ]

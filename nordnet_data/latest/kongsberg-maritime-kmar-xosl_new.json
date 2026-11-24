@@ -1,9 +1,41 @@
 {
   "slug": "kongsberg-maritime-kmar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-maritime-kmar-xosl",
-  "scraped_at": "2026-11-24T01:25:05.154513+00:00",
+  "scraped_at": "2026-11-24T11:50:09.099589+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "3733f54af1e854c9",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 4 t siden",
+      "text": "Bryne trekker frem Kongsberg Maritime: – Vi liker selskap som er feilpriset på grunn av midlertidig svakhet, men ikke varig svekket. Etter vårt syn faller Kongsberg Maritime i denne kategorien, og vi tror et sterkt kvartal innen service og vedlikehold i 2027 vil være en god trigger for en reprising av selskapet. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        2
+      ],
+      "links": [],
+      "char_count": 333,
+      "has_link": false
+    },
+    {
+      "key": "1540a8acf35e6a43",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 41 min siden",
+      "text": "Ja så nedgangen er tull og tøys. Litt tolmodighet vil lønne seg.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 64,
+      "has_link": false
+    }
+  ]
 }

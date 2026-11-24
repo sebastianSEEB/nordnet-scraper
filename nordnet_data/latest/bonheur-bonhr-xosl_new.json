@@ -1,9 +1,27 @@
 {
   "slug": "bonheur-bonhr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/bonheur-bonhr-xosl",
-  "scraped_at": "2026-11-24T01:27:01.847072+00:00",
+  "scraped_at": "2026-11-24T11:52:11.073384+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cc9584aa1263c24d",
+      "author": "Josten 1952",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/josten-1952",
+      "posted_relative": null,
+      "text": "20. nov. · https://muirmhor.co.uk/muir-mhor-floating-offshore-wind-farm-gets-green-light-from-ministers/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://muirmhor.co.uk/muir-mhor-floating-offshore-wind-farm-gets-green-light-from-ministers/"
+      ],
+      "char_count": 104,
+      "has_link": true
+    }
+  ]
 }

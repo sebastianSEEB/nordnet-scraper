@@ -1,9 +1,56 @@
 {
   "slug": "salmon-evolution-salme-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/salmon-evolution-salme-xosl",
-  "scraped_at": "2026-11-24T01:28:40.616412+00:00",
+  "scraped_at": "2026-11-24T11:53:53.030195+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8d6bb0c47dbb7ad9",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 5 t siden",
+      "text": "Det såkalte analytikerne har satt ganske gode kursmål, noen forespeiler 4-5-6 kroner. Stoler selvsagt aldri på de, men hvis vi trekker fra halvparten av han som sier 6 kr, da er vi på 3 kr. Greit det også pr idag. 🤷‍♂️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 218,
+      "has_link": false
+    },
+    {
+      "key": "4311f952672ad431",
+      "author": "krackkrus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/krackkrus",
+      "posted_relative": "for 20 t siden · Endret",
+      "text": "Kja spyttet vel inn ca 800k for noen år siden. ned ca 65% nirvana here i cum. bang! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "fbde6a1e5aea1149",
+      "author": "Kjernekar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
+      "posted_relative": "for 57 min siden",
+      "text": "Må snart bytte navn til Salmon REVOLUTION",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    }
+  ]
 }

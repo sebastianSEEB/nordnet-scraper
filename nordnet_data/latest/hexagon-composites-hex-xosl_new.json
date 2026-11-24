@@ -1,9 +1,39 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-24T01:25:17.126561+00:00",
+  "scraped_at": "2026-11-24T11:50:21.790444+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "079425012dfabdee",
+      "author": "Himalaya734",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/himalaya734",
+      "posted_relative": null,
+      "text": "20. nov. Stor kjøpsmulighet. Selges ned på støy mens det fundamentale bli bedre og bedre dag for dag!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        1
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "04b5c311d2b14538",
+      "author": "Telletrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/telletrade",
+      "posted_relative": "for 2 t siden",
+      "text": "Tror prisen har limt seg fast litt:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

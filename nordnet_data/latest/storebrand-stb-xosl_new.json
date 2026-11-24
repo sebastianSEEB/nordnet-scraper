@@ -1,9 +1,25 @@
 {
   "slug": "storebrand-stb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/storebrand-stb-xosl",
-  "scraped_at": "2026-11-24T01:26:50.540976+00:00",
+  "scraped_at": "2026-11-24T11:51:59.368241+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "960ea14aee48abb6",
+      "author": "Rugsprø",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rugspr",
+      "posted_relative": null,
+      "text": "20. nov. Hvorfor faller kursen? Er det pga nyheten som kom på tirsdag? Jeg tolket den som positiv for selskapet, eller har jeg misforstått? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 159,
+      "has_link": false
+    }
+  ]
 }

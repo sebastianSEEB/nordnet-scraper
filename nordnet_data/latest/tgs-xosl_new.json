@@ -1,9 +1,25 @@
 {
   "slug": "tgs-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/tgs-xosl",
-  "scraped_at": "2026-11-24T01:25:08.849087+00:00",
+  "scraped_at": "2026-11-24T11:50:13.321517+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "dbf43394d21e022f",
+      "author": "anderssol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/anderssol",
+      "posted_relative": "for 5 t siden",
+      "text": "Positive nyheter for TGS – Petrobras øker leteinvesteringene kraftig Petrobras har lagt frem sin investeringsplan for 2027–2031, hvor budsjettet til oljeleting økes fra 7,1 til 10 milliarder USD, tilsvarende en økning på hele 41 %. Dette er svært positivt for TGS, som allerede har investert betydelig i seismikkdata utenfor Brasil, særlig i Equatorial Margin og Pelotas-bassenget. Økt leteaktivitet kan gi TGS høyere salg av eksisterende seismikkdata, flere kontrakter og bedre kapasitetsutnyttelse. Sammen med signalene fra Chevron, SLB og andre store aktører styrker dette forventningene om et bedre seismikkmarked i 2027–2028.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8
+      ],
+      "links": [],
+      "char_count": 630,
+      "has_link": false
+    }
+  ]
 }

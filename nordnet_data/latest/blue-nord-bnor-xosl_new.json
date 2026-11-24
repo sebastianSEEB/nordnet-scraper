@@ -1,9 +1,38 @@
 {
   "slug": "blue-nord-bnor-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/blue-nord-bnor-xosl",
-  "scraped_at": "2026-11-24T01:22:32.764658+00:00",
+  "scraped_at": "2026-11-24T11:47:34.035919+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6e262cf23ab457f9",
+      "author": "Revisorsrambo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/revisorsrambo",
+      "posted_relative": "for 2 t siden",
+      "text": "· Markedet er for tiden negativt til oljeprisprognosen, og derfor blir transaksjonen ansett som verdidestruerende. Mitt syn er at oljen vil snu opp igjen og nå nye toppnivåer. Det har vært for mye fokus på Midtøsten og ikke de fundamentale uansakene/ubalansene som holder på å vokse frem i markedet under overflaten. Dette oppkjøpet vil være gull verdt for VÅR Energi sine aksjonærer.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 384,
+      "has_link": false
+    },
+    {
+      "key": "7286c98d2d1db018",
+      "author": "YPTS",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ypts",
+      "posted_relative": null,
+      "text": "20. nov. Sikkert for å korrigere til sammenslåingen",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 51,
+      "has_link": false
+    }
+  ]
 }

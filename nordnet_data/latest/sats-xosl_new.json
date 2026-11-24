@@ -1,9 +1,36 @@
 {
   "slug": "sats-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sats-xosl",
-  "scraped_at": "2026-11-24T01:25:24.670775+00:00",
+  "scraped_at": "2026-11-24T11:50:29.956050+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f75b3c4bba1d37a5",
+      "author": "sickmunt",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sickmunt",
+      "posted_relative": null,
+      "text": "20. nov. Nå går nyttårsraketten allerede, eget tilbakebetalingsprogram kjører for fullt og et super sterkt case.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 112,
+      "has_link": false
+    },
+    {
+      "key": "7a11746e9b6c1103",
+      "author": "kariusogbaktus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kariusogbaktus",
+      "posted_relative": null,
+      "text": "20. nov. AAT INVEST AS er på vei ut...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 38,
+      "has_link": false
+    }
+  ]
 }

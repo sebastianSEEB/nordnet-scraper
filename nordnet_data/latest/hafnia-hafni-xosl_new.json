@@ -1,9 +1,38 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-24T01:21:19.152965+00:00",
+  "scraped_at": "2026-11-24T11:46:18.522860+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "89d7085a11e424ce",
+      "author": "Bjorge Flopp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bjorge-flopp",
+      "posted_relative": "for 5 min siden",
+      "text": "Bra podcast, men skulle gjerne sett at dere satt av litt mer tid til å diskutere utbyttecaset til Hafnia. Nå drukner stikket i din co-hosts iver etter å snakke videre om Jacktelsalget.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 184,
+      "has_link": false
+    },
+    {
+      "key": "895a0744eea8f63a",
+      "author": "knez",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knez",
+      "posted_relative": "for 3 t siden · Endret",
+      "text": "· Det kan godt hende, men mon tro om vi først skal få en avklaring vedr. utdeling av Torm aksjer. Vi må vente til det skjer.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

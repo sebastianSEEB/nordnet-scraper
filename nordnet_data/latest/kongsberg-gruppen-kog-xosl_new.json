@@ -1,37 +1,117 @@
 {
   "slug": "kongsberg-gruppen-kog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-gruppen-kog-xosl",
-  "scraped_at": "2026-11-24T01:26:19.097862+00:00",
+  "scraped_at": "2026-11-24T11:51:25.432254+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 7,
+  "new_posts_count": 7,
   "posts": [
     {
-      "key": "acc6275dbd669f04",
-      "author": "tanaids",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tanaids",
-      "posted_relative": "for 6 t siden",
-      "text": "· Denne kursstigningen i dag er alt for liten slik verden ser ut akkurat nå. Med de siste angrepene i Østersjøen, er det skremmende stor sjans for en storkrig. Ukraina kunne ikke ha foretatt slike angrep uten støtte fra NATO-land, og hvordan russerne vil reagere på det, kan vi bare gisse om. Det er et høyt spill som spilles akkurat nå.",
+      "key": "f09d3f8be2d223b7",
+      "author": "nbvnvbnvn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nbvnvbnvn",
+      "posted_relative": "for 54 min siden",
+      "text": "FA om KOG drone system som fungerer med NASAMS. Ny avtale i dag: https://www.finansavisen.no/teknologi/2026/11/24/8398161/nytt-kongsberg-vapen-i-bruk-i-ukraina",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6
+      ],
+      "links": [
+        "https://www.finansavisen.no/teknologi/2026/11/24/8398161/nytt-kongsberg-vapen-i-bruk-i-ukraina"
+      ],
+      "char_count": 159,
+      "has_link": true
+    },
+    {
+      "key": "4a7b76c1d43b84ed",
+      "author": "Witchdoctor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/witchdoctor",
+      "posted_relative": "for 2 t siden",
+      "text": "https://www.vg.no/nyheter/i/lMAxeL/norge-og-ukraina-har-utviklet-et-nytt-luftvernsystem",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        15
+      ],
+      "links": [
+        "https://www.vg.no/nyheter/i/lMAxeL/norge-og-ukraina-har-utviklet-et-nytt-luftvernsystem"
+      ],
+      "char_count": 87,
+      "has_link": true
+    },
+    {
+      "key": "80e05d7aad0eb8dd",
+      "author": "Telletrade",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/telletrade",
+      "posted_relative": "for 11 min siden · Endret",
+      "text": "skjønner ikke at du egentlig kan klage på over 2% oppgang men, dette er fortsatt oslo Børs! Svært få som går over 4-5% i et jafs.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         1
       ],
       "links": [],
-      "char_count": 337,
+      "char_count": 129,
       "has_link": false
     },
     {
-      "key": "0a56e0903be665f1",
-      "author": "AXRI",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/axri",
-      "posted_relative": "for 6 t siden",
-      "text": "Troa på en fin uke i vente🤩",
+      "key": "689ab5136d38e8a2",
+      "author": "Marsdal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marsdal",
+      "posted_relative": "for 15 min siden",
+      "text": "Stakkarslige 2% opp i dag. Denne bør bryte trenden snart, hvis ikke så er det duket for videre nedgang.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 103,
+      "has_link": false
+    },
+    {
+      "key": "7476f01b1c071934",
+      "author": "Gullfisk_1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gullfisk_1",
+      "posted_relative": "for 21 min siden",
+      "text": "Inngang igår og ut i dag med grei gevinst. Nå skal dagens Kitron dipp benyttes Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    },
+    {
+      "key": "84a1d52cac79a0cc",
+      "author": "WillHN",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/willhn",
+      "posted_relative": "for 39 min siden",
+      "text": "· klink 400 før årsskiftet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    },
+    {
+      "key": "d5db78360fd6ff84",
+      "author": "Marsdal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marsdal",
+      "posted_relative": "for 15 min siden",
+      "text": "Du er helt rå",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 27,
+      "char_count": 13,
       "has_link": false
     }
   ]
