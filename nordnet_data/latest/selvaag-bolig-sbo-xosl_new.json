@@ -1,9 +1,23 @@
 {
   "slug": "selvaag-bolig-sbo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/selvaag-bolig-sbo-xosl",
-  "scraped_at": "2026-11-25T04:47:10.927702+00:00",
+  "scraped_at": "2026-11-25T15:14:25.572843+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ffc5ecdb1a1174a6",
+      "author": "turnaraound123",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/turnaraound123",
+      "posted_relative": "for 8 t siden",
+      "text": "Renten blir 170k, så 250k inkl avdrag. Å leie en leilighet til 4mnok i Bergen nå er 240k. Hva hadde du valgt, kjøpt eller leid?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    }
+  ]
 }

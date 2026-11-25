@@ -1,9 +1,36 @@
 {
   "slug": "capital-tankers-corp-capt-merk",
   "url": "https://www.nordnet.no/aksjer/kurser/capital-tankers-corp-capt-merk",
-  "scraped_at": "2026-11-25T04:41:42.844759+00:00",
+  "scraped_at": "2026-11-25T15:08:33.834020+00:00",
   "first_run": false,
-  "total_posts_on_page": 0,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "022d7233247e5722",
+      "author": "LarryH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larryh",
+      "posted_relative": "for 54 min siden",
+      "text": "Noen som har tanker om det vil slå ut på noe vis at den nå går over til Oslo Børs, fra Growth? Og noen som har NAV estimater for denne nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 138,
+      "has_link": false
+    },
+    {
+      "key": "9bf7773925473c49",
+      "author": "Chinchilling",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/chinchilling",
+      "posted_relative": "for 6 t siden",
+      "text": "Hei Metallian, Hva mener du med «fra TI»? Bruker du noen AI med AIS-sporing koblet til MarineTraffic, Vesseltracker, osv.?",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 122,
+      "has_link": false
+    }
+  ]
 }

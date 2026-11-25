@@ -1,9 +1,41 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-25T04:43:17.639258+00:00",
+  "scraped_at": "2026-11-25T15:10:17.683758+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "56bac06b5f786df6",
+      "author": "TraderKing",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/traderking",
+      "posted_relative": "for 6 t siden",
+      "text": "· Og utbyttet i dag tilsvarer 0,3372 NOK til gjeldende 9,86 USD/NOK.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 68,
+      "has_link": false
+    },
+    {
+      "key": "aae23ad493c0134a",
+      "author": "uklar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/uklar",
+      "posted_relative": "for 6 t siden",
+      "text": "Herlig stigning de siste par dagene 📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12,
+        1
+      ],
+      "links": [],
+      "char_count": 37,
+      "has_link": false
+    }
+  ]
 }

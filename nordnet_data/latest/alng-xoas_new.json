@@ -1,9 +1,40 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-25T04:40:46.692135+00:00",
+  "scraped_at": "2026-11-25T15:07:33.681018+00:00",
   "first_run": false,
-  "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6f4b02568bfb2bff",
+      "author": "Sluket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sluket",
+      "posted_relative": "for 5 t siden",
+      "text": "JKM–TTF spread reduseres betraktelig i favør TTF. JKM har stupt 5% siste døgn. Mulig vi ser en nedadgående spot pris de neste ukene.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "7265964068da86d4",
+      "author": "Miguel.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miguel-1",
+      "posted_relative": "for 6 t siden",
+      "text": "Byr man bruke utbytte fra vår energi på å kjøpe seg opp her, eller på vår sine aksjer? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 106,
+      "has_link": false
+    }
+  ]
 }

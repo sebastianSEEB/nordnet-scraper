@@ -1,9 +1,40 @@
 {
   "slug": "abg-sundal-collier-holding-abg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/abg-sundal-collier-holding-abg-xosl",
-  "scraped_at": "2026-11-25T04:47:03.038189+00:00",
+  "scraped_at": "2026-11-25T15:14:17.606779+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2f870caf0583e1e1",
+      "author": "ScooBy Doo 1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/scooby-doo-1",
+      "posted_relative": "for 2 t siden",
+      "text": "Har sittet lenge og ventet på 7 blank, og når jeg endelig får dem raser det videre ned. Noen som kan forklare meg dette?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 120,
+      "has_link": false
+    },
+    {
+      "key": "a24cabb04ae2b145",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 2 t siden",
+      "text": "· Sikkert for jeg venter på 6,40 kr.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 36,
+      "has_link": false
+    }
+  ]
 }

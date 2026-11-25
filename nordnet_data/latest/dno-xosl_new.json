@@ -1,9 +1,100 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-25T04:44:03.323986+00:00",
+  "scraped_at": "2026-11-25T15:11:05.451548+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 6,
+  "posts": [
+    {
+      "key": "ba2281e0a8700a38",
+      "author": "S.B",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sb-3",
+      "posted_relative": "for 1 t siden",
+      "text": "· Irak gjenopptar oljeeksporten gjennom den rehabiliterte tyrkiske rørledningen --- https://www.rudaw.net/english/categories/economic/1080192",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.rudaw.net/english/categories/economic/1080192"
+      ],
+      "char_count": 141,
+      "has_link": true
+    },
+    {
+      "key": "6bac6cb0bae4fd7c",
+      "author": "Huskis56",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/huskis56",
+      "posted_relative": "for 4 t siden",
+      "text": "Ikke lett å eie oljeaksjer om dagen. Oså DNO aksjer. Npr oljeprisen sto i 92 dollar  gikk oljeaksjer ned 5 %. Når oljeprisen gikk ned til 89-90 Dollar gukk verdien på oljeaksjer ned 5 % til. Og når olkeprisen gikk opp til 91-92 igjen, gikk verdien på oljeaksjer NED ytterligere 5%.  Markrdet ventr Nokk oljeforsyninger selv med nuværende småforstyrrelser /småkrig i Midtøstrn.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 376,
+      "has_link": false
+    },
+    {
+      "key": "a5b99ed756c43006",
+      "author": "EroseN1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/erosen1",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Irak får større eksportkapasitet i nord og blir mindre avhengig av transporten gjennom Hormuz.  Det styrker betydningen av infrastrukturen mot Tyrkia og gir Bagdad og Erbil enda større grunn til å få på plass en langsiktig avtale.  Ikke direkte merinntekter for DNO ennå, men dette er et viktig steg i riktig retning.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 317,
+      "has_link": false
+    },
+    {
+      "key": "836bb2eb34139741",
+      "author": "Moment",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/moment",
+      "posted_relative": "for 5 t siden",
+      "text": "Jeg var \"helt sikker \" på at det skulle bli en oppgang i kursen på DNO i dag-6 tankbåter som har gått på miner i Hormus-stredet de siste dager, og stor reduksjon i olje-eksporten -se også økning i Brent oljepris , bra økning i $ kurs i dag 0,66% !!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 249,
+      "has_link": false
+    },
+    {
+      "key": "5a4201e4c5abf5c8",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 5 t siden",
+      "text": "Vår borra tørt Rettighetshaverne i utvinningstillatelse 636 er Vår Energi (30%), INPEX Idemitsu (30%), ORLEN (30%) og DNO (10%).år",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 130,
+      "has_link": false
+    },
+    {
+      "key": "e1c447288cf2be9e",
+      "author": "mydr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mydr",
+      "posted_relative": "for 1 t siden",
+      "text": "Merkelig at oljeprisen og transportprisene ikke reagerer på alle båtene som går på miner?  Har Irak mistet kontrollen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 118,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-25T04:45:34.015166+00:00",
+  "scraped_at": "2026-11-25T15:12:42.650745+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "d92d7af8e3062a80",
+      "author": "MagnusFB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magnusfb",
+      "posted_relative": null,
+      "text": "20. nov. En av de få av de jeg har som har gått opp i dag. Trygg havn😅😢 Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        2
+      ],
+      "links": [],
+      "char_count": 91,
+      "has_link": false
+    },
+    {
+      "key": "d79138d1baa9ed53",
+      "author": "Gatornor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gatornor",
+      "posted_relative": "for 4 t siden",
+      "text": "man er ofte bruker av mobilnettet til Telenor selv om man ikke er direkte kunde der.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "65511567bfea0e0a",
+      "author": "toddcrocket",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/toddcrocket",
+      "posted_relative": "for 2 t siden",
+      "text": "Spent på hvordan den fungerer i nord med snø og is på antenna i vinter.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 71,
+      "has_link": false
+    }
+  ]
 }

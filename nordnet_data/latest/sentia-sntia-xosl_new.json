@@ -1,9 +1,23 @@
 {
   "slug": "sentia-sntia-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sentia-sntia-xosl",
-  "scraped_at": "2026-11-25T04:46:15.525556+00:00",
+  "scraped_at": "2026-11-25T15:13:26.402743+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "d0bcfc8c136b1d19",
+      "author": "Sjøbakken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjbakken",
+      "posted_relative": null,
+      "text": "21. nov. Etter børsnoteringen har aksjen hatt en oppgang på 60% det siste året. Nå handles aksjen nær gjennomsnittlig kursmål fra analytikerne. Den tekniske indikatoren RSI viser at aksjen er overkjøpt. Det er stor fare for at mange tar gevinst etter den kraftige oppgangen. Hvorfor kjøpe når det er fare for at kursen er nær toppen?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 333,
+      "has_link": false
+    }
+  ]
 }
