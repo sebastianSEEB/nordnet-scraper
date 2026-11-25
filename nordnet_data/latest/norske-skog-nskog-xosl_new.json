@@ -1,9 +1,23 @@
 {
   "slug": "norske-skog-nskog-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norske-skog-nskog-xosl",
-  "scraped_at": "2026-11-24T21:45:20.232449+00:00",
+  "scraped_at": "2026-11-25T04:44:37.718776+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "fd11bf299a9b9d90",
+      "author": "Eric1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eric1970",
+      "posted_relative": "for 1 t siden",
+      "text": "Rart ikke flere investorer og analytikere har fått med seg at Norske Skog nå tjener grisemye penger på salg av overskuddskraft.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 127,
+      "has_link": false
+    }
+  ]
 }
