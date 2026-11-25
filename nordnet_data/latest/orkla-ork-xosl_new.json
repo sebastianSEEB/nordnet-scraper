@@ -1,9 +1,25 @@
 {
   "slug": "orkla-ork-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/orkla-ork-xosl",
-  "scraped_at": "2026-11-25T15:13:03.187083+00:00",
+  "scraped_at": "2026-11-25T17:42:23.039771+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "82b918933effd60f",
+      "author": "Mr Lohmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-lohmann",
+      "posted_relative": "for 49 min siden",
+      "text": "90% av analytikere sa hold når eg kjøpte meg inn. Er nå + 14%. Analytikerene kan mene mye rart😂 Lett å være etterpåklok👍🏻",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    }
+  ]
 }

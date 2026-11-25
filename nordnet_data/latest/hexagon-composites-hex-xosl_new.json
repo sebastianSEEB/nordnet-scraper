@@ -1,66 +1,72 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-25T15:11:30.575442+00:00",
+  "scraped_at": "2026-11-25T17:40:54.519891+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
+  "total_posts_on_page": 8,
   "new_posts_count": 4,
   "posts": [
     {
-      "key": "6b84099e6554074a",
-      "author": "Mr.Kane",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrkane",
-      "posted_relative": "for 28 min siden",
-      "text": "Skal tydeligvis presses ned under 11 igjen. Er vel bare å hoppe av toget før man er langt ned på 10 tallet igjen. Utrolig skuffende at hver lille oppgang er etterfulgt av massivt press nedover. Det finnes ikke kjøpere og markedet har mistet trua. Hvertfall enn så lenge..... Vis 1 kommentar til",
+      "key": "f327523be46ef43a",
+      "author": "Ocular",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ocular",
+      "posted_relative": "for 2 t siden",
+      "text": "Jeg har knusende ro på denne langsiktig. Godt å se at informasjon om selskapet viser seg nå gjennom intervjuet med selskapets CEO! https://youtu.be/xBxPbOJ5CyA?is=9xsl9O5bXA9T8iRp",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        1,
-        3
+        6
+      ],
+      "links": [
+        "https://youtu.be/xBxPbOJ5CyA?is=9xsl9O5bXA9T8iRp"
+      ],
+      "char_count": 179,
+      "has_link": true
+    },
+    {
+      "key": "683d856119913130",
+      "author": "Simondyr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/simondyr",
+      "posted_relative": "for 1 t siden",
+      "text": "· Jeg har vært inn og ut mange ganger underveis... Har pent overskudd selv om Jeg startet i 15 for en tid tilbake.. Men ja det er frustrerende, og jeg gir deg rett i at man burde gå ut nå (burde man ha gjort på 12 her om dagen): men 11 er nok fremdeles bedre enn 10,5 -10,0 som vi lett kan se om litt",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
       ],
       "links": [],
-      "char_count": 294,
+      "char_count": 300,
       "has_link": false
     },
     {
-      "key": "9cde0fcefd9108d2",
+      "key": "dad8c72e31d836ba",
+      "author": "Mr.Kane",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrkane",
+      "posted_relative": "for 2 t siden",
+      "text": "Skal tydeligvis presses ned under 11 igjen. Er vel bare å hoppe av toget før man er langt ned på 10 tallet igjen. Utrolig skuffende at hver lille oppgang er etterfulgt av massivt press nedover. Det finnes ikke kjøpere og markedet har mistet trua. Hvertfall enn så lenge.....",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3,
+        4
+      ],
+      "links": [],
+      "char_count": 274,
+      "has_link": false
+    },
+    {
+      "key": "4c0b06189cdc2470",
       "author": "LarsEInvest",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/larseinvest",
-      "posted_relative": null,
-      "text": "21. nov. · Perfekt! Virkelig bra at du på den måten har gjort oppmerksom på det helt reelle problemet rundt kommunikasjonen - jeg blir heller ikke mer trygg av svaret, men jeg vil heller kjenne begrunnelsen enn å gå og gjette på den! Takk 🙏🏻",
+      "posted_relative": "for 1 t siden",
+      "text": "· Situasjonen akkurat nå: e-len-dig! Fint at jeg har tid til å vente på resultatene i 27!",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
         2
       ],
       "links": [],
-      "char_count": 241,
-      "has_link": false
-    },
-    {
-      "key": "3299dbc941db8df9",
-      "author": "Harlin",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/harlin",
-      "posted_relative": "for 14 min siden",
-      "text": "Tror Hex er et selskap som vil klare seg greit, og passer i en langsiktig portefølje man ikke sjekker hver dag. Kortisiktig så blir aksjen rett og slett herjet med",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 163,
-      "has_link": false
-    },
-    {
-      "key": "2efda7897ea28529",
-      "author": "Vollen Invest as",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vollen-invest-as",
-      "posted_relative": "for 3 t siden",
-      "text": "Så lenge sekten MDG er støttehjul til regjeringen så vil aldri dette fungere",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 76,
+      "char_count": 89,
       "has_link": false
     }
   ]

@@ -1,38 +1,9 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-25T15:14:05.385848+00:00",
+  "scraped_at": "2026-11-25T17:43:23.409595+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 2,
-  "posts": [
-    {
-      "key": "88999aec0bbebc94",
-      "author": "Gutti",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gutti",
-      "posted_relative": "for 3 t siden",
-      "text": "Ser datamaskinene koser seg.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 28,
-      "has_link": false
-    },
-    {
-      "key": "affcac91d378034f",
-      "author": "Pim1",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pim1",
-      "posted_relative": "for 3 t siden",
-      "text": "· ㅤ",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 3,
-      "has_link": false
-    }
-  ]
+  "new_posts_count": 0,
+  "posts": []
 }
