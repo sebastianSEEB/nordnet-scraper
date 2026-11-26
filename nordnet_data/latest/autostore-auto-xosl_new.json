@@ -1,9 +1,83 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-26T05:55:55.826706+00:00",
+  "scraped_at": "2026-11-26T16:02:28.624146+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "d70eadc0456b9f95",
+      "author": "BM1985",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bm1985",
+      "posted_relative": "for 8 t siden",
+      "text": "Veldig fint å lese analytikernes resonnement og vurderinger. Kursmålene er ikke så relevant for min del, mest interessant for min vurdering av caset. 🙏🏿🤝",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "0e3fa453c7d026fb",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 7 t siden",
+      "text": "Oslo (Infront TDN Direkt): Barclays oppjusterer kursmålet sitt på Autostore til 21,5 kroner fra 20,5 kroner, ifølge Reuters torsdag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        24,
+        5
+      ],
+      "links": [],
+      "char_count": 132,
+      "has_link": false
+    },
+    {
+      "key": "1ce06b0b38970f64",
+      "author": "OnklSkrue",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/onklskrue",
+      "posted_relative": "for 36 min siden",
+      "text": "Mister en halv eller hel prosent i hver eneste sluttauksjon☺️",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 61,
+      "has_link": false
+    },
+    {
+      "key": "b3cbf6407e0053bd",
+      "author": "Bypaxx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bypaxx",
+      "posted_relative": "for 6 t siden",
+      "text": "Det er mye som kommer til å skje innen den tid.",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
+      "has_link": false
+    },
+    {
+      "key": "5b3bdbe313beec40",
+      "author": "wololo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/wololo",
+      "posted_relative": "for 5 t siden",
+      "text": "kan vi ikke få en +10% dag ut av intet da? 🥺🥺",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        13
+      ],
+      "links": [],
+      "char_count": 45,
+      "has_link": false
+    }
+  ]
 }

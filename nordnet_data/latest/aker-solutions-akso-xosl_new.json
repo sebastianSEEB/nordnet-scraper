@@ -1,9 +1,39 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-11-26T05:54:38.987887+00:00",
+  "scraped_at": "2026-11-26T16:01:10.086209+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ca1b90e1f130cfe9",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 7 t siden · Endret",
+      "text": "Lokal TV i går AKSO Egersund full aktivitet  :-)) Ellers er over 2000 verftarbeidere berørt av nedjusteringer i sektoren i Norge",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 128,
+      "has_link": false
+    },
+    {
+      "key": "b223460e87d8d1b2",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 2 t siden",
+      "text": "NK P1 Rogaland  ( bør sees)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,54 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-26T05:52:17.324774+00:00",
+  "scraped_at": "2026-11-26T15:58:46.367294+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "8e2756afc630477d",
+      "author": "Rabbaghast",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rabbaghast",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Første kvartal av 2027, vilken dato blir det? Tenker å få en go posisjon før da. (Med tanke på utbytte og extra aksjer) Takk. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 145,
+      "has_link": false
+    },
+    {
+      "key": "a0f0d7176ead2599",
+      "author": "O skorpio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/o-skorpio",
+      "posted_relative": "for 6 t siden",
+      "text": "Dette blir spennende, en annen ting man må huske på er at Torm kursen vises i DKK, ergo gange med ca 1,5.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 105,
+      "has_link": false
+    },
+    {
+      "key": "429d1b2bc7c37c34",
+      "author": "The Mechanic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/the-mechanic",
+      "posted_relative": "for 4 t siden",
+      "text": "· Du vet vel at det vedtatte utbyttet er reflektert i aksjekursen? Det er ikke gratis",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 85,
+      "has_link": false
+    }
+  ]
 }

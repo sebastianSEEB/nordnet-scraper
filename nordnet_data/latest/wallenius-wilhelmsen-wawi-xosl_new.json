@@ -1,9 +1,40 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-11-26T05:52:57.724266+00:00",
+  "scraped_at": "2026-11-26T15:59:26.837486+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "1f798b6da35a6f6f",
+      "author": "nordicinvestor3000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nordicinvestor3000",
+      "posted_relative": "for 3 t siden",
+      "text": "· Jeg prøvde å kjøpe 70 aksjer med en normal / standard ordre som jeg gjør med denne aksjen og andre aksjer. Men bare 34 aksjer gikk igjennom som fullført, og resten er fremdeles i appen min under aktive. Så sjekket jeg ordrertypen, det står limit, så jeg avbestiller den som er aktiv, lagde en ny, den endret seg fremdeles til limit. Er det en grense for hva man kan kjøpe? Jeg forstår det ikke. Jeg kjøpte mer enn 200 aksjer før i én ordre. Er det noen som vet hva dette handler om?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 484,
+      "has_link": false
+    },
+    {
+      "key": "9009b2e86631bf73",
+      "author": "Myrstacken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/myrstacken",
+      "posted_relative": "for 2 t siden",
+      "text": "· Ja du har lagt inn en ordre for å kjøpe til en bestemt pris. Det som f.eks. kan ha skjedd er at du har lagt en kjøpsordre på 165kr, men den traff bare et par minutter og så gikk den opp til 165,5. Da kjøper du det som var tilgjengelig for deg på 165, men den kjøper ikke mer til 50 øre dyrere da ordren din sier \"kjøp til 165, ingenting annet\".",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 346,
+      "has_link": false
+    }
+  ]
 }

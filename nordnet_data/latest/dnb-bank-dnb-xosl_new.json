@@ -1,9 +1,41 @@
 {
   "slug": "dnb-bank-dnb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dnb-bank-dnb-xosl",
-  "scraped_at": "2026-11-26T05:57:14.087394+00:00",
+  "scraped_at": "2026-11-26T16:03:46.674674+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e080ff0c63b9779b",
+      "author": "trbj49",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trbj49",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Meglerhusene kappes daglig om å heve kursmålet.  Slikt skjer når de har store poster de vil bli kvitt!  Selv solgte jeg det meste mandag16. nov. til kurs 330,80, men er fortsatt inne med en liten post.   Avventer kurser i området 270-290 til våren.  Men jeg kan gjøre feil, - den som lever får se! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        6
+      ],
+      "links": [],
+      "char_count": 317,
+      "has_link": false
+    },
+    {
+      "key": "aa279e2a3bf81803",
+      "author": "Tordendahl",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tordendahl",
+      "posted_relative": "for 6 t siden",
+      "text": "Tror du på dine egne utsagn trbj49? : )  Du selger visst hele tiden, men har alltid litt og litt igjen. Merkelig. \"trbj49 27. jul. Glad for å kunne selge meg ned ytterligere i morges på kurs 300. Innehav nå redusert til det halve over de siste 12 måneder. \" Flaut...",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 266,
+      "has_link": false
+    }
+  ]
 }

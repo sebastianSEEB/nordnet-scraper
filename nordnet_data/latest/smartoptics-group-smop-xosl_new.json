@@ -1,9 +1,25 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-11-26T05:58:43.466783+00:00",
+  "scraped_at": "2026-11-26T16:05:15.411068+00:00",
   "first_run": false,
-  "total_posts_on_page": 6,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f05c2417d4cbd8a2",
+      "author": "IndexKumulativ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/indexkumulativ",
+      "posted_relative": "for 2 t siden",
+      "text": "· COYS !",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 8,
+      "has_link": false
+    }
+  ]
 }

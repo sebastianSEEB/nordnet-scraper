@@ -1,9 +1,75 @@
 {
   "slug": "hexagon-composites-hex-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hexagon-composites-hex-xosl",
-  "scraped_at": "2026-11-26T05:56:14.634200+00:00",
+  "scraped_at": "2026-11-26T16:02:48.746598+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "3dc037f0ffd0a0fb",
+      "author": "fiskarta",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fiskarta",
+      "posted_relative": "for 1 t siden",
+      "text": "Fant denne på ett annet forum, mye som kan bli stang inn for Hex nå: Saksdokumenter til et møte i Lyon County 10. november beskriver et anlegg som skal komprimere rørledningsgass og laste den på trailere for transport til et kraftproduksjonsanlegg i nabofylket Storey County. Certarus er oppgitt som forventet operatør, og planlagt driftsperiode er omtrent tre–fem år. Dokumentene beskriver en søknad, ikke en bekreftet ferdig godkjenning. https://www.lyon-county.org/AgendaCenter/ViewFile/Agenda/_11102026-2134?utm_source=chatgpt.com",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://www.lyon-county.org/AgendaCenter/ViewFile/Agenda/_11102026-2134?utm_source=chatgpt.com"
+      ],
+      "char_count": 534,
+      "has_link": true
+    },
+    {
+      "key": "6220449586449c95",
+      "author": "roff",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/roff",
+      "posted_relative": "for 19 t siden",
+      "text": "Noe på gang? Lov å håpe 🤔 https://www.energypressreleases.com/article/957550860-rev-lng-and-next-generation-land-company-partner-to-put-data-centers-in-service-years-ahead-of-the-grid?utm_source=chatgpt.com Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        16,
+        2
+      ],
+      "links": [
+        "https://www.energypressreleases.com/article/957550860-rev-lng-and-next-generation-land-company-partner-to-put-data-centers-in-service-years-ahead-of-the-grid?utm_source=chatgpt.com"
+      ],
+      "char_count": 226,
+      "has_link": true
+    },
+    {
+      "key": "0d37a6877eb977da",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 5 t siden",
+      "text": "Veldig spennende nytt for HEX! Storkunden REV LNG inngår partnerskap for å forsyne nye AI-datasentre i USA med mobil gass, fordi faste rørledninger og strømnett ligger flere år etter skjema. REV LNG er en av de største kjøperne av Hexagon Agilitys Mobile Pipeline-moduler. Når de nå skalerer opp for å dekke datasenter-boomen, bør det love veldig godt for nye, store utstyrsordre til Hexagon fremover",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 400,
+      "has_link": false
+    },
+    {
+      "key": "c532e457bc6d1a85",
+      "author": "ælgoksen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lgoksen",
+      "posted_relative": "for 7 t siden",
+      "text": "Situasjonen er fundamentalt veldig bra. Aksjekursen straffer alle selskaper som ikke er godstog om dagen. Hexagon er et turnaround case. Nå har de bevist to kvartaler. Klarer de ett til med like gode tall og utsikter er dette begynnelsen på noe veldig bra. Relax",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 262,
+      "has_link": false
+    }
+  ]
 }

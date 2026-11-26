@@ -1,9 +1,23 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-26T05:58:47.294833+00:00",
+  "scraped_at": "2026-11-26T16:05:19.442096+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "163e2fd667a41ac4",
+      "author": "Beginnerslucky",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beginnerslucky",
+      "posted_relative": "for 6 t siden",
+      "text": "Har holdt og ventet på å komme i pluss i maaaaange år nå. Så kan kanskje prøve et halvt år til da.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 98,
+      "has_link": false
+    }
+  ]
 }

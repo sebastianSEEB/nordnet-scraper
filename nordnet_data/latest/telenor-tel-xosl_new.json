@@ -1,9 +1,23 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-26T05:57:25.813966+00:00",
+  "scraped_at": "2026-11-26T16:03:59.122530+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "9a89dc7d5cec02e7",
+      "author": "MrPoopenstein",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mrpoopenstein",
+      "posted_relative": "for 6 t siden",
+      "text": "· Takk for at du sa fra og la dette ut på Telenor-forumet",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

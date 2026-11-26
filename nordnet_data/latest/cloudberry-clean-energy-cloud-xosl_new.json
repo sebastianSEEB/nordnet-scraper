@@ -1,9 +1,25 @@
 {
   "slug": "cloudberry-clean-energy-cloud-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cloudberry-clean-energy-cloud-xosl",
-  "scraped_at": "2026-11-26T05:58:39.749779+00:00",
+  "scraped_at": "2026-11-26T16:05:11.314388+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "90f9845d61519e8d",
+      "author": "Herman Hansen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herman-hansen",
+      "posted_relative": "for 5 t siden",
+      "text": "Skjønner virkelig ikke at denne aksjen ikke går mer. Q4 2026, og mest sannsynlig også Q1 2027, kan bli helt fantastiske kvartaler. Vektet snittpris basert på produksjon og prisområder ligger nå på rundt 1,35 NOK/kWh i Q4, mot 0,93 NOK/kWh i Q3 (+45%). F1 og SE3 har også hatt en kraftig prisøkning i november. Ulempen er at når det er så kaldt og fint vær, er det gjerne mindre vind og dermed lavere vindkraftproduksjon.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 420,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,39 @@
 {
   "slug": "zaptec-zap-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/zaptec-zap-xosl",
-  "scraped_at": "2026-11-26T05:53:51.602718+00:00",
+  "scraped_at": "2026-11-26T16:00:21.909314+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "972366311ffa1686",
+      "author": "Aktierforsjov",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/aktierforsjov",
+      "posted_relative": "for 5 t siden",
+      "text": "· Det ser ut som at citadel feirer Thanksgiving 😅",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5,
+        1
+      ],
+      "links": [],
+      "char_count": 49,
+      "has_link": false
+    },
+    {
+      "key": "ee7ce5201bbe2ca2",
+      "author": "Cowboy_Rune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cowboy_rune",
+      "posted_relative": "for 1 t siden",
+      "text": "· Nå starter julerallyet 💥",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 26,
+      "has_link": false
+    }
+  ]
 }
