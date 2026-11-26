@@ -1,22 +1,50 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-25T17:38:57.260010+00:00",
+  "scraped_at": "2026-11-25T23:54:39.828852+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 1,
+  "total_posts_on_page": 8,
+  "new_posts_count": 3,
   "posts": [
     {
-      "key": "8dc52b3a44fb2615",
+      "key": "b365a60b70842039",
       "author": "Kjernekar",
       "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kjernekar",
-      "posted_relative": "for 2 t siden",
-      "text": "Jep, den biter bra nå👏",
+      "posted_relative": "for 5 t siden",
+      "text": "Ja det høres jo at de har en god trackrecord, det kommer nok godt med videre. Jeg kjøpte meg inn idag egentlig ved en feil, men det er ikke så farlig etter å ha lest meg opp litt.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 22,
+      "char_count": 179,
+      "has_link": false
+    },
+    {
+      "key": "1447641706691039",
+      "author": "Bill Bradely",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bill-bradely",
+      "posted_relative": "for 5 t siden",
+      "text": "Det blir uansett en bra dag for Norbit i morgen. Det er lenge siden jeg har sett Nasdaq svinge hele 4 % i løpet av én handelsdag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 129,
+      "has_link": false
+    },
+    {
+      "key": "2661c78f0d393909",
+      "author": "oh.ahah",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ohahah",
+      "posted_relative": "for 1 t siden",
+      "text": "hva skyldes at denne har kollapset etter oppgang etter kvartalstallene? ser ingen store nyheter som skal ha utløst dette",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 120,
       "has_link": false
     }
   ]
