@@ -1,9 +1,38 @@
 {
   "slug": "solstad-maritime-soma-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-maritime-soma-xosl",
-  "scraped_at": "2026-11-26T16:04:30.340403+00:00",
+  "scraped_at": "2026-11-26T17:23:27.200563+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "6d79396cc7221f6d",
+      "author": "Atlantisinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atlantisinvest",
+      "posted_relative": "for 3 døgn siden",
+      "text": "· BLACK WEEK OG BLACK NOVEMBER ER IGANG",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    },
+    {
+      "key": "a284344322de3a74",
+      "author": "Atlantisinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atlantisinvest",
+      "posted_relative": null,
+      "text": "16. nov. Håper du har rett 🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

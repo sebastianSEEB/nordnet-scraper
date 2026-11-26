@@ -1,9 +1,39 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-11-26T15:59:38.647563+00:00",
+  "scraped_at": "2026-11-26T17:18:41.856184+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "f0ced4cf2b0a652f",
+      "author": "Atlantisinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atlantisinvest",
+      "posted_relative": "for 3 døgn siden",
+      "text": "· BLACK WEEK OG BLACK NOVEMBER ER IGANG 😎",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 41,
+      "has_link": false
+    },
+    {
+      "key": "a284344322de3a74",
+      "author": "Atlantisinvest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/atlantisinvest",
+      "posted_relative": null,
+      "text": "16. nov. Håper du har rett 🤞",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }
