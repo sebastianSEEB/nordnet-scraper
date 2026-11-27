@@ -1,9 +1,26 @@
 {
   "slug": "telenor-tel-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/telenor-tel-xosl",
-  "scraped_at": "2026-11-27T17:03:10.649452+00:00",
+  "scraped_at": "2026-11-27T19:19:58.841966+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "16a21ea1db280dd4",
+      "author": "solstien",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/solstien",
+      "posted_relative": null,
+      "text": "23. nov. · Ja dette ser lovende ut",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        1
+      ],
+      "links": [],
+      "char_count": 34,
+      "has_link": false
+    }
+  ]
 }
