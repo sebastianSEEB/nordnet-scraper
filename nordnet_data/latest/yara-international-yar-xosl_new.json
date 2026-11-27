@@ -1,9 +1,41 @@
 {
   "slug": "yara-international-yar-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/yara-international-yar-xosl",
-  "scraped_at": "2026-11-27T09:20:47.111387+00:00",
+  "scraped_at": "2026-11-27T17:03:25.901602+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c27fe2fe65fa274b",
+      "author": "Utbyttemaker",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttemaker",
+      "posted_relative": null,
+      "text": "23. nov. Nå begynner det å se bra ut for påfyll Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 67,
+      "has_link": false
+    },
+    {
+      "key": "c88caed5e752ebeb",
+      "author": "Sonypus",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sonypus",
+      "posted_relative": null,
+      "text": "23. nov. Nei. For tidlig.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 25,
+      "has_link": false
+    }
+  ]
 }

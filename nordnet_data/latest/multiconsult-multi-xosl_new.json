@@ -1,9 +1,40 @@
 {
   "slug": "multiconsult-multi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/multiconsult-multi-xosl",
-  "scraped_at": "2026-11-27T09:21:54.107673+00:00",
+  "scraped_at": "2026-11-27T17:04:34.757766+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "45218d6321b9a076",
+      "author": "Paros",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/paros",
+      "posted_relative": "for 2 t siden",
+      "text": "Tror denne bedrer seg i 2027. Håper at Varner fikk kvittet seg med mesteparten av sine aksjer i tilbakekjøpet, slik at salgspresset minker fremover også.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "4dc95a0c88e36ad1",
+      "author": "Reidar",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/reidar",
+      "posted_relative": "for 2 t siden",
+      "text": "Vetle Wilhelmsen i finansavisen framhever at Multikonsult kan dra særlig nytte av økende datasenteraktivitet. Er ned 20% i aksjen og venter på opptur",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    }
+  ]
 }

@@ -1,22 +1,37 @@
 {
   "slug": "sparebank-1-helgeland-helg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-helgeland-helg-xosl",
-  "scraped_at": "2026-11-27T09:21:34.705556+00:00",
+  "scraped_at": "2026-11-27T17:04:14.905375+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 1,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "5ff1f28d6926a02d",
-      "author": "Verdens sterkeste bjørn",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verdens-sterkeste-bjrn",
-      "posted_relative": "for 7 min siden",
-      "text": "Er vel bare å hamstre på disse nivåene?",
+      "key": "b1b9d255a7bb64f2",
+      "author": "APE Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ape-invest",
+      "posted_relative": null,
+      "text": "13. nov. Har egentlig plan om å selge alt til NN for 180+, men begynner å gå lei… Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    },
+    {
+      "key": "28ce6cda6ee2bea2",
+      "author": "APE Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ape-invest",
+      "posted_relative": "for 6 t siden",
+      "text": "Mulig- men for å selge alt til nord Norge om et år for 200?",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 39,
+      "char_count": 59,
       "has_link": false
     }
   ]

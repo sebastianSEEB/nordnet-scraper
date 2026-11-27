@@ -1,35 +1,24 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-11-27T09:17:32.542654+00:00",
+  "scraped_at": "2026-11-27T17:00:08.849371+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 2,
+  "total_posts_on_page": 10,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "b2b7e1ffaab1f70e",
-      "author": "Bullelull",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bullelull",
-      "posted_relative": "for 32 min siden",
-      "text": "Oppløftende utvikling. Hva gjør shorterne nå - noen tanker?",
+      "key": "c211faa97261d97e",
+      "author": "Zeileren",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zeileren",
+      "posted_relative": "for 7 t siden",
+      "text": "Håper de tar helg. Dunket inn noen store her nå. Den har ikke annet valg enn å gå opp nå.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
+      "engagement_numbers": [
+        2
+      ],
       "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "fb3a5a152b74cd51",
-      "author": "fodboldfyren",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fodboldfyren",
-      "posted_relative": "for 1 t siden",
-      "text": "· Hvor langt må vi opp før de gir slipp på den?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 47,
+      "char_count": 89,
       "has_link": false
     }
   ]

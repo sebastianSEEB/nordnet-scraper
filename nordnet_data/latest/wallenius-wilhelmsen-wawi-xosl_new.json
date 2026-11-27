@@ -1,9 +1,23 @@
 {
   "slug": "wallenius-wilhelmsen-wawi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/wallenius-wilhelmsen-wawi-xosl",
-  "scraped_at": "2026-11-27T09:16:07.985130+00:00",
+  "scraped_at": "2026-11-27T16:58:42.891281+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "334ed2fa0bd176cb",
+      "author": "thong",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/thong",
+      "posted_relative": null,
+      "text": "23. nov. Ikke mye rødt her opp 92% for min del",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 46,
+      "has_link": false
+    }
+  ]
 }

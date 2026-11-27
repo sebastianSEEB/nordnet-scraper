@@ -1,68 +1,65 @@
 {
   "slug": "kongsberg-automotive-koa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/kongsberg-automotive-koa-xosl",
-  "scraped_at": "2026-11-27T09:22:53.188708+00:00",
+  "scraped_at": "2026-11-27T17:05:36.401909+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
+  "total_posts_on_page": 10,
   "new_posts_count": 4,
   "posts": [
     {
-      "key": "dbcebf8d706d34de",
-      "author": "emed",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/emed",
+      "key": "a74be9545c2a5189",
+      "author": "Backflip360",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/backflip360",
+      "posted_relative": "for 7 t siden · Endret",
+      "text": "Det er jo kjempelett å påvirke kursen, jeg har 3-4 Nominee kontoer jeg selger og kjøper imellom.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 96,
+      "has_link": false
+    },
+    {
+      "key": "7bb0fed410979bdd",
+      "author": "007.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/007-2",
       "posted_relative": "for 1 t siden",
-      "text": "Ikke undervurder KA investorer nå... De klarer nok å selge seg ganske mye lengre ned enn hvor vi står nå. Har ordrer på 1.91 og en større på 1.85. Prøver å ikke bli for grådig, men vanligvis tar jeg som regel feil, og selgerene overasker nesten alltid på nedsiden.",
+      "text": "Noen andre her som kun ser graf fra 2021? når den står på \"maks\" Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 84,
+      "has_link": false
+    },
+    {
+      "key": "960b20314563bcd0",
+      "author": "007.",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/007-2",
+      "posted_relative": "for 1 t siden",
+      "text": "Likte det bedre sånn😅🤪",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 264,
+      "char_count": 22,
       "has_link": false
     },
     {
-      "key": "74035ce4ed7cbe08",
-      "author": "Tradelonghhhhh",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tradelonghhhhh",
-      "posted_relative": "for 1 t siden",
-      "text": "I kveld får vi se hvem som solgte store mengder med aksjer på onsdag. ✅",
-      "reply_count": null,
+      "key": "195aa91dfa601c59",
+      "author": "MGM",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mgm",
+      "posted_relative": "for 3 t siden",
+      "text": "· Hvor ser du det?",
+      "reply_count": 1,
       "is_reply": false,
-      "engagement_numbers": [
-        8,
-        1
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 71,
-      "has_link": false
-    },
-    {
-      "key": "1cbc46d33a06b60b",
-      "author": "OAST",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oast",
-      "posted_relative": "for 57 min siden",
-      "text": "Standhaftig, tolmodoig og bygger sten på sten?? Imponerende",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 59,
-      "has_link": false
-    },
-    {
-      "key": "ffaaaa40f354c9dd",
-      "author": "gladaksjer",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gladaksjer",
-      "posted_relative": "for 31 min siden",
-      "text": "mer av interesse er hvem som kjøpte aksjene ?",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        4
-      ],
-      "links": [],
-      "char_count": 45,
+      "char_count": 18,
       "has_link": false
     }
   ]

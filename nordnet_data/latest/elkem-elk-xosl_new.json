@@ -1,9 +1,36 @@
 {
   "slug": "elkem-elk-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elkem-elk-xosl",
-  "scraped_at": "2026-11-27T09:17:36.668894+00:00",
+  "scraped_at": "2026-11-27T17:00:12.810915+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "01f6838f8b760508",
+      "author": "Sjabby Sheik",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sjabby-sheik",
+      "posted_relative": "for 6 min siden · Endret",
+      "text": "Må bare si, Elkem er jo en drøm for langsiktig trading, helt greit å holde om den går for mye ned. Svinger jo så voldsomt.. ute igjen, inn ned mot 30",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 149,
+      "has_link": false
+    },
+    {
+      "key": "14c1b4bef35ce17a",
+      "author": "Karmakoma",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/karmakoma",
+      "posted_relative": "for 2 t siden",
+      "text": "Solgt igjen..?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 14,
+      "has_link": false
+    }
+  ]
 }

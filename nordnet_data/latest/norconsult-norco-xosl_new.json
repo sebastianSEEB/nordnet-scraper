@@ -1,9 +1,41 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-27T09:17:59.622430+00:00",
+  "scraped_at": "2026-11-27T17:00:36.216733+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 11,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "2d12e4b4d69a70f0",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 3 t siden",
+      "text": "Innsidesalg kan ha mange ulike årsaker, ofte av nokså privat karakter så det er ikke sikkert at man skal legge så mye vekt på det. Da er det større signaleffekt i innsidekjøp. Det signaliserer nesten alltid tro på selskapets fremtid.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 233,
+      "has_link": false
+    },
+    {
+      "key": "2938eed9aa9a9b63",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 4 t siden",
+      "text": "Hvem trenger shortere når man har kommunikasjonsdirektører som selger 90% av aksjene sine i en smell :-) Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    }
+  ]
 }

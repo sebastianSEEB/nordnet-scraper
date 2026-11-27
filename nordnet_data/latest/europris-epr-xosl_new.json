@@ -1,9 +1,23 @@
 {
   "slug": "europris-epr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/europris-epr-xosl",
-  "scraped_at": "2026-11-27T09:18:18.459659+00:00",
+  "scraped_at": "2026-11-27T17:00:55.565506+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "a2f71a9a182b5217",
+      "author": "Snasken",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/snasken",
+      "posted_relative": "for 5 t siden",
+      "text": "· EPR har tradisjon for å stige i desember. Den har år om anna gått bra eit stykke ut i januar, men det er meir usikkert.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 121,
+      "has_link": false
+    }
+  ]
 }
