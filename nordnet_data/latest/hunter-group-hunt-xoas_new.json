@@ -1,54 +1,27 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-26T17:22:32.648146+00:00",
+  "scraped_at": "2026-11-27T00:23:38.462949+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 3,
+  "total_posts_on_page": 7,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "1c45f9e3ce0b6733",
-      "author": "ks1977",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ks1977",
-      "posted_relative": "for 22 min siden",
-      "text": "Just for fun Nå er dette neglisjerbart sammenlignet med andre ting (Mercuria, TD3C resten av tiden, Jacktel), men siden selskapet skrev at \"The Company will notify the market as soon as Hunter has firm re-delivery dates for the Vessels\" så tenkte jeg å leke litt med tall i forhold til hvor mye en dag ekstra/mindre utgjør. Det er jo DHT Puma som er først ut, men der kommer sikkert Mercuria til å tviste rundt deler (selv om det ikke gir mening i mitt hode gitt endret holdning under rettssaken mot Baltic), men jeg ignorerer det i dette regnestykket. Regnestykke i bunn, men jeg tar utgangspunkt i NETTO oppnådd rate (dvs TD3C + premium - TCin - 1% broker commision - G&A). 750k -> 4,25 øre pr dag pr aksje 1M -> 5,67 øre pr dag pr aksje 1250k -> 7,09 øre pr dag pr aksje Ikke fryktelig mye, men får vi f.eks en uke til med 750k netto så utgjør den uka 1,5% av dagens sluttkurs på 20,4kr Så da er det bare å krysse fingrene for at vi ikke hører noe om DHT Puma med det første... (evt at vi får en melding om at hun skal returneres om x uker) Regnestykke hvis noen vil sjekke at jeg ikke har tenkt feil i farten; 0,75M/dag netto*0,78 (pga 22% skatt) / 134,825M aksjer * 9,8 USDNOK * 100 øre/krone = 4,25 øre pr aksje pr dag Netto oppnådd rate; TD3C (ca 1,1M nå) + premium (ca 80k så langt i Q4?) - TCin (ca 55k) - 1% broker commision (så 10k ved 1M, skjønt skal vel ha 1% av premium og?) - G&A (1,5k tidligere, har ikke sjekket nå)",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 1432,
-      "has_link": false
-    },
-    {
-      "key": "1b30f7629273fded",
-      "author": "phor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/phor",
-      "posted_relative": "for 31 min siden",
-      "text": "· Spotrater for råoljetankskip og FFA ➡️➡️➡️ VLCC TD3C FFA ➡️ TD3C TCE (AG>CN) +4k til 1 100k➡️ TD34 TCE (GOO>CN) +2k til 336k➡️ TD22 TCE (US>CN) -3k til 271k➡️ SUEZ TCE  -2k til 266k➡️ AFRA TCE +2k til 219k➡️ BWET +1%➡️ Vis 1 kommentar til",
+      "key": "43ebbd65ba4f89d7",
+      "author": "Proffen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/proffen",
+      "posted_relative": "for 2 t siden · Endret",
+      "text": "Jeg tror Hunter er i gang med å bygge et nytt offshorekonsern… Dette har faktisk fått ganske sterk støtte fra Morten Astrup selv. I intervjuet med Finansavisen 20. november sa han: - De tre største eierne har lenge fulgt investeringsmuligheter innen shipping og energiservice. - Jacktel er «en første byggekloss» i denne strategien. -Haven har en attraktiv posisjon innen både olje/gass og fornybar energi i Nordsjøen. https://www.finansavisen.no/shipping/2026/11/24/8398076/hamstrer-aksjer-i-arets-borsvinner Jeg tror vi bør følge spesielt nøye med på hva Astrup mener med «første byggekloss». Det er en ganske konkret formulering fra styrelederen, ikke bare generell optimisme. Hvis jeg skulle formulert den langsiktige investeringshypotesen, ville den vært: - Hunter bruker VLCC-overskuddene til å etablere en ny, langsiktig inntjeningsplattform innen offshore.  - Haven er første investering, og Mercuria-oppgjøret kan bli finansieringen av neste vekstfase. VLCC-modellen har gitt Hunter mulighet til å tjene ekstremt mye penger på svært gunstige kontrakter. Men denne inntjeningen forsvinner når skipene leveres tilbake. Offshore-modellen kan derimot gi: - Gjentakende kontraktsinntekter. - Langsiktig kontantstrøm. - Mulighet for flere oppkjøp. - Mer forutsigbare utbytter. En høyere og mer stabil verdsettelse. Hunter kan gå fra å være et selskap som deler ut store, men uregelmessige overskudd, til å bli et selskap som genererer 2–3 kroner i årlig utbytte per aksje fra en etablert offshore-portefølje.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        5,
-        4
+        6
       ],
-      "links": [],
-      "char_count": 240,
-      "has_link": false
-    },
-    {
-      "key": "baf4085f19aad77b",
-      "author": "nopetter",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nopetter",
-      "posted_relative": "for 22 min siden",
-      "text": "Det et bare å begynne å bla der er fult av utregninger på det meste på disse trådene",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/11/24/8398076/hamstrer-aksjer-i-arets-borsvinner"
       ],
-      "links": [],
-      "char_count": 84,
-      "has_link": false
+      "char_count": 1511,
+      "has_link": true
     }
   ]
 }

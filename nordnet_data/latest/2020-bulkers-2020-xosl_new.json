@@ -1,52 +1,52 @@
 {
   "slug": "2020-bulkers-2020-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/2020-bulkers-2020-xosl",
-  "scraped_at": "2026-11-26T17:18:10.590659+00:00",
+  "scraped_at": "2026-11-27T00:19:17.782545+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
   "new_posts_count": 3,
   "posts": [
     {
-      "key": "3ed932a9d374d163",
-      "author": "Zmmy",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/zmmy",
-      "posted_relative": "for 1 t siden",
-      "text": "· Hva er det jeg ikke skjønner her.  2020bulkers på 24 Men den unoterte 2020T koster 3.20.   En 2020T-aksje har de samme rettighetene som 2020bulkers ved fusjon.     Så hvorfor kjøpe 2020bulkers på 20+ når du kan kjøpe 2020T på  3.20.",
+      "key": "eca70ab80a3579b1",
+      "author": "Buggie1971",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/buggie1971",
+      "posted_relative": "for 3 t siden",
+      "text": "Kort oppdatering på AHTS-flåtemonitoren som jeg har nevnt i noen tidligere tråder. Den henter fortsatt fersk AIS-status for alle 15 skipene fra MarineTraffic hver morgen, men har fått noen nye ting: Selskapsstatus fra oppdateringen 26.11: 14 av 15 skip er levert, og GH Challenger kommer i desember. Netto gjeld er pro forma ca. USD 41m (~2,7m per skip). Refinansieringen (USD 146m) er gjennomført for ni skip. Utnyttelsen var 75 % i september og 64 % i oktober. Generalforsamlingen 8.12 stemmer over navnebytte til AHTS Group og ticker «AHTS». Skipskortene viser nå hvem som drifter hvert skip (DOF, UOS eller Aurora Offshore), neste klassing (SPS) og leveringsdato. Eierskapet er avklart: alle skip eies 100 % unntatt Skandi Launcher (79 %). Havregioner: siden registrerer nå hvilket havområde hvert skip er i, og logger når det flytter seg mellom regioner. Historikken tilbake til midten av september er fylt ut ut fra havnene skipene har ligget i, og er merket som utledet. Noen bevegelser så langt: MH Freedom gikk fra Nordsjøen til Vest-Afrika i oktober. Skandi Peregrino gikk fra Australia til Singapore. GH Columbia og GH Pathfinder gikk fra India til Singapore i november. Kort om Q3: rapporten som sto i finanskalenderen til 25.11 kom ikke. Presentasjonen og webcasten 26.11 ser ut til å fungere som oppdateringen inntil videre. Alt er hentet fra offentlige kilder (MarineTraffic, børsmeldinger og selskapspresentasjonen) og er IKKE en kjøpsanbefaling https://claude.ai/artifact/2gwBEt2LKpp45ZiGrzrvjM",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2
+      "engagement_numbers": [],
+      "links": [
+        "https://claude.ai/artifact/2gwBEt2LKpp45ZiGrzrvjM"
       ],
-      "links": [],
-      "char_count": 234,
-      "has_link": false
+      "char_count": 1511,
+      "has_link": true
     },
     {
-      "key": "e6164c57e51c52d8",
-      "author": "Vebjørn08",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vebjrn08",
-      "posted_relative": "for 1 t siden",
-      "text": "Vet noen hvor mange nys aksjer man får per gammel? Og pris på den nye? Vis 1 kommentar til",
+      "key": "af126d556f34dab8",
+      "author": "Coffinhills8",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coffinhills8",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Det eksisterer 1.2 milliarder aksjer til, som blir fungible i det øyeblikket prospektet godkjennes av Finanstilsynet. Disse aksjene ligger på NOTC-listen. DN mener at disse aksjene representerer en mer reell aksjeverdi enn kursen på hovedindeksen. https://www.notc.no/NOTC/NOTC-listen . Slik jeg forstår det etter noen ai søk og ved å se på informasjonshistorikken , utgjør altså de unoterte aksjene 98% av selskapet.",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        3
+      "engagement_numbers": [],
+      "links": [
+        "https://www.notc.no/NOTC/NOTC-listen"
       ],
-      "links": [],
-      "char_count": 90,
-      "has_link": false
+      "char_count": 417,
+      "has_link": true
     },
     {
-      "key": "77079411b0f757e9",
-      "author": "Vebjørn08",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vebjrn08",
+      "key": "c780192c68a852e5",
+      "author": "Coffinhills8",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/coffinhills8",
       "posted_relative": "for 1 t siden",
-      "text": "Så når sammenslåingen skjer taper man alt man har her?",
-      "reply_count": 1,
+      "text": "Hva skjer med prisen på børsaksjen, når de 1,2 milliarder aksjene fra emisjonen kommer i spill?",
+      "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 54,
+      "char_count": 95,
       "has_link": false
     }
   ]

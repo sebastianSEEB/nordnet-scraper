@@ -1,9 +1,23 @@
 {
   "slug": "autostore-auto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/autostore-auto-xosl",
-  "scraped_at": "2026-11-26T17:21:28.113076+00:00",
+  "scraped_at": "2026-11-27T00:22:34.396597+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "1d7dcb1836ea7718",
+      "author": "isaklodemel",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/isaklodemel",
+      "posted_relative": "for 4 t siden",
+      "text": "Fin dag i dag 📈",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }
