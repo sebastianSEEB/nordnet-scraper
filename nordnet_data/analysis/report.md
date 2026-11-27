@@ -1,18 +1,18 @@
 # Forum-sentiment mot avkastning
 
-Generert 2026-11-25 23:49 UTC · 38,353 scorede innlegg · 4,378 aksje-dager · 117 aksjer · 2026-08-27 → 2026-11-23 (63 handelsdager) · marked: OSEBX
+Generert 2026-11-27 00:01 UTC · 38,754 scorede innlegg · 4,431 aksje-dager · 117 aksjer · 2026-08-27 → 2026-11-24 (64 handelsdager) · marked: OSEBX
 
 ## Konklusjon
 
-Sentimentet henger mye tettere sammen med samme dags kurs (0.118) enn neste dags (0.010) – forumet reagerer mest på bevegelser som allerede har skjedd. Neste-dags-sammenhengen (IC 0.008) er ikke statistisk skillbar fra flaks (p = 0.610). Ingen modell slår «gjett 0» på ukjente data ennå – det vanligste utfallet med lite data. Med 63 handelsdager er alt dette foreløpig; ca. 6–12 måneder data trengs før konklusjonene blir solide.
+Sentimentet henger mye tettere sammen med samme dags kurs (0.119) enn neste dags (0.013) – forumet reagerer mest på bevegelser som allerede har skjedd. Neste-dags-sammenhengen (IC 0.009) er ikke statistisk skillbar fra flaks (p = 0.559). Ingen modell slår «gjett 0» på ukjente data ennå – det vanligste utfallet med lite data. Med 64 handelsdager er alt dette foreløpig; ca. 6–12 måneder data trengs før konklusjonene blir solide.
 
 ## 1. Reagerer forumet, eller forutsier det?
 
 | Sammenheng | Korrelasjon (Spearman) | p-verdi | n |
 |---|---|---|---|
-| Sentiment ↔ meravkastning samme dag | 0.118 | 0.000 | 4,377 |
-| Sentiment → meravkastning neste dag | 0.010 | 0.499 | 4,378 |
-| Sentiment → meravkastning neste 5 dager* | 0.003 | 0.849 | 4,138 |
+| Sentiment ↔ meravkastning samme dag | 0.119 | 0.000 | 4,430 |
+| Sentiment → meravkastning neste dag | 0.013 | 0.378 | 4,431 |
+| Sentiment → meravkastning neste 5 dager* | 0.002 | 0.911 | 4,195 |
 
 *5-dagers vinduer overlapper, så p-verdien der er for optimistisk.
 
@@ -20,8 +20,8 @@ Sentimentet henger mye tettere sammen med samme dags kurs (0.118) enn neste dags
 
 ## 2. Tverrsnitts-IC og tilfeldighetstest
 
-Snitt daglig IC: **0.008** (t = 0.56, 63 dager, positiv 52 % av dagene).
-Tilfeldighetstest (2000 stokkinger): p = **0.610**. Stokkede data gir |IC| over 0.029 i 5 % av tilfellene.
+Snitt daglig IC: **0.009** (t = 0.64, 64 dager, positiv 53 % av dagene).
+Tilfeldighetstest (2000 stokkinger): p = **0.559**. Stokkede data gir |IC| over 0.031 i 5 % av tilfellene.
 
 IC over 0,02–0,03 som holder seg over tid regnes som interessant i kvant-verdenen. p under 0,05 betyr at sammenhengen sjelden oppstår av ren flaks.
 
@@ -32,10 +32,10 @@ IC over 0,02–0,03 som holder seg over tid regnes som interessant i kvant-verde
 | Modell | MAE | RMSE | R² mot «gjett 0» | Treff på retning | IC | Long–short per dag |
 |---|---|---|---|---|---|---|
 | Gjett 0 (nullmodell) | 1.70 % | 2.77 % | 0.0000 | – | – | – |
-| Gjett snittet | 1.70 % | 2.77 % | -0.0011 | 49.8 % | – | – |
-| Lineær: kun snitt-sentiment | 1.70 % | 2.77 % | -0.0014 | 49.7 % | -0.005 | 0.049 % |
-| Ridge: alle features | 1.71 % | 2.80 % | -0.0179 | 49.3 % | -0.016 | -0.147 % |
-| Gradient boosting (grunne trær) | 1.73 % | 2.83 % | -0.0436 | 50.5 % | 0.007 | -0.113 % |
+| Gjett snittet | 1.70 % | 2.77 % | -0.0010 | 50.2 % | – | – |
+| Lineær: kun snitt-sentiment | 1.70 % | 2.77 % | -0.0013 | 50.0 % | -0.003 | 0.050 % |
+| Ridge: alle features | 1.71 % | 2.79 % | -0.0179 | 49.3 % | -0.021 | -0.159 % |
+| Gradient boosting (grunne trær) | 1.73 % | 2.82 % | -0.0433 | 50.6 % | 0.008 | -0.090 % |
 
 R² over 0 betyr at modellen bommer mindre enn å bare gjette 0 % meravkastning. Med daglige aksjeavkastninger er selv 0,005 bra – de fleste ekte signaler er svake.
 
@@ -45,9 +45,9 @@ R² over 0 betyr at modellen bommer mindre enn å bare gjette 0 % meravkastning.
 
 | Modell | R² på treningsdata | R² ut-av-utvalget |
 |---|---|---|
-| Lineær: kun snitt-sentiment | 0.0000 | -0.0014 |
-| Ridge: alle features | 0.0015 | -0.0179 |
-| Gradient boosting (grunne trær) | 0.0774 | -0.0436 |
+| Lineær: kun snitt-sentiment | 0.0001 | -0.0013 |
+| Ridge: alle features | 0.0013 | -0.0179 |
+| Gradient boosting (grunne trær) | 0.0802 | -0.0433 |
 
 Stort gap = modellen har lært støy i treningsdataene som ikke gjentar seg.
 
