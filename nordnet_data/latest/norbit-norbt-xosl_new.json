@@ -1,67 +1,35 @@
 {
   "slug": "norbit-norbt-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norbit-norbt-xosl",
-  "scraped_at": "2026-11-27T00:20:58.961465+00:00",
+  "scraped_at": "2026-11-27T09:17:28.633924+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 4,
+  "new_posts_count": 2,
   "posts": [
     {
-      "key": "28073b45c2c5172b",
-      "author": "@Bill Bradely",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bill-bradely",
-      "posted_relative": null,
-      "text": ". Er det snakk om mulig kraftig rekyl på 4-6% for alle selskaper?",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 65,
-      "has_link": false
-    },
-    {
-      "key": "2026496fb5019d12",
-      "author": "Lonis",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lonis",
-      "posted_relative": "for 6 t siden",
-      "text": "6 hjerter på samme melding i Tomra-forumet,",
+      "key": "1a78a88af33cb3c6",
+      "author": "hengslet",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/hengslet",
+      "posted_relative": "for 1 t siden",
+      "text": "E24 . Undervurderte aksjer Vebenstad mener Norbit er spesielt undervurdert: – Med ledende posisjoner i flere nisjemarkeder og en ambisjon om resultatvekst på rundt 20 prosent i året mener jeg markedet undervurderer inntjeningspotensialet de kommende årene. Sander Vebenstad Analytiker i Heimdal Fondene.",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 43,
+      "char_count": 303,
       "has_link": false
     },
     {
-      "key": "e3b1ad583b639b44",
-      "author": "Watermate",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/watermate",
-      "posted_relative": "for 6 t siden",
-      "text": "Du fikk rett Bill Bradely",
+      "key": "13a07e12ac5bf2ab",
+      "author": "Tikamp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tikamp",
+      "posted_relative": "for 1 t siden",
+      "text": "Har \"fluen\" endelig satt seg ned med kalkulatoren?",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [
-        2
-      ],
+      "engagement_numbers": [],
       "links": [],
-      "char_count": 25,
-      "has_link": false
-    },
-    {
-      "key": "1a88f546b770445c",
-      "author": "Inbestor",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
-      "posted_relative": "for 2 t siden",
-      "text": "her kommer herr rakett",
-      "reply_count": 1,
-      "is_reply": false,
-      "engagement_numbers": [
-        1
-      ],
-      "links": [],
-      "char_count": 22,
+      "char_count": 50,
       "has_link": false
     }
   ]

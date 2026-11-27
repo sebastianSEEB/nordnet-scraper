@@ -1,38 +1,27 @@
 {
   "slug": "aker-bp-akrbp-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-bp-akrbp-xosl",
-  "scraped_at": "2026-11-27T00:23:58.017932+00:00",
+  "scraped_at": "2026-11-27T09:20:27.776195+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "5536aa916174da29",
-      "author": "Miguel.",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/miguel-1",
-      "posted_relative": "for 13 t siden",
-      "text": "Hva tror folk om kursen her, skal vi lenger ned eller er det lurt å kjøpe seg inn nå. Jeg har en GAV på 316kr",
+      "key": "261fe3c396466f62",
+      "author": "InvestorNJ",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/investornj",
+      "posted_relative": null,
+      "text": "23. nov. · https://www.youtube.com/watch?v=pb0eEuMJX0I&t=14s",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
-        4
+        1
       ],
-      "links": [],
-      "char_count": 109,
-      "has_link": false
-    },
-    {
-      "key": "56be02f0de5bcdcd",
-      "author": "StockGod",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stockgod",
-      "posted_relative": "for 6 t siden",
-      "text": "Den kommer fort opp på 400 igjen, ut desember ser det sterkt ut.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 64,
-      "has_link": false
+      "links": [
+        "https://www.youtube.com/watch?v=pb0eEuMJX0I&t=14s"
+      ],
+      "char_count": 60,
+      "has_link": true
     }
   ]
 }

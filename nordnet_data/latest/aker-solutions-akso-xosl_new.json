@@ -1,9 +1,27 @@
 {
   "slug": "aker-solutions-akso-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/aker-solutions-akso-xosl",
-  "scraped_at": "2026-11-27T00:21:18.370760+00:00",
+  "scraped_at": "2026-11-27T09:17:48.332880+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "f813abbf2abeb74c",
+      "author": "Herobrain4x",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/herobrain4x",
+      "posted_relative": null,
+      "text": "23. nov. 23 November, 2026 – Aker Solutions has received a letter of award for a substantial¹ contract with an undisclosed client in the oil and gas sector. Aker Solutions expects that a binding contract will be signed during Q4 2026 and will subsequently book the award as order intake. ¹Aker Solutions defines a ‘substantial’ contract as one being valued between NOK 2.5 billion and NOK 4 billion. Lenke: https://news.cision.com/aker-solutions-asa/r/aker-solutions-receives-a-letter-of-award,c4428044",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [
+        "https://news.cision.com/aker-solutions-asa/r/aker-solutions-receives-a-letter-of-award,c4428044"
+      ],
+      "char_count": 502,
+      "has_link": true
+    }
+  ]
 }

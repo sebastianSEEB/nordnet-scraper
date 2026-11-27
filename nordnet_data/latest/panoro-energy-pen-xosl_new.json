@@ -1,23 +1,27 @@
 {
   "slug": "panoro-energy-pen-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl",
-  "scraped_at": "2026-11-27T00:20:38.779804+00:00",
+  "scraped_at": "2026-11-27T09:17:09.401997+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
   "new_posts_count": 1,
   "posts": [
     {
-      "key": "13719a1990c3304a",
-      "author": "Haj haj",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/haj-haj",
-      "posted_relative": "for 5 t siden",
-      "text": "BørsXtra skriver i dag. DAGENS OBS: Pen oppside til det økte kursmålet i DOF der større aktører som bl.a. John Fredriksen har kjøpt aksjer i det siste.",
+      "key": "7b9d24118552d1cd",
+      "author": "Skontorp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/skontorp",
+      "posted_relative": "for 2 t siden",
+      "text": "Hyggelig omtale i pengepodden i gårsdagens episode med Teodor Sveen-Nilsen. Kjent toppvalg for han og SB1 markets, men likevel fint å få løftet i populære podder; https://podcasts.apple.com/no/podcast/pengepodden/id1001063872?l=nb&i=1000804174831",
       "reply_count": null,
       "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 151,
-      "has_link": false
+      "engagement_numbers": [
+        7
+      ],
+      "links": [
+        "https://podcasts.apple.com/no/podcast/pengepodden/id1001063872?l=nb&i=1000804174831"
+      ],
+      "char_count": 246,
+      "has_link": true
     }
   ]
 }

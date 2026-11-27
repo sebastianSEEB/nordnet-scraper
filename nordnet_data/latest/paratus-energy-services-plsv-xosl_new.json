@@ -1,9 +1,53 @@
 {
   "slug": "paratus-energy-services-plsv-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/paratus-energy-services-plsv-xosl",
-  "scraped_at": "2026-11-27T00:21:33.400101+00:00",
+  "scraped_at": "2026-11-27T09:18:03.452547+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "e628c16cd0fe5314",
+      "author": "Royskatten1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/royskatten1",
+      "posted_relative": "for 2 t siden",
+      "text": "· Utbyttebeløp: USD 0,22 (omtrent NOK 2,15) per aksje • Deklarert valuta: USD • Siste dag inklusive rett: 1. desember 2026 • Ekstradato: 2. desember 2026 • Avstemmingsdato: 3. desember 2026 • Utbetalingsdato: 15. desember 2026 • Godkjenningsdato: 26. november 2026",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        38
+      ],
+      "links": [],
+      "char_count": 264,
+      "has_link": false
+    },
+    {
+      "key": "70c8a9b8d63d5925",
+      "author": "Ligurio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/ligurio",
+      "posted_relative": null,
+      "text": "Mindre enn ett minutt siden Den spratt opp der, gitt!!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 54,
+      "has_link": false
+    },
+    {
+      "key": "46cd229856987bc0",
+      "author": "Utbyttejeger",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/utbyttejeger",
+      "posted_relative": "for 28 min siden",
+      "text": "Maskin 🥳📈💰💰💰",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        5
+      ],
+      "links": [],
+      "char_count": 12,
+      "has_link": false
+    }
+  ]
 }

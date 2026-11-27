@@ -1,9 +1,23 @@
 {
   "slug": "medistim-medi-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/medistim-medi-xosl",
-  "scraped_at": "2026-11-27T00:22:26.426900+00:00",
+  "scraped_at": "2026-11-27T09:18:56.373084+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cb8b2223c9225bdd",
+      "author": "jbrn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jbrn",
+      "posted_relative": "for 2 t siden",
+      "text": "Fin liten smyger dette. Ikke de store overskriftene i pressen eller hos analytikere.  Opp og ned gjennom dagen, men ender som regel i grønt.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 140,
+      "has_link": false
+    }
+  ]
 }

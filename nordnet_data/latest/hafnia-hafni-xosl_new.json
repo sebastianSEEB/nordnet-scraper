@@ -1,22 +1,66 @@
 {
   "slug": "hafnia-hafni-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/hafnia-hafni-xosl",
-  "scraped_at": "2026-11-27T00:18:58.685594+00:00",
+  "scraped_at": "2026-11-27T09:15:29.561665+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 1,
+  "new_posts_count": 4,
   "posts": [
     {
-      "key": "a053334feb8bc0e7",
-      "author": "EB1996",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eb1996",
-      "posted_relative": "for 4 t siden",
-      "text": "Er utbytte bestemt nå? At det blir skjer?✌️",
+      "key": "fbc38b81f8c2e0a5",
+      "author": "NRH1970",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nrh1970",
+      "posted_relative": "for 11 min siden",
+      "text": "· Det er jo første gang, de hadde jo håpet på et kjøp av TORM, noe som ikke lyktes. Så nå må de avgjøre om de skal selge aksjene i TORM og gi pengene i utbytte eller om de skal dele ut aksjene. Jeg håper de selger og gir dem i utbytte",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [],
-      "char_count": 43,
+      "char_count": 234,
+      "has_link": false
+    },
+    {
+      "key": "531b2eb22b39e3d2",
+      "author": "JannB",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/jannb",
+      "posted_relative": "for 20 min siden",
+      "text": "Opplever Hafnia som litt surrete. Aksjeutdeling som alternativ til kontantubytter og utsettelser på avgjørelser. Er dette vanlig praksis i hafnia?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 146,
+      "has_link": false
+    },
+    {
+      "key": "7b446455a5ef632e",
+      "author": "O skorpio",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/o-skorpio",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Dette blir spennende, en annen ting man må huske på er at Torm kursen vises i DKK, ergo gange med ca 1,5. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        3
+      ],
+      "links": [],
+      "char_count": 125,
+      "has_link": false
+    },
+    {
+      "key": "63f6ff0faf511787",
+      "author": "EB1996",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/eb1996",
+      "posted_relative": "for 48 min siden",
+      "text": "Ja var utsatt ja, trodde du satt på noe ny info",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 47,
       "has_link": false
     }
   ]

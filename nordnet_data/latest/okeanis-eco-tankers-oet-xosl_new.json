@@ -1,9 +1,39 @@
 {
   "slug": "okeanis-eco-tankers-oet-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/okeanis-eco-tankers-oet-xosl",
-  "scraped_at": "2026-11-27T00:18:54.289201+00:00",
+  "scraped_at": "2026-11-27T09:15:25.406066+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "30d9c4821c671bcf",
+      "author": "Vannhode",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vannhode",
+      "posted_relative": "for 18 t siden",
+      "text": "· 2 nye slutninger på TI. Begge over 300k. DHT Impala 374k Front Maine 302k Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        2
+      ],
+      "links": [],
+      "char_count": 95,
+      "has_link": false
+    },
+    {
+      "key": "5c2864f1fd745e11",
+      "author": "pryp",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/pryp",
+      "posted_relative": "for 1 t siden",
+      "text": "Wafr også justert litt ned.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

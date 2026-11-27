@@ -1,9 +1,41 @@
 {
   "slug": "nordic-semiconductor-nod-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nordic-semiconductor-nod-xosl",
-  "scraped_at": "2026-11-27T00:20:14.861189+00:00",
+  "scraped_at": "2026-11-27T09:16:46.175535+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "0f698d279dba7c5e",
+      "author": "StockGod",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/stockgod",
+      "posted_relative": "for 16 t siden",
+      "text": "I dag så jeg et nytt hopp på Nordic Semiconductors, det fikk meg til å gå all inn i morgen. Mange useriøse velger å selge nå, det er idioti så det suser!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9,
+        4
+      ],
+      "links": [],
+      "char_count": 153,
+      "has_link": false
+    },
+    {
+      "key": "510154553efefaf5",
+      "author": "blindbor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blindbor",
+      "posted_relative": "for 50 min siden",
+      "text": "Om man var bare heldig nok til å kjøpe lavt og selge høyt de siste par ukene...",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    }
+  ]
 }

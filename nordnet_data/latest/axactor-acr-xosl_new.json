@@ -1,9 +1,25 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-27T00:25:21.717547+00:00",
+  "scraped_at": "2026-11-27T09:21:50.207122+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "4bb6622ad53b5d48",
+      "author": "Shipper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/shipper",
+      "posted_relative": null,
+      "text": "23. nov. · Endret 09:40 på en mandag og det er omsatt 11 stykk aksjer... Snart bare utbytter som kan redde troverdigheten i aksjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        9
+      ],
+      "links": [],
+      "char_count": 131,
+      "has_link": false
+    }
+  ]
 }

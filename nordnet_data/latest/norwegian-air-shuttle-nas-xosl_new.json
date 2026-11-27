@@ -1,9 +1,39 @@
 {
   "slug": "norwegian-air-shuttle-nas-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norwegian-air-shuttle-nas-xosl",
-  "scraped_at": "2026-11-27T00:20:18.548181+00:00",
+  "scraped_at": "2026-11-27T09:16:50.090473+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 8,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "512a02ac3eb24ea3",
+      "author": "Gordon Ekko",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gordon-ekko",
+      "posted_relative": "for 51 min siden",
+      "text": "Omtanke for dere her inne som har anbefalt å kjøpe Norse istedenfor NAS og også Chronic. Virkeligheten er at et solid NAS er et godt valg når de leverer på vekst og lønnsomhet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        6,
+        1
+      ],
+      "links": [],
+      "char_count": 176,
+      "has_link": false
+    },
+    {
+      "key": "2a9f15cdc98a712d",
+      "author": "Bellmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bellmann",
+      "posted_relative": "for 30 min siden · Endret",
+      "text": "Hvem kjøper i Norse??? Fredriksen / Norwegian. Konspirasjons teori. Alt er mulig - Norse er jo gratis",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 101,
+      "has_link": false
+    }
+  ]
 }

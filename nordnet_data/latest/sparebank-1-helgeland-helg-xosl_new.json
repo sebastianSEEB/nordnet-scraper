@@ -1,9 +1,23 @@
 {
   "slug": "sparebank-1-helgeland-helg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-helgeland-helg-xosl",
-  "scraped_at": "2026-11-27T00:25:06.221604+00:00",
+  "scraped_at": "2026-11-27T09:21:34.705556+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5ff1f28d6926a02d",
+      "author": "Verdens sterkeste bjørn",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/verdens-sterkeste-bjrn",
+      "posted_relative": "for 7 min siden",
+      "text": "Er vel bare å hamstre på disse nivåene?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 39,
+      "has_link": false
+    }
+  ]
 }

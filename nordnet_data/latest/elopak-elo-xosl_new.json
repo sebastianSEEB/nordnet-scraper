@@ -1,9 +1,53 @@
 {
   "slug": "elopak-elo-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/elopak-elo-xosl",
-  "scraped_at": "2026-11-27T00:22:10.722063+00:00",
+  "scraped_at": "2026-11-27T09:18:40.742745+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 6,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "1694566dd256ff67",
+      "author": "Tech1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tech1",
+      "posted_relative": "for 49 min siden",
+      "text": "· - Elopaks Executive Vice President Europe North and India, Stephen Naumann, har blitt valgt til styreleder for FKN, den tyske foreningen som representerer kartonasjeemballasje for flytende næringsmidler. Han tar på seg rollen mens bransjen forbereder seg på en viktig periode i implementeringen av nytt europeisk emballasjeregelverk. https://www.elopak.com/news/2026/stephen-naumann-elected-chairman-of-fkn/",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.elopak.com/news/2026/stephen-naumann-elected-chairman-of-fkn/"
+      ],
+      "char_count": 409,
+      "has_link": true
+    },
+    {
+      "key": "7cd5ba685abc063e",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": null,
+      "text": "23. nov. Spennende tider. Som Raten skriver under her så viste den styrke på fredag med å stige på en ellers nokså blodrød dag.  Aksjen er ved et \"veiskille\" her midt på 37-tallet.  Hvis den klarer å bryte opp og etablere seg på oppsiden kan det åpne for nye muligheter fremover.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 279,
+      "has_link": false
+    },
+    {
+      "key": "85cfef9a50625b63",
+      "author": "Raten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/raten",
+      "posted_relative": "for 25 min siden",
+      "text": "Da løsnet proppen på motstanden:)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 33,
+      "has_link": false
+    }
+  ]
 }

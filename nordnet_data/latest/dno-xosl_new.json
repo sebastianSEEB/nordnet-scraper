@@ -1,9 +1,38 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-27T00:22:30.135405+00:00",
+  "scraped_at": "2026-11-27T09:19:00.306760+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "c017f86e948dcfbf",
+      "author": "Count_Zero",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/count_zero",
+      "posted_relative": "for 34 min siden",
+      "text": "· Det påvirker ikke alle i KRG, men de som selger lokalt, risikerer å bli dratt inn i smuglingetterforskningen. I verste fall snakker vi om OFAC-sanksjoner fordi oljen smugles via Iran/Afghanistan. Akkurat nå gjelder ikke etterforskningen den provinsen der DNO har sin utvinning, men det kan smitte over. Det er ikke det minste overraskende at DNO faller på en slik risiko.",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 373,
+      "has_link": false
+    },
+    {
+      "key": "cc578a3df04dd3e7",
+      "author": "Prewia",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/prewia",
+      "posted_relative": "for 1 t siden",
+      "text": "· I natt steg oljeprisen, etter mer uro, i går steg vel nesten alle oljeselskaper, dog ikke DNO som falt ganske ordentlig, om det er noe på gang vi ikke vet om, får vi se, ellers er det ytterst merkelig kan man tykke",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [],
+      "char_count": 216,
+      "has_link": false
+    }
+  ]
 }

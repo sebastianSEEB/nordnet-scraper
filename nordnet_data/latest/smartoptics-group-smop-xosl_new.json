@@ -1,9 +1,26 @@
 {
   "slug": "smartoptics-group-smop-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/smartoptics-group-smop-xosl",
-  "scraped_at": "2026-11-27T00:25:17.957973+00:00",
+  "scraped_at": "2026-11-27T09:21:46.041618+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "b21b03a7f89ec5fa",
+      "author": "Fjellveien invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fjellveien-invest",
+      "posted_relative": null,
+      "text": "23. nov. Noen som ar en tanke om hvorfor det går så bra her mens AI aksjer ellers går nedover?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 94,
+      "has_link": false
+    }
+  ]
 }

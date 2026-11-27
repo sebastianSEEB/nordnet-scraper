@@ -1,9 +1,66 @@
 {
   "slug": "norsk-hydro-nhy-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norsk-hydro-nhy-xosl",
-  "scraped_at": "2026-11-27T00:24:05.789917+00:00",
+  "scraped_at": "2026-11-27T09:20:35.700658+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 4,
+  "posts": [
+    {
+      "key": "71328c27cb5136ec",
+      "author": "tospann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tospann",
+      "posted_relative": "for 1 t siden",
+      "text": "https://www.finansavisen.no/finans/2026/11/26/8399045/aluminiumsskvis-tvinger-metallbors-til-a-gripe-inn",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2
+      ],
+      "links": [
+        "https://www.finansavisen.no/finans/2026/11/26/8399045/aluminiumsskvis-tvinger-metallbors-til-a-gripe-inn"
+      ],
+      "char_count": 104,
+      "has_link": true
+    },
+    {
+      "key": "be4ba2d103cd3622",
+      "author": "Cronic",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/cronic",
+      "posted_relative": "for 1 t siden",
+      "text": "De sender den i dass på slutten i dag. Det er fredag vet du. Hvitsnippen og manupuleringsmafien tryler denne nok ned selv om ned 35% siste måned🤭😄🤣",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 147,
+      "has_link": false
+    },
+    {
+      "key": "309c4bd0f9477cf1",
+      "author": "Destroyer3000",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/destroyer3000",
+      "posted_relative": "for 3 min siden",
+      "text": "· Jeg håper det er bunnen : ] hva tenker du?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    },
+    {
+      "key": "b7e02daa09717baf",
+      "author": "Magnus1235",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/magnus1235",
+      "posted_relative": "for 3 t siden",
+      "text": "· Ok",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 4,
+      "has_link": false
+    }
+  ]
 }

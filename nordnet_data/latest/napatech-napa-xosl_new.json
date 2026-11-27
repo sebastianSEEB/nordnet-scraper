@@ -1,9 +1,52 @@
 {
   "slug": "napatech-napa-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/napatech-napa-xosl",
-  "scraped_at": "2026-11-27T00:21:37.106042+00:00",
+  "scraped_at": "2026-11-27T09:18:07.373233+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "98a490213febb9ff",
+      "author": "vistien",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vistien",
+      "posted_relative": "for 1 t siden",
+      "text": "Sannsynligheten for at noen svarer «ja» her er vel rundt 0–0,05 %, noe du sikkert er fullstendig klar over selv også. 😄",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 119,
+      "has_link": false
+    },
+    {
+      "key": "79f824510cbabbd8",
+      "author": "N00bish",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/n00bish",
+      "posted_relative": "for 1 t siden",
+      "text": "Cantor tar opp dekning med kursmål 69 ⬆️ Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        14,
+        4
+      ],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "34aa0261db1db946",
+      "author": "Benjamin Aune",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/benjamin-aune",
+      "posted_relative": "for 57 min siden",
+      "text": "· hvor så du dette?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 19,
+      "has_link": false
+    }
+  ]
 }
