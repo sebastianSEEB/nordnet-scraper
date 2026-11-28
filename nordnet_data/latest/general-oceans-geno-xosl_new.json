@@ -1,9 +1,38 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-27T19:21:28.836279+00:00",
+  "scraped_at": "2026-11-28T02:27:40.510692+00:00",
   "first_run": false,
-  "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 10,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "ed7be2565e5620d7",
+      "author": "BorseBørs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
+      "posted_relative": "for 4 t siden",
+      "text": "Ser i Finansavisen at Johan H. Andresen kjøpte aksjer for 616 mill på onsdag! :O",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        3
+      ],
+      "links": [],
+      "char_count": 80,
+      "has_link": false
+    },
+    {
+      "key": "ad112b1c440962d2",
+      "author": "luskefanten",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luskefanten",
+      "posted_relative": "for 3 t siden",
+      "text": "· Link?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 7,
+      "has_link": false
+    }
+  ]
 }

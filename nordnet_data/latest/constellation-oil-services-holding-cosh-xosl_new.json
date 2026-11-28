@@ -1,9 +1,41 @@
 {
   "slug": "constellation-oil-services-holding-cosh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/constellation-oil-services-holding-cosh-xosl",
-  "scraped_at": "2026-11-27T19:17:09.771322+00:00",
+  "scraped_at": "2026-11-28T02:23:27.360397+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "9cc6bbea20335f3d",
+      "author": "lumpo capital",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/lumpo-capital",
+      "posted_relative": "for 6 t siden",
+      "text": "· Du kanskje skulle prøve å ta dine egne investeringsbeslutninger, klarer du ikke det, så synes jeg du skal holde deg til fond 🙂 Det blir bare tåpelig at du skal skylde på andre når investeringene dine går dårlig....",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 216,
+      "has_link": false
+    },
+    {
+      "key": "7465a59259bb595b",
+      "author": "Inbestor",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/inbestor",
+      "posted_relative": "for 11 t siden · Endret",
+      "text": "satte meg på feil rigg, og anda en gang ser jeg at det ikke bare er geit å lytte på folk som legger ut, og kommer med, på hvor bra porteføljen deres går Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        3
+      ],
+      "links": [],
+      "char_count": 172,
+      "has_link": false
+    }
+  ]
 }

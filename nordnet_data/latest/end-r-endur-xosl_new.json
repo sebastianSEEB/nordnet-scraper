@@ -1,9 +1,43 @@
 {
   "slug": "end-r-endur-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/end-r-endur-xosl",
-  "scraped_at": "2026-11-27T19:18:45.621320+00:00",
+  "scraped_at": "2026-11-28T02:25:02.383855+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "4c5da53b7f071f2a",
+      "author": "Knfo",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/knfo",
+      "posted_relative": null,
+      "text": "23. nov. · Endret Endúr-datterselskap vil begjære oppbud, overfaktureringen på oppdrag for Sjøforsvaret ble spikeren i kisten for Endúr Maritime: https://newsweb.oslobors.no/message/687236",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        3
+      ],
+      "links": [
+        "https://newsweb.oslobors.no/message/687236"
+      ],
+      "char_count": 188,
+      "has_link": true
+    },
+    {
+      "key": "15a107e454bf078b",
+      "author": "VDH",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vdh",
+      "posted_relative": null,
+      "text": "23. nov. Veldig fornuftig! 👏",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 28,
+      "has_link": false
+    }
+  ]
 }

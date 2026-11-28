@@ -1,9 +1,55 @@
 {
   "slug": "frontline-fro-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/frontline-fro-xosl",
-  "scraped_at": "2026-11-27T19:14:46.487609+00:00",
+  "scraped_at": "2026-11-28T02:21:03.864984+00:00",
   "first_run": false,
-  "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 5,
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "b199fd3223767926",
+      "author": "Rebeckaa",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/rebeckaa",
+      "posted_relative": "for 4 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/11/25/8398571/rekordmange-tankskip-bytter-til-raolje",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/25/8398571/rekordmange-tankskip-bytter-til-raolje"
+      ],
+      "char_count": 92,
+      "has_link": true
+    },
+    {
+      "key": "2ccc20635f3f6d57",
+      "author": "Sasha15",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/sasha15",
+      "posted_relative": "for 5 t siden",
+      "text": "https://www.finansavisen.no/energi/2026/11/27/8399359/iran-nekter-a-apne-hormuz",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [
+        "https://www.finansavisen.no/energi/2026/11/27/8399359/iran-nekter-a-apne-hormuz"
+      ],
+      "char_count": 79,
+      "has_link": true
+    },
+    {
+      "key": "da3e64d7f83a9be4",
+      "author": "blx",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/blx",
+      "posted_relative": "for 6 t siden",
+      "text": "Hva skjedde med oljen? Ned 6.33% til 90,31$.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 44,
+      "has_link": false
+    }
+  ]
 }

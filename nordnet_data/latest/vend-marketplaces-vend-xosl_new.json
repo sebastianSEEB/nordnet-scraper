@@ -1,9 +1,26 @@
 {
   "slug": "vend-marketplaces-vend-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/vend-marketplaces-vend-xosl",
-  "scraped_at": "2026-11-27T19:16:24.178086+00:00",
+  "scraped_at": "2026-11-28T02:22:41.326083+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "7ef568ff8179436e",
+      "author": "Kronespill",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kronespill",
+      "posted_relative": null,
+      "text": "23. nov. I dag fant jeg en veteran bil jeg ønsket å kjøpe på Blocket. Det er fremdeles ikke mulig med Norsk bank id. Jeg fikk høre for 2 år siden at de jobbet med en løsning. Vend hindrer fremdeles handel mellom Norge og Sverige :-(       Blocker :                           Jag förstår att det känns frustrerande. På Blocket krävs svenskt Mobilt BankID för att skicka meddelanden och använda säkra frakt- och betaltjänster. Norskt BankID stöds inte. !!!!!!! )",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        1
+      ],
+      "links": [],
+      "char_count": 460,
+      "has_link": false
+    }
+  ]
 }

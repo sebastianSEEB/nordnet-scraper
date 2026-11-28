@@ -1,9 +1,25 @@
 {
   "slug": "solstad-offshore-soff-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/solstad-offshore-soff-xosl",
-  "scraped_at": "2026-11-27T19:15:45.859598+00:00",
+  "scraped_at": "2026-11-28T02:22:01.584268+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "98d2efd8ce35783e",
+      "author": "forum1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/forum1",
+      "posted_relative": null,
+      "text": "23. nov. Nå er det billig salg for oss som ønsket påfyll!",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 57,
+      "has_link": false
+    }
+  ]
 }

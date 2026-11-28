@@ -1,9 +1,39 @@
 {
   "slug": "norconsult-norco-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/norconsult-norco-xosl",
-  "scraped_at": "2026-11-27T19:17:24.792155+00:00",
+  "scraped_at": "2026-11-28T02:23:42.494815+00:00",
   "first_run": false,
   "total_posts_on_page": 11,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "5d6c5148a77a8a5e",
+      "author": "littlecaeser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/littlecaeser",
+      "posted_relative": "for 5 t siden",
+      "text": "En kommunikasjonsdirektør er litt piss i havet bekymringsfullt. Hadde vært mer urolig om CFO tok det steget.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 108,
+      "has_link": false
+    },
+    {
+      "key": "d1455af03e4c863b",
+      "author": "nieto",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/nieto",
+      "posted_relative": "for 13 t siden",
+      "text": "Hvem trenger shortere når man har kommunikasjonsdirektører som selger 90% av aksjene sine i en smell :-)",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        4,
+        3
+      ],
+      "links": [],
+      "char_count": 104,
+      "has_link": false
+    }
+  ]
 }
