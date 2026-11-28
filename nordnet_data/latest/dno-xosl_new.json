@@ -1,39 +1,25 @@
 {
   "slug": "dno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dno-xosl",
-  "scraped_at": "2026-11-28T02:24:43.179312+00:00",
+  "scraped_at": "2026-11-28T11:07:27.701135+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 2,
+  "total_posts_on_page": 9,
+  "new_posts_count": 1,
   "posts": [
     {
-      "key": "27d9228b4d790b08",
-      "author": "triggly",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/triggly",
+      "key": "97dcdf07fec09a5c",
+      "author": "WalkOnHotCoals",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/walkonhotcoals",
       "posted_relative": "for 1 t siden",
-      "text": "DNO og Tawke blir nevnt i rapporter om smuggling, DNO blir til og med beskyldt for å markedsføre smugglingen til lokale kjøpere. Er dette et forsøk, fra føderale myndigheter, på å få kontroll over feltet? Plutselig virker situasjonen veldig ustabil igjen. https://www.thenationalnews.com/news/mena/2026/11/25/iraqi-oil-from-kurdistan-smuggled-into-iran-and-afghanistan-government-report-reveals/ https://alhurra.com/en/54629",
+      "text": "Absolutt ustabil ja. Det brygger opp til storm; https://oilprice.com/Energy/Energy-General/Baghdad-Moves-to-Seize-Control-of-Kurdish-Oil-and-Borders.html",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [],
       "links": [
-        "https://alhurra.com/en/54629",
-        "https://www.thenationalnews.com/news/mena/2026/11/25/iraqi-oil-from-kurdistan-smuggled-into-iran-and-afghanistan-government-report-reveals/"
+        "https://oilprice.com/Energy/Energy-General/Baghdad-Moves-to-Seize-Control-of-Kurdish-Oil-and-Borders.html"
       ],
-      "char_count": 424,
+      "char_count": 153,
       "has_link": true
-    },
-    {
-      "key": "1ce2d5a338cfef03",
-      "author": "safe_heaven",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/safe_heaven",
-      "posted_relative": "for 4 t siden",
-      "text": "Da er tiden inne, mulig reversal på gang. For å ta det på fagspråket er det formen av en pregnant woman, der babyen er en doji, som befinner seg i sin helhet innenfor rammen av den foregående svarte kroppen.",
-      "reply_count": null,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 207,
-      "has_link": false
     }
   ]
 }

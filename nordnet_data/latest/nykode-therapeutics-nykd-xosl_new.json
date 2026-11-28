@@ -1,9 +1,41 @@
 {
   "slug": "nykode-therapeutics-nykd-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/nykode-therapeutics-nykd-xosl",
-  "scraped_at": "2026-11-28T02:25:55.181280+00:00",
+  "scraped_at": "2026-11-28T11:08:41.269238+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "cbf9b83b01f368b6",
+      "author": "Subterminal",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/subterminal",
+      "posted_relative": null,
+      "text": "24. nov. 23.11.2026 07:02:57 Nykode får amerikansk patent på kreftvaksinen VB10.NEO *\tNykode Therapeutics har kunngjort et nytt amerikansk patent som dekker den persontilpassede kreftvaksinen VB10.NEO og tilhørende modulært design for neoantigenbaserte DNA-vaksiner. *\tPatentet styrker selskapets portefølje av immaterielle rettigheter. Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        10,
+        5
+      ],
+      "links": [],
+      "char_count": 356,
+      "has_link": false
+    },
+    {
+      "key": "a7b0bd00ae5f02a2",
+      "author": "Oilbum",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/oilbum",
+      "posted_relative": null,
+      "text": "24. nov. Fra gårsdagen presentasjon er det spesielt viktig å merke seg Agnethe Fredriksen's kommentar rundt fremtidige partnere, som var noenlunde som her ; \"det er stor aktivitet og vi bruker mye tid på dette\". Regner med at dette er konstruktive prosesser som sannsynligvis blir konkludert om ikke altfor lenge.",
+      "reply_count": 3,
+      "is_reply": false,
+      "engagement_numbers": [
+        7
+      ],
+      "links": [],
+      "char_count": 313,
+      "has_link": false
+    }
+  ]
 }

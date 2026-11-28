@@ -1,9 +1,81 @@
 {
   "slug": "hunter-group-hunt-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/hunter-group-hunt-xoas",
-  "scraped_at": "2026-11-28T02:25:51.411639+00:00",
+  "scraped_at": "2026-11-28T11:08:37.196008+00:00",
   "first_run": false,
   "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 5,
+  "posts": [
+    {
+      "key": "a4066df9b983adf0",
+      "author": "Mr Brolin",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mr-brolin",
+      "posted_relative": "for 15 min siden",
+      "text": "· Vil ikke være djevelens advokat, men vet vi hvor mange han hadde før og hva GAV var på dem ? Aksjen har gått opp 1000% så i teorien kan han vel ha en GAV under 10nok selv etter de siste 2 kjøpsrundene ?",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 204,
+      "has_link": false
+    },
+    {
+      "key": "720a2ba9633bd017",
+      "author": "FutureInvestpr",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/futureinvestpr",
+      "posted_relative": "for 18 t siden",
+      "text": "Etter å lest saken flere ganger så får jeg mer og mer truen på at HUNT får et positivt utfall her. Dette er ren spekulasjon fra min side! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 157,
+      "has_link": false
+    },
+    {
+      "key": "87dcb2d896803330",
+      "author": "trubaduren64",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trubaduren64",
+      "posted_relative": "for 1 t siden",
+      "text": "Vanskelig å \"taime\" dette helt spot on.   Men én jævla god følelse om / hvis magefølelsen stemmer ❤️",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "ee6e273282f0b43a",
+      "author": "T8",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/t8",
+      "posted_relative": "for 52 min siden",
+      "text": "Lover bra for Mandagen, vi skal nok opp å snuse på 22 igjen.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 60,
+      "has_link": false
+    },
+    {
+      "key": "86fd0831b6c5f3ef",
+      "author": "Marbella1",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/marbella1",
+      "posted_relative": "for 5 t siden",
+      "text": "Nytt insidekjøp i Hunter på fredag.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        5
+      ],
+      "links": [],
+      "char_count": 35,
+      "has_link": false
+    }
+  ]
 }

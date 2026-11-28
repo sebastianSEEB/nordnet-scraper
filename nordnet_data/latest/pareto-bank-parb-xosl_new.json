@@ -1,9 +1,38 @@
 {
   "slug": "pareto-bank-parb-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/pareto-bank-parb-xosl",
-  "scraped_at": "2026-11-28T02:27:21.776863+00:00",
+  "scraped_at": "2026-11-28T11:10:09.210664+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "85db5d593478d4fc",
+      "author": "mfas",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/mfas",
+      "posted_relative": null,
+      "text": "24. nov. Espedal & Co / Salt Value fortsetter å selge hver dag siden 9/11 og har enda halvannen mill. aksjer igjen på lager.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 124,
+      "has_link": false
+    },
+    {
+      "key": "f21316af18265e8c",
+      "author": "BB Investments",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bb-investments",
+      "posted_relative": "for 32 min siden",
+      "text": "Om noen år. Ja, absolutt. Ihvertfall om byggebransjen kommer seg på beina at",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 76,
+      "has_link": false
+    }
+  ]
 }

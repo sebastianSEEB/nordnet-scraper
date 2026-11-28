@@ -1,9 +1,25 @@
 {
   "slug": "af-gruppen-afg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/af-gruppen-afg-xosl",
-  "scraped_at": "2026-11-28T02:26:40.853193+00:00",
+  "scraped_at": "2026-11-28T11:09:28.120297+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "ac5e82b271792a1b",
+      "author": "Kodda",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/kodda",
+      "posted_relative": "for 1 t siden",
+      "text": "AF Gruppen leverte sterke finansielle resultater for tredje kvartal, der resultat før skatt overgikk markedets forventninger betydelig. Som følge av de solide resultatene kunngjorde selskapet en utbytteutbetaling til sine aksjonærer. Analytikere reagerte positivt på rapporten, med forventninger om oppjusteringer av konsensus og en høyning av kursmålet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 354,
+      "has_link": false
+    }
+  ]
 }

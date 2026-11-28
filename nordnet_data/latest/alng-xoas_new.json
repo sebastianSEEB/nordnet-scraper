@@ -1,9 +1,25 @@
 {
   "slug": "alng-xoas",
   "url": "https://www.nordnet.no/aksjer/kurser/alng-xoas",
-  "scraped_at": "2026-11-28T02:21:23.855598+00:00",
+  "scraped_at": "2026-11-28T11:04:07.054962+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "cadad0c6f0c9d730",
+      "author": "Idk143",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/idk143",
+      "posted_relative": null,
+      "text": "24. nov. · Er det noen som vet hvorfor grafen ikke vises? I dag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 63,
+      "has_link": false
+    }
+  ]
 }

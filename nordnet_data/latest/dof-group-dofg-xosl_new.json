@@ -1,9 +1,41 @@
 {
   "slug": "dof-group-dofg-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/dof-group-dofg-xosl",
-  "scraped_at": "2026-11-28T02:23:00.470266+00:00",
+  "scraped_at": "2026-11-28T11:05:44.205358+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "b3eb63db981d64aa",
+      "author": "Johannes Invest",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/johannes-invest",
+      "posted_relative": "for 4 t siden",
+      "text": "Noen andre som fikk utbytte nå?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        8,
+        6
+      ],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    },
+    {
+      "key": "83b58cd687d7d3e1",
+      "author": "Fallingknife",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fallingknife",
+      "posted_relative": "for 1 t siden",
+      "text": "· Ja, veldig gode utbytter.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 27,
+      "has_link": false
+    }
+  ]
 }

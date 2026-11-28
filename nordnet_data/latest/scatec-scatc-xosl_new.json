@@ -1,9 +1,39 @@
 {
   "slug": "scatec-scatc-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/scatec-scatc-xosl",
-  "scraped_at": "2026-11-28T02:23:15.459580+00:00",
+  "scraped_at": "2026-11-28T11:06:00.144967+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "caae25d9319d8f8e",
+      "author": "Bullelull",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/bullelull",
+      "posted_relative": "for 1 døgn siden",
+      "text": "Oppløftende utvikling. Hva gjør shorterne nå - noen tanker? Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        2
+      ],
+      "links": [],
+      "char_count": 79,
+      "has_link": false
+    },
+    {
+      "key": "dc11c00a9e34026d",
+      "author": "beana",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/beana",
+      "posted_relative": "for 1 t siden",
+      "text": "Kommer nok for fullt til mandag",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 31,
+      "has_link": false
+    }
+  ]
 }

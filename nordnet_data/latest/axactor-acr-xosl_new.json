@@ -1,9 +1,41 @@
 {
   "slug": "axactor-acr-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/axactor-acr-xosl",
-  "scraped_at": "2026-11-28T02:27:32.903664+00:00",
+  "scraped_at": "2026-11-28T11:10:20.879324+00:00",
   "first_run": false,
-  "total_posts_on_page": 10,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 9,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "8680c1ea91dc6cd3",
+      "author": "neeskens",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/neeskens",
+      "posted_relative": "for 4 t siden",
+      "text": "Sveeas ruller aksjer for 220milioner i acr. Kost kr 4.70 pluss. Fremtiden er ikke lett å spå. Men får de til det de sier de skal nå etter re finansiering en blir dette en utbytte Maskin i JF's ånd.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 197,
+      "has_link": false
+    },
+    {
+      "key": "3e025a8ba52dc41b",
+      "author": "alex70",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/alex70",
+      "posted_relative": null,
+      "text": "24. nov. Tenker aksjen kommer sterkt tilbake så fort de melder at de har kjøpt nye porteføljer med lån til gunstige priser og resultatene beyner å formulere seg løpet av første halv år 2027",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
+        5
+      ],
+      "links": [],
+      "char_count": 189,
+      "has_link": false
+    }
+  ]
 }

@@ -1,9 +1,58 @@
 {
   "slug": "cmb0tech-nv-cmbto-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/cmb0tech-nv-cmbto-xosl",
-  "scraped_at": "2026-11-28T02:22:17.787665+00:00",
+  "scraped_at": "2026-11-28T11:05:01.600068+00:00",
   "first_run": false,
   "total_posts_on_page": 9,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 3,
+  "posts": [
+    {
+      "key": "9dec938e9b88cd44",
+      "author": "Fred1906",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/fred1906",
+      "posted_relative": null,
+      "text": "24. nov. https://www.finansavisen.no/shipping/2026/11/24/8397781/overskuddet-mer-enn-20-doblet",
+      "reply_count": 1,
+      "is_reply": false,
+      "engagement_numbers": [
+        4
+      ],
+      "links": [
+        "https://www.finansavisen.no/shipping/2026/11/24/8397781/overskuddet-mer-enn-20-doblet"
+      ],
+      "char_count": 94,
+      "has_link": true
+    },
+    {
+      "key": "d9f98c2868b8de01",
+      "author": "Vaggen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vaggen",
+      "posted_relative": null,
+      "text": "24. nov. Hvem hadde trodd at CMB nesten oppnår samme rate som Okeanis på VLCC SPOT. Er så sykt mye bedre enn noe jeg så for meg. Bare disse 4 båtene er jo pengemaskiner i Q4.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 174,
+      "has_link": false
+    },
+    {
+      "key": "7ddbd479d6175f75",
+      "author": "Optimus prime 7",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/optimus-prime-7",
+      "posted_relative": null,
+      "text": "24. nov. Enormt gode guidinger for Q4 og!! Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        7,
+        2
+      ],
+      "links": [],
+      "char_count": 62,
+      "has_link": false
+    }
+  ]
 }

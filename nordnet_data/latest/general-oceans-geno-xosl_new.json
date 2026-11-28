@@ -1,37 +1,85 @@
 {
   "slug": "general-oceans-geno-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/general-oceans-geno-xosl",
-  "scraped_at": "2026-11-28T02:27:40.510692+00:00",
+  "scraped_at": "2026-11-28T11:10:28.621427+00:00",
   "first_run": false,
   "total_posts_on_page": 10,
-  "new_posts_count": 2,
+  "new_posts_count": 5,
   "posts": [
     {
-      "key": "ed7be2565e5620d7",
-      "author": "BorseBørs",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
-      "posted_relative": "for 4 t siden",
-      "text": "Ser i Finansavisen at Johan H. Andresen kjøpte aksjer for 616 mill på onsdag! :O",
+      "key": "1ba3e4d152319568",
+      "author": "vollen",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/vollen",
+      "posted_relative": null,
+      "text": "24. nov. Atle sa også på presentasjonen \"I expect there to be a large project coming in in 2027 \".  Kunne jo ikke røpe noe mer men det er opplagt at noe er på gjerdet. Det ble jo også nevnt om amerikanske FMS midler så nye ordre kan komme raskt. En får smøre seg med litt tolmodighet så  vil nok kursen forhåpenligvis ta seg opp igjen etter hvert",
       "reply_count": null,
       "is_reply": false,
       "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 346,
+      "has_link": false
+    },
+    {
+      "key": "13691cc7d6788fcf",
+      "author": "Tinnmann",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/tinnmann",
+      "posted_relative": null,
+      "text": "24. nov. Hva skjer her da? Kan ikke finne nyheter som tilsier et fall på over 5% idag? Noen andre som vet hvorfor folk selger med tap?",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 134,
+      "has_link": false
+    },
+    {
+      "key": "5d180e3a0945da72",
+      "author": "Loser",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/loser",
+      "posted_relative": "for 24 min siden",
+      "text": "Kjøpte han? Eller er det bare en formell eierskifte av aksjer ferd har eid / vært eksponert mot hele tiden? 😁",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 109,
+      "has_link": false
+    },
+    {
+      "key": "f11c54500c557468",
+      "author": "BorseBørs",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/borsebrs",
+      "posted_relative": "for 13 t siden",
+      "text": "Ser i Finansavisen at Johan H. Andresen kjøpte aksjer for 616 mill på onsdag! :O Vis 1 kommentar til",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1,
+        4
+      ],
+      "links": [],
+      "char_count": 100,
+      "has_link": false
+    },
+    {
+      "key": "f7280386f3d396dd",
+      "author": "Gjerrigper",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/gjerrigper",
+      "posted_relative": null,
+      "text": "24. nov. Så DNB skal inn her også, melder den 10 NOK ned selv om Q4 er meldt høy",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        2,
         3
       ],
       "links": [],
       "char_count": 80,
-      "has_link": false
-    },
-    {
-      "key": "ad112b1c440962d2",
-      "author": "luskefanten",
-      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/luskefanten",
-      "posted_relative": "for 3 t siden",
-      "text": "· Link?",
-      "reply_count": 2,
-      "is_reply": false,
-      "engagement_numbers": [],
-      "links": [],
-      "char_count": 7,
       "has_link": false
     }
   ]

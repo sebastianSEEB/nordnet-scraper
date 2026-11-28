@@ -1,9 +1,40 @@
 {
   "slug": "sed-energy-holdings-enh-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sed-energy-holdings-enh-xosl",
-  "scraped_at": "2026-11-28T02:23:57.574001+00:00",
+  "scraped_at": "2026-11-28T11:06:41.634177+00:00",
   "first_run": false,
-  "total_posts_on_page": 8,
-  "new_posts_count": 0,
-  "posts": []
+  "total_posts_on_page": 7,
+  "new_posts_count": 2,
+  "posts": [
+    {
+      "key": "e422369e263bbd5f",
+      "author": "arse",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/arse",
+      "posted_relative": "for 1 t siden · Endret",
+      "text": "Hei jeg er ny aksjonær i dette selskapet  Har ikje fått lest meg helt opp ennå . Når er x dag for utbytte? Så nå at x dag var 7 desember. Et spennende selskap .",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        1
+      ],
+      "links": [],
+      "char_count": 160,
+      "has_link": false
+    },
+    {
+      "key": "8729e4949369f7ae",
+      "author": "Trebol",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/trebol",
+      "posted_relative": "for 5 t siden",
+      "text": "Innlegget er slettet.",
+      "reply_count": null,
+      "is_reply": false,
+      "engagement_numbers": [
+        12
+      ],
+      "links": [],
+      "char_count": 21,
+      "has_link": false
+    }
+  ]
 }

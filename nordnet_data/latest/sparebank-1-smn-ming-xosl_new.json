@@ -1,9 +1,23 @@
 {
   "slug": "sparebank-1-smn-ming-xosl",
   "url": "https://www.nordnet.no/aksjer/kurser/sparebank-1-smn-ming-xosl",
-  "scraped_at": "2026-11-28T02:24:13.079139+00:00",
+  "scraped_at": "2026-11-28T11:06:57.052545+00:00",
   "first_run": false,
   "total_posts_on_page": 7,
-  "new_posts_count": 0,
-  "posts": []
+  "new_posts_count": 1,
+  "posts": [
+    {
+      "key": "5d528b5fe43ecd20",
+      "author": "Errons",
+      "profile_url": "https://www.nordnet.no/aksjeforum/medlemmer/errons",
+      "posted_relative": null,
+      "text": "24. nov. Blåbær",
+      "reply_count": 2,
+      "is_reply": false,
+      "engagement_numbers": [],
+      "links": [],
+      "char_count": 15,
+      "has_link": false
+    }
+  ]
 }
